@@ -1,13 +1,13 @@
 {
-  "version": 8,
-  "totalQuestions": 2821,
+  "version": 9,
+  "totalQuestions": 2822,
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
     "questions_cdn": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/questions.json",
     "questions_raw": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/questions.json"
   },
   "topicBreakdown": {
-    "Universe, Solar System & Motions of the Earth": 115,
+    "Universe, Solar System & Motions of the Earth": 116,
     "Globe, Latitudes, Longitudes & Time": 135,
     "Maps, Scale, Projections & GIS": 23,
     "Earth's Interior, Rocks & Plate Tectonics": 277,
@@ -31,6 +31,6 @@
     "World Regional Geography": 60,
     "Bihar Geography": 2
   },
-  "updatedAt": "2026-10-11T15:03:21.208090Z",
-  "releaseNotes": "Version 8 (Publication Masterpiece Release): 100% \ud83d\udca1 RANKER'S MEMORY LOCK coverage across all 2,821 questions; complete academic rewriting of 23 flagged conversational stems into Emeritus Professor-grade rigor; purged 150 phantom placeholder images retaining only authentic bespoke diagrams; elevated distractor dissections with context-specific trap mechanics; normalized all 23 syllabus topics."
+  "updatedAt": "2026-10-11T21:55:00Z",
+  "releaseNotes": "Version 8 (Publication Masterpiece Release): 100% 💡 RANKER'S MEMORY LOCK coverage across all 2,821 questions; complete academic rewriting of 23 flagged conversational stems into Emeritus Professor-grade rigor; purged 150 phantom placeholder images retaining only authentic bespoke diagrams; elevated distractor dissections with context-specific trap mechanics; normalized all 23 syllabus topics."
 }

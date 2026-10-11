@@ -199209,5 +199209,57 @@
     "originalTopicName": "16. Geomorphology",
     "examTarget": null,
     "provenance": null
+  },
+  {
+    "id": "q_online_test_v9",
+    "stem": "Which space telescope launched by the European Space Agency (ESA) in July 2023 is primarily designed to map the geometry of the dark Universe and investigate dark energy and dark matter across cosmic time?",
+    "options": {
+      "opt_a": "Euclid Space Telescope",
+      "opt_b": "James Webb Space Telescope",
+      "opt_c": "Nancy Grace Roman Space Telescope",
+      "opt_d": "Xuntian Optical Survey Space Telescope"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Euclid space mission by ESA was launched in July 2023 to investigate the dark Universe (dark energy and dark matter) by accurately measuring the shapes and redshifts of galaxies.\n\nRANKER'S MEMORY LOCK: Euclid = ESA mission mapping cosmic dark web & geometry across 10 billion light-years.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Conflation Trap",
+        "dissection": "JWST is a NASA/ESA/CSA infrared observatory focused on early galaxy formation and exoplanets, not dedicated large-scale dark geometry mapping."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Timeline Trap",
+        "dissection": "Roman Space Telescope is a NASA mission planned for launch around 2027."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Origin Trap",
+        "dissection": "Xuntian is the Chinese survey space telescope scheduled for co-orbit with the Tiangong space station."
+      }
+    ],
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "Physical Geography",
+    "subTopic": "Cosmology & Space Observatories",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "UPSC,BPSC,SSC_CGL",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "provenance": {
+      "questionId": "q_online_test_v9",
+      "questionStem": "Which space telescope launched by the European Space Agency...",
+      "intentType": "concept_application",
+      "knowledgeNodeId": "cosmology_dark_universe_euclid",
+      "evidenceText": "ESA Euclid mission July 2023 mapping dark universe geometry",
+      "sourceFile": "Cloud-Repository-OTA-v9",
+      "createdAt": "2026-10-11T21:55:00Z",
+      "schemaVersion": "v8"
+    }
   }
 ]
