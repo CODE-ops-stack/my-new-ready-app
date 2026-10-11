@@ -1,10 +1,36 @@
 {
-  "version": 1,
+  "version": 2,
   "totalQuestions": 2821,
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
     "questions_cdn": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/questions.json",
     "questions_raw": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/questions.json"
   },
-  "updatedAt": "2026-10-11T15:23:00Z"
+  "topicBreakdown": {
+    "Universe, Solar System & Motions of the Earth": 124,
+    "Globe, Latitudes, Longitudes & Time": 135,
+    "Maps, Scale, Projections & GIS": 26,
+    "Earth's Interior, Rocks & Plate Tectonics": 277,
+    "Geomorphic Processes & Landforms": 239,
+    "Atmosphere, Winds & Climate Systems": 111,
+    "Oceanography": 295,
+    "Biogeography, Ecosystems & Biodiversity": 82,
+    "India: Location, Size & Neighbours": 87,
+    "Physiography of India": 198,
+    "Drainage System of India": 254,
+    "Indian Climate & Monsoon": 70,
+    "Soils & Natural Vegetation of India": 88,
+    "Wildlife, Protected Areas & Conservation": 82,
+    "Agriculture": 121,
+    "Water Resources, Irrigation & Dams": 48,
+    "Minerals & Energy Resources": 141,
+    "Industries": 65,
+    "Transport, Communication & Trade": 142,
+    "Population, Migration & Settlements": 120,
+    "Human Development & Economic Activities": 41,
+    "World Regional Geography": 50,
+    "Bihar Geography": 25
+  },
+  "updatedAt": "2026-10-11T12:15:13.435362Z",
+  "releaseNotes": "Version 2: Publication-grade taxonomy realignment (rebalanced Industries to 45q, World Geography to 53q), canonical NCERT answer key corrections (Bajra/Jowar, IWAI, Soybean Vertisols, Mineral districts), and spatial coordinates clarification."
 }

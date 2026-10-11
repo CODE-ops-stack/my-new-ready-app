@@ -6470,7 +6470,7 @@
       "opt_d": "Banihal Pass"
     },
     "correctAnswer": "opt_b",
-    "explanation": "Zoji La is a high mountain pass situated in the Zaskar range of the Himalayas, serving as a vital link connecting the Kashmir Valley to Drass and Leh in Ladakh.",
+    "explanation": "Zoji La is a high mountain pass situated in the Greater Himalayas (Photu La is on the Zaskar range), serving as a vital link connecting the Kashmir Valley to Drass and Leh in Ladakh.",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -7038,7 +7038,7 @@
       "opt_d": "None of the pairs"
     },
     "correctAnswer": "opt_a",
-    "explanation": "Only Pair 1 is correctly matched. Pair 2 is incorrect because the Palk Strait separates India from Sri Lanka, not the Ten Degree Channel (which separates Andaman from Nicobar). Pair 3 is incorrect because Minicoy Island is separated from the rest of the Lakshadweep group by the Nine Degree Channel (not the Eight Degree Channel). The Eight Degree Channel separates Minicoy from the Maldives.",
+    "explanation": "Pair 1 is correctly matched: Ten Degree Channel separates the Andaman Islands from the Nicobar Islands. Pair 2 is incorrectly matched: Duncan Passage separates South Andaman from Little Andaman (not Little Andaman from Car Nicobar). Pair 3 is correctly matched: Great Channel separates Great Nicobar from Sumatra (Indonesia).\n\nMEMORY LOCK: Duncan Passage = South Andaman & Little Andaman; 10 Degree Channel = Little Andaman & Car Nicobar; Great Channel = Great Nicobar & Sumatra.",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -9728,7 +9728,7 @@
   },
   {
     "id": "q_9c074fef",
-    "stem": "Assertion (A): The time difference between the southernmost point of Gujarat and the easternmost point of Arunachal Pradesh is approximately two hours.\nReason (R): The earth rotates through 360 degrees in 24 hours, meaning a longitudinal difference of 1 degree translates to a time difference of 4 minutes across a span of roughly 30 degrees longitude.",
+    "stem": "Assertion (A): The time difference between the westernmost point of Gujarat (Ghuar Mota) and the easternmost point of Arunachal Pradesh is approximately two hours.\nReason (R): The earth rotates through 360 degrees in 24 hours, meaning a longitudinal difference of 1 degree translates to a time difference of 4 minutes across a span of roughly 30 degrees longitude.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
       "opt_b": "Both A and R are true but R is not the correct explanation of A",
@@ -28640,8 +28640,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Map Practice & Spatial Visualisation",
     "tier": "Basic",
@@ -32403,8 +32403,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Map Practice & Spatial Visualisation",
     "tier": "Basic",
@@ -45609,8 +45609,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Map Practice & Spatial Visualisation",
     "tier": "Medium",
@@ -45893,8 +45893,8 @@
         "dissection": "You swapped adjacent geographical features. In Physiography of India, examiners intentionally reverse North-South or East-West alignments to test fine-grained mental map accuracy."
       }
     ],
-    "topicId": 10,
-    "topicName": "Physiography of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Map Practice & Spatial Visualisation",
     "tier": "Basic",
@@ -57963,8 +57963,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 7,
-    "topicName": "Oceanography",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Physical Geography",
     "subTopic": "Map Practice & Spatial Visualisation",
     "tier": "Hard",
@@ -58247,8 +58247,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Map Practice & Spatial Visualisation",
     "tier": "Hard",
@@ -63146,8 +63146,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 7,
-    "topicName": "Oceanography",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Physical Geography",
     "subTopic": "Map Practice & Spatial Visualisation",
     "tier": "Hard",
@@ -65063,8 +65063,8 @@
         "dissection": "This distractor is a closely related sibling concept from Geomorphic Processes & Landforms. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 5,
-    "topicName": "Geomorphic Processes & Landforms",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Physical Geography",
     "subTopic": "Current Affairs",
     "tier": "Basic",
@@ -65631,8 +65631,8 @@
         "dissection": "This distractor is a closely related sibling concept from Physiography of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 10,
-    "topicName": "Physiography of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Current Affairs",
     "tier": "Medium",
@@ -66412,8 +66412,8 @@
         "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
       }
     ],
-    "topicId": 4,
-    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "topicId": 17,
+    "topicName": "Minerals & Energy Resources",
     "section": "Physical Geography",
     "subTopic": "Current Affairs",
     "tier": "Hard",
@@ -66483,8 +66483,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Current Affairs",
     "tier": "Medium",
@@ -67903,8 +67903,8 @@
         "dissection": "This distractor is a closely related sibling concept from Earth's Interior, Rocks & Plate Tectonics. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 4,
-    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "topicId": 17,
+    "topicName": "Minerals & Energy Resources",
     "section": "Physical Geography",
     "subTopic": "Current Affairs",
     "tier": "Medium",
@@ -69110,8 +69110,8 @@
         "dissection": "This distractor is a closely related sibling concept from Oceanography. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 7,
-    "topicName": "Oceanography",
+    "topicId": 17,
+    "topicName": "Minerals & Energy Resources",
     "section": "Physical Geography",
     "subTopic": "Current Affairs",
     "tier": "Basic",
@@ -71027,8 +71027,8 @@
         "dissection": "This distractor is a closely related sibling concept from Physiography of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 10,
-    "topicName": "Physiography of India",
+    "topicId": 17,
+    "topicName": "Minerals & Energy Resources",
     "section": "Indian Geography",
     "subTopic": "Current Affairs",
     "tier": "Basic",
@@ -71169,8 +71169,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Indian Geography",
     "subTopic": "Current Affairs",
     "tier": "Basic",
@@ -74861,8 +74861,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 7,
-    "topicName": "Oceanography",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Physical Geography",
     "subTopic": "Interdisciplinary",
     "tier": "Hard",
@@ -78482,8 +78482,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 6,
-    "topicName": "Atmosphere, Winds & Climate Systems",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Physical Geography",
     "subTopic": "Interdisciplinary",
     "tier": "Hard",
@@ -83452,8 +83452,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Indian Geography",
     "subTopic": "Current Affairs",
     "tier": "Basic",
@@ -84801,8 +84801,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 17,
+    "topicName": "Minerals & Energy Resources",
     "section": "Indian Geography",
     "subTopic": "Current Affairs",
     "tier": "Medium",
@@ -87996,8 +87996,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 4,
-    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Physical Geography",
     "subTopic": "Interdisciplinary",
     "tier": "Hard",
@@ -88777,8 +88777,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Interdisciplinary",
     "tier": "Medium",
@@ -90694,8 +90694,8 @@
         "dissection": "This distractor is a closely related sibling concept from Biogeography, Ecosystems & Biodiversity. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 8,
-    "topicName": "Biogeography, Ecosystems & Biodiversity",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Physical Geography",
     "subTopic": "Interdisciplinary",
     "tier": "Medium",
@@ -91120,8 +91120,8 @@
         "dissection": "This distractor is a closely related sibling concept from Atmosphere, Winds & Climate Systems. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 6,
-    "topicName": "Atmosphere, Winds & Climate Systems",
+    "topicId": 22,
+    "topicName": "World Regional Geography",
     "section": "Physical Geography",
     "subTopic": "Interdisciplinary",
     "tier": "Medium",
@@ -96161,8 +96161,8 @@
         "dissection": "This distractor is a closely related sibling concept from Universe, Solar System & Motions of the Earth. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 1,
-    "topicName": "Universe, Solar System & Motions of the Earth",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Physical Geography",
     "subTopic": "Crop Rotation",
     "tier": "Medium",
@@ -96374,8 +96374,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Indian Geography",
     "subTopic": "Agri-business",
     "tier": "Medium",
@@ -96800,8 +96800,8 @@
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Iron and Steel Industry",
     "tier": "Hard",
@@ -96871,8 +96871,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major Industrial Regions",
     "tier": "Hard",
@@ -97013,8 +97013,8 @@
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Iron and Steel Industry",
     "tier": "Hard",
@@ -97084,8 +97084,8 @@
         "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Types of Manufacturing Industries",
     "tier": "Medium",
@@ -97155,8 +97155,8 @@
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial Pollution Control",
     "tier": "Hard",
@@ -97226,8 +97226,8 @@
         "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Iron and Steel Industry",
     "tier": "Hard",
@@ -97368,8 +97368,8 @@
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Types of Manufacturing Industries",
     "tier": "Hard",
@@ -97439,8 +97439,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Iron and Steel Industry",
     "tier": "Medium",
@@ -97581,8 +97581,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Factors of Industrial Location",
     "tier": "Medium",
@@ -97652,8 +97652,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Weber's Industrial Location Theory",
     "tier": "Medium",
@@ -97723,8 +97723,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major Industrial Regions",
     "tier": "Medium",
@@ -97794,8 +97794,8 @@
         "dissection": "In matching grids, examiners deliberately swap two pairs while keeping one pair correct to make wrong combinations seem partially familiar."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major Industrial Regions",
     "tier": "Medium",
@@ -97865,8 +97865,8 @@
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Factors of Industrial Location",
     "tier": "Hard",
@@ -97936,8 +97936,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Mineral-Based Industries",
     "tier": "Hard",
@@ -98007,8 +98007,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Textile Industry",
     "tier": "Hard",
@@ -98078,8 +98078,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Textile Industry",
     "tier": "Medium",
@@ -98149,8 +98149,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Petrochemical Industry",
     "tier": "Medium",
@@ -98291,8 +98291,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Automobile Industry",
     "tier": "Hard",
@@ -98433,8 +98433,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial Pollution Control",
     "tier": "Hard",
@@ -164960,8 +164960,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 20,
+    "topicName": "Population, Migration & Settlements",
     "section": "Indian Geography",
     "subTopic": "Evolution of Indian Towns",
     "tier": "Medium",
@@ -167445,8 +167445,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Factors affecting location of industries",
     "tier": "Hard",
@@ -167516,8 +167516,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Factors affecting location of industries",
     "tier": "Medium",
@@ -167871,8 +167871,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major industrial regions of the world",
     "tier": "Hard",
@@ -168226,8 +168226,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Factors affecting location of industries",
     "tier": "Medium",
@@ -168794,8 +168794,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major industrial regions of the world",
     "tier": "Medium",
@@ -168936,8 +168936,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Factors affecting location of industries",
     "tier": "Medium",
@@ -169078,8 +169078,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major industrial regions of the world",
     "tier": "Medium",
@@ -172344,8 +172344,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 19,
-    "topicName": "Transport, Communication & Trade",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Waterways",
     "tier": "Hard",
@@ -173338,8 +173338,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major Industrial Regions",
     "tier": "Medium",
@@ -174190,8 +174190,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industries: Locational Factors",
     "tier": "Medium",
@@ -174403,8 +174403,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industries: Locational Factors",
     "tier": "Medium",
@@ -174545,8 +174545,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Gujarat Industrial Region",
     "tier": "Medium",
@@ -174616,8 +174616,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial Geography",
     "tier": "Medium",
@@ -174829,8 +174829,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Gujarat Industrial Region",
     "tier": "Medium",
@@ -174900,8 +174900,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 17,
+    "topicName": "Minerals & Energy Resources",
     "section": "Indian Geography",
     "subTopic": "Resource Geography",
     "tier": "Medium",
@@ -174971,8 +174971,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial Geography",
     "tier": "Medium",
@@ -175610,8 +175610,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industries: Locational Factors",
     "tier": "Medium",
@@ -175752,8 +175752,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industries: Locational Factors",
     "tier": "Medium",
@@ -175823,8 +175823,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Hugli Industrial Region",
     "tier": "Medium",
@@ -175894,8 +175894,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Chotanagpur Industrial Region",
     "tier": "Medium",
@@ -175965,8 +175965,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major Industrial Regions",
     "tier": "Medium",
@@ -176036,8 +176036,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Mumbai-Pune Region",
     "tier": "Basic",
@@ -176107,8 +176107,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "NCR Industrial Region",
     "tier": "Medium",
@@ -176320,8 +176320,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Major Industrial Regions",
     "tier": "Medium",
@@ -176604,8 +176604,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial Geography",
     "tier": "Medium",
@@ -177385,8 +177385,8 @@
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       }
     ],
-    "topicId": 23,
-    "topicName": "Bihar Geography",
+    "topicId": 20,
+    "topicName": "Population, Migration & Settlements",
     "section": "Indian Geography",
     "subTopic": "Classification of Towns",
     "tier": "Hard",
@@ -177527,8 +177527,8 @@
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 20,
+    "topicName": "Population, Migration & Settlements",
     "section": "Indian Geography",
     "subTopic": "Classification of Towns",
     "tier": "Hard",
@@ -178095,8 +178095,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 22,
-    "topicName": "World Regional Geography",
+    "topicId": 20,
+    "topicName": "Population, Migration & Settlements",
     "section": "World Geography",
     "subTopic": "Functional classification of Indian towns",
     "tier": "Medium",
@@ -179373,8 +179373,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Indian Geography",
     "subTopic": "Land Resources and Land Use Patterns",
     "tier": "Medium",
@@ -179870,8 +179870,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 1,
-    "topicName": "Universe, Solar System & Motions of the Earth",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Physical Geography",
     "subTopic": "Green Revolution",
     "tier": "Hard",
@@ -180438,8 +180438,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 9,
-    "topicName": "India: Location, Size & Neighbours",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Indian Geography",
     "subTopic": "Land Resources and Land Use Patterns",
     "tier": "Hard",
@@ -182284,8 +182284,8 @@
         "dissection": "This distractor is a closely related sibling concept from Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 3,
-    "topicName": "Maps, Scale, Projections & GIS",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Physical Geography",
     "subTopic": "Land Resources and Land Use Patterns",
     "tier": "Medium",
@@ -182426,8 +182426,8 @@
         "dissection": "This distractor is a closely related sibling concept from Physiography of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 10,
-    "topicName": "Physiography of India",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Indian Geography",
     "subTopic": "Land Resources and Land Use Patterns",
     "tier": "Medium",
@@ -182568,8 +182568,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 15,
+    "topicName": "Agriculture",
     "section": "Indian Geography",
     "subTopic": "Land Resources and Land Use Patterns",
     "tier": "Medium",
@@ -182621,7 +182621,7 @@
       "opt_d": "None"
     },
     "correctAnswer": "opt_b",
-    "explanation": "Bajra grows well on sandy soils and shallow black soil, making it well-suited for arid and semi-arid tracts. Ragi is a crop of dry regions and is grown on red, black, sandy, loamy, and shallow upland soils, not exclusively in alluvial floodplains with high water demand. Jowar is a rainfed crop mostly grown in moist areas that hardly needs irrigation, but pair 2 is incorrect. Thus, only one pair (Pair 1) is correctly matched.",
+    "explanation": "Pair 1 is correctly matched: Bajra grows well on sandy soils and shallow black soil. Rajasthan is the largest producer. Pair 2 is incorrectly matched: Ragi is a crop of dry regions and grows well on red, black, sandy, loamy and shallow black soils (not high-water alluvial soils). Pair 3 is correctly matched: Jowar is a rain-fed crop mostly grown in moist areas which hardly needs irrigation. Maharashtra is the largest producer. Therefore, exactly two pairs (Pairs 1 and 3) are correctly matched as per NCERT Class 10 Chapter 4.\n\nMEMORY LOCK: Bajra = sandy/shallow black; Jowar = rainfed moist areas needing little irrigation; Ragi = dry zone red/sandy/black soils.",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -184698,8 +184698,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 17,
-    "topicName": "Minerals & Energy Resources",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
     "section": "Indian Geography",
     "subTopic": "Golden Quadrilateral",
     "tier": "Medium",
@@ -185266,8 +185266,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 17,
-    "topicName": "Minerals & Energy Resources",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
     "section": "Indian Geography",
     "subTopic": "Golden Quadrilateral",
     "tier": "Medium",
@@ -186234,7 +186234,7 @@
   },
   {
     "id": "q_6c238fc2",
-    "stem": "With reference to the Inland Waterways Authority of India (IWAI), consider the following statements:\n1. IWAI is statutory body established by an Act of Parliament for the development and regulation of inland waterways for shipping and navigation.\n2. The authority primarily focuses on National Waterways and does not extend its mandate to state-level waterways.\nHow many of the above statements are correct?",
+    "stem": "Consider the following statements regarding the Inland Waterways Authority of India (IWAI):\n1. It is a statutory body constituted under an Act of Parliament for the development and regulation of inland waterways.\n2. IWAI primarily focuses on infrastructure on declared National Waterways, while non-nationalized waterways remain within state jurisdictions.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
       "opt_b": "2 only",
@@ -186242,7 +186242,7 @@
       "opt_d": "Neither 1 nor 2"
     },
     "correctAnswer": "opt_c",
-    "explanation": "IWAI was set up under the Inland Waterways Authority of India Act, 1985, as a statutory body for the development and regulation of inland waterways for shipping and navigation. However, it specifically manages and develops National Waterways declared by the Central Government, while other internal water bodies fall under state jurisdiction.",
+    "explanation": "Statement 1 is correct: The Inland Waterways Authority of India (IWAI) came into existence on 27 October 1986 under the Inland Waterways Authority of India Act, 1985, as a statutory body under the Ministry of Ports, Shipping and Waterways.\nStatement 2 is correct: Under Entry 24 of the Union List (Seventh Schedule), the Union regulates only those inland waterways declared by Parliament as National Waterways. IWAI's mandate is focused on National Waterways; navigation on non-declared rivers/canals falls within state jurisdiction.\n\nMEMORY LOCK: IWAI is a statutory body (1985 Act) whose operational mandate is strictly confined to Parliament-declared National Waterways.",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -186473,8 +186473,8 @@
         "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
       }
     ],
-    "topicId": 17,
-    "topicName": "Minerals & Energy Resources",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Non-Ferrous Minerals - Bauxite",
     "tier": "Medium",
@@ -187512,7 +187512,7 @@
   },
   {
     "id": "q_c467b63c",
-    "stem": "Consider the following pairs of non-ferrous mineral occurrences and their primary states:\n1. Balaghat : Manganese and Copper\n2. Koraput : Bauxite\n3. Jhunjhunu : Copper\nHow many of the above pairs are correctly matched?",
+    "stem": "Consider the following pairs of mineral mining districts and their primary minerals:\n1. Balaghat : Manganese and Copper\n2. Koraput : Bauxite\n3. Jhunjhunu : Copper\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
       "opt_b": "Only two pairs",
@@ -187520,7 +187520,7 @@
       "opt_d": "None of the pairs"
     },
     "correctAnswer": "opt_c",
-    "explanation": "Pair 1 is correct: Balaghat in Madhya Pradesh is renowned for both manganese and copper (Malanjkhand). Pair 2 is correct: Koraput in Odisha is famous for its large bauxite reserves. Pair 3 is correct: Jhunjhunu in Rajasthan hosts the Khetri copper belt.",
+    "explanation": "All three pairs are correctly matched:\nPair 1 is correctly matched: Balaghat district in Madhya Pradesh is famous for both Manganese (Bharveli mine) and Copper (Malanjkhand open-cast mine).\nPair 2 is correctly matched: Koraput district (Panchpatmali hills) in Odisha hosts India's largest bauxite deposits, feeding NALCO's refinery at Damanjodi.\nPair 3 is correctly matched: Jhunjhunu district (Khetri copper belt) in Rajasthan is renowned for historic and active copper mining.\n\nMEMORY LOCK: Balaghat = MP (Manganese + Malanjkhand Copper); Koraput = Odisha (Panchpatmali Bauxite); Jhunjhunu = Rajasthan (Khetri Copper).",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -188009,15 +188009,15 @@
   },
   {
     "id": "q_c8e13131",
-    "stem": "Consider the following pairs of non-ferrous mineral belts and their primary associated regions:\n1. Balaghat belt: Copper and Manganese\n2. Koraput-Bargarh belt: Bauxite\n3. Hazaribagh belt: Mica and Uranium\nHow many of the above pairs are correctly matched?",
+    "stem": "Consider the following pairs of oilseed crops and their geographical conditions:\n1. Groundnut : A kharif crop accounting for about half of major oilseeds, thriving in Gujarat\n2. Mustard : A rabi crop sensitive to frost, primarily grown in northern and western India\n3. Soyabean : Cultivated extensively on well-drained loams and black cotton soils (Vertisols), with Madhya Pradesh as the leading producer\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
       "opt_c": "All three",
       "opt_d": "None"
     },
-    "correctAnswer": "opt_a",
-    "explanation": "Pair 1 is correct: Balaghat in Madhya Pradesh is famous for significant reserves of both copper and manganese. Pair 2 is incorrect: Koraput is a major bauxite belt in Odisha, but Bargarh is not primarily a bauxite-producing region in that context. Pair 3 is correct: The Hazaribagh belt in Jharkhand is renowned for mica and uranium deposits (such as Jaduguda nearby).",
+    "correctAnswer": "opt_c",
+    "explanation": "All three pairs are correctly matched:\nPair 1 is correctly matched: Groundnut is a kharif crop and accounts for about half of the total major oilseeds produced in the country. Gujarat is the largest producer.\nPair 2 is correctly matched: Mustard is a rabi crop, highly sensitive to frost, with Rajasthan, Haryana, and MP as leading growers.\nPair 3 is correctly matched: Soybean is grown extensively on well-drained loamy and fertile black soils (Vertisols) of the Malwa plateau, with Madhya Pradesh being the leading producer (often termed the 'Soya State'). Note that soybean does not require acidic soils, as high acidity inhibits rhizobial nodulation.\n\nMEMORY LOCK: Groundnut (Gujarat, kharif), Mustard (Rabi, frost sensitive), Soybean (MP, Vertisols/loams).",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -191940,8 +191940,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial regions of India",
     "tier": "Medium",
@@ -192437,8 +192437,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Cotton textile industry",
     "tier": "Hard",
@@ -192579,8 +192579,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial regions of India",
     "tier": "Medium",
@@ -193005,8 +193005,8 @@
         "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial regions of India",
     "tier": "Hard",
@@ -193218,8 +193218,8 @@
         "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
       }
     ],
-    "topicId": 9,
-    "topicName": "India: Location, Size & Neighbours",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Locational factors",
     "tier": "Medium",
@@ -193360,8 +193360,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 18,
+    "topicName": "Industries",
     "section": "Indian Geography",
     "subTopic": "Industrial regions of India",
     "tier": "Medium",
@@ -196768,8 +196768,8 @@
         "dissection": "This distractor is a closely related sibling concept from Drainage System of India. The examiner tests whether you can distinguish the exact defining boundary condition from adjacent phenomena."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
     "section": "Indian Geography",
     "subTopic": "Hinterland Concept",
     "tier": "Medium",
@@ -196981,8 +196981,8 @@
         "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
       }
     ],
-    "topicId": 11,
-    "topicName": "Drainage System of India",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
     "section": "Indian Geography",
     "subTopic": "Hinterland Concept",
     "tier": "Hard",
