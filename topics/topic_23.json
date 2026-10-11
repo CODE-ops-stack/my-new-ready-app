@@ -1,0 +1,144 @@
+[
+  {
+    "id": "q_pred4_J0K1L2",
+    "stem": "Consider the following pairs of newly designated Ramsar Sites and their locations:\n1. Nagi Bird Sanctuary : Bihar\n2. Nakti Bird Sanctuary : Bihar\n3. Nandur Madhameshwar : Maharashtra\n4. Yashwant Sagar : Madhya Pradesh\n\nHow many pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched. Nagi and Nakti Bird Sanctuaries in Bihar were recently recognized for their importance to migratory birds in the Jamui district.\n\n💡 RANKER'S MEMORY LOCK: Bihar Geography → All four pairs are correctly matched.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      }
+    ],
+    "topicId": 23,
+    "topicName": "Bihar Geography",
+    "section": "Indian Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": null,
+    "provenance": {
+      "questionId": "q_pred4_J0K1L2",
+      "questionStem": "Consider the following pairs of newly designated Ramsar Sites and their locations: 1. Nagi Bird Sanctuary : Bihar 2. Nakti Bird Sanctuary : Bihar 3. Nandur Madhameshwar : Maharashtra 4. Yashwant Sagar : Madhya Pradesh How many pairs given above are correctly matched?",
+      "intentType": "spatial_reasoning",
+      "knowledgeNodeId": "node-q_pred4_J0K1L2",
+      "evidenceText": "All four pairs are correctly matched. Nagi and Nakti Bird Sanctuaries in Bihar were recently recognized for their importance to migratory birds in the Jamui district.\n\n🎯 EXAMINER TRAP: Candidates often forget that Telangana is NOT crossed by the 82.5°E meridian (it passes through AP). Also, Tropic of Cancer and IST intersect at Koriya/Surajpur in Chhattisgarh.\n🧠 MEMORY LOCK: 'UP-MP-COA' (Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh).",
+      "sourceFile": "map_atlas_pyq.txt",
+      "sourceLocation": {
+        "sourceId": "map_atlas_pyq.txt",
+        "sentence_count": 1,
+        "section_heading": "Map Practice & Spatial Visualisation",
+        "concept": "Spatial Geography",
+        "sentence_idx": 0,
+        "block_id": "block-map",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_curr7_2b3c4d",
+    "stem": "The 'Marcha Rice', known for its aroma and palatability, recently earned a GI tag. It is traditionally cultivated in which of the following regions?",
+    "options": {
+      "opt_a": "West Champaran region of Bihar",
+      "opt_b": "Koraput region of Odisha",
+      "opt_c": "Kangra valley of Himachal Pradesh",
+      "opt_d": "Brahmaputra valley of Assam"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Marcha Rice (Mircha Rice) is a traditionally cultivated indigenous rice variety of the West Champaran district of Bihar. It is known for its distinct aroma, palatability, and characteristics resembling black pepper (Mircha).\n\n💡 RANKER'S MEMORY LOCK: Bihar Geography → Marcha Rice (Mircha Rice) is a traditionally cultivated indigenous rice variety of the West Champaran district of Bihar.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Koraput region of Odisha' is a closely related sibling concept in Bihar Geography. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Kangra valley of Himachal Pradesh' is a closely related sibling concept in Bihar Geography. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Brahmaputra valley of Assam' is a closely related sibling concept in Bihar Geography. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 23,
+    "topicName": "Bihar Geography",
+    "section": "Indian Geography",
+    "subTopic": "Current Affairs",
+    "tier": "Basic",
+    "level": "Basic",
+    "difficulty_level": 1,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 22,
+    "originalTopicName": "Current Affairs",
+    "examTarget": null,
+    "provenance": {
+      "questionId": "q_curr7_2b3c4d",
+      "questionStem": "The 'Marcha Rice', known for its aroma and palatability, recently earned a GI tag. It is traditionally cultivated in which of the following regions?",
+      "intentType": "spatial_reasoning",
+      "knowledgeNodeId": "node-q_curr7_2b3c4d",
+      "evidenceText": "Marcha Rice (Mircha Rice) is a traditionally cultivated indigenous rice variety of the West Champaran district of Bihar. It is known for its distinct aroma, palatability, and characteristics resembling black pepper (Mircha).",
+      "sourceFile": "map_atlas_pyq.txt",
+      "sourceLocation": {
+        "sourceId": "map_atlas_pyq.txt",
+        "sentence_count": 1,
+        "section_heading": "Map Practice & Spatial Visualisation",
+        "concept": "Spatial Geography",
+        "sentence_idx": 0,
+        "block_id": "block-map",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  }
+]

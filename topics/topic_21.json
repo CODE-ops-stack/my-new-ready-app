@@ -1,0 +1,3055 @@
+[
+  {
+    "id": "q_73578962",
+    "stem": "Consider the following statements regarding primary activities:\n1. Gathering and hunting are the oldest economic activities known, carried out in regions with extreme climatic conditions.\n2. Nomadic herding is experiencing a steady spatial expansion globally due to favorable government policies and international open-border agreements.\n3. Mining as a primary activity depends on two main factors: physical (mineral deposit size, grade, and mode of occurrence) and economic (demand, technology, and labor).\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is correct: Gathering and hunting are ancient activities practiced in harsh environments like high latitudes and tropical deserts. Statement 2 is incorrect: Nomadic herding is actually contracting globally due to the imposition of political boundaries and government-led settlement programs. Statement 3 is correct: Mining viability is determined by both physical conditions (geology) and economic conditions (technology, capital, and market demand).\n\n💡 RANKER'S MEMORY LOCK: primary activities → Gathering and hunting are ancient activities practiced in harsh environments like high latitudes and tropical deserts.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Overview of Primary Activities (Hunting, Gathering, Mining)",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 24,
+    "originalTopicName": "Overview of Primary Activities (Hunting, Gathering, Mining)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_73578962",
+      "questionStem": "Consider the following statements regarding primary activities:\n1. Gathering and hunting are the oldest economic activities known, carried out in regions with extreme climatic conditions.\n2. Nomadic herding is experiencing a steady spatial expansion globally due to favorable government policies and international open-border agreements.\n3. Mining as a primary activity depends on two main factors: physical (mineral deposit size, grade, and mode of occurrence) and economic (demand, technology, and labor).\nHow many of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_fdc2f26d",
+    "stem": "Which of the following characteristics distinguishes 'Subsistence Agriculture' from 'Commercial Agriculture'?",
+    "options": {
+      "opt_a": "Level of mechanization and farm size are the only distinguishing metrics",
+      "opt_b": "Production is primarily consumed by the farmer's household with little surplus traded",
+      "opt_c": "Absence of any form of crop cultivation or animal rearing",
+      "opt_d": "Mandatory use of Genetically Modified seeds regulated by international agencies"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Subsistence agriculture is characterized by farm output consumed largely by the local family or community, leaving little surplus for regional or international markets. Commercial farming, by contrast, is driven by profit margins and market demand.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Subsistence agriculture is characterized by farm output consumed largely by the local family or community, leaving little surplus for reg....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Level of mechanization and farm size are the only distinguishing metrics' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Absence of any form of crop cultivation or animal rearing' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Mandatory use of Genetically Modified seeds regulated by international agencies' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Primary Activities Overview",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 24,
+    "originalTopicName": "Primary Activities Overview",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_fdc2f26d",
+      "questionStem": "Which of the following characteristics distinguishes 'Subsistence Agriculture' from 'Commercial Agriculture'?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_af64b0cc",
+    "stem": "Consider the following statements regarding the quaternary and quinary activities:\n1. Quaternary activities involve the collection, production, and dissemination of information, often associated with the Knowledge Sector.\n2. Quinary activities represent a separate subdivision of the tertiary sector that focuses on the creation, rearrangement, and evaluation of new and existing ideas.\n3. Research and Development (R&D) and Information Technology (IT) fall exclusively under quinary activities due to their high intellectual requirement.\n\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is correct: Quaternary activities center on research, development, and information processing. Statement 2 is correct: Quinary activities represent the highest level of decision-making and policy formulation, focusing on creating and evaluating ideas. Statement 3 is incorrect because while R&D can span both, standard IT services and routine software development are typically classified as quaternary, not quinary. Moreover, the word 'exclusively' is a distractor as activities often overlap based on the level of decision-making involved.\n\n💡 RANKER'S MEMORY LOCK: the quaternary and quinary activities → Statement 3 is incorrect because while R&D can span both, standard IT services and routine software development are typically classified ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Quaternary and Quinary Activities",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 26,
+    "originalTopicName": "Quaternary and Quinary Activities",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_af64b0cc",
+      "questionStem": "Consider the following statements regarding the quaternary and quinary activities:\n1. Quaternary activities involve the collection, production, and dissemination of information, often associated with the Knowledge Sector.\n2. Quinary activities represent a separate subdivision of the tertiary sector that focuses on the creation, rearrangement, and evaluation of new and existing ideas.\n3. Research and Development (R&D) and Information Technology (IT) fall exclusively under quinary activities due to their high intellectual requirement.\n\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_8e5579c2",
+    "stem": "Statement-I: Knowledge Process Outsourcing (KPO) differs from Business Process Outsourcing (BPO) primarily by involving information-driven business operations that require advanced analytical skills and specialized expertise.\nStatement-II: BPO operations typically handle lower-end routine transactional tasks such as customer care centers and basic payroll processing.",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Both statements are correct. KPO involves knowledge-intensive tasks like intellectual property research, legal services, and data analytics, requiring advanced domain knowledge. BPO focuses on standardized, high-volume transactional services. While both describe the outsourcing industry accurately, Statement-II defines BPO rather than directly explaining why KPO requires advanced analytical skills.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → While both describe the outsourcing industry accurately, Statement-II defines BPO rather than directly explaining why KPO requires advanc....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Outsourcing, BPO and KPO",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 26,
+    "originalTopicName": "Outsourcing, BPO and KPO",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_8e5579c2",
+      "questionStem": "Statement-I: Knowledge Process Outsourcing (KPO) differs from Business Process Outsourcing (BPO) primarily by involving information-driven business operations that require advanced analytical skills and specialized expertise.\nStatement-II: BPO operations typically handle lower-end routine transactional tasks such as customer care centers and basic payroll processing.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_02e07522",
+    "stem": "Which of the following is NOT a characteristic feature of the quaternary sector of the economy?",
+    "options": {
+      "opt_a": "High reliance on specialized knowledge and technical skills",
+      "opt_b": "Location dependent primarily on proximity to raw material deposits and heavy power grids",
+      "opt_c": "Strong integration with information and communication technology infrastructure",
+      "opt_d": "Involvement in software development, financial planning, and consultancy services"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Option (b) is the correct answer because quaternary activities are footloose industries; they do not depend on physical proximity to raw materials or heavy power sources. Instead, they rely on telecommunications networks, skilled human capital, and connectivity. Options (a), (c), and (d) correctly describe the attributes of the quaternary sector.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Option (b) is the correct answer because quaternary activities are footloose industries; they do not depend on physical proximity to raw ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'High reliance on specialized knowledge and technical skills' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Strong integration with information and communication technology infrastructure' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Involvement in software development, financial planning, and consultancy services' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Quaternary Activities",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 26,
+    "originalTopicName": "Quaternary Activities",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_02e07522",
+      "questionStem": "Which of the following is NOT a characteristic feature of the quaternary sector of the economy?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_5442770b",
+    "stem": "With reference to the service sector in modern economies, consider the following categories:\n1. Producer services (e.g., legal, accounting, advertising)\n2. Consumer services (e.g., entertainment, personal care, retail)\n3. Government services (e.g., public administration, defense)\n\nWhich of the above are generally classified under tertiary economic activities?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three categories form the bedrock of the tertiary sector. Producer services cater to businesses to improve efficiency; consumer services are directed at end-users for personal utility; and government services encompass public administration, defense, and social welfare provisions.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → All three categories form the bedrock of the tertiary sector.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 and 2 only' assumes the inverted property is correct. In Human Development & Economic Activities, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Services Sector",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 26,
+    "originalTopicName": "Services Sector",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_5442770b",
+      "questionStem": "With reference to the service sector in modern economies, consider the following categories:\n1. Producer services (e.g., legal, accounting, advertising)\n2. Consumer services (e.g., entertainment, personal care, retail)\n3. Government services (e.g., public administration, defense)\n\nWhich of the above are generally classified under tertiary economic activities?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_345be95b",
+    "stem": "Statement-I: Quinary activities involve 'gold collar' professions whose outputs represent high-value policy decisions and strategic planning.\nStatement-II: The concentration of quinary activities is typically highest in global command centers and metropolitan financial capitals.",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Both statements are correct. Statement-I correctly identifies quinary workers as top-tier decision-makers ('gold collar' professionals). Statement-II correctly notes that these activities cluster in global cities (like New York, London, Tokyo) due to the infrastructure needed for high-level governance and corporate leadership. However, Statement-II describes their geographical clustering rather than explaining why they are classified as gold collar professions.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → However, Statement-II describes their geographical clustering rather than explaining why they are classified as gold collar professions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Quinary Activities",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 26,
+    "originalTopicName": "Quinary Activities",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_345be95b",
+      "questionStem": "Statement-I: Quinary activities involve 'gold collar' professions whose outputs represent high-value policy decisions and strategic planning.\nStatement-II: The concentration of quinary activities is typically highest in global command centers and metropolitan financial capitals.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_d41dc93d",
+    "stem": "Which of the following factors has been the most significant driver for the rapid growth of the global outsourcing industry in developing countries like India?",
+    "options": {
+      "opt_a": "Abundant availability of cheap manual labor for heavy manufacturing plants",
+      "opt_b": "Large pool of English-fluent, technically skilled graduates combined with favorable time-zone advantages",
+      "opt_c": "Government mandates requiring foreign multinational corporations to divest local assets",
+      "opt_d": "Strict tariff barriers imposed on international digital data transmission"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Option (b) is correct. The success of outsourcing hubs in nations like India rests on demographic dividends, high technical education enrollment, English proficiency, and favorable time-zone differentials that enable 24/7 operational cycles. Option (a) refers to manufacturing rather than service outsourcing. Options (c) and (d) run contrary to the liberalized framework required for global outsourcing.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Option (a) refers to manufacturing rather than service outsourcing.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Abundant availability of cheap manual labor for heavy manufacturing plants' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Government mandates requiring foreign multinational corporations to divest local assets' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Strict tariff barriers imposed on international digital data transmission' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Outsourcing and Global Services",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 26,
+    "originalTopicName": "Outsourcing and Global Services",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_d41dc93d",
+      "questionStem": "Which of the following factors has been the most significant driver for the rapid growth of the global outsourcing industry in developing countries like India?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_71f85a9a",
+    "stem": "Consider the following statements regarding Sustainable Development Goals (SDGs):\n1. The SDGs are a collection of 17 interlinked global goals designed to be a 'blueprint to achieve a better and more sustainable future for all' by the year 2030.\n2. The SDG framework legally binds member states of the United Nations to achieve all targets through domestic legislation.\n3. Goal 12 of the SDGs specifically addresses sustainable consumption and production patterns.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is correct as SDGs consist of 17 goals set for the year 2030 by the UN General Assembly. Statement 2 is incorrect because SDGs are not legally binding; nations develop their own national policies to achieve them voluntarily. Statement 3 is correct as Goal 12 focuses on responsible consumption and production.\n\n💡 RANKER'S MEMORY LOCK: Sustainable Development Goals (SDGs) → SDGs are not legally binding; nations develop their own national policies to achieve them voluntarily.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Sustainable Development Goals",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 45,
+    "originalTopicName": "Sustainable Development Goals (SDGs)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_71f85a9a",
+      "questionStem": "Consider the following statements regarding Sustainable Development Goals (SDGs):\n1. The SDGs are a collection of 17 interlinked global goals designed to be a 'blueprint to achieve a better and more sustainable future for all' by the year 2030.\n2. The SDG framework legally binds member states of the United Nations to achieve all targets through domestic legislation.\n3. Goal 12 of the SDGs specifically addresses sustainable consumption and production patterns.\nHow many of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_x_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_env.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_bcfad0b9",
+    "stem": "Consider the following statements regarding the Rio de Janeiro Earth Summit (1992):\n1. It was convened to address urgent problems of environmental protection and socio-economic development.\n2. The assembled leaders signed the Declaration on Global Climatic Change and Biological Diversity.\n3. It adopted Agenda 21 for achieving Sustainable Development in the 21st century.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is correct as the UN Conference on Environment and Development (Earth Summit) in Rio de Janeiro addressed environment and development issues. Statement 2 is incorrect because leaders signed the Global Forest Principles and adopted Conventions on Biological Diversity and Climate Change (UNFCCC), not a 'Declaration on Global Climatic Change'. Statement 3 is correct as Agenda 21 was adopted as the blueprint for sustainable development.\n\n💡 RANKER'S MEMORY LOCK: the Rio de Janeiro Earth Summit (1992) → Leaders signed the Global Forest Principles and adopted Conventions on Biological Diversity and Climate Change (UNFCCC), not a 'Declarati....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Global Environmental Governance & Summits",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 45,
+    "originalTopicName": "Sustainable Development",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_bcfad0b9",
+      "questionStem": "Consider the following statements regarding the Rio de Janeiro Earth Summit (1992):\n1. It was convened to address urgent problems of environmental protection and socio-economic development.\n2. The assembled leaders signed the Declaration on Global Climatic Change and Biological Diversity.\n3. It adopted Agenda 21 for achieving Sustainable Development in the 21st century.\nHow many of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_x_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_env.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_1fb95b1f",
+    "stem": "Consider the following statements regarding the global geography of Medical Tourism:\n1. Developing countries gain foreign exchange earnings and stimulate infrastructure development in private healthcare through medical tourism.\n2. Medical tourism is exclusively limited to elective cosmetic procedures and excludes complex organ transplants or cardiac surgeries.\n3. Destination countries often develop specialized medical clusters near international transit hubs to cater to incoming patients.\n\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Medical tourism generates significant foreign exchange and encourages infrastructural modernization in the healthcare sector. It encompasses complex procedures including cardiac bypasses, joint replacements, and organ transplants, not just cosmetic surgery. Specialized medical clusters frequently emerge near major airports to facilitate international travel for patients.\n\n💡 RANKER'S MEMORY LOCK: the global geography of Medical Tourism → It encompasses complex procedures including cardiac bypasses, joint replacements, and organ transplants, not just cosmetic surgery.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 and 2 only' assumes the inverted property is correct. In Human Development & Economic Activities, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Tertiary Activities: Medical Tourism",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Tertiary Activities: Medical Tourism",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_1fb95b1f",
+      "questionStem": "Consider the following statements regarding the global geography of Medical Tourism:\n1. Developing countries gain foreign exchange earnings and stimulate infrastructure development in private healthcare through medical tourism.\n2. Medical tourism is exclusively limited to elective cosmetic procedures and excludes complex organ transplants or cardiac surgeries.\n3. Destination countries often develop specialized medical clusters near international transit hubs to cater to incoming patients.\n\nWhich of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_a42cc328",
+    "stem": "Consider the following statements regarding Knowledge Processing Outsourcing (KPO) and Business Process Outsourcing (BPO):\n1. KPO involves information-driven knowledge processes that require advanced analytical skills and expertise.\n2. BPO operations are typically restricted to routine clerical tasks and cannot involve customer interaction.\n3. India has emerged as a global hub for KPO due to a large pool of highly qualified professionals including lawyers, chartered accountants, and engineers.\n\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "KPO is distinct from routine BPO as it involves high-end intellectual processes such as research and development, legal services, intellectual property research, and financial consultancy. BPO involves both back-office functions and front-office customer interaction (such as call centers). India's abundant English-speaking professional workforce has provided a comparative advantage in the KPO sector.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → KPO is distinct from routine BPO as it involves high-end intellectual processes such as research and development, legal services, intelle....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 and 2 only' assumes the inverted property is correct. In Human Development & Economic Activities, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Tertiary Activities: Outsourcing (BPO vs KPO)",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Tertiary Activities: Outsourcing (BPO vs KPO)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_a42cc328",
+      "questionStem": "Consider the following statements regarding Knowledge Processing Outsourcing (KPO) and Business Process Outsourcing (BPO):\n1. KPO involves information-driven knowledge processes that require advanced analytical skills and expertise.\n2. BPO operations are typically restricted to routine clerical tasks and cannot involve customer interaction.\n3. India has emerged as a global hub for KPO due to a large pool of highly qualified professionals including lawyers, chartered accountants, and engineers.\n\nWhich of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_07b40aac",
+    "stem": "Consider the following activities:\n1. Research and Development (R&D)\n2. Policy formulation by government cabinet ministers\n3. Information generation and ICT services\n4. Corporate executive decision-making\n\nHow many of the above belong strictly to the Quaternary sector rather than the Quinary sector?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Quaternary activities center on research, development, information generation, and ICT. Among the given options, R&D and information generation/ICT services belong to the quaternary sector. Policy formulation and corporate executive decision-making represent the highest levels of decision-making and policy implementation, which are classified under the quinary sector.\n\n💡 RANKER'S MEMORY LOCK: activities → Quaternary activities center on research, development, information generation, and ICT.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Quaternary vs Quinary Sector",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Quaternary vs Quinary Sector",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_07b40aac",
+      "questionStem": "Consider the following activities:\n1. Research and Development (R&D)\n2. Policy formulation by government cabinet ministers\n3. Information generation and ICT services\n4. Corporate executive decision-making\n\nHow many of the above belong strictly to the Quaternary sector rather than the Quinary sector?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_53b6087d",
+    "stem": "Consider the following pairs of economic roles and their sector classification:\n1. Senior corporate executive deciding corporate mergers: Quinary sector\n2. University professor conducting basic scientific research: Quaternary sector\n3. Retail pharmacist selling prescription medicines: Primary sector\n\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Senior executives engaged in high-level strategic decision-making belong to the quinary sector. University researchers producing knowledge and conducting R&D belong to the quaternary sector. Retail pharmacists are engaged in the distribution of goods to consumers, which falls under the tertiary sector, not the primary sector.\n\n💡 RANKER'S MEMORY LOCK: of economic roles and their sector classification → Retail pharmacists are engaged in the distribution of goods to consumers, which falls under the tertiary sector, not the primary sector.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Economic Sectors Classification",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Economic Sectors Classification",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_53b6087d",
+      "questionStem": "Consider the following pairs of economic roles and their sector classification:\n1. Senior corporate executive deciding corporate mergers: Quinary sector\n2. University professor conducting basic scientific research: Quaternary sector\n3. Retail pharmacist selling prescription medicines: Primary sector\n\nHow many of the pairs given above are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_5527ba57",
+    "stem": "Consider the following characteristics:\n1. Direct engagement in commercial farming and raw mineral extraction\n2. Reliance on advanced telecommunication networks and specialized knowledge databases\n3. Spatial concentration in urban technopoles, science parks, and metropolitan CBDs\n\nHow many of the above characteristics correctly describe Quaternary economic activities?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Quaternary activities rely on advanced telecommunications, information networks, and specialized knowledge, and they tend to cluster in urban technopoles, research parks, and central business districts. Commercial farming and raw mineral extraction belong strictly to the primary sector.\n\n💡 RANKER'S MEMORY LOCK: characteristics → Quaternary activities rely on advanced telecommunications, information networks, and specialized knowledge, and they tend to cluster in u....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Knowledge Sector (Quaternary)",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Knowledge Sector (Quaternary)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_5527ba57",
+      "questionStem": "Consider the following characteristics:\n1. Direct engagement in commercial farming and raw mineral extraction\n2. Reliance on advanced telecommunication networks and specialized knowledge databases\n3. Spatial concentration in urban technopoles, science parks, and metropolitan CBDs\n\nHow many of the above characteristics correctly describe Quaternary economic activities?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_27ab7128",
+    "stem": "Consider the following statements regarding pastoral nomadism:\n1. Herders rely strictly on animal products for sustenance and do not engage in any form of agricultural trade.\n2. The transhumance practice involves seasonal movement of people with their livestock between higher mountain pastures in summers and lower valleys in winters.\n3. The number of pastoral nomads is globally increasing due to government policies encouraging open-range grazing.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement 1 is incorrect because pastoral nomads consume animal products and also trade them for cereals and manufactured goods. Statement 2 is correct as transhumance is the seasonal movement between mountain and lowland pastures. Statement 3 is incorrect because the number of pastoral nomads is declining due to the imposition of political boundaries and government colonization of pastoral lands.\n\n💡 RANKER'S MEMORY LOCK: pastoral nomadism → Pastoral nomads consume animal products and also trade them for cereals and manufactured goods.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Pastoral Nomadism",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Pastoral Nomadism",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_27ab7128",
+      "questionStem": "Consider the following statements regarding pastoral nomadism:\n1. Herders rely strictly on animal products for sustenance and do not engage in any form of agricultural trade.\n2. The transhumance practice involves seasonal movement of people with their livestock between higher mountain pastures in summers and lower valleys in winters.\n3. The number of pastoral nomads is globally increasing due to government policies encouraging open-range grazing.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_627f733a",
+    "stem": "Consider the following factors influencing gathering as a primary economic activity:\n1. Practiced in regions with extremely harsh climatic conditions.\n2. Often associated with primitive societies using very low levels of technology.\n3. Highly commercialized in modern times, contributing significantly to global GDP.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Gathering is practiced in regions with harsh climates (high latitudes, low latitudes/dense forests) by primitive societies extracting products for immediate survival. Statement 3 is incorrect because gathering is largely a subsistence activity, though some products are collected for international markets (e.g., medicinal plants, gums, resins), its contribution to global GDP is minimal.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Statements 1 and 2 are correct.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Gathering and Hunting",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Gathering and Hunting",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_627f733a",
+      "questionStem": "Consider the following factors influencing gathering as a primary economic activity:\n1. Practiced in regions with extremely harsh climatic conditions.\n2. Often associated with primitive societies using very low levels of technology.\n3. Highly commercialized in modern times, contributing significantly to global GDP.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_e9bb895c",
+    "stem": "Nomadic herding is undergoing rapid transformation and decline across major global ranges. Which of the following is the primary driver behind this socio-spatial shift?",
+    "options": {
+      "opt_a": "Uniform global adoption of intensive greenhouse farming by nomadic tribes",
+      "opt_b": "International treaties mandating the complete eradication of domesticated livestock",
+      "opt_c": "Political boundary demarcation and government policies aimed at settling nomadic populations",
+      "opt_d": "Exhaustion of global groundwater reserves exclusively affecting desert regions"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "The reduction in areas of pastoral nomadism is principally driven by the imposition of international and national political boundaries that restrict seasonal migration, alongside government policies aimed at settling nomadic populations into fixed agricultural or urban communities.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → The reduction in areas of pastoral nomadism is principally driven by the imposition of international and national political boundaries th....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Uniform global adoption of intensive greenhouse farming by nomadic tribes' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'International treaties mandating the complete eradication of domesticated livestock' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Exhaustion of global groundwater reserves exclusively affecting desert regions' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Pastoral Nomadism",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Pastoral Nomadism",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_e9bb895c",
+      "questionStem": "Nomadic herding is undergoing rapid transformation and decline across major global ranges. Which of the following is the primary driver behind this socio-spatial shift?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_6bb69a6e",
+    "stem": "With reference to Medical Tourism in developing nations, consider the following factors:\n1. High-end medical technology availability combined with lower treatment costs compared to developed countries.\n2. Favorable government policies including medical visa regimes and accreditation of hospitals.\n3. Mandatory universal health insurance coverage for all incoming foreign medical tourists.\n\nWhich of the factors given above drive the growth of medical tourism in countries like India?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Medical tourism is propelled by world-class hospitals offering specialized treatments at a fraction of Western costs, backed by supportive state policies and international hospital accreditations (like JCI). Universal health insurance coverage for foreign nationals is neither mandatory nor a prerequisite for medical tourism; patients generally pay out-of-pocket or via international private insurance.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Medical tourism is propelled by world-class hospitals offering specialized treatments at a fraction of Western costs, backed by supportiv....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 only' assumes the inverted property is correct. In Human Development & Economic Activities, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Tertiary Activities: Medical Tourism",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Tertiary Activities: Medical Tourism",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_6bb69a6e",
+      "questionStem": "With reference to Medical Tourism in developing nations, consider the following factors:\n1. High-end medical technology availability combined with lower treatment costs compared to developed countries.\n2. Favorable government policies including medical visa regimes and accreditation of hospitals.\n3. Mandatory universal health insurance coverage for all incoming foreign medical tourists.\n\nWhich of the factors given above drive the growth of medical tourism in countries like India?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_05304ba8",
+    "stem": "Consider the following statements regarding the evolution of the service sector (Tertiary, Quaternary, and Quinary activities):\n1. As economies transition from developing to developed status, the share of employment in secondary activities generally peaks and then declines relative to tertiary and quaternary sectors.\n2. Quaternary activities are spatially fixed and heavily dependent on proximity to natural resource extraction sites.\n3. Quinary activities involve the creation, rearrangement, and evaluation of new and existing ideas, representing 'gold collar' professions.\n\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Economic structural transformation typically shows industrial employment peaking before shifting toward services and knowledge-based sectors. Quaternary and quinary activities are footloose and knowledge-driven, not spatially bound to natural resources. Quinary activities represent top-tier decision-making and policy formulation, often referred to as gold collar professions.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Quaternary and quinary activities are footloose and knowledge-driven, not spatially bound to natural resources.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Spatial / Sequence Inversion Trap",
+        "dissection": "Spatial Sequence Inversion Trap: Choosing '1 and 2 only' reflects an inverted spatial alignment. In Human Development & Economic Activities, examiners intentionally reverse North-South or West-East coordinate sequences to test mental map precision."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial / Sequence Inversion Trap",
+        "dissection": "Spatial Sequence Inversion Trap: Choosing '2 and 3 only' reflects an inverted spatial alignment. In Human Development & Economic Activities, examiners intentionally reverse North-South or West-East coordinate sequences to test mental map precision."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Spatial / Sequence Inversion Trap",
+        "dissection": "Spatial Sequence Inversion Trap: Choosing '1, 2 and 3' reflects an inverted spatial alignment. In Human Development & Economic Activities, examiners intentionally reverse North-South or West-East coordinate sequences to test mental map precision."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Tertiary, Quaternary & Quinary Sectors",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "sequence",
+    "qstyle": "sequence",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Tertiary, Quaternary & Quinary Sectors",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_05304ba8",
+      "questionStem": "Consider the following statements regarding the evolution of the service sector (Tertiary, Quaternary, and Quinary activities):\n1. As economies transition from developing to developed status, the share of employment in secondary activities generally peaks and then declines relative to tertiary and quaternary sectors.\n2. Quaternary activities are spatially fixed and heavily dependent on proximity to natural resource extraction sites.\n3. Quinary activities involve the creation, rearrangement, and evaluation of new and existing ideas, representing 'gold collar' professions.\n\nWhich of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_851b888b",
+    "stem": "Which of the following structural transformations characterizes the shift toward a 'Knowledge Economy'?",
+    "options": {
+      "opt_a": "Dominance of primary resource extraction in GDP and employment generation",
+      "opt_b": "Transition from labor-intensive manufacturing to information-processing, research, and intellectual services",
+      "opt_c": "Complete replacement of public transport networks by private autonomous logistics",
+      "opt_d": "Localization of all industrial output within isolated self-sufficient rural communes"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "A knowledge economy relies on the quantity, quality, and accessibility of information rather than the physical means of production. It is characterized by the expansion of quaternary and quinary sectors, emphasizing intellectual capital, R&D, and digital infrastructure over traditional manufacturing.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → A knowledge economy relies on the quantity, quality, and accessibility of information rather than the physical means of production.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Dominance of primary resource extraction in GDP and employment generation' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Complete replacement of public transport networks by private autonomous logistics' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Localization of all industrial output within isolated self-sufficient rural communes' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Knowledge Sector (Quaternary)",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 48,
+    "originalTopicName": "Knowledge Sector (Quaternary)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_851b888b",
+      "questionStem": "Which of the following structural transformations characterizes the shift toward a 'Knowledge Economy'?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_06594bd4",
+    "stem": "Consider the following statements regarding the approaches to Human Development:\n1. The welfare approach treats human beings as beneficiaries or targets of all developmental activities rather than participants.\n2. The basic needs approach was initially proposed by the International Labour Organisation (ILO), identifying expenditures on health, education, and water supply as paramount.\n3. The capability approach, associated with Professor Amartya Sen, focuses on building human capabilities in health, education, and equal access.",
+    "options": {
+      "opt_a": "Only one statement is correct",
+      "opt_b": "Only two statements are correct",
+      "opt_c": "All three statements are correct",
+      "opt_d": "None of the statements are correct"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "The welfare approach argues for higher government expenditure on education, health, and social security, viewing human beings as beneficiaries. The basic needs approach identified six basic needs (health, education, food, water supply, sanitation, and housing) and was conceptualized by the ILO. The capability approach focuses on increasing human capabilities through education and healthcare to expand human choices.\n\n💡 RANKER'S MEMORY LOCK: the approaches to Human Development → The welfare approach argues for higher government expenditure on education, health, and social security, viewing human beings as benefici....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Approaches to Human Development",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Approaches to Human Development",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_06594bd4",
+      "questionStem": "Consider the following statements regarding the approaches to Human Development:\n1. The welfare approach treats human beings as beneficiaries or targets of all developmental activities rather than participants.\n2. The basic needs approach was initially proposed by the International Labour Organisation (ILO), identifying expenditures on health, education, and water supply as paramount.\n3. The capability approach, associated with Professor Amartya Sen, focuses on building human capabilities in health, education, and equal access.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_595683ba",
+    "stem": "Assertion (A): The Human Poverty Index (HPI) is often considered a more comprehensive measure of deprivation than income poverty alone.\nReason (R): HPI measures the shortfall in human development across the same dimensions as the Human Development Index, namely longevity, knowledge, and a decent standard of living.",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is not the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Human Poverty Index evaluates deprivations in the same dimensions captured by the HDI—vulnerability to death at an early age (longevity), exclusion from the world of reading and communications (knowledge), and a decent economic provisioning standard—making it a broader measure than mere income deprivation.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Human Poverty Index evaluates deprivations in the same dimensions captured by the HDI—vulnerability to death at an early age (longevity),....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Human Development Measurement",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Human Development Measurement",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_595683ba",
+      "questionStem": "Assertion (A): The Human Poverty Index (HPI) is often considered a more comprehensive measure of deprivation than income poverty alone.\nReason (R): HPI measures the shortfall in human development across the same dimensions as the Human Development Index, namely longevity, knowledge, and a decent standard of living.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_8efa43c0",
+    "stem": "Consider the following statements regarding the Human Development Index (HDI) methodology:\n1. The HDI assigns equal weight of one-third to each of its three dimensions: health, education, and standard of living.\n2. The geometric mean of normalized indices across the three dimensions is used to calculate the final HDI score.\n3. A country with a high GNI per capita automatically secures a very high HDI rank, regardless of educational attainment or life expectancy.",
+    "options": {
+      "opt_a": "Only one statement is correct",
+      "opt_b": "Only two statements are correct",
+      "opt_c": "All three statements are correct",
+      "opt_d": "None of the statements are correct"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. The HDI uses the geometric mean of the three dimensional indices, and each dimension carries an equal weight of 1/3. Statement 3 is incorrect because HDI explicitly accounts for health and education alongside income; high income alone does not guarantee a top HDI rank if human capital indicators lag.\n\n💡 RANKER'S MEMORY LOCK: the Human Development Index (HDI) methodology → Statement 3 is incorrect because HDI explicitly accounts for health and education alongside income; high income alone does not guarantee ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Generalization Trap",
+        "dissection": "You accepted both statements together. UPSC frequently pairs one simple undeniable fact with a second statement containing an inverted condition or extreme qualifier."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Human Development Index Indicators",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Human Development Index Indicators",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_8efa43c0",
+      "questionStem": "Consider the following statements regarding the Human Development Index (HDI) methodology:\n1. The HDI assigns equal weight of one-third to each of its three dimensions: health, education, and standard of living.\n2. The geometric mean of normalized indices across the three dimensions is used to calculate the final HDI score.\n3. A country with a high GNI per capita automatically secures a very high HDI rank, regardless of educational attainment or life expectancy.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_6495a970",
+    "stem": "Assertion (A): Countries with high per capita GDP do not always occupy the top ranks in the Human Development Index.\nReason (R): HDI incorporates non-income dimensions such as life expectancy at birth and educational attainment, which can vary independently of national economic output.",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is not the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Economic growth (high GDP per capita) does not automatically translate into human development. Factors like public expenditure on healthcare, educational equity, and social distribution affect life expectancy and educational indicators, causing discrepancies between GDP rankings and HDI rankings.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Economic growth (high GDP per capita) does not automatically translate into human development.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Human Development Index Indicators",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Human Development Index Indicators",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_6495a970",
+      "questionStem": "Assertion (A): Countries with high per capita GDP do not always occupy the top ranks in the Human Development Index.\nReason (R): HDI incorporates non-income dimensions such as life expectancy at birth and educational attainment, which can vary independently of national economic output.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_49ca62fb",
+    "stem": "Consider the following pairs regarding the dimensions and indicators of the Human Development Index (HDI):\n1. Long and healthy life: Adult literacy rate and gross enrolment ratio\n2. Access to knowledge: Mean years of schooling and expected years of schooling\n3. A decent standard of living: Gross National Income (GNI) per capita adjusted for purchasing power parity (PPP)\nHow many pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Long and healthy life is measured by life expectancy at birth, not literacy rates. Access to knowledge is measured by mean years of schooling for adults and expected years of schooling for children. A decent standard of living is measured by GNI per capita (PPP USD). Thus, only pairs 2 and 3 are correctly matched.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Long and healthy life is measured by life expectancy at birth, not literacy rates.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Human Development Index Indicators",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Human Development Index Indicators",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_49ca62fb",
+      "questionStem": "Consider the following pairs regarding the dimensions and indicators of the Human Development Index (HDI):\n1. Long and healthy life: Adult literacy rate and gross enrolment ratio\n2. Access to knowledge: Mean years of schooling and expected years of schooling\n3. A decent standard of living: Gross National Income (GNI) per capita adjusted for purchasing power parity (PPP)\nHow many pairs given above are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_d05ade05",
+    "stem": "Which of the following best describes the core premise of the 'Income Approach' to human development?",
+    "options": {
+      "opt_a": "Human development is linked to the level of income; higher income brings higher levels of human development by enabling access to better living conditions.",
+      "opt_b": "Income generation must be directly tied to employment guarantee schemes to reduce regional disparities.",
+      "opt_c": "Income is merely an instrument to achieve basic physiological needs and should not be used as an index for well-being.",
+      "opt_d": "The distribution of income across households determines the overall capability expansion of a nation."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The income approach is one of the oldest approaches to human development. It views human development as being linked to income, operating on the premise that the level of income reflects the level of freedom an individual enjoys through the choices it affords.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → The income approach is one of the oldest approaches to human development.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Income generation must be directly tied to employment guarantee schemes to reduce regional disparities.' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Income is merely an instrument to achieve basic physiological needs and should not be used as an index for well-being.' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'The distribution of income across households determines the overall capability expansion of a nation.' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Approaches to Human Development",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Approaches to Human Development",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_d05ade05",
+      "questionStem": "Which of the following best describes the core premise of the 'Income Approach' to human development?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_ab639495",
+    "stem": "Which of the following international organizations pioneered the publication of the annual Human Development Report (HDR)?",
+    "options": {
+      "opt_a": "World Bank",
+      "opt_b": "United Nations Development Programme (UNDP)",
+      "opt_c": "International Monetary Fund (IMF)",
+      "opt_d": "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The United Nations Development Programme (UNDP) has been publishing the Human Development Report annually since 1990, providing the Human Development Index (HDI) along with other composite indices like the Inequality-adjusted HDI and Gender Development Index.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → The United Nations Development Programme (UNDP) has been publishing the Human Development Report annually since 1990, providing the Human....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'World Bank' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'International Monetary Fund (IMF)' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'United Nations Educational, Scientific and Cultural Organization (UNESCO)' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Human Development Index Indicators",
+    "tier": "Basic",
+    "level": "Basic",
+    "difficulty_level": 1,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Human Development Index Indicators",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_ab639495",
+      "questionStem": "Which of the following international organizations pioneered the publication of the annual Human Development Report (HDR)?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_00993a98",
+    "stem": "Which of the following approaches views human beings as the means of development, where human capital investment is justified primarily by its contribution to increased productivity and economic growth?",
+    "options": {
+      "opt_a": "Welfare Approach",
+      "opt_b": "Basic Needs Approach",
+      "opt_c": "Human Capital Approach",
+      "opt_d": "Capability Approach"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "The human capital approach views human beings as a means to an end (productivity and economic growth). If education and health increase productivity, investment in them is justified. In contrast, the human development approach views human beings as the end in themselves.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → The human capital approach views human beings as a means to an end (productivity and economic growth).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Welfare Approach' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Basic Needs Approach' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Capability Approach' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Approaches to Human Development",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 50,
+    "originalTopicName": "Approaches to Human Development",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_00993a98",
+      "questionStem": "Which of the following approaches views human beings as the means of development, where human capital investment is justified primarily by its contribution to increased productivity and economic growth?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_f94e5bd1",
+    "stem": "Consider the following pairs regarding quaternary and quinary activities:\n1. Quaternary activities: Collection, production and dissemination of information\n2. Quinary activities: Creation, re-arrangement and evaluation of new and existing ideas\n3. Gold collar professions: Representation of another subdivision of the quinary sector representing advanced decision-makers\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "• Pair 1 is CORRECT: Quaternary activities center on research, development, and the collection, production, and dissemination of information (NCERT Class XII Human Geography, Ch 7).\n• Pair 2 is CORRECT: Quinary activities focus on the creation, re-arrangement, and evaluation of new and existing ideas, data interpretation, and policy formulation.\n• Pair 3 is CORRECT: 'Gold collar' professions represent high-level executive decision-makers and policy advisors in the quinary sector.\n🎯 Ranker's Takeaway: Red Collar = Primary; Blue Collar = Secondary; Pink Collar = Tertiary; White Collar = Quaternary; Gold Collar = Quinary.\n\n💡 RANKER'S MEMORY LOCK: regarding quaternary and quinary activities → • Pair 1 is CORRECT: Quaternary activities center on research, development, and the collection, production, and dissemination of informat....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Quaternary and Quinary Sectors",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 52,
+    "originalTopicName": "Quaternary and Quinary Sectors",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_f94e5bd1",
+      "questionStem": "Consider the following pairs regarding quaternary and quinary activities:\n1. Quaternary activities: Collection, production and dissemination of information\n2. Quinary activities: Creation, re-arrangement and evaluation of new and existing ideas\n3. Gold collar professions: Representation of another subdivision of the quinary sector representing advanced decision-makers\nHow many of the above pairs are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_20b9bf44",
+    "stem": "With reference to quaternary activities, consider the following statements:\n1. They revolve around knowledge-based industries and information processing.\n2. Unlike primary and secondary activities, they are not dependent on resources from the physical environment.\n3. They form an integral part of the service sector and can be outsourced to developing nations.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Quaternary activities are knowledge-based, centering on information collection, processing, and research. They are outsourced globally to take advantage of skilled human capital. However, statement 2 is incorrect because while they deal with abstract data and knowledge, they still rely on physical infrastructure (data centers, fiber optic cables, electricity) tied to the physical environment.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → However, statement 2 is incorrect because while they deal with abstract data and knowledge, they still rely on physical infrastructure (d....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Quaternary Activities Characteristics",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 52,
+    "originalTopicName": "Quaternary Activities Characteristics",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_20b9bf44",
+      "questionStem": "With reference to quaternary activities, consider the following statements:\n1. They revolve around knowledge-based industries and information processing.\n2. Unlike primary and secondary activities, they are not dependent on resources from the physical environment.\n3. They form an integral part of the service sector and can be outsourced to developing nations.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_58100d7f",
+    "stem": "Assertion (A): Business Process Outsourcing (BPO) differs fundamentally from Knowledge Process Outsourcing (KPO).\nReason (R): KPO involves intellectually stimulated information-driven work requiring advanced expertise, whereas BPO typically handles routine, information-oriented business tasks.",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is not the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Business Process Outsourcing involves contracting out routine business operations such as customer care, payroll, and billing to external providers. Knowledge Process Outsourcing requires high-end intellectual tasks including R&D, legal services, market research, and data analytics, involving advanced domain expertise. Thus, R correctly explains the distinction stated in A.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Business Process Outsourcing involves contracting out routine business operations such as customer care, payroll, and billing to external....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "BPO vs KPO",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 52,
+    "originalTopicName": "BPO vs KPO",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_58100d7f",
+      "questionStem": "Assertion (A): Business Process Outsourcing (BPO) differs fundamentally from Knowledge Process Outsourcing (KPO).\nReason (R): KPO involves intellectually stimulated information-driven work requiring advanced expertise, whereas BPO typically handles routine, information-oriented business tasks.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_163a5e16",
+    "stem": "Assertion (A): Quinary activities represent the highest level of decision-making and policy formulation in human economies.\nReason (R): Individuals engaged in quinary activities are often referred to as 'gold collar' professionals who formulate macroeconomic and political strategies.",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is not the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Quinary activities involve top-level decision-makers, government policymakers, and corporate executives who shape socio-economic policies. These senior professionals are designated as 'gold collar' workers, directly explaining their elite advisory and directive role in the economy.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Quinary activities involve top-level decision-makers, government policymakers, and corporate executives who shape socio-economic policies.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Quinary Sector Roles",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 52,
+    "originalTopicName": "Quinary Sector Roles",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_163a5e16",
+      "questionStem": "Assertion (A): Quinary activities represent the highest level of decision-making and policy formulation in human economies.\nReason (R): Individuals engaged in quinary activities are often referred to as 'gold collar' professionals who formulate macroeconomic and political strategies.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_8e5c0658",
+    "stem": "Medical tourism has emerged as a major tertiary activity globally. Which of the following countries are leading destinations for medical tourists seeking treatment abroad due to advanced facilities and cost advantages?",
+    "options": {
+      "opt_a": "India, Thailand, Singapore, and Malaysia",
+      "opt_b": "Iceland, Greenland, Norway, and Finland",
+      "opt_c": "Chad, Mali, Niger, and Sudan",
+      "opt_d": "Bolivia, Paraguay, Uruguay, and Guyana"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "India, Thailand, Singapore, and Malaysia have developed robust medical tourism sectors by combining world-class hospital infrastructure, skilled medical professionals, and significantly lower treatment costs compared to Western nations.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → India, Thailand, Singapore, and Malaysia have developed robust medical tourism sectors by combining world-class hospital infrastructure, ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Iceland, Greenland, Norway, and Finland' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Chad, Mali, Niger, and Sudan' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Bolivia, Paraguay, Uruguay, and Guyana' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Specialized Tertiary Services - Medical Tourism",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 52,
+    "originalTopicName": "Specialized Tertiary Services - Medical Tourism",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_8e5c0658",
+      "questionStem": "Medical tourism has emerged as a major tertiary activity globally. Which of the following countries are leading destinations for medical tourists seeking treatment abroad due to advanced facilities and cost advantages?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_81c4b9fb",
+    "stem": "Which of the following characteristics distinguish Knowledge Process Outsourcing (KPO) from conventional Business Process Outsourcing (BPO)?\n1. KPO requires specialized domain expertise and advanced analytical skills.\n2. KPO is restricted solely to internal corporate accounting and data entry tasks.\n3. KPO operations frequently involve legal research, intellectual property patent drafting, and financial analysis.",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "KPO involves high-value, knowledge-intensive processes such as legal research, intellectual property analysis, and financial research, requiring advanced domain expertise. Statement 2 is incorrect because routine data entry and internal accounting belong to traditional BPO rather than KPO.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Routine data entry and internal accounting belong to traditional BPO rather than KPO.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: '1 and 2 only' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: '2 and 3 only' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: '1, 2 and 3' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Advanced Quaternary Activities - KPO",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 52,
+    "originalTopicName": "Advanced Quaternary Activities - KPO",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_81c4b9fb",
+      "questionStem": "Which of the following characteristics distinguish Knowledge Process Outsourcing (KPO) from conventional Business Process Outsourcing (BPO)?\n1. KPO requires specialized domain expertise and advanced analytical skills.\n2. KPO is restricted solely to internal corporate accounting and data entry tasks.\n3. KPO operations frequently involve legal research, intellectual property patent drafting, and financial analysis.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_0310860a",
+    "stem": "Consider the following pairs regarding state-wise variations in human development within India:\n1. Kerala: High HDI driven by universal healthcare access and high literacy rates.\n2. Bihar: Lower HDI primarily due to challenges in educational attainment and lower per capita income.\n3. Punjab: Ranks at the absolute bottom of the national HDI table due to severe agrarian stagnation.\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Pairs 1 and 2 are correctly matched, reflecting Kerala's social sector achievements and Bihar's developmental lag. Pair 3 is incorrectly matched because while Punjab faces certain socio-economic challenges, it does not rank at the absolute bottom of the national HDI table.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Pair 3 is incorrectly matched because while Punjab faces certain socio-economic challenges, it does not rank at the absolute bottom of th....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "State-wise Variations in India",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 53,
+    "originalTopicName": "State-wise Variations in India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_0310860a",
+      "questionStem": "Consider the following pairs regarding state-wise variations in human development within India:\n1. Kerala: High HDI driven by universal healthcare access and high literacy rates.\n2. Bihar: Lower HDI primarily due to challenges in educational attainment and lower per capita income.\n3. Punjab: Ranks at the absolute bottom of the national HDI table due to severe agrarian stagnation.\nHow many of the above pairs are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_5b9185e4",
+    "stem": "With reference to the indicators used in the computation of the Human Development Index (HDI), consider the following:\n1. Health is measured by expected years of schooling.\n2. Education is assessed using mean years of schooling for adults aged 25 years and older.\n3. Standard of living is measured by Gross National Income (GNI) per capita adjusted for Purchasing Power Parity (PPP).\nHow many of the above indicators are correctly matched with their parameters?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is incorrect because health is measured by life expectancy at birth, whereas expected years of schooling belongs to the education dimension. Statements 2 and 3 are correct.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Health is measured by life expectancy at birth, whereas expected years of schooling belongs to the education dimension.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "HDI Indicators and Dimensions",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 53,
+    "originalTopicName": "HDI Indicators and Dimensions",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_5b9185e4",
+      "questionStem": "With reference to the indicators used in the computation of the Human Development Index (HDI), consider the following:\n1. Health is measured by expected years of schooling.\n2. Education is assessed using mean years of schooling for adults aged 25 years and older.\n3. Standard of living is measured by Gross National Income (GNI) per capita adjusted for Purchasing Power Parity (PPP).\nHow many of the above indicators are correctly matched with their parameters?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_700ab12a",
+    "stem": "Consider the following statements regarding India's performance and ranking in the Human Development Report:\n1. India's HDI value has consistently placed it in the High Human Development category in recent years.\n2. The inequality-adjusted HDI (IHDI) discounts a country's HDI value based on the level of inequality in health, education, and income.\n3. India's rank on the IHDI is typically higher than its rank on the standard HDI due to progressive taxation policies.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement 1 is incorrect as India generally falls in the Medium Human Development category. Statement 2 is correct. Statement 3 is incorrect because India's rank on the IHDI is typically lower than its standard HDI rank, reflecting deep inequalities in health, education, and income distribution.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → India generally falls in the Medium Human Development category.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "India's HDI and Inequality-Adjusted HDI",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 53,
+    "originalTopicName": "India's HDI and Inequality-Adjusted HDI",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_700ab12a",
+      "questionStem": "Consider the following statements regarding India's performance and ranking in the Human Development Report:\n1. India's HDI value has consistently placed it in the High Human Development category in recent years.\n2. The inequality-adjusted HDI (IHDI) discounts a country's HDI value based on the level of inequality in health, education, and income.\n3. India's rank on the IHDI is typically higher than its rank on the standard HDI due to progressive taxation policies.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_887b1529",
+    "stem": "Consider the following statements regarding the capability approach developed by Amartya Sen:\n1. It defines development in terms of expanding the substantive freedoms that people enjoy to lead lives they have reason to value.\n2. It focuses strictly on the accumulation of commodities and utility maximization rather than human agency.\n3. It forms the conceptual bedrock upon which the Human Development Index was constructed.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 3 are correct. Statement 2 is incorrect because the capability approach explicitly critiques traditional economic models focused solely on commodity accumulation and utility, emphasizing human agency and freedom instead.\n\n💡 RANKER'S MEMORY LOCK: the capability approach developed by Amartya Sen → Statements 1 and 3 are correct.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Amartya Sen's Capability Approach",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 53,
+    "originalTopicName": "Amartya Sen's Capability Approach",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_887b1529",
+      "questionStem": "Consider the following statements regarding the capability approach developed by Amartya Sen:\n1. It defines development in terms of expanding the substantive freedoms that people enjoy to lead lives they have reason to value.\n2. It focuses strictly on the accumulation of commodities and utility maximization rather than human agency.\n3. It forms the conceptual bedrock upon which the Human Development Index was constructed.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_9a41f4a9",
+    "stem": "Consider the following statements regarding the genesis of the Human Development Index (HDI):\n1. The concept of human development was pioneered by Pakistani economist Mahbub ul Haq.\n2. Amartya Sen contributed to the framework by shifting the focus of economic development from income growth to human capabilities.\n3. The first global Human Development Report was published by the World Bank in 1990.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Mahbub ul Haq created the HDI, with foundational contributions from Amartya Sen regarding capability and freedom. Statement 3 is incorrect because the first global Human Development Report was published by the United Nations Development Programme (UNDP) in 1990, not the World Bank.\n\n💡 RANKER'S MEMORY LOCK: the genesis of the Human Development Index (HDI) → Statement 3 is incorrect because the first global Human Development Report was published by the United Nations Development Programme (UND....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Human Development Index - Genesis and Thinkers",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 53,
+    "originalTopicName": "Human Development Index - Genesis and Thinkers",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_9a41f4a9",
+      "questionStem": "Consider the following statements regarding the genesis of the Human Development Index (HDI):\n1. The concept of human development was pioneered by Pakistani economist Mahbub ul Haq.\n2. Amartya Sen contributed to the framework by shifting the focus of economic development from income growth to human capabilities.\n3. The first global Human Development Report was published by the World Bank in 1990.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_16a55ff0",
+    "stem": "Consider the following statements regarding poverty measurement frameworks in India:\n1. The Multidimensional Poverty Index (MPI) complements income-based poverty measurements by capturing deprivations in health, education, and standard of living.\n2. The Tendulkar Committee methodology relied solely on calorie intake norms without factoring in expenditure on health and education.\n3. The global MPI is published jointly by the UNDP and the Oxford Poverty and Human Development Initiative (OPHI).\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 3 are correct. Statement 2 is incorrect because the Tendulkar Committee explicitly factored in spending on health and education alongside calorie intake, moving away from a purely calorie-based poverty line.\n\n💡 RANKER'S MEMORY LOCK: poverty measurement frameworks in India → Statements 1 and 3 are correct.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Poverty Measurements and MPI",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 53,
+    "originalTopicName": "Poverty Measurements and MPI",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_16a55ff0",
+      "questionStem": "Consider the following statements regarding poverty measurement frameworks in India:\n1. The Multidimensional Poverty Index (MPI) complements income-based poverty measurements by capturing deprivations in health, education, and standard of living.\n2. The Tendulkar Committee methodology relied solely on calorie intake norms without factoring in expenditure on health and education.\n3. The global MPI is published jointly by the UNDP and the Oxford Poverty and Human Development Initiative (OPHI).\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_ee5fcf17",
+    "stem": "Why does the Human Development Index (HDI) fail to directly measure environmental sustainability or income inequality, necessitating supplementary indices like the Planetary pressures-adjusted HDI (PHDI)?",
+    "options": {
+      "opt_a": "Because environmental data cannot be quantified statistically.",
+      "opt_b": "Because the original HDI was designed strictly as a composite measure of basic human capabilities in health, education, and command over resources, requiring adjustments for ecological footprints.",
+      "opt_c": "Because income inequality is already fully accounted for in the standard GNI per capita calculation.",
+      "opt_d": "Because the United Nations abolished environmental metrics in 2010."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The original HDI focuses purely on health, education, and resources. To account for ecological ceilings and carbon footprints, supplementary indices like the PHDI are utilized.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → The original HDI focuses purely on health, education, and resources.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Because environmental data cannot be quantified statistically.' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Because income inequality is already fully accounted for in the standard GNI per capita calculation.' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Because the United Nations abolished environmental metrics in 2010.' is a closely related sibling concept in Human Development & Economic Activities. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Limitations and Evolution of HDI",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 53,
+    "originalTopicName": "Limitations and Evolution of HDI",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_ee5fcf17",
+      "questionStem": "Why does the Human Development Index (HDI) fail to directly measure environmental sustainability or income inequality, necessitating supplementary indices like the Planetary pressures-adjusted HDI (PHDI)?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_human_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_human_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_0533f4bb",
+    "stem": "Consider the following pairs regarding tribal development programs and their primary focus areas:\n1. Bharmaur Region: Transhumance integration and horticulture promotion\n2. Indira Gandhi Canal Command Area: Desertification control and sustainable irrigation management\n3. Hill Area Development Programmes: Industrial corridor development and heavy manufacturing\n\nHow many pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Pairs 1 and 2 are correctly matched. Pair 3 is incorrectly matched because Hill Area Development Programmes focus on horticulture, forestry, and ecological conservation, not heavy manufacturing or industrial corridors.\n\n💡 RANKER'S MEMORY LOCK: Human Development & Economic Activities → Pair 3 is incorrectly matched because Hill Area Development Programmes focus on horticulture, forestry, and ecological conservation, not ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 21,
+    "topicName": "Human Development & Economic Activities",
+    "section": "Human Geography",
+    "subTopic": "Resource Planning & Sustainable Development",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 55,
+    "originalTopicName": "Resource Planning & Sustainable Development",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_0533f4bb",
+      "questionStem": "Consider the following pairs regarding tribal development programs and their primary focus areas:\n1. Bharmaur Region: Transhumance integration and horticulture promotion\n2. Indira Gandhi Canal Command Area: Desertification control and sustainable irrigation management\n3. Hill Area Development Programmes: Industrial corridor development and heavy manufacturing\n\nHow many pairs given above are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  }
+]

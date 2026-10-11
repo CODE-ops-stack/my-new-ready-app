@@ -1,8 +1,12 @@
 {
-  "version": 9,
+  "version": 10,
   "totalQuestions": 2822,
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
+    "manifest_cdn": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/topics/manifest.json",
+    "manifest_raw": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/topics/manifest.json",
+    "topic_cdn_template": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/topics/topic_{id}.json",
+    "topic_raw_template": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/topics/topic_{id}.json",
     "questions_cdn": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/questions.json",
     "questions_raw": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/questions.json"
   },
@@ -31,6 +35,6 @@
     "World Regional Geography": 60,
     "Bihar Geography": 2
   },
-  "updatedAt": "2026-10-11T21:55:00Z",
-  "releaseNotes": "Version 8 (Publication Masterpiece Release): 100% 💡 RANKER'S MEMORY LOCK coverage across all 2,821 questions; complete academic rewriting of 23 flagged conversational stems into Emeritus Professor-grade rigor; purged 150 phantom placeholder images retaining only authentic bespoke diagrams; elevated distractor dissections with context-specific trap mechanics; normalized all 23 syllabus topics."
+  "updatedAt": "2026-10-11T22:48:00Z",
+  "releaseNotes": "Version 10 (Pure On-Demand Online Cloud Stream): Sliced topic endpoints for instantaneous on-demand network streaming with zero persistent local question storage."
 }

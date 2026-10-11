@@ -1,0 +1,145 @@
+{
+  "version": 10,
+  "totalQuestions": 2822,
+  "totalTopics": 23,
+  "topics": [
+    {
+      "topicId": 1,
+      "topicName": "Universe, Solar System & Motions of the Earth",
+      "count": 116,
+      "file": "topic_1.json"
+    },
+    {
+      "topicId": 2,
+      "topicName": "Globe, Latitudes, Longitudes & Time",
+      "count": 135,
+      "file": "topic_2.json"
+    },
+    {
+      "topicId": 3,
+      "topicName": "Maps, Scale, Projections & GIS",
+      "count": 23,
+      "file": "topic_3.json"
+    },
+    {
+      "topicId": 4,
+      "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+      "count": 277,
+      "file": "topic_4.json"
+    },
+    {
+      "topicId": 5,
+      "topicName": "Geomorphic Processes & Landforms",
+      "count": 239,
+      "file": "topic_5.json"
+    },
+    {
+      "topicId": 6,
+      "topicName": "Atmosphere, Winds & Climate Systems",
+      "count": 113,
+      "file": "topic_6.json"
+    },
+    {
+      "topicId": 7,
+      "topicName": "Oceanography",
+      "count": 295,
+      "file": "topic_7.json"
+    },
+    {
+      "topicId": 8,
+      "topicName": "Biogeography, Ecosystems & Biodiversity",
+      "count": 82,
+      "file": "topic_8.json"
+    },
+    {
+      "topicId": 9,
+      "topicName": "India: Location, Size & Neighbours",
+      "count": 90,
+      "file": "topic_9.json"
+    },
+    {
+      "topicId": 10,
+      "topicName": "Physiography of India",
+      "count": 209,
+      "file": "topic_10.json"
+    },
+    {
+      "topicId": 11,
+      "topicName": "Drainage System of India",
+      "count": 244,
+      "file": "topic_11.json"
+    },
+    {
+      "topicId": 12,
+      "topicName": "Indian Climate & Monsoon",
+      "count": 70,
+      "file": "topic_12.json"
+    },
+    {
+      "topicId": 13,
+      "topicName": "Soils & Natural Vegetation of India",
+      "count": 92,
+      "file": "topic_13.json"
+    },
+    {
+      "topicId": 14,
+      "topicName": "Wildlife, Protected Areas & Conservation",
+      "count": 76,
+      "file": "topic_14.json"
+    },
+    {
+      "topicId": 15,
+      "topicName": "Agriculture",
+      "count": 131,
+      "file": "topic_15.json"
+    },
+    {
+      "topicId": 16,
+      "topicName": "Water Resources, Irrigation & Dams",
+      "count": 40,
+      "file": "topic_16.json"
+    },
+    {
+      "topicId": 17,
+      "topicName": "Minerals & Energy Resources",
+      "count": 147,
+      "file": "topic_17.json"
+    },
+    {
+      "topicId": 18,
+      "topicName": "Industries",
+      "count": 72,
+      "file": "topic_18.json"
+    },
+    {
+      "topicId": 19,
+      "topicName": "Transport, Communication & Trade",
+      "count": 142,
+      "file": "topic_19.json"
+    },
+    {
+      "topicId": 20,
+      "topicName": "Population, Migration & Settlements",
+      "count": 124,
+      "file": "topic_20.json"
+    },
+    {
+      "topicId": 21,
+      "topicName": "Human Development & Economic Activities",
+      "count": 43,
+      "file": "topic_21.json"
+    },
+    {
+      "topicId": 22,
+      "topicName": "World Regional Geography",
+      "count": 60,
+      "file": "topic_22.json"
+    },
+    {
+      "topicId": 23,
+      "topicName": "Bihar Geography",
+      "count": 2,
+      "file": "topic_23.json"
+    }
+  ]
+}

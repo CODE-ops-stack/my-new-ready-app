@@ -1,0 +1,1635 @@
+[
+  {
+    "id": "q_96c96599",
+    "stem": "Which of the following is NOT a standard component or convention utilized in the preparation and reading of conventional geographical maps?",
+    "options": {
+      "opt_a": "Conventional symbols that have international acceptance through agreement",
+      "opt_b": "Magnetic North alignment explicitly matching True North across all map projections without adjustment",
+      "opt_c": "Use of hachures, contour lines, and spot heights to depict relief",
+      "opt_d": "A graphic or linear scale to measure ground distances accurately even after map reproduction or resizing"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Magnetic North and True North do not coincide, and the angle between them is known as magnetic declination. Map readers must account for this variation, making statement B false and the correct answer for a negative question. Conventional symbols, relief representation methods, and graphic scales are all standard cartographic components.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Magnetic North and True North do not coincide, and the angle between them is known as magnetic declination.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Conventional symbols that have international acceptance through agreement' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Use of hachures, contour lines, and spot heights to depict relief' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'A graphic or linear scale to measure ground distances accurately even after map reproduction or resizing' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_96c96599",
+      "questionStem": "Which of the following is NOT a standard component or convention utilized in the preparation and reading of conventional geographical maps?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_1beaa52e",
+    "stem": "[UPSC PYQ] Assertion (A): Thematic maps are specifically designed to concentrate on a single specific variable, such as population density, soil types, or transport networks.\nReason (R): General reference maps focus on the location of a variety of physical and human-made features, making them less suitable for detailed spatial analysis of a single theme.",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is not the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Thematic maps focus on specific distributions or patterns like climate or population. General reference maps show multiple geographic elements. Both statements are factually independent valid assertions regarding cartographic design.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Thematic maps focus on specific distributions or patterns like climate or population.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_1beaa52e",
+      "questionStem": "Assertion (A): Thematic maps are specifically designed to concentrate on a single specific variable, such as population density, soil types, or transport networks.\nReason (R): General reference maps focus on the location of a variety of physical and human-made features, making them less suitable for detailed spatial analysis of a single theme.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_abd77d5d",
+    "stem": "Assertion (A): Small-scale maps cannot show minor details such as individual village settlements or narrow streams accurately.\nReason (R): A smaller scale implies that a larger area of the Earth's surface is represented by a very small distance on the map, forcing cartographers to generalize features.",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is not the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Small-scale maps compress large areas onto limited space, leading to cartographic generalization which omits minor details like individual settlements and narrow streams.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Small-scale maps compress large areas onto limited space, leading to cartographic generalization which omits minor details like individua....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_abd77d5d",
+      "questionStem": "Assertion (A): Small-scale maps cannot show minor details such as individual village settlements or narrow streams accurately.\nReason (R): A smaller scale implies that a larger area of the Earth's surface is represented by a very small distance on the map, forcing cartographers to generalize features.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_5f280184",
+    "stem": "[UPSC PYQ] Statement-I: Thematic maps are primarily designed to display specific information such as population density, soil types, or distribution of industries.\nStatement-II: The scale of a thematic map is always larger than the scale of a topographical map of the same geographical region.",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statement-I is correct because thematic maps focus on specific themes or variables. Statement-II is incorrect because topographical maps are usually large-scale maps providing detailed natural and man-made features, whereas thematic maps are typically small-scale maps that generalize large areas to show broad spatial patterns.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Statement-II is incorrect because topographical maps are usually large-scale maps providing detailed natural and man-made features, where....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_5f280184",
+      "questionStem": "Statement-I: Thematic maps are primarily designed to display specific information such as population density, soil types, or distribution of industries.\nStatement-II: The scale of a thematic map is always larger than the scale of a topographical map of the same geographical region.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_5241c92e",
+    "stem": "Which one of the following map projections is mathematically constructed to ensure that the scale is maintained true along all meridians, making it particularly useful for polar navigation and mapping?",
+    "options": {
+      "opt_a": "Gnomic Projection",
+      "opt_b": "Simple Conic Projection with one standard parallel",
+      "opt_c": "Polar Stereoscopic Projection",
+      "opt_d": "Transverse Mercator Projection"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "The Polar Stereoscopic projection is a conformal azimuthal projection frequently used for mapping polar regions. In its polar aspect, scales along the meridians are correct at specific parameters, and circles of latitude are represented as concentric circles. It preserves local shapes and angles, which is critical for navigational charting in the Arctic and Antarctic regions. Gnomonic projections distort shapes severely away from the center. Transverse Mercator is typically used for north-south oriented zones, and simple conic is for mid-latitudes.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → The Polar Stereoscopic projection is a conformal azimuthal projection frequently used for mapping polar regions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Gnomic Projection' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Simple Conic Projection with one standard parallel' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Transverse Mercator Projection' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_5241c92e",
+      "questionStem": "Which one of the following map projections is mathematically constructed to ensure that the scale is maintained true along all meridians, making it particularly useful for polar navigation and mapping?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_137f0a70",
+    "stem": "Which of the following map projections maintains the property of 'equivalence' (equal area), ensuring that any given region on the map is represented in true proportion to its actual area on the Earth's surface?",
+    "options": {
+      "opt_a": "Mercator Projection",
+      "opt_b": "Albers Equal-Area Conic Projection",
+      "opt_c": "Gnomonic Projection",
+      "opt_d": "Standard Equidistant Cylindrical Projection"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "An equal-area (equivalent) projection preserves the area of displayed features across the map, such that a square centimeter anywhere on the map represents the exact same ground area proportion. The Albers Equal-Area Conic projection uses two standard parallels to minimize distortion in mid-latitude regions and is widely used for mapping large countries with an east-west extent (like the United States or India) while maintaining true proportional areas. Mercator is conformal (preserves shape/angles, not area), and Gnomonic is perspective-based.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → The Albers Equal-Area Conic projection uses two standard parallels to minimize distortion in mid-latitude regions and is widely used for ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Mercator Projection' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Gnomonic Projection' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Standard Equidistant Cylindrical Projection' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_137f0a70",
+      "questionStem": "Which of the following map projections maintains the property of 'equivalence' (equal area), ensuring that any given region on the map is represented in true proportion to its actual area on the Earth's surface?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_4a292401",
+    "stem": "Consider the following statements regarding map projections:\n1. The Mercator projection preserves the correct shapes of landmasses and true directions, making it ideal for navigation.\n2. The Gall-Peters projection preserves the relative areas of landmasses at the expense of severe distortion in shapes, particularly in high latitudes.\n3. Conic projections are generally best suited for representing equatorial regions due to their low distortion along the standard parallels.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The Mercator projection is a cylindrical conformal map projection that preserves angles and shapes locally, and straight lines represent constant compass bearings, making it valuable for marine navigation. However, it severely exaggerates landmass sizes at high latitudes (e.g., Greenland appearing as large as Africa). The Gall-Peters projection is an equal-area cylindrical projection that maintains the correct relative proportions of Earth's surface areas, but distorts shapes, stretching landmasses vertically near the poles and horizontally near the equator. Conic projections are best suited for mid-latitude regions (such as the USA or Europe) with a general east-west orientation, not equatorial regions, which are better represented by cylindrical projections.\n\n💡 RANKER'S MEMORY LOCK: map projections → However, it severely exaggerates landmass sizes at high latitudes (e.g., Greenland appearing as large as Africa).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_4a292401",
+      "questionStem": "Consider the following statements regarding map projections:\n1. The Mercator projection preserves the correct shapes of landmasses and true directions, making it ideal for navigation.\n2. The Gall-Peters projection preserves the relative areas of landmasses at the expense of severe distortion in shapes, particularly in high latitudes.\n3. Conic projections are generally best suited for representing equatorial regions due to their low distortion along the standard parallels.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_235dbb01",
+    "stem": "Consider the following statements regarding map scales and their representations:\n1. A small-scale map covers a large area with a detailed presentation of geographical features.\n2. The Representative Fraction (RF) represents the ratio between distance on the map and the corresponding distance on the ground in the same units.\n3. A scale of 1:50,000 is considered a larger scale than 1:250,000.\n\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is incorrect because small-scale maps cover large areas but show less detail, not more. Statement 2 is correct as RF is unit-agnostic and represents a true mathematical ratio. Statement 3 is correct because a smaller denominator indicates a larger scale, meaning 1:50,000 shows more detail over a smaller area than 1:250,000.\n\n💡 RANKER'S MEMORY LOCK: map scales and their representations → Small-scale maps cover large areas but show less detail, not more.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_235dbb01",
+      "questionStem": "Consider the following statements regarding map scales and their representations:\n1. A small-scale map covers a large area with a detailed presentation of geographical features.\n2. The Representative Fraction (RF) represents the ratio between distance on the map and the corresponding distance on the ground in the same units.\n3. A scale of 1:50,000 is considered a larger scale than 1:250,000.\n\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_152d5ac2",
+    "stem": "Consider the following statements regarding topographical maps:\n1. Contour lines are drawn on physical-relief maps to show areas of equal elevation above mean sea level.\n2. When contour lines are drawn very close to each other, they indicate a gentle slope.\n3. Relief representation through hachures uses short, graded lines drawn in the direction of the slope.\n\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Contour lines represent equal elevations. Close contour lines indicate steep slopes, not gentle slopes. Hachures use lines drawn in the direction of the slope to depict relief.\n\n💡 RANKER'S MEMORY LOCK: topographical maps → Close contour lines indicate steep slopes, not gentle slopes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_152d5ac2",
+      "questionStem": "Consider the following statements regarding topographical maps:\n1. Contour lines are drawn on physical-relief maps to show areas of equal elevation above mean sea level.\n2. When contour lines are drawn very close to each other, they indicate a gentle slope.\n3. Relief representation through hachures uses short, graded lines drawn in the direction of the slope.\n\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_cfbbc14c",
+    "stem": "Consider the following statements regarding the scale of maps:\n1. Cadastral maps are large-scale maps used primarily for showing relief features and natural vegetation of a continent.\n2. Wall maps are small-scale maps designed to present extensive areas such as countries or continents on a single sheet.\n3. The representative fraction (RF) of a small-scale map has a larger denominator compared to that of a large-scale map.\n\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Cadastral maps are large-scale maps that show property boundaries, ownership details, and individual land parcels, not relief features of a continent. Wall maps are small-scale maps covering large areas. In representative fractions, a larger denominator indicates a smaller scale.\n\n💡 RANKER'S MEMORY LOCK: the scale of maps → Cadastral maps are large-scale maps that show property boundaries, ownership details, and individual land parcels, not relief features of....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_cfbbc14c",
+      "questionStem": "Consider the following statements regarding the scale of maps:\n1. Cadastral maps are large-scale maps used primarily for showing relief features and natural vegetation of a continent.\n2. Wall maps are small-scale maps designed to present extensive areas such as countries or continents on a single sheet.\n3. The representative fraction (RF) of a small-scale map has a larger denominator compared to that of a large-scale map.\n\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_e50f2bd3",
+    "stem": "Consider the following statements regarding map projections and scale components:\n1. A statement of scale expresses the map distance and ground distance in different units of measurement.\n2. Representative Fraction (RF) is expressed as a ratio and remains independent of any specific unit of measurement.\n3. Linear scale on a map remains accurate even if the paper map undergoes physical shrinkage or expansion over time.\n\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement 2 is correct because RF is a dimensionless ratio. Statement 1 is incorrect because scale statements often use same or different units depending on formulation. Statement 3 is incorrect because physical shrinkage affects the linear scale bar proportionally along with the map body.\n\n💡 RANKER'S MEMORY LOCK: map projections and scale components → RF is a dimensionless ratio.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_e50f2bd3",
+      "questionStem": "Consider the following statements regarding map projections and scale components:\n1. A statement of scale expresses the map distance and ground distance in different units of measurement.\n2. Representative Fraction (RF) is expressed as a ratio and remains independent of any specific unit of measurement.\n3. Linear scale on a map remains accurate even if the paper map undergoes physical shrinkage or expansion over time.\n\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_093c8c6c",
+    "stem": "Match List-I (Map Scale / Type) with List-II (Typical Application / Characteristic):\nList-I\nA. Cadastral Map\nB. Atlas Map\nC. Topographical Map\nD. Thematic Map\nList-II\n1. Revenue collection and land ownership records\n2. Highly generalized small-scale view of continents\n3. Detailed representation of both natural and man-made features using contours\n4. Distribution pattern of a specific phenomenon like industries\n\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "A-1, B-2, C-3, D-4",
+      "opt_b": "A-1, B-3, C-2, D-4",
+      "opt_c": "A-3, B-1, C-4, D-2",
+      "opt_d": "A-4, B-2, C-1, D-3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Cadastral maps are used for land revenue and ownership. Atlas maps provide generalized views at small scales. Topographical maps show detailed features using contours. Thematic maps show specific phenomena.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Cadastral maps are used for land revenue and ownership.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Diagonal Pairing Trap",
+        "dissection": "Diagonal Pairing Trap: In matching sets, examiners deliberately swap two pairs while keeping one pair correct to make wrong combination 'A-1, B-3, C-2, D-4' appear superficially familiar."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Diagonal Pairing Trap",
+        "dissection": "Diagonal Pairing Trap: In matching sets, examiners deliberately swap two pairs while keeping one pair correct to make wrong combination 'A-3, B-1, C-4, D-2' appear superficially familiar."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Diagonal Pairing Trap",
+        "dissection": "Diagonal Pairing Trap: In matching sets, examiners deliberately swap two pairs while keeping one pair correct to make wrong combination 'A-4, B-2, C-1, D-3' appear superficially familiar."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "matching",
+    "qstyle": "matching",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_093c8c6c",
+      "questionStem": "Match List-I (Map Scale / Type) with List-II (Typical Application / Characteristic):\nList-I\nA. Cadastral Map\nB. Atlas Map\nC. Topographical Map\nD. Thematic Map\nList-II\n1. Revenue collection and land ownership records\n2. Highly generalized small-scale view of continents\n3. Detailed representation of both natural and man-made features using contours\n4. Distribution pattern of a specific phenomenon like industries\n\nSelect the correct answer using the code given below:",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_pred1_8f9g0h",
+    "stem": "Consider the following pairs regarding India's nuclear energy map:\n1. Kakrapar : Pressurized Heavy Water Reactor (PHWR)\n2. Kudankulam : Light Water Reactor (VVER)\n3. Kalpakkam : Prototype Fast Breeder Reactor (PFBR)\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three are correct. Kakrapar (Gujarat) operates indigenous PHWRs. Kudankulam (Tamil Nadu) uses Russian-designed VVERs (Light Water Reactors). Kalpakkam (Tamil Nadu) houses India's PFBR, a key part of the second stage of India's nuclear power program.\n\n💡 RANKER'S MEMORY LOCK: regarding India's nuclear energy map → All three are correct.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": null,
+    "provenance": {
+      "questionId": "q_pred1_8f9g0h",
+      "questionStem": "Consider the following pairs regarding India's nuclear energy map: 1. Kakrapar : Pressurized Heavy Water Reactor (PHWR) 2. Kudankulam : Light Water Reactor (VVER) 3. Kalpakkam : Prototype Fast Breeder Reactor (PFBR) How many of the above pairs are correctly matched?",
+      "intentType": "spatial_reasoning",
+      "knowledgeNodeId": "node-q_pred1_8f9g0h",
+      "evidenceText": "All three are correct. Kakrapar (Gujarat) operates indigenous PHWRs. Kudankulam (Tamil Nadu) uses Russian-designed VVERs (Light Water Reactors). Kalpakkam (Tamil Nadu) houses India's PFBR, a key part of the second stage of India's nuclear power program.\n\n🎯 EXAMINER TRAP: In spatial sequencing, examiners rely on false visual assumptions (e.g. assuming a city further east is also further south).\n🧠 MEMORY LOCK: Always anchor your mental map to a reference latitude (e.g. 28°N Delhi, 23.5°N Tropic of Cancer, 13°N Chennai).",
+      "sourceFile": "map_atlas_pyq.txt",
+      "sourceLocation": {
+        "sourceId": "map_atlas_pyq.txt",
+        "sentence_count": 1,
+        "section_heading": "Map Practice & Spatial Visualisation",
+        "concept": "Spatial Geography",
+        "sentence_idx": 0,
+        "block_id": "block-map",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_c9af6ff4",
+    "stem": "With reference to Geographic Information Systems (GIS), raster data models and vector data models differ fundamentally. Consider the following statements:\n1. Raster data represents continuous phenomena using a matrix of cells or pixels, where each cell contains a single numeric value.\n2. Vector data utilizes points, lines, and polygons to represent discrete spatial features with precise boundaries.\n3. Raster data models are generally more efficient for performing network analysis, such as finding the shortest path along a road network.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is correct because raster data structures divide space into a grid of rectangular cells (pixels), assigning an attribute value to each cell, which is ideal for continuous surfaces like elevation or temperature. Statement 2 is correct because vector data uses discrete geometric primitives (points, lines, polygons) to define precise boundaries such as administrative borders, utility lines, or well sites. Statement 3 is incorrect because vector data models, not raster models, are fundamentally suited for network analysis (like routing, shortest path calculation, and connectivity modeling) because roads and utility networks are intrinsically linear vector features.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Statement 3 is incorrect because vector data models, not raster models, are fundamentally suited for network analysis (like routing, shor....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Geographic Information System (GIS)",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Geographic Information System (GIS)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_c9af6ff4",
+      "questionStem": "With reference to Geographic Information Systems (GIS), raster data models and vector data models differ fundamentally. Consider the following statements:\n1. Raster data represents continuous phenomena using a matrix of cells or pixels, where each cell contains a single numeric value.\n2. Vector data utilizes points, lines, and polygons to represent discrete spatial features with precise boundaries.\n3. Raster data models are generally more efficient for performing network analysis, such as finding the shortest path along a road network.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_84f0289b",
+    "stem": "Consider the following statements regarding the directional properties of standard maps:\n1. The top margin of a standard geopolitical map always points toward the Magnetic North Pole.\n2. Intermediate directions are useful for precise navigation but are never used in meteorological mapping.\n3. Grid north refers to the northern direction indicated by the grid lines of map projections rather than true meridians.\n\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The top margin of a standard map points to True North, not Magnetic North. Intermediate directions are used in various spatial applications including meteorology. Grid north is indeed the direction pointed to by the vertical grid lines of a map coordinate system.\n\n💡 RANKER'S MEMORY LOCK: the directional properties of standard maps → The top margin of a standard map points to True North, not Magnetic North.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Cardinal points vs intermediate directions",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Cardinal points vs intermediate directions",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_84f0289b",
+      "questionStem": "Consider the following statements regarding the directional properties of standard maps:\n1. The top margin of a standard geopolitical map always points toward the Magnetic North Pole.\n2. Intermediate directions are useful for precise navigation but are never used in meteorological mapping.\n3. Grid north refers to the northern direction indicated by the grid lines of map projections rather than true meridians.\n\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_3a0643e1",
+    "stem": "In the context of Geographic Information Systems (GIS), consider the following types of data:\n1. Soil pH values recorded at specific borehole sites\n2. Administrative boundary polygons of districts\n3. Elevation values stored in a digital terrain grid\n4. Demographic literacy rates attributed to a state\nHow many of the above represent spatial (geometric) data rather than attribute data?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Spatial data defines the geometric location and shape of map features in a coordinate system, typically represented as points (e.g., borehole locations), lines (e.g., rivers), or polygons (e.g., administrative districts), or as continuous raster grids (e.g., digital elevation models). Attribute data describes the qualitative or quantitative characteristics of those spatial features (e.g., soil pH values, demographic literacy rates, population counts). Therefore, items 1, 2, and 3 involve spatial positioning or spatial grid representation, while demographic literacy rates in item 4 constitute non-spatial attribute data linked to spatial entities.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Therefore, items 1, 2, and 3 involve spatial positioning or spatial grid representation, while demographic literacy rates in item 4 const....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Geographic Information System (GIS)",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Geographic Information System (GIS)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_3a0643e1",
+      "questionStem": "In the context of Geographic Information Systems (GIS), consider the following types of data:\n1. Soil pH values recorded at specific borehole sites\n2. Administrative boundary polygons of districts\n3. Elevation values stored in a digital terrain grid\n4. Demographic literacy rates attributed to a state\nHow many of the above represent spatial (geometric) data rather than attribute data?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_eef9fdd3",
+    "stem": "Consider the following pairs regarding map directions and bearings:\n1. North-East: Intermediate direction lying exactly midway between North and East.\n2. Magnetic North: The direction indicated by a magnetic compass, which always coincides perfectly with the True North geographic pole.\n3. Bearing: The angular measurement measured clockwise from the reference direction of North.\n\nHow many of the given pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "North-East is an intermediate direction. Bearings are measured clockwise from North. Magnetic North does not coincide with True North due to the magnetic declination of the Earth's magnetic field.\n\n💡 RANKER'S MEMORY LOCK: regarding map directions and bearings → Magnetic North does not coincide with True North due to the magnetic declination of the Earth's magnetic field.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Cardinal points vs intermediate directions",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Cardinal points vs intermediate directions",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_eef9fdd3",
+      "questionStem": "Consider the following pairs regarding map directions and bearings:\n1. North-East: Intermediate direction lying exactly midway between North and East.\n2. Magnetic North: The direction indicated by a magnetic compass, which always coincides perfectly with the True North geographic pole.\n3. Bearing: The angular measurement measured clockwise from the reference direction of North.\n\nHow many of the given pairs are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_d26f363f",
+    "stem": "Assertion (A): Global Positioning System (GPS) receivers require signals from a minimum of four satellites to determine an accurate three-dimensional position (latitude, longitude, and altitude) alongside precise receiver clock time.\nReason (R): Three satellite ranges provide a trilateration solution in three-dimensional space, while the fourth satellite is mathematically necessary to correct the significant clock bias inherent in inexpensive receiver quartz oscillators.",
+    "options": {
+      "opt_a": "Both A and R are true, and R is the correct explanation of A",
+      "opt_b": "Both A and R are true, but R is not the correct explanation of A",
+      "opt_c": "A is true, but R is false",
+      "opt_d": "A is false, but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "GPS trilateration measures the distance to satellites by timing radio signal propagation. Theoretically, three spheres intersecting in 3D space can pinpoint a location (three satellites for X, Y, Z coordinates). However, because consumer GPS receivers use inexpensive quartz clocks that are not synchronized with the atomic clocks on board the GPS satellites, a fourth satellite measurement is strictly required to solve for receiver clock bias (time offset), yielding four equations with four unknowns.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → However, because consumer GPS receivers use inexpensive quartz clocks that are not synchronized with the atomic clocks on board the GPS s....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Global Positioning System (GPS)",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Global Positioning System (GPS)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_d26f363f",
+      "questionStem": "Assertion (A): Global Positioning System (GPS) receivers require signals from a minimum of four satellites to determine an accurate three-dimensional position (latitude, longitude, and altitude) alongside precise receiver clock time.\nReason (R): Three satellite ranges provide a trilateration solution in three-dimensional space, while the fourth satellite is mathematically necessary to correct the significant clock bias inherent in inexpensive receiver quartz oscillators.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_48d0d832",
+    "stem": "Consider the following statements regarding the Global Positioning System (GPS) and other Global Navigation Satellite Systems (GNSS):\n1. GPS space segment typically consists of a constellation of satellites orbiting in Medium Earth Orbit (MEO).\n2. Atmospheric delay caused by the ionosphere and troposphere is a major source of error in GPS positioning accuracy.\n3. Differential GPS (DGPS) technique improves accuracy by utilizing a network of fixed, ground-based reference stations that broadcast corrections for satellite ranging errors.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. The GPS constellation orbits in Medium Earth Orbit (MEO) at an altitude of approximately 20,200 kilometers. As satellite signals pass through the charged particles of the ionosphere and the water vapor of the troposphere, their propagation speed changes, introducing range measurement errors. Differential GPS (DGPS) overcomes errors induced by atmospheric interference, satellite clock drift, and orbital ephemeris errors by deploying fixed ground reference stations with precisely surveyed coordinates to compute pseudorange corrections transmitted to mobile receivers.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → The GPS constellation orbits in Medium Earth Orbit (MEO) at an altitude of approximately 20,200 kilometers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Global Positioning System (GPS)",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Global Positioning System (GPS)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_48d0d832",
+      "questionStem": "Consider the following statements regarding the Global Positioning System (GPS) and other Global Navigation Satellite Systems (GNSS):\n1. GPS space segment typically consists of a constellation of satellites orbiting in Medium Earth Orbit (MEO).\n2. Atmospheric delay caused by the ionosphere and troposphere is a major source of error in GPS positioning accuracy.\n3. Differential GPS (DGPS) technique improves accuracy by utilizing a network of fixed, ground-based reference stations that broadcast corrections for satellite ranging errors.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_9dc0eb6c",
+    "stem": "Which one of the following components of a map is universally standardized by international agreements to enable map-reading across language barriers?",
+    "options": {
+      "opt_a": "Toponyms and place name fonts",
+      "opt_b": "Conventional symbols",
+      "opt_c": "Representative fraction denominator values",
+      "opt_d": "Contour interval spacing"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Conventional symbols are standardized internationally, allowing maps to be read universally regardless of the local language of the map user.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Conventional symbols are standardized internationally, allowing maps to be read universally regardless of the local language of the map user.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Toponyms and place name fonts' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Representative fraction denominator values' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Contour interval spacing' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Conventional symbols",
+    "tier": "Basic",
+    "level": "Basic",
+    "difficulty_level": 1,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Conventional symbols",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_9dc0eb6c",
+      "questionStem": "Which one of the following components of a map is universally standardized by international agreements to enable map-reading across language barriers?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_vi_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_02c464b4",
+    "stem": "Consider the following pairs regarding remote sensing sensor systems:\n1. Synthetic Aperture Radar (SAR) : Active sensor\n2. Thermal Infrared Scanner : Passive sensor\n3. Multispectral Imaging Sensor : Active sensor\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Active remote sensing systems, such as Synthetic Aperture Radar (SAR) and LiDAR, supply their own source of energy to illuminate the target and measure the reflected or backscattered energy. Passive sensors, such as thermal infrared scanners and standard multispectral optical cameras, do not emit their own energy; instead, they detect natural radiation emitted or reflected from the Earth's surface, primarily utilizing solar radiation or thermal emission.\n\n💡 RANKER'S MEMORY LOCK: regarding remote sensing sensor systems → Passive sensors, such as thermal infrared scanners and standard multispectral optical cameras, do not emit their own energy; instead, the....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Remote Sensing: Active vs Passive Sensors",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Remote Sensing: Active vs Passive Sensors",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_02c464b4",
+      "questionStem": "Consider the following pairs regarding remote sensing sensor systems:\n1. Synthetic Aperture Radar (SAR) : Active sensor\n2. Thermal Infrared Scanner : Passive sensor\n3. Multispectral Imaging Sensor : Active sensor\nHow many of the above pairs are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_ce7da1fd",
+    "stem": "In remote sensing terminology, spatial resolution, spectral resolution, and radiometric resolution are core parameters. Match the following parameters with their correct technical definitions:\n1. Spatial Resolution : The ability of a sensor to discriminate between wavelength intervals in the electromagnetic spectrum.\n2. Spectral Resolution : The dimension of the smallest pixel object that can be detected as a distinct entity on the ground.\n3. Radiometric Resolution : The sensitivity of a sensor to detect small differences in reflected or emitted energy magnitude (bit depth).\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Pair 1 is incorrectly matched because spatial resolution refers to the ground size of a single pixel (e.g., a 5-meter resolution sensor can distinguish objects 5 meters apart). Pair 2 is incorrectly matched because spectral resolution refers to the number and width of specific wavelength bands (e.g., multispectral vs hyperspectral) a sensor can record. Pair 3 is correctly matched: radiometric resolution measures the sensor's sensitivity to differences in signal strength, determined by the number of bits (e.g., 8-bit vs 16-bit) used to record light intensity.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Pair 1 is incorrectly matched because spatial resolution refers to the ground size of a single pixel (e.g., a 5-meter resolution sensor c....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Remote Sensing Basics",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Remote Sensing Basics",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_ce7da1fd",
+      "questionStem": "In remote sensing terminology, spatial resolution, spectral resolution, and radiometric resolution are core parameters. Match the following parameters with their correct technical definitions:\n1. Spatial Resolution : The ability of a sensor to discriminate between wavelength intervals in the electromagnetic spectrum.\n2. Spectral Resolution : The dimension of the smallest pixel object that can be detected as a distinct entity on the ground.\n3. Radiometric Resolution : The sensitivity of a sensor to detect small differences in reflected or emitted energy magnitude (bit depth).\nHow many of the above pairs are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_e220f158",
+    "stem": "In GIS and cartographic modeling, spatial interpolation techniques are used to estimate values at unmeasured locations based on sampled data points. Which of the following best describes the principle underlying the 'Inverse Distance Weighting (IDW)' interpolation method?",
+    "options": {
+      "opt_a": "It fits a mathematical polynomial surface across all sample points to minimize overall squared prediction error globally.",
+      "opt_b": "It assumes that points closer to the prediction location have a greater influence on the estimated value than those located farther away.",
+      "opt_c": "It uses geostatistical variograms to model spatial autocorrelation and account for random spatial error variance.",
+      "opt_d": "It constructs continuous triangular irregular networks (TIN) where linear interpolation is performed within each discrete triangle facet."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Inverse Distance Weighting (IDW) is an exact deterministic interpolation technique based on Tobler's First Law of Geography, which states that things closer to one another are more related than things further apart. In IDW, the estimated value at an unsampled point is a weighted average of surrounding sampled points, where the weight assigned to each sample point is inversely proportional to its distance raised to a power value. Option 'a' describes trend surface analysis, option 'c' describes Kriging, and option 'd' describes TIN generation.\n\n💡 RANKER'S MEMORY LOCK: Maps, Scale, Projections & GIS → Inverse Distance Weighting (IDW) is an exact deterministic interpolation technique based on Tobler's First Law of Geography, which states....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'It fits a mathematical polynomial surface across all sample points to minimize overall squared prediction error globally.' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'It uses geostatistical variograms to model spatial autocorrelation and account for random spatial error variance.' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'It constructs continuous triangular irregular networks (TIN) where linear interpolation is performed within each discrete triangle facet.' is a closely related sibling concept in Maps, Scale, Projections & GIS. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 3,
+    "topicName": "Maps, Scale, Projections & GIS",
+    "section": "Physical Geography",
+    "subTopic": "Geographic Information System (GIS)",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 49,
+    "originalTopicName": "Geographic Information System (GIS)",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_e220f158",
+      "questionStem": "In GIS and cartographic modeling, spatial interpolation techniques are used to estimate values at unmeasured locations based on sampled data points. Which of the following best describes the principle underlying the 'Inverse Distance Weighting (IDW)' interpolation method?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_vi_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  }
+]

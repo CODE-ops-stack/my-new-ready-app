@@ -1,0 +1,2842 @@
+[
+  {
+    "id": "q_dam_09",
+    "stem": "Which of the following dams is geographically located in the state of Kerala but is operated and maintained by the government of Tamil Nadu, often leading to inter-state disputes?",
+    "options": {
+      "opt_a": "Idukki Dam",
+      "opt_b": "Mullaperiyar Dam",
+      "opt_c": "Mettur Dam",
+      "opt_d": "Bhavanisagar Dam"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The Mullaperiyar Dam is situated on the Periyar River in Kerala but is operated by Tamil Nadu under a 999-year lease agreement, making it a subject of continuous dispute between the two states.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → The Mullaperiyar Dam is situated on the Periyar River in Kerala but is operated by Tamil Nadu under a 999-year lease agreement, making it....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Idukki Dam' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Mettur Dam' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Bhavanisagar Dam' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Basic",
+    "level": "Basic",
+    "difficulty_level": 1,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": null,
+    "provenance": {
+      "questionId": "q_dam_09",
+      "questionStem": "Which of the following dams is geographically located in the state of Kerala but is operated and maintained by the government of Tamil Nadu, often leading to inter-state disputes?",
+      "intentType": "spatial_reasoning",
+      "knowledgeNodeId": "node-q_dam_09",
+      "evidenceText": "The Mullaperiyar Dam is situated on the Periyar River in Kerala but is operated by Tamil Nadu under a 999-year lease agreement, making it a subject of continuous dispute between the two states.\n\n🎯 EXAMINER TRAP: In spatial sequencing, examiners rely on false visual assumptions (e.g. assuming a city further east is also further south).\n🧠 MEMORY LOCK: Always anchor your mental map to a reference latitude (e.g. 28°N Delhi, 23.5°N Tropic of Cancer, 13°N Chennai).",
+      "sourceFile": "map_atlas_pyq.txt",
+      "sourceLocation": {
+        "sourceId": "map_atlas_pyq.txt",
+        "sentence_count": 1,
+        "section_heading": "Map Practice & Spatial Visualisation",
+        "concept": "Spatial Geography",
+        "sentence_idx": 0,
+        "block_id": "block-map",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_dam_02",
+    "stem": "Consider the following pairs of Multipurpose Projects and their associated States:\n1. Rihand Dam : Uttar Pradesh\n2. Idukki Dam : Kerala\n3. Koyna Dam : Maharashtra\n4. Tungabhadra Dam : Andhra Pradesh\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Pair 1 is correctly matched: Rihand Dam (Govind Ballabh Pant Sagar) is located in Sonbhadra district, Uttar Pradesh.\nPair 2 is correctly matched: Idukki Dam is a concrete double-curvature arch dam on the Periyar River in Kerala.\nPair 3 is correctly matched: Koyna Dam is situated on the Koyna River in Satara district, Maharashtra.\nPair 4 is incorrectly matched: Tungabhadra Dam is located at Hosapete in Vijayanagara/Ballari district of Karnataka (constructed across the Tungabhadra river, operated as an inter-state project with Andhra Pradesh).\nTherefore, exactly three pairs are correctly matched.\n\n💡 RANKER'S MEMORY LOCK: Tungabhadra Dam = Hosapete, Karnataka; Rihand Dam = Sonbhadra, UP; Idukki Arch Dam = Periyar, Kerala; Koyna Dam = Satara, Maharashtra.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": null,
+    "provenance": {
+      "questionId": "q_dam_02",
+      "questionStem": "Consider the following pairs of Multipurpose Projects and their associated States: 1. Rihand Dam : Uttar Pradesh 2. Idukki Dam : Kerala 3. Koyna Dam : Maharashtra 4. Tungabhadra Dam : Andhra Pradesh How many of the above pairs are correctly matched?",
+      "intentType": "spatial_reasoning",
+      "knowledgeNodeId": "node-q_dam_02",
+      "evidenceText": "Tungabhadra Dam is in Karnataka, not Andhra Pradesh. Rihand is in UP, Idukki in Kerala, and Koyna in Maharashtra.\n\n🎯 EXAMINER TRAP: In spatial sequencing, examiners rely on false visual assumptions (e.g. assuming a city further east is also further south).\n🧠 MEMORY LOCK: Always anchor your mental map to a reference latitude (e.g. 28°N Delhi, 23.5°N Tropic of Cancer, 13°N Chennai).",
+      "sourceFile": "map_atlas_pyq.txt",
+      "sourceLocation": {
+        "sourceId": "map_atlas_pyq.txt",
+        "sentence_count": 1,
+        "section_heading": "Map Practice & Spatial Visualisation",
+        "concept": "Spatial Geography",
+        "sentence_idx": 0,
+        "block_id": "block-map",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_dam_08",
+    "stem": "Consider the following pairs mapping Dams to the State they are located in:\n1. Hirakud Dam : Odisha\n2. Mettur Dam : Tamil Nadu\n3. Farakka Barrage : Bihar\n4. Sardar Sarovar Dam : Gujarat\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Farakka Barrage is located in West Bengal on the Ganga River, not Bihar. The other three (Hirakud in Odisha, Mettur in TN, Sardar Sarovar in Gujarat) are correctly matched.\n\n💡 RANKER'S MEMORY LOCK: mapping Dams to the State they are located in → Farakka Barrage is located in West Bengal on the Ganga River, not Bihar.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Map Practice & Spatial Visualisation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 21,
+    "originalTopicName": "21. Map Practice & Spatial Visualisation",
+    "examTarget": null,
+    "provenance": {
+      "questionId": "q_dam_08",
+      "questionStem": "Consider the following pairs mapping Dams to the State they are located in: 1. Hirakud Dam : Odisha 2. Mettur Dam : Tamil Nadu 3. Farakka Barrage : Bihar 4. Sardar Sarovar Dam : Gujarat How many of the above pairs are correctly matched?",
+      "intentType": "spatial_reasoning",
+      "knowledgeNodeId": "node-q_dam_08",
+      "evidenceText": "Farakka Barrage is located in West Bengal on the Ganga River, not Bihar. The other three (Hirakud in Odisha, Mettur in TN, Sardar Sarovar in Gujarat) are correctly matched.\n\n🎯 EXAMINER TRAP: Examiners test Left-bank vs Right-bank orientation. For Ganga: Yamuna and Son are the major Right-bank tributaries; Gomti, Ghaghara, Gandak, and Kosi flow in from the Left (Himalayas).\n🧠 MEMORY LOCK: For Indus: J-C-R-B-S (Jhelum, Chenab, Ravi, Beas, Sutlej from North to South).",
+      "sourceFile": "map_atlas_pyq.txt",
+      "sourceLocation": {
+        "sourceId": "map_atlas_pyq.txt",
+        "sentence_count": 1,
+        "section_heading": "Map Practice & Spatial Visualisation",
+        "concept": "Spatial Geography",
+        "sentence_idx": 0,
+        "block_id": "block-map",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_256ed3d7",
+    "stem": "Consider the following pairs of traditional water harvesting structures and their respective states:\n1. Johads : Maharashtra\n2. Zing : Ladakh\n3. Eri : Tamil Nadu\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Pairs 2 and 3 are correctly matched. Zings are glacier meltwater collection channels found in Ladakh, and Eris (tanks) are ancient irrigation systems widely used in Tamil Nadu. Pair 1 is incorrect because Johads are traditional earthen check dams primarily built in Rajasthan and Haryana, not Maharashtra.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Pair 1 is incorrect because Johads are traditional earthen check dams primarily built in Rajasthan and Haryana, not Maharashtra.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_256ed3d7",
+      "questionStem": "Consider the following pairs of traditional water harvesting structures and their respective states:\n1. Johads : Maharashtra\n2. Zing : Ladakh\n3. Eri : Tamil Nadu\nHow many of the pairs given above are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_c983f378",
+    "stem": "Consider the following statements regarding major multipurpose river valley projects in India:\n1. The Bhakra Nangal project is constructed on the Sutlej-Beas river system and provides water primarily to Punjab, Haryana, and Rajasthan.\n2. The Hirakud Dam, built across the Mahanadi River, is the longest earthen dam in the world.\n3. The Nagarjuna Sagar project is constructed on the Godavari River to irrigate the drought-prone regions of Telangana and Andhra Pradesh.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. The Bhakra Nangal is a joint venture of Punjab, Haryana, and Rajasthan on the Sutlej River, and Hirakud on the Mahanadi is indeed the longest earthen dam. Statement 3 is incorrect because Nagarjuna Sagar is constructed on the Krishna River, not the Godavari.\n\n💡 RANKER'S MEMORY LOCK: major multipurpose river valley projects in India → Statement 3 is incorrect because Nagarjuna Sagar is constructed on the Krishna River, not the Godavari.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_c983f378",
+      "questionStem": "Consider the following statements regarding major multipurpose river valley projects in India:\n1. The Bhakra Nangal project is constructed on the Sutlej-Beas river system and provides water primarily to Punjab, Haryana, and Rajasthan.\n2. The Hirakud Dam, built across the Mahanadi River, is the longest earthen dam in the world.\n3. The Nagarjuna Sagar project is constructed on the Godavari River to irrigate the drought-prone regions of Telangana and Andhra Pradesh.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_ac0125cb",
+    "stem": "Consider the following pairs regarding multi-purpose river valley projects and the rivers they are built upon:\n1. Bhakra Nangal Project: Sutlej River\n2. Hirakud Dam: Mahanadi River\n3. Nagarjuna Sagar Project: Godavari River\n4. Tehri Dam: Bhagirathi River\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Pairs 1, 2, and 4 are correctly matched as Bhakra Nangal is on the Sutlej, Hirakud is on the Mahanadi, and Tehri is on the Bhagirathi. However, pair 3 is incorrect because the Nagarjuna Sagar Dam is built across the Krishna River, not the Godavari.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → However, pair 3 is incorrect because the Nagarjuna Sagar Dam is built across the Krishna River, not the Godavari.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_ac0125cb",
+      "questionStem": "Consider the following pairs regarding multi-purpose river valley projects and the rivers they are built upon:\n1. Bhakra Nangal Project: Sutlej River\n2. Hirakud Dam: Mahanadi River\n3. Nagarjuna Sagar Project: Godavari River\n4. Tehri Dam: Bhagirathi River\nHow many of the above pairs are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_24796e5b",
+    "stem": "Consider the following statements regarding Watershed Management in India:\n1. The primary objective of watershed management is the efficient storage and conservation of surface and groundwater.\n2. Haryali is a watershed development project sponsored by the Central Government which is executed by Gram Panchayats.\n3. Neeru-Meeru program in Andhra Pradesh and Arvary Pani Sansad in Rajasthan are notable traditional and participatory water conservation initiatives.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. Watershed management integrates the conservation, regeneration, and judicious use of all water resources. Haryali is implemented by Gram Panchayats with people's participation, and Neeru-Meeru and Arvary Pani Sansad are classic examples of community-driven water harvesting.\n\n💡 RANKER'S MEMORY LOCK: Watershed Management in India → Watershed management integrates the conservation, regeneration, and judicious use of all water resources.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_24796e5b",
+      "questionStem": "Consider the following statements regarding Watershed Management in India:\n1. The primary objective of watershed management is the efficient storage and conservation of surface and groundwater.\n2. Haryali is a watershed development project sponsored by the Central Government which is executed by Gram Panchayats.\n3. Neeru-Meeru program in Andhra Pradesh and Arvary Pani Sansad in Rajasthan are notable traditional and participatory water conservation initiatives.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_b7bf0ca4",
+    "stem": "Consider the following statements regarding the Damodar Valley Corporation (DVC):\n1. It was India's first multipurpose river valley project, modeled on the Tennessee Valley Authority (TVA) of the United States.\n2. The project area spans across the states of Jharkhand and West Bengal.\n3. Its primary original objective was flood control, followed by irrigation, power generation, and navigation.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. Established in 1948, DVC was India's maiden multipurpose project to tame the 'Sorrow of Bengal' (Damodar River). It operates across the Damodar River basin covering parts of Jharkhand and West Bengal with core mandates of flood control, irrigation, and hydel/thermal power generation.\n\n💡 RANKER'S MEMORY LOCK: the Damodar Valley Corporation (DVC) → Established in 1948, DVC was India's maiden multipurpose project to tame the 'Sorrow of Bengal' (Damodar River).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_b7bf0ca4",
+      "questionStem": "Consider the following statements regarding the Damodar Valley Corporation (DVC):\n1. It was India's first multipurpose river valley project, modeled on the Tennessee Valley Authority (TVA) of the United States.\n2. The project area spans across the states of Jharkhand and West Bengal.\n3. Its primary original objective was flood control, followed by irrigation, power generation, and navigation.\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_7df9dab1",
+    "stem": "Consider the following traditional rainwater harvesting structures and their respective states:\n1. Zing: Ladakh\n2. Johad: Rajasthan\n3. Kulam: Tamil Nadu\n4. Tankas: Kerala\nHow many pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Pairs 1, 2, and 3 are correctly matched. Zings are ice-melt water harvesting structures in Ladakh, Johads are earthen check dams in Rajasthan, and Kulams are traditional irrigation tanks in Tamil Nadu. Pair 4 is incorrect because Tankas are underground cisterns found primarily in Rajasthan, not Kerala.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Pair 4 is incorrect because Tankas are underground cisterns found primarily in Rajasthan, not Kerala.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_7df9dab1",
+      "questionStem": "Consider the following traditional rainwater harvesting structures and their respective states:\n1. Zing: Ladakh\n2. Johad: Rajasthan\n3. Kulam: Tamil Nadu\n4. Tankas: Kerala\nHow many pairs given above are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_6c62afb3",
+    "stem": "With reference to traditional water harvesting systems in India, consider the following statements:\n1. 'Kuls' are traditional channel irrigation systems found in the mountainous regions of the Western Himalayas.\n2. 'Tankas' are underground cisterns traditionally used for rainwater harvesting in the arid and semi-arid regions of Rajasthan.\n3. Bamboo drip irrigation is an age-old system prevalent in the State of Meghalaya for transporting water from hill streams.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are factually correct. Kuls are diversion channels in Himachal Pradesh and Jammu, Tankas are subterranean storage structures in Bikaner and Barmer districts of Rajasthan, and Meghalaya employs an ingenious bamboo drip irrigation system to tap spring water.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → All three statements are factually correct.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_6c62afb3",
+      "questionStem": "With reference to traditional water harvesting systems in India, consider the following statements:\n1. 'Kuls' are traditional channel irrigation systems found in the mountainous regions of the Western Himalayas.\n2. 'Tankas' are underground cisterns traditionally used for rainwater harvesting in the arid and semi-arid regions of Rajasthan.\n3. Bamboo drip irrigation is an age-old system prevalent in the State of Meghalaya for transporting water from hill streams.\nHow many of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_34b217b3",
+    "stem": "Consider the following statements regarding the National Water Policy of India:\n1. It prioritizes the allocation of water resources for drinking purposes over irrigation, hydro-power, and industrial needs.\n2. It emphasizes the need for treating wastewater as a resource for recycling and reuse.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both statements are correct. The National Water Policy of India accords highest priority to drinking water, followed by irrigation, hydro-power, ecology, agro-industries, and navigation. It also stresses treating wastewater as a potential resource to bridge the demand-supply gap.\n\n💡 RANKER'S MEMORY LOCK: the National Water Policy of India → The National Water Policy of India accords highest priority to drinking water, followed by irrigation, hydro-power, ecology, agro-industr....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '2 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "You eliminated all options. Always trust verified NCERT core definitions even when worded in a slightly unfamiliar syntax."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_34b217b3",
+      "questionStem": "Consider the following statements regarding the National Water Policy of India:\n1. It prioritizes the allocation of water resources for drinking purposes over irrigation, hydro-power, and industrial needs.\n2. It emphasizes the need for treating wastewater as a resource for recycling and reuse.\nWhich of the statements given above is/are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_55b59a02",
+    "stem": "Consider the following pairs of Inter-Linking of Rivers (ILR) projects and the rivers they connect:\n1. Ken-Betwa Link: Connects Ken river to Betwa river\n2. Damanganga-Pinjal Link: Connects Damanganga river to Pinjal river\n3. Par-Tapi-Narmada Link: Connects Par, Tapi, and Narmada rivers\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three pairs are correctly matched. The Ken-Betwa link transfers surplus water from the Ken to the Betwa basin in Madhya Pradesh and Uttar Pradesh. The Damanganga-Pinjal and Par-Tapi-Narmada links are part of the peninsular component designed to augment water supply in Gujarat and Maharashtra.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → All three pairs are correctly matched.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_55b59a02",
+      "questionStem": "Consider the following pairs of Inter-Linking of Rivers (ILR) projects and the rivers they connect:\n1. Ken-Betwa Link: Connects Ken river to Betwa river\n2. Damanganga-Pinjal Link: Connects Damanganga river to Pinjal river\n3. Par-Tapi-Narmada Link: Connects Par, Tapi, and Narmada rivers\nHow many of the above pairs are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_0608c398",
+    "stem": "Statement-I: Northwestern India and parts of Western India exhibit a high degree of groundwater depletion and over-exploitation.\nStatement-II: These regions rely heavily on tube-well irrigation for intensive cultivation of water-guzzling crops like paddy and wheat despite receiving low annual rainfall.",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement-I correctly identifies the critical status of groundwater in states like Punjab, Haryana, and Rajasthan. Statement-II provides the correct causal mechanism, intensive cultivation of rice and wheat, and low precipitation lead to severe overdraft of aquifers.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Statement-I correctly identifies the critical status of groundwater in states like Punjab, Haryana, and Rajasthan.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_0608c398",
+      "questionStem": "Statement-I: Northwestern India and parts of Western India exhibit a high degree of groundwater depletion and over-exploitation.\nStatement-II: These regions rely heavily on tube-well irrigation for intensive cultivation of water-guzzling crops like paddy and wheat despite receiving low annual rainfall.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_14965233",
+    "stem": "Which of the following irrigation statistics and trends in India is NOT correct according to official agricultural census data?",
+    "options": {
+      "opt_a": "Groundwater (wells and tubewells) constitutes the largest source of irrigation in India.",
+      "opt_b": "Canal irrigation is the second largest source of irrigation, with highest concentration in the Northern plains.",
+      "opt_c": "Net irrigated area accounts for less than 30% of India's net sown area.",
+      "opt_d": "Micro-irrigation (drip and sprinkler) coverage has expanded significantly, with states like Rajasthan leading in total micro-irrigation area."
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Option c is incorrect because the net irrigated area in India currently accounts for more than 48% to 50% of the net sown area, not less than 30%. Groundwater is indeed the leading source (over 60%), and Rajasthan leads in total micro-irrigation adoption due to its arid conditions.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Option c is incorrect because the net irrigated area in India currently accounts for more than 48% to 50% of the net sown area, not less ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Groundwater (wells and tubewells) constitutes the largest source of irrigation in India.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Canal irrigation is the second largest source of irrigation, with highest concentration in the Northern plains.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Micro-irrigation (drip and sprinkler) coverage has expanded significantly, with states like Rajasthan leading in total micro-irrigation area.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_14965233",
+      "questionStem": "Which of the following irrigation statistics and trends in India is NOT correct according to official agricultural census data?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_2d0f44bd",
+    "stem": "With reference to the Sardar Sarovar Project, consider the following statements:\n1. It is built on the Narmada River and benefits the states of Madhya Pradesh, Maharashtra, Gujarat, and Rajasthan.\n2. The Narmada Control Authority was established to monitor the implementation of the Sardar Sarovar and other interstate projects on the Narmada.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both statements are correct. The Sardar Sarovar Dam is a concrete gravity dam on the Narmada River in Gujarat, providing irrigation and power to the four riparian states. The Narmada Control Authority ensures compliance with the Narmada Water Disputes Tribunal award.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → The Sardar Sarovar Dam is a concrete gravity dam on the Narmada River in Gujarat, providing irrigation and power to the four riparian states.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '2 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "You eliminated all options. Always trust verified NCERT core definitions even when worded in a slightly unfamiliar syntax."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_2d0f44bd",
+      "questionStem": "With reference to the Sardar Sarovar Project, consider the following statements:\n1. It is built on the Narmada River and benefits the states of Madhya Pradesh, Maharashtra, Gujarat, and Rajasthan.\n2. The Narmada Control Authority was established to monitor the implementation of the Sardar Sarovar and other interstate projects on the Narmada.\nWhich of the statements given above is/are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_d15f213c",
+    "stem": "Which of the following factors contributes most significantly to India being categorized as a 'water-stressed' nation despite having major perennial river systems?",
+    "options": {
+      "opt_a": "Temporal and spatial variation in precipitation coupled with rapidly growing population and rising per capita demand.",
+      "opt_b": "Total absence of transboundary water treaties leading to unhindered outflow of river waters.",
+      "opt_c": "Extensive reliance on groundwater extraction for water-intensive cash crops.",
+      "opt_d": "Inefficient agricultural practices combined with a lack of decentralized water harvesting structures."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "India receives about 4,000 cubic km of water from precipitation, but it is highly skewed temporally (concentrated in 3-4 monsoon months) and spatially (excess in the northeast, deficit in the west/south). This uneven distribution alongside population growth drives water stress.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → India receives about 4,000 cubic km of water from precipitation, but it is highly skewed temporally (concentrated in 3-4 monsoon months) ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Total absence of transboundary water treaties leading to unhindered outflow of river waters.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Extensive reliance on groundwater extraction for water-intensive cash crops.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Inefficient agricultural practices combined with a lack of decentralized water harvesting structures.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_d15f213c",
+      "questionStem": "Which of the following factors contributes most significantly to India being categorized as a 'water-stressed' nation despite having major perennial river systems?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_abb60464",
+    "stem": "Statement-I: The Tehri Dam, constructed on the Bhagirathi River, is India's highest earth and rock-fill dam.\nStatement-II: The dam is located in the seismic zone V and has faced considerable environmental scrutiny regarding ecological safety and local displacement.",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Both statements are factually correct. Tehri Dam is indeed the highest rock-fill dam in India situated on the Bhagirathi in Uttarakhand (Seismic Zone V) and has been controversial. However, Statement-II is an independent geographical context regarding its location and safety concerns, not the cause of its height or designation.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → However, Statement-II is an independent geographical context regarding its location and safety concerns, not the cause of its height or d....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_abb60464",
+      "questionStem": "Statement-I: The Tehri Dam, constructed on the Bhagirathi River, is India's highest earth and rock-fill dam.\nStatement-II: The dam is located in the seismic zone V and has faced considerable environmental scrutiny regarding ecological safety and local displacement.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_a54c4a3f",
+    "stem": "Which of the following statements best describes the Sardar Sarovar Project?",
+    "options": {
+      "opt_a": "It is a terminal dam constructed on the Tapi River to supply drinking water to drought-prone areas of Saurashtra and Kutch.",
+      "opt_b": "It is a multi-state water resource project on the Narmada River covering four states namely Madhya Pradesh, Gujarat, Maharashtra, and Rajasthan.",
+      "opt_c": "It is primarily a run-of-the-river hydroelectric project located entirely within the territory of Gujarat.",
+      "opt_d": "It is a joint venture between India and Pakistan under the Indus Waters Treaty to regulate floodwaters in the lower plains."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The Sardar Sarovar Project is a massive multi-purpose river valley project on the Narmada River benefiting four major states: Madhya Pradesh, Gujarat, Maharashtra, and Rajasthan. Option 'a' is incorrect because the dam is on the Narmada, not the Tapi.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Option 'a' is incorrect because the dam is on the Narmada, not the Tapi.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'It is a terminal dam constructed on the Tapi River to supply drinking water to drought-prone areas of Saurashtra and Kutch.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'It is primarily a run-of-the-river hydroelectric project located entirely within the territory of Gujarat.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'It is a joint venture between India and Pakistan under the Indus Waters Treaty to regulate floodwaters in the lower plains.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_a54c4a3f",
+      "questionStem": "Which of the following statements best describes the Sardar Sarovar Project?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_987e1bc2",
+    "stem": "Consider the following statements regarding water pollution and its management in India:\nStatement-I: Biochemical Oxygen Demand (BOD) is a reliable standard for measuring organic pollution in aquatic ecosystems.\nStatement-II: High levels of dissolved oxygen in a water body indicate high levels of microbial decomposition of organic waste.",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statement-I is correct because BOD measures the amount of dissolved oxygen needed by aerobic biological organisms to break down organic material. Statement-II is incorrect because high levels of organic waste actually cause a sharp drop in dissolved oxygen, as microbes consume the available oxygen during decomposition.\n\n💡 RANKER'S MEMORY LOCK: water pollution and its management in India → Statement-I is correct because BOD measures the amount of dissolved oxygen needed by aerobic biological organisms to break down organic m....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_987e1bc2",
+      "questionStem": "Consider the following statements regarding water pollution and its management in India:\nStatement-I: Biochemical Oxygen Demand (BOD) is a reliable standard for measuring organic pollution in aquatic ecosystems.\nStatement-II: High levels of dissolved oxygen in a water body indicate high levels of microbial decomposition of organic waste.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_9862a853",
+    "stem": "Which of the following is NOT a recognized strategy for water conservation and management in India?",
+    "options": {
+      "opt_a": "Adopting drip and sprinkler irrigation systems to enhance water-use efficiency in agriculture",
+      "opt_b": "Practicing rainwater harvesting through rooftop collection in urban residential complexes",
+      "opt_c": "Mandating the exclusive use of deep-well groundwater extraction for heavy industries to spare surface water for agriculture.",
+      "opt_d": "Recycling and treating municipal wastewater for industrial cooling and non-potable urban usage"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Large-scale inter-basin river linking and diversion without comprehensive environmental impact assessments causes severe ecological disruptions, displacement, and habitat loss; thus, it is not a standardized conservation method. Options 'a', 'b', and 'd' are standard, sustainable water management practices.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Large-scale inter-basin river linking and diversion without comprehensive environmental impact assessments causes severe ecological disru....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Adopting drip and sprinkler irrigation systems to enhance water-use efficiency in agriculture' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Practicing rainwater harvesting through rooftop collection in urban residential complexes' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Recycling and treating municipal wastewater for industrial cooling and non-potable urban usage' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_9862a853",
+      "questionStem": "Which of the following is NOT a recognized strategy for water conservation and management in India?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_19a32737",
+    "stem": "With reference to groundwater utilization in India, which of the following statements is correct?",
+    "options": {
+      "opt_a": "India is the world's lowest extractor of groundwater, accounting for less than two percent of global extractions.",
+      "opt_b": "The highest concentration of over-exploited groundwater blocks is found in the peninsular plateau region due to hard rock formations.",
+      "opt_c": "Agricultural sector accounts for the highest share of total groundwater withdrawal in the country.",
+      "opt_d": "Artesian wells are the predominant source of irrigation across the Indo-Gangetic alluvial plains."
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Agriculture is the largest consumer of groundwater in India, accounting for nearly 89% of total extractions for irrigation. India is actually the world's highest consumer of groundwater. The highest over-exploitation occurs in the northwestern alluvial plains (Punjab, Haryana) rather than the peninsula, and tube wells rather than artesian wells dominate the Indo-Gangetic plains.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → The highest over-exploitation occurs in the northwestern alluvial plains (Punjab, Haryana) rather than the peninsula, and tube wells rath....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'India is the world's lowest extractor of groundwater, accounting for less than two percent of global extractions.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'The highest concentration of over-exploited groundwater blocks is found in the peninsular plateau region due to hard rock formations.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Artesian wells are the predominant source of irrigation across the Indo-Gangetic alluvial plains.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_19a32737",
+      "questionStem": "With reference to groundwater utilization in India, which of the following statements is correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_2ce13d5b",
+    "stem": "Statement-I: The peninsular river basins experience lower storage capacity relative to their annual water flow compared to the Himalayan river basins.\nStatement-II: Himalayan rivers are snow-fed and perennial, whereas peninsular rivers are mainly rain-fed and subject to seasonal fluctuations.",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Both statements are factually correct geographic realities. However, Statement-II does not explain why peninsular river reservoirs have different storage volume ratios relative to flow; rather, storage capacity depends heavily on topography, valley cross-sections, and dam construction feasibility across geological formations.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → However, Statement-II does not explain why peninsular river reservoirs have different storage volume ratios relative to flow; rather, sto....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_2ce13d5b",
+      "questionStem": "Statement-I: The peninsular river basins experience lower storage capacity relative to their annual water flow compared to the Himalayan river basins.\nStatement-II: Himalayan rivers are snow-fed and perennial, whereas peninsular rivers are mainly rain-fed and subject to seasonal fluctuations.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_f99eb3a3",
+    "stem": "Which of the following measures contributes most directly to watershed development and management at the micro-level?",
+    "options": {
+      "opt_a": "Construction of massive multi-purpose concrete dams across trunk streams",
+      "opt_b": "Building contour bunds, gully plugs, and percolation tanks to enhance soil moisture and groundwater recharge",
+      "opt_c": "Laying long-distance inter-state canals for trans-basin water transfer",
+      "opt_d": "Deepening coastal aquifers through indiscriminate industrial borewell drilling"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Watershed management focuses on the management of biomass and water resources at the micro-watershed level through structures like contour bunding, gully plugging, and percolation tanks to arrest runoff and recharge groundwater. Large dams pertain to macro-scale river valley projects, while deep borewells deplete rather than manage aquifers.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Large dams pertain to macro-scale river valley projects, while deep borewells deplete rather than manage aquifers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Construction of massive multi-purpose concrete dams across trunk streams' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Laying long-distance inter-state canals for trans-basin water transfer' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Deepening coastal aquifers through indiscriminate industrial borewell drilling' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Water Resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 22,
+    "originalTopicName": "Water Resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_f99eb3a3",
+      "questionStem": "Which of the following measures contributes most directly to watershed development and management at the micro-level?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_0c0cb0c3",
+    "stem": "Consider the following measures undertaken under the Indira Gandhi Canal Command Area development:\n1. Afforestation and pasture development in Stage-I of the canal.\n2. Construction of watercourses (field channels) to reduce conveyance losses.\n\nWhich of the above measures specifically aim at countering environmental degradation in the region?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Afforestation, shelterbelt plantation, and pasture development are critical ecological measures undertaken in Stage-I and Stage-II to reduce wind erosion and shifting sand dunes. Construction of lined watercourses prevents seepage losses, controlling the rise of the water table and subsequent waterlogging.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Afforestation, shelterbelt plantation, and pasture development are critical ecological measures undertaken in Stage-I and Stage-II to red....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '2 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "You eliminated all options. Always trust verified NCERT core definitions even when worded in a slightly unfamiliar syntax."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Indira Gandhi Canal Command Area",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 55,
+    "originalTopicName": "Indira Gandhi Canal Command Area",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_0c0cb0c3",
+      "questionStem": "Consider the following measures undertaken under the Indira Gandhi Canal Command Area development:\n1. Afforestation and pasture development in Stage-I of the canal.\n2. Construction of watercourses (field channels) to reduce conveyance losses.\n\nWhich of the above measures specifically aim at countering environmental degradation in the region?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_d69f81e2",
+    "stem": "With reference to the Indira Gandhi Canal (formerly Rajasthan Canal) command area, consider the following statements:\n1. The introduction of canal irrigation has transformed the ecological landscape of the region from desert scrub to intensive agricultural cultivation.\n2. Excessive irrigation in the initial stages of the canal project led to the twin problems of waterlogging and soil salinity.\n3. The CADP (Command Area Development Programme) in the region primarily focuses on the promotion of energy-intensive heavy industries.\n\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Introduction of canal irrigation in the Thar desert led to greening of the area but caused severe waterlogging and soil salinization due to intensive surface irrigation without adequate drainage. Statement 3 is incorrect because CADP focuses on water management, afforestation, and agricultural extension, not heavy industries.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Statement 3 is incorrect because CADP focuses on water management, afforestation, and agricultural extension, not heavy industries.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Indira Gandhi Canal Command Area",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 55,
+    "originalTopicName": "Indira Gandhi Canal Command Area",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_d69f81e2",
+      "questionStem": "With reference to the Indira Gandhi Canal (formerly Rajasthan Canal) command area, consider the following statements:\n1. The introduction of canal irrigation has transformed the ecological landscape of the region from desert scrub to intensive agricultural cultivation.\n2. Excessive irrigation in the initial stages of the canal project led to the twin problems of waterlogging and soil salinity.\n3. The CADP (Command Area Development Programme) in the region primarily focuses on the promotion of energy-intensive heavy industries.\n\nHow many of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_db4b13be",
+    "stem": "In the context of the Indira Gandhi Canal, what was the primary environmental rationale behind implementing 'Stage-II' with strict protective measures?",
+    "options": {
+      "opt_a": "To supply water exclusively for thermal power plants in northern Rajasthan.",
+      "opt_b": "To mitigate the ecological hazards of waterlogging, soil salinity, and wind erosion observed in Stage-I.",
+      "opt_c": "To convert the entire desert region into a dense tropical rainforest ecosystem.",
+      "opt_d": "To facilitate large-scale urban migration from neighboring Punjab."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The severe environmental fallout observed in Stage-I (waterlogging, soil salinization due to over-irrigation, and loss of native vegetation) prompted planners to incorporate strict protective measures, afforestation, and pasture development into the execution of Stage-II.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → The severe environmental fallout observed in Stage-I (waterlogging, soil salinization due to over-irrigation, and loss of native vegetati....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'To supply water exclusively for thermal power plants in northern Rajasthan.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'To convert the entire desert region into a dense tropical rainforest ecosystem.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'To facilitate large-scale urban migration from neighboring Punjab.' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Indira Gandhi Canal Command Area",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 55,
+    "originalTopicName": "Indira Gandhi Canal Command Area",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_db4b13be",
+      "questionStem": "In the context of the Indira Gandhi Canal, what was the primary environmental rationale behind implementing 'Stage-II' with strict protective measures?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_6cca3c11",
+    "stem": "Which one of the following river basins in India has the highest percentage of its surface water potential utilized due to topographical and hydrological conditions?",
+    "options": {
+      "opt_a": "Brahmaputra basin",
+      "opt_b": "Ganga basin",
+      "opt_c": "Indus basin",
+      "opt_d": "Godavari basin"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Among the major river basins of India, the Indus basin has a very high level of surface water utilization due to an extensive network of canals and dams developed over decades. In contrast, basins like the Brahmaputra have a very low percentage of surface water utilization relative to their total annual flow due to terrain constraints and lower infrastructural development.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Among the major river basins of India, the Indus basin has a very high level of surface water utilization due to an extensive network of ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Brahmaputra basin' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Ganga basin' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Godavari basin' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Surface vs Groundwater resources",
+    "tier": "Basic",
+    "level": "Basic",
+    "difficulty_level": 1,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Surface vs Groundwater resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_6cca3c11",
+      "questionStem": "Which one of the following river basins in India has the highest percentage of its surface water potential utilized due to topographical and hydrological conditions?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_2df53c0f",
+    "stem": "Consider the following statements regarding the water resources of India:\n1. India accounts for about 16 percent of the world's water resources and supports about 4 percent of the world's population.\n2. The total replenishable groundwater resource in the country is highest in the Ganga and Brahmaputra basins.\n3. The utilization of groundwater is very high in the river basins situated in north-western and parts of southern India.\n\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "India accounts for about 4 percent of the world's water resources and supports about 16 percent of the world's population. Therefore, statement 1 is incorrect. The Ganga and Brahmaputra basins have high replenishable groundwater resources, making statement 2 correct. Due to intensive agriculture and high irrigation demand, groundwater utilization is very high in the north-western region (Punjab, Haryana, western UP) and parts of southern India, making statement 3 correct.\n\n💡 RANKER'S MEMORY LOCK: the water resources of India → India accounts for about 4 percent of the world's water resources and supports about 16 percent of the world's population.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Surface vs Groundwater resources",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Surface vs Groundwater resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_2df53c0f",
+      "questionStem": "Consider the following statements regarding the water resources of India:\n1. India accounts for about 16 percent of the world's water resources and supports about 4 percent of the world's population.\n2. The total replenishable groundwater resource in the country is highest in the Ganga and Brahmaputra basins.\n3. The utilization of groundwater is very high in the river basins situated in north-western and parts of southern India.\n\nHow many of the above statements are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_3aa1df0d",
+    "stem": "Consider the following statements regarding the National Water Mission, launched under the National Action Plan on Climate Change (NAPCC):\n1. It aims to increase water use efficiency by 20 percent through pricing and other regulatory mechanisms.\n2. It emphasizes comprehensive water data collection in the public domain and assessment of the impact of climate change on water resources.\n\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "One of the core goals of the National Water Mission under NAPCC is to significantly improve water use efficiency by 20% through various regulatory mechanisms, incentives, and awareness. It also mandates establishing a baseline database for water resources in the public domain and assessing climate change impacts on water availability. Both statements are correct.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → One of the core goals of the National Water Mission under NAPCC is to significantly improve water use efficiency by 20% through various r....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '2 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "You eliminated all options. Always trust verified NCERT core definitions even when worded in a slightly unfamiliar syntax."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "National Water Policy",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "National Water Policy",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_3aa1df0d",
+      "questionStem": "Consider the following statements regarding the National Water Mission, launched under the National Action Plan on Climate Change (NAPCC):\n1. It aims to increase water use efficiency by 20 percent through pricing and other regulatory mechanisms.\n2. It emphasizes comprehensive water data collection in the public domain and assessment of the impact of climate change on water resources.\n\nWhich of the statements given above is/are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_0689be68",
+    "stem": "Consider the following watershed development and management programs implemented in India:\n1. Haryali Guidelines\n2. Neeru-Meeru program\n3. Arvary Pani Sansad\n\nWhich of the above initiatives involve community participation for water conservation and management?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Haryali is a watershed development project sponsored by the Central Government, executed by Gram Panchayats with people's participation. Neeru-Meeru (Water and You) is a water conservation program in Andhra Pradesh involving community action. Arvary Pani Sansad is a decentralized water management institution pioneered in Rajasthan (Alwar district) through community mobilization for building check dams and water harvesting structures. All three involve community participation.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Haryali is a watershed development project sponsored by the Central Government, executed by Gram Panchayats with people's participation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 and 2 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Watershed management",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Watershed management",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_0689be68",
+      "questionStem": "Consider the following watershed development and management programs implemented in India:\n1. Haryali Guidelines\n2. Neeru-Meeru program\n3. Arvary Pani Sansad\n\nWhich of the above initiatives involve community participation for water conservation and management?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_6c91eff4",
+    "stem": "Consider the following statements regarding check dams and percolation tanks:\n1. They are constructed primarily to intercept surface runoff and enhance groundwater recharge.\n2. They reduce the velocity of flowing rainwater, thereby checking soil erosion in upper catchments.\n\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Check dams and percolation tanks are structural interventions in watershed management. They capture surface runoff during heavy rains, slow down the water flow to prevent soil erosion, and allow water to percolate into the ground, thus augmenting local groundwater aquifers. Both statements are correct.\n\n💡 RANKER'S MEMORY LOCK: check dams and percolation tanks → Check dams and percolation tanks are structural interventions in watershed management.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '1 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Fact Inversion Trap: Choosing '2 only' assumes the inverted property is correct. In Water Resources, Irrigation & Dams, examiners frequently flip opposing conditions or binary properties between statements."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "You eliminated all options. Always trust verified NCERT core definitions even when worded in a slightly unfamiliar syntax."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Watershed management",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Watershed management",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_6c91eff4",
+      "questionStem": "Consider the following statements regarding check dams and percolation tanks:\n1. They are constructed primarily to intercept surface runoff and enhance groundwater recharge.\n2. They reduce the velocity of flowing rainwater, thereby checking soil erosion in upper catchments.\n\nWhich of the statements given above is/are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_56c7dabd",
+    "stem": "Consider the following pairs regarding state-specific watershed and water conservation initiatives:\n1. Jal Jeevan Hariyali : Bihar\n2. Jalyukt Shivar Abhiyan : Maharashtra\n3. Mission Kakatiya : Telangana\n\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Jal Jeevan Hariyali is a climate-resilient water conservation scheme launched by the Government of Bihar. Jalyukt Shivar Abhiyan was initiated by the Government of Maharashtra to make drought-free villages through water conservation. Mission Kakatiya is a flagship program of Telangana aimed at the restoration of minor irrigation tanks and water bodies. All pairs are correctly matched.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Jal Jeevan Hariyali is a climate-resilient water conservation scheme launched by the Government of Bihar.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Watershed management",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Watershed management",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_56c7dabd",
+      "questionStem": "Consider the following pairs regarding state-specific watershed and water conservation initiatives:\n1. Jal Jeevan Hariyali : Bihar\n2. Jalyukt Shivar Abhiyan : Maharashtra\n3. Mission Kakatiya : Telangana\n\nHow many of the pairs given above are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_93474983",
+    "stem": "Consider the following traditional rainwater harvesting structures and their respective regions:\n1. Tankas : Western Rajasthan\n2. Kunds : Bundelkhand region\n3. Zing : Ladakh region\n\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Tankas are traditionally used in the dry and semi-arid regions of western Rajasthan (such as Bikaner and Barmer) for storing drinking water. Zing are water harvesting structures found in Ladakh that collect melting glacier water. Statement 2 is incorrect because Kunds are underground tank-like structures predominantly found in the arid and semi-arid regions of western Rajasthan, not the Bundelkhand region.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Kunds are underground tank-like structures predominantly found in the arid and semi-arid regions of western Rajasthan, not the Bundelkhan....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You failed to spot an accurate statement disguised by dense technical phrasing. Always verify each statement independently against core first principles."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine NCERT facts by over-analyzing. In UPSC Prelims, do not assume every statement is a trap; standard textbook principles are often completely valid."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Rainwater harvesting",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Rainwater harvesting",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_93474983",
+      "questionStem": "Consider the following traditional rainwater harvesting structures and their respective regions:\n1. Tankas : Western Rajasthan\n2. Kunds : Bundelkhand region\n3. Zing : Ladakh region\n\nHow many of the pairs given above are correctly matched?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_2afeb15b",
+    "stem": "With reference to the National Water Policy of India, consider the following provisions:\n1. It gives priority to drinking water as the first charge on available water.\n2. It emphasizes the need for inter-basin water transfers to alleviate water scarcity in deficit basins.\n3. It mandates that water pricing should be completely abolished to support marginal farmers across all states.\n\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The National Water Policy prioritizes drinking water allocation as the first charge on all water resources. It also recognizes the need for inter-basin transfers to distribute water equitably from surplus to deficit areas. Statement 3 is incorrect because the policy actually recommends rational water pricing to incentivize conservation and efficient utilization, rather than advocating complete abolition.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Statement 3 is incorrect because the policy actually recommends rational water pricing to incentivize conservation and efficient utilizat....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "National Water Policy",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "National Water Policy",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_2afeb15b",
+      "questionStem": "With reference to the National Water Policy of India, consider the following provisions:\n1. It gives priority to drinking water as the first charge on available water.\n2. It emphasizes the need for inter-basin water transfers to alleviate water scarcity in deficit basins.\n3. It mandates that water pricing should be completely abolished to support marginal farmers across all states.\n\nWhich of the statements given above are correct?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_f8c706ee",
+    "stem": "Assertion (A): The peninsular river basins of India generally have lower annual replenishable groundwater resources compared to the northern plain river basins.\nReason (R): Peninsular India is characterized by hard rock terrain with low porosity and permeability, restricting deep percolation of rainwater.",
+    "options": {
+      "opt_a": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "opt_b": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+      "opt_c": "Both (A) and (R) are false",
+      "opt_d": "(A) is true but (R) is false"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The northern plains are underlain by thick alluvial deposits which have high porosity and permeability, facilitating extensive groundwater storage. Conversely, the peninsular region consists primarily of crystalline and hard rock formations (basalt, gneiss, granite) which limit groundwater storage capacity and permeability. Therefore, R directly explains A.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → The northern plains are underlain by thick alluvial deposits which have high porosity and permeability, facilitating extensive groundwate....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized the facts but missed the direct physical mechanism linking Statement-II as the explanatory engine of Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Surface vs Groundwater resources",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Surface vs Groundwater resources",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_f8c706ee",
+      "questionStem": "Assertion (A): The peninsular river basins of India generally have lower annual replenishable groundwater resources compared to the northern plain river basins.\nReason (R): Peninsular India is characterized by hard rock terrain with low porosity and permeability, restricting deep percolation of rainwater.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_1dda1e4f",
+    "stem": "In the context of urban water management in India, what is the primary objective of mandating rooftop rainwater harvesting in building bye-laws?",
+    "options": {
+      "opt_a": "To replace municipal water supply entirely for domestic consumption in metropolitan cities",
+      "opt_b": "To mitigate urban flooding by storing excess runoff and to recharge depleted urban aquifers",
+      "opt_c": "To reduce the cost of sewage treatment plants operated by urban local bodies",
+      "opt_d": "To eliminate the problem of heavy metal contamination in municipal water treatment plants"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Rooftop rainwater harvesting in urban areas is primarily mandated to arrest the rapid decline of urban water tables through artificial groundwater recharge and to reduce peak surface runoff, thereby mitigating urban flooding during heavy cloudbursts and monsoon downpours.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Rooftop rainwater harvesting in urban areas is primarily mandated to arrest the rapid decline of urban water tables through artificial gr....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'To replace municipal water supply entirely for domestic consumption in metropolitan cities' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'To reduce the cost of sewage treatment plants operated by urban local bodies' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'To eliminate the problem of heavy metal contamination in municipal water treatment plants' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Rainwater harvesting",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 57,
+    "originalTopicName": "Rainwater harvesting",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_1dda1e4f",
+      "questionStem": "In the context of urban water management in India, what is the primary objective of mandating rooftop rainwater harvesting in building bye-laws?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_de9adfd2",
+    "stem": "Assertion (A): The introduction of the Indira Gandhi Canal (Rajasthan Canal) transformed the ecological landscape of the Thar desert from dry scrubland to intensive agricultural production.\nReason (R): Introduction of canal irrigation in arid tracts leads to a significant rise in the groundwater table, which, coupled with high evaporation, triggers problems of soil salinization and waterlogging.",
+    "options": {
+      "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "opt_b": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+      "opt_c": "(A) is true, but (R) is false",
+      "opt_d": "(A) is false, but (R) is true"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Both statements are factually correct regarding the Indira Gandhi Canal Command Area. The canal brought intensive irrigation and agricultural transformation (A), while also causing ecological issues like waterlogging and soil salinity due to over-irrigation and seepage (R). However, R describes the ecological side-effect rather than being the direct cause of the agricultural transformation described in A.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → The canal brought intensive irrigation and agricultural transformation (A), while also causing ecological issues like waterlogging and so....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Correlation vs Causation Trap",
+        "dissection": "Both statements may be factually correct, but Statement-II is a parallel phenomenon, not the root causal explanation for Statement-I. UPSC uses this to test true cause-effect mastery."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You misidentified a true statement as false (or vice-versa). Check NCERT definitions for specific boundary conditions."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Indira Gandhi Canal Command Area",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 60,
+    "originalTopicName": "Indira Gandhi Canal Command Area",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_de9adfd2",
+      "questionStem": "Assertion (A): The introduction of the Indira Gandhi Canal (Rajasthan Canal) transformed the ecological landscape of the Thar desert from dry scrubland to intensive agricultural production.\nReason (R): Introduction of canal irrigation in arid tracts leads to a significant rise in the groundwater table, which, coupled with high evaporation, triggers problems of soil salinization and waterlogging.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_519dd597",
+    "stem": "Which of the following environmental strategies is considered the most critical for mitigating the ecological degradation associated with Stage-II of the Indira Gandhi Canal Command Area?",
+    "options": {
+      "opt_a": "Extensive promotion of paddy cultivation to utilize excess surface water",
+      "opt_b": "Implementation of water management strategies, including afforestation, shelterbelt plantation, and lined watercourses",
+      "opt_c": "Continuous heavy pumping of groundwater to lower the regional water table",
+      "opt_d": "Complete cessation of canal water supply to affected districts during winter months"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Stage-II of the Indira Gandhi Canal Command Area emphasizes eco-development through afforestation, shelterbelts against wind erosion, pasture development, and lining of watercourses to prevent seepage and subsequent waterlogging.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Stage-II of the Indira Gandhi Canal Command Area emphasizes eco-development through afforestation, shelterbelts against wind erosion, pas....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Extensive promotion of paddy cultivation to utilize excess surface water' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Continuous heavy pumping of groundwater to lower the regional water table' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Complete cessation of canal water supply to affected districts during winter months' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Indira Gandhi Canal Command Area",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 60,
+    "originalTopicName": "Indira Gandhi Canal Command Area",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_519dd597",
+      "questionStem": "Which of the following environmental strategies is considered the most critical for mitigating the ecological degradation associated with Stage-II of the Indira Gandhi Canal Command Area?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_a301c2cf",
+    "stem": "Consider the following impacts of the Indira Gandhi Canal project on the socio-economic profile of the region:\n1. Substantial increase in the production of crops such as wheat and cotton due to assured irrigation.\n2. Transformation of the traditional nomadic pastoral economy towards sedentary commercial agriculture.\n3. In-migration of agricultural laborers and farmers from neighboring states like Punjab and Haryana.",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. The canal has boosted agricultural output (wheat and cotton), changed nomadic pastoralism to settled farming, and attracted in-migration of labor and cultivators from Punjab, Haryana, and northern Rajasthan.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → The canal has boosted agricultural output (wheat and cotton), changed nomadic pastoralism to settled farming, and attracted in-migration ....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Distractor Trap",
+        "dissection": "This combination includes an unverified premise. Isolate the specific false claim before committing to an option."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Indira Gandhi Canal Command Area",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 60,
+    "originalTopicName": "Indira Gandhi Canal Command Area",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_a301c2cf",
+      "questionStem": "Consider the following impacts of the Indira Gandhi Canal project on the socio-economic profile of the region:\n1. Substantial increase in the production of crops such as wheat and cotton due to assured irrigation.\n2. Transformation of the traditional nomadic pastoral economy towards sedentary commercial agriculture.\n3. In-migration of agricultural laborers and farmers from neighboring states like Punjab and Haryana.",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_580f28df",
+    "stem": "Which of the following measures forms the core of the 'sustainability strategy' recommended for canal command areas suffering from severe waterlogging and soil salinization?",
+    "options": {
+      "opt_a": "Promoting surface drainage networks and bio-drainage through plantation of suitable tree species like Eucalyptus",
+      "opt_b": "Encouraging flood irrigation methods to flush out accumulated salts below the root zone",
+      "opt_c": "Complete abandonment of agricultural activities in command areas",
+      "opt_d": "Replacing canal water entirely with deep saline groundwater extraction"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Bio-drainage using high water-consuming trees and construction of surface/sub-surface drainage systems are standard engineering and biological measures recommended to lower the water table and mitigate waterlogging and salinity in canal command areas.\n\n💡 RANKER'S MEMORY LOCK: Water Resources, Irrigation & Dams → Bio-drainage using high water-consuming trees and construction of surface/sub-surface drainage systems are standard engineering and biolo....",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Encouraging flood irrigation methods to flush out accumulated salts below the root zone' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Complete abandonment of agricultural activities in command areas' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Concept Distractor",
+        "dissection": "Adjacent Entity Trap: 'Replacing canal water entirely with deep saline groundwater extraction' is a closely related sibling concept in Water Resources, Irrigation & Dams. The examiner tests whether you can distinguish the exact defining boundary condition from neighboring features."
+      }
+    ],
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "Indian Geography",
+    "subTopic": "Indira Gandhi Canal Command Area",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 60,
+    "originalTopicName": "Indira Gandhi Canal Command Area",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_580f28df",
+      "questionStem": "Which of the following measures forms the core of the 'sustainability strategy' recommended for canal command areas suffering from severe waterlogging and soil salinization?",
+      "intentType": "definition",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  }
+]
