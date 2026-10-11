@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "totalQuestions": 2821,
+  "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
+  "endpoints": {
+    "questions_cdn": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/questions.json",
+    "questions_raw": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/questions.json"
+  },
+  "updatedAt": "2026-10-11T15:23:00Z"
+}
