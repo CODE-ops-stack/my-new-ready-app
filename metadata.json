@@ -1,8 +1,8 @@
 {
-  "version": 16,
+  "version": 17,
   "totalQuestions": 2822,
-  "apkSha256": "06C247D01497C364E5FA04FE60E5862B82788CEFFF1F25877264FFBF96026CC8",
-  "apkSizeBytes": 34054089,
+  "apkSha256": "ECAA98650D4C8B1618D6325C215657C7054EA8909D9D764EA1C04F9EDBA685B4",
+  "apkSizeBytes": 33647668,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -38,6 +38,6 @@
     "🗺️ World Regional Geography": 60,
     "📍 Bihar Geography": 2
   },
-  "updatedAt": "2026-10-12T09:44:30Z",
-  "releaseNotes": "Version 16: Automated Over-The-Air (OTA) In-App APK Updater with FileProvider integration, real-time download streaming, and seamless offline data preservation."
+  "updatedAt": "2026-10-12T11:48:04Z",
+  "releaseNotes": "Version 17: Complete Geography Syllabus Taxonomy (23 Chapters across Physical, Indian, and World & Human Geography), expanded by default with chapter & MCQ counters, and autonomous in-app Over-The-Air updater."
 }
