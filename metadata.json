@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "totalQuestions": 2822,
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
@@ -36,6 +36,6 @@
     "World Regional Geography": 60,
     "Bihar Geography": 2
   },
-  "updatedAt": "2026-10-11T22:48:00Z",
-  "releaseNotes": "Version 10 (Pure On-Demand Online Cloud Stream): Sliced topic endpoints for instantaneous on-demand network streaming with zero persistent local question storage."
+  "updatedAt": "2026-10-12T07:20:00Z",
+  "releaseNotes": "Version 12: Production MNC-Grade Verified Release. 2,822 questions, live zero-disk streaming into RAM, confidence roadblock permanently excised with instant scoring & feedback, network Retry Connection button, and resilient UUID analytics."
 }
