@@ -1,8 +1,8 @@
 {
-  "version": 13,
+  "version": 14,
   "totalQuestions": 2822,
-  "apkSha256": "21C28EF6CC5AD7CB25581A87895D943D9CEAF9E6A726AB95FD8D3BD65866EF84",
-  "apkSizeBytes": 33973033,
+  "apkSha256": "0FF1BD364C06C7876FBB36A04CD2618BFEA411B67D6E911670EE6394A0EC3FBF",
+  "apkSizeBytes": 33973819,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -38,6 +38,6 @@
     "World Regional Geography": 60,
     "Bihar Geography": 2
   },
-  "updatedAt": "2026-10-12T07:55:00Z",
-  "releaseNotes": "Version 13: 100% Cartographic & Topographic Atlas Geography Overhaul. Every screen, font, icon, badge, card, and background completely redesigned with oceanic depth palettes (AbyssNavy, OceanicDark, DeepBasalt), cartographic serif typography, coordinate ribbons, contour elevation pills (NCERT Base to Alpine Peak), compass rose watermarks, 23 customized topic icons, and surveyor general dissections."
+  "updatedAt": "2026-10-12T08:00:00Z",
+  "releaseNotes": "Version 14: Hardened Production MNC-Grade Release. Complete Cartographic Atlas Geography theme across all 14 screens, PaperTwin offline safety guards, UUID query resilience, and pure volatile RAM streaming."
 }
