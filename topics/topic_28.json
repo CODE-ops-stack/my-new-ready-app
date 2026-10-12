@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "opt_q28_01",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In political geography, what is the fundamental conceptual difference between a 'Frontier' and a 'Boundary'?",
+    "options": {
+      "opt_a": "A frontier is a zonal area of contact or transition (centrifugal), whereas a boundary is a linear demarcated limit of sovereignty (centripetal)",
+      "opt_b": "A frontier is an internationally recognized line drawn on a treaty map, while a boundary is an uninhabited desert",
+      "opt_c": "A boundary can only exist between two island nations, while a frontier is strictly an underground tunnel",
+      "opt_d": "There is no difference; the terms are identical synonyms in international law"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "As formulated by geographers like Lord Curzon, Bowman, and Moodie: a Frontier is an outer-oriented, transitional geographic ZONE with fluctuating margins. A Boundary is a precise, legally surveyed, inner-oriented LINE demarcating the sovereign jurisdiction of a modern state.\n\n💡 RANKER'S MEMORY LOCK: Frontier = A transitional geographic ZONE (area). Boundary = A demarcated sovereign LINE (border).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Synonym Fallacy",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_02",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Richard Hartshorne's genetic classification of boundaries, a boundary that is drawn across a cultural landscape *after* significant settlement and ethnic patterns have already developed is termed a:",
+    "options": {
+      "opt_a": "Subsequent Boundary",
+      "opt_b": "Antecedent Boundary",
+      "opt_c": "Superimposed Boundary",
+      "opt_d": "Relict Boundary"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Subsequent Boundary is drawn after cultural development has occurred, deliberately conforming to pre-existing ethnic, linguistic, or cultural divides (e.g. boundary between Northern Ireland and the Republic of Ireland, or post-WWI European borders).\n\n💡 RANKER'S MEMORY LOCK: Subsequent Boundary = Conforms to pre-existing cultural/ethnic patterns after settlement.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Antecedent Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_03",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "A boundary that was forcibly demarcated across a territory by an outside colonial power without regard to existing cultural, tribal, or ethnic landscape unities (such as the Radcliffe Line in Punjab/Bengal or African colonial borders) is termed a:",
+    "options": {
+      "opt_a": "Superimposed Boundary",
+      "opt_b": "Antecedent Boundary",
+      "opt_c": "Subsequent Boundary",
+      "opt_d": "Relict Boundary"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Superimposed Boundary is imposed by an external imperial power across pre-existing cultural groups, violently bisecting families, tribes, and language communities (e.g., the partition borders of India and Pakistan drawn by Sir Cyril Radcliffe in 1947).\n\n💡 RANKER'S MEMORY LOCK: Superimposed Boundary = Forcibly drawn by outside power ignoring cultural landscape (e.g. Radcliffe Line).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Subsequent Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_04",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "A boundary that has ceased to function as a sovereign political frontier, but whose spatial imprint remains distinctly visible in the cultural landscape (such as the Berlin Wall or the Great Wall of China) is termed a:",
+    "options": {
+      "opt_a": "Relict (or Relic) Boundary",
+      "opt_b": "Antecedent Boundary",
+      "opt_c": "Subsequent Boundary",
+      "opt_d": "Superimposed Boundary"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Relict Boundary no longer exercises political jurisdiction between sovereign states, but persists as an archaeological, architectural, or socio-economic trace on the cultural landscape.\n\n💡 RANKER'S MEMORY LOCK: Relict Boundary = Former political boundary that no longer functions, but leaves visible cultural traces.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Active Border Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_05",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Under Article 262 of the Constitution of India, which constitutional institution is empowered to adjudicate disputes relating to waters of inter-state rivers or river valleys?",
+    "options": {
+      "opt_a": "Inter-State River Water Disputes Tribunals constituted by Parliament through statutory law",
+      "opt_b": "The Supreme Court of India through regular original jurisdiction under Article 131",
+      "opt_c": "The Union Ministry of External Affairs",
+      "opt_d": "The National Disaster Management Authority (NDMA)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Article 262 empowers Parliament to enact legislation for the adjudication of inter-state river disputes and explicitly permits Parliament to bar the jurisdiction of the Supreme Court, operationalized via the Inter-State River Water Disputes Act, 1956.\n\n💡 RANKER'S MEMORY LOCK: Article 262 = Parliamentary law for Inter-State River Water Tribunals (SC jurisdiction barred under Act).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Supreme Court Direct Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_06",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Under the United Nations Convention on the Law of the Sea (UNCLOS), the 'Territorial Sea' extends up to a maximum breadth of how many nautical miles from the coastal baseline?",
+    "options": {
+      "opt_a": "12 Nautical Miles",
+      "opt_b": "24 Nautical Miles",
+      "opt_c": "200 Nautical Miles",
+      "opt_d": "350 Nautical Miles"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Territorial Sea extends up to 12 nautical miles (22.2 km) from the baseline. Within this belt, the coastal state exercises full sovereign jurisdiction over the water column, airspace, seabed, and subsoil (subject to the right of innocent passage).\n\n💡 RANKER'S MEMORY LOCK: UNCLOS Zones: Territorial Sea = 12 nm. Contiguous Zone = 24 nm. Exclusive Economic Zone (EEZ) = 200 nm.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "EEZ 200 Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_07",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Under UNCLOS, the 'Exclusive Economic Zone' (EEZ) grants a coastal sovereign state exclusive sovereign rights over marine resources up to what distance from the baseline?",
+    "options": {
+      "opt_a": "200 Nautical Miles",
+      "opt_b": "12 Nautical Miles",
+      "opt_c": "24 Nautical Miles",
+      "opt_d": "500 Nautical Miles"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Exclusive Economic Zone (EEZ) extends to 200 nautical miles (370.4 km) from the territorial baseline, granting exclusive rights for exploring, exploiting, conserving, and managing natural resources (fish, oil, gas, polymetallic nodules).\n\n💡 RANKER'S MEMORY LOCK: EEZ = 200 Nautical Miles (Sovereign resource rights; foreign ships retain freedom of navigation).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Territorial 12 Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_08",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Siliguri Corridor' (commonly referred to as the 'Chicken's Neck'), connecting the Indian mainland with the eight Northeastern states, has a minimum width of approximately:",
+    "options": {
+      "opt_a": "20 to 22 kilometers",
+      "opt_b": "200 kilometers",
+      "opt_c": "500 kilometers",
+      "opt_d": "5 kilometers"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Siliguri Corridor in northern West Bengal is a narrow geostrategic bottleneck approximately 20 to 22 km wide at its narrowest point, flanked by Nepal on the west and Bangladesh on the east, with Bhutan and the Chumbi Valley close to the north.\n\n💡 RANKER'S MEMORY LOCK: Siliguri Corridor ('Chicken's Neck') = ~20-22 km narrow choke point connecting the Northeast to mainland India.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Width Inflation Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_09",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Sir Creek Dispute' between India and Pakistan in the Rann of Kutch centers on which fundamental geographical disagreement?",
+    "options": {
+      "opt_a": "Whether the boundary follows the mid-channel (Thalweg principle) or the eastern bank of the 96 km tidal estuary",
+      "opt_b": "Whether the Arabian Sea should be converted into an agricultural wheat farm",
+      "opt_c": "The ownership of a Himalayan glacier at 6,000 meters altitude",
+      "opt_d": "The construction of a transcontinental railway between Karachi and Delhi"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Sir Creek dispute involves a 96 km tidal estuary in the Rann of Kutch. India asserts the international boundary must follow the navigable 'Thalweg' (mid-channel line). Pakistan claims the eastern bank based on a 1914 colonial resolution, which would shift maritime EEZ boundaries in its favor.\n\n💡 RANKER'S MEMORY LOCK: Sir Creek Dispute = Thalweg Principle (mid-channel, India's stance) vs. Eastern Bank claim (Pakistan's stance).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Glacier Confusion",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_10",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Kalapani Dispute' between India and Nepal centers on divergent interpretations of the Treaty of Sugauli (1816) regarding the exact origin of which border river?",
+    "options": {
+      "opt_a": "Kali (Mahakali / Sharda) River",
+      "opt_b": "Gandak River",
+      "opt_c": "Kosi River",
+      "opt_d": "Teesta River"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Treaty of Sugauli (1816) fixed the Kali River as the western international boundary of Nepal. India identifies the origin at the Kalapani springs/Lipulekh ridge, whereas Nepal claims the river originates further west from Limpiyadhura, creating a triangular dispute.\n\n💡 RANKER'S MEMORY LOCK: Kalapani Dispute = Origin of the Kali (Mahakali) River under the 1816 Treaty of Sugauli.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Gandak Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_11",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Under the Indus Waters Treaty (1960) brokered by the World Bank, the waters of which three 'Eastern Rivers' were allocated for unrestricted use to India?",
+    "options": {
+      "opt_a": "Ravi, Beas, and Sutlej",
+      "opt_b": "Indus, Jhelum, and Chenab",
+      "opt_c": "Ganga, Yamuna, and Brahmaputra",
+      "opt_d": "Narmada, Tapi, and Mahi"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Under the 1960 Treaty, India was granted unrestricted use of the three Eastern Rivers (Ravi, Beas, Sutlej), while Pakistan was allocated the three Western Rivers (Indus, Jhelum, Chenab), with India retaining run-of-the-river hydroelectric and non-consumptive rights.\n\n💡 RANKER'S MEMORY LOCK: Indus Waters Treaty (1960): India = Eastern Rivers (Ravi, Beas, Sutlej). Pakistan = Western Rivers (Indus, Jhelum, Chenab).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Western Rivers Swap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_12",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "India's strategic maritime initiative 'SAGAR', unveiled in 2015 for the Indian Ocean Realm, stands for:",
+    "options": {
+      "opt_a": "Security and Growth for All in the Region",
+      "opt_b": "Submarine Attack and Guided Armament Reconnaissance",
+      "opt_c": "Satellite Aerial Geography and Radar Mapping",
+      "opt_d": "South Asian Global Agricultural Regulation"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Unveiled in Mauritius in 2015, SAGAR (Security and Growth for All in the Region) is India's consultative maritime geopolitical vision emphasizing cooperative security, sustainable blue economy development, and transparent rules-based navigation in the Indian Ocean.\n\n💡 RANKER'S MEMORY LOCK: SAGAR = Security and Growth for All in the Region (India's Indian Ocean vision).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Military Acronym Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_13",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'McMahon Line', recognized by India as its legal international boundary in the Eastern Sector (Arunachal Pradesh), was agreed upon during which historical convention in 1914?",
+    "options": {
+      "opt_a": "Simla Convention (1914)",
+      "opt_b": "Treaty of Sugauli (1816)",
+      "opt_c": "Treaty of Gandamak (1879)",
+      "opt_d": "Radcliffe Boundary Commission (1947)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The McMahon Line was drawn by Sir Henry McMahon, foreign secretary of British India, and accepted by representatives of Tibet and British India at the Simla Convention in 1914, running along the crest of the High Himalayas.\n\n💡 RANKER'S MEMORY LOCK: McMahon Line = Simla Convention (1914). Crest of High Himalayas bordering Arunachal Pradesh.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Radcliffe Confusion",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_14",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The strategic maritime chokepoint connecting the Indian Ocean with the South China Sea, through which over 60% of China's oil imports and major Indo-Pacific trade flow, is the:",
+    "options": {
+      "opt_a": "Strait of Malacca",
+      "opt_b": "Strait of Hormuz",
+      "opt_c": "Bab-el-Mandeb Strait",
+      "opt_d": "Palk Strait"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Strait of Malacca, running between the Malay Peninsula and the Indonesian island of Sumatra, is the world's most congested maritime chokepoint, presenting China with its famous 'Malacca Dilemma'.\n\n💡 RANKER'S MEMORY LOCK: Strait of Malacca = Connects Indian Ocean to South China Sea/Pacific (Crucial global shipping chokepoint).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Hormuz Trap",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_15",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Chabahar Port', being developed with Indian assistance to bypass Pakistan and access landlocked Afghanistan and Central Asia, is strategically located in which country?",
+    "options": {
+      "opt_a": "Iran (Gulf of Oman)",
+      "opt_b": "Oman (Arabian Sea)",
+      "opt_c": "Pakistan (Makran Coast)",
+      "opt_d": "Yemen (Red Sea)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Chabahar is Iran's only oceanic port, situated on the Makran coast of Sistan-Baluchestan province in the Gulf of Oman, providing India with a direct multi-modal transit route to Afghanistan (via the Zaranj-Delaram highway) and Central Asia.\n\n💡 RANKER'S MEMORY LOCK: Chabahar Port = Iran (Gulf of Oman). Bypasses Pakistan for trade to Afghanistan and INSTC.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Gwadar Confusion",
+        "dissection": "Distractor represents a different geopolitical entity or border treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary boundary mechanism with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing Indian Ocean choke points with Atlantic routes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_16",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In political geography, the 'Geographical Basis of Indian Federalism' is best understood as a constitutional response to:",
+    "options": {
+      "opt_a": "Immense regional diversity in physiography, climate, languages, and ethnic identities requiring decentralized state autonomy within an indestructible Union",
+      "opt_b": "A completely homogeneous, uniform cultural plain with identical agricultural practices everywhere",
+      "opt_c": "The absence of any state governments or provincial boundaries",
+      "opt_d": "An international treaty imposed by the League of Nations in 1919"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Indian federalism is a territorial mechanism for accommodating profound socio-spatial diversity. The constitutional division of powers (Union, State, Concurrent Lists) and asymmetric arrangements reflect the geographic reality of diverse river basins, mountain peripheries, and linguistic regions.\n\n💡 RANKER'S MEMORY LOCK: Indian Federalism = Constitutional accommodation of geographical, cultural, and linguistic diversity.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Homogeneity Myth",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_17",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Under the Indian Constitution, 'Asymmetric Federalism' is exemplified by which special constitutional provisions granting varying degrees of cultural and economic autonomy to specific border and tribal states?",
+    "options": {
+      "opt_a": "Articles 371, 371A to 371J",
+      "opt_b": "Article 352 (National Emergency)",
+      "opt_c": "Article 356 (President's Rule)",
+      "opt_d": "Article 12 (Definition of State)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Articles 371 through 371J provide asymmetric constitutional protections (e.g. 371A for Nagaland protecting customary law and land; 371G for Mizoram; 371J for Kalyana-Karnataka regional development boards), reflecting geographic asymmetry.\n\n💡 RANKER'S MEMORY LOCK: Asymmetric Federalism = Articles 371 to 371J (Special regional protections for Nagaland, Mizoram, Assam, Manipur, etc.).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Emergency Trap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_18",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Cauvery Water Dispute' historically centers on the seasonal allocation of river water between which primary riparian states and UT?",
+    "options": {
+      "opt_a": "Karnataka (Upper riparian) and Tamil Nadu (Lower riparian), along with Kerala and Puducherry",
+      "opt_b": "Maharashtra and Gujarat",
+      "opt_c": "Punjab, Haryana, and Rajasthan",
+      "opt_d": "Odisha and Andhra Pradesh"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Cauvery basin dispute involves Karnataka (upstream basin, where dams like KRS control flow) and Tamil Nadu (downstream agricultural delta dependent on Mettur dam), with catchment contributions from Kerala and downstream irrigation in Puducherry's Karaikal enclave.\n\n💡 RANKER'S MEMORY LOCK: Cauvery Dispute = Karnataka (Upper Riparian) vs. Tamil Nadu (Lower Riparian) + Kerala & Puducherry.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Godavari Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_19",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Krishna Water Disputes Tribunal-II' (KWDT-II / Justice Brijesh Kumar Tribunal) addresses water sharing disputes among which three riparian states?",
+    "options": {
+      "opt_a": "Maharashtra, Karnataka, and Andhra Pradesh (including Telangana)",
+      "opt_b": "Madhya Pradesh, Gujarat, and Rajasthan",
+      "opt_c": "Tamil Nadu, Kerala, and Karnataka",
+      "opt_d": "Punjab, Haryana, and Himachal Pradesh"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Krishna river originates in Maharashtra (Mahabaleshwar), flows through Karnataka, and traverses Andhra Pradesh and Telangana before discharging into the Bay of Bengal, making water allocation a contentious inter-state issue.\n\n💡 RANKER'S MEMORY LOCK: Krishna River Dispute = Maharashtra (Upper) → Karnataka (Middle) → Andhra Pradesh & Telangana (Lower).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Narmada Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_20",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Mahadayi (Mandovi) River Water Dispute' involves conflicting claims between which three states regarding water diversion for drinking and irrigation?",
+    "options": {
+      "opt_a": "Goa, Karnataka, and Maharashtra",
+      "opt_b": "Kerala, Tamil Nadu, and Karnataka",
+      "opt_c": "Odisha, Chhattisgarh, and Andhra Pradesh",
+      "opt_d": "Gujarat, Rajasthan, and Madhya Pradesh"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Mahadayi river originates in the Western Ghats of Belagavi (Karnataka) and flows into Goa, forming its lifeline. The dispute arose over Karnataka's Kalasa-Banduri Nala project aiming to divert Mahadayi water into the Malaprabha basin for drinking water in Hubballi-Dharwad.\n\n💡 RANKER'S MEMORY LOCK: Mahadayi (Mandovi) Dispute = Goa vs. Karnataka vs. Maharashtra (Kalasa-Banduri diversion project).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Periyar Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_21",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In international boundary jurisprudence, the 'Thalweg Principle' stipulates that an international river boundary follows:",
+    "options": {
+      "opt_a": "The center of the principal navigable channel (the line of lowest elevation along the watercourse)",
+      "opt_b": "The exact geographic midpoint between the outer high-water marks of both banks",
+      "opt_c": "The eastern shoreline exclusively, regardless of river flow depth",
+      "opt_d": "A straight artificial line drawn between the two capital cities"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Thalweg principle (from German 'valley way') is the standard international law principle for navigable border rivers: the boundary runs along the deepest continuous navigable channel, ensuring both riparian states retain equal navigational access.\n\n💡 RANKER'S MEMORY LOCK: Thalweg Principle = Center of the deepest navigable channel in a border river (ensures mutual navigation).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Median Bank Trap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_22",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Land Boundary Agreement' (LBA) between India and Bangladesh, operationalized by the 100th Constitutional Amendment Act in 2015, resolved decades of territorial friction by:",
+    "options": {
+      "opt_a": "Exchanging 111 Indian enclaves (*Chhitmahals*) in Bangladesh for 51 Bangladeshi enclaves in India and demarcating a 6.1 km un-demarcated boundary",
+      "opt_b": "Annexing the entire territory of Bangladesh into the Indian Union",
+      "opt_c": "Building an impassable ocean canal connecting the Bay of Bengal to Bhutan",
+      "opt_d": "Ceding the Sundarbans mangrove forest entirely to Myanmar"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The historic 2015 LBA ended the anomaly of 162 enclaves (islands of foreign sovereignty surrounded by host territory) in Cooch Behar and Rangpur, granting residents citizenship choices and finalizing the 4,096 km border.\n\n💡 RANKER'S MEMORY LOCK: 100th Amendment (2015) = India-Bangladesh Land Boundary Agreement (LBA) exchanging enclaves (Chhitmahals).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Annexation Myth Trap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_23",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'International North-South Transport Corridor' (INSTC) is a 7,200-km multi-modal transit network designed to connect India to Russia and Europe through which primary transit corridor?",
+    "options": {
+      "opt_a": "India (Mumbai) → Iran (Chabahar / Bandar Abbas) → Caspian Sea → Russia (Astrakhan / Moscow)",
+      "opt_b": "India → China → Trans-Siberian Railway → Baltic Sea",
+      "opt_c": "India → Pakistan → Afghanistan → Turkmenistan",
+      "opt_d": "India → Red Sea → Suez Canal → Mediterranean Sea"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "INSTC connects Mumbai to Bandar Abbas by sea, overland through Iran by rail/road to the Caspian Sea (Bandar Anzali), across the Caspian to Astrakhan, and by rail to Moscow and Europe, cutting transit time by 40% compared to the Suez Canal route.\n\n💡 RANKER'S MEMORY LOCK: INSTC = Mumbai → Iran (Bandar Abbas/Chabahar) → Caspian Sea → Russia (Astrakhan) → Europe.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Suez Route Trap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_24",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The strategic deep-water maritime port of 'Gwadar', developed by China as the terminus of the China-Pakistan Economic Corridor (CPEC), is located on which coast?",
+    "options": {
+      "opt_a": "Makran Coast of Balochistan (Arabian Sea)",
+      "opt_b": "Sindh delta coast near Karachi",
+      "opt_c": "Bay of Bengal coast near Chittagong",
+      "opt_d": "Malabar coast of Kerala"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Gwadar is situated on the Makran coast of Pakistan's Balochistan province, commanding the mouth of the Persian Gulf (just 120 km east of Chabahar), serving as China's primary Arabian Sea trade outlet for CPEC.\n\n💡 RANKER'S MEMORY LOCK: Gwadar Port = Makran coast, Balochistan (CPEC Arabian Sea hub). Directly rivals Chabahar.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Karachi Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_25",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Kaladan Multi-Modal Transit Transport Project' was conceived by India to provide an alternative strategic access route to its landlocked Northeastern states through:",
+    "options": {
+      "opt_a": "Myanmar (Kolkata to Sittwe Port by sea, Sittwe to Paletwa by Kaladan river, Paletwa to Zorinpui/Mizoram by road)",
+      "opt_b": "Bangladesh (Chittagong port to Tripura exclusively by rail)",
+      "opt_c": "Bhutan (Phuentsholing to Guwahati by road)",
+      "opt_d": "Nepal (Birgunj to Siliguri by oil pipeline)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Kaladan connects Kolkata port to Sittwe port in Myanmar (539 km sea), then along the Kaladan river to Paletwa (158 km river), and from Paletwa to Zorinpui on the India-Myanmar border in Mizoram (110 km road), bypassing the vulnerable Siliguri Corridor.\n\n💡 RANKER'S MEMORY LOCK: Kaladan Multi-Modal Project = Kolkata → Sittwe Port (Myanmar) → Kaladan River → Mizoram. Bypasses Siliguri.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Chittagong Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_26",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Bab-el-Mandeb Strait' (the 'Gate of Tears'), connecting the Red Sea with the Gulf of Aden and the Indian Ocean, is bounded by which territories?",
+    "options": {
+      "opt_a": "Yemen on the Arabian Peninsula and Djibouti/Eritrea in the Horn of Africa",
+      "opt_b": "Oman and Iran",
+      "opt_c": "Egypt and Saudi Arabia",
+      "opt_d": "Spain and Morocco"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Bab-el-Mandeb is a vital geopolitical maritime chokepoint between Yemen (Asia) and Djibouti/Eritrea (Africa), controlling all shipping passing through the Suez Canal into the Indian Ocean.\n\n💡 RANKER'S MEMORY LOCK: Bab-el-Mandeb = Connects Red Sea to Gulf of Aden/Indian Ocean (Yemen vs. Djibouti).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Hormuz Confusion",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_27",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Strait of Hormuz', through which roughly one-fifth of global petroleum liquids consumption passes daily, connects which two bodies of water?",
+    "options": {
+      "opt_a": "The Persian Gulf and the Gulf of Oman (Arabian Sea)",
+      "opt_b": "The Red Sea and the Gulf of Aden",
+      "opt_c": "The Mediterranean Sea and the Atlantic Ocean",
+      "opt_d": "The Black Sea and the Sea of Marmara"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Strait of Hormuz connects the oil-rich Persian Gulf with the Gulf of Oman and the wider Indian Ocean, bounded by Iran to the north and Oman/UAE to the south.\n\n💡 RANKER'S MEMORY LOCK: Strait of Hormuz = Persian Gulf to Gulf of Oman (Oil transit lifeline of the world).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Bab-el-Mandeb Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_28",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Which regional autonomy demand in Eastern India culminated in the creation of the 'Bodoland Territorial Council' (BTC) with legislative and financial powers under the Sixth Schedule?",
+    "options": {
+      "opt_a": "The Bodo movement in Western Assam",
+      "opt_b": "The Gorkhaland movement in Darjeeling",
+      "opt_c": "The Naga movement in Tuensang",
+      "opt_d": "The Mizo movement in Lushai Hills"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Bodo movement led to the Bodo Accords (2003 and 2020), establishing the Bodoland Territorial Council (BTC) governing Kokrajhar, Chirang, Baksa, and Udalguri districts with special Sixth Schedule autonomy.\n\n💡 RANKER'S MEMORY LOCK: Bodoland Territorial Council (BTC) = Autonomous regional governance in Western Assam under Sixth Schedule.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Gorkhaland Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_29",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Indo-Myanmar Trilateral Highway' is designed to establish seamless overland trade connectivity connecting India from Moreh (Manipur) to:",
+    "options": {
+      "opt_a": "Mae Sot in Thailand, traversing through Myanmar",
+      "opt_b": "Vientiane in Laos, traversing through China",
+      "opt_c": "Kuala Lumpur in Malaysia, traversing through Singapore",
+      "opt_d": "Dhaka in Bangladesh, traversing through Bhutan"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The India-Myanmar-Thailand (IMT) Trilateral Highway spans ~1,360 km connecting Moreh in Manipur (India) through Tamu, Mandalay, and Yangon (Myanmar) to Mae Sot (Thailand), anchoring India's Act East spatial policy.\n\n💡 RANKER'S MEMORY LOCK: IMT Trilateral Highway = Moreh (Manipur) → Myanmar → Mae Sot (Thailand). Act East overland spine.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Vietnam Extension",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_30",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Doklam Plateau', which witnessed a tense 73-day military standoff between Indian and Chinese armed forces in 2017, is geographically situated at the tri-junction of:",
+    "options": {
+      "opt_a": "India (Sikkim), Bhutan, and China (Tibet)",
+      "opt_b": "India (Arunachal Pradesh), Myanmar, and China",
+      "opt_c": "India (Ladakh), Pakistan (Gilgit), and China",
+      "opt_d": "Nepal, India (Uttarakhand), and China"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Doklam (Donglang) plateau lies in the Chumbi Valley tri-junction between Bhutan's Haa Valley, Sikkim (India), and Tibet (China). Chinese road construction near the Jampheri ridge threatened the security of Bhutan and India's nearby Siliguri Corridor.\n\n💡 RANKER'S MEMORY LOCK: Doklam Plateau = Sikkim (India) - Bhutan - Tibet (China) tri-junction overlooking the Chumbi Valley.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Galwan Swap",
+        "dissection": "Distractor represents a different geopolitical zone or treaty mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary geographic corridor with a secondary route."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing overland Eurasian corridors with maritime shipping lines."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_31",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Geographical Dimensions of Indian Federalism:\n1. The linguistic reorganisation of states in 1956 consolidated language-based cultural regions into stable administrative federal units.\n2. River basin boundaries rarely coincide with state political borders, making inter-state water sharing a chronic flashpoint of competitive federalism.\n3. The Constitution of India provides for asymmetrical federalism under Articles 371A to 371J to accommodate historical and ethnic peripheral variations.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of the geographical and constitutional foundations of Indian federalism.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_32",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Inter-State River Water Disputes Act, 1956:\n1. Article 262 permits Parliament to enact legislation barring the jurisdiction of the Supreme Court in inter-state river disputes.\n2. Once an Inter-State Water Disputes Tribunal publishes its final award in the Official Gazette, it has the same force as an order of the Supreme Court.\n3. State governments have the constitutional right to unilaterally repudiate water tribunal awards during election years.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because published tribunal awards are legally binding and enforceable, leaving states no constitutional right of unilateral repudiation.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_33",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Indus Waters Treaty (1960):\n1. The Treaty allocates the entire waters of the Eastern Rivers (Ravi, Beas, Sutlej) to India for unrestricted utilization.\n2. The waters of the Western Rivers (Indus, Jhelum, Chenab) are allocated to Pakistan, but India is permitted to construct run-of-the-river hydroelectric plants subject to design criteria.\n3. India has utilized 100% of its permitted storage and consumptive water allocation under the Western Rivers since 1965.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because India historically under-utilized its permissible water storage and irrigation rights on the Western rivers (e.g. Kishanganga, Ratle projects were developed only recently).\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_34",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Geopolitics of the Indian Ocean Realm:\n1. India's peninsular configuration projects over 1,500 nautical miles into the Indian Ocean, dominating sea lines of communication (SLOCs) between the Atlantic and Pacific.\n2. The Andaman and Nicobar Islands overlook the western entrance of the Malacca Strait and the Six Degree Channel (Great Channel).\n3. China's 'String of Pearls' strategy involves developing dual-use maritime port nodes at Gwadar (Pakistan), Hambantota (Sri Lanka), and Kyaukpyu (Myanmar).\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements reflect established geostrategic and spatial realities of Indian Ocean maritime geopolitics.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_35",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Sir Creek Boundary Dispute:\n1. Sir Creek is a 96-km tidal estuary separating Gujarat in India from Sindh in Pakistan in the marshy Rann of Kutch.\n2. India advocates for the boundary to follow the 'Thalweg' (the mid-channel navigable line) as recognized under international law.\n3. The resolution of the land boundary in Sir Creek directly dictates the demarcation of thousands of square kilometers of offshore Exclusive Economic Zone (EEZ) rich in hydrocarbons and fish.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct and accurately detail the geopolitical and resource stakes involved in the Sir Creek dispute.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_36",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Kaladan Multi-Modal Transit Transport Project:\n1. It connects Kolkata port in India with Sittwe deep-water port in Myanmar's Rakhine State.\n2. From Sittwe, it utilizes the Kaladan river waterway to Paletwa, followed by highway connectivity to Zorinpui in Mizoram.\n3. The project was designed primarily to export coal from Jharkhand to China.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an absurdity; the project was designed to provide an alternative strategic transport link between Kolkata and India's landlocked Northeast, bypassing the Siliguri Corridor.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_37",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the UNCLOS Maritime Zones:\n1. The Territorial Sea extends to 12 nautical miles, over which the coastal state exercises sovereign authority including airspace and seabed.\n2. In the Contiguous Zone (12 to 24 nautical miles), the coastal state can exercise control necessary to prevent and punish infringements of customs, fiscal, immigration, or sanitary laws.\n3. In the Exclusive Economic Zone (up to 200 nautical miles), foreign vessels are legally prohibited from innocent passage or laying submarine telecommunication cables.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because in the EEZ, all foreign states enjoy freedoms of navigation, overflight, and laying submarine cables and pipelines (Article 58 UNCLOS); only resource exploration is sovereign to the coastal state.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_38",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Radcliffe Line (1947):\n1. It was demarcated by Sir Cyril Radcliffe as Chairman of two separate Boundary Commissions for Punjab and Bengal.\n2. The commission was given only five weeks to partition contiguous territories, transportation networks, and canal systems.\n3. It represents a classic 'Superimposed Boundary' in political geography, cutting across pre-existing ethnocultural landscapes.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct historical and political geographical facts regarding the 1947 partition boundary.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_39",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the McMahon Line (1914):\n1. It was agreed upon at the Simla Convention (1914) between British India and the government of Tibet.\n2. It runs from the eastern border of Bhutan along the crest line of the High Himalayas to the Isu Razi pass near the Myanmar border.\n3. China recognizes the McMahon Line as an undisputed, fully settled international boundary.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because China rejects the McMahon Line, claiming Arunachal Pradesh as 'South Tibet' and disputing Tibet's treaty-making capacity in 1914.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_40",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the 100th Constitutional Amendment Act (2015):\n1. It gave operational effect to the 1974 India-Bangladesh Land Boundary Agreement and its 2011 Protocol.\n2. India transferred 111 enclaves to Bangladesh while Bangladesh transferred 51 enclaves to India.\n3. Enclave residents were forced to relocate to Delhi and prohibited from choosing Bangladeshi citizenship.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is false because enclave residents were granted complete democratic freedom to either remain in situ and acquire local citizenship or relocate to India, with hundreds choosing local incorporation.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_41",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the International North-South Transport Corridor (INSTC):\n1. It was originally initiated in 2000 by India, Iran, and Russia as an intergovernmental multi-modal transport network.\n2. It bypasses the Suez Canal, cutting cargo transit time between Mumbai and St. Petersburg from ~40 days to ~20 days.\n3. The corridor traverses the territory of Pakistan and Afghanistan before entering Central Asia.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the INSTC deliberately bypasses Pakistan, moving by maritime route from Mumbai to Iranian ports (Bandar Abbas / Chabahar).\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_42",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Six Degree Channel (Great Channel):\n1. It is a critical international maritime shipping strait located in the Indian Ocean between Great Nicobar Island and Aceh province of Sumatra (Indonesia).\n2. It carries the bulk of East Asian container traffic entering and exiting the Strait of Malacca.\n3. India is developing an International Container Transshipment Terminal (ICTT) at Galathea Bay on Great Nicobar to capitalize on this strategic route.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate the geostrategic importance and maritime infrastructure development along the Six Degree Channel.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_43",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Cauvery Water Disputes Tribunal (CWDT) Final Award (2007) and Supreme Court Verdict (2018):\n1. The Supreme Court in 2018 declared that inter-state river waters are 'national assets' and no single riparian state can claim exclusive ownership.\n2. The Supreme Court reduced Tamil Nadu's water allocation and marginally increased Karnataka's share to meet Bengaluru's drinking water needs.\n3. The Cauvery Water Management Authority (CWMA) was constituted to monitor reservoir storage and regulate monthly water releases.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements reflect established constitutional and judicial facts regarding the resolution of the Cauvery water dispute.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_44",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Siliguri Corridor ('Chicken's Neck'):\n1. It is an extremely narrow land bridge connecting mainland India with the eight Northeastern states.\n2. It is vulnerable to strategic military interdiction from the Chumbi Valley in Tibet.\n3. In response, India has diversified multimodal connectivity via the Kaladan Project through Myanmar and transit trade access through Bangladesh's Chittagong and Mongla ports.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent core strategic vulnerabilities and multi-modal diversification policies of India's geopolitical planning.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_45",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Cross-Border Rivers between India and Bangladesh:\n1. India and Bangladesh share 54 transboundary rivers, with the Joint Rivers Commission (JRC) serving as the institutional bilateral forum.\n2. The Ganges Water Sharing Treaty (1996) regulates dry-season water allocation below the Farakka Barrage for 30 years.\n3. The Teesta river water dispute remains unresolved primarily due to competing dry-season irrigation demands between West Bengal and northern Bangladesh.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate the hydrological and geopolitical realities of India-Bangladesh transboundary river relations.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_46",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Maritime Security and Strategic Corridors:\n1. The Nine Degree Channel separates Minicoy Island from the main Lakshadweep archipelago.\n2. The Eight Degree Channel separates Minicoy Island from the Maldives.\n3. The Ten Degree Channel separates the Andaman Islands from the Nicobar Islands.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are classic, verified cartographic and geopolitical facts of India's island channel architecture.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_47",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the India-Nepal Territorial Dispute at Lipulekh:\n1. Lipulekh Pass sits at the tri-junction of Uttarakhand (India), Tibet (China), and Nepal.\n2. India inaugurated an 80-km road link via Lipulekh in 2020 to provide a shortened pilgrimage route to Kailash-Mansarovar.\n3. Nepal issued an amended political map incorporating Kalapani, Limpiyadhura, and Lipulekh into its sovereign territory.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent documented contemporary geopolitical events along the India-Nepal Himalayan frontier.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_48",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Asymmetric Federalism under Article 371A for Nagaland:\n1. No Act of Parliament in respect of religious or social practices of the Nagas, customary law, or civil/criminal justice applies to Nagaland unless the Legislative Assembly so decides.\n2. No Act of Parliament relating to ownership and transfer of land and its resources applies without the state assembly's approval.\n3. Nagaland is permitted to maintain its own separate armed military forces and print its own currency.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct statutory provisions under Article 371A. Statement 3 is an obvious absurdity; defense, military, and currency remain strictly under the Union of India.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_49",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding India's Maritime Strategy in the Western Indian Ocean:\n1. India has developed coastal surveillance radar networks across Seychelles, Mauritius, and Madagascar.\n2. In 2024, India and Mauritius jointly inaugurated an airstrip and jetty infrastructure on Agaléga Island.\n3. The Duqm Port in Oman grants the Indian Navy logistics and maintenance access in the Arabian Sea.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements reflect documented strategic and maritime developments of India's SAGAR doctrine in the Western Indian Ocean.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_50",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Genetic Classification of Boundaries:\n1. An 'Antecedent Boundary' is demarcated before the principal cultural features of the human landscape have developed.\n2. A 'Subsequent Boundary' is established after cultural settlement, conforming to linguistic or ethnic dividing lines.\n3. A 'Superimposed Boundary' is drawn across a pre-existing cultural landscape, ignoring indigenous tribal and ethnic unities.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate Richard Hartshorne's genetic classification of boundaries in political geography.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice precise maritime law boundaries and international treaties.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or sovereign violation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_51",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The 'Katchatheevu Island', an uninhabited 285-acre island in the Palk Strait ceded to Sri Lanka by India through bilateral maritime boundary agreements in 1974 and 1976, is historically contested regarding which traditional livelihood right?",
+    "options": {
+      "opt_a": "Traditional fishing and net-drying rights of Tamil Nadu fishermen in the surrounding waters",
+      "opt_b": "Deep-sea oil drilling rights by multinational petroleum corporations",
+      "opt_c": "The construction of an international space launch pad",
+      "opt_d": "The right to establish a nuclear power reactor on the island"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Under the 1974 Agreement, Katchatheevu was recognized as Sri Lankan sovereign territory. Although Article 5 preserved traditional rights of Indian fishermen to visit for drying nets and access St. Anthony's church, the 1976 exchange of letters restricted fishing inside Sri Lanka's EEZ, sparking ongoing bilateral disputes.\n\n💡 RANKER'S MEMORY LOCK: Katchatheevu Island (Palk Strait) = 1974 & 1976 Agreements ceded to Sri Lanka. Conflict over Tamil Nadu fishermen's traditional fishing/net-drying access.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Oil Drilling Fallacy",
+        "dissection": "The conflict centers on small-scale artisanal and mechanized fishing, not multinational oil rigs."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Space Launch Absurdity",
+        "dissection": "Katchatheevu is a barren islet without freshwater."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Nuclear Absurdity",
+        "dissection": "No nuclear facility was ever proposed."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_52",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The 'Siachen Glacier' conflict between India and Pakistan in 1984 (Operation Meghdoot) arose because the Karachi Ceasefire Agreement (1949) left the boundary un-demarcated beyond which specific grid coordinate?",
+    "options": {
+      "opt_a": "Point NJ9842, vaguely stating the line continues 'thence north to the glaciers'",
+      "opt_b": "Point Zojila Pass",
+      "opt_c": "Karakoram Pass directly",
+      "opt_d": "The source of the Jhelum river"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The 1949 Karachi Agreement and 1972 Simla Agreement demarcated the Ceasefire Line/LoC up to grid point NJ9842. Beyond NJ9842, the agreement vaguely stated the line runs 'thence north to the glaciers'. In 1984, India launched Operation Meghdoot to occupy the Saltoro Ridge before Pakistan could, dominating the 76-km Siachen glacier.\n\n💡 RANKER'S MEMORY LOCK: Siachen Operation Meghdoot (1984) = Line of Control ended at NJ9842; India occupies the commanding Saltoro Ridge crest.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Pass Confusion",
+        "dissection": "Zojila Pass is far to the southwest in the Great Himalayas."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Karakoram Boundary Fallacy",
+        "dissection": "NJ9842 lies well southwest of the Karakoram Pass."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "River Origin Mismatch",
+        "dissection": "Jhelum originates at Verinag, hundreds of kilometers away."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_53",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Line of Actual Control (LAC) separating India and China:\n1. The Western Sector lies in Ladakh, separating Indian territory from Chinese-controlled Aksai Chin.\n2. The Middle Sector traverses Himachal Pradesh and Uttarakhand and is the least disputed of the three sectors.\n3. The Eastern Sector broadly follows the McMahon Line along the Himalayan crest in Arunachal Pradesh.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. The 3,488-km LAC is divided into three sectors: Western (Ladakh, ~1,570 km), Middle (HP & Uttarakhand, ~545 km), and Eastern (Arunachal Pradesh/Sikkim, ~1,346 km).\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. LAC Sectors: Western (Ladakh/Aksai Chin), Middle (HP/Uttarakhand), Eastern (McMahon Line/Arunachal).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "All three sectoral descriptions are accurate."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Do not doubt the Middle sector description."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not reject standard geopolitical facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_54",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Statement Based",
+    "stem": "Consider the following statements regarding the Durand Line (1893):\n1. It was agreed upon in 1893 between Sir Mortimer Durand and Afghan Amir Abdur Rahman Khan.\n2. It bisects the Pashtun tribal homeland, dividing communities between modern Afghanistan and Pakistan.\n3. No Afghan government (including the Taliban) has ever formally recognized the Durand Line as a permanent international border.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct. The Durand Line (2,640 km) was drawn by the British to create a buffer against Tsarist Russia. It divided Pashtun tribes into British India and Afghanistan. Afghan governments have consistently rejected it as an imperial imposition.\n\n💡 RANKER'S MEMORY LOCK: Durand Line (1893) = Bisects Pashtun ethnic homeland. Afghanistan rejects it as an imperial boundary.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Recognition Myth",
+        "dissection": "Statement 3 is historical fact; Afghanistan has never formally ratified the Durand Line."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Durand Omission",
+        "dissection": "Statement 1 is historical fact."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Pashtun Omission",
+        "dissection": "The Pashtun divide is the primary geographical grievance."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_55",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the India-Middle East-Europe Economic Corridor (IMEC) announced at the G20 New Delhi Summit in 2023:\n1. It comprises an Eastern Corridor connecting India to the Arabian Gulf by sea and a Northern Corridor connecting the Gulf to Europe by rail and sea.\n2. It envisions integrating clean hydrogen pipelines, high-speed rail networks, and undersea telecommunications cables.\n3. It runs entirely through mainland China, bypassing the Indian Ocean.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an obvious absurdity because IMEC is a counter-corridor to China's BRI, linking India (Mundra/JNPT) through the UAE, Saudi Arabia, Jordan, and Israel (Haifa) to Europe (Piraeus, Greece).\n\n💡 RANKER'S MEMORY LOCK: IMEC (2023) = India → UAE → Saudi Arabia → Jordan → Israel (Haifa) → Europe (Greece). Clean hydrogen, rail, fiber optic links.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Both statements 1 and 2 represent the official G20 declaration."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "China BRI Confusion",
+        "dissection": "IMEC explicitly bypasses China."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Statements 1 and 2 are authentic global corridor facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_56",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Assertion-Reason",
+    "stem": "Given below are two statements:\nAssertion (A): Demands for smaller states in India (such as Vidarbha, Harit Pradesh, Bundelkhand, and Bodoland) are primarily fueled by perceptions of regional economic disparity and political neglect within giant linguistic states.\nReason (R): The 1956 States Reorganisation Commission (SRC) prioritized linguistic homogeneity as the sole criterion for statehood, completely prohibiting the creation of multiple states sharing the same language.\nIn the context of the statements above, which of the following is correct?",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is NOT the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Assertion (A) is true, but Reason (R) is completely false. The Fazal Ali Commission (1953–55) explicitly rejected the theory of 'one language, one state', balancing language with administrative convenience, financial viability, and national security. The creation of Hindi-speaking UP, MP, Bihar, Rajasthan, and Haryana proved that multiple states can share the same language.\n\n💡 RANKER'S MEMORY LOCK: Demands for smaller states arise from internal economic disparity (e.g. Telangana, Vidarbha). Fazal Ali Commission rejected 'one language, one state' dogma.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "SRC Misconception",
+        "dissection": "Reason R is historically false; the SRC explicitly allowed multiple states for one language."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "R Acceptance Trap",
+        "dissection": "Do not accept the claim that SRC banned multiple same-language states."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Assertion Invalidation",
+        "dissection": "Assertion A is the recognized geographical consensus on statehood movements."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_57",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Maritime Delimitation between India and its maritime neighbors:\n1. India and Sri Lanka delimited their maritime boundary in the Palk Strait and Gulf of Mannar through the 1974 and 1976 agreements.\n2. In 2014, the Permanent Court of Arbitration (PCA) settled the maritime boundary between India and Bangladesh, awarding Bangladesh ~19,467 sq km in the Bay of Bengal.\n3. India rejected the PCA award and immediately deployed naval warships to prevent Bangladeshi fishermen from entering the disputed waters.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is false because India demonstrated exemplary adherence to international law: India peacefully accepted the 2014 PCA ruling, allowing Bangladesh to establish its EEZ and concluding decades of maritime friction.\n\n💡 RANKER'S MEMORY LOCK: India-Bangladesh Maritime Arbitration (2014) = PCA award accepted peacefully by India, resolving Bay of Bengal EEZ dispute.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Statements 1 (Sri Lanka) and 2 (PCA Bangladesh) are verified."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Aggressive Revisionism Trap",
+        "dissection": "India did not reject the PCA award; India accepted it unconditionally."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not reject authentic maritime delimitation history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_58",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Statement Based",
+    "stem": "Consider the following statements regarding the geopolitical concept of the 'Golden Crescent' and 'Golden Triangle' in relation to Indian internal security:\n1. India is geographically sandwiched between the world's two largest illicit opium producing regions: the Golden Crescent (Iran, Afghanistan, Pakistan) to the west and the Golden Triangle (Myanmar, Laos, Thailand) to the east.\n2. Inflow of synthetic narcotics and heroin has fueled cross-border insurgency and organized crime in Punjab to the west and Manipur/Mizoram to the east.\n3. Both the Golden Crescent and Golden Triangle are situated entirely inside peninsular southern India.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an obvious absurdity because the Golden Crescent is located in Southwest/Central Asia and the Golden Triangle is in Southeast Asia.\n\n💡 RANKER'S MEMORY LOCK: India is sandwiched between Golden Crescent (Afghanistan-Pakistan-Iran) and Golden Triangle (Myanmar-Laos-Thailand), creating severe border security and trafficking vulnerabilities.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Southern Location Fallacy",
+        "dissection": "Statement 3 is geographically impossible."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Statement 2 Denial",
+        "dissection": "The linkage between drug transit corridors and border insurgency is well documented."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Do not accept the southern peninsular location claim."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_59",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Inter-State River Water Disputes (Amendment) Bill introduced in Parliament:\n1. It proposes establishing a single, standalone Inter-State River Water Disputes Tribunal with multiple benches, replacing separate ad-hoc tribunals.\n2. It mandates a Dispute Resolution Committee (DRC) to attempt amicable negotiated settlement within one year before referring the matter to the Tribunal.\n3. It abolishes all state irrigation departments and transfers direct ownership of all Indian rivers to the United Nations.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct statutory reforms designed to eliminate decades of tribunal litigation delays. Statement 3 is a preposterous absurdity; water remains an Entry 17 State List subject under the Constitution.\n\n💡 RANKER'S MEMORY LOCK: River Water Disputes Amendment Bill = Single permanent Tribunal with benches + Mandatory Dispute Resolution Committee (DRC) for pre-litigation conciliation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Both statements 1 and 2 are core provisions of the reform bill."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "UN Control Fallacy",
+        "dissection": "Rivers remain sovereign national property."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Statements 1 and 2 are verified parliamentary bills."
+      }
+    ]
+  },
+  {
+    "id": "opt_q28_60",
+    "topicId": 28,
+    "topicName": "Political Aspects of Indian Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Geopolitical and Geostrategic Significance of the Andaman and Nicobar Islands:\n1. They command the western approaches to the Malacca Strait, providing maritime domain awareness over the world's busiest energy transit route.\n2. India established its first and only operational Unified Tri-Service Command (Andaman and Nicobar Command - ANC) at Port Blair in 2001.\n3. Under international maritime law, the island chain grants India over 300,000 square kilometers of Exclusive Economic Zone (EEZ), representing nearly 30% of India's total EEZ.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. The 572 islands of Andaman & Nicobar transform India from a peninsular power into a dominant oceanic player, anchoring the Tri-service ANC and commanding nearly 30% of India's maritime EEZ.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Andaman & Nicobar = Unified Tri-Service Command (ANC, 2001) + Commands Malacca Strait approaches + Accounts for ~30% of India's total EEZ.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "All 3 statements represent verified defense and geographical facts."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Do not doubt the 30% EEZ contribution of the archipelago."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not eliminate canonical geopolitical realities."
+      }
+    ]
+  }
+]

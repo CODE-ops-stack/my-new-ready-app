@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "opt_q25_01",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Walter Christaller's Central Place Theory (1933) is based on which geometric hexagonal arrangement to ensure total spatial coverage without overlap?",
+    "options": {
+      "opt_a": "Regular Hexagon",
+      "opt_b": "Square",
+      "opt_c": "Circle",
+      "opt_d": "Equilateral Triangle"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Christaller selected the regular hexagon as the geometric compromise: circles leave unserved gaps or create overlapping competition, whereas hexagons tile an isotropic plain completely with equidistant centers.\n\n💡 RANKER'S MEMORY LOCK: Hexagonal geometry tiles an isotropic plain completely with zero unserved gaps.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Geometric Geometry Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_02",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Walter Christaller's Central Place Theory, the value of K = 3 represents which functional hierarchy principle?",
+    "options": {
+      "opt_a": "Marketing Principle",
+      "opt_b": "Transport Principle",
+      "opt_c": "Administrative Principle",
+      "opt_d": "Industrial Principle"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "K = 3 represents the Marketing Principle, where each lower-order center is located at the vertex of three higher-order hexagons, capturing 1/3 of the population of 6 surrounding centers plus its own (1 + 6*(1/3) = 3).\n\n💡 RANKER'S MEMORY LOCK: K = 3 is the Marketing Principle. K = 4 is Transport, K = 7 is Administrative.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Hierarchy Principle Confusion",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_03",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Christaller's Central Place Theory, K = 4 represents which principle of spatial organization?",
+    "options": {
+      "opt_a": "Transport (Traffic) Principle",
+      "opt_b": "Marketing Principle",
+      "opt_c": "Administrative Principle",
+      "opt_d": "Agricultural Principle"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "K = 4 represents the Transport Principle, designed so that lower-order centers lie along the straight-line communication routes connecting major central places (1 + 6*(1/2) = 4).\n\n💡 RANKER'S MEMORY LOCK: K = 4 = Transport / Traffic Principle (straight-line routes connecting central places).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Transport vs Marketing Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_04",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Christaller's Central Place Theory, K = 7 represents which principle?",
+    "options": {
+      "opt_a": "Administrative Principle",
+      "opt_b": "Marketing Principle",
+      "opt_c": "Transport Principle",
+      "opt_d": "Recreational Principle"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "K = 7 represents the Administrative Principle, where lower-order centers are entirely enclosed within the boundary of the higher-order central place to prevent divided administrative control (1 + 6*1 = 7).\n\n💡 RANKER'S MEMORY LOCK: K = 7 = Administrative Principle (complete undivided political/legal jurisdictional control).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Administrative K Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_05",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Johann Heinrich von Thünen's Agricultural Location Theory (1826) was based on which fundamental concept to determine crop zones around an isolated city?",
+    "options": {
+      "opt_a": "Locational Economic Rent",
+      "opt_b": "Transport Minimization Only",
+      "opt_c": "Soil Fertility Gradient",
+      "opt_d": "Labor Cost Subsidies"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Von Thünen demonstrated that crop distribution is determined by Locational Economic Rent (Economic Rent = Y(P - C) - YFm), which declines with distance from the central consuming market.\n\n💡 RANKER'S MEMORY LOCK: Von Thünen = Locational Economic Rent. Rent decreases outward as transport costs rise.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Soil Determinism Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_06",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Von Thünen's original isolated state model with uniform soil fertility, which agricultural activity occupies the innermost concentric ring closest to the central city?",
+    "options": {
+      "opt_a": "Market gardening, horticulture and fresh dairying",
+      "opt_b": "Extensive grain farming",
+      "opt_c": "Firewood and timber production",
+      "opt_d": "Extensive livestock ranching"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The first concentric ring immediately surrounding the central city is dedicated to market gardening (intensive vegetables) and fresh milk dairying due to high perishability and high transport sensitivity.\n\n💡 RANKER'S MEMORY LOCK: Ring 1 = Market gardening & fresh milk dairying (highly perishable, high yield per acre).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Timber Ring 2 Confusion",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_07",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Von Thünen's isolated state model, why was timber and firewood production situated in the second concentric ring, despite low value per ton?",
+    "options": {
+      "opt_a": "High bulk and immense weight made transport costs prohibitively high over long distances",
+      "opt_b": "Timber requires the highest fertility soils available in the region",
+      "opt_c": "Government zoning regulations mandated forests near the city wall",
+      "opt_d": "Firewood was imported from overseas colonies"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "In 19th-century Europe, firewood and timber were heavy and bulky. Since horse-carts were the only mode of transport, firewood had to be grown close to the city (Ring 2) before transport costs exceeded its market value.\n\n💡 RANKER'S MEMORY LOCK: Ring 2 = Firewood & timber due to extreme bulk, weight, and high transportation friction.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fertility Misconception",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_08",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Alfred Weber's Theory of Industrial Location (1909) is fundamentally categorized as a:",
+    "options": {
+      "opt_a": "Least Cost Location Theory",
+      "opt_b": "Market Demand Maximization Theory",
+      "opt_c": "Behavioral Satisficing Model",
+      "opt_d": "Product Life Cycle Theory"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Weber's model ('Über den Standort der Industrien', 1909) is a Least Cost Theory, seeking to minimize total transport costs and labor costs.\n\n💡 RANKER'S MEMORY LOCK: Alfred Weber = Least Cost Theory (Transport minimization + Labor agglomeration).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Demand Maximization Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_09",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "According to Alfred Weber, what is the 'Material Index' (MI) of an industrial manufacturing process?",
+    "options": {
+      "opt_a": "Weight of localized raw materials divided by Weight of finished product",
+      "opt_b": "Weight of finished product divided by Weight of total raw materials",
+      "opt_c": "Total transport cost divided by Total labor cost",
+      "opt_d": "Volume of raw materials divided by Value of manufactured goods"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Weber defined Material Index as MI = Weight of localized raw materials / Weight of finished product. If MI > 1, the industry is raw-material oriented; if MI < 1, it is market oriented.\n\n💡 RANKER'S MEMORY LOCK: Material Index (MI) = Weight of localized raw materials / Weight of finished product.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Inverted Index Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_10",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Alfred Weber's terminology, raw materials that are available ubiquitously everywhere (such as water, air, or common sand) are termed:",
+    "options": {
+      "opt_a": "Ubiquitous materials",
+      "opt_b": "Localized raw materials",
+      "opt_c": "Pure raw materials",
+      "opt_d": "Gross weight-losing materials"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Weber classified raw materials into 'Ubiquitous' (available everywhere, which pull industries towards the market) and 'Localized' (found only at specific geographic deposits).\n\n💡 RANKER'S MEMORY LOCK: Ubiquitous raw materials = found everywhere (pull toward market). Localized = found in specific deposits.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Localized Material Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_11",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Raw materials that impart their entire weight into the finished product without any loss during manufacturing (e.g., pure cotton yarn into cloth) are termed by Weber as:",
+    "options": {
+      "opt_a": "Pure materials",
+      "opt_b": "Gross materials",
+      "opt_c": "Ubiquities",
+      "opt_d": "Footloose components"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Pure raw materials lose no weight during processing (e.g. yarn, certain rolled metals). Gross raw materials lose weight (e.g. iron ore smelting, sugarcane into sugar, losing over 90% weight).\n\n💡 RANKER'S MEMORY LOCK: Pure Materials = No weight loss (MI = 1). Gross Materials = Weight-losing (MI > 1, raw material oriented).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Gross Material Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_12",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In W.W. Rostow's Stages of Economic Growth (1960), which stage represents the critical breakthrough where self-sustained industrial growth is achieved?",
+    "options": {
+      "opt_a": "Take-off stage",
+      "opt_b": "Traditional society",
+      "opt_c": "Preconditions for take-off",
+      "opt_d": "Drive to maturity"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Rostow defined the 'Take-off' (Stage 3) as the decisive interval (typically 2-3 decades) where investment rate doubles, leading manufacturing sectors emerge, and growth becomes self-sustaining.\n\n💡 RANKER'S MEMORY LOCK: Rostow's Stage 3 = The Take-off (Decisive breakthrough to self-sustained growth).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Preconditions Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_13",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Halford Mackinder's famous 1919 dictum regarding global geopolitical supremacy stated: 'Who rules East Europe commands the Heartland; who rules the Heartland commands the...'",
+    "options": {
+      "opt_a": "World-Island; who rules the World-Island commands the World",
+      "opt_b": "Outer Crescent; who rules the Outer Crescent commands the Seas",
+      "opt_c": "Rimland; who rules the Rimland controls the Atlantic",
+      "opt_d": "Pivot Area; who rules the Pivot Area rules Eurasia"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Mackinder's exact 1919 dictum in 'Democratic Ideals and Reality' was: 'Who rules East Europe commands the Heartland; Who rules the Heartland commands the World-Island; Who rules the World-Island commands the World.'\n\n💡 RANKER'S MEMORY LOCK: Mackinder Dictum: East Europe → Heartland → World-Island → World.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Rimland Substitution Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_14",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Nicholas Spykman's 'Rimland Theory' (1944), which geographical realm is declared the key to controlling the Eurasian landmass and world dominance?",
+    "options": {
+      "opt_a": "The maritime coastal fringe of Eurasia (Rimland)",
+      "opt_b": "The interior desert basin of Central Asia",
+      "opt_c": "The Siberian Arctic tundra",
+      "opt_d": "The sub-Saharan African continental core"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Spykman argued that Mackinder over-estimated the Heartland. The maritime coastal fringe surrounding Eurasia (Western Europe, Middle East, South Asia, East Asia)—the 'Rimland'—contains the world's population, sea routes, and industrial power.\n\n💡 RANKER'S MEMORY LOCK: Nicholas Spykman (1944) = Rimland Theory ('Who controls the Rimland rules Eurasia; who rules Eurasia controls the destinies of the world').",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Heartland Trap",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_15",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Mark Jefferson's 'Law of the Primate City' (1939) states that in many countries, the largest city is:",
+    "options": {
+      "opt_a": "Disproportionately larger than the second largest city and exceptionally dominant in economic and political influence",
+      "opt_b": "Exactly double the population of the second largest city according to mathematical rank",
+      "opt_c": "Located at the exact geometric center of the national territory",
+      "opt_d": "Subordinate to regional industrial manufacturing capitals"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Mark Jefferson defined the Primate City as one that is 'at least twice as large as the next largest city and more than twice as significant', acting as the undisputed cultural, economic, and political nerve center.\n\n💡 RANKER'S MEMORY LOCK: Primate City (Mark Jefferson, 1939) = Disproportionately giant city dominating national hierarchy.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Rank-Size Confusion",
+        "dissection": "Distractor represents a different hierarchical level or theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary principle with a secondary modification."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Alternative Framework Trap",
+        "dissection": "Alternative theoretical schools provide distinct models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_16",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Alfred Weber's location model, an 'Isodapane' represents a line connecting points of:",
+    "options": {
+      "opt_a": "Equal total transportation costs (combining raw material and finished product costs)",
+      "opt_b": "Equal labor wages per industrial worker",
+      "opt_c": "Equal market product prices",
+      "opt_d": "Equal land rent per square kilometer"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "An Isodapane is a contour line of equal total transportation cost per unit of product. The innermost point is the least-transport-cost point, and isodapanes radiate outward with progressively higher freight costs.\n\n💡 RANKER'S MEMORY LOCK: Isodapane = Line of equal total transportation cost. Isotim = Line of equal transport cost for a single commodity.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Isotim vs Isodapane Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_17",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Alfred Weber's Theory of Industrial Location, what is the 'Critical Isodapane'?",
+    "options": {
+      "opt_a": "The isodapane where labor cost savings per unit of output exactly equal the additional transport costs incurred by moving away from the least-transport-cost location",
+      "opt_b": "The boundary line beyond which an industry is legally forbidden from operating",
+      "opt_c": "The line where raw material freight cost equals zero",
+      "opt_d": "The contour line marking the international export tariff threshold"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Critical Isodapane is that specific isodapane whose additional transport cost equals the potential labor cost savings. If a cheap labor supply exists inside this critical contour, the plant will relocate to the cheap labor site.\n\n💡 RANKER'S MEMORY LOCK: Critical Isodapane = Point where Labor Savings = Extra Transport Cost. Plant moves if cheap labor is within this line.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Arbitrary Boundary Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_18",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "If an industrial manufacturing plant utilizes a gross weight-losing raw material with a Material Index (MI) equal to 3.5, where will the optimal least-cost location be situated according to Weber?",
+    "options": {
+      "opt_a": "At or adjacent to the raw material deposit",
+      "opt_b": "At the primary consuming market",
+      "opt_c": "At an intermediate port equidistant between market and raw material",
+      "opt_d": "At any random point along the transport line"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "When MI > 1, the weight of localized raw material exceeds the weight of the finished product (here 3.5 tons of raw material yields 1 ton of product). Transporting 3.5 tons of raw material is far costlier than transporting 1 ton of finished good, so the plant is pulled to the raw material site.\n\n💡 RANKER'S MEMORY LOCK: MI > 1 → Raw Material Site (Weight-losing industry like Iron & Steel, Sugar). MI < 1 → Market Site (Weight-gaining industry like bakeries, breweries).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Market Location Error",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_19",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Consider Johann Heinrich von Thünen's economic rent formula: R = E(p - a) - Efk. What does the variable 'E' represent in this classical model?",
+    "options": {
+      "opt_a": "Crop yield per unit of land",
+      "opt_b": "Market price per unit of commodity",
+      "opt_c": "Production cost per unit of commodity",
+      "opt_d": "Freight rate per unit of distance"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "In Von Thünen's formula: R = Economic rent per unit of land; E = Yield per unit of land; p = Market price per unit; a = Production cost per unit; f = Freight rate per unit distance; k = Distance to the central market.\n\n💡 RANKER'S MEMORY LOCK: Von Thünen Formula: R = E(p - a) - Efk. E is Yield, p is Price, a is Cost, f is Freight, k is Distance.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Variable Confusion",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_20",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In August Lösch's modification of Central Place Theory ('The Economics of Location', 1940), how did his system fundamentally improve upon Christaller's rigid model?",
+    "options": {
+      "opt_a": "By rotating hexagonal service networks around a central metropolis to create alternating sector-rich and sector-poor corridors",
+      "opt_b": "By eliminating the use of hexagons and replacing them exclusively with concentric circles",
+      "opt_c": "By assuming that transport costs are completely zero on all transportation corridors",
+      "opt_d": "By restricting the entire economy to subsistence agriculture with no consumer goods"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Lösch rotated hexagons of varying sizes sharing a common central place, creating 6 production-rich sectors (city-rich) and 6 production-poor sectors (city-poor), introducing market demand elasticity rather than Christaller's rigid top-down administrative hierarchies.\n\n💡 RANKER'S MEMORY LOCK: Lösch's Economic Landscape = Rotated hexagons around metropolis → 6 city-rich & 6 city-poor sectors.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Rigid Hierarchy Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_21",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "George Zipf's 'Rank-Size Rule' (1949) mathematically expresses the population of the nth-ranked city (Pn) as:",
+    "options": {
+      "opt_a": "Pn = P1 / n (where P1 is the population of the largest city and n is its rank)",
+      "opt_b": "Pn = P1 * n",
+      "opt_c": "Pn = P1 / (n^2)",
+      "opt_d": "Pn = log(P1) / n"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Zipf's Rank-Size Rule posits an inverse relationship: Pn = P1 / n. Thus, the 2nd largest city has 1/2 of P1, the 3rd city has 1/3 of P1, the 4th city has 1/4 of P1, representing an integrated, mature national urban system.\n\n💡 RANKER'S MEMORY LOCK: Rank-Size Rule: Pn = P1 / n. City 2 = 50% of largest; City 3 = 33.3% of largest.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Mathematical Power Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_22",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "When an urban system in a developing country is dominated by a single massive Primate City while middle-sized regional towns are largely absent, what is this urban distribution called?",
+    "options": {
+      "opt_a": "Primate Urban Hierarchy (Binary/Primacy Distribution)",
+      "opt_b": "Rank-Size Equilibrium",
+      "opt_c": "Polycentric Megalopolis",
+      "opt_d": "Concentric Ecological Succession"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Primacy distribution (e.g. Bangkok in Thailand, Paris in France, or Lima in Peru) features one colossal city dominating the entire nation, while intermediary regional cities are stifled, contrasting with the balanced log-normal Rank-Size distribution.\n\n💡 RANKER'S MEMORY LOCK: Primacy = Top-heavy urban distribution (colonial / centralized economies). Rank-Size = Mature, integrated urban hierarchy.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Equilibrium Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_23",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Von Thünen's modified model, when a navigable river flowing towards the central market city is introduced, how does the concentric ring pattern deform?",
+    "options": {
+      "opt_a": "Concentric zones elongate and stretch parallel along the river corridor due to cheaper water transport freight rates",
+      "opt_b": "Concentric rings collapse into a single circular point around the river mouth",
+      "opt_c": "Agricultural rings shift 90 degrees away from the river due to flooding hazards",
+      "opt_d": "The river causes no change whatsoever because horse-cart freight costs remain identical"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Water transport is dramatically cheaper than overland horse-cart transport. Therefore, high-rent agricultural zones extend far inland along the riverbanks, stretching the concentric circles into elongated ribbons parallel to the waterway.\n\n💡 RANKER'S MEMORY LOCK: Navigable River in Von Thünen = Elongates zones along river corridor due to lower water transport friction.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Rigid Circle Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_24",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Walter Christaller's Central Place Theory, the 'Threshold' of a good or service is defined as:",
+    "options": {
+      "opt_a": "The minimum population or demand volume required to support the profitable provision of that good or service",
+      "opt_b": "The maximum geographic distance a consumer is willing to travel to purchase that good",
+      "opt_c": "The wholesale price ceiling imposed by the municipal government",
+      "opt_d": "The total area occupied by the retail shop floor"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Threshold is the minimum market size (population * purchasing power) necessary for a business to break even. Range is the maximum distance a customer will travel to buy the good.\n\n💡 RANKER'S MEMORY LOCK: Threshold = Minimum population needed to survive. Range = Maximum distance consumer will travel.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Range vs Threshold Inversion",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_25",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In central place terminology, the 'Range' of a central good exceeds its 'Threshold' under what operational market condition?",
+    "options": {
+      "opt_a": "The business is economically viable and earns super-normal or normal profits",
+      "opt_b": "The business operates at a permanent financial loss and will shut down immediately",
+      "opt_c": "The central place loses its geographic status and becomes an agricultural hamlet",
+      "opt_d": "Transportation costs exceed the total market value of the commodity"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "For any central place function to exist profitably, the Range of the good (the maximum market boundary customers will travel from) must be greater than or equal to its Threshold (the minimum required market boundary). If Range < Threshold, the business fails.\n\n💡 RANKER'S MEMORY LOCK: Viable Central Place: Range > Threshold. If Range < Threshold → Business collapses.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Inverted Inequality Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_26",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "According to W.W. Rostow, what are the three mandatory conditions required for a nation to achieve the 'Take-off' stage?",
+    "options": {
+      "opt_a": "Productive investment rate rising from ~5% to >10% of national income, development of one or more substantial manufacturing sectors, and institutional political emergence supporting modern growth",
+      "opt_b": "Complete nationalization of all private land, total ban on foreign trade, and elimination of paper currency",
+      "opt_c": "Establishment of an aerospace defense sector, 100% urban population, and total exhaustion of coal reserves",
+      "opt_d": "Transition to a hunting-gathering economy, decentralization into feudal kingdoms, and barter exchange"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Rostow specified three non-negotiable take-off conditions: (1) Investment rate doubles from 5% to over 10% of NNP, (2) Rapid growth of one or more leading manufacturing sectors, and (3) Political, social, and institutional framework that exploits expansion impulses.\n\n💡 RANKER'S MEMORY LOCK: Rostow Take-Off Triad: Investment rate > 10% + Leading manufacturing sector + Modernizing institutions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Socialist Inversion Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_27",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Halford Mackinder's 1904 paper 'The Geographical Pivot of History', what major technological revolution did he predict would end the era of maritime sea power supremacy?",
+    "options": {
+      "opt_a": "Transcontinental railway networks connecting the Eurasian interior",
+      "opt_b": "Nuclear submarines and aircraft carriers",
+      "opt_c": "Telegraph submarine cables and steamships",
+      "opt_d": "Supersonic aviation and satellite rocketry"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Mackinder argued that the Columbian era of sea power (1500–1900) was ending because transcontinental railroads (like the Trans-Siberian Railway) allowed land powers to mobilize armies and raw materials across Eurasia faster than ships could circumnavigate continents.\n\n💡 RANKER'S MEMORY LOCK: Mackinder 1904 Thesis: Transcontinental Railways enabled continental land power to outpace maritime sea power.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Aviation Anachronism",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_28",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Mackinder's geopolitical model, why was the 'Heartland' immune to naval invasion by maritime empires such as Great Britain or the United States?",
+    "options": {
+      "opt_a": "All rivers in the Heartland drain into the frozen Arctic Ocean or into landlocked internal seas (Caspian/Aral), and high mountain walls ring its southern flank",
+      "opt_b": "The Heartland was protected by international peace treaties recognized by all European nations",
+      "opt_c": "The Heartland's atmospheric pressure belts prevent ships from entering coastal waters",
+      "opt_d": "The entire Eurasian interior was submerged under an unnavigable shallow inland sea"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Heartland is an area of inland drainage (Volga to Caspian, Amu/Syr to Aral) or northward drainage into the icebound Arctic (Ob, Yenisei, Lena). Ocean-going navies could not enter these river basins, making the Heartland impenetrable to sea power.\n\n💡 RANKER'S MEMORY LOCK: Heartland Immunity = Arctic ice on the north + Landlocked inland drainage (Caspian/Aral) + Mountain barriers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Treaty Myth Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_29",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Nicholas Spykman altered Mackinder's famous dictum by coining which principle in 1944?",
+    "options": {
+      "opt_a": "'Who controls the Rimland rules Eurasia; who rules Eurasia controls the destinies of the world'",
+      "opt_b": "'Who rules the Heartland commands the World-Island'",
+      "opt_c": "'Who controls the high seas commands all international trade'",
+      "opt_d": "'Who controls the polar ice caps commands the atmosphere'"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Nicholas Spykman emphasized that the Rimland (coastal belt of Europe, Middle East, India, China) possesses the bulk of human population, resources, and access to both sea and land corridors. Controlling the Rimland is the true key to world power.\n\n💡 RANKER'S MEMORY LOCK: Spykman Dictum: Rimland controls Eurasia → Rules destinies of the world. (Inversion of Mackinder).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Mackinder Repetition Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_30",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Which economic model describes the spatial spread of industrial growth through 'Polarization' (Backwash) and 'Trickling-Down' (Spread) effects?",
+    "options": {
+      "opt_a": "Albert O. Hirschman's Model of Unbalanced Growth (and Gunnar Myrdal's Cumulative Causation)",
+      "opt_b": "Walter Christaller's Central Place Model",
+      "opt_c": "Johann Heinrich von Thünen's Concentric Agricultural Rings",
+      "opt_d": "Alfred Weber's Least Cost Location Triangle"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Albert O. Hirschman (1958) used 'Polarization' and 'Trickling-down' effects, while Gunnar Myrdal (1957) used 'Backwash' and 'Spread' effects, to explain how market forces perpetuate regional economic disparities.\n\n💡 RANKER'S MEMORY LOCK: Myrdal = Backwash & Spread Effects. Hirschman = Polarization & Trickling-Down Effects.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Central Place Swap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_31",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In John Friedmann's Core-Periphery Model (1966), what are the four sequential stages of regional economic development?",
+    "options": {
+      "opt_a": "Pre-industrial (independent local centers) → Transitional (single strong core) → Industrial (sub-cores emerge) → Post-industrial (fully integrated spatial system)",
+      "opt_b": "Hunting-gathering → Feudalism → Capitalism → Communism",
+      "opt_c": "Traditional society → Take-off → Drive to maturity → High mass consumption",
+      "opt_d": "Youth stage → Mature stage → Old age stage → Rejuvenation"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Friedmann's four stages: (1) Pre-industrial with isolated local centers, (2) Transitional single dominant core draining the periphery, (3) Industrial emergence of secondary sub-cores, and (4) Post-industrial mature functionally integrated spatial hierarchy.\n\n💡 RANKER'S MEMORY LOCK: Friedmann 4 Stages: Pre-industrial → Single Core → Sub-cores / Industrial → Fully Integrated Space.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Rostow Swap Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_32",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Alfred Weber's location triangle, when an industry uses two localized weight-losing raw materials (M1 and M2) to produce a single finished product for market (C), where does the optimal least-cost factory lie?",
+    "options": {
+      "opt_a": "Inside the locational triangle closer to the raw material with the highest loss of weight and highest freight pull",
+      "opt_b": "Strictly at the geometric midpoint between the two raw material sources regardless of weight",
+      "opt_c": "Always at the exact central consuming market location",
+      "opt_d": "Always outside the triangle at the nearest maritime coastline"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Using Varignon's mechanical frame (weights hanging on pulleys), Weber demonstrated that the factory sits inside the locational triangle at the point of mechanical equilibrium, pulled most strongly toward the raw material with the greatest locational weight.\n\n💡 RANKER'S MEMORY LOCK: Weber Locational Triangle = Inside the triangle, pulled closest to the heaviest weight-losing raw material.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Geometric Midpoint Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_33",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "What is an 'Agglomeration Economy' in industrial location theory?",
+    "options": {
+      "opt_a": "Cost reductions and productivity advantages realized by firms when they locate in close geographic proximity to one another",
+      "opt_b": "Tax penalties imposed on factories for operating in dense urban clusters",
+      "opt_c": "Transport costs incurred when moving raw materials across steep mountain slopes",
+      "opt_d": "The physical loss of raw material weight during blast furnace smelting"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Agglomeration economies occur when clustering allows shared specialized infrastructure, skilled labor pools, component suppliers, and knowledge spillovers, lowering production costs per unit.\n\n💡 RANKER'S MEMORY LOCK: Agglomeration Economies = Cost savings from clustering (shared labor, infrastructure, suppliers).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Tax Penalty Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_34",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "A 'Footloose Industry' is defined in economic geography as an industrial enterprise that:",
+    "options": {
+      "opt_a": "Can locate in a wide variety of places without significant effect from resources or market transport costs",
+      "opt_b": "Must strictly locate adjacent to coal mines due to massive fuel requirements",
+      "opt_c": "Produces only footwear, leather shoes, and textile apparel",
+      "opt_d": "Cannot relocate under any circumstance due to heavy blast furnace foundations"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Footloose industries (e.g. computer chip assembly, precision watchmaking, software) use lightweight, high-value components where transport cost is a negligible fraction of total product cost, freeing them from raw-material or market site binds.\n\n💡 RANKER'S MEMORY LOCK: Footloose Industry = Transport costs are negligible; can locate almost anywhere (e.g. microelectronics).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Shoe Literal Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_35",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Gravity Model' in spatial interaction (derived from Newton's law of gravitation by W.J. Reilly and Stewart) predicts that interaction (I_ij) between two cities is:",
+    "options": {
+      "opt_a": "Directly proportional to the product of their populations and inversely proportional to the square of the distance between them",
+      "opt_b": "Inversely proportional to their populations and directly proportional to distance",
+      "opt_c": "Determined entirely by climatic temperature differences",
+      "opt_d": "Equal to the sum of their vehicle counts multiplied by highway speed"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Reilly's Law / Gravity Model: I_ij = G * (P_i * P_j) / (D_ij)^2. Interaction increases with larger populations and decreases rapidly as physical distance increases.\n\n💡 RANKER'S MEMORY LOCK: Gravity Model: Interaction ∝ (Population 1 * Population 2) / (Distance)^2.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Inverse Proportionality Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_36",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Von Thünen's model, what occurs when market prices of agricultural produce drop significantly across the entire economic state?",
+    "options": {
+      "opt_a": "Economic rent curves shift downward, causing outer intensive crop zones to contract towards the central market",
+      "opt_b": "All concentric rings instantly reverse their geographic order",
+      "opt_c": "Farmers abandon farming to produce heavy timber in all six rings",
+      "opt_d": "Transportation costs drop to zero across the entire isolated state"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Since Rent R = E(p - a) - Efk, a drop in price (p) reduces economic rent across all distances. The distance boundary where Rent hits zero contracts closer to the market city, shrinking productive cultivated margins.\n\n💡 RANKER'S MEMORY LOCK: Price drop in Von Thünen = Lowers Economic Rent curve → Shrinks outer agricultural boundaries closer to city.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Ring Inversion Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_37",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Central Place Theory, what is the primary structural difference between Christaller's top-down hierarchy and Lösch's bottom-up economic landscape?",
+    "options": {
+      "opt_a": "Christaller imposed rigid predetermined K-values across all goods, whereas Lösch allowed each good to have its own hexagonal network, creating continuous functional specializations",
+      "opt_b": "Lösch rejected all mathematical models in favor of Marxist political economy",
+      "opt_c": "Christaller analyzed industrial manufacturing while Lösch analyzed agricultural crops",
+      "opt_d": "Lösch assumed that consumers always maximize travel distance to purchase basic groceries"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Christaller forced all goods into fixed hierarchical tiers ($K=3, 4, 7$). Lösch started from the bottom with individual goods and rotated overlapping networks, allowing high-order goods to sometimes exist in small settlements without requiring all lower-order goods.\n\n💡 RANKER'S MEMORY LOCK: Christaller = Rigid top-down nested hierarchy. Lösch = Flexible bottom-up economic landscape.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Marxist Misattribution",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_38",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The demographic model known as the 'Demographic Transition Model' (DTM) identifies Stage 2 (Early Expanding) by which demographic signature?",
+    "options": {
+      "opt_a": "Death rates plummet rapidly while birth rates remain stubbornly high, causing a massive population explosion",
+      "opt_b": "Both birth rates and death rates are extremely high and fluctuating",
+      "opt_c": "Birth rates drop below death rates, leading to natural population decline",
+      "opt_d": "Birth rates and death rates both stabilize at very low levels under 10 per thousand"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Stage 2 (Early Expanding) is marked by rapid mortality decline (due to sanitation, antibiotics, and clean water) while fertility remains traditionally high, widening the natural increase gap and causing rapid population growth.\n\n💡 RANKER'S MEMORY LOCK: DTM Stage 2 = Death rate drops sharply + Birth rate remains high → Population explosion.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Stage 1 vs Stage 2 Confusion",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_39",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In industrial geography, what is 'Deglomeration'?",
+    "options": {
+      "opt_a": "The dispersal or relocation of industries away from crowded industrial agglomerations due to soaring land rents, labor shortages, traffic congestion, and pollution",
+      "opt_b": "The process of shutting down all factories in an agricultural economy",
+      "opt_c": "The merger of competing industrial corporations into a single monopoly",
+      "opt_d": "The physical conversion of factories into forest wildlife reserves"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "When an industrial cluster becomes hyper-congested, diseconomies of scale emerge (exorbitant land rents, severe traffic gridlock, high union wages, environmental levies). Firms deglomerate and move to suburban, rural, or peripheral regions.\n\n💡 RANKER'S MEMORY LOCK: Deglomeration = Dispersal away from overcrowded clusters due to diseconomies of scale.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Monopoly Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_40",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Which geographer formulated the 'Sector Theory' (1939) of urban internal structure, proposing that socio-economic classes expand outward along radial transportation corridors from the CBD?",
+    "options": {
+      "opt_a": "Homer Hoyt",
+      "opt_b": "Ernest Burgess",
+      "opt_c": "Chauncy Harris and Edward Ullman",
+      "opt_d": "Patrick Geddes"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Homer Hoyt (1939) developed the Sector Model, observing that distinct residential wage groups grow outward in wedge-shaped sectors along major radial rail and highway corridors radiating from the Central Business District (CBD).\n\n💡 RANKER'S MEMORY LOCK: Homer Hoyt (1939) = Sector Model (Wedges along transit arteries). Burgess (1925) = Concentric Zone Model.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Concentric Zone Trap",
+        "dissection": "Distractor presents an opposing theoretical premise or mismatched model."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the model's assumptions."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_41",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Walter Christaller's Central Place Theory:\n1. The K=3 marketing principle optimizes spatial distribution such that each lower-order center is equidistant from three higher-order centers.\n2. The K=4 transport principle aligns central places along straight-line transit corridors, minimizing overall network track mileage.\n3. The K=7 administrative principle encloses lower-order settlements entirely within a single higher-order jurisdictional boundary to prevent administrative partitioning.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of Christaller's mathematical geometry: K=3 (Marketing), K=4 (Transport), and K=7 (Administrative).\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_42",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Alfred Weber's Industrial Location Theory:\n1. Industries with a Material Index (MI) greater than 1.0 are pulled toward localized raw material deposits.\n2. The 'Critical Isodapane' is the line where labor cost savings per unit exactly offset the extra transport cost incurred by deviating from the least-transport-cost point.\n3. Weber assumed that consumer markets are infinitely dispersed rather than concentrated at fixed geographic points.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Weber explicitly assumed that consumption occurs at fixed, known geographic points (discrete market locations), NOT an infinitely dispersed market.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_43",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Johann Heinrich von Thünen's Agricultural Location Theory:\n1. It assumes an 'Isolated State' consisting of a single central market surrounded by a completely uniform, featureless isotropic plain.\n2. Land rent for any crop diminishes as distance from the market increases due to increasing transportation costs.\n3. Heavy, bulky commodities like timber and firewood are located in the outermost concentric ring because they require vast acreage.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because timber and firewood were located in Ring 2 (very close to the market) due to high transport costs per ton-mile; outer rings were reserved for lightweight grains and self-transporting livestock.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_44",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Halford Mackinder's Heartland Theory:\n1. The original 'Pivot Area' of 1904 coincided with the interior river basins of Eurasia draining into the Arctic Ocean or inland seas.\n2. In 1919, Mackinder expanded the Heartland to include Eastern Europe and formulated his famous dictum regarding world domination.\n3. Mackinder believed that naval sea power would permanently dominate continental railway land power throughout the 20th century.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Mackinder's central thesis was that transcontinental railways would overcome sea power, allowing continental land empires to dominate maritime empires.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_45",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Nicholas Spykman's Rimland Theory:\n1. Spykman argued that the Rimland (coastal Eurasia) is the key geopolitical buffer and center of power between sea power and land power.\n2. Spykman rephrased Mackinder's dictum, asserting that whoever controls the Rimland controls Eurasia and the destinies of the world.\n3. Spykman's theory served as the primary geopolitical foundation for George Kennan's US 'Containment Policy' during the Cold War.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are historically verified facts of Spykman's 1944 Rimland doctrine and its direct impact on post-WWII American containment strategy (NATO, CENTO, SEATO).\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_46",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Zipf's Rank-Size Rule:\n1. In an ideal rank-size hierarchy, the population of the city of rank 'n' is equal to the population of the largest city divided by 'n'.\n2. Primate city distributions, where the largest city is multi-fold larger than the second, violate the pure rank-size rule.\n3. Countries with mature, complex, diversified national economies and long urban histories generally conform more closely to the rank-size rule than single-commodity export economies.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct descriptions of Zipf's law and its empirical urban geographic manifestations.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_47",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding W.W. Rostow's Stages of Economic Growth:\n1. Rostow proposed a non-linear cyclical model where economies fluctuate endlessly between agrarian and industrial states without linear progression.\n2. The 'Drive to Maturity' stage occurs after the 'Take-off', characterized by technological diversification into heavy machinery and chemical industries.\n3. The ultimate stage in Rostow's model is the 'Age of High Mass Consumption', centered on durable consumer goods and social welfare.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 2 and 3 are correct. Statement 1 is incorrect because Rostow's model is strictly linear and unilineal, asserting that all societies pass through 5 sequential forward stages, which drew heavy Marxist critique.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_48",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Gunnar Myrdal's Cumulative Causation Theory:\n1. 'Backwash effects' refer to the centrifugal migration of capital, skilled labor, and enterprise away from lagging peripheral regions into growing core centers.\n2. 'Spread effects' refer to the positive spillover of growth, market demand, and technology from core centers into surrounding rural hinterlands.\n3. In unregulated market economies of developing nations, spread effects naturally and effortlessly overpower backwash effects, eliminating regional disparity.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Myrdal proved that in unregulated free-market developing economies, backwash effects overpower spread effects, widening regional inequality unless deliberate state planning intervenes.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_49",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Albert O. Hirschman's Model of Unbalanced Growth:\n1. Hirschman argued that economic development must deliberately proceed via unbalanced regional investments rather than simultaneous balanced growth across all sectors.\n2. 'Polarization effects' in Hirschman's terminology are analogous to Myrdal's 'Backwash effects'.\n3. 'Trickling-down effects' are analogous to Myrdal's 'Spread effects'.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of Hirschman's 1958 theory and its direct equivalence with Gunnar Myrdal's regional terminology.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_50",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding John Friedmann's Core-Periphery Model:\n1. In Stage 1 (Pre-industrial), the spatial system consists of isolated, independent local centers with small agricultural hinterlands.\n2. In Stage 2 (Transitional), a single dominant industrial core emerges, ruthlessly draining capital and labor from the vast resource-providing periphery.\n3. In Stage 4 (Post-industrial), regional inequalities are permanently magnified until the entire peripheral territory is completely abandoned.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because in Friedmann's Stage 4 (Spatial Integration / Post-industrial), national space becomes fully integrated with balanced functional interdependencies, diminishing spatial inequalities.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_51",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Gravity Model in Geography:\n1. The model predicts that interaction volume between two nodes is directly proportional to the product of their masses (populations).\n2. The model incorporates 'friction of distance', meaning spatial interaction drops as the distance between nodes increases.\n3. Distance decay in modern telecommunications has entirely eliminated the relevance of physical distance in all types of spatial trade.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because physical transport costs for heavy bulk goods, energy trade, perishable agriculture, and migration continue to exhibit steep distance decay.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_52",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Homer Hoyt's Sector Model of Urban Land Use:\n1. High-rent residential areas tend to grow outward from the central business district along the fastest transit routes and high ground.\n2. Wholesale light manufacturing and industrial warehouses align along railroad lines and navigable river canals.\n3. The model completely replaced the concept of a Central Business District with multiple decentralized suburban nuclei.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Hoyt retained a single Central Business District (CBD) at the center; the 'Multiple Nuclei Model' was formulated by Chauncy Harris and Edward Ullman (1945).\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_53",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Chauncy Harris and Edward Ullman's Multiple Nuclei Model (1945):\n1. It asserts that modern cities develop not around a single central core, but around several distinct nodes or nuclei.\n2. Certain activities require specialized facilities (e.g., port facilities for heavy industry).\n3. Similar activities group together to benefit from agglomeration economies, while mutually detrimental activities (e.g., luxury housing and heavy chemical factories) repel each other.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are foundational principles of Harris and Ullman's Multiple Nuclei Model.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_54",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding August Lösch's Model of Economic Location:\n1. Lösch assumed that demand is variable and elastic, meaning demand for a product decreases as distance from the factory increases due to freight costs added to price.\n2. The total demand cone generated by rotating the demand curve forms a circular market area that turns into a hexagon under spatial competition.\n3. Lösch concluded that agricultural production must strictly take place within the Central Business District.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an obvious absurdity; Lösch focused on spatial demand hexagons for industrial goods distributed across agricultural plains.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_55",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Demographic Transition Model (DTM):\n1. In Stage 1 (High Stationary), birth rates and death rates are both high, leading to slow and fluctuating population growth.\n2. In Stage 3 (Late Expanding), birth rates begin to fall rapidly due to urbanization, female literacy, and family planning, while death rates continue to decline slowly.\n3. In Stage 4 (Low Stationary), birth rates and death rates stabilize at low levels, producing stable or slow population growth.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately define Stages 1, 3, and 4 of the classical Demographic Transition Model.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_56",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Alfred Weber's agglomeration factors:\n1. Agglomeration occurs when several factories cluster to share municipal infrastructure, banking, and specialized repair services.\n2. Deglomeration occurs when soaring land values and municipal congestion taxes outweigh clustering advantages.\n3. Weber demonstrated that an industry will agglomerate only if the total agglomeration savings exceed the extra transport costs required to deviate from individual least-transport-cost points.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent Weber's exact mathematical rules regarding industrial agglomeration and deglomeration.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_57",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the concentric ring structure in Von Thünen's model:\n1. Ring 1 is occupied by market gardening and milk production because fresh vegetables and milk are highly perishable.\n2. Ring 3 to Ring 5 transition through three-field, six-field, and seven-field grain farming systems with progressively lower intensity.\n3. The outermost ring (Ring 6) is occupied by intensive greenhouse floriculture.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Ring 6 is occupied by extensive livestock ranching and grazing; greenhouse floriculture belongs to the innermost Ring 1.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_58",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Christaller's Central Place Theory assumptions:\n1. The physical landscape is an isotropic plain: a flat, featureless surface with uniform soil fertility, population density, and purchasing power.\n2. Transportation is equally easy and available in all directions, with transport cost proportional strictly to distance.\n3. Consumers always purchase goods from the furthest possible central place to maximize personal travel excitement.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Christaller assumed rational economic consumers who always purchase from the NEAREST central place offering the good, minimizing travel time and cost.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_59",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Mackinder's 1919 Heartland boundaries:\n1. The 1919 Heartland boundary was expanded westward to include the drainage basins of the Black Sea and Baltic Sea.\n2. Mackinder identified Eastern Europe as the vital physical gateway corridor connecting maritime Western Europe with the Eurasian Heartland.\n3. Mackinder believed that an alliance uniting Germany and Russia would create an invincible land power capable of conquering the global maritime empire.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are fundamental historical tenets of Mackinder's 1919 geopolitical masterpiece *Democratic Ideals and Reality*.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  },
+  {
+    "id": "opt_q25_60",
+    "topicId": 25,
+    "topicName": "Models, Theories & Laws in Human Geography",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding modern modifications of Weber's Industrial Location Theory:\n1. The development of containerized shipping and intermodal transport drastically reduced break-of-bulk cargo handling costs at ports.\n2. High-technology sunrise industries (semiconductors, software) are largely 'footloose' because their transport cost is a negligible component of total production value.\n3. Heavy steel mills today are located exclusively on coalfield pits, completely ignoring coastal deep-water ports.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because modern heavy steel plants increasingly locate at deep-water coastal ports (e.g., Visakhapatnam in India, Rotterdam, Posco in South Korea) to utilize cheap imported coking coal and export steel globally.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and historical context.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips an extreme qualifier or an inverted condition."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical theoretical models."
+      }
+    ]
+  }
+]

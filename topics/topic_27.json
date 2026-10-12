@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "opt_q27_01",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In the anthropological study of Indian racial origins, whose racial classification scheme (1931 Census of India) is officially recognized and widely accepted in Indian geography?",
+    "options": {
+      "opt_a": "Dr. B.S. Guha",
+      "opt_b": "Sir Herbert Risley",
+      "opt_c": "J.H. Hutton",
+      "opt_d": "D.N. Majumdar"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Dr. B.S. Guha, former Director of the Anthropological Survey of India, classified the Indian population in the 1931 Census into 6 major racial groups with 9 sub-types, which remains the standard academic classification.\n\n💡 RANKER'S MEMORY LOCK: B.S. Guha (1931) = 6 major racial groups with 9 sub-types. Risley (1901) proposed 7 types.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Risley 1901 Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_02",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "According to Dr. B.S. Guha's racial classification, which group represents the earliest racial substratum to arrive on the Indian subcontinent?",
+    "options": {
+      "opt_a": "The Negrito",
+      "opt_b": "The Nordic",
+      "opt_c": "The Western Brachycephals",
+      "opt_d": "The Mediterranean"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Guha identified the Negrito as the earliest racial element to arrive in India, today surviving in isolated enclaves among the Andamanese Islanders (Great Andamanese, Onge, Jarawa, Sentinelese) and traces among the Kadar and Pulayan of Kerala.\n\n💡 RANKER'S MEMORY LOCK: Negrito = Earliest racial element in India (Survives in Andaman tribes and Kadar/Pulayan).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Aryan First Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_03",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "According to Dr. B.S. Guha, the vast majority of the tribal populations of Central India (such as Santhals, Mundas, Ho, Gonds, and Bhils) belong primarily to which racial stock?",
+    "options": {
+      "opt_a": "Proto-Australoid",
+      "opt_b": "Nordic",
+      "opt_c": "Western Brachycephalic",
+      "opt_d": "Palaeo-Mongoloid"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Proto-Australoid group forms the dominant racial substratum across the central Indian tribal belt (Chota Nagpur plateau, Dandakaranya, Vindhyas) and is characterized by dark skin, dolichocephalic head, and wavy/curly hair.\n\n💡 RANKER'S MEMORY LOCK: Proto-Australoid = Central Indian tribes (Santhal, Munda, Gond, Bhil, Oraon).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Mongoloid Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_04",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The languages of India are broadly classified into four major linguistic families. Which linguistic family is spoken by the largest percentage (over 75%) of the Indian population?",
+    "options": {
+      "opt_a": "Indo-Aryan (Indo-European)",
+      "opt_b": "Dravidian",
+      "opt_c": "Austro-Asiatic (Munda)",
+      "opt_d": "Sino-Tibetan (Tibeto-Burman)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Indo-Aryan sub-family of Indo-European languages is spoken by ~78% of the Indian population across Northern, Central, Western, and Eastern India.\n\n💡 RANKER'S MEMORY LOCK: Indo-Aryan = ~78% of population. Dravidian = ~20%. Austro-Asiatic = ~1.1%. Sino-Tibetan = ~0.8%.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Dravidian Majority Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_05",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The Dravidian language family in India is primarily spoken in Peninsular India. Which of the following is an isolated northern enclave of the Dravidian language spoken in Baluchistan (Pakistan)?",
+    "options": {
+      "opt_a": "Brahui",
+      "opt_b": "Kurukh",
+      "opt_c": "Gondi",
+      "opt_d": "Malto"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Brahui is an extraordinary linguistic outlier—a Dravidian language spoken by over two million people in the dry uplands of Baluchistan (Pakistan), proving the prehistoric pan-subcontinental distribution of Dravidian speakers before the arrival of Indo-Aryans.\n\n💡 RANKER'S MEMORY LOCK: Brahui = Northern Dravidian linguistic enclave in Baluchistan.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Kurukh Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_06",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Austro-Asiatic' (Munda/Mon-Khmer) language family in India is uniquely spoken by which major northeastern tribal community living in Meghalaya?",
+    "options": {
+      "opt_a": "Khasi and Jaintia",
+      "opt_b": "Garo",
+      "opt_c": "Bodo",
+      "opt_d": "Mizo"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "While most northeastern tribes speak Sino-Tibetan (Tibeto-Burman) languages (including the Garo), the Khasi and Jaintia tribes of Meghalaya speak languages belonging to the Mon-Khmer branch of the Austro-Asiatic family.\n\n💡 RANKER'S MEMORY LOCK: Khasi & Jaintia = Mon-Khmer branch of Austro-Asiatic family (Linguistic island in Sino-Tibetan Northeast).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Garo Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_07",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Under the Constitution of India, the procedure for the official notification of Scheduled Tribes (STs) in relation to a State or Union Territory is governed by:",
+    "options": {
+      "opt_a": "Article 342",
+      "opt_b": "Article 370",
+      "opt_c": "Article 280",
+      "opt_d": "Article 356"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Article 342 empowers the President of India, after consultation with the Governor of a State, to specify by public notification the tribes or tribal communities to be deemed Scheduled Tribes for that State.\n\n💡 RANKER'S MEMORY LOCK: Article 342 = Presidential notification of Scheduled Tribes. Article 341 = Scheduled Castes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Article 341 Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_08",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "How many tribal groups have been officially designated across India as 'Particularly Vulnerable Tribal Groups' (PVTGs) by the Ministry of Home Affairs?",
+    "options": {
+      "opt_a": "75 PVTGs across 18 States and 1 Union Territory",
+      "opt_b": "150 PVTGs across all States",
+      "opt_c": "25 PVTGs exclusively in the Himalayas",
+      "opt_d": "500 PVTGs across Peninsular India"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "There are 75 recognized Particularly Vulnerable Tribal Groups (originally called Primitive Tribal Groups, identified based on the Dhebar Commission, 1973) distributed across 18 states and the UT of Andaman & Nicobar Islands.\n\n💡 RANKER'S MEMORY LOCK: 75 PVTGs across 18 States and 1 UT (Odisha has the highest number: 13 PVTGs).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "State Count Inflation",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_09",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Which of the following is NOT one of the official criteria established by the Government of India for identifying Particularly Vulnerable Tribal Groups (PVTGs)?",
+    "options": {
+      "opt_a": "Compulsory possession of university degrees and high modern urban employment",
+      "opt_b": "Pre-agricultural level of technology (hunting, gathering, or shifting cultivation)",
+      "opt_c": "Extremely low level of literacy",
+      "opt_d": "Stagnant or declining population and economic backwardness"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The four statutory criteria for declaring a tribe as PVTG are: (1) Pre-agricultural technology, (2) Low literacy, (3) Economic backwardness, and (4) Stagnant or declining population. Modern university degrees is the exact antithesis.\n\n💡 RANKER'S MEMORY LOCK: PVTG Criteria: Pre-agricultural tech + Low literacy + Economic backwardness + Stagnant/declining population.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Valid Criteria Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_10",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The Sixth Schedule of the Constitution of India provides for Autonomous District Councils (ADCs) with special legislative and judicial powers for tribal areas in which four Northeastern states?",
+    "options": {
+      "opt_a": "Assam, Meghalaya, Tripura, and Mizoram (AMTM)",
+      "opt_b": "Nagaland, Manipur, Arunachal Pradesh, and Sikkim",
+      "opt_c": "Assam, Nagaland, Manipur, and Mizoram",
+      "opt_d": "Arunachal Pradesh, Meghalaya, Tripura, and Manipur"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Sixth Schedule (Articles 244(2) and 275(1)) applies exclusively to the tribal areas in the four states of Assam, Meghalaya, Tripura, and Mizoram (memorized as AMTM), establishing Autonomous District Councils.\n\n💡 RANKER'S MEMORY LOCK: Sixth Schedule = AMTM (Assam, Meghalaya, Tripura, Mizoram). Fifth Schedule = Tribal areas in 10 other states.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Nagaland Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_11",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Which Scheduled Tribe is numerically the largest tribal community in India according to the 2011 Census of India?",
+    "options": {
+      "opt_a": "Bhil",
+      "opt_b": "Gond",
+      "opt_c": "Santhal",
+      "opt_d": "Mina"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "According to the 2011 Census, the Bhil community (primarily inhabiting Rajasthan, Gujarat, Madhya Pradesh, and Maharashtra) is the largest Scheduled Tribe in India (~17 million), closely followed by the Gonds (~13 million).\n\n💡 RANKER'S MEMORY LOCK: 2011 Census ST Population: Bhil (#1, ~17M) > Gond (#2, ~13M) > Santhal (#3, ~7M).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Gond #1 Myth Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_12",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The indigenous tribes of the Andaman archipelago (Great Andamanese, Onge, Jarawa, and Sentinelese) belong anthropologically to which racial branch?",
+    "options": {
+      "opt_a": "Negrito",
+      "opt_b": "Nordic",
+      "opt_c": "Mediterranean",
+      "opt_d": "Mongoloid"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Andamanese tribes are surviving representatives of the Asiatic Negrito stock, characterized by dark skin, short stature, and frizzly/peppercorn hair. Contrast with the Nicobarese and Shompens who have Mongoloid affinities.\n\n💡 RANKER'S MEMORY LOCK: Andaman Tribes = Negrito. Nicobar Tribes (Nicobarese & Shompen) = Mongoloid.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Nicobar Negrito Confusion",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_13",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The Shompen tribe, which inhabits the dense tropical rainforests of Great Nicobar Island, possesses distinct racial affinities with which group?",
+    "options": {
+      "opt_a": "Mongoloid",
+      "opt_b": "Negrito",
+      "opt_c": "Nordic",
+      "opt_d": "Mediterranean"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Shompen (a PVTG of Great Nicobar) are Mongoloid hunter-gatherers, contrasting sharply with the Negrito tribes of the Andaman Islands.\n\n💡 RANKER'S MEMORY LOCK: Shompen & Nicobarese = Mongoloid stock. Andamanese = Negrito stock.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Andaman Stock Swap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_14",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The Toda tribal community, known for their pastoral buffalo herding culture, distinctive barrel-shaped huts, and traditional embroidery, are indigenous to which mountain plateau?",
+    "options": {
+      "opt_a": "Nilgiri Hills (Tamil Nadu)",
+      "opt_b": "Cardamom Hills (Kerala)",
+      "opt_c": "Garo Hills (Meghalaya)",
+      "opt_d": "Chota Nagpur Plateau (Jharkhand)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Todas are a pastoral community inhabiting the high-altitude grasslands of the Nilgiri Hills in Tamil Nadu, traditionally practicing polyandry and maintaining sacred dairy temples.\n\n💡 RANKER'S MEMORY LOCK: Todas = Pastoral community of the Nilgiri Hills (Tamil Nadu).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Cardamom Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_15",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "According to the Census of India, a 'Child Sex Ratio' (CSR) measures the number of females per 1,000 males in which age cohort?",
+    "options": {
+      "opt_a": "0 to 6 years",
+      "opt_b": "0 to 14 years",
+      "opt_c": "15 to 59 years",
+      "opt_d": "60 years and above"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Child Sex Ratio (CSR) specifically measures the sex ratio in the 0–6 age cohort, serving as an acute indicator of female foeticide, sex-selective abortion, and early childhood neglect.\n\n💡 RANKER'S MEMORY LOCK: Child Sex Ratio (CSR) = Females per 1,000 males in the 0–6 age group. 2011 CSR was 919 (historic low).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Age 14 Trap",
+        "dissection": "Distractor represents a different anthropological classification or regional enclave."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_16",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Sir Herbert Risley's racial classification of the people of India (1901 Census), the population of Bengal and Odisha was categorized as:",
+    "options": {
+      "opt_a": "Mongolo-Dravidian",
+      "opt_b": "Indo-Aryan",
+      "opt_c": "Turko-Iranian",
+      "opt_d": "Scytho-Dravidian"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Risley classified the population of Bengal and parts of Odisha as 'Mongolo-Dravidian', characterized by broad heads (brachycephalic), dark complexion, and plenty of facial hair, which he hypothesized resulted from an intermixture of Dravidians and Mongoloids.\n\n💡 RANKER'S MEMORY LOCK: Risley's 7 Types: Turko-Iranian, Indo-Aryan, Scytho-Dravidian, Aryo-Dravidian, Mongolo-Dravidian, Mongoloid, Dravidian.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Indo-Aryan Bengal Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_17",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006' (FRA) grants which critical statutory right to forest-dwelling communities?",
+    "options": {
+      "opt_a": "Individual forest land titles (up to 4 hectares) and Community Forest Rights (CFR) to protect, manage, and regenerate community forest resources",
+      "opt_b": "Unrestricted commercial logging concessions to multinational timber corporations",
+      "opt_c": "Compulsory eviction of all tribal villages from Tiger Reserves without compensation",
+      "opt_d": "The right to export rare wild animals to international markets"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "FRA 2006 legally recognized pre-existing rights: (1) Individual Forest Rights (IFR) for occupation and self-cultivation, (2) Community Rights to minor forest produce, and (3) Section 3(1)(i) Community Forest Resource (CFR) rights empowering Gram Sabhas to manage community forests.\n\n💡 RANKER'S MEMORY LOCK: FRA 2006 = Individual rights + Community Forest Rights (CFR) + Empowered Gram Sabha as conservation authority.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Corporate Timber Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_18",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Under the Forest Rights Act (FRA) 2006, who is designated as the primary statutory authority to initiate the process for determining the nature and extent of individual and community forest rights?",
+    "options": {
+      "opt_a": "The Gram Sabha (Village Assembly)",
+      "opt_b": "The Divisional Forest Officer (DFO)",
+      "opt_c": "The District Collector",
+      "opt_d": "The Chief Wildlife Warden of the State"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Section 6(1) of the FRA explicitly designates the Gram Sabha as the highly democratic starting authority to receive claims, verify land boundaries, and pass initial resolutions before forwarding them to Sub-Divisional and District level committees.\n\n💡 RANKER'S MEMORY LOCK: FRA 2006 Authority: Gram Sabha initiates and verifies claims. DFO/Collector cannot reject without due process.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "DFO Bureaucracy Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_19",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Which of the following tribal groups in India is historically renowned for practicing megalithic burials and memorial stone erections (*Sasandiri*) for their ancestors?",
+    "options": {
+      "opt_a": "The Munda tribe of Chota Nagpur",
+      "opt_b": "The Chenchu tribe of Nallamala",
+      "opt_c": "The Gujjars of Jammu & Kashmir",
+      "opt_d": "The Irulas of Nilgiris"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Mundas of the Chota Nagpur plateau maintain the ancient Austro-Asiatic tradition of erecting monumental megalithic stone slabs (Sasandiri / burial stones) over the buried bones of clan ancestors.\n\n💡 RANKER'S MEMORY LOCK: Munda Megalithic Tradition = Sasandiri stone slabs marking ancestral clan burial grounds.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Pastoral Nomad Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_20",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The Chenchu tribal community, a Particularly Vulnerable Tribal Group (PVTG) traditionally practicing food gathering and honey collection in dry deciduous forests, primarily inhabits which geographic range?",
+    "options": {
+      "opt_a": "Nallamala Hills (Andhra Pradesh and Telangana)",
+      "opt_b": "Vindhya Range (Madhya Pradesh)",
+      "opt_c": "Garo Hills (Meghalaya)",
+      "opt_d": "Aravalli Range (Rajasthan)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Chenchus are an ancient hunting-gathering PVTG inhabiting the rugged, forested canyons of the Nallamala Hills across the Nagarjunasagar-Srisailam Tiger Reserve in Andhra Pradesh and Telangana.\n\n💡 RANKER'S MEMORY LOCK: Chenchus = Honey-gathering PVTG of the Nallamala Hills (Nagarjunasagar-Srisailam landscape).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Vindhya Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_21",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Kurukh' language, spoken by the Oraon tribal community of Jharkhand and Chhattisgarh, belongs to which linguistic family?",
+    "options": {
+      "opt_a": "Dravidian language family (Northern Dravidian branch)",
+      "opt_b": "Indo-Aryan language family",
+      "opt_c": "Austro-Asiatic language family",
+      "opt_d": "Sino-Tibetan language family"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Kurukh (or Oraon) belongs to the Northern branch of the Dravidian linguistic family, forming a linguistic bridge with Malto (spoken by the Sauria Paharia in Rajmahal Hills) in the middle of the Indo-Aryan/Austro-Asiatic belt.\n\n💡 RANKER'S MEMORY LOCK: Kurukh (Oraon) & Malto (Rajmahal) = Northern Dravidian linguistic enclaves in Chota Nagpur.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Austro-Asiatic Confusion",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_22",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The Gaddi and Bakarwal communities of the Western Himalayas represent which distinctive cultural and ecological lifestyle in human geography?",
+    "options": {
+      "opt_a": "Transhumance (seasonal vertical migration with livestock between alpine summer pastures and lowland winter valleys)",
+      "opt_b": "Sedentary wet-rice terrace farming in river delta plains",
+      "opt_c": "Urban industrial factory shifts in specialized economic zones",
+      "opt_d": "Permanent deep-sea maritime trawling in oceanic exclusive zones"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Gaddis (Himachal Pradesh) and Bakarwals (Jammu & Kashmir) practice pastoral transhumance, migrating vertically with sheep and goats to high alpine meadows (*Dhar / Bugyals*) during summer and descending to Shiwalik foothills in winter.\n\n💡 RANKER'S MEMORY LOCK: Gaddis & Bakarwals = Transhumance pastoralists (Seasonal vertical migration between Bugyals and valleys).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Sedentary Farmer Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_23",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Indian demographic spatial geography, the phenomenon known as the 'Demographic Youth Bulge' vs 'Population Ageing' reveals which stark regional divergence?",
+    "options": {
+      "opt_a": "Southern States (Kerala, Tamil Nadu) have reached below-replacement fertility with rapidly ageing populations, while Northern States (UP, Bihar) have high young dependency ratios",
+      "opt_b": "Northern states have zero births while southern states have a massive fertility explosion",
+      "opt_c": "The entire Indian population has an identical median age of 18 years in every state",
+      "opt_d": "Northeastern states have experienced a total demographic collapse with zero population"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "India exhibits a two-speed demographic transition: Southern states (TFR ~1.5 to 1.7) are experiencing rapid population ageing and shrinking workforces, while Northern Hindi heartland states (TFR ~2.5 to 2.8 in Bihar/UP) have massive young populations seeking employment.\n\n💡 RANKER'S MEMORY LOCK: Two-Speed Demography: South India = Below replacement TFR + Ageing. North India = High TFR + Youth Bulge.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Uniform Demographic Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_24",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "According to the Census of India 2011, which Indian State recorded the highest percentage of Scheduled Tribe population relative to its total state population?",
+    "options": {
+      "opt_a": "Mizoram (94.4%)",
+      "opt_b": "Madhya Pradesh (21.1%)",
+      "opt_c": "Odisha (22.8%)",
+      "opt_d": "Jharkhand (26.2%)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Among States, Mizoram has the highest proportion of ST population (94.4%), followed by Nagaland (86.5%) and Meghalaya (86.1%). (Note: Lakshadweep has 94.8% among Union Territories; Madhya Pradesh has the largest ABSOLUTE number).\n\n💡 RANKER'S MEMORY LOCK: ST Population: Highest % State = Mizoram (94.4%). Highest Absolute Count = Madhya Pradesh (15.3 million).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Absolute vs Percentage Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_25",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Dongria Kondh' tribal community, who successfully defended their sacred mountain Niyamgiri against bauxite strip-mining, is a Particularly Vulnerable Tribal Group (PVTG) native to which State?",
+    "options": {
+      "opt_a": "Odisha",
+      "opt_b": "Jharkhand",
+      "opt_c": "Chhattisgarh",
+      "opt_d": "Madhya Pradesh"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Dongria Kondh inhabit the Niyamgiri Hills in Rayagada and Kalahandi districts of Odisha, worshiping the mountain as their sacred deity 'Niyam Raja' and winning a historic Supreme Court forest rights case in 2013.\n\n💡 RANKER'S MEMORY LOCK: Dongria Kondh = PVTG of Niyamgiri Hills (Odisha). Historic 2013 Supreme Court Gram Sabha verdict.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Jharkhand Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_26",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Warli' indigenous community, globally renowned for their ritual geometric white-pigment wall paintings depicting the Mother Goddess of fertility (*Palghat*), primarily resides in:",
+    "options": {
+      "opt_a": "Northern Maharashtra (Palghar, Thane) and Gujarat border tracts",
+      "opt_b": "The Thar Desert of western Rajasthan",
+      "opt_c": "The Brahmaputra floodplains of Assam",
+      "opt_d": "The high altitude desert of Spiti Valley"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Warlis are an adivasi tribe living in the Sahyadri foothills of Palghar and Thane districts in northern Maharashtra, expressing their animistic agrarian cycle through world-famous Warli folk art.\n\n💡 RANKER'S MEMORY LOCK: Warli Tribe = Northern Maharashtra (Palghar/Thane). White-pigment geometric folk art.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Assam Silk Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_27",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In demographic geography, what is the 'Demographic Dividend'?",
+    "options": {
+      "opt_a": "The economic growth potential that results when a nation's share of the working-age population (15 to 64 years) is larger than the non-working-age share (dependents)",
+      "opt_b": "A direct cash dividend distributed to every citizen by the central bank at year end",
+      "opt_c": "The total tax collected from corporations operating in metropolitan centers",
+      "opt_d": "The number of foreign tourists visiting heritage sites per calendar year"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Demographic Dividend occurs during Stage 3 of the demographic transition when fertility falls, reducing child dependency while the bulk of the population remains in productive working ages, creating an opportunity for accelerated savings and investment.\n\n💡 RANKER'S MEMORY LOCK: Demographic Dividend = Bulging working-age share (15–64) + Low dependency ratio.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Cash Bonus Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_28",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Bhil' tribal community participates in which unique traditional socio-cultural gathering and fair held annually at the confluence of the Som, Mahi, and Jakham rivers in Rajasthan?",
+    "options": {
+      "opt_a": "Baneshwar Fair",
+      "opt_b": "Pushkar Camel Fair",
+      "opt_c": "Kumbh Mela",
+      "opt_d": "Surajkund Crafts Mela"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Baneshwar Fair in Dungarpur district of Rajasthan is regarded as the 'Kumbh Mela of the Tribals', where Bhil communities from Rajasthan, Gujarat, and Madhya Pradesh gather to immerse ancestral ashes in the river confluence.\n\n💡 RANKER'S MEMORY LOCK: Baneshwar Fair (Dungarpur, Rajasthan) = 'Kumbh of the Tribals' (Bhil community gathering).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Pushkar Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_29",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Which tribal group of the Nilgiris was historically specialized as traditional blacksmiths and potters, functioning in a strict symbiotic exchange network with the pastoral Todas and farming Badagas?",
+    "options": {
+      "opt_a": "The Kotas",
+      "opt_b": "The Jarawas",
+      "opt_c": "The Santhals",
+      "opt_d": "The Khasis"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Kotas of the Nilgiris were traditional artisans (blacksmiths, carpenters, potters, musicians) who provided tools and musical instruments to the pastoral Todas and agricultural Badagas in exchange for dairy produce and grain.\n\n💡 RANKER'S MEMORY LOCK: Kotas = Artisan blacksmith/potter tribe of Nilgiris in symbiotic exchange with Todas and Badagas.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Jarawa Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_30",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Sentinelese' tribe, living in complete voluntary isolation on North Sentinel Island, are classified as:",
+    "options": {
+      "opt_a": "A Particularly Vulnerable Tribal Group (PVTG) practicing uncontacted paleolithic foraging and hunting-gathering",
+      "opt_b": "Commercial coffee plantation owners holding corporate deeds",
+      "opt_c": "Urban software engineers commuting daily to Port Blair",
+      "opt_d": "Sedentary wet-rice cultivators using mechanized tractors"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Sentinelese are one of the world's last uncontacted indigenous populations, residing on North Sentinel Island, strictly protected under the Andaman and Nicobar Islands (Protection of Aboriginal Tribes) Regulation.\n\n💡 RANKER'S MEMORY LOCK: Sentinelese = Uncontacted Negrito PVTG on North Sentinel Island practicing paleolithic foraging.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Urbanized Myth Trap",
+        "dissection": "Distractor represents a different tribal enclave or flawed ethnographic category."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary anthropological trait with a secondary category."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographic Mismatch Trap",
+        "dissection": "Avoid confusing peninsular tribal geography with northeastern hill patterns."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_31",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Dr. B.S. Guha's Racial Classification of India:\n1. The Negrito element is identified as the earliest arrival, surviving today among the Andamanese Islanders.\n2. The Proto-Australoid group forms the dominant racial substratum among the central Indian tribal communities (Santhals, Mundas, Gonds).\n3. The Western Brachycephals are divided into three sub-types: Alpinoid, Dinaric, and Armenoid.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of Dr. B.S. Guha's classic 1931 classification of Indian racial groups.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_32",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Particularly Vulnerable Tribal Groups (PVTGs) in India:\n1. PVTGs reside in 18 States and one Union Territory (Andaman & Nicobar Islands).\n2. A declining or stagnant population is one of the four statutory criteria for determining PVTG status.\n3. There are 75 recognized PVTGs, with the state of Odisha hosting the highest number of PVTG communities (13).\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are verified facts regarding the administrative and demographic status of PVTGs in India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_33",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Linguistic Families of India:\n1. The Indo-Aryan family is spoken by over 75% of the total Indian population.\n2. The Dravidian family includes four major literary languages (Tamil, Telugu, Kannada, Malayalam) and northern enclaves like Kurukh, Malto, and Brahui.\n3. The Sino-Tibetan family is spoken by the vast majority of populations in the Gangetic plain.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Sino-Tibetan languages (Tibeto-Burman) are spoken by less than 1% of India's population, strictly in the Himalayan and Northeastern hill states, NOT the Gangetic plain.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_34",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Constitutional Provisions for Scheduled Tribes in India:\n1. The Fifth Schedule applies to tribal areas in 10 states (Andhra Pradesh, Telangana, Jharkhand, Chhattisgarh, MP, Maharashtra, Gujarat, Rajasthan, Odisha, Himachal Pradesh).\n2. The Sixth Schedule establishes Autonomous District Councils with judicial and legislative powers exclusively in Assam, Meghalaya, Tripura, and Mizoram.\n3. Under the Fifth Schedule, the Governor has discretionary power to direct that an Act of Parliament does not apply to a Scheduled Area.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate the constitutional architecture of Fifth and Sixth Schedule tribal governance.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_35",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Forest Rights Act (FRA) 2006:\n1. It recognizes individual forest tenure rights on occupied forest land up to a maximum ceiling of 4 hectares.\n2. It recognizes the Community Forest Resource (CFR) right, vesting the Gram Sabha with statutory power to protect, regenerate, and manage community forests.\n3. To qualify as 'Other Traditional Forest Dwellers' (OTFD), a family must prove continuous residence in the forest for at least three generations (75 years) prior to December 13, 2005.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent statutory provisions under Section 2(o), Section 3(1), and Section 4(6) of FRA 2006.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_36",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Demographic Attributes of India according to the 2011 Census:\n1. The overall Sex Ratio of India was recorded at 943 females per 1,000 males.\n2. The Child Sex Ratio (0–6 years) declined from 927 in 2001 to an all-time low of 919 in 2011.\n3. Kerala recorded the highest overall sex ratio (1,084) among all Indian states.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of official Census 2011 demographic data.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_37",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the indigenous tribes of the Andaman and Nicobar Islands:\n1. The Great Andamanese, Onge, Jarawa, and Sentinelese belong to the Negrito racial stock.\n2. The Nicobarese and Shompens belong to the Mongoloid racial stock.\n3. All six indigenous island tribes currently have populations exceeding 50,000 members each.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an obvious absurdity because Andamanese PVTGs are critically endangered with tiny populations (Sentinelese ~50-100, Onge ~120, Great Andamanese ~50), far below 50,000.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_38",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Pastoral Communities of India:\n1. The Gujjars and Bakarwals practice seasonal transhumance between Jammu foothills and Kashmir alpine meadows.\n2. The Raikas (Rebaris) of Rajasthan are traditional camel, sheep, and goat pastoralists adapted to the arid Thar ecosystem.\n3. The Changpas of Ladakh are high-altitude pastoral nomads who rear the world-famous Changthangi (Pashmina) goats.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately describe the cultural geography and pastoral adaptations of Himalayan and arid pastoral communities.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_39",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Tribal Shifting Cultivation (*Jhum*) in India:\n1. It involves slash-and-burn clearing of forest plots, cropping for 1–3 years, followed by fallowing to restore soil fertility.\n2. In the Western Ghats of Karnataka and Maharashtra, shifting cultivation was traditionally known as 'Kumri'.\n3. In Madhya Pradesh and Chhattisgarh, it is known locally as 'Bewar' or 'Dahiya'.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements correctly identify the operational mechanics and regional terminology of shifting cultivation across India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_40",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Spatial Patterns of Migration in India:\n1. According to Census 2011, female migration accounts for the majority of internal migration, dominated by marriage-related movement.\n2. Rural-to-Urban migration is predominantly male-selective, driven by economic employment and educational pursuits.\n3. Uttar Pradesh and Bihar are the largest source states of out-migration, while Maharashtra and Delhi are the largest recipient destinations.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements reflect established spatial and demographic realities of internal migration in India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_41",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Toda Tribe of the Nilgiris:\n1. They are traditionally a pastoral community whose religious rituals and economic life revolve around sacred long-horned water buffaloes.\n2. They traditionally practiced fraternal polyandry, which has declined sharply in modern decades.\n3. Their unique barrel-vaulted bamboo and cane dwellings with tiny sliding entrances are known as 'Dogles'.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent verified anthropological facts regarding Toda ethnography in the Nilgiri biosphere.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_42",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Austro-Asiatic Linguistic Family in India:\n1. It is subdivided into two branches: the Munda branch (spoken in central-eastern India) and the Mon-Khmer branch (spoken in Meghalaya and Nicobar).\n2. Santhali, Mundari, Ho, and Korku belong to the Munda branch.\n3. Khasi and Nicobarese belong to the Mon-Khmer branch.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of the linguistic taxonomy of the Austro-Asiatic family in India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_43",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Herbert Risley's Racial Classification (1901):\n1. Risley utilized cephalic index (head shape) and nasal index (nose width) as primary anthropometric criteria.\n2. He proposed 7 distinct racial types across the Indian subcontinent.\n3. Risley concluded that the caste hierarchy of India was strictly determined by nasal index, with higher castes possessing narrower noses.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate Sir Herbert Risley's anthropometric methodology and his controversial nasal index hypothesis in 1901.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_44",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Particularly Vulnerable Tribal Groups (PVTGs) of Central India:\n1. The Birhor tribe of Jharkhand are traditionally nomadic rope-makers and monkey-catchers.\n2. The Baiga tribe of Madhya Pradesh consider plowing the earth as a sin, viewing it as tearing the breast of Mother Earth.\n3. The Maria Gonds of Bastar practice shifting cultivation known as 'Penda'.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are verified anthropological facts regarding Central Indian PVTG livelihoods and cultural beliefs.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_45",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Age-Sex Structure and Demographic Transition in India:\n1. Southern states like Kerala and Tamil Nadu exhibit a stationary or constrictive population pyramid with a narrowing base.\n2. High-fertility states like Bihar and Uttar Pradesh exhibit an expansive population pyramid with a broad base of young dependents.\n3. India as a whole has reached a negative population growth rate with zero annual births.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is false because India continues to add millions to its population annually (crude birth rate ~19.5 per thousand), maintaining positive natural population increase.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_46",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Santhal community:\n1. They are the third largest Scheduled Tribe in India, concentrated in Jharkhand, West Bengal, and Odisha.\n2. They led the historic Santhal Hool (Rebellion) of 1855 against British colonial revenue exploitation and moneylenders.\n3. The Santhali language belongs to the Dravidian language family and uses the Tamil script.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Santhali belongs to the Austro-Asiatic (Munda) family, NOT Dravidian, and utilizes its own indigenous 'Ol Chiki' script created by Pandit Raghunath Murmu.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_47",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Religious Demography in India according to Census 2011:\n1. Hindus constitute 79.8% of the total population, while Muslims constitute 14.2%.\n2. Christians constitute the majority of the population in three Northeastern states: Nagaland, Mizoram, and Meghalaya.\n3. Sikhs constitute over 75% of the total population of Punjab.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Sikhs constitute approximately 57.7% of Punjab's population according to Census 2011, NOT over 75%.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_48",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Tribal Displacement and Development Projects in India:\n1. Scheduled Tribes constitute approximately 8.6% of India's population but have historically accounted for over 40% of all development-induced displaced persons.\n2. Construction of large multi-purpose dams (e.g. Sardar Sarovar, Hirakud) and open-cast coal mines has been a major cause of tribal displacement.\n3. The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act (LARR) 2013 mandates prior consent of Gram Sabhas in Fifth Schedule areas.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements reflect established socio-economic and statutory realities of tribal displacement in post-independence India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_49",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Jarawa tribe of the Andaman Islands:\n1. They inhabit the western coastal forests of South and Middle Andaman Islands.\n2. The Andaman Trunk Road (ATR) passing through their ancestral reserve has been a major source of outside disease transmission and cultural disruption.\n3. The Supreme Court of India ordered the creation of a 5 km Buffer Zone around the Jarawa Reserve prohibiting all commercial and tourism activities.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent documented judicial and geographic facts concerning the Jarawa tribal reserve.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_50",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Cultural Realms of India:\n1. The Indo-Aryan cultural realm in the North is characterized by village exogamy and strict separation of agnatic and affinal kin.\n2. The Dravidian cultural realm in the South historically favors cross-cousin marriages to consolidate ancestral land holdings within the kin group.\n3. The tribal cultural realm across the central highlands exhibits egalitarian gender norms, youth dormitories (e.g. *Ghotul* among Muria Gonds), and animistic sacred groves (*Sarna*).\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of the broad anthropological and geographical realms of Indian society identified by Irawati Karve and David Sopher.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Notice subtle demographic percentages and tribal statutory nuances.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a percentage threshold or script origin."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical anthropological and demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_51",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The PESA Act (Panchayats Extension to Scheduled Areas Act, 1996) empowers Gram Sabhas in Fifth Schedule areas with which non-negotiable statutory power over natural resources?",
+    "options": {
+      "opt_a": "Ownership of Minor Forest Produce (MFP) and mandatory consultation before land acquisition or mining lease grant for minor minerals",
+      "opt_b": "Authority to declare war on neighboring states",
+      "opt_c": "Right to print local paper currency notes",
+      "opt_d": "Exemption from all federal environmental emission standards"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "PESA 1996 recognizes the traditional self-governance of tribal communities, granting Gram Sabhas ownership of minor forest produce (MFP), power to prevent alienation of tribal lands, control over local money-lending, and mandatory prior consultation for mining leases.\n\n💡 RANKER'S MEMORY LOCK: PESA 1996 = Gram Sabha ownership of Minor Forest Produce + Mandatory consultation for minor mineral mining.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Constitutional Absurdity",
+        "dissection": "War powers belong strictly to the Union government."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Currency Absurdity",
+        "dissection": "Currency is an exclusive Union List subject (RBI)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Environmental Myth Trap",
+        "dissection": "PESA strengthens ecological protection, not exemption."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_52",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The matrilineal kinship system of the Khasi community in Meghalaya features which unique customary rule of inheritance?",
+    "options": {
+      "opt_a": "The youngest daughter ('Khatduh') inherits the ancestral home and property, while children take the mother's clan surname",
+      "opt_b": "Only the eldest male son inherits all agricultural land",
+      "opt_c": "All property is surrendered to the central government upon marriage",
+      "opt_d": "Property is auctioned every 5 years to the highest bidder"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Khasis are one of the world's largest matrilineal societies: lineage passes through the mother, children take the mother's surname, and the youngest daughter ('Ka Khadduh') inherits the ancestral family property as the custodian of the family hearth and ancestral rituals.\n\n💡 RANKER'S MEMORY LOCK: Khasi Matriliny = Youngest daughter (Khatduh) inherits ancestral property; mother's surname passed to children.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Patrilineal Inversion",
+        "dissection": "Eldest male inheritance (primogeniture) is patrilineal, the opposite of Khasi custom."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Statist Myth Trap",
+        "dissection": "Property remains within the matrilineal clan lineage."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Absurdity Trap",
+        "dissection": "Auctioning property has no cultural basis."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_53",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The 'Ghotul' is a traditional social and cultural institution among the Muria Gonds of Bastar (Chhattisgarh) that functions as:",
+    "options": {
+      "opt_a": "A mixed youth dormitory where adolescents learn tribal folklore, social ethics, community cooperation, and egalitarian values",
+      "opt_b": "A commercial grain bank operated by local moneylenders",
+      "opt_c": "A high-security tribal jail for political prisoners",
+      "opt_d": "A military bunker for storing hunting firearms"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Ghotul (extensively documented by anthropologist Verrier Elwin in 'The Muria and their Ghotul') is a village youth dormitory where unmarried adolescent boys (Chelicks) and girls (Motiaris) participate in cultural socialization, dancing, self-discipline, and democratic mutual aid.\n\n💡 RANKER'S MEMORY LOCK: Ghotul = Muria Gond youth dormitory (Verrier Elwin). Cultural learning and egalitarian social training.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Economic Misidentification",
+        "dissection": "A grain bank is not the socio-cultural Ghotul."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Penal Absurdity",
+        "dissection": "Ghotul is an educational, cultural community hub, not a prison."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Military Fallacy",
+        "dissection": "Ghotul is a peaceful social institution."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_54",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Lepcha and Bhutia communities of Sikkim:\n1. The Lepchas are considered the earliest indigenous inhabitants of Sikkim, traditionally worshiping Mount Khangchendzonga.\n2. The Bhutias migrated from Tibet in earlier centuries, introducing Tibetan Buddhism and the Namgyal royal dynasty.\n3. Both communities are classified as Particularly Vulnerable Tribal Groups (PVTGs) on the verge of biological extinction.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because neither the Lepchas nor the Bhutias are classified as PVTGs (there are NO PVTGs in Sikkim); both communities are thriving Scheduled Tribes with high literacy and political leadership in the state.\n\n💡 RANKER'S MEMORY LOCK: Lepcha = Indigenous Sikkim dwellers. Bhutia = Tibetan Buddhist migrants. NEITHER is a PVTG.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Both statements 1 and 2 are verified ethnohistorical facts."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "PVTG Over-extension",
+        "dissection": "Sikkim has zero PVTGs; claiming Lepcha/Bhutia are PVTGs is a classic examiner trap."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not reject Statements 1 and 2."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_55",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the spatial distribution of religious minorities in India (Census 2011):\n1. The highest proportion of Buddhist population in India is concentrated in the Western Himalayan state/UTs (Ladakh, Himachal Pradesh) and Sikkim/Arunachal Pradesh, along with Neo-Buddhists in Maharashtra.\n2. Jain populations are predominantly urban (over 80% urban) and concentrated in Rajasthan, Gujarat, Maharashtra, and Madhya Pradesh.\n3. Zoroastrians (Parsis) form the majority population of coastal Goa.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Parsis are a tiny demographic group (~57,000 nationally) concentrated in Mumbai and Gujarat, NOT Goa; Goa has a significant Christian minority (~25%) and Hindu majority (~66%).\n\n💡 RANKER'S MEMORY LOCK: Jains = Highest urban proportion (>80%) of any religious community in India. Parsis = Concentrated in Mumbai/Gujarat, not Goa.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Statements 1 and 2 are accurate Census 2011 figures."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Parsi Location Fallacy",
+        "dissection": "Parsis never formed a demographic majority in Goa."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Statements 1 and 2 are authentic demographic facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_56",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Assertion-Reason",
+    "stem": "Given below are two statements:\nAssertion (A): The Child Sex Ratio (0–6 years) in economically affluent agricultural districts of Punjab and Haryana was historically lower than in economically backward tribal districts of Bastar and Chota Nagpur.\nReason (R): Cultural norms in tribal societies historically practiced egalitarian gender relations and avoided dowry-induced female devaluation, whereas patriarchal landholding classes in the Northwest utilized sex-selection technology to prevent land fragmentation.\nIn the context of the statements above, which of the following is correct?",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is NOT the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both statements are true and R explains A. Demographers (such as Dr. Asok Mitra and Amartya Sen) highlighted this paradox: wealthy agrarian districts of Punjab and Haryana recorded abysmal Child Sex Ratios (<850 in 2001/2011) due to ultrasound technology and patriarchal land inheritance, whereas tribal districts maintained healthy Child Sex Ratios (>950) due to bride-price, female economic autonomy in gathering, and absence of dowry.\n\n💡 RANKER'S MEMORY LOCK: Prosperity does not guarantee gender equity: Affluent Northwest had low CSR due to son-preference; tribal areas maintain superior female child survival.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Denial Trap",
+        "dissection": "Cultural patriarchy and land inheritance directly explain the skewed sex ratio."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "R Invalidation",
+        "dissection": "Reason R is supported by every major sociological study of North Indian demographics."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Assertion Invalidation",
+        "dissection": "Assertion A is an empirical demographic fact from Census 2001 and 2011."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_57",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Santhal Rebellion (Santhal Hool, 1855):\n1. It erupted in the Rajmahal Hills tract designated by the British as 'Damin-i-Koh'.\n2. It was led by the brothers Sidhu and Kanhu Murmu against oppressive Mahajans (moneylenders) and British revenue police.\n3. As an administrative consequence, the British created the separate non-regulation district of Santhal Pargana.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. The Santhal Hool (1855) was a watershed peasant-tribal rebellion in the Damin-i-Koh, leading directly to Act XXXVII of 1855 which created the Santhal Pargana district with protective tenancy laws.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Santhal Hool (1855) = Damin-i-Koh + Sidhu-Kanhu Murmu + Creation of Santhal Pargana district.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Every statement is historically documented in NCERT and standard Optional histories."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Statement 3 accurately details the legislative outcome of 1855."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not eliminate canonical tribal history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_58",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Statement Based",
+    "stem": "Consider the following statements regarding the Nicobarese community of the Nicobar Islands:\n1. Unlike the nomadic hunter-gatherer Shompens, the Nicobarese live in settled coastal villages practicing horticulture and coconut trade.\n2. The traditional joint family household of the Nicobarese is known as a 'Tuhet', headed by a chosen elder.\n3. The Nicobarese belong anthropologically to the Negrito racial stock.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Nicobarese belong to the Mongoloid racial stock and speak an Austro-Asiatic (Mon-Khmer) language, whereas the Negrito stock is exclusive to the Andamanese tribes.\n\n💡 RANKER'S MEMORY LOCK: Nicobarese = Mongoloid stock (Tuhet joint family). Andamanese = Negrito stock. Crucial Optional distinction.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Negrito Fallacy",
+        "dissection": "Statement 3 repeats the classic trap confusing Nicobarese with Andaman Negritos."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Tuhet Denial",
+        "dissection": "Tuhet is the verified indigenous term for Nicobarese corporate kinship units."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Do not accept Negrito classification for Nicobarese."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_59",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Linguistic Reorganisation of Indian States:\n1. The Dhar Commission (1948) and JVP Committee (1948) both rejected language as the primary basis for state reorganisation, citing national unity.\n2. The fast unto death of Potti Sreeramulu in 1952 compelled the Union Government to create Andhra State for Telugu speakers in 1953.\n3. The States Reorganisation Commission (Fazal Ali Commission, 1953) recommended that state boundaries should broadly conform to linguistic boundaries while preserving administrative and economic viability.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are historically accurate milestones leading to the enactment of the historic States Reorganisation Act of 1956.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Dhar & JVP (1948) rejected language → Potti Sreeramulu sacrifice (1952) → Andhra State (1953) → Fazal Ali Commission & States Reorganisation Act (1956).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "All 3 milestones are standard facts of Indian political-cultural geography."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Statement 3 accurately defines Fazal Ali's balanced criteria."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not eliminate canonical state reorganization history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q27_60",
+    "topicId": 27,
+    "topicName": "Cultural Setting of India",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Sacred Groves (*Sarna / Orans / Devarakadus*) in Indian cultural geography:\n1. They represent virgin forest patches preserved by traditional communities through religious taboos and dedicated to local folk deities.\n2. In the Chota Nagpur tribal region, sacred groves are known as 'Sarna', where nature worship rituals (Sarhul festival) take place under blooming Sal trees.\n3. In the desert tracts of western Rajasthan, sacred groves surrounding water sources protected by the Bishnoi community are known as 'Orans'.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of the indigenous conservation geography of Sacred Groves across India (Sarna in Jharkhand/Central India, Orans in Rajasthan, Devarakadu in Karnataka, Kovilkadu in Tamil Nadu).\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Sacred Groves: Sarna (Chota Nagpur) + Orans (Rajasthan Bishnoi) + Devarakadu (Western Ghats). Indigenous biodiversity hotspots.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "All regional terms and conservation functions are correct."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Do not doubt the Sarna-Sarhul festival connection."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not reject authentic cultural ecology practices."
+      }
+    ]
+  }
+]

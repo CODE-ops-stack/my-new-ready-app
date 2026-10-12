@@ -1,7 +1,7 @@
 {
-  "version": 18,
-  "totalQuestions": 3522,
-  "totalTopics": 23,
+  "version": 19,
+  "totalQuestions": 3942,
+  "totalTopics": 30,
   "topics": [
     {
       "topicId": 1,
@@ -140,6 +140,48 @@
       "topicName": "📍 Bihar Geography",
       "count": 62,
       "file": "topic_23.json"
+    },
+    {
+      "topicId": 24,
+      "topicName": "🧠 Perspectives in Human Geography (Geographical Thought)",
+      "count": 60,
+      "file": "topic_24.json"
+    },
+    {
+      "topicId": 25,
+      "topicName": "📐 Models, Theories & Laws in Human Geography",
+      "count": 60,
+      "file": "topic_25.json"
+    },
+    {
+      "topicId": 26,
+      "topicName": "🗺️ Regional Planning & Regionalisation",
+      "count": 60,
+      "file": "topic_26.json"
+    },
+    {
+      "topicId": 27,
+      "topicName": "👥 Cultural Setting of India",
+      "count": 60,
+      "file": "topic_27.json"
+    },
+    {
+      "topicId": 28,
+      "topicName": "🏛️ Political Aspects of Indian Geography",
+      "count": 60,
+      "file": "topic_28.json"
+    },
+    {
+      "topicId": 29,
+      "topicName": "⛰️ Advanced Geomorphology & Landscape Evolution",
+      "count": 60,
+      "file": "topic_29.json"
+    },
+    {
+      "topicId": 30,
+      "topicName": "🌊 Advanced Ocean Topography & Climatology Models",
+      "count": 60,
+      "file": "topic_30.json"
     }
   ]
 }

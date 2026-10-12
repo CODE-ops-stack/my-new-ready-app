@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "opt_q26_01",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In regional geography and spatial planning, a 'Formal (or Homogeneous) Region' is defined as an area characterized by:",
+    "options": {
+      "opt_a": "Internal uniformity or homogeneity with respect to one or more specified physical or cultural traits",
+      "opt_b": "Interdependence organized around a central focal node or transportation hub",
+      "opt_c": "A purely subjective mental perception held by local inhabitants without objective data",
+      "opt_d": "A federally demarcated military exclusion zone"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Formal Region is characterized by internal homogeneity based on defined criteria (e.g. the Gangetic plain defined by alluvium, the Deccan Traps defined by basalt, or the Hindi-speaking belt defined by language).\n\n💡 RANKER'S MEMORY LOCK: Formal Region = Homogeneity / internal uniformity (Physical, climatic, or cultural traits).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Functional Node Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_02",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "A 'Functional (or Nodal) Region' in spatial planning is distinguished from a formal region because it is organized around:",
+    "options": {
+      "opt_a": "A central focal node connected to surrounding hinterlands by functional linkages, commuting, and communication flows",
+      "opt_b": "Total uniformity of bedrock geology across its entire spatial extent",
+      "opt_c": "A shared ancient religious heritage with no contemporary economic trade",
+      "opt_d": "Uniform annual rainfall with zero climatic deviation"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Functional (Nodal) Region is an operational spatial system structured around a central node (e.g., metropolitan labor market, newspaper circulation zone, port trade hinterland), bound by flows of people, goods, and capital.\n\n💡 RANKER'S MEMORY LOCK: Functional (Nodal) Region = Organized around a focal core with functional flows and linkages.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Homogeneity Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_03",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "A 'Perceptual (or Vernacular) Region' is best exemplified by which of the following spatial concepts?",
+    "options": {
+      "opt_a": "An area defined by people's shared cultural identity and subjective feelings (e.g., 'The American Bible Belt' or 'Mithilanchal')",
+      "opt_b": "A legally surveyed cadastral district boundary",
+      "opt_c": "An exact meteorological isotherm line on a weather map",
+      "opt_d": "A national wildlife tiger corridor demarcated by GPS coordinates"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Perceptual (Vernacular) Region exists as a mental construct based on cultural identity, dialect, and informal regional consciousness (e.g., Bundelkhand, Malwa, Dixie), often lacking precise administrative boundaries.\n\n💡 RANKER'S MEMORY LOCK: Perceptual (Vernacular) Region = Mental construct based on cultural identity and regional perception.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Formal Boundary Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_04",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Growth Pole Theory' (*Théorie des pôles de croissance*) was originally formulated in 1955 by the French economist:",
+    "options": {
+      "opt_a": "François Perroux",
+      "opt_b": "Jacques Boudeville",
+      "opt_c": "Gunnar Myrdal",
+      "opt_d": "Albert O. Hirschman"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "François Perroux introduced the Growth Pole concept in 1955, famously writing that 'growth does not appear everywhere and all at once; it appears in points or development poles, with variable intensities; it spreads along diverse channels'.\n\n💡 RANKER'S MEMORY LOCK: François Perroux (1955) = Growth Pole Theory. Conceived in abstract economic space, not geographic space.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Boudeville Geographic Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_05",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Who among the following scholars translated François Perroux's abstract economic growth pole concept into concrete 'Geographic Space'?",
+    "options": {
+      "opt_a": "Jacques Boudeville",
+      "opt_b": "John Friedmann",
+      "opt_c": "Peter Haggett",
+      "opt_d": "Walter Isard"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Jacques Boudeville (1966) adapted Perroux's abstract theory into geographic space, defining a regional growth pole as a set of expanding industries located in an urban area, inducing further development in its geographical zone of influence.\n\n💡 RANKER'S MEMORY LOCK: Jacques Boudeville = Applied Growth Poles to GEOGRAPHIC space (Growth Centers in urban regions).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Perroux Abstract Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_06",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In François Perroux's Growth Pole Theory, what is the 'Propulsive Industry' (*Industrie motrice*)?",
+    "options": {
+      "opt_a": "A dominant, highly dynamic, innovative firm that generates rapid growth and exerts strong backward and forward linkages on other enterprises",
+      "opt_b": "A traditional handloom weaving cottage workshop",
+      "opt_c": "A state-run postal communication system operating at break-even revenue",
+      "opt_d": "An agricultural subsistence farm producing staple grains for local consumption"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Propulsive Firm (Industrie motrice) is large, innovative, technologically advanced, and exhibits high income elasticity of demand, stimulating growth throughout the regional economy via backward and forward multiplier effects.\n\n💡 RANKER'S MEMORY LOCK: Propulsive Industry (*Industrie motrice*) = Large, innovative core firm driving regional expansion via multipliers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Subsistence Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_07",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Gunnar Myrdal's Theory of Cumulative Causation (1957), 'Backwash Effects' refer to:",
+    "options": {
+      "opt_a": "The adverse drain of capital, skilled selective labor, and raw materials from peripheral lagging regions into the dynamic core",
+      "opt_b": "The beneficial dispersal of modern manufacturing technology into rural farming villages",
+      "opt_c": "The construction of drainage canals to prevent river delta flooding",
+      "opt_d": "The equal distribution of federal tax revenue to all states on a per capita basis"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Myrdal's 'Backwash effects' describe the centrifugal drain of economic vitality from underdeveloped peripheries to prosperous cores (brain drain, capital flight, market preemption), reinforcing regional poverty.\n\n💡 RANKER'S MEMORY LOCK: Backwash Effects (Myrdal) = Drain of capital and talent from periphery to core (widens inequality).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Spread Effect Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_08",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Gunnar Myrdal's terminology, the centrifugal diffusion of economic momentum, increased demand for agricultural raw materials, and technological spillover from the growing core into its hinterland is termed:",
+    "options": {
+      "opt_a": "Spread Effects",
+      "opt_b": "Backwash Effects",
+      "opt_c": "Polarization Effects",
+      "opt_d": "Agglomeration Diseconomies"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Spread effects represent the positive centrifugal impulses generated by the core into surrounding peripheral areas (increased purchases of food and minerals, technology transfer, remittance flows).\n\n💡 RANKER'S MEMORY LOCK: Spread Effects (Myrdal) = Positive spillovers from core into periphery (reduces disparity).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Backwash Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_09",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In regional development planning, which hydrological and geomorphic unit is internationally recognized as the ideal ecological unit for integrated land and water resource management?",
+    "options": {
+      "opt_a": "Watershed (Catchment basin)",
+      "opt_b": "Administrative District Boundary",
+      "opt_c": "Police Sub-division",
+      "opt_d": "Municipal Ward"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Watershed is a naturally bounded hydrologic unit where rainfall runoff drains to a common point. Managing soil, slopes, ground water recharge, and agriculture within a watershed balances ecological sustainability with community planning.\n\n💡 RANKER'S MEMORY LOCK: Watershed = Scientific, natural unit for integrated land-water-biomass regional planning.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Political Boundary Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_10",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In the history of Indian regional planning, the Planning Commission divided the country into how many broad 'Agro-Climatic Zones' based on physiography, climate, and soil in 1989?",
+    "options": {
+      "opt_a": "15 Agro-Climatic Zones",
+      "opt_b": "8 Agro-Climatic Zones",
+      "opt_c": "25 Agro-Climatic Zones",
+      "opt_d": "50 Agro-Climatic Zones"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "In 1989, the Planning Commission of India delineated 15 Agro-Climatic Regions (Zones 1 to 14 on the Indian mainland, and Zone 15 comprising the Island territories of Andaman, Nicobar, and Lakshadweep).\n\n💡 RANKER'S MEMORY LOCK: Planning Commission = 15 Agro-Climatic Zones (14 Mainland + 1 Islands). ICAR/NBSS&LUP = 20 Agro-Ecological Regions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Zone Count Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_11",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Which centrally sponsored program was launched in India in 1973–74 to address the acute spatial distress, water scarcity, and agricultural instability of arid and semi-arid tracts?",
+    "options": {
+      "opt_a": "Drought Prone Areas Programme (DPAP)",
+      "opt_b": "National Rural Health Mission",
+      "opt_c": "Pradhan Mantri Gram Sadak Yojana",
+      "opt_d": "Swachh Bharat Abhiyan"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Drought Prone Areas Programme (DPAP) was launched in 1973–74 following the Rural Works Programme to insulate vulnerable dryland districts against recurring famines through soil and water conservation and afforestation.\n\n💡 RANKER'S MEMORY LOCK: DPAP (1973–74) = First targeted area development program for drought-vulnerable drylands.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Health Mission Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_12",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Desert Development Programme' (DDP) was launched in 1977–78 to arrest desertification and restore ecological balance in which two distinct climatic desert zones of India?",
+    "options": {
+      "opt_a": "Hot Deserts of Rajasthan/Gujarat and Cold Deserts of Ladakh/Himachal Pradesh",
+      "opt_b": "Coastal mangroves of Sundarbans and Andaman coral reefs",
+      "opt_c": "Tropical rainforests of Western Ghats and Brahmaputra valley",
+      "opt_d": "Peninsular plateau black soil tracts of Maharashtra and Karnataka"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "DDP covers both hot arid deserts (Rajasthan, Gujarat, Haryana) and cold arid high-altitude deserts (Ladakh in J&K/Ladakh, Lahaul & Spiti in Himachal Pradesh), restoring ecosystems via shelterbelts and sand dune stabilization.\n\n💡 RANKER'S MEMORY LOCK: DDP (1977–78) = Covers BOTH Hot Deserts (Thar) and Cold Deserts (Ladakh/Lahaul-Spiti).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Hot Desert Only Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_13",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Command Area Development Programme' (CADP) initiated in 1974 aimed to bridge the critical gap between:",
+    "options": {
+      "opt_a": "Irrigation potential created by major dams and irrigation potential actually utilized in farmers' fields",
+      "opt_b": "Total electricity produced and total coal burned in thermal plants",
+      "opt_c": "Urban drinking water supply and rural tubewell drilling",
+      "opt_d": "National highway lane capacity and freight truck weight limits"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "CADP was designed to eliminate the lag between dam water release and field application by constructing on-farm micro-canals (field channels), land leveling, and warabandi rotational water distribution.\n\n💡 RANKER'S MEMORY LOCK: CADP (1974) = Bridges gap between Irrigation Potential Created (IPC) and Irrigation Potential Utilized (IPU).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Electricity Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_14",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "What does 'Multi-Level Planning' signify in the context of democratic spatial governance in India?",
+    "options": {
+      "opt_a": "A decentralized planning structure where planning takes place simultaneously across multiple tiers: National, State, District, Block, and Gram Panchayat",
+      "opt_b": "A planning system where only high-rise multi-story skyscraper construction is permitted in cities",
+      "opt_c": "A military command structure where all directives come strictly from the federal defense ministry",
+      "opt_d": "An economic framework that completely eliminates all regional planning boards"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Multi-level planning breaks away from centralized monolithic planning by distributing authority, resource allocation, and project design across five operational tiers (Union, State, District, Block, and Village Panchayat), fostered by the 73rd and 74th Constitutional Amendments.\n\n💡 RANKER'S MEMORY LOCK: Multi-Level Planning = Decentralized nested tiers (National → State → District → Block → Gram Panchayat).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Skyscraper Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_15",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The 'Aspirational Districts Programme' (ADP), launched by NITI Aayog in 2018, operationalizes regional development through which core strategy?",
+    "options": {
+      "opt_a": "Targeting 112 of the most developmentally lagging districts through real-time data tracking, convergence, and inter-district competition",
+      "opt_b": "Providing blanket cash grants to the wealthiest metropolitan municipal corporations",
+      "opt_c": "Constructing international airports in every district regardless of terrain",
+      "opt_d": "Relocating all rural populations into five mega-industrial urban corridors"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Launched in January 2018, the ADP focuses on 112 lagging districts across 5 key socio-economic themes (Health, Education, Agriculture/Water, Financial Inclusion, Infrastructure) using the 3Cs strategy: Convergence, Collaboration, and Competition.\n\n💡 RANKER'S MEMORY LOCK: Aspirational Districts Programme (NITI Aayog, 2018) = 112 lagging districts tracked via real-time delta rankings.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Metropolitan Bias Trap",
+        "dissection": "Distractor represents a different planning approach or mismatched administrative concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Administrative Inversion Trap",
+        "dissection": "Avoid centralized vs decentralized institutional confusion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_16",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In the pioneering economic regionalisation of India conducted by P. Sengupta and Galina Sdasyuk (1968), how was the national space hierarchical classified?",
+    "options": {
+      "opt_a": "Into 7 Natural Regions (Macro), 42 Sub-regions (Meso), and 229 Micro-regions based on resource endowment and production specialisation",
+      "opt_b": "Into 3 military commands and 12 coastal naval districts",
+      "opt_c": "Into 50 identical square geometric zones following latitude and longitude grids",
+      "opt_d": "Into two zones: purely agricultural North and purely industrial South"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "P. Sengupta and Soviet geographer Galina Sdasyuk published 'Economic Regionalisation of India' (1968), creating a 3-tier hierarchy: 7 Macro-economic regions, 42 Meso-regions, and 229 Micro-regions integrating physical base with industrial potential.\n\n💡 RANKER'S MEMORY LOCK: Sengupta & Sdasyuk (1968) = 7 Macro, 42 Meso, and 229 Micro-economic regions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Military District Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_17",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In V. Nath's scheme of 'Resource Assessment Regions of India' (1965), which primary criterion was utilized to delineate the macro-resource planning regions?",
+    "options": {
+      "opt_a": "Homogeneity of physical environment (physiography, geological structure, climate) combined with natural resource potential",
+      "opt_b": "Uniformity of per capita state GDP across census tracts",
+      "opt_c": "Distance from the national capital New Delhi",
+      "opt_d": "Total length of electrified railway tracks"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "V. Nath divided India into 15 resource regions, grounding regionalization on the physical environment (relief, river systems, geology, soil, climate) as the permanent foundation for assessing long-term resource capabilities.\n\n💡 RANKER'S MEMORY LOCK: V. Nath (1965) = 15 Resource Development Regions based on physical base and natural resources.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "GDP Homogeneity Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_18",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "Which regional planning hierarchy of growth foci was proposed by R.P. Misra (1974) to bridge the gap between urban centers and rural villages in India?",
+    "options": {
+      "opt_a": "Service Centers (local) → Growth Points (block) → Growth Centers (district) → Growth Poles (regional/macro)",
+      "opt_b": "Megacities → Metropolis → Suburb → Ghetto",
+      "opt_c": "National Capital → State Capital → Cantonment → Gram Sabha",
+      "opt_d": "Primary Core → Secondary Periphery → Tertiary Hinterland → Outer Colony"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "R.P. Misra modified Perroux's model for the Indian rural context, designing a 4-tier 'Growth Foci' hierarchy: (1) Service Centers for 5,000–10,000 population, (2) Growth Points for 50,000–100,000, (3) Growth Centers for 100,000–500,000, and (4) Growth Poles for 1–2 million.\n\n💡 RANKER'S MEMORY LOCK: R.P. Misra Growth Foci Hierarchy: Service Center → Growth Point → Growth Center → Growth Pole.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Western Urban Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_19",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 73rd and 74th Constitutional Amendment Acts (1992) fundamentally transformed Indian regional planning by giving constitutional status to which planning bodies?",
+    "options": {
+      "opt_a": "District Planning Committees (DPCs) under Article 243ZD and Metropolitan Planning Committees (MPCs) under Article 243ZE",
+      "opt_b": "The National Development Council and Union Planning Commission",
+      "opt_c": "The Inter-State River Water Tribunals",
+      "opt_d": "The Central Board of Direct Taxes"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Article 243ZD mandated District Planning Committees (DPCs) to consolidate draft plans prepared by Panchayats and Municipalities into a unified district development plan, operationalizing bottom-up spatial planning.\n\n💡 RANKER'S MEMORY LOCK: Article 243ZD = District Planning Committee (DPC). Article 243ZE = Metropolitan Planning Committee (MPC).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Planning Commission Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_20",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Gadgil-Mukherjee Formula', adopted during the Fourth Five-Year Plan and modified later, was historically used for which critical regional purpose in India?",
+    "options": {
+      "opt_a": "Determining the objective allocation of Central Assistance funds among Indian States to address regional backwardness",
+      "opt_b": "Demarcating the international boundary with Myanmar",
+      "opt_c": "Setting minimum support prices for wheat and paddy",
+      "opt_d": "Calculating seismic hazard zones across the Himalayan arc"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Formulated by D.R. Gadgil in 1969, the formula allocated Central Assistance to state plans based on transparent weights: population (60%), per capita income (25%), tax effort/fiscal performance (7.5%), and special problems (7.5%).\n\n💡 RANKER'S MEMORY LOCK: Gadgil-Mukherjee Formula = Objective formula for allocating central plan funds to states.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Border Demarcation Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_21",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Western Ghats Ecology Expert Panel' (WGEEP, 2011), which recommended that the entire Western Ghats be designated as an Ecologically Sensitive Area (ESA) with 3 zones, was headed by:",
+    "options": {
+      "opt_a": "Madhav Gadgil",
+      "opt_b": "K. Kasturirangan",
+      "opt_c": "Sunita Narain",
+      "opt_d": "M.S. Swaminathan"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Prof. Madhav Gadgil headed the WGEEP (2011). It recommended designating the entire 1,500 km mountain chain as Ecologically Sensitive Area, classified into ESZ-1, ESZ-2, and ESZ-3 with strict bans on mining and mega-dams in ESZ-1.\n\n💡 RANKER'S MEMORY LOCK: Madhav Gadgil Report (WGEEP, 2011) = Entire Western Ghats as ESA (Strict zoning). Kasturirangan (2013) = Scaled down to 37% natural landscape.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Kasturirangan Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_22",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The High-Level Working Group on the Western Ghats (2013) led by Dr. K. Kasturirangan departed from the Gadgil Panel by recommending:",
+    "options": {
+      "opt_a": "Demarcating only 37% of the total Western Ghats area as ecologically sensitive (comprising continuous natural landscapes), leaving cultural landscapes open to regulated development",
+      "opt_b": "Total industrialization of 100% of the Western Ghats with open-cast iron ore mining",
+      "opt_c": "Banning all human habitation across the entire states of Kerala and Goa",
+      "opt_d": "Submerging the entire Nilgiri plateau under an interconnected reservoir network"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Kasturirangan's committee distinguished between 'Natural Landscapes' (37% of the Ghats, to be declared ESA with bans on red-category industries and mining) and 'Cultural Landscapes' (63%, containing human settlements, farms, and plantations).\n\n💡 RANKER'S MEMORY LOCK: Kasturirangan (2013) = 37% Natural Landscape as ESA. Balanced ecology with local livelihoods.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Gadgil Confusion",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_23",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In regional planning theory, what is 'Bottom-Up (Decentralized) Planning'?",
+    "options": {
+      "opt_a": "Planning where goals, resource mapping, and project priorities originate from local village communities and gram sabhas, moving upwards to district and state tiers",
+      "opt_b": "Planning dictated exclusively by international lending institutions and the central finance ministry",
+      "opt_c": "A spatial plan that builds deep underground tunnels before constructing surface roads",
+      "opt_d": "A program where only the top 1% wealthiest urban districts receive federal funding"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Bottom-up planning (grassroots spatial democracy) leverages indigenous knowledge, participatory budgeting, and local accountability, contrasting with top-down technocratic planning that imposes uniform blueprints from the capital.\n\n💡 RANKER'S MEMORY LOCK: Bottom-Up Planning = Grassroots participatory governance (Gram Sabha → Panchayat → District → State).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Underground Literal Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_24",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Hill Area Development Programme' (HADP) in India was designed specifically to address which unique developmental vulnerability of montane regions?",
+    "options": {
+      "opt_a": "Fragile ecological balance, high soil erosion, steep terrain accessibility barriers, and sparse infrastructure",
+      "opt_b": "Excessive desert heat waves and lack of rainfall below 100 mm",
+      "opt_c": "Overcrowding of coastal fishing ports and saline sea intrusion",
+      "opt_d": "The complete absence of freshwater rivers and streams"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "HADP focuses on designated hill districts (Nilgiris, Assam hills, West Bengal hills), centering on eco-restoration, terracing, watershed treatment, horticulture, and sustainable road connectivity without triggering landslides.\n\n💡 RANKER'S MEMORY LOCK: HADP = Fragile montane ecology + Landslide vulnerability + Watershed soil conservation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Coastal Salinity Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_25",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The regional strategy known as 'Growth Center Strategy' aims to promote development in lagging rural hinterlands by:",
+    "options": {
+      "opt_a": "Concentrating strategic infrastructure, agro-processing, and credit facilities at designated intermediate towns to trigger spread effects into surrounding villages",
+      "opt_b": "Spreading capital randomly across every individual acre of farmland in equal rupee amounts",
+      "opt_c": "Evacuating rural villagers and settling them exclusively in the national capital",
+      "opt_d": "Banning all road connections between rural towns and commercial markets"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Instead of scattering thin, ineffective resources everywhere, the Growth Center strategy concentrates catalytic investments in well-connected nodal towns with threshold potential, transforming them into engines that pull the rural hinterland forward.\n\n💡 RANKER'S MEMORY LOCK: Growth Center Strategy = Concentrates investment in viable nodal towns to generate rural spread effects.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Uniform Scatter Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_26",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Gunnar Myrdal's analysis of regional disparities, why do free-market forces tend to exacerbate rather than reduce inter-regional inequalities in developing nations?",
+    "options": {
+      "opt_a": "Capital, credit, and skilled labor naturally migrate to established prosperous cores where returns are higher, while backwash effects swamp weak spread effects",
+      "opt_b": "Governments deliberately pass laws forbidding banks from operating in capital cities",
+      "opt_c": "Poor regions naturally export all their fertile topsoil to foreign nations",
+      "opt_d": "Transport costs in underdeveloped regions are legally required to be zero"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Market forces act under cumulative causation: prosperous cores offer agglomeration economies, superior infrastructure, and higher profits, siphoning savings and talent from backward regions. Without proactive public intervention, the rich region gets richer and the poor poorer.\n\n💡 RANKER'S MEMORY LOCK: Myrdal's Thesis: Unregulated market mechanisms widen regional disparity due to cumulative backwash dominance.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Equilibrium Fallacy Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_27",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Island Development Authority' (IDA) of India was constituted to oversee the distinct strategic and ecological planning of which two oceanic archipelagos?",
+    "options": {
+      "opt_a": "Andaman & Nicobar Islands and Lakshadweep Islands",
+      "opt_b": "Majuli Island and Divar Island",
+      "opt_c": "Sri Lanka and Maldives",
+      "opt_d": "Salsette Island and Elephanta Island"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Constituted in 1986 under the Prime Minister, the IDA formulates sustainable, security-centric Master Plans for Andaman & Nicobar (Bay of Bengal) and Lakshadweep (Arabian Sea), balancing coral/turtle conservation with maritime tourism and blue economy ports.\n\n💡 RANKER'S MEMORY LOCK: Island Development Authority (IDA) = Andaman & Nicobar + Lakshadweep sustainable spatial planning.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Foreign Island Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_28",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In regional economic analysis, what does the 'Location Quotient' (LQ) measure?",
+    "options": {
+      "opt_a": "The degree of spatial concentration or specialization of an industry in a specific region compared to the national benchmark",
+      "opt_b": "The geographic distance between a factory and the nearest seacoast",
+      "opt_c": "The total number of female workers employed in agricultural weeding",
+      "opt_d": "The annual rainfall volume received by an industrial manufacturing estate"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "LQ = (Local industry employment / Total local employment) / (National industry employment / Total national employment). If LQ > 1.0, the region is specialized in that industry and exports surplus output.\n\n💡 RANKER'S MEMORY LOCK: Location Quotient (LQ) = Measures regional industrial concentration relative to the nation (LQ > 1 = Specialized export sector).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Physical Distance Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_29",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In multi-level regional planning, the 'Block' (Community Development Block) was historically established as the primary unit for:",
+    "options": {
+      "opt_a": "Micro-level grassroots rural development administration, agricultural extension, and community welfare execution",
+      "opt_b": "Federal defense ballistic missile testing and naval radar deployment",
+      "opt_c": "International export tariff negotiations with the World Trade Organization",
+      "opt_d": "Setting national fiscal monetary interest rates by the central bank"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Community Development Block (introduced in 1952) covers approximately 100 villages and ~100,000 population, serving as the operational grassroots hub for block development officers (BDO), agricultural extension, and rural employment schemes.\n\n💡 RANKER'S MEMORY LOCK: Block = Operational micro-level grassroots development unit (BDO, extension, MGNREGA).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Macro Defense Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_30",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The National Capital Region (NCR) Planning Board was established in 1985 through a statutory Act of Parliament to achieve which regional planning objective?",
+    "options": {
+      "opt_a": "Evolving harmonized inter-state policies to control population influx into Delhi and achieve balanced spatial development across contiguous districts of Haryana, UP, and Rajasthan",
+      "opt_b": "Constructing an impassable fortified wall around the borders of New Delhi",
+      "opt_c": "Abolishing the State Governments of Haryana, Rajasthan, and Uttar Pradesh",
+      "opt_d": "Relocating the Supreme Court and Parliament to Mumbai"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The NCR Planning Board Act 1985 set up a unique inter-state regional planning statutory mechanism covering the NCT of Delhi and surrounding districts of UP, Haryana, and Rajasthan to develop counter-magnet towns and disperse economic congestion.\n\n💡 RANKER'S MEMORY LOCK: NCR Planning Board (1985) = Statutory inter-state regional planning to de-congest Delhi via counter-magnets.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Abolition Myth Trap",
+        "dissection": "Distractor represents a different policy framework or flawed administrative logic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary planning mechanism with a peripheral factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extreme Condition Trap",
+        "dissection": "Avoid extreme qualifiers that distort the planning mandate."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_31",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding François Perroux's Growth Pole Theory:\n1. Perroux conceived growth poles as an abstract economic space defined by economic forces and input-output linkages, NOT as geographic spatial points.\n2. Growth poles emerge around a dominant 'propulsive industry' characterized by high innovation, large scale, and strong forward/backward multipliers.\n3. Jacques Boudeville later translated Perroux's abstract economic concept into geographic urban regional centers.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of the origin and spatial evolution of Growth Pole Theory from Perroux (1955) to Boudeville (1966).\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_32",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Gunnar Myrdal's Cumulative Causation Theory:\n1. In free market developing economies, backwash effects invariably dominate over spread effects, deepening inter-regional inequality.\n2. 'Backwash effects' include the migration of selective educated youth and flight of financial savings from lagging regions to the core.\n3. Myrdal concluded that state planning and public regional investment are essential to stimulate spread effects and counteract market polarization.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent the core theoretical and policy thesis of Gunnar Myrdal's seminal work *Economic Theory and Under-developed Regions* (1957).\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_33",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Albert O. Hirschman's Model of Regional Development:\n1. Hirschman advocated 'Unbalanced Growth', arguing that scarce capital in developing nations must be concentrated in strategic sectors and regions rather than scattered evenly.\n2. His concept of 'Polarization effects' corresponds directly to Myrdal's 'Backwash effects'.\n3. His concept of 'Trickling-down effects' corresponds directly to Myrdal's 'Spread effects'.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. Hirschman (1958) and Myrdal (1957) independently modeled the dual centrifugal and centripetal forces of regional economic growth using matching concepts.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_34",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding John Friedmann's Core-Periphery Model:\n1. It conceptualizes national development as progressing through 4 sequential spatial stages: Pre-industrial, Transitional, Industrial, and Post-industrial.\n2. In Stage 2 (Transitional), a single dominant primate core dominates and exploits the vast resource-producing periphery.\n3. In Stage 3 (Industrial), industrial dispersion and regional sub-cores emerge to integrate the space economy.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate John Friedmann's 1966 Core-Periphery paradigm of regional development.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_35",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Watershed Management in Indian Regional Planning:\n1. A watershed forms a natural hydrological boundary where runoff converges to a single discharge channel, making it ideal for ridge-to-valley treatment.\n2. Watershed interventions prioritize continuous contour trenches, check dams, and gully plugs at the ridge before treatment reaches the valley floor.\n3. The Haryali Guidelines (2003) and Common Guidelines for Watershed Development (2008) empowered Gram Panchayats and Watershed Committees as the primary execution bodies.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent established scientific and institutional principles of watershed planning in India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_36",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Western Ghats environmental planning debates:\n1. The Madhav Gadgil Committee (WGEEP, 2011) classified 100% of the Western Ghats into three Ecologically Sensitive Zones (ESZ-1, ESZ-2, ESZ-3).\n2. The K. Kasturirangan Working Group (2013) reduced the ESA boundary to approximately 37% of the total Western Ghats area.\n3. The Kasturirangan report prohibited all red-category industries, mining, quarrying, and thermal power plants within the designated 37% Natural Landscape ESA.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately capture the critical policy differences and environmental regulations between the Gadgil and Kasturirangan reports.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_37",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Planning Commission's 15 Agro-Climatic Zones delineated in 1989:\n1. Zone 1 represents the Western Himalayan Region, while Zone 2 represents the Eastern Himalayan Region.\n2. Zone 14 represents the Western Dry Region (comprising arid western Rajasthan).\n3. Zone 15 represents the Island territories of Andaman, Nicobar, and Lakshadweep.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements correctly identify the codified zone boundaries of the 1989 Planning Commission Agro-Climatic Regionalisation scheme.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_38",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Multi-Level Planning in India:\n1. The Working Group on District Planning (1984), headed by C.H. Hanumantha Rao, provided the operational blueprint for decentralized district planning.\n2. Article 243ZD mandates that at least four-fifths of the total members of a District Planning Committee (DPC) must be elected by and from elected members of the Zilla Parishad and Municipalities.\n3. In practice, DPCs in many Indian states have remained dysfunctional due to political reluctance to devolve funds, functions, and functionaries (3Fs).\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of the constitutional design (Article 243ZD) and practical operational bottlenecks of Indian decentralized planning.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_39",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Drought Prone Areas Programme (DPAP) and Desert Development Programme (DDP):\n1. DPAP was launched during the Fifth Five-Year Plan to insulate dryland tracts through soil conservation, water harvesting, and pasture development.\n2. DDP covers both the hot arid tracts of Rajasthan, Gujarat, and Haryana, and the cold arid high-altitude deserts of Ladakh, Lahaul, and Spiti.\n3. Since 2009–10, DPAP, DDP, and the Integrated Wastelands Development Programme (IWDP) were consolidated into the Integrated Watershed Management Programme (IWMP), now part of PMKSY.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent verified historical and institutional facts regarding Indian dryland area development schemes.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_40",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding P. Sengupta and Galina Sdasyuk's Economic Regionalisation of India (1968):\n1. It identified 7 Macro-economic regions based on broad physiographic and natural resource complexes.\n2. Meso-regions (42 in number) were delineated based on regional specialization in agriculture, power, and manufacturing.\n3. Micro-regions (229 in number) were identified as the primary operational units for specific industrial and agricultural projects.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate the structural framework of Sengupta and Sdasyuk's landmark 1968 regionalization of India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_41",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Command Area Development Programme (CADP):\n1. It was launched in 1974 to tackle the persistent gap between dam irrigation potential created (IPC) and irrigation potential utilized (IPU).\n2. Its key interventions included the construction of field channels, land leveling, and the introduction of the 'Warabandi' rotational water distribution system.\n3. In 2004, the program was restructured as the Command Area Development and Water Management (CADWM) programme.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct historical and technical descriptions of CADP.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_42",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding R.P. Misra's Growth Foci Strategy for India:\n1. It recognized that Western single-tier growth pole models fail in agrarian countries because they lack transmission links to rural villages.\n2. The lowest tier, 'Service Centers', provides basic day-to-day retail, primary health, and postal facilities to a cluster of villages.\n3. The second tier, 'Growth Points', is located at the Block level, providing agro-processing units, secondary schools, and agricultural credit.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate R.P. Misra's 4-tier decentralized growth foci model tailored for Indian planning.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_43",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Aspirational Districts Programme (ADP) launched by NITI Aayog:\n1. It evaluates 112 lagging districts across 49 key performance indicators spanning 5 broad socio-economic sectors.\n2. Health and Nutrition (30%) and Education (30%) carry the highest weightage in the composite ranking index.\n3. The program relies on real-time data tracking and monthly delta rankings to foster competitive federalism among district collectors.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are verified institutional facts regarding the governance architecture of NITI Aayog's ADP.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_44",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Regional Imbalances in India:\n1. The Green Revolution in its first phase (1960s–1970s) exacerbated regional agricultural disparities by concentrating gains in Punjab, Haryana, and Western Uttar Pradesh.\n2. Coastal states (Gujarat, Maharashtra, Tamil Nadu, Karnataka) have captured a disproportionate share of post-1991 private industrial investments due to superior port logistics and infrastructure.\n3. The 'Special Category Status' (SCS) historically provided 90% grant and 10% loan central assistance to resource-strained hill and border states.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct descriptions of the spatial drivers and policy mechanisms addressing regional disparity in India.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_45",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the National Capital Region (NCR) Planning Board:\n1. It is a statutory body constituted under the National Capital Region Planning Board Act, 1985.\n2. Its primary mandate is to achieve balanced regional development and decongest Delhi by developing counter-magnet cities (e.g., Gwalior, Bareilly, Hissar, Patiala).\n3. It has constitutional authority to unilaterally dissolve state legislative assemblies that fail to comply with regional land use zoning.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an extreme constitutional absurdity; the NCR Planning Board is a coordination and regional planning statutory agency and possesses no power to dissolve elected state assemblies.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_46",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding V. Nath's Resource Development Regions of India (1965):\n1. It delineated 15 macro-resource regions integrating topography, climate, soil, and mineral endowments.\n2. Nath advocated that multi-purpose river valley development should form the backbone of regional resource integration.\n3. The scheme completely ignored river basins, relying exclusively on district administrative revenue maps.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Nath explicitly placed river basins and natural physiographic complexes at the very center of his resource assessment framework.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_47",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Hill Area Development Programme (HADP) and Western Ghats Development Programme (WGDP):\n1. HADP was launched during the Fifth Five-Year Plan covering designated hill areas of Assam, West Bengal, and Tamil Nadu.\n2. WGDP covered 171 talukas across Maharashtra, Goa, Karnataka, Tamil Nadu, and Kerala.\n3. Both programs were designed to replace all natural montane forests with monoculture eucalyptus timber plantations.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because both HADP and WGDP strictly aimed at eco-restoration, biodiversity preservation, and watershed conservation, strongly opposing destructive monoculture deforestation.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_48",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Island Development Authority (IDA):\n1. The IDA is chaired by the Union Home Minister (originally Prime Minister) with participation from Chief Secretaries and Administrators of UTs.\n2. It focuses on the holistic development of islands while strictly preserving coral reefs, mangrove ecosystems, and indigenous tribal rights (e.g. PVTGs in Andaman).\n3. In recent years, it has promoted the Great Nicobar Holistic Development Project at Galathea Bay, involving an international container transshipment port and defense airport.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct and reflect contemporary strategic and ecological dimensions of island spatial planning.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_49",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding D.R. Gadgil's contributions to Indian Regional Planning:\n1. As Deputy Chairman of the Planning Commission, Gadgil formulated the Gadgil Formula in 1969 to replace discretionary central plan grants with objective, transparent criteria.\n2. Gadgil strongly advocated for multi-level planning and district-level democratic decentralization.\n3. The Gadgil formula allocated 90% of all central funds strictly based on per capita carbon dioxide emissions.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an anachronistic absurdity; the Gadgil formula allocated funds based on Population (60%), Per Capita Income (25%), Tax Effort (7.5%), and Special Problems (7.5%), long before modern carbon emission metrics.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_50",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the 'Growth Pole' vs 'Growth Center' distinction in spatial planning:\n1. A Growth Pole is primarily a large metropolitan regional hub anchored by high-technology propulsive manufacturing with national or international reach.\n2. A Growth Center is typically an intermediate-sized town that provides secondary services, agro-processing, and market infrastructure for its district or sub-region.\n3. In classical planning terminology, a Growth Point is subordinate to a Growth Center, serving as a localized node for basic rural services.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate the hierarchical spatial distinction between Growth Poles, Growth Centers, and Growth Points in regional planning theory.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Carefully examine institutional mandates and statutory provisions.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently introduces an extreme qualifier or an unconstitutional power."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical regional planning history."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_51",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM), launched in 2016, aims to develop rural growth clusters across India by:",
+    "options": {
+      "opt_a": "Creating 300 well-planned Rurban clusters with urban amenities to stimulate local economic growth and preserve rural character",
+      "opt_b": "Forcibly acquiring 100% of rural village lands for private real estate development",
+      "opt_c": "Converting all rural roads into bullet train tracks",
+      "opt_d": "Banning all agriculture within 50 km of every district headquarters"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "SPMRM aims to develop 300 Rurban clusters (spatially contiguous villages with populations of 25,000 to 50,000 in plains and 5,000 to 15,000 in desert/hill/tribal areas) equipped with urban infrastructure and livelihood training.\n\n💡 RANKER'S MEMORY LOCK: SPMRM (2016) = 300 Rurban clusters combining urban amenities with rural community lifestyle.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Expropriation Myth Trap",
+        "dissection": "SPMRM develops public infrastructure and local livelihoods, not land expropriation."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Absurdity Trap",
+        "dissection": "Bullet train conversion is a complete absurdity."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Prohibition Trap",
+        "dissection": "Agriculture is supported through agro-processing clusters."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_52",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The Border Area Development Programme (BADP) in India was initiated during the Seventh Five-Year Plan to address the special planning needs of communities living within how many kilometers from the international land border?",
+    "options": {
+      "opt_a": "0 to 50 kilometers (originally 0-10 km, expanded to 0-50 km for border block saturation)",
+      "opt_b": "500 to 1000 kilometers",
+      "opt_c": "Strictly within 100 meters of border fencing",
+      "opt_d": "Exclusively in coastal naval dockyards"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "BADP covers border community development in 16 states and 2 UTs along international land borders, focusing on strategic infrastructure, schools, solar power, and road connectivity in remote border blocks.\n\n💡 RANKER'S MEMORY LOCK: BADP = Targeted infrastructure saturation in border blocks along international frontiers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Distance Inflation",
+        "dissection": "500-1000 km covers the entire Indian subcontinent."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Tactical Zero Line Trap",
+        "dissection": "BADP covers entire border blocks, not just fence patrols."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Coastal Naval Trap",
+        "dissection": "BADP applies to land frontiers."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_53",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Tribal Sub-Plan (TSP / Development Action Plan for Scheduled Tribes):\n1. It was introduced during the Fifth Five-Year Plan (1974–79) based on the recommendations of the Shilu Ao Committee.\n2. It mandates that central ministries and state governments earmark a proportion of plan funds at least equal to the percentage of the Scheduled Tribe population.\n3. Integrated Tribal Development Agencies (ITDAs) were established as the primary project execution agencies in tribal-majority blocks.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. The Tribal Sub-Plan was formulated under the Fifth Plan to prevent diversion of funds and ensure targeted infrastructure and livelihood creation in ITDA blocks.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Tribal Sub-Plan (5th Plan) + Proportionate budget earmarking + ITDAs.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Every statement is historically and legally accurate."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Do not doubt the ITDA administrative structure."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "TSP is the cornerstone of Indian tribal spatial planning."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_54",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Statement Based",
+    "stem": "Consider the following statements regarding Special Economic Zones (SEZs) as regional development instruments:\n1. Under the SEZ Act 2005, SEZs are treated as deemed foreign territories for trade operations, duties, and tariffs.\n2. Critics argue that private SEZs often function as 'enclave economies', generating few spread effects into the host rural region.\n3. SEZs are legally required to be located exclusively in the Thar Desert.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is an obvious absurdity because the vast majority of Indian SEZs are clustered in coastal industrialized states like Gujarat, Maharashtra, Tamil Nadu, and Karnataka.\n\n💡 RANKER'S MEMORY LOCK: SEZs = Deemed foreign territories for tariffs + Risk of enclave capitalism with weak local spread effects.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Desert Location Fallacy",
+        "dissection": "Statement 3 is factually false; SEZs cluster around major ports and urban nodes."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Statement 2 Denial",
+        "dissection": "The enclave economy critique is the standard geographical literature on SEZs."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Do not accept the desert restriction claim."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_55",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Counter-Magnet cities designated by the National Capital Region (NCR) Planning Board:\n1. Counter-magnets are deliberately selected at a sufficient distance from Delhi (typically 100 to 400 km) to prevent commuting into the capital.\n2. Examples include Gwalior, Bareilly, Hissar, Patiala, and Kota.\n3. Counter-magnets are funded to intercept prospective rural-to-urban migrants by offering viable industrial, educational, and medical opportunities.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. Counter-magnets are a classic spatial planning device used by the NCRPB to divert migration streams away from Delhi toward viable regional hubs in surrounding northern states.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Counter-magnets (Gwalior, Bareilly, Patiala, Kota) intercept migration streams before they reach Delhi.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "All 3 statements represent core NCR spatial policy."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Counter-magnets are a verified textbook concept in urban regional planning."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not eliminate valid counter-magnet principles."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_56",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Assertion-Reason",
+    "stem": "Given below are two statements:\nAssertion (A): Post-1991 economic liberalization in India has led to widening regional economic divergence between coastal-peninsular states and landlocked northern-eastern states.\nReason (R): Private investment flows disproportionately seek agglomeration economies, proximity to deep-water container ports, and superior power and road infrastructure, which coastal states already possessed.\nIn the context of the statements above, which of the following is correct?",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is NOT the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both statements are true and R explains A. Prior to 1991, Freight Equalization and central licensing partially enforced spatial dispersal of industry. Post-1991, market deregulation allowed private capital to cluster in coastal logistics hubs (Gujarat, Maharashtra, Tamil Nadu), widening the GSDP divergence with interior states.\n\n💡 RANKER'S MEMORY LOCK: Post-1991 Market Deregulation = Widened Regional Divergence (Coastal agglomeration advantage over landlocked interior).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Denial Trap",
+        "dissection": "Port logistics and infrastructure advantages directly explain the spatial skew of private capital."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "R Invalidation",
+        "dissection": "Reason R accurately articulates modern economic geography findings."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Assertion Invalidation",
+        "dissection": "Regional divergence since 1991 is documented by RBI and NITI Aayog."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_57",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Backward Regions Grant Fund (BRGF):\n1. It was launched in 2006 to address regional imbalances across 250 identified backward districts in 27 states.\n2. It provided untied financial resources to enable local bodies to bridge critical development gaps.\n3. It was delinked from central funding following the recommendations of the Fourteenth Finance Commission, which increased unconditional tax devolution to states to 42%.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. The BRGF (2006) replaced the Rashtriya Sam Vikas Yojana. With the 14th Finance Commission's jump in state tax devolution from 32% to 42%, the union government delinked BRGF, requiring states to fund district gaps from their higher tax pool.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. BRGF (2006, 250 districts) → Delinked under 14th Finance Commission (42% devolution).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Every historical and fiscal milestone is correct."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Statement 3 accurately explains the fiscal restructuring of 2015."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not reject verified Finance Commission fiscal changes."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_58",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Statement Based",
+    "stem": "Consider the following statements regarding Purvanchal and Bundelkhand regional development dynamics in Uttar Pradesh:\n1. Bundelkhand suffers from chronic agro-climatic vulnerability due to hard rock granitic aquifers, undulating terrain, and recurring meteorological droughts.\n2. Purvanchal is characterized by high population density, intense fragmentation of land holdings, and recurring floods in the Ghaghara-Rapti basins.\n3. Both regions possess the highest per capita manufacturing outputs and highest urbanization rates in northern India.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is completely false because Bundelkhand and Purvanchal are both economically lagging regions with low industrialization and low urbanization compared to Western UP (Noida, Ghaziabad, Meerut).\n\n💡 RANKER'S MEMORY LOCK: Bundelkhand = Drought & hard-rock groundwater scarcity. Purvanchal = High population density, land fragmentation & floods. Western UP = Industrial & Green Revolution core.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Inversion Trap",
+        "dissection": "Statement 3 absurdly claims lagging regions have the highest manufacturing output."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Statement 2 Denial",
+        "dissection": "Purvanchal's flood and land-pressure dynamics are textbook facts."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Do not accept the false claim of high industrial prosperity."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_59",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the criteria adopted by the Planning Commission to identify 'Backward Areas' for industrial licensing and subsidies:\n1. Distance from large cities and major railway lines.\n2. Ratio of agricultural workers to total industrial population.\n3. Per capita availability of electricity and banking credit.\nHow many of the criteria given above were officially utilized in Indian regional planning committees (e.g. Pande Committee, 1969)?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three criteria were formulated by the Pande Working Group (1969) and Wanchoo Committee to identify industrially backward states and districts for granting central capital investment subsidies and tax exemptions.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Pande Committee (1969) indicators = Remoteness, low industrial labor ratio, low power and credit penetration.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "All 3 indicators are authentic Pande committee metrics."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Every criterion is verified in regional planning literature."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not eliminate canonical industrial backwardness metrics."
+      }
+    ]
+  },
+  {
+    "id": "opt_q26_60",
+    "topicId": 26,
+    "topicName": "Regional Planning & Regionalisation",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Sustainable Regional Planning in Mountain Ecosystems:\n1. Carrying capacity assessments must establish limits on tourist footfalls, vehicular density, and high-rise hotel construction.\n2. Run-of-the-river hydroelectric projects with long headrace tunnels completely eliminate any risk of slope destabilization or drying of natural mountain springs.\n3. Slope instability mapping and debris-flow risk zoning are mandatory prerequisites for all hill infrastructure corridors.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 3 are correct. Statement 2 is incorrect because headrace tunneling (e.g., in Joshimath and Chamoli disasters) has frequently punctured subterranean aquifers, caused mountain springs to dry up, and induced severe ground subsidence along fault lines.\n\n💡 RANKER'S MEMORY LOCK: Mountain Sustainable Planning = Carrying capacity limits + Hazard zonation. Tunnel blasting often punctures aquifers and triggers slope subsidence.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Both statements 1 and 3 are core principles of Himalayan eco-planning."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hydropower Fallacy",
+        "dissection": "Statement 2 uses an extreme false claim ('completely eliminates any risk')."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Statements 1 and 3 are standard NDMA and environmental court guidelines."
+      }
+    ]
+  }
+]

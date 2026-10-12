@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "opt_q29_01",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "William Morris Davis's classic 'Geographical Cycle' (1899) asserts that landscape is a function of three variables (the Trio of Davis), which are:",
+    "options": {
+      "opt_a": "Structure, Process, and Stage (Time)",
+      "opt_b": "Climate, Vegetation, and Human Intervention",
+      "opt_c": "Gravity, Wind Velocity, and River Discharge",
+      "opt_d": "Lithology, Seismicity, and Ocean Currents"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Davis famously formulated: 'Landscape is a function of structure, process, and stage.' Structure represents rock lithology and attitude; Process represents the weathering and erosional agents; Stage represents the sequential passage of time.\n\n💡 RANKER'S MEMORY LOCK: Trio of Davis = Structure, Process, and Stage (Time).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Climate Vegetation Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_02",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In W.M. Davis's cycle of erosion, the ultimate low-relief, gently undulating, featureless plain produced at the end of the old age stage is termed a:",
+    "options": {
+      "opt_a": "Peneplain",
+      "opt_b": "Pediplain",
+      "opt_c": "Endrumpf",
+      "opt_d": "Panplain"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Davis designated the final plain of the fluvial erosion cycle as a 'Peneplain' (meaning 'almost a plain'), above which isolated, erosion-resistant residual hills rise, termed 'Monadnocks' (named after Mt. Monadnock in New Hampshire).\n\n💡 RANKER'S MEMORY LOCK: Davis = Peneplain with Monadnocks. Penck = Endrumpf. King = Pediplain with Inselbergs.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Pediplain Confusion",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_03",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In contrast to Davis's view that uplift is rapid and episodic while erosion begins only after uplift ceases, German geomorphologist Walther Penck asserted that:",
+    "options": {
+      "opt_a": "Uplift and denudation operate simultaneously, and landforms represent the ratio between the rate of uplift and the rate of erosion",
+      "opt_b": "Erosion ceases permanently once rivers reach the sea",
+      "opt_c": "Landscapes are shaped exclusively by catastrophic meteorite impacts",
+      "opt_d": "Glaciers are the only geomorphic agent capable of eroding solid granite"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Penck (Morphological Analysis, 1924) rejected Davis's sequential stages. He argued that landform development is a dynamic struggle: landscape shape reflects the changing relationship between the rate of endogenic crustal uplift ($dE/dt$) and the rate of exogenic denudation ($dD/dt$).\n\n💡 RANKER'S MEMORY LOCK: Walther Penck = Landform is a ratio between rate of uplift and rate of degradation (simultaneous action).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Davisian Cease Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_04",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Walther Penck's geomorphic terminology, the initial flat, featureless landform produced prior to significant crustal uplift is termed:",
+    "options": {
+      "opt_a": "Primärrumpf",
+      "opt_b": "Endrumpf",
+      "opt_c": "Peneplain",
+      "opt_d": "Monadnock"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Penck defined 'Primärrumpf' (Primary Peneplain) as the initial low-relief, deformed plain before tectonic uplift begins, while 'Endrumpf' is the final subdued landscape that results when crustal uplift ceases and denudation outpaces uplift.\n\n💡 RANKER'S MEMORY LOCK: Penck: Primärrumpf = Initial low-relief plain before uplift. Endrumpf = Final plain after waning uplift.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Endrumpf Swap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_05",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "South African geomorphologist Lester Charles King (L.C. King) proposed which alternative cycle of landscape evolution, arguing it is the dominant mode across semi-arid and savanna shields?",
+    "options": {
+      "opt_a": "The Pediplanation Cycle (Pedimentation and Scarp Retreat)",
+      "opt_b": "The Karst Rejuvenation Cycle",
+      "opt_c": "The Marine Abrasion Cycle",
+      "opt_d": "The Volcanic Caldera Cycle"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "L.C. King (1953, 1962) proposed the Pediplanation Cycle, demonstrating that in arid, semi-arid, and savanna regions (and globally across geological shields), landscapes evolve through the parallel retreat of scarps, leaving broad concave bedrock 'Pediments' that coalesce into a 'Pediplain'.\n\n💡 RANKER'S MEMORY LOCK: L.C. King = Pediplanation Cycle (Scarp Retreat + Pediment coalescence into Pediplain with Inselbergs/Bornhardts).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Peneplain Swap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_06",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Sir George Biddell Airy's hypothesis of 'Isostasy' (1855) explains crustal equilibrium under which fundamental physical assumption?",
+    "options": {
+      "opt_a": "Crustal blocks have uniform density throughout, but possess variable depths of roots sinking into a denser substratum (the 'Iceberg Model')",
+      "opt_b": "Crustal blocks have variable densities, but terminate at a uniform depth of compensation",
+      "opt_c": "All continents float on an infinite layer of liquid mercury",
+      "opt_d": "Mountain roots are hollow caverns filled with compressed volcanic gas"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Airy proposed uniform density ($ρ \u0007pprox 2.67\text{ g/cm}^3$) for all crustal blocks: taller mountains have deeper roots projecting into the denser sub-crustal mantle (asthenosphere), exactly like icebergs floating in water.\n\n💡 RANKER'S MEMORY LOCK: Airy's Isostasy = Uniform Density, Variable Depth of Roots (Roots proportional to height).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Pratt Inversion Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_07",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "John Henry Pratt's hypothesis of 'Isostasy' (1859) explains crustal equilibrium under which contrasting physical assumption?",
+    "options": {
+      "opt_a": "Crustal blocks have variable densities that vary inversely with their height, terminating at a uniform depth of compensation",
+      "opt_b": "Crustal blocks have uniform density with variable depths of roots",
+      "opt_c": "Mountain ranges are supported entirely by magnetic levitation",
+      "opt_d": "Ocean basins are permanently sinking due to sediment weight without any compensation"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Pratt assumed a uniform Depth of Compensation (~100 km): taller blocks (e.g. Himalayas) are composed of lighter, lower-density material, while low ocean floors are composed of dense, heavy rocks, balancing mass at the compensation depth.\n\n💡 RANKER'S MEMORY LOCK: Pratt's Isostasy = Variable Density, Uniform Depth of Compensation (Higher relief = Lower density).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Airy Inversion Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_08",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In Leopold Kober's Geosynclinal Orogen Theory (1921), what is the 'Zwischengebirge' (Median Mass)?",
+    "options": {
+      "opt_a": "An un-deformed, rigid median plateau or plateau-like mass lying between two marginal folded mountain chains (*Randketten*)",
+      "opt_b": "The deepest volcanic trench in an oceanic subduction zone",
+      "opt_c": "A subterranean magma chamber feeding an active stratovolcano",
+      "opt_d": "A glacial cirque lake carved during the Pleistocene epoch"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Kober modeled orogenesis where two rigid forelands (*Kratogens*) compress a mobile geosyncline: the margins crumple into border ranges (*Randketten*), while the central portion remains an un-folded median plateau (*Zwischengebirge*, e.g., Tibetan Plateau between Himalayas and Kunlun, or Anatolian Plateau).\n\n💡 RANKER'S MEMORY LOCK: Kober Orogen: Kratogen (forelands) → Randketten (border ranges) → Zwischengebirge (median mass like Tibet/Anatolia).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Volcanic Trench Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_09",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In classic slope geomorphology (Wood, King, and Strahler), a fully developed hillside profile consists of four standard elements from top to bottom. Which element occupies the uppermost convex summit?",
+    "options": {
+      "opt_a": "Waxing slope (Crest / Convexity)",
+      "opt_b": "Free face (Scarp / Cliff)",
+      "opt_c": "Constant slope (Debris slope / Talus)",
+      "opt_d": "Waning slope (Pediment / Concavity)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The four slope elements from crest to base are: (1) Waxing slope (upper convex crest shaped by soil creep), (2) Free face (vertical bare rock cliff), (3) Constant slope (straight debris slope at angle of repose), and (4) Waning slope (concave pediment at the base).\n\n💡 RANKER'S MEMORY LOCK: 4 Slope Elements (Top to Bottom): Waxing (Convex) → Free Face (Cliff) → Constant (Debris) → Waning (Concave).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Waning Top Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_10",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In slope evolution theory, W.M. Davis's concept of 'Slope Decline' argues that over time:",
+    "options": {
+      "opt_a": "Slope gradients become progressively gentler, with the convex crest and concave base expanding while the straight steep section diminishes",
+      "opt_b": "Slopes retreat parallel to themselves without ever changing their steepness angle",
+      "opt_c": "Slopes become steeper and eventually invert into vertical canyons",
+      "opt_d": "Slopes remain permanently frozen in time with zero mass movement"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Davis's Slope Decline asserts that as erosion advances through youth, maturity, and old age, slopes continuously flatten, declining in gradient from steep cliffs to gentle rolling swells.\n\n💡 RANKER'S MEMORY LOCK: Davis = Slope Decline (Slopes flatten and wear down over time). King/Penck = Parallel Retreat / Replacement.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Parallel Retreat Swap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_11",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The concept of 'Parallel Retreat of Slopes' (Scarp Retreat), where a slope retreats backward maintaining its angle of inclination throughout the cycle, was championed by:",
+    "options": {
+      "opt_a": "Lester Charles King and Alan Wood",
+      "opt_b": "William Morris Davis",
+      "opt_c": "G.K. Gilbert",
+      "opt_d": "John T. Hack"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "L.C. King (building on Alan Wood) proved that under conditions of weathering and sheetwash, scarps retreat parallel to themselves without losing steepness, leaving an ever-expanding basal pediment.\n\n💡 RANKER'S MEMORY LOCK: Parallel Scarp Retreat = L.C. King & Alan Wood. Slope wears back, NOT down.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Davis Flattening Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_12",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "Walther Penck's concept of slope evolution, known as 'Slope Replacement' (*Haldenhang*), asserts that:",
+    "options": {
+      "opt_a": "Steep upper slopes are replaced from the bottom up by gentler debris slopes (*Haldenhang*) of progressively lower gradient as the free face retreats",
+      "opt_b": "Slopes decline uniformly like a melting block of ice",
+      "opt_c": "Free faces grow upwards into vertical towers reaching the stratosphere",
+      "opt_d": "All slope weathering ceases completely during tectonic uplift"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Penck showed that as rock falls from a cliff, a gentler debris-covered slope (*Haldenhang*) accumulates at the base, progressively replacing the steep rock wall from below.\n\n💡 RANKER'S MEMORY LOCK: Penck = Slope Replacement (*Haldenhang* replaces the scarp from the base upwards).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Davis Decline Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_13",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In fluvial geomorphology, a 'Knickpoint' in a river's longitudinal profile indicates:",
+    "options": {
+      "opt_a": "A sharp break or step in slope marking the point where rejuvenation (re-incision caused by base-level fall) has reached along the valley",
+      "opt_b": "The exact point where a river enters an underground limestone cavern",
+      "opt_c": "The highest flood water level recorded during a monsoon season",
+      "opt_d": "A sandbar dividing a braided channel into two equal distributaries"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Knickpoint (or knick point waterfall/rapid) is an interruption of grade caused by rejuvenation (sea-level drop or tectonic uplift), migrating upstream (headward erosion) as the river cuts a new, steeper valley into the old valley floor.\n\n💡 RANKER'S MEMORY LOCK: Knickpoint = Rejuvenation knick / step in river profile migrating upstream due to base-level fall.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Cave Entrance Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_14",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "In tectonic geomorphology, an 'Ophiolite Suite' found exposed in folded mountain belts (such as along the Indus-Yarlung Tsangpo Suture Zone in the Himalayas) represents:",
+    "options": {
+      "opt_a": "A sliver of ancient oceanic crust and upper mantle obducted onto the continental plate during subduction and collision",
+      "opt_b": "Fresh continental volcanic ash from explosive rhyolitic eruptions",
+      "opt_c": "Glacial till deposits left by retreating Pleistocene ice sheets",
+      "opt_d": "Wind-blown desert sand dunes that underwent deep burial lithification"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "An Ophiolite is a sequence of oceanic lithosphere (ultramafic peridotite mantle, gabbro, sheeted dykes, pillow basalts, and deep-sea pelagic chert) scraped off and thrust onto continents during ocean basin closure (suture zone).\n\n💡 RANKER'S MEMORY LOCK: Ophiolites = Ancient oceanic crust & mantle obducted onto land. Proves ancient ocean closure (Suture Zone).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Glacial Till Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_15",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "stem": "The concept of 'Dynamic Equilibrium' in geomorphology, which rejects historical sequential stages and asserts that landforms represent a steady-state balance between energy inputs and resistance of materials, was formulated by:",
+    "options": {
+      "opt_a": "John T. Hack",
+      "opt_b": "William Morris Davis",
+      "opt_c": "Walther Penck",
+      "opt_d": "L.C. King"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "John T. Hack (1960) introduced Dynamic Equilibrium (reviving G.K. Gilbert): all elements of a landscape are adjusted to one another, and differences in relief reflect contemporary differences in rock resistance and process, NOT age or stage.\n\n💡 RANKER'S MEMORY LOCK: Dynamic Equilibrium = John T. Hack (1960). Landscape is in steady-state adjustment to rock resistance and process.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Davis Stage Trap",
+        "dissection": "Distractor represents a competing geomorphic school or mismatched physical process."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary isostatic or cyclic variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosion surfaces (peneplain vs pediplain vs etchplain)."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_16",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Walther Penck's Morphological Analysis, the phase of 'Waxing Development' (*Aufsteigende Entwicklung*) is characterized by which relationship between endogenetic uplift and exogenetic denudation?",
+    "options": {
+      "opt_a": "Rate of crustal uplift exceeds the rate of denudation, resulting in accelerated stream incision, convex valley side slopes, and increasing absolute and relative relief",
+      "opt_b": "Crustal uplift ceases completely while denudation operates alone",
+      "opt_c": "Rate of denudation far exceeds the rate of uplift, creating concave valleys",
+      "opt_d": "Both uplift and denudation drop to zero, creating a frozen landscape"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "During *Aufsteigende Entwicklung* (Waxing Development), tectonic uplift accelerates ($dE/dt > dD/dt$). Rivers cut down vigorously to keep pace, forming deep V-shaped gorges with convex-upward canyon walls.\n\n💡 RANKER'S MEMORY LOCK: Aufsteigende Entwicklung = Uplift > Denudation → Accelerated incision, convex slopes, increasing relief.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Waning Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_17",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In Walther Penck's model, what marks the phase of 'Waning Development' (*Absteigende Entwicklung*)?",
+    "options": {
+      "opt_a": "Rate of uplift declines and ceases while denudation dominates, producing concave valley slopes, expanding Haldenhang, and ultimate reduction to an Endrumpf",
+      "opt_b": "Tectonic uplift accelerates violently to reach supersonic speeds",
+      "opt_c": "Rivers flow backwards from the ocean into mountain glaciers",
+      "opt_d": "All hills are replaced by vertical volcanic volcanic necks"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "*Absteigende Entwicklung* occurs when crustal uplift slows or halts. Denudation outstrips uplift ($dD/dt > dE/dt$), transforming steep slopes into concave forms with basal debris slopes (*Haldenhang*), culminating in a rolling *Endrumpf*.\n\n💡 RANKER'S MEMORY LOCK: Absteigende Entwicklung = Denudation > Uplift → Flattening slopes, concavity, culminates in Endrumpf.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Waxing Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_18",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In denudation chronology, an 'Etchplain' (or Etchplain landscape) is an erosion surface produced primarily by:",
+    "options": {
+      "opt_a": "Deep chemical weathering (etching) of bedrock beneath a regolith blanket under tropical conditions, followed by stripping of the saprolite cover by erosion to expose core-stones and bornhardts",
+      "opt_b": "Sub-glacial scouring of granitic batholiths during continental ice sheets",
+      "opt_c": "Wind deflation in hyper-arid sand seas removing all dust down to the water table",
+      "opt_d": "Wave-cut marine abrasion along a retrograding cliff coast"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "E.J. Wayland (1933) and M.F. Thomas formulated Etchplanation: deep tropical saprolitization chemically 'etches' granitic bedrock along joint planes. Subsequent climatic shifts or uplift strip the soft regolith, exposing resistant granitic domes (*Bornhardts / Tor landscapes*).\n\n💡 RANKER'S MEMORY LOCK: Etchplain (Wayland & Thomas) = Deep tropical chemical weathering (saprolite) + Stripping of regolith = Exposes Inselbergs/Tors.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Glacial Stripping Trap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_19",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "C.H. Crickmay (1933) proposed which concept of erosion surface formation, arguing that lateral river planation is far more effective than Davisian vertical downwearing?",
+    "options": {
+      "opt_a": "Panplanation (Panplain)",
+      "opt_b": "Pediplanation (Pediplain)",
+      "opt_c": "Peneplanation (Peneplain)",
+      "opt_d": "Etchplanation (Etchplain)"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Crickmay argued that once rivers reach grade, lateral corrasion and meandering swing across valley floors to coalesce multiple floodplains into a continuous, level erosion plain, termed a 'Panplain'.\n\n💡 RANKER'S MEMORY LOCK: C.H. Crickmay = Panplain (Formed by lateral river planation and coalescence of floodplains).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Peneplain Confusion",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_20",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In river channel morphology, Luna Leopold and Thomas Maddock (1953) formulated 'Hydraulic Geometry' to express how channel width (w), depth (d), and mean velocity (v) vary downstream as power functions of:",
+    "options": {
+      "opt_a": "Discharge (Q)",
+      "opt_b": "Valley gradient only",
+      "opt_c": "Sediment grain density only",
+      "opt_d": "Water temperature only"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Hydraulic Geometry equations: $w = aQ^b$, $d = cQ^f$, $v = kQ^m$, where $b + f + m = 1.0$. As downstream river discharge ($Q$) increases, width, depth, and mean velocity all systematically increase in predictable proportions.\n\n💡 RANKER'S MEMORY LOCK: Hydraulic Geometry (Leopold & Maddock, 1953): Width, Depth, Velocity vary as power functions of Discharge (Q).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Gradient Only Trap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_21",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In fluvial mechanics, what determines the transition of a river from a 'Meandering' channel pattern to a 'Braided' channel pattern (Leopold & Wolman threshold)?",
+    "options": {
+      "opt_a": "Steeper valley slope and excessive, non-cohesive coarse bedload relative to stream discharge capacity",
+      "opt_b": "Extreme water salinity and absence of all aquatic fish life",
+      "opt_c": "Low gradient, high clay bank cohesion, and completely clear water with zero silt",
+      "opt_d": "Dense urban concrete embankments on both banks"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Leopold and Wolman (1957) demonstrated that braided streams occupy steeper slopes for a given discharge than meandering streams. Overloading with coarse bedload (sand/gravel) that exceeds transport capacity forces the stream to deposit mid-channel bars, splitting into braided braids.\n\n💡 RANKER'S MEMORY LOCK: Braided Stream Threshold = Steeper slope + Heavy, coarse bedload + Erodible non-cohesive banks.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Meander Clay Trap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_22",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In geomorphology, what is the critical structural distinction between 'Paired River Terraces' and 'Unpaired River Terraces'?",
+    "options": {
+      "opt_a": "Paired terraces match in elevation on both sides of the valley (indicating rapid, episodic base-level drop/uplift), whereas unpaired terraces are staggered (indicating slow, continuous downcutting accompanied by lateral meandering)",
+      "opt_b": "Paired terraces occur only in glaciated mountain valleys, while unpaired occur only in deserts",
+      "opt_c": "Paired terraces are made of pure granite, while unpaired are made of soft clay",
+      "opt_d": "There is no difference; terraces never occur in pairs"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Paired terraces occur when a river incises rapidly and vertically due to episodic rejuvenation, leaving matching benches at identical elevations on opposite sides. Unpaired terraces result from slow incision during continuous lateral swinging of meanders.\n\n💡 RANKER'S MEMORY LOCK: Paired Terraces = Matching elevation (Episodic uplift). Unpaired Terraces = Staggered elevation (Slow, continuous incision).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Glacial Only Trap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_23",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Vine-Matthews-Morley Hypothesis' (1963) provided the definitive empirical proof for Harry Hess's Seafloor Spreading theory by demonstrating:",
+    "options": {
+      "opt_a": "Symmetrical zebra-striped bands of alternating normal and reversed magnetic anomalies in the ocean floor basalt parallel to mid-ocean ridges",
+      "opt_b": "That the Atlantic ocean basin is over 4 billion years old",
+      "opt_c": "That all ocean floor sediment is made of terrestrial windblown loess",
+      "opt_d": "That continents never moved and ocean basins are permanent"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Vine and Matthews (and Morley) realized that as basaltic magma solidifies at mid-ocean ridges, iron-bearing minerals lock in Earth's contemporary magnetic field. As the seafloor spreads and Earth's field flips periodically, it creates symmetrical magnetic 'stripes' matching on both flanks of the ridge.\n\n💡 RANKER'S MEMORY LOCK: Vine-Matthews-Morley Hypothesis (1963) = Symmetrical magnetic reversals parallel to mid-ocean ridges proves Seafloor Spreading.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Sediment Age Fallacy",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_24",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In tectonic geomorphology, a 'Benioff-Wadati Zone' is defined as:",
+    "options": {
+      "opt_a": "A planar dipping zone of seismicity tracing the trajectory of a cold oceanic lithospheric slab plunging into the mantle at a subduction trench",
+      "opt_b": "A horizontal calm zone in the upper stratosphere free of all wind shear",
+      "opt_c": "A circular impact crater formed by iron-nickel meteorites",
+      "opt_d": "An underground limestone cavern dissolving under karst action"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Benioff-Wadati zone is the dipping belt of earthquake foci (ranging from shallow near the trench to 700 km depth) delineating the friction and fracturing of the downgoing oceanic slab as it subducts beneath another plate.\n\n💡 RANKER'S MEMORY LOCK: Benioff-Wadati Zone = Dipping earthquake plane marking the subducting oceanic plate.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Stratosphere Trap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_25",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Indus-Yarlung Tsangpo Suture Zone' (ITSNZ) in the Himalayas marks which monumental plate tectonic boundary in Indian geomorphology?",
+    "options": {
+      "opt_a": "The collision boundary where the Neo-Tethys oceanic lithosphere was completely consumed, suturing the Indian Plate with the Eurasian Plate",
+      "opt_b": "The boundary separating the Outer Himalayas from the Indo-Gangetic alluvium",
+      "opt_c": "A transform strike-slip fault dividing the Thar desert from the Deccan plateau",
+      "opt_d": "A volcanic fissure eruption that produced the Deccan basalt traps"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Indus-Tsangpo Suture Zone contains ophiolites and deep-sea melange sediments, representing the physical seam where the Tethys Ocean closed ~50 million years ago as India collided with Eurasia.\n\n💡 RANKER'S MEMORY LOCK: Indus-Tsangpo Suture Zone = Collision seam between Indian and Eurasian plates (Closed Neo-Tethys Ocean).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Main Frontal Thrust Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_26",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In the physiographic architecture of the Himalayas, the 'Main Central Thrust' (MCT) separates:",
+    "options": {
+      "opt_a": "The Greater Himalayas (Himadri) from the Lesser Himalayas (Himachal)",
+      "opt_b": "The Lesser Himalayas from the Shiwaliks (Outer Himalayas)",
+      "opt_c": "The Shiwaliks from the Indo-Gangetic Plains",
+      "opt_d": "The Tibetan Plateau from the Karakoram Range"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Major Himalayan fault zones from north to south: (1) Indus-Tsangpo Suture Zone (Trans-Himalaya/Greater Himalaya), (2) Main Central Thrust (MCT: Greater Himalaya / Lesser Himalaya), (3) Main Boundary Thrust (MBT: Lesser Himalaya / Shiwaliks), (4) Himalayan Frontal Thrust (HFT: Shiwaliks / Alluvial Plain).\n\n💡 RANKER'S MEMORY LOCK: Himalayan Fault Architecture: ITSZ → MCT (Greater/Lesser) → MBT (Lesser/Shiwaliks) → HFT (Shiwaliks/Plains).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "MBT Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_27",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In coastal geomorphology, what is a 'Tombolo'?",
+    "options": {
+      "opt_a": "A depositional spit or sandbar that joins an offshore island to the mainland or another island",
+      "opt_b": "A deep vertical wave-cut notch at the base of a rocky sea cliff",
+      "opt_c": "A drowned glaciated coastal valley with steep vertical walls and a shallow threshold",
+      "opt_d": "An isolated circular coral atoll with a central deep lagoon"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Tombolo (from Italian 'mound') is a wave-refraction depositional feature where longshore drift and wave convergence build a spit connecting an island to the coast (e.g., Chesil Beach connecting the Isle of Portland to England).\n\n💡 RANKER'S MEMORY LOCK: Tombolo = Depositional sandbar/spit connecting an offshore island to the mainland.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fjord Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_28",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In glaciated landscapes, what is an 'Esker'?",
+    "options": {
+      "opt_a": "A long, sinuous, winding ridge of stratified sand and gravel deposited by a meltwater stream flowing in an ice-tunnel beneath a glacier",
+      "opt_b": "An egg-shaped streamlined hill of unsorted glacial till aligned with ice flow direction",
+      "opt_c": "A knife-edge, sharp, jagged ridge separating two adjacent cirques",
+      "opt_d": "A massive boulder transported hundreds of kilometers from its parent bedrock"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "An Esker is a fluvio-glacial depositional ridge formed in sub-glacial tunnels. Drumlins are streamlined till mounds (inverted spoon). Arêtes are knife-edge erosional ridges. Erratics are isolated foreign boulders.\n\n💡 RANKER'S MEMORY LOCK: Esker = Sinuous ridge of stratified meltwater gravel. Drumlin = Streamlined till hill (basket of eggs). Arête = Knife-edge ridge.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Drumlin Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_29",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "In desert geomorphology, a 'Pediment' is distinguished from an alluvial fan or bajada because it is:",
+    "options": {
+      "opt_a": "A gently sloping erosional bedrock surface carved at the foot of an abrupt mountain scarp",
+      "opt_b": "A deep mudflow deposit composed exclusively of soft clay and quicksand",
+      "opt_c": "A seasonal saline playa lake that remains submerged year-round",
+      "opt_d": "A tall column of windblown sand supporting desert palm trees"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A Pediment is an erosional bedrock ramp (frequently veneered with a thin layer of transport gravel) formed by scarp retreat and sheetwash, contrasting with a Bajada which is a thick, depositional apron of overlapping alluvial fans.\n\n💡 RANKER'S MEMORY LOCK: Pediment = Erosional bedrock ramp cut at mountain base. Bajada = Depositional apron of coalesced fans.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Bajada Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_30",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Statement Based",
+    "stem": "The 'Main Boundary Thrust' (MBT) in the Himalayan orogenic belt separates which two geological formations?",
+    "options": {
+      "opt_a": "The Lesser Himalayas (Precambrian/Paleozoic metasediments) from the Outer Himalayas (Tertiary Siwalik molasse)",
+      "opt_b": "The High Himalayas from the Tibetan Tethyan sediments",
+      "opt_c": "The Siwalik Hills from the Indo-Gangetic alluvial plains",
+      "opt_d": "The Karakoram Range from the Ladakh Batholith"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Main Boundary Thrust (MBT) is a major north-dipping regional thrust fault placing the older, deformed Lesser Himalayan rocks over the younger Miocene-Pleistocene molasse sediments of the Siwalik foothills.\n\n💡 RANKER'S MEMORY LOCK: MBT = Lesser Himalayas over Siwalik Range. HFT = Siwaliks over Indo-Gangetic Plains.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "MCT Swap",
+        "dissection": "Distractor represents a different tectonic fault or coastal/glacial landform."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Swap Trap",
+        "dissection": "Do not swap the primary morphological variable with a secondary factor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Avoid confusing erosional features with depositional landforms."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_31",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding W.M. Davis's and Walther Penck's cycles of erosion:\n1. Davis assumed that tectonic uplift is extremely rapid and episodic, and that denudation begins only after uplift ceases.\n2. Penck rejected Davis's sequential stages, arguing that landforms reflect the simultaneous ratio between the rate of uplift and rate of degradation.\n3. Davis's cycle culminates in a Peneplain, whereas Penck's model culminates in an Endrumpf.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of the classic philosophical and geomorphic contrast between Davisian and Penckian landscape evolution.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_32",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Theories of Isostasy:\n1. Sir George Airy assumed uniform density for all crustal blocks, with mountain roots projecting downwards into the asthenosphere proportionally to their elevation.\n2. Archdeacon John Henry Pratt assumed that crustal blocks have variable densities terminating at a uniform depth of compensation.\n3. Vening Meinesz formulated Regional (Flexural) Isostasy, arguing that the lithosphere behaves as an elastic plate that bends under massive topographic loads.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate the three landmark classical isostatic models (Airy 1855, Pratt 1859, Vening Meinesz 1931).\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_33",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Lester Charles King's Pediplanation Cycle:\n1. It is driven by the twin processes of scarp retreat (parallel retreat) and pedimentation.\n2. Over time, coalescing pediments form a regional erosion surface termed a 'Pediplain'.\n3. King argued that pediplanation operates primarily in glaciated polar environments with sub-zero permafrost.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because King formulated pediplanation for arid, semi-arid, and savanna shield landscapes (and extended it to global non-glaciated cratons), NOT polar permafrost.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_34",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Leopold Kober's Geosynclinal Theory:\n1. Two rigid, stable foreland continental blocks (*Kratogens*) compress an intervening mobile marine geosyncline.\n2. The margins of the geosyncline are folded into symmetrical border mountain ranges (*Randketten*).\n3. If compressive forces are moderate, the median part remains an un-folded plateau termed a 'Zwischengebirge' (e.g. the Tibetan Plateau).\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate Leopold Kober's 1921 orogenic architecture.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_35",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Four-Element Hillside Slope Profile (Wood and King):\n1. The Waxing slope (crest) is convex-upward, shaped primarily by rainsplash and soil creep.\n2. The Free face is a vertical or near-vertical bare bedrock outcrop where weathering exceeds the capacity of debris to rest.\n3. The Constant slope represents a debris slope composed of scree and talus resting at the angle of repose.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately define the morphological and mechanical characteristics of the three upper slope elements.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_36",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Fluvial Hydraulic Geometry (Leopold and Maddock, 1953):\n1. Downstream along a river network, width, depth, and mean flow velocity all systematically increase as discharge increases.\n2. Stream bed roughness and channel gradient systematically decrease downstream.\n3. The exponents in the equations ($w = aQ^b, d = cQ^f, v = kQ^m$) must satisfy the mathematical identity $b + f + m = 1.0$.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of empirical hydraulic geometry laws in fluvial mechanics.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_37",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding River Sinuosity and Channel Patterns:\n1. A channel is classified as 'Meandering' when its Sinuosity Index (channel length divided by valley length) exceeds 1.5.\n2. Sinuous meandering channels are characterized by high bank stability and a high proportion of cohesive silt and clay.\n3. Braided channels are characterized by steep valley slopes, highly fluctuating discharge, and non-cohesive sandy-gravel bedload.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent established quantitative channel morphology classifications established by Schumm, Leopold, and Wolman.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_38",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding River Rejuvenation and Incised Landforms:\n1. A fall in base level causes rivers to re-incise their valleys, producing knickpoints that migrate upstream.\n2. 'Incised (entrenched) meanders' are formed when a pre-existing meandering river on a peneplain cuts vertically into bedrock following tectonic uplift.\n3. Rejuvenation completely eliminates all river terraces, leaving only smooth vertical canyon walls without benches.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because rejuvenation is the exact mechanism that CREATES river terraces, leaving stranded former floodplains as paired or unpaired benches.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_39",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Plate Tectonic Suture Zones in the Himalayas:\n1. The Indus-Yarlung Tsangpo Suture Zone (ITSNZ) marks the collision seam where the Neo-Tethys oceanic lithosphere subducted and closed.\n2. Suture zones are demarcated by ophiolites, deep-marine radiolarian cherts, and volcanic melanges.\n3. The Main Central Thrust (MCT) separates the High Himalayas from the Lesser Himalayas.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent verified structural geology and geomorphic facts of the Himalayan collision zone.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_40",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Denudation Chronology and Planation Surfaces:\n1. A 'Peneplain' (Davis) is formed by vertical wearing down of divides under humid temperate conditions.\n2. A 'Pediplain' (King) is formed by parallel scarp retreat and coalescence of pediments under semi-arid conditions.\n3. An 'Etchplain' (Wayland/Thomas) is produced by deep tropical chemical weathering followed by stripping of the saprolite regolith.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately distinguish the genetic mechanisms of the three primary planation surfaces in geomorphology.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_41",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding the Seafloor Spreading Theory (Harry Hess, 1962):\n1. New oceanic lithosphere is created by upwelling magma at mid-ocean ridges and moves laterally away toward subduction trenches.\n2. The age of oceanic basaltic crust increases symmetrically with distance away from the mid-ocean ridge axis.\n3. The oldest oceanic crust found in modern ocean basins exceeds 4 billion years in age.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the oldest in-situ oceanic crust in modern oceans is only ~180 to 200 million years old (Jurassic age), because oceanic lithosphere is continuously consumed at subduction zones.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_42",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Glacial Depositional Landforms:\n1. Drumlins are streamlined, asymmetric, inverted-spoon shaped hills of glacial till with the steeper blunt end facing the upstream direction of ice flow.\n2. Eskers are long, sinuous, stratified fluvio-glacial ridges deposited in subglacial tunnels by pressurized meltwater streams.\n3. Kames are steep-sided mounds of sand and gravel deposited by meltwater along the margin of a retreating glacier.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of classic glacial and fluvio-glacial depositional morphologies.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_43",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding John T. Hack's Dynamic Equilibrium Model:\n1. It was proposed as an alternative to Davisian evolutionary stages, applying open-systems theory to geomorphology.\n2. Differences in relief within a drainage basin are interpreted as expressions of current adjustments between contemporary energy and varying rock resistance.\n3. It asserts that landscapes retain permanent 'relict memory' of every ancient geological cycle for billions of years.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Hack's model rejects historical cyclic memory, arguing that landscapes are in contemporary time-independent steady state with modern processes.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_44",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Desert Aeolian and Fluvial Landforms:\n1. Barchans are crescent-shaped sand dunes with horns pointing downwind, formed under unidirectional wind flow and limited sand supply.\n2. Yardangs are wind-abraded, streamlined rock ridges carved parallel to prevailing winds in arid basins.\n3. Pediments are thick, deep alluvial gravel fans formed exclusively by lake deltas.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because Pediments are erosional bedrock ramps cut at the base of mountain scarps, NOT alluvial lake deltas.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_45",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Karst Geomorphology:\n1. Karst topography develops primarily in pure, dense, well-jointed limestone terrains with a low water table.\n2. Doline, Uvala, and Polje represent a sequence of progressively larger enclosed dissolution depressions in karst landscapes.\n3. Stalactites grow upward from the cavern floor, while Stalagmites hang downward from the cavern ceiling.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the terms are inverted: Stalactites hang down from the ceiling (holding 'tight' to the ceiling), while Stalagmites grow upward from the floor.\n\n💡 RANKER'S MEMORY LOCK: Only two statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_46",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Slope Evolution Theories:\n1. Davis proposed 'Slope Decline' where slopes flatten and wear down over time.\n2. Penck proposed 'Slope Replacement' where steeper slopes are replaced by gentler basal debris slopes (*Haldenhang*).\n3. King and Wood proposed 'Parallel Retreat' where slopes wear back without changing inclination.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately summarize the classic tripartite division of slope evolution models.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_47",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Structural Landforms in Tectonic Geomorphology:\n1. A 'Fault Scarp' is a steep slope produced directly by differential vertical movement along a fault line during an earthquake.\n2. A 'Fault-Line Scarp' is a secondary erosion slope produced by differential weathering along rocks of contrasting resistance juxtaposed across a fault.\n3. In a Graben, the central block drops down between two parallel normal faults, forming a rift valley.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent precise, verified geomorphological definitions of tectonic and fault-line landforms.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_48",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Drainage Patterns and Geological Structure:\n1. A 'Trellis Drainage Pattern' develops in folded landscapes (Appalachian type) where parallel valleys alternate with resistant ridge lines.\n2. A 'Radial Drainage Pattern' develops when streams flow outward in all directions from a central dome or volcanic cone (e.g. Amarkantak plateau).\n3. A 'Centripetal Drainage Pattern' occurs when streams converge toward a central depression or sink (e.g. Loktak Lake).\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of standard drainage patterns and their tectonic/structural controls.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_49",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Channel Hydraulic Geometry and Sediment Transport:\n1. The competence of a stream (maximum size of particle a river can transport) varies as the sixth power of its velocity ($v^6$, Sixth Power Law).\n2. The capacity of a stream refers to the total volume or load of sediment a river can transport under given discharge conditions.\n3. Bedload moves by traction and saltation, while wash load is transported permanently in suspended solution.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements represent fundamental physical laws of sediment hydraulics in geomorphology.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_50",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Deep Weathering and Granite Landforms:\n1. Core-stones (*Tors*) develop when jointed granitic massifs undergo subterranean chemical hydrolysis along fracture grids beneath a humid tropical saprolite.\n2. Bornhardts are steep-sided, bald, dome-shaped granitic inselbergs formed by deep etching and sheet exfoliation.\n3. Exfoliation domes peel off concentric onion-skin sheets due to pressure-release (unloading) as overlying rock overburden is eroded.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements accurately articulate the petrological and geomorphic genesis of granitic tor and bornhardt landscapes.\n\n💡 RANKER'S MEMORY LOCK: All three statements correct. Examine operational assumptions and physical mechanisms.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Verify individual statement veracity before tallying count."
+      },
+      {
+        "optionId": "opt_a",
+        "trapType": "Total Acceptance Trap",
+        "dissection": "UPSC frequently flips a mechanical inversion or speleothem term."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not over-eliminate authentic canonical geomorphological laws."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_51",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The concept of 'Geomorphic Thresholds' (abrupt changes in landform stability occurring without external climatic or tectonic triggers due to progressive internal stress buildup) was formulated by:",
+    "options": {
+      "opt_a": "Stanley A. Schumm",
+      "opt_b": "William Morris Davis",
+      "opt_c": "Walther Penck",
+      "opt_d": "Arthur Holmes"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Stanley A. Schumm (1973, 1977) introduced the concept of 'Geomorphic Thresholds' and 'Complex Response', demonstrating that river channels, gullies, or slopes can fail abruptly once an intrinsic stability threshold is crossed (e.g. sediment over-steepening), without needing an external trigger like an earthquake or flood storm.\n\n💡 RANKER'S MEMORY LOCK: Stanley A. Schumm = Geomorphic Thresholds & Complex Response. Internal intrinsic threshold failure without external triggers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Cyclic Fallacy",
+        "dissection": "Davis assumed smooth, gradual, continuous changes across time."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Tectonic Ratio Fallacy",
+        "dissection": "Penck analyzed the uplift-to-erosion ratio, not intrinsic geomorphic thresholds."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Convection Fallacy",
+        "dissection": "Arthur Holmes formulated mantle thermal convection."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_52",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Medium",
+    "format": "Direct Fact",
+    "stem": "The foundational principle of 'Uniformitarianism' in geology and geomorphology, epitomized by the aphorism 'The present is the key to the past', was originated by James Hutton and popularized by:",
+    "options": {
+      "opt_a": "Sir Charles Lyell",
+      "opt_b": "Georges Cuvier",
+      "opt_c": "Abraham Gottlob Werner",
+      "opt_d": "Louis Agassiz"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "James Hutton (1785) established uniformitarianism, which was comprehensively popularized by Sir Charles Lyell in 'Principles of Geology' (1830), asserting that identical physical and chemical processes operating today have operated across all geological epochs with invariant physical laws.\n\n💡 RANKER'S MEMORY LOCK: Uniformitarianism = James Hutton (originator) & Charles Lyell ('The present is the key to the past'). Rejected Cuvier's catastrophism.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Catastrophism Champion",
+        "dissection": "Georges Cuvier was the leader of the opposing Catastrophist school."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Neptunism Trap",
+        "dissection": "Werner led Neptunism (all rocks formed in a universal ocean)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Glacial Ice Age Trap",
+        "dissection": "Louis Agassiz proved the existence of the Pleistocene Ice Age."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_53",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Antecedent Drainage and Superimposed Drainage:\n1. An 'Antecedent Stream' is older than the tectonic uplift, cutting deep transverse gorges across rising mountain chains to maintain its original course (e.g. Indus, Brahmaputra, Sutlej).\n2. A 'Superimposed (Epigenetic) Stream' is established on a younger overlying rock cover and subsequently cuts down into discordant underlying geological structures (e.g. Subarnarekha, Damodar).\n3. Both antecedent and superimposed streams conform strictly to the strike and dip of the underlying modern rock formations.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because both antecedent and superimposed streams are discordant drainage patterns that violate and cut directly across the underlying structural strikes and dips.\n\n💡 RANKER'S MEMORY LOCK: Antecedent = Older than mountain uplift (Himalayan rivers). Superimposed = Established on younger cover and carved into buried older basement (Peninsular rivers). Both are DISCORDANT.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Statements 1 and 2 are classical geomorphic definitions."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concordance Fallacy",
+        "dissection": "Statement 3 claims they are concordant, which is the direct opposite of discordant reality."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not reject authentic drainage classifications."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_54",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Statement Based",
+    "stem": "Consider the following statements regarding Slope Stability and Landslides:\n1. The Factor of Safety (Fs) is the ratio of available shear strength (resisting forces) to shear stress (driving gravitational forces) along a potential failure plane.\n2. When Fs > 1.0, the slope is considered mechanically stable.\n3. Saturation of soil with groundwater decreases pore water pressure, thereby increasing slope cohesion.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is completely false because groundwater saturation INCREASES pore water pressure ($), which drastically reduces effective normal stress ($\\sigma' = \\sigma - u$) and destroys frictional shear strength, triggering catastrophic slope failure.\n\n💡 RANKER'S MEMORY LOCK: Factor of Safety (Fs) = Resisting / Driving forces. Groundwater saturation INCREASES pore water pressure, drastically reducing effective stress and triggering landslides.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Pore Pressure Fallacy",
+        "dissection": "Statement 3 inverts soil mechanics physics."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Statement 2 Denial",
+        "dissection": "Fs > 1.0 is the universal engineering criterion for slope stability."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Do not accept the claim that water increases slope cohesion."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_55",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Volcanic Calderas:\n1. A Caldera is an immense circular volcanic depression (typically >1 km in diameter) formed by the catastrophic collapse of the volcanic summit into an evacuated magma chamber.\n2. Crater Lake in Oregon (USA) is a classic caldera formed by the catastrophic collapse of Mount Mazama ~7,700 years ago.\n3. Calderas are formed exclusively by slow, gentle Hawaiian-type basaltic lava fountaining with zero explosive pyroclastic activity.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because calderas typically form during cataclysmic Plinian explosive eruptions (rhyolitic/dacitic magma) that empty the underlying magma reservoir, causing structural roof collapse (e.g. Krakatoa, Santorini, Yellowstone).\n\n💡 RANKER'S MEMORY LOCK: Caldera = Roof collapse into evacuated magma chamber following cataclysmic explosive Plinian eruption (e.g. Crater Lake, Krakatoa).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Both statements 1 and 2 are textbook volcanological definitions."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Effusive Fallacy",
+        "dissection": "Caldera formation is typically associated with ultra-explosive collapse, not gentle fountaining."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Statements 1 and 2 are verified facts."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_56",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Assertion-Reason",
+    "stem": "Given below are two statements:\nAssertion (A): On irregular, embayed rocky coastlines, wave refraction causes wave energy to concentrate heavily on protruding headlands while dissipating inside adjacent bays.\nReason (R): As incoming deep-water waves approach shallow water, the wave segment encountering shallow water in front of a headland slows down first due to bottom friction, causing the wave crest to bend and converge toward the headland.\nIn the context of the statements above, which of the following is correct?",
+    "options": {
+      "opt_a": "Both A and R are true and R is the correct explanation of A",
+      "opt_b": "Both A and R are true but R is NOT the correct explanation of A",
+      "opt_c": "A is true but R is false",
+      "opt_d": "A is false but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both statements are true and R is the correct explanation of A. Wave refraction bends wave orthogonals so that energy converges onto headlands (driving intensive cliff erosion, sea arches, stacks) while wave orthogonals diverge inside embayments (lowering energy and causing deposition of pocket beaches).\n\n💡 RANKER'S MEMORY LOCK: Wave Refraction = Energy converges on Headlands (Erosion) and diverges in Bays (Deposition) → Gradually straightens the coastline over time.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Denial Trap",
+        "dissection": "Bottom friction slowing the wave segment is the precise physical cause of wave convergence."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "R Invalidation",
+        "dissection": "Reason R is the standard hydrodynamic equation for shallow water wave refraction."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Assertion Invalidation",
+        "dissection": "Assertion A is the cornerstone of coastal geomorphology."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_57",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding G.K. Gilbert's classic geomorphic principles (1877):\n1. The Law of Uniform Slope states that slope angles adjust to equalize the work of erosion across all points of a declivity.\n2. The Law of Structure states that in heterogeneous rocks, hard resistant rocks form positive relief features while soft rocks weather into hollows.\n3. The Law of Divides states that slopes steepen as they approach the watershed divide, making divide crests sharp and knife-edged.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. Grove Karl Gilbert's classic monograph 'Report on the Geology of the Henry Mountains' (1877) laid down these foundational principles of equilibrium, structure, and slope adjustment.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. G.K. Gilbert (1877, Henry Mountains) = Law of Uniform Slope + Law of Structure + Law of Divides. Pioneer of process geomorphology.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Every principle is an authentic Gilbert formulation."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Do not doubt the Law of Divides."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Gilbert is celebrated as the grandfather of quantitative dynamic equilibrium."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_58",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Statement Based",
+    "stem": "Consider the following statements regarding Glacial Cirque Formation:\n1. Cirques are armchair-shaped, steep-sided hollows carved into mountain heads with a steep headwall and a concave basin floor.\n2. The 'Bergschrund' is a deep crevasse at the head of a glacier that separates moving ice from the stagnant ice apron adhering to the rock wall.\n3. Meltwater entering the Bergschrund drives intense freeze-thaw plucking along the headwall, causing headward sapping of the cirque.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct. W.V. Lewis and Willard Johnson proved that seasonal rotational slip, rotational basal scouring, and intense frost shattering at the Bergschrund drive headward sapping of cirques, eventually forming sharp arêtes and horns.\n\n💡 RANKER'S MEMORY LOCK: Cirque Evolution = Bergschrund crevasse + Freeze-thaw plucking + Rotational slip = Armchair hollow with tarn lake.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Plucking Omission",
+        "dissection": "Statement 3 is the critical mechanical engine of headwall erosion."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Definition Omission",
+        "dissection": "Statement 1 is the classic definition of a glacial cirque/corrie."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Bergschrund Omission",
+        "dissection": "Bergschrund is the definitive structural feature."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_59",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding S.A. Schumm's classification of alluvial river channels based on sediment load:\n1. Suspended-load channels have low width-depth ratios (<10), high silt-clay bank cohesion (>20%), and high sinuosity (>2.0).\n2. Bedload channels have high width-depth ratios (>40), low silt-clay bank cohesion (<5%), and low sinuosity (<1.3).\n3. Mixed-load channels exhibit intermediate characteristics combining meandering with periodic gravel bar deposition.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct representations of Stanley Schumm's quantitative channel classification (1963, 1968), demonstrating how sediment load type directly governs channel cross-sectional geometry.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Suspended load = Narrow, deep, high clay, high sinuosity. Bedload = Wide, shallow, gravelly, low sinuosity / braided.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "All three channel categories are verified in fluvial literature."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Do not doubt Schumm's quantitative thresholds."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Schumm's sediment classification is standard Optional curriculum."
+      }
+    ]
+  },
+  {
+    "id": "opt_q29_60",
+    "topicId": 29,
+    "topicName": "Advanced Geomorphology & Landscape Evolution",
+    "section": "🎓 UPSC Geography Optional",
+    "tier": "Hard",
+    "format": "Modern Count",
+    "stem": "Consider the following statements regarding Tectonic Inversion and Relief Inversion:\n1. Relief inversion occurs when original topographic synclines weather into elevated mountain ridges, while original anticlines are eroded into valleys.\n2. Breached anticlines occur because tensile stretching across the crest of an anticline creates dense fracture joints that weather more rapidly than compressed synclines.\n3. In a fully inverted relief landscape, the highest mountain summit coincides with the axis of a structural syncline.\nHow many of the statements given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct. Relief inversion is a classic geomorphological phenomenon in folded terrains (e.g. Jura Mountains, Appalachians): anticlines undergo joint dilatation and erode rapidly into anticlinal valleys, leaving compressed, resistant synclinal troughs perched as elevated synclinal ridges and peaks.\n\n💡 RANKER'S MEMORY LOCK: All 3 correct. Relief Inversion = Anticlines erode into valleys; compressed synclines stand out as elevated mountain peaks (Synclinal Ridges).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-count Trap",
+        "dissection": "Every statement accurately explains structural relief inversion."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-count Trap",
+        "dissection": "Tensile joint stretching across anticlines is the exact physical mechanism."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Rejection Trap",
+        "dissection": "Do not eliminate canonical fold landform evolution."
+      }
+    ]
+  }
+]
