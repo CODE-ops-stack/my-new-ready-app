@@ -188025,7 +188025,7 @@
         "dissection": "You misjudged the true count of valid statements. Review the individual statement dissections to isolate exactly where the factual boundary broke."
       },
       {
-        "optionId": "opt_c",
+        "optionId": "opt_a",
         "trapType": "Plausibility Illusion (Over-Inclusion)",
         "dissection": "You accepted an invalid statement because it sounded authoritative. The examiner planted a subtle factual or spatial error inside an otherwise plausible sentence."
       },
