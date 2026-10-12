@@ -1,7 +1,8 @@
 {
-  "version": 10,
+  "version": 11,
   "totalQuestions": 2822,
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
+  "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "endpoints": {
     "manifest_cdn": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/topics/manifest.json",
     "manifest_raw": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/topics/manifest.json",
