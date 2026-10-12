@@ -9299,5 +9299,2845 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "q_top15_001",
+    "stem": "With reference to the Agro-Climatic Regionalization initiated by the Planning Commission during the Seventh Five-Year Plan, consider the following statements:\n1. The regionalization classified the Indian landmass into 15 macro Agro-Climatic Zones, out of which 14 are on the mainland and one represents the Island region.\n2. The primary criteria adopted for delineating these zones included physiography, climate, soil types, and agricultural water availability.\n3. State boundaries were strictly followed as inviolable borders while demarcating the 15 agro-climatic zones to facilitate administrative planning.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement 1 is correct: In 1988, under the Seventh Five-Year Plan, the Planning Commission divided the country into 15 Agro-Climatic Zones (Zones 1 to 14 on mainland, Zone 15 comprising Island region of Andaman & Nicobar and Lakshadweep).\nStatement 2 is correct: Delineation was based on regional homogeneity in physical characteristics—physiography, soil characteristics, geological formations, climate (temperature and rainfall), and water resources.\nStatement 3 is incorrect: Agro-climatic zones were formulated based on natural ecological and physical boundaries, deliberately cutting across state administrative boundaries. For example, the Western Himalayan Zone spans J&K, Ladakh, Himachal Pradesh, and Uttarakhand; the Trans-Gangetic Plain covers Punjab, Haryana, Delhi, and Rajasthan.\n\n💡 RANKER'S MEMORY LOCK: Agro-Climatic Regionalization → 15 Macro Zones (14 Mainland + 1 Island), delineated by physiography, climate, soil, and water resources—NOT constrained by state borders.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Administrative Fallacy Trap",
+        "dissection": "Includes Statement 3, which falsely assumes ecological zones conform to state boundaries. Statement 1 is factually true."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Statement 3 is incorrect because agro-climatic boundaries cross administrative lines. Omits Statement 2, which states core delineation criteria."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to identify the false premise in Statement 3 regarding administrative boundaries."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_001",
+      "questionStem": "With reference to the Agro-Climatic Regionalization initiated by the Planning Commission during the Seventh Five-Year Pl...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_001",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_002",
+    "stem": "Under the National Agricultural Research Project (NARP), the Indian Council of Agricultural Research (ICAR) delineated 127 agro-climatic sub-zones across India. What was the primary objective of this sub-zonal delineation compared to the Planning Commission's 15 macro-zones?",
+    "options": {
+      "opt_a": "To demarcate export-oriented special economic agricultural zones for high-value cash crops.",
+      "opt_b": "To establish district-level location-specific, adaptive agricultural research and technology generation.",
+      "opt_c": "To determine crop insurance claim thresholds under the Comprehensive Crop Insurance Scheme.",
+      "opt_d": "To redistribute water allocations among riparian states under inter-state river basin compacts."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Under the National Agricultural Research Project (NARP) launched by ICAR in 1979 with World Bank support, each state was divided into agro-climatic sub-zones (totaling 127 across the country). The primary mandate was decentralizing agricultural research down to the micro/district level, establishing Zonal Agricultural Research Stations (ZARS) to generate location-specific, demand-driven farming technologies tailored to micro-level rainfall, soil, and cropping patterns rather than applying blanket macro-level recommendations.\n\n💡 RANKER'S MEMORY LOCK: NARP 127 Sub-zones → ICAR initiative for location-specific, adaptive agricultural research and technology generation at the zonal research station level.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Scope Expansion Trap",
+        "dissection": "Agri-Export Zones (AEZs) and Special Economic Zones are commercial trade mechanisms under the Ministry of Commerce, not ICAR's NARP research mandate."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Entity Trap",
+        "dissection": "Crop insurance threshold yield calculation is an actuarial mechanism based on historical Crop Cutting Experiments (CCEs), not ICAR NARP research sub-zoning."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Extraneous Domain Trap",
+        "dissection": "River water allocations are legal-administrative matters adjudicated under Article 262 by Inter-State River Water Disputes Tribunals, wholly outside agricultural research zoning."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "mcq",
+    "qstyle": "conceptual",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_002",
+      "questionStem": "Under the National Agricultural Research Project (NARP), the Indian Council of Agricultural Research (ICAR) delineated 1...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_002",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_003",
+    "stem": "With reference to the 20 Agro-Ecological Regions (AERs) delineated by the National Bureau of Soil Survey and Land Use Planning (NBSS&LUP), consider the following statements:\n1. The NBSS&LUP classification incorporates 'Length of Growing Period' (LGP) along with physiography, soils, and bioclimatic types.\n2. The Length of Growing Period is defined as the period during the year when precipitation plus available soil moisture storage exceeds 50% of the potential evapotranspiration (PET).\n3. Arid Agro-Ecological Regions are characterized by an LGP exceeding 150 days, allowing double-cropping without supplemental irrigation.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is correct: NBSS&LUP divided India into 20 Agro-Ecological Regions (AERs) and 60 Sub-regions using a bio-climate approach based on physiography, soils, bio-climatic types, and Length of Growing Period (LGP).\nStatement 2 is correct: LGP is defined as the continuous period in days when precipitation plus available moisture stored in the root zone exceeds 0.5 (50%) of potential evapotranspiration (PET), plus the time required to exhaust 100 mm of stored soil moisture.\nStatement 3 is incorrect: Arid Agro-Ecological Regions have an LGP of less than 90 days (<90 days cannot sustain double-cropping and can barely support a single short-duration rainfed crop). An LGP exceeding 150 days belongs to Sub-humid or Humid agro-ecological regions.\n\n💡 RANKER'S MEMORY LOCK: NBSS&LUP 20 AERs → Integrates LGP (Precipitation + Soil moisture > 0.5 PET); Arid LGP is <90 days, Semi-arid is 90-149 days, Sub-humid is 150-209 days.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-inclusion Trap",
+        "dissection": "Fails to recognize that Statement 2 correctly articulates the exact FAO/NBSS&LUP biophysical definition of Length of Growing Period."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Inversion Trap",
+        "dissection": "Statement 1 is correct. Statement 3 inverts LGP criteria—arid regions have the shortest LGP (<90 days), not >150 days."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Threshold Distortion Trap",
+        "dissection": "Fails to identify the gross error in Statement 3 regarding arid zone LGP values."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_003",
+      "questionStem": "With reference to the 20 Agro-Ecological Regions (AERs) delineated by the National Bureau of Soil Survey and Land Use Pl...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_003",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_004",
+    "stem": "Consider the following characteristics of Agro-Climatic Zones in India:\n1. Region A: Characterized by podzolic and skeletal soils, temperate fruit cultivation (apple, almond, walnut), cold arid to sub-humid micro-climates, and high vulnerability to soil erosion on steep slopes.\n2. Region B: Characterized by high rainfall (>200 cm), heavily leached acidic soils, widespread practice of Jhum (shifting) cultivation, high forest cover, and cultivation of tea and citrus fruits.\nWhich of the following correctly identifies Region A and Region B as per the Planning Commission classification?",
+    "options": {
+      "opt_a": "Region A is Western Himalayan Region (Zone 1) and Region B is Eastern Himalayan Region (Zone 2).",
+      "opt_b": "Region A is Trans-Gangetic Plain Region (Zone 6) and Region B is Lower Gangetic Plain Region (Zone 3).",
+      "opt_c": "Region A is Eastern Himalayan Region (Zone 2) and Region B is Western Himalayan Region (Zone 1).",
+      "opt_d": "Region A is Western Plateau and Hills (Zone 9) and Region B is Eastern Plateau and Hills (Zone 7)."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Region A represents the Western Himalayan Region (Zone 1: J&K, Ladakh, HP, Uttarakhand), which is known for skeletal mountain soils, temperate horticulture (apples, walnuts, saffron in Kashmir Karewas), and cold microclimates.\nRegion B represents the Eastern Himalayan Region (Zone 2: Arunachal Pradesh, Assam hills, Meghalaya, Nagaland, Manipur, Mizoram, Tripura, Sikkim), which receives torrential rainfall (>200-400 cm), has heavily leached acidic soils, practices traditional slash-and-burn (Jhum) farming, and grows tea, pineapple, and citrus fruits.\n\n💡 RANKER'S MEMORY LOCK: Zone 1 vs Zone 2 → Zone 1 = Western Himalayas (temperate fruits, skeletal/podzolic soils, snowmelt). Zone 2 = Eastern Himalayas (heavy monsoonal rain, leached acidic soils, Jhum, tea).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Category Mismatch Trap",
+        "dissection": "Trans-Gangetic (Punjab/Haryana) and Lower Gangetic (Bengal delta) are alluvial river plains with intensive cereal farming, not mountainous podzolic/Jhum zones."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Zone Inversion Trap",
+        "dissection": "Inverts the two Himalayan zones. Apples and walnuts are typical of Western Himalayas, whereas shifting cultivation (Jhum) is concentrated in the Eastern Himalayas."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geomorphological Mismatch Trap",
+        "dissection": "Western and Eastern Plateaus are peninsular tablelands characterized by black regur and red/laterite soils, not Himalayan temperate horticulture or Jhum montane systems."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_004",
+      "questionStem": "Consider the following characteristics of Agro-Climatic Zones in India:\n1. Region A: Characterized by podzolic and skele...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_004",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_037",
+    "stem": "With reference to India's Ethanol Blended Petrol (EBP) Programme, consider the following statements:\n1. India achieved its target of 10% ethanol blending in petrol ahead of schedule and advanced the target of 20% ethanol blending (E20) to 2025-26.\n2. Ethanol can be produced directly from sugarcane juice, B-heavy molasses, C-heavy molasses, as well as surplus foodgrains like damaged rice and maize.\n3. First-generation (1G) bioethanol is derived exclusively from non-food lignocellulosic crop residues like wheat straw and bagasse.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct:\n- Advanced Targets: India achieved 10% ethanol blending in petrol in June 2022 (ahead of the November 2022 target) and advanced the target of 20% blending (E20) from 2030 to 2025-26.\n- Permitted Feedstocks: Under the amended National Policy on Biofuels, feedstocks include sugarcane juice, sugar syrup, B-heavy molasses, C-heavy molasses, damaged foodgrains (broken rice unfit for human consumption), and surplus maize.\nStatement 3 is incorrect: First-generation (1G) bioethanol is derived from food-grade sugar and starch crops (sugarcane juice, molasses, grains). Second-generation (2G) bioethanol is produced from non-food lignocellulosic biomass (crop residues like rice/wheat straw, bagasse, bamboo).\n\n💡 RANKER'S MEMORY LOCK: Ethanol Blended Petrol (EBP) → E20 target advanced to 2025-26; 1G ethanol uses food crops (cane juice, molasses, corn, broken rice); 2G ethanol uses non-food lignocellulosic crop residues.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Biofuel Generation Trap",
+        "dissection": "Statement 3 confuses 1G and 2G ethanol feedstocks. 1G utilizes food/sugar crops, while 2G utilizes non-food cellulosic residue."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Accepts the erroneous claim in Statement 3 and omits the advanced E20 target in Statement 1."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to distinguish between 1G and 2G biofuel classifications in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_037",
+      "questionStem": "With reference to India's Ethanol Blended Petrol (EBP) Programme, consider the following statements:\n1. India achieved i...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_037",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_038",
+    "stem": "With reference to the Kisan Credit Card (KCC) scheme in India, consider the following statements:\n1. The scheme was formulated by NABARD on the recommendations of the R.V. Gupta Committee in 1998.\n2. The scope of KCC was expanded in 2019 to provide working capital credit for farmers engaged in Animal Husbandry, Dairying, and Fisheries.\n3. Under the Modified Interest Subvention Scheme (MISS), prompt repaying farmers can obtain short-term crop loans up to Rs 3 lakh at an effective interest rate of 4% per annum.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Genesis: KCC was introduced in August 1998 based on a model scheme crafted by NABARD following the recommendations of the R.V. Gupta Committee to deliver timely, revolving institutional credit.\n2. Scope Expansion: In 2019, the Government extended KCC facilities to Animal Husbandry, Dairying, and Fisheries farmers for working capital needs (up to Rs 2 lakh within the overall Rs 3 lakh ceiling).\n3. Concessional Lending: Benchmark lending rate for short-term crop loans is 9%. The government provides a 2% interest subvention, making the rate 7%. An additional 3% Prompt Repayment Incentive (PRI) reduces the effective rate to 4% per annum for prompt repayers up to Rs 3 lakh.\n\n💡 RANKER'S MEMORY LOCK: Kisan Credit Card (KCC) & MISS → Formulated by NABARD / RV Gupta Committee (1998); Extended to Animal Husbandry & Fisheries; Effective interest rate is 4% p.a. (7% minus 3% prompt repayment incentive).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Subvention Under-inclusion Trap",
+        "dissection": "Statement 3 is the core fiscal incentive of the short-term agricultural credit architecture."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Institutional History Trap",
+        "dissection": "Statement 1 correctly identifies NABARD and the R.V. Gupta Committee origin of KCC."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Allied Sector Trap",
+        "dissection": "Statement 2 highlights the landmark 2019 expansion to animal husbandry and fisheries."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_038",
+      "questionStem": "With reference to the Kisan Credit Card (KCC) scheme in India, consider the following statements:\n1. The scheme was form...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_038",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_039",
+    "stem": "With reference to the Agriculture Infrastructure Fund (AIF) launched under the Atmanirbhar Bharat initiative, consider the following statements:\n1. It is a medium-long term debt financing facility providing Rs 1 lakh crore for investment in viable projects for post-harvest management infrastructure and community farming assets.\n2. Under the scheme, loans up to a limit of Rs 2 crore receive an interest subvention of 3% per annum for a maximum period of 7 years.\n3. Credit guarantee coverage for eligible loans is provided under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE).\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Corpus and Scope: Launched in 2020 under Atmanirbhar Bharat, AIF provides Rs 1 lakh crore financing (operational from 2020-21 to 2032-33) to fund cold chains, warehouses, silos, pack-houses, assaying units, and primary processing assets.\n2. Interest Subvention: Loans disbursed under AIF receive an interest subvention of 3% per annum up to a loan limit of Rs 2 crore for a maximum tenure of 7 years.\n3. Credit Guarantee: Credit guarantee fee is covered by the Government under the CGTMSE scheme for loans up to Rs 2 crore. Beneficiaries include PACS, FPOs, SHGs, Agri-entrepreneurs, and Start-ups.\n\n💡 RANKER'S MEMORY LOCK: Agriculture Infrastructure Fund (AIF) → Rs 1 lakh crore corpus; 3% interest subvention up to Rs 2 crore for 7 years; CGTMSE credit guarantee coverage.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Credit Guarantee Trap",
+        "dissection": "Statement 3 is an essential de-risking feature of AIF via CGTMSE."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fiscal Scale Trap",
+        "dissection": "Statement 1 defines the headline Rs 1 lakh crore financing facility."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Subvention Terms Trap",
+        "dissection": "Statement 2 gives the exact statutory terms of interest subvention (3% up to Rs 2 crore for 7 years)."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_039",
+      "questionStem": "With reference to the Agriculture Infrastructure Fund (AIF) launched under the Atmanirbhar Bharat initiative, consider t...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_039",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_040",
+    "stem": "In the context of recent fertilizer sector reforms in India, consider the following statements:\n1. The PM-PRANAM scheme incentivizes States and Union Territories to promote the balanced use of alternative fertilizers and reduce the consumption of chemical fertilizers.\n2. While P & K fertilizers are covered under the Nutrient Based Subsidy (NBS) scheme, the Maximum Retail Price (MRP) of Urea remains statutorily controlled by the Central Government.\n3. One hundred percent (100%) of indigenous and imported agricultural Urea is mandatorily neem-coated to slow nitrogen release and curb illegal diversion.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. PM-PRANAM: Launched to incentivize States/UTs to promote alternative fertilizers (bio-fertilizers, organic manure) and reduce chemical fertilizer consumption; 50% of the subsidy savings achieved by a State is provided as a grant to that State.\n2. Urea Pricing Dichotomy: The Nutrient Based Subsidy (NBS) regime applies to Phosphatic & Potassic (P&K) fertilizers, where the government fixes a per-kg nutrient subsidy and MRP is deregulated. In contrast, Urea is excluded from NBS; its MRP is statutorily fixed by the government at an artificially low price, distorting the N:P:K application ratio away from the ideal 4:2:1.\n3. 100% Neem-Coated Urea: Made mandatory in 2015 for both domestic and imported agricultural urea. Neem oil acts as a nitrification inhibitor, slowing dissolution and increasing nitrogen use efficiency, while rendering urea unfit for illegal diversion to chemical and plywood industries.\n\n💡 RANKER'S MEMORY LOCK: Fertilizer Policy Reforms → PM-PRANAM rewards states reducing chemical fertilizer use; NBS covers P&K while Urea MRP remains statutorily controlled; 100% Urea is mandatorily Neem-Coated.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Neem Coating Trap",
+        "dissection": "Statement 3 is one of the most transformative agricultural policy decisions of recent years."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fiscal Incentive Trap",
+        "dissection": "Statement 1 defines the operational grant-sharing mechanism of PM-PRANAM."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "NBS Dichotomy Trap",
+        "dissection": "Statement 2 captures the crucial structural distortion between deregulated P&K (NBS) and price-controlled Urea."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_040",
+      "questionStem": "In the context of recent fertilizer sector reforms in India, consider the following statements:\n1. The PM-PRANAM scheme ...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_040",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_005",
+    "stem": "In the context of the Indo-Gangetic Agro-Climatic Zones, consider the following statements:\n1. The Trans-Gangetic Plain Zone exhibits the highest percentage of net sown area under tubewell and canal irrigation in India.\n2. The Lower Gangetic Plain Zone is characterized by high annual rainfall, extensive deltaic floodplains, and the predominance of multiple rice cropping (Aman, Aus, Boro).\n3. The Middle Gangetic Plain Zone suffers from acute secondary soil salinization due to excessive canal irrigation seepage far exceeding that in the Trans-Gangetic Plain.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement 1 is correct: The Trans-Gangetic Plain (Zone 6: Punjab, Haryana, Delhi, Ganganagar) has over 80-90% of its net sown area under tubewell and canal irrigation, representing the most intensively irrigated agricultural heartland of India.\nStatement 2 is correct: The Lower Gangetic Plain (Zone 3: West Bengal) features high rainfall (145-200 cm), fertile deltaic silt, and cultivates multiple sequential crops of rice in a single year (Aman in winter, Aus in autumn, Boro in summer) along with jute.\nStatement 3 is incorrect: Secondary soil salinization (saline-alkali soils known as Kallar, Reh, Usar) and waterlogging are most acute in the semi-arid Trans-Gangetic Plain and Upper Gangetic Plain due to unlined canals and poor natural drainage under high evaporative demand. The Middle Gangetic Plain (Eastern UP and Bihar) suffers from recurrent flood inundation and under-utilized groundwater, not canal-induced hyper-salinization.\n\n💡 RANKER'S MEMORY LOCK: Indo-Gangetic Zones → Trans-Gangetic = Highest irrigation intensity, secondary salinization risk; Lower Gangetic = High rainfall, multiple paddy crops (Aus, Aman, Boro).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Distractor Trap",
+        "dissection": "Statement 1 is correct. Statement 3 falsely attributes secondary canal salinization to the flood-prone Middle Gangetic Plain rather than the arid/semi-arid Trans-Gangetic canal tracts."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Inversion Trap",
+        "dissection": "Includes Statement 3, which mislocates the primary soil salinity problem area. Omits the valid Statement 2."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to isolate the factual inversion in Statement 3 regarding regional soil degradation profiles."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_005",
+      "questionStem": "In the context of the Indo-Gangetic Agro-Climatic Zones, consider the following statements:\n1. The Trans-Gangetic Plain ...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_005",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_006",
+    "stem": "Consider the following statements regarding the Plateau agro-climatic zones of Peninsular India:\n1. The Eastern Plateau and Hills Zone is dominated by red and lateritic soils, undulating topography, high tribal population, and rainfed cultivation of minor millets and pulses.\n2. The Western Plateau and Hills Zone is characterized by black basaltic regur soils, moderate rainfall, and high acreage under cotton, soybean, and jowar.\n3. The Western Plateau and Hills Zone possesses perennial snow-fed river irrigation networks that eliminate monsoon dependence.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 1 is correct: Zone 7 (Eastern Plateau and Hills - covering Chotanagpur, Dandakaranya, Garhjat hills) is characterized by undulating terrain, red/lateritic soils of low water retention, low cropping intensity, tribal subsistence farming, and rainfed cultivation of pulses and minor millets.\nStatement 2 is correct: Zone 9 (Western Plateau and Hills - covering Maharashtra and parts of MP) rests on Deccan basalt, characterized by clayey black regur soils, producing major rainfed cash and food crops like cotton, soybean, pigeon pea, and jowar.\nStatement 3 is incorrect: The Western Plateau lies in the rain-shadow of the Western Ghats; its rivers (Godavari, Krishna, Bhima) are peninsular and rain-fed, not snow-fed. The region is chronically drought-prone (e.g., Marathwada, Vidarbha) and heavily vulnerable to monsoon deficits.\n\n💡 RANKER'S MEMORY LOCK: Peninsular Plateau Zones → Zone 7 (Eastern) = Red/lateritic soils, rainfed tribal agriculture; Zone 9 (Western) = Deccan regur black soil, cotton/soybean, rainfed peninsular rivers (NO snowmelt).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-inclusion Trap",
+        "dissection": "Statement 2 is also completely accurate regarding Western Plateau regur soils and crop patterns."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hydrological Absurdity Trap",
+        "dissection": "Statement 3 claims Peninsular plateau rivers are snow-fed, which is geographically impossible as Peninsular India has no glaciers or snowfields."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Overlooks the blatant geographic impossibility in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_006",
+      "questionStem": "Consider the following statements regarding the Plateau agro-climatic zones of Peninsular India:\n1. The Eastern Plateau ...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_006",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_007",
+    "stem": "Which of the following agricultural characteristics distinguishes the West Coast Plains and Ghats (Zone 12) from the East Coast Plains and Hills (Zone 11)?",
+    "options": {
+      "opt_a": "The West Coast relies primarily on large deltaic canal command networks, whereas the East Coast relies exclusively on sprinkler irrigation.",
+      "opt_b": "The West Coast is characterized by high rainfall, steep gradients, lateritic soils, and high concentration of spices, cashew, and plantation crops, whereas the East Coast is dominated by extensive river deltas with high rice acreage and tank irrigation.",
+      "opt_c": "The East Coast experiences cold temperate climates suitable for apple orchards, whereas the West Coast experiences sub-zero frost conditions.",
+      "opt_d": "The West Coast is dominated by deep saline inland depression farming, whereas the East Coast is dominated by dryland wheat monoculture."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Zone 12 (West Coast Plains and Ghats) features high monsoonal rainfall (>200-300 cm), narrow coastal strips, steep western slopes of the Sahyadris, heavily leached lateritic soils, and plantation crops (pepper, cardamom, cashew, coconut, rubber, coffee, tea).\nZone 11 (East Coast Plains and Hills) features broad depositional deltas of east-flowing rivers (Mahanadi, Godavari, Krishna, Cauvery), extensive alluvial tracts, traditional tank irrigation networks, and intensive double/triple cropping of rice.\n\n💡 RANKER'S MEMORY LOCK: Coastal Zones → West Coast (Zone 12) = Steep gradients, laterite soils, heavy rain, spices & plantation crops; East Coast (Zone 11) = Wide deltas, alluvium, canal & tank irrigation, rice monoculture.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Geomorphic Inversion Trap",
+        "dissection": "Large deltaic canal commands are on the East Coast (deltas of Mahanadi, Godavari, Krishna, Cauvery), not the narrow, swift-river West Coast."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Climatic Absurdity Trap",
+        "dissection": "Both coastal zones have tropical marine climates with warm humid conditions year-round; neither experiences temperate or frost climates."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distortion Trap",
+        "dissection": "Neither coast is characterized by inland salt depressions or dryland wheat monoculture."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "mcq",
+    "qstyle": "conceptual",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_007",
+      "questionStem": "Which of the following agricultural characteristics distinguishes the West Coast Plains and Ghats (Zone 12) from the Eas...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_007",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_008",
+    "stem": "According to the agro-ecological zoning framework of FAO and NBSS&LUP, which of the following pairs correctly matches the moisture bioclimatic zone with its Length of Growing Period (LGP) and corresponding agricultural capability?",
+    "options": {
+      "opt_a": "Arid Zone : LGP < 90 days : Capable only of short-duration drought-hardy crops, grasses, or single pulse crop under extreme risk.",
+      "opt_b": "Semi-Arid Zone : LGP 210 to 270 days : Capable of perennial double-wetland paddy cultivation without supplemental irrigation.",
+      "opt_c": "Humid Zone : LGP < 60 days : Unsuitable for any vegetative crop growth except cold-desert mosses.",
+      "opt_d": "Per-Humid Zone : LGP 90 to 120 days : Restricted to dryland barley and pearl millet cultivation."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Under the FAO and NBSS&LUP agro-ecological zoning methodology:\n1. Arid: LGP < 90 days. Soil moisture is sufficient for less than 3 months; supports only short-duration drought-tolerant crops (pearl millet, moth bean, guar, cluster bean) or pastoralism.\n2. Semi-arid: LGP 90-149 days (dry semi-arid) and 150-179 days (moist semi-arid); supports single rainfed crop or intercropping.\n3. Sub-humid: LGP 180-209 days; supports double cropping.\n4. Humid: LGP 210-270 days; supports multiple cropping and plantation crops.\n5. Per-humid: LGP > 270 days.\n\n💡 RANKER'S MEMORY LOCK: LGP Thresholds → Arid < 90 days; Semi-Arid 90–149 days; Sub-Humid 150–209 days; Humid 210–270 days; Per-Humid > 270 days.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Numerical Distortion Trap",
+        "dissection": "Semi-arid LGP is 90 to 149 days. An LGP of 210 to 270 days corresponds to Humid bioclimatic zones."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Extreme Inversion Trap",
+        "dissection": "Humid zones have LGP > 210 days, not < 60 days. < 60 days characterizes hyper-arid zones."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Concept Inversion Trap",
+        "dissection": "Per-humid zones have LGP > 270 days with lush multi-cropping and rainforests, not dryland barley."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agro-Climatic Regionalization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "mcq",
+    "qstyle": "conceptual",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_008",
+      "questionStem": "According to the agro-ecological zoning framework of FAO and NBSS&LUP, which of the following pairs correctly matches th...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_008",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agro-Climatic Regionalization",
+        "concept": "Agro-Climatic Regionalization",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_009",
+    "stem": "Consider the following agricultural crops:\n1. Mustard\n2. Watermelon\n3. Groundnut\n4. Gram (Chickpea)\n5. Cotton\nWhich of the following correctly categorizes these crops into their respective cropping seasons in Northern and Central India?",
+    "options": {
+      "opt_a": "Kharif: Groundnut, Cotton; Rabi: Mustard, Gram; Zaid: Watermelon",
+      "opt_b": "Kharif: Mustard, Gram; Rabi: Cotton, Groundnut; Zaid: Watermelon",
+      "opt_c": "Kharif: Watermelon, Cotton; Rabi: Mustard; Zaid: Groundnut, Gram",
+      "opt_d": "Kharif: Groundnut; Rabi: Gram, Watermelon; Zaid: Mustard, Cotton"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "In Northern and Central India, the cropping calendar is structured around three seasons:\n- Kharif (Monsoon season: sown June-July, harvested September-October): Rice, Maize, Jowar, Bajra, Tur (Arhar), Moong, Urad, Cotton, Jute, Groundnut, Soybean.\n- Rabi (Winter season: sown October-December, harvested April-June): Wheat, Barley, Gram (Chickpea), Peas, Mustard, Rapeseed, Linseed.\n- Zaid (Summer season: grown March-June between Rabi and Kharif): Watermelon, Muskmelon, Cucumber, vegetables, and fodder crops.\n\n💡 RANKER'S MEMORY LOCK: Crop Seasons → Kharif = Groundnut, Cotton, Soybean, Rice, Millets; Rabi = Wheat, Gram, Mustard, Barley; Zaid = Watermelon, Muskmelon, Cucumber.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Season Inversion Trap",
+        "dissection": "Swaps Kharif oilseed/fiber (Groundnut, Cotton) with Rabi oilseed/pulse (Mustard, Gram)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Category Distortion Trap",
+        "dissection": "Misplaces summer Zaid crop (Watermelon) into Kharif, and Rabi/Kharif crops into Zaid."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Confusion Trap",
+        "dissection": "Places Watermelon into winter Rabi and Mustard/Cotton into summer Zaid."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_009",
+      "questionStem": "Consider the following agricultural crops:\n1. Mustard\n2. Watermelon\n3. Groundnut\n4. Gram (Chickpea)\n5. Cotton\nWhich of t...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_009",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_010",
+    "stem": "In agricultural geography, John C. Weaver (1954) proposed a renowned quantitative model to delineate 'Crop Combination Regions'. Which statistical principle forms the foundation of Weaver's technique?",
+    "options": {
+      "opt_a": "Linear programming to maximize calorie yield per hectare of cropped land.",
+      "opt_b": "Minimum standard deviation / variance between theoretical percentages of uniform distribution and actual observed percentages of cropped acreage.",
+      "opt_c": "Calculating the Gini coefficient of landholding inequality among agricultural households.",
+      "opt_d": "Pearson correlation coefficient between annual rainfall deviations and net crop failure rates."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "John C. Weaver (1954) introduced the standard deviation method to demarcate crop combination regions. He established a theoretical norm assuming equal distribution: 1 crop = 100%, 2 crops = 50% each, 3 crops = 33.3% each, 4 crops = 25% each, etc. He calculated the sum of squared differences (variance: sum of (d^2)/n) between actual cropped percentages and the theoretical model. The combination that yielded the minimum variance/standard deviation was designated as the true crop combination for that region.\n\n💡 RANKER'S MEMORY LOCK: Weaver's Method (1954) → Minimum variance / standard deviation between actual acreage percentages and theoretical uniform distributions (100%, 50%, 33.3%, etc.).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Microeconomic Trap",
+        "dissection": "Linear programming optimization is used in farm resource budgeting, not Weaver's spatial crop combination analysis."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Concept Trap",
+        "dissection": "Gini coefficient measures socioeconomic land distribution inequality (Lorenz curve), not cropping diversity patterns."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Climatological Trap",
+        "dissection": "Rainfall correlation evaluates drought vulnerability, not statistical crop combinations."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "mcq",
+    "qstyle": "conceptual",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_010",
+      "questionStem": "In agricultural geography, John C. Weaver (1954) proposed a renowned quantitative model to delineate 'Crop Combination R...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_010",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_011",
+    "stem": "With reference to multiple cropping systems in Indian agriculture, consider the following statements:\n1. Intercropping involves growing two or more crops simultaneously on the same field in a definite row pattern or spatial arrangement.\n2. Relay cropping involves planting a second crop into a standing first crop before the harvest of the first crop.\n3. Mixed cropping involves growing two or more crops simultaneously with no distinct row ratio, primarily adopted as an insurance against monsoon failure in dryland tracts.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Intercropping: Growing two or more crops simultaneously in proportional row arrangements (e.g., 2 rows of Pigeonpea and 6 rows of Sorghum), maximizing solar radiation and nutrient interception.\n2. Relay cropping: Seeding the next crop into an existing standing crop before it is harvested (e.g., Paira/Utera cropping of pulses in standing rice), utilizing residual soil moisture.\n3. Mixed cropping: Seeds of two or more crops are mixed together without distinct row geometry, widely practiced in rainfed arid/semi-arid regions to ensure at least one crop survives erratic rainfall.\n\n💡 RANKER'S MEMORY LOCK: Cropping Systems → Intercropping = Definite row ratio; Relay cropping = Sowing 2nd crop before 1st crop harvest; Mixed cropping = Blended seed mix without row geometry (dryland risk buffer).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-inclusion Trap",
+        "dissection": "Statement 3 is an established agronomic fact regarding traditional risk minimization in rainfed agriculture."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Terminology Trap",
+        "dissection": "Statement 1 is the standard spatial definition of intercropping."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Sequential Trap",
+        "dissection": "Statement 2 is the exact definition of relay cropping (overlapping crop phenology)."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_011",
+      "questionStem": "With reference to multiple cropping systems in Indian agriculture, consider the following statements:\n1. Intercropping i...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_011",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_012",
+    "stem": "Crop rotation of cereal crops with legumes is widely advocated in sustainable agronomy. Which of the following mechanisms explain the yield and soil conservation benefits of this system?\n1. Biological nitrogen fixation by Rhizobium bacteria residing in root nodules of legumes enriches soil nitrogen for subsequent cereal crops.\n2. Alternating taproot systems of legumes with fibrous root systems of cereals taps nutrients and moisture from different soil horizons.\n3. It breaks the continuous life cycle of host-specific weed flora, nematodes, and soil-borne fungal pathogens.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Biological N Fixation: Symbiotic Rhizobia in legume root nodules convert atmospheric dinitrogen into plant-available ammonium, reducing chemical nitrogen fertilizer requirements by 20-40 kg N/ha for subsequent cereals.\n2. Root Stratification: Deep taproots of legumes penetrate dense subsoil horizons, opening root biopores and mining nutrients, while fibrous cereal roots forage topsoil.\n3. Pest and Disease Disruption: Monocultures cause exponential buildup of specialized soil pathogens, nematodes, and weeds (e.g., Phalaris minor in wheat); introducing non-host legumes breaks these reproductive cycles.\n\n💡 RANKER'S MEMORY LOCK: Legume-Cereal Rotation → Biological N-fixation (Rhizobium) + Root architecture depth synergy + Breaking pathogen/weed life cycles.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Ecological Trap",
+        "dissection": "Statement 3 is one of the most critical phytopathological reasons for crop rotation."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Biochemical Trap",
+        "dissection": "Statement 1 is the fundamental biochemical basis of legume-cereal rotation."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Morphological Trap",
+        "dissection": "Statement 2 correctly reflects root architecture and vertical nutrient foraging complementarity."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_012",
+      "questionStem": "Crop rotation of cereal crops with legumes is widely advocated in sustainable agronomy. Which of the following mechanism...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_012",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_013",
+    "stem": "Consider the following statements regarding 'Crop Concentration' and 'Crop Diversification' in Indian agriculture:\n1. High crop diversification is typically observed in high-risk, rainfed semi-arid agricultural regions as an indigenous risk-mitigation strategy.\n2. High crop concentration indicates that a large proportion of cropped land is dominated by one or two highly specialized crops.\n3. The Green Revolution in Punjab and Haryana led to a sharp increase in the Crop Diversification Index over the last four decades.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: In rainfed and drought-prone regions (e.g., Rajasthan, Marathwada, Rayalaseema), farmers cultivate a diverse mix of millets, pulses, oilseeds, and fodder to guard against erratic rainfall (high diversification). Crop concentration reflects the regional dominance of specific crops (e.g., rice in deltas, sugarcane in western Maharashtra).\nStatement 3 is incorrect: The Green Revolution in Punjab and Haryana led to extreme crop specialization (concentration) into the Rice-Wheat Monoculture, causing a catastrophic decline in crop diversification (displacement of traditional pulses, oilseeds, maize, and millets).\n\n💡 RANKER'S MEMORY LOCK: Diversification vs Concentration → High Diversification = Drylands/risk mitigation; High Concentration = Specialized commercial monocultures. Green Revolution caused a sharp DECLINE in diversification in Punjab/Haryana.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-inclusion Trap",
+        "dissection": "Statement 1 is an essential agricultural geography principle and is correct."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Concept Inversion Trap",
+        "dissection": "Statement 3 claims diversification increased in Green Revolution heartlands, whereas it drastically plummeted due to Rice-Wheat monoculture."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to identify the historic drop in crop diversification caused by the Green Revolution."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_013",
+      "questionStem": "Consider the following statements regarding 'Crop Concentration' and 'Crop Diversification' in Indian agriculture:\n1. Hi...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_013",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_014",
+    "stem": "The traditional agricultural practice known as 'Utera' (or 'Paira') cultivation, prevalent in Chhattisgarh, Madhya Pradesh, Bihar, and West Bengal, refers to which of the following?",
+    "options": {
+      "opt_a": "Constructing raised bunds in wetlands for deep-water floating rice varieties.",
+      "opt_b": "Broadcasting seeds of pulses or oilseeds into the standing paddy crop shortly before its harvest without any prior tillage.",
+      "opt_c": "Applying fermented neem-oil cakes to nursery beds to repel gall midge insects.",
+      "opt_d": "Setting community fire to paddy stubble under controlled humidity to enrich soil potassium."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Utera (in Madhya Pradesh and Chhattisgarh) or Paira (in Bihar and West Bengal) is a traditional relay-cropping, zero-tillage system. Pulse seeds (such as lathyrus/khesari, lentil, chickpea) or oilseeds (linseed) are broadcast into the standing rice field 10 to 15 days before harvesting paddy when the soil is still moist. The pulse utilizes residual moisture from the receding monsoon, establishes before paddy harvest, and requires zero land preparation and zero fossil energy.\n\n💡 RANKER'S MEMORY LOCK: Utera / Paira Cultivation → Traditional zero-tillage relay cropping in Eastern/Central India; broadcasting pulses/oilseeds in standing rice before harvest to utilize residual soil moisture.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent System Trap",
+        "dissection": "Raised bund wetland cultivation refers to Pokkali or Kaipad systems, not Utera/Paira."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Agronomic Confusion Trap",
+        "dissection": "Neem-cake application is an organic pest and nutrient management input, completely unrelated to relay cropping."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hazardous Misnomer Trap",
+        "dissection": "Burning stubble refers to Parali burning, an environmental menace, not the resource-conserving Utera system."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "mcq",
+    "qstyle": "conceptual",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_014",
+      "questionStem": "The traditional agricultural practice known as 'Utera' (or 'Paira') cultivation, prevalent in Chhattisgarh, Madhya Prade...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_014",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_015",
+    "stem": "The intensive Rice-Wheat Cropping System (RWCS) practiced across the North-Western Indo-Gangetic Plains faces severe ecological and agronomic contradictions. Which of the following accurately describes these challenges?\n1. The puddling of soil required for wetland rice creates an impermeable subsoil hardpan, which impedes root penetration and aeration for the subsequent wheat crop.\n2. The narrow window of 10 to 20 days between rice harvesting and wheat sowing encourages the burning of paddy stubble (Parali) by farmers using combine harvesters.\n3. Both rice and wheat are C4 carbon-fixation crops that deplete the atmosphere of carbon dioxide, causing local micro-climatic cooling.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Puddling (wet tillage) destroys soil aggregate structure and forms a dense subsurface hardpan at 15-20 cm depth to retain standing water for rice. However, this hardpan restricts root penetration, water drainage, and soil aeration for the subsequent rabi wheat crop, which requires well-aerated aerobic soil. Furthermore, non-basmati rice harvested mechanically in late October leaves tall stubble; the short window (10-20 days) before wheat sowing deadline (to prevent terminal heat stress) compels farmers to burn stubble.\nStatement 3 is incorrect: Both rice and wheat are C3 photosynthetic pathway plants (not C4). C4 crops include maize, sorghum, pearl millet, and sugarcane.\n\n💡 RANKER'S MEMORY LOCK: Rice-Wheat Cropping System Contradictions → Puddling hardpan obstructs wheat root growth; narrow 10-20 day turnaround drives Parali burning; both are C3 crops (NOT C4).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Biophysical Fallacy Trap",
+        "dissection": "Statement 1 is an undisputed agronomic fact. Statement 3 commits a major botanical error (rice and wheat are C3 crops)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Physiological Error Trap",
+        "dissection": "Statement 3 is false because rice and wheat belong to C3 category and do not cause micro-climatic CO2 cooling."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to recognize the false botanical premise in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_015",
+      "questionStem": "The intensive Rice-Wheat Cropping System (RWCS) practiced across the North-Western Indo-Gangetic Plains faces severe eco...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_015",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_016",
+    "stem": "In recent decades, significant acreage shifts from coarse cereals and pulses to water-intensive crops like sugarcane and paddy have been observed in drought-prone regions of Maharashtra and Telangana. Which policy and economic factors have primarily driven this crop substitution?\n1. Assured government procurement and state-administered pricing mechanisms (MSP and Fair and Remunerative Price - FRP).\n2. Highly subsidized or free electricity for agricultural groundwater extraction.\n3. Mandatory state restrictions prohibiting the commercial sale of millets in rural APMC mandis.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: In drought-prone regions (such as Marathwada and Northern Karnataka), farmers have shifted from water-efficient sorghum and pulses to sugarcane and paddy due to: (1) Guaranteed pricing and procurement (FRP for sugarcane backed by sugar mill act, MSP procurement for paddy) minimizing market price volatility, and (2) Zero or heavily subsidized power tariffs for borewells, externalizing the cost of water extraction.\nStatement 3 is incorrect: There are no state prohibitions banning the sale of millets in APMC mandis; in fact, the government promotes millets under NFSA, PM-POSHAN, and the International Year of Millets. The lower acreage of millets was driven by historically low market profitability and lack of public procurement, not legal bans.\n\n💡 RANKER'S MEMORY LOCK: Distorted Crop Substitution → Driven by assured MSP/FRP pricing umbrellas and free agricultural electricity, NOT by prohibitions on millet sales.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fabricated Ban Trap",
+        "dissection": "Statement 3 invents a non-existent legal prohibition against millets. Statements 1 and 2 are well-documented economic distortions."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Regulatory Fallacy Trap",
+        "dissection": "Accepts the fabricated regulatory ban in Statement 3 and omits subsidized power in Statement 2."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to detect the manufactured regulatory restriction in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Cropping Patterns & Seasons",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_016",
+      "questionStem": "In recent decades, significant acreage shifts from coarse cereals and pulses to water-intensive crops like sugarcane and...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_016",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Cropping Patterns & Seasons",
+        "concept": "Cropping Patterns & Seasons",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_017",
+    "stem": "With reference to the cultivation of Rice (Oryza sativa) in India, consider the following statements:\n1. Rice requires high temperatures (above 25°C) and high humidity with annual rainfall exceeding 100 cm during the growing season.\n2. In West Bengal, Assam, and Odisha, three crops of paddy known as Aus, Aman, and Boro are cultivated within a single agricultural year.\n3. Boro rice is traditionally sown in the monsoon season and harvested during early autumn.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Rice is a tropical kharif crop requiring 22-32°C, standing water, and >100-150 cm precipitation (or assured irrigation). In eastern deltaic states (West Bengal, Assam, Odisha, Bihar), hydrological conditions permit three distinct rice crops:\n- Aus (autumn rice): sown May-June, harvested September-October.\n- Aman (winter rice, main crop): sown June-July, harvested November-December.\n- Boro (summer rice): sown November-January, harvested March-May (grown in low-lying waterlogged depressions/chaur areas with irrigation).\nStatement 3 is incorrect: Boro is winter-sown / summer-harvested rice, whereas monsoon-sown / autumn-harvested rice is Aus (or early Aman).\n\n💡 RANKER'S MEMORY LOCK: Paddy Seasons in Eastern India → Aus = Autumn (sown May-June); Aman = Winter / Main Kharif (sown June-July, harvested Nov-Dec); Boro = Summer (sown Nov-Jan, harvested March-May).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Phenological Swap Trap",
+        "dissection": "Statement 1 is classic NCERT geography fact. Statement 3 swaps the phenology of Boro with Aus/Aman."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Statement 3 is false because Boro is summer-harvested rice. Omits Statement 2, which correctly identifies the 3 seasons."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to identify the calendar error in Statement 3 regarding Boro paddy."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_017",
+      "questionStem": "With reference to the cultivation of Rice (Oryza sativa) in India, consider the following statements:\n1. Rice requires h...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_017",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_018",
+    "stem": "With reference to Wheat (Triticum aestivum) cultivation in India, consider the following statements:\n1. Wheat requires a cool growing season with temperatures around 10°C to 15°C at the time of sowing and tillering, and bright sunshine with warm temperatures (20°C to 25°C) during ripening and harvesting.\n2. Winter rainfall caused by Western Disturbances (Mahawat) during January-February is detrimental to wheat and causes total grain sterility.\n3. Early arrival of high temperatures in late February and March causes 'terminal heat stress', leading to premature forced maturity and shriveled grain weight.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1 and 3 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 3 are correct: Wheat is a temperate rabi cereal requiring 10-15°C during germination and tillering, and 20-25°C during grain filling and maturity. 'Terminal heat stress' caused by sudden temperature spikes in late February and March accelerates canopy senescence, shrinks the grain-filling window, and reduces 1000-grain test weight (as witnessed acutely in the 2022 heatwave).\nStatement 2 is incorrect: Winter rain brought by Western Disturbances (locally called 'Mahawat' in Northern India) is exceptionally beneficial for the wheat crop, providing critical moisture during tillering and maintaining cool temperatures.\n\n💡 RANKER'S MEMORY LOCK: Wheat Agrology → 10-15°C at sowing/tillering; 20-25°C at ripening; Western Disturbance (Mahawat) rains are highly beneficial; March heat causes terminal heat stress.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Climatic Inversion Trap",
+        "dissection": "Statement 2 is an inversion trap: Mahawat winter showers are celebrated as golden drops for rabi wheat, not harmful."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-inclusion Trap",
+        "dissection": "Omits Statement 1, which represents textbook agro-climatic requirements of wheat."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to spot the blatant contradiction regarding Western Disturbances in Statement 2."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_018",
+      "questionStem": "With reference to Wheat (Triticum aestivum) cultivation in India, consider the following statements:\n1. Wheat requires a...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_018",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_019",
+    "stem": "Consider the following statements regarding the geographic and agronomic conditions for Cotton cultivation in India:\n1. Cotton requires at least 210 frost-free days and 50 to 100 cm of rainfall or equivalent irrigation during its lifecycle.\n2. The deep black soils (regur) of the Deccan Trap are ideal for rainfed cotton due to their high clay content and high moisture-retention capacity.\n3. Bt cotton hybrids cultivated in India incorporate genes from the soil bacterium Bacillus thuringiensis that confer complete biological resistance against sucking pests like whiteflies and aphids.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Cotton is a tropical/subtropical crop requiring high temperatures (21-30°C), 50-100 cm rainfall, and at least 210 frost-free days (frost is fatal to cotton). The montmorillonite clay-rich black regur soils of Maharashtra, Gujarat, and MP hold moisture deep into the dry post-monsoon period, making them ideal for rainfed cotton.\nStatement 3 is incorrect: Bt cotton contains Cry1Ac and Cry2Ab endotoxin genes targeting lepidopteran bollworms (specifically American, spotted, and pink bollworm). Bt endotoxins have ZERO efficacy against sap-sucking pests like whiteflies (Bemisia tabaci), aphids, jassids, and thrips, which require separate insecticidal/IPM control.\n\n💡 RANKER'S MEMORY LOCK: Cotton Requirements & Bt Technology → 210 frost-free days + Black Regur soil; Bt genes (Cry1Ac/Cry2Ab) target chewing Bollworms, NOT sap-sucking whiteflies/aphids.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Biotech Target Mismatch Trap",
+        "dissection": "Statement 1 is standard geography. Statement 3 confuses pest target spectrum: Bt toxins kill bollworms (caterpillars), not sucking insects."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Accepts the erroneous claim about Bt resistance against sucking pests in Statement 3."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to isolate the biotechnology fact trap in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_019",
+      "questionStem": "Consider the following statements regarding the geographic and agronomic conditions for Cotton cultivation in India:\n1. ...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_019",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_020",
+    "stem": "Although the sub-tropical Indo-Gangetic plain accounts for a larger share of India's total sugarcane acreage, the tropical southern states (Maharashtra, Tamil Nadu, Karnataka) exhibit distinct agro-climatic advantages. What are these advantages?\n1. Absence of severe winter cold waves and frost, providing a longer continuous vegetative growing season.\n2. Maritime oceanic influence and moderate coastal humidity leading to higher sucrose concentration (recovery rate) in the cane.\n3. Longer crushing season for sugar mills in peninsular India compared to northern states.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Continuous Growth: Sugarcane (Saccharum officinarum) is tropical. South India has no harsh continental winter chills or loo winds, allowing prolonged vegetative elongation and planting of Adsali cane (18 months).\n2. Higher Sucrose Recovery: Moderate maritime humidity and steady sunshine prevent premature inversion of juice sucrose, yielding higher sugar recovery (10.5-12% in Maharashtra/TN vs 9-10% in UP).\n3. Extended Crushing Season: Southern mills crush cane for 7-8 months (October to April/May), whereas northern mills face shorter crushing windows (4-5 months) before summer heat desiccates cane stalks.\n\n💡 RANKER'S MEMORY LOCK: Sugarcane Tropical Advantages → Frost-free year-round vegetative growth + Higher sucrose recovery rate + Longer sugar mill crushing season.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Industrial Under-inclusion Trap",
+        "dissection": "Statement 3 is a major commercial advantage explaining the southward shift of sugar mills."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Agro-climatic Trap",
+        "dissection": "Statement 1 is the primary climatic reason for superior sugarcane physiology in the south."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Physiological Trap",
+        "dissection": "Statement 2 explains why sucrose percentages are consistently higher in Peninsular India."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_020",
+      "questionStem": "Although the sub-tropical Indo-Gangetic plain accounts for a larger share of India's total sugarcane acreage, the tropic...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_020",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_021",
+    "stem": "With reference to the cultivation of Tea (Camellia sinensis), consider the following statements:\n1. It thrives best in well-drained, acidic loamy soils (pH 4.5 to 5.5) rich in organic humus and iron content.\n2. Sloping or undulating terrain is essential because stagnant water around the root zone causes root rot and wilting of the bushes.\n3. Tea requires heavy annual rainfall (150 to 250 cm), but the precipitation must be concentrated exclusively within two weeks of torrential monsoonal downpours followed by prolonged drought.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Tea is an evergreen sub-tropical shrub requiring porous, acidic soils (pH 4.5-5.5) with rich humus. It is highly sensitive to waterlogging; water stagnation suffocates and rots the taproots, necessitating well-drained hillslope topography (slopes of Assam, Darjeeling, Nilgiris).\nStatement 3 is incorrect: Tea requires 150-250 cm of rainfall that is evenly distributed throughout the year. Prolonged dry spells dry up tender flushes, while torrential short-burst storms without subsequent moisture cause severe moisture stress. Frequent light showers and heavy morning mists facilitate rapid flush development.\n\n💡 RANKER'S MEMORY LOCK: Tea Agrology → Acidic soil (pH 4.5–5.5) + Well-drained sloping topography (stagnant water rots roots) + Well-distributed rainfall year-round (NOT concentrated torrential bursts).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Rainfall Distribution Trap",
+        "dissection": "Statement 1 is textbook soil science for tea. Statement 3 contains an agronomic absurdity; tea cannot withstand prolonged drought or short-burst downpours."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Accepts the erroneous claim in Statement 3 regarding concentrated rainfall bursts."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to spot the false premise regarding precipitation distribution in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_021",
+      "questionStem": "With reference to the cultivation of Tea (Camellia sinensis), consider the following statements:\n1. It thrives best in w...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_021",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_022",
+    "stem": "In the context of Coffee cultivation in India, consider the following statements:\n1. Arabica coffee is grown at higher altitudes (1,000 to 1,500 meters) and requires cooler temperatures than Robusta coffee.\n2. Robusta coffee has higher caffeine content and exhibits greater genetic resistance to pests such as the white stem borer and coffee leaf rust.\n3. In India, coffee is traditionally cultivated under an open canopy without any shade trees to maximize direct solar radiation.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct:\n- Arabica (Coffea arabica): Grown at higher elevations (1000-1500m), mild temperatures (15-25°C), produces a premium aromatic cup, but is highly sensitive to pests (white stem borer, leaf rust).\n- Robusta (Coffea canephora): Grown at lower elevations (500-1000m), higher temperatures (20-30°C), has roughly double the caffeine content, and exhibits strong pest/disease resistance and higher yields.\nStatement 3 is incorrect: Unlike Brazil or Vietnam where monoculture coffee is grown in open sun, Indian coffee is 100% shade-grown under a two-tier canopy of native forest trees (such as silver oak, rosewood, jackfruit), preserving biodiversity and microclimate.\n\n💡 RANKER'S MEMORY LOCK: Coffee Varieties & Culture → Arabica = High altitude, cool, delicate; Robusta = Lower altitude, higher caffeine, pest resistant; Indian coffee is strictly SHADE-GROWN under two-tier forest canopy.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Canopy Architecture Trap",
+        "dissection": "Statement 1 is standard geography. Statement 3 claims open canopy, whereas Indian coffee is globally famous for being 100% shade-grown."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Accepts the false claim in Statement 3 and omits pest resilience of Robusta in Statement 2."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to identify the shade-grown canopy characteristic of Indian coffee in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_022",
+      "questionStem": "In the context of Coffee cultivation in India, consider the following statements:\n1. Arabica coffee is grown at higher a...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_022",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_023",
+    "stem": "Millets (Shree Anna) such as Pearl Millet (Bajra), Sorghum (Jowar), and Finger Millet (Ragi) are recognized as climate-resilient super-crops. Which of the following physiological and agronomic features account for this resilience?\n1. They utilize the C4 photosynthetic pathway, which provides higher water and nitrogen use efficiency compared to C3 cereals under high temperatures.\n2. They have short vegetative growth cycles, enabling them to escape end-of-season droughts in rainfed arid tracts.\n3. They require saturated standing water conditions during seed germination, similar to lowland paddy.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct:\n- C4 Photosynthesis: Millets utilize the C4 carbon-fixation pathway (with bundle sheath cells / Kranz anatomy), reducing photorespiration and achieving high photosynthetic rates under high temperature and intense sunlight with minimal water loss (high Water-Use Efficiency).\n- Drought escape & hardiness: Millets have short life cycles (60-100 days), deep fibrous root systems, and capacity to enter dormancy during moisture stress, escaping terminal droughts.\nStatement 3 is incorrect: Millets are dryland crops adapted to well-drained light soils. They cannot tolerate waterlogging or flooded conditions; saturated standing water causes seed rotting and root asphyxiation.\n\n💡 RANKER'S MEMORY LOCK: Millets (Shree Anna) Resilience → C4 photosynthetic pathway (high Water-Use Efficiency) + Short growing cycle (drought escape); Highly intolerant to standing water / waterlogging.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Photosynthetic Trap",
+        "dissection": "Statement 1 is the fundamental biochemical mechanism of millet resilience. Statement 3 is false as millets perish under standing water."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Waterlogging Fallacy Trap",
+        "dissection": "Accepts the absurd claim in Statement 3 that millets require standing water like paddy."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to recognize the dryland ecology of millets in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_023",
+      "questionStem": "Millets (Shree Anna) such as Pearl Millet (Bajra), Sorghum (Jowar), and Finger Millet (Ragi) are recognized as climate-r...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_023",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_024",
+    "stem": "Despite India being one of the largest consumers and producers of pulses and oilseeds, domestic production has historically faced persistent supply-side vulnerabilities. Which of the following are the primary agronomic and structural constraints?\n1. Over 70% of the total acreage under pulses and oilseeds is cultivated in rainfed, marginal lands with poor soil fertility.\n2. High susceptibility of pulse crops to pod borers (Helicoverpa armigera) and vascular wilt diseases.\n3. Pulses do not possess root nodules and therefore require higher doses of chemical synthetic nitrogen than cereal crops.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct:\n- Marginalization: After the Green Revolution, high-yielding irrigated lands were diverted to paddy and wheat, pushing pulses and oilseeds to rainfed, sub-optimal, drought-prone soils (>70-80% rainfed).\n- Biotic stresses: Pulses suffer heavy yield loss due to biotic stresses—gram pod borer (Helicoverpa armigera), yellow mosaic virus, fusarium wilt, and phytophthora blight.\nStatement 3 is incorrect: Pulses are legumes that naturally form root nodules harboring symbiotic Rhizobium bacteria that fix atmospheric nitrogen. They require minimal nitrogen fertilizer (starter dose only) and enrich the soil, rather than needing higher chemical nitrogen than cereals.\n\n💡 RANKER'S MEMORY LOCK: Pulses Constraints → Cultivated predominantly on rainfed/marginal lands (>70%) + Severe pest/disease vulnerability (Pod borer, Wilt); They DO fix nitrogen via Rhizobium root nodules.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Botanical Inversion Trap",
+        "dissection": "Statement 1 is an established economic fact. Statement 3 claims pulses lack nodules and need high chemical N, which inverts basic botanical science."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Symbiosis Denial Trap",
+        "dissection": "Accepts Statement 3's denial of legume nodulation and omits pest vulnerabilities in Statement 2."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to spot the fundamental biological error in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Major Food & Commercial Crops",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_024",
+      "questionStem": "Despite India being one of the largest consumers and producers of pulses and oilseeds, domestic production has historica...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_024",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Major Food & Commercial Crops",
+        "concept": "Major Food & Commercial Crops",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_025",
+    "stem": "With reference to the System of Rice Intensification (SRI), which of the following statements are correct?\n1. SRI recommends transplanting very young seedlings (8 to 12 days old) with just two leaves, compared to 25 to 30-day-old seedlings in conventional practice.\n2. Seedlings are planted singly at wide square spacing (typically 25 cm x 25 cm) rather than in dense clumps.\n3. The field is subjected to continuous deep flooding of 10 to 15 cm throughout the vegetative growth period to suppress weed emergence.\n4. Soil is maintained moist through Alternate Wetting and Drying (AWD) rather than continuous inundation.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1, 2 and 4 only",
+      "opt_b": "1, 2 and 3 only",
+      "opt_c": "2, 3 and 4 only",
+      "opt_d": "1, 3 and 4 only"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1, 2, and 4 are correct:\n- Principle 1: Transplanting young seedlings (8-12 days old, 2-leaf stage) with root tips and seed sac intact preserves the plant's tillering potential.\n- Principle 2: Planting single seedlings in a wide square grid (25 x 25 cm or wider) ensures maximum sunlight, aeration, and root expansion.\n- Principle 4: Water management: Non-flooded conditions using Alternate Wetting and Drying (AWD) during vegetative growth keeps the soil aerobic, cutting water use by 25-50% and slashing methane emissions.\nStatement 3 is incorrect: Deep continuous flooding is the antithesis of SRI. Flooding causes hypoxic root degeneration; SRI relies on moist soil and mechanical cono-weeders to aerate the topsoil and control weeds.\n\n💡 RANKER'S MEMORY LOCK: System of Rice Intensification (SRI) → Young seedlings (8-12 days old) + Single seedling at wide square spacing (25x25 cm) + Alternate Wetting & Drying (AWD; NO continuous flooding).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Water Management Trap",
+        "dissection": "Includes Statement 3, which falsely claims SRI relies on continuous deep flooding. Statement 4 is the actual water management tenet."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Seedling Age Trap",
+        "dissection": "Omits Statement 1, which represents the foundational agronomic principle of SRI (young seedling age)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Trap",
+        "dissection": "Fails to eliminate Statement 3 regarding deep water flooding."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_025",
+      "questionStem": "With reference to the System of Rice Intensification (SRI), which of the following statements are correct?\n1. SRI recomm...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_025",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_026",
+    "stem": "Direct Seeded Rice (DSR) is being aggressively promoted in Punjab and Haryana as an alternative to conventional Puddled Transplanted Rice (PTR). What are the main agronomic advantages and trade-offs of DSR?\n1. It eliminates the need for raising nursery beds, seedling uprooting, and wet puddling, significantly reducing labor and tractor fuel costs.\n2. It prevents the destruction of soil physical structure and subsoil compaction caused by puddling, benefiting subsequent wheat crops.\n3. Weed infestation is significantly higher in DSR compared to PTR, requiring timely application of pre- and post-emergence herbicides.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Operational Savings: Seeds are drilled directly into the soil (using DSR machines like Tar-wattar seeder), eliminating 30 days of nursery management, manual uprooting, and intensive wet puddling, saving 15-20% irrigation water and labor.\n2. Soil Conservation: Puddling creates a dense subsurface hardpan and destroys soil structure. DSR preserves macro-pores and soil permeability, allowing deeper root penetration and better drainage for the succeeding wheat crop.\n3. Weed Pressure: In conventional PTR, standing water acts as an anaerobic weed suppressant. In aerobic DSR fields, weed seeds germinate concurrently with rice, making weed infestation (especially grassy weeds like Echinochloa) the foremost agronomic challenge.\n\n💡 RANKER'S MEMORY LOCK: Direct Seeded Rice (DSR) → Saves water & labor by skipping nursery/puddling + Preserves soil structure for wheat; Weed infestation is significantly higher than transplanted paddy.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Weed Bottleneck Trap",
+        "dissection": "Statement 3 is the most critical operational constraint of DSR and must be included."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Economic Under-inclusion Trap",
+        "dissection": "Statement 1 represents the primary economic motive for farmers adopting DSR."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Edaphic Under-inclusion Trap",
+        "dissection": "Statement 2 highlights the structural soil benefit of avoiding wet puddling."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_026",
+      "questionStem": "Direct Seeded Rice (DSR) is being aggressively promoted in Punjab and Haryana as an alternative to conventional Puddled ...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_026",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_027",
+    "stem": "With reference to 'Zero Budget Natural Farming' (ZBNF) popularized by Subhash Palekar, consider the following pairs of core components and their primary functions:\n1. Bijamrit : Fermented microbial seed coating prepared from desi cow dung and urine to protect young roots from seed-borne pathogens.\n2. Jiwamrit : Fermented culture of cow dung, cow urine, jaggery, pulse flour, and virgin forest soil applied to soil to stimulate microbial and earthworm activity.\n3. Acchadana : Mulching the soil with crop residue or live cover crops to prevent soil moisture loss and suppress weed growth.\n4. Whapasa : Continuous flood irrigation applied at night to saturate soil pore spaces.\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Pairs 1, 2, and 3 are correctly matched:\n1. Bijamrit: Seed treatment using desi cow dung, urine, lime, and forest soil, protecting germinating seedlings against seed-borne and soil-borne fungal pathogens.\n2. Jiwamrit: Fermented liquid bio-enhancer made of cow dung, cow urine, jaggery (carbon source), gram flour (protein/nitrogen source), and virgin soil (microbial inoculum) that triggers soil biological activity.\n3. Acchadana (Mulching): Soil, straw, and live mulching that moderates soil temperature, conserves moisture, and prevents erosion.\nPair 4 is incorrectly matched: Whapasa is the soil condition where both air molecules and water vapor are present in the soil in equal proportions. ZBNF completely rejects flood irrigation, advocating minimal irrigation applied only to alternate furrows during midday to encourage deep root exploration.\n\n💡 RANKER'S MEMORY LOCK: ZBNF 4 Pillars → Bijamrit = Seed treatment; Jiwamrit = Soil microbial inoculant; Acchadana = Mulching; Whapasa = Soil aeration / moisture vapor equilibrium (REJECTS flood irrigation).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-counting Trap",
+        "dissection": "Pairs 1, 2, and 3 are all correctly matched."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-counting Trap",
+        "dissection": "There are three correctly matched pairs, not two."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Whapasa Definition Trap",
+        "dissection": "Pair 4 is incorrect because Whapasa stands for soil aeration and vapor equilibrium, not flood irrigation."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_027",
+      "questionStem": "With reference to 'Zero Budget Natural Farming' (ZBNF) popularized by Subhash Palekar, consider the following pairs of c...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_027",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_028",
+    "stem": "The Food and Agriculture Organization (FAO) defines Conservation Agriculture (CA) as a farming system that maintains three interrelated core principles. Which of the following constitute these three principles?\n1. Minimum mechanical soil disturbance (zero-tillage or direct drilling).\n2. Permanent maintenance of a soil organic cover with crop residues or cover crops (at least 30%).\n3. Species diversification through varied crop rotations, sequences, or associations.\n4. Total eradication of all soil macro-organisms using synthetic broad-spectrum fumigants.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "1, 2 and 4 only",
+      "opt_c": "2, 3 and 4 only",
+      "opt_d": "1, 3 and 4 only"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1, 2, and 3 are correct:\n- Principle 1: Minimum soil disturbance: Practicing zero-tillage or direct drilling through crop residues, preserving soil structure, organic matter, and biopores.\n- Principle 2: Permanent soil organic cover: Maintaining at least 30% residue mulch cover on the soil surface to buffer soil temperature, reduce runoff, conserve moisture, and prevent erosion.\n- Principle 3: Crop diversification: Cultivating varied crop rotations, associations, and cover crops involving legumes to break weed/pest cycles and optimize biological nitrogen cycling.\nStatement 4 is incorrect: Conservation Agriculture actively nurtures soil biology (earthworms, beneficial fungi, bacteria). Eradicating soil macro-organisms with chemical fumigants destroys the living soil ecosystem and contradicts CA principles.\n\n💡 RANKER'S MEMORY LOCK: Conservation Agriculture 3 Pillars (FAO) → 1. Minimum soil disturbance (Zero Tillage); 2. Permanent organic soil cover (>=30% residue mulch); 3. Crop diversification / rotation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Biocidal Trap",
+        "dissection": "Statement 4 promotes chemical destruction of soil life, which violates the core biological principles of Conservation Agriculture."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Tillage Under-inclusion Trap",
+        "dissection": "Omits Statement 1, which is the foundational physical tenet of Conservation Agriculture."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Trap",
+        "dissection": "Fails to isolate the destructive chemical proposition in Statement 4."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_028",
+      "questionStem": "The Food and Agriculture Organization (FAO) defines Conservation Agriculture (CA) as a farming system that maintains thr...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_028",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_029",
+    "stem": "In the context of modern Precision Farming and the deployment of agricultural drones (Kisan Drones) in India, consider the following statements:\n1. Precision farming relies on technologies like Global Positioning Systems (GPS), Geographic Information Systems (GIS), and remote sensing to practice site-specific nutrient and crop management.\n2. Normalized Difference Vegetation Index (NDVI) derived from drone multispectral sensors is used to assess crop vigor, chlorophyll content, and moisture stress.\n3. Agricultural drones are permitted to spray all banned persistent organic chemical insecticides at high concentrations across residential villages.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Precision agriculture uses spatial data (GPS, GIS, remote sensors, VRA - Variable Rate Application) to apply inputs (water, fertilizer, pesticides) only where and in the quantities needed. Drone multispectral cameras capture Red and Near-Infrared (NIR) reflectance to calculate NDVI, mapping crop health, chlorophyll density, and nitrogen stress.\nStatement 3 is incorrect: Under the Standard Operating Procedures (SOPs) issued by the Ministry of Agriculture & Farmers Welfare and DGCA, drones can only spray approved formulations (like liquid nano urea, nano DAP, and approved agrochemicals) adhering strictly to buffer zones away from residential clusters, water bodies, and non-target crops. Spraying banned persistent chemicals is strictly illegal.\n\n💡 RANKER'S MEMORY LOCK: Precision Farming & Kisan Drones → GPS/GIS/Remote Sensing for site-specific input delivery; NDVI maps chlorophyll/crop vigor; Drone spraying strictly regulated by SOPs (NO spraying of banned chemicals).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Regulatory Violation Trap",
+        "dissection": "Statement 3 describes an illegal and hazardous activity. Statement 1 is standard precision farming definition."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Accepts the illegal premise in Statement 3 and omits NDVI multispectral sensing in Statement 2."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to identify the obvious regulatory violation asserted in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_029",
+      "questionStem": "In the context of modern Precision Farming and the deployment of agricultural drones (Kisan Drones) in India, consider t...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_029",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_030",
+    "stem": "With reference to 'Fertigation' through drip irrigation systems, consider the following statements:\n1. Fertigation allows the simultaneous application of water-soluble fertilizers directly to the active root zone of crops.\n2. It significantly reduces nutrient leaching losses into groundwater and volatilization losses into the atmosphere compared to surface broadcasting.\n3. Insoluble rock phosphate and uncomposted farmyard manure can be directly pumped through standard micro-irrigation drippers without clogging risks.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Fertigation injects soluble fertilizers into irrigation water. Because water and nutrients are delivered in small, frequent doses directly to the active root zone, fertilizer use efficiency (FUE) rises to 80-90% (vs 30-40% under broadcast flooding), curbing nitrate leaching into aquifers and ammonia volatilization.\nStatement 3 is incorrect: Only 100% water-soluble fertilizers (such as urea, potassium nitrate, MAP, MKP) can be used in fertigation. Insoluble materials like rock phosphate, gypsum, or coarse farmyard manure create precipitates and suspended matter that immediately clog narrow emitter orifices and drippers.\n\n💡 RANKER'S MEMORY LOCK: Fertigation Dynamics → Soluble fertilizer delivered directly to root zone; Cuts leaching & volatilization losses (FUE reaches 80-90%); Requires 100% WATER-SOLUBLE fertilizers (insoluble compounds clog emitters).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Solubility Trap",
+        "dissection": "Statement 1 is the core agronomic mechanism of fertigation. Statement 3 asserts that insoluble materials can be pumped without clogging, which is physically impossible."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Clogging Fallacy Trap",
+        "dissection": "Accepts the erroneous claim in Statement 3 that insoluble rock phosphate will not choke micro-drippers."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to recognize the physical clogging constraint in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_030",
+      "questionStem": "With reference to 'Fertigation' through drip irrigation systems, consider the following statements:\n1. Fertigation allow...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_030",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_031",
+    "stem": "Consider the following statements regarding advanced soil and water conservation techniques:\n1. In Subsurface Drip Irrigation (SDI), lateral pipes and emitters are buried below the tillage zone, virtually eliminating surface water evaporation and weed seed germination.\n2. Biochar produced through biomass pyrolysis possesses a highly porous structure and high specific surface area, which improves soil water-holding capacity and cation exchange capacity (CEC).\n3. Biochar application permanently reduces soil microbial diversity to zero, sterilizing the rhizosphere against all living organisms.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct:\n- SDI: Buried drip lines apply water directly at the root zone below the soil surface. This eliminates surface evaporation, runoff, crusting, and weed germination on dry topsoil, achieving the highest irrigation efficiency.\n- Biochar: Pyrolyzed carbonaceous biomass has high microporosity and surface charge, enhancing soil moisture retention, nutrient adsorption, Cation Exchange Capacity (CEC), and acting as a recalcitrant carbon sink for centuries.\nStatement 3 is incorrect: Biochar acts as an ideal microhabitat and refuge for beneficial mycorrhizal fungi and bacteria, enhancing (rather than eliminating) soil biological activity and microbial diversity.\n\n💡 RANKER'S MEMORY LOCK: Conservation Tech → Subsurface Drip Irrigation (SDI) eliminates surface evaporation & weed germination; Biochar enhances soil water retention, CEC & microbial habitat (NEVER sterilizes soil).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Soil Sterilization Trap",
+        "dissection": "Statement 3 claims biochar sterilizes soil, which contradicts the established science that biochar enriches microbial diversity. Statement 1 is correct."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Accepts the false claim in Statement 3 that biochar wipes out soil microbes."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to spot the catastrophic error in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_031",
+      "questionStem": "Consider the following statements regarding advanced soil and water conservation techniques:\n1. In Subsurface Drip Irrig...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_031",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_032",
+    "stem": "With reference to Agroforestry systems in India, consider the following statements:\n1. Agri-silviculture involves the conscious integration of agricultural crops with multi-purpose tree species on the same piece of land.\n2. Silvopastoral systems combine forestry trees with pasture grasses and livestock grazing to optimize fodder production and soil conservation.\n3. Windbreaks and shelterbelts composed of dense rows of trees on field boundaries reduce wind velocity, thereby mitigating evapotranspiration and soil wind erosion.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Agri-silviculture: The deliberate combination of trees/woody perennials with agricultural crops (e.g., Poplar/Eucalyptus with wheat/sugarcane in Punjab/Haryana; Khejri with pearl millet in Rajasthan).\n2. Silvopastoral systems: Integration of trees, forage/pasture grasses, and livestock. Common in arid/semi-arid and hilly regions to provide perennial tree fodder, timber, and livestock grazing while controlling slope erosion.\n3. Shelterbelts and windbreaks: Planting rows of trees perpendicular to prevailing wind direction breaks wind momentum, reducing wind erosion, mechanical crop lodging, and aerodynamic moisture loss (evapotranspiration) in adjoining crop fields.\n\n💡 RANKER'S MEMORY LOCK: Agroforestry Classifications → Agri-silviculture = Crops + Trees; Silvopasture = Trees + Grasses/Livestock; Shelterbelts = Tree rows mitigating wind velocity & evapotranspiration.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Conservation Under-inclusion Trap",
+        "dissection": "Statement 3 is a textbook soil conservation technique emphasized across NCERT and ICAR syllabi."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Definitional Trap",
+        "dissection": "Statement 1 is the foundational agronomic definition of agri-silviculture."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Pastoral Trap",
+        "dissection": "Statement 2 accurately defines the ecological components of silvopastoral systems."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Sustainable Agricultural Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_032",
+      "questionStem": "With reference to Agroforestry systems in India, consider the following statements:\n1. Agri-silviculture involves the co...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_032",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Sustainable Agricultural Practices",
+        "concept": "Sustainable Agricultural Practices",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_033",
+    "stem": "With reference to the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme, consider the following statements:\n1. It is a Central Sector Scheme with 100% funding from the Government of India.\n2. Under the scheme, an income support of Rs 6,000 per year is transferred directly into the bank accounts of eligible farmer families in three equal four-monthly installments.\n3. Institutional landholders and farmer families holding constitutional posts or paying income tax are excluded from the benefits of the scheme.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Funding Structure: PM-KISAN was launched in February 2019 (effective December 2018) as a 100% Centrally funded Central Sector Scheme administered by the Ministry of Agriculture and Farmers Welfare.\n2. Financial Benefit: Eligible landholder farmer families receive direct income support of Rs 6,000 annually, transferred in three equal four-monthly tranches of Rs 2,000 each (April-July, August-November, December-March) via Aadhaar-linked Direct Benefit Transfer (DBT).\n3. Exclusion Criteria: Institutional landholders, former and present holders of constitutional posts, ministers, MPs/MLAs, serving/retired government officers, professionals (doctors, engineers, lawyers, CAs), and persons who paid income tax in the last assessment year are strictly excluded.\n\n💡 RANKER'S MEMORY LOCK: PM-KISAN Core Parameters → Central Sector Scheme (100% GoI funded) + Rs 6,000/year in 3 equal installments of Rs 2,000 + Income tax payers & institutional holders excluded.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Exclusion Under-inclusion Trap",
+        "dissection": "Statement 3 is an essential eligibility rule designed to target small/marginal and genuine rural families."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fiscal Architecture Trap",
+        "dissection": "Statement 1 is correct (Central Sector Scheme, NOT Centrally Sponsored Scheme)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Cash Transfer Trap",
+        "dissection": "Statement 2 describes the exact financial transfer amount and periodicity."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_033",
+      "questionStem": "With reference to the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme, consider the following statements:\n1. It is a...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_033",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_034",
+    "stem": "With reference to the Pradhan Mantri Fasal Bima Yojana (PMFBY), consider the following statements:\n1. Farmers pay a uniform premium of only 2% for all Kharif food and oilseed crops, and 1.5% for all Rabi food and oilseed crops.\n2. For annual commercial and horticultural crops, the premium payable by farmers is capped at 5%.\n3. Post-harvest losses are covered for up to 14 days after harvest for crops kept in 'cut and spread' condition in the field against localized cyclones and unseasonal rains.\n4. Participation in the scheme is legally mandatory for all farmers availing crop loans through Kisan Credit Cards.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "1, 2 and 4 only",
+      "opt_c": "2, 3 and 4 only",
+      "opt_d": "1, 3 and 4 only"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1, 2, and 3 are correct:\n- Premium Structure: Farmer premium is capped at 2.0% for Kharif food/oilseed crops, 1.5% for Rabi food/oilseed crops, and 5.0% for annual commercial/horticultural crops. The actuarial balance is shared 50:50 between Center and States (90:10 for North Eastern states).\n- Post-Harvest Risk: Covers localized perils (unseasonal rains, hailstorms, cyclonic inundation) up to 14 days after harvest for produce kept in 'cut and spread' condition on the field for drying.\nStatement 4 is incorrect: Under the revamped PMFBY guidelines introduced in Kharif 2020, enrollment was made completely voluntary for all farmers, including loanee farmers holding Kisan Credit Cards (prior to 2020 it was mandatory for loanees).\n\n💡 RANKER'S MEMORY LOCK: PMFBY Premium & Rules → 2% Kharif, 1.5% Rabi, 5% Commercial/Horticultural; Post-harvest coverage up to 14 days ('cut & spread'); Enrollment is 100% VOLUNTARY for loanee farmers since 2020.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Voluntary Enrolment Trap",
+        "dissection": "Statement 4 claims enrollment is mandatory for loanee farmers, which was abolished in the 2020 revamp (it is now completely voluntary)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premium Rate Trap",
+        "dissection": "Omits Statement 1, which represents the hallmark 2% and 1.5% farmer premium ceilings."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Trap",
+        "dissection": "Fails to eliminate the obsolete mandatory enrollment rule in Statement 4."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_034",
+      "questionStem": "With reference to the Pradhan Mantri Fasal Bima Yojana (PMFBY), consider the following statements:\n1. Farmers pay a unif...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_034",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_035",
+    "stem": "With reference to the National Agriculture Market (e-NAM), consider the following statements:\n1. It is a pan-India electronic trading portal that networks existing physical APMC mandis to create a unified national market for agricultural commodities.\n2. The Small Farmers Agribusiness Consortium (SFAC) is the lead agency implementing e-NAM under the Ministry of Agriculture and Farmers Welfare.\n3. Physical mandis are abolished and bulldozed immediately upon joining the e-NAM platform.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: e-NAM is a flagship digital platform launched in April 2016 to network physical APMC mandis across states, creating a unified virtual national market with online bidding, quality assaying, and electronic payment settlements. Small Farmers Agribusiness Consortium (SFAC) is the designated lead implementing agency under the Ministry of Agriculture.\nStatement 3 is incorrect: e-NAM does NOT abolish physical mandis. It overlays a digital transactional interface on existing physical mandis; the mandis continue to operate as physical logistical hubs where produce is physically brought, graded, assayed, weighed, and stored.\n\n💡 RANKER'S MEMORY LOCK: e-NAM Architecture → Virtual trading platform networking physical APMC mandis; Implemented by SFAC; Physical mandis remain functional as logistical & quality testing nodes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Mandi Abolition Trap",
+        "dissection": "Statement 3 asserts that mandis are physically destroyed, which is false; e-NAM integrates them digitally."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Distractor Trap",
+        "dissection": "Accepts the erroneous claim in Statement 3 and omits SFAC in Statement 2."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Acceptance Trap",
+        "dissection": "Fails to detect the destructive premise asserted in Statement 3."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_035",
+      "questionStem": "With reference to the National Agriculture Market (e-NAM), consider the following statements:\n1. It is a pan-India elect...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_035",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top15_036",
+    "stem": "In the determination of Minimum Support Price (MSP) in India, the Commission for Agricultural Costs and Prices (CACP) evaluates various cost of cultivation concepts. Consider the following statements:\n1. 'Cost A2' covers all direct paid-out expenses incurred by the farmer in cash and kind on seeds, fertilizers, pesticides, hired labor, fuel, and irrigation.\n2. 'Cost A2+FL' includes Cost A2 plus the imputed economic value of unpaid family labor.\n3. 'Cost C2' is a comprehensive cost that adds the rental value of owned land and interest on owned fixed capital assets to Cost A2+FL.\n4. The Central Government currently fixes MSP at a minimum of 50% profit margin over the comprehensive 'Cost C2' for all mandated crops.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "1, 2 and 4 only",
+      "opt_c": "2, 3 and 4 only",
+      "opt_d": "1, 3 and 4 only"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1, 2, and 3 are correct:\n- Cost A2: Covers all direct out-of-pocket operational expenses incurred in cash and kind (seeds, fertilizers, chemicals, hired labor, fuel, irrigation, machine lease).\n- Cost A2+FL: Cost A2 plus imputed value of unpaid family labor.\n- Cost C2: Comprehensive cost = A2 + FL + rental value of owned land + interest on owned fixed capital assets.\nStatement 4 is incorrect: In the Union Budget 2018-19, the Government committed to fixing MSP at a minimum of 1.5 times (50% return) over the 'Cost A2+FL' formula (NOT Cost C2). The National Commission on Farmers headed by Prof. M.S. Swaminathan had recommended MSP at C2 + 50%, but the statutory benchmark adopted by the government is A2+FL + 50%.\n\n💡 RANKER'S MEMORY LOCK: MSP Cost Concepts → A2 = Direct paid-out costs; A2+FL = Paid-out costs + Family labor; C2 = Comprehensive (includes land rent & capital interest). Government fixes MSP at 1.5x of A2+FL (NOT C2).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Swaminathan Benchmark Trap",
+        "dissection": "Statement 4 claims MSP is fixed at 1.5x of C2, whereas the government officially fixes MSP at 1.5x of Cost A2+FL."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "A2 Paid-out Trap",
+        "dissection": "Omits Statement 1, which defines foundational operational expenditure in agricultural economics."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Universal Trap",
+        "dissection": "Fails to identify the crucial distinction between A2+FL and C2 pricing benchmarks in Statement 4."
+      }
+    ],
+    "topicId": 15,
+    "topicName": "Agriculture",
+    "section": "Indian Geography",
+    "subTopic": "Agricultural Schemes & Reforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State PSC",
+    "isCurrentAffairs": true,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 15,
+    "originalTopicName": "15. Agriculture",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top15_036",
+      "questionStem": "In the determination of Minimum Support Price (MSP) in India, the Commission for Agricultural Costs and Prices (CACP) ev...",
+      "intentType": "conceptual",
+      "knowledgeNodeId": "node-agri-q_top15_036",
+      "evidenceText": "",
+      "sourceFile": "ncert_xii_india_people_and_economy.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xii_india_people_and_economy.txt",
+        "sentence_count": 1,
+        "section_heading": "Agricultural Schemes & Reforms",
+        "concept": "Agricultural Schemes & Reforms",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T11:45:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
   }
 ]

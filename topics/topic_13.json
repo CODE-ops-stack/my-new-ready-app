@@ -6530,5 +6530,2845 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "q_t13_093",
+    "stem": "With reference to the Soil Orders of India based on the USDA Soil Taxonomy adopted by the Indian Council of Agricultural Research (ICAR), consider the following statements:\n1. Inceptisols constitute the largest soil order by geographical area in India, followed by Entisols.\n2. Vertisols, characterized by high clay content and shrink-swell capacity, occupy a larger area in India than Alfisols.\n3. Oxisols, representing highly weathered tropical soils, are completely absent in the Indian subcontinent.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement 1 is correct: According to the ICAR classification based on USDA Soil Taxonomy, Inceptisols occupy the maximum geographical area in India (~39.74% or ~130.4 Mha), followed by Entisols (~28.08% or ~92.1 Mha). Statement 2 is incorrect: Alfisols cover ~13.55% of India, whereas Vertisols cover ~8.52%; thus Alfisols occupy a larger area than Vertisols. Statement 3 is incorrect: Oxisols are not completely absent; they occur in small pockets (~0.3% of TGA) in humid tropical tracts of the Malabar coast in Kerala.\n\n💡 RANKER'S MEMORY LOCK: ICAR Soil Orders Area Rank → Inceptisols (~39.7%) > Entisols (~28.1%) > Alfisols (~13.6%) > Vertisols (~8.5%). Oxisols occur in minor pockets (~0.3%).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You assumed Vertisols cover more area than Alfisols due to the prominence of Deccan black soils. Alfisols (red soils) actually cover ~13.6% vs Vertisols ~8.5%."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted that Oxisols are completely absent. Oxisols exist in humid tropical pockets of Kerala."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements without verifying comparative percentages and extreme negative assertions."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "ICAR Soil Taxonomy",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_093",
+      "questionStem": "With reference to the Soil Orders of India based on the USDA Soil Taxonomy adopted by the Indian Council of Agricultural Research (ICAR), consider the following statements:\n1. Inceptisols constitute the largest soil order by geographical area in India, followed by Entisols.\n2. Vertisols, characterized by high clay content and shrink-swell capacity, occupy a larger area in India than Alfisols.\n3. Oxisols, representing highly weathered tropical soils, are completely absent in the Indian subcontinent.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_093",
+      "evidenceText": "Statement 1 is correct: According to the ICAR classification based on USDA Soil Taxonomy, Inceptisols occupy the maximum geographical area in India (~39.74% or ~130.4 Mha), followed by Entisols (~28.0",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Soil Orders of India (Inceptisols, Entisols, Alfisols, Vertisols)",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_093",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_094",
+    "stem": "Consider the following statements regarding Black Soils (Regur / Vertisols) of India:\n1. The characteristic high plasticity and swelling-shrinking property of black soil are primarily attributed to the presence of 2:1 lattice clay minerals of the montmorillonite group.\n2. These soils exhibit high cation exchange capacity (CEC) and remarkable moisture retentivity, enabling dryland crops to sustain extended rainless periods.\n3. They are chemically rich in nitrogen, phosphorus, and organic matter, but typically deficient in potash, calcium, and magnesium.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct: Black soils are dominated by montmorillonite (a 2:1 expanding crystal lattice clay mineral) which swells upon wetting and cracks deeply upon drying (self-ploughing). Vertisols have high CEC (30-60 cmol/kg) and store moisture efficiently, supporting rabi crops without irrigation. Statement 3 is incorrect: Black soils are chemically deficient in nitrogen, phosphorus, and organic humus, but rich in calcium carbonate, magnesium, potash, and lime.\n\n💡 RANKER'S MEMORY LOCK: Black Soil / Vertisol Mineralogy → Montmorillonite (2:1 expanding clay); High CEC & water retentivity; Deficient in N, P, Humus; Rich in Lime, Mg, Potash.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing that montmorillonite mineralogy and high CEC are twin foundational facts for Vertisols."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted Statement 3. Tropical Indian soils, including black soils, are universally deficient in nitrogen, phosphorus, and humus."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed standard NCERT and ICAR definitions of Regur soil."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Black/Regur Soil Characteristics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_094",
+      "questionStem": "Consider the following statements regarding Black Soils (Regur / Vertisols) of India:\n1. The characteristic high plasticity and swelling-shrinking property of black soil are primarily attributed to the presence of 2:1 lattice clay minerals of the montmorillonite group.\n2. These soils exhibit high cation exchange capacity (CEC) and remarkable moisture retentivity, enabling dryland crops to sustain extended rainless periods.\n3. They are chemically rich in nitrogen, phosphorus, and organic matter, but typically deficient in potash, calcium, and magnesium.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_094",
+      "evidenceText": "Statements 1 and 2 are correct: Black soils are dominated by montmorillonite (a 2:1 expanding crystal lattice clay mineral) which swells upon wetting and cracks deeply upon drying (self-ploughing). Ve",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Vertisols mineralogy and nutrient status",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_094",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_095",
+    "stem": "Consider the following statements:\nStatement-I: Laterite soils undergo intense desilication, resulting in residual concentrations of hydrated sesquioxides of iron and aluminium.\nStatement-II: Under high tropical temperatures combined with alternate wet and dry spells, silica is leached downwards while rapid bacterial action destroys organic matter.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II directly explains Statement-I. Laterization in humid tropical climates involves intense leaching of silica and soluble bases (desilication) under alternating wet and dry seasons. The insoluble residues left behind are hydrated sesquioxides of iron and aluminium. High temperatures promote thermophilic bacterial decomposition that rapidly burns off organic matter, leaving the soil humus-poor.\n\n💡 RANKER'S MEMORY LOCK: Laterite Soil Genesis → High temperature + alternating wet/dry seasons → Desilication (silica leached) + residual accumulation of Fe & Al sesquioxides (plinthite).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "You recognized both statements as true but failed to see that Statement-II describes the exact geochemical mechanism driving desilication."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You considered Statement-II incorrect, doubting the rapid microbial destruction of organic matter in tropical soils."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Examiner Camouflage Trap",
+        "dissection": "You failed to recognize desilication as the defining pedogenic process of laterite soils."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Laterite Soils and Leaching",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_095",
+      "questionStem": "Consider the following statements:\nStatement-I: Laterite soils undergo intense desilication, resulting in residual concentrations of hydrated sesquioxides of iron and aluminium.\nStatement-II: Under high tropical temperatures combined with alternate wet and dry spells, silica is leached downwards while rapid bacterial action destroys organic matter.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_095",
+      "evidenceText": "Both Statement-I and Statement-II are correct, and Statement-II directly explains Statement-I. Laterization in humid tropical climates involves intense leaching of silica and soluble bases (desilicati",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Laterite desilication and sesquioxide accumulation",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_095",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_096",
+    "stem": "Consider the following statements regarding the Red and Yellow soils of India:\n1. They develop on crystalline igneous rocks like granite and gneiss in regions of low to moderate rainfall on the eastern and southern parts of the Deccan Plateau.\n2. The reddish colour is imparted by ferric oxides occurring in oxidized and diffused form, whereas the soil appears yellow when these oxides occur in a hydrated form.\n3. The upper horizon of red soil is usually coarse-grained and sandy with poor moisture retention, while the lower horizons are finer-grained and more clayey.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct: 1. Red soils develop on Archaean crystalline igneous rocks (granite, gneiss) under low rainfall along the eastern and southern Deccan plateau. 2. The reddish tint is due to ferric oxides diffused in the soil matrix; it looks yellow when iron oxides occur in hydrated forms (e.g. limonite). 3. The top A-horizon is porous, gravelly, and coarse-grained with low moisture retention, while deeper illuvial B-horizons are finer-textured and clay-rich.\n\n💡 RANKER'S MEMORY LOCK: Red vs Yellow Soils Profile → Parent rock: Crystalline igneous (granite/gneiss); Red = ferric oxide diffusion; Yellow = hydrated iron oxides; Coarse topsoil over clayey subsoil.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted Statement 3, unaware of the morphological contrast between coarse surface layers and fine clayey subsoils in red soils."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Confusion Trap",
+        "dissection": "You doubted crystalline igneous parentage, confusing it with basaltic Deccan lavas."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You suspected an inversion between the red and yellow coloration mechanisms."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Red and Yellow Soils Characteristics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_096",
+      "questionStem": "Consider the following statements regarding the Red and Yellow soils of India:\n1. They develop on crystalline igneous rocks like granite and gneiss in regions of low to moderate rainfall on the eastern and southern parts of the Deccan Plateau.\n2. The reddish colour is imparted by ferric oxides occurring in oxidized and diffused form, whereas the soil appears yellow when these oxides occur in a hydrated form.\n3. The upper horizon of red soil is usually coarse-grained and sandy with poor moisture retention, while the lower horizons are finer-grained and more clayey.\nWhich of the statements given above are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_096",
+      "evidenceText": "All three statements are correct: 1. Red soils develop on Archaean crystalline igneous rocks (granite, gneiss) under low rainfall along the eastern and southern Deccan plateau. 2. The reddish tint is ",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Red and Yellow soil genesis and profile",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_096",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_097",
+    "stem": "With reference to Arid Soils in northwestern India, consider the following statements:\n1. The salt content in arid soils is often so high that common salt is obtained by evaporating the saline groundwater in certain areas.\n2. In the lower horizons of arid soils, the calcium content increases downward due to the progressive deposition of calcium carbonate layers known as 'kankar'.\n3. The impenetrable kankar layer prevents irrigation water from infiltrating deeper, thereby causing complete surface waterlogging in all irrigated arid tracts.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: In western Rajasthan, high aridity results in high soluble salts (salt is harvested from brine). Subsoil calcification forms a calcic horizon of kankar nodules that increases with depth. Statement 3 is incorrect: The kankar layer does restrict downward infiltration, but this restriction actually helps in retaining moisture in the root zone when controlled irrigation is applied (e.g. Indira Gandhi Canal), rather than causing universal, inevitable waterlogging everywhere.\n\n💡 RANKER'S MEMORY LOCK: Arid Soils & Kankar Horizon → High salts + low humus; Subsoil kankar (CaCO3) restricts percolation; Retains moisture in root zone under controlled canal irrigation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 1, doubting that common salt is harvested from saline groundwater basins in arid Rajasthan."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted the absolute qualifier 'in all irrigated arid tracts' in Statement 3."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You failed to detect the extreme over-generalization in Statement 3."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Arid Soils",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_097",
+      "questionStem": "With reference to Arid Soils in northwestern India, consider the following statements:\n1. The salt content in arid soils is often so high that common salt is obtained by evaporating the saline groundwater in certain areas.\n2. In the lower horizons of arid soils, the calcium content increases downward due to the progressive deposition of calcium carbonate layers known as 'kankar'.\n3. The impenetrable kankar layer prevents irrigation water from infiltrating deeper, thereby causing complete surface waterlogging in all irrigated arid tracts.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_097",
+      "evidenceText": "Statements 1 and 2 are correct: In western Rajasthan, high aridity results in high soluble salts (salt is harvested from brine). Subsoil calcification forms a calcic horizon of kankar nodules that inc",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Arid soils calcification and kankar pan",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_097",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_098",
+    "stem": "Consider the following statements regarding Saline and Alkaline Soils (Usar soils) in India:\n1. Saline soils are characterized by an electrical conductivity (EC) exceeding 4 dS/m, a pH generally below 8.5, and an exchangeable sodium percentage (ESP) of less than 15%.\n2. Alkaline (sodic) soils have an ESP greater than 15% and a pH above 8.5, causing severe soil dispersion, poor aeration, and low hydraulic conductivity.\n3. Gypsum (calcium sulphate dihydrate) is added to sodic soils to supply calcium ions that displace exchangeable sodium from the clay colloids.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct: 1. Saline soils (white alkali / Solonchak) have excess neutral soluble salts (chlorides/sulphates of Na, Ca, Mg), EC > 4 dS/m, ESP < 15%, pH < 8.5; clays remain flocculated. 2. Alkaline/sodic soils (black alkali / Solonetz) have ESP > 15% and pH > 8.5 due to sodium carbonate; excess exchangeable Na+ deflocculates clay colloids, destroying porosity and permeability. 3. Reclamation of sodic soils requires Gypsum (CaSO4·2H2O), where Ca2+ displaces Na+ from clay exchange sites: 2Na+-Clay + CaSO4 -> Ca2+-Clay + Na2SO4; the soluble Na2SO4 is then flushed out.\n\n💡 RANKER'S MEMORY LOCK: Saline vs Sodic Soils & Gypsum Reclamation → Saline: EC > 4, ESP < 15, pH < 8.5; Sodic: ESP > 15, pH > 8.5, dispersed clay; Gypsum supplies Ca2+ to replace exchangeable Na+.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing standard ICAR diagnostic criteria for saline and sodic soils."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You accepted two statements but doubted the chemical displacement role of Gypsum in sodic soils."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed technical pedological thresholds (EC > 4, ESP > 15, pH 8.5) as potential trickery."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Saline and Alkaline Soils",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_098",
+      "questionStem": "Consider the following statements regarding Saline and Alkaline Soils (Usar soils) in India:\n1. Saline soils are characterized by an electrical conductivity (EC) exceeding 4 dS/m, a pH generally below 8.5, and an exchangeable sodium percentage (ESP) of less than 15%.\n2. Alkaline (sodic) soils have an ESP greater than 15% and a pH above 8.5, causing severe soil dispersion, poor aeration, and low hydraulic conductivity.\n3. Gypsum (calcium sulphate dihydrate) is added to sodic soils to supply calcium ions that displace exchangeable sodium from the clay colloids.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_098",
+      "evidenceText": "All three statements are correct: 1. Saline soils (white alkali / Solonchak) have excess neutral soluble salts (chlorides/sulphates of Na, Ca, Mg), EC > 4 dS/m, ESP < 15%, pH < 8.5; clays remain flocc",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Saline vs Sodic soils and Gypsum reclamation",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_098",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_099",
+    "stem": "With reference to Peaty and Marshy Soils (Histosols) in India, consider the following statements:\n1. They develop in humid areas with high rainfall and high relative humidity, where waterlogging inhibits microbial decomposition of plant debris.\n2. The 'Kari' soils of Kottayam and Alappuzha districts in Kerala are peaty soils that can turn highly acidic upon drainage due to the oxidation of iron pyrites.\n3. These soils typically contain over 40-50 percent organic matter and are naturally well-supplied with readily available phosphorus and potash.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Anaerobic submerged conditions prevent complete humification, resulting in peat accumulation (Histosols). The Kari soils of Kuttanad in Kottayam and Alappuzha are acid sulphate peaty soils; upon drainage, oxidation of iron pyrites (FeS2) releases sulphuric acid, plunging pH below 3.5-4.0. Statement 3 is incorrect: Although rich in organic matter (40-50%), peaty soils in India are notoriously deficient in available phosphorus and potash.\n\n💡 RANKER'S MEMORY LOCK: Kari Soils of Kerala → Peaty Histosols; High organic matter (40-50%); Acid sulphate soils (pyrite oxidation drops pH < 4 upon drainage); Severely deficient in available Phosphate and Potash.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted Statement 3, assuming organic-rich soils must be rich in phosphorus and potash; peaty soils actually suffer acute phosphorus fixation."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 2, unaware of the famous Kari acid sulphate soils in Kerala."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "You accepted all statements without verifying nutrient availability in peaty soils."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Peaty and Marshy Soils",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_099",
+      "questionStem": "With reference to Peaty and Marshy Soils (Histosols) in India, consider the following statements:\n1. They develop in humid areas with high rainfall and high relative humidity, where waterlogging inhibits microbial decomposition of plant debris.\n2. The 'Kari' soils of Kottayam and Alappuzha districts in Kerala are peaty soils that can turn highly acidic upon drainage due to the oxidation of iron pyrites.\n3. These soils typically contain over 40-50 percent organic matter and are naturally well-supplied with readily available phosphorus and potash.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_099",
+      "evidenceText": "Statements 1 and 2 are correct: Anaerobic submerged conditions prevent complete humification, resulting in peat accumulation (Histosols). The Kari soils of Kuttanad in Kottayam and Alappuzha are acid ",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Peaty Kari soils of Kerala and acid sulphate dynamics",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_099",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_100",
+    "stem": "Consider the following statements regarding the Alluvial soils of the Indo-Gangetic Plains:\n1. Khadar represents the newer alluvium deposited on floodplains, characterized by finer silt-clay texture and regular annual replenishment.\n2. Bhangar represents the older alluvium situated above flood levels, characterized by higher clay content and subsoil calcareous nodules known as kankar.\n3. As one travels from west to east along the Indo-Gangetic Plain, the alluvial soils transition from pedocals (lime-rich) to pedalfers (leached of lime).\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct: 1. Khadar is young floodplain alluvium, porous and replenished annually by floods. 2. Bhangar is older terrace alluvium above current flood levels, more clayey, containing calcareous nodules (kankar). 3. Rainfall increases from west (~500 mm in Punjab) to east (>1500 mm in Bengal); hence western soils accumulate calcium carbonate (Pedocals), while eastern soils undergo intensive leaching of lime (Pedalfers).\n\n💡 RANKER'S MEMORY LOCK: Indo-Gangetic Alluvial Gradient → Khadar = young, porous, annually flooded; Bhangar = older, clayey terrace with kankar nodules; West to East = transition from Pedocals (lime-rich) to Pedalfers (lime-leached).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 3, unfamiliar with the climatic pedogenic transition from Pedocals to Pedalfers along the Gangetic axis."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Confusion Trap",
+        "dissection": "You doubted Statement 1, suspecting an inversion between Khadar and Bhangar definitions."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted Statement 2 regarding the older terrace origin and kankar presence in Bhangar."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Alluvial Soils",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_100",
+      "questionStem": "Consider the following statements regarding the Alluvial soils of the Indo-Gangetic Plains:\n1. Khadar represents the newer alluvium deposited on floodplains, characterized by finer silt-clay texture and regular annual replenishment.\n2. Bhangar represents the older alluvium situated above flood levels, characterized by higher clay content and subsoil calcareous nodules known as kankar.\n3. As one travels from west to east along the Indo-Gangetic Plain, the alluvial soils transition from pedocals (lime-rich) to pedalfers (leached of lime).\nWhich of the statements given above are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_100",
+      "evidenceText": "All three statements are correct: 1. Khadar is young floodplain alluvium, porous and replenished annually by floods. 2. Bhangar is older terrace alluvium above current flood levels, more clayey, conta",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Khadar vs Bhangar and Pedocal-Pedalfer transition",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_100",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_101",
+    "stem": "Consider the following statements regarding Forest and Mountain Soils of India:\n1. In the snow-bound high-altitude regions of the Himalayas, these soils suffer severe denudation and are acidic with very low humus content.\n2. Podzolic soils develop under coniferous forests in temperate Himalayan zones, characterized by a bleached, leached eluvial horizon.\n3. In the lower valleys and river terraces of the Himalayan region, these soils are coarse, immature, and completely infertile.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct: Snow-bound Himalayan elevations undergo mechanical denudation, leaving soils thin, acidic, and low in humus. Under temperate coniferous forests, needle litter produces acidic organic compounds that leach iron and aluminum from the upper mineral layer, forming podzols with a bleached eluvial horizon. Statement 3 is incorrect: In lower Himalayan valleys and terraces (e.g. Kashmir valley, Doons), soils are deep, loamy, fertile, and support intensive farming and horticulture.\n\n💡 RANKER'S MEMORY LOCK: Himalayan Mountain Soils Profile → Snowbound heights: denuded, acidic, low humus; Coniferous belt: podzolic with leached ash-grey horizon; Valley bottoms: deep, fertile, silty loams.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing that podzolization under coniferous stands is a standard physical geography phenomenon in temperate Himalayas."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted Statement 3 despite the extreme phrase 'completely infertile', contradicting the renowned fertility of Himalayan valley terraces."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You eliminated all statements, missing that Statement 1 is directly from NCERT Class XI Soils chapter."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Forest/Mountain soils",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_101",
+      "questionStem": "Consider the following statements regarding Forest and Mountain Soils of India:\n1. In the snow-bound high-altitude regions of the Himalayas, these soils suffer severe denudation and are acidic with very low humus content.\n2. Podzolic soils develop under coniferous forests in temperate Himalayan zones, characterized by a bleached, leached eluvial horizon.\n3. In the lower valleys and river terraces of the Himalayan region, these soils are coarse, immature, and completely infertile.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_101",
+      "evidenceText": "Statements 1 and 2 are correct: Snow-bound Himalayan elevations undergo mechanical denudation, leaving soils thin, acidic, and low in humus. Under temperate coniferous forests, needle litter produces ",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Mountain soils altitudinal profile and podzolization",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_101",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_102",
+    "stem": "Consider the following pairs of Soil Orders and their diagnostic pedogenic features in India:\n1. Vertisols: Presence of intersecting slickensides and deep desiccation cracks during dry seasons.\n2. Inceptisols: Highly weathered soils with prominent deep argillic horizons and complete absence of mineral reserves.\n3. Entisols: Immature mineral soils lacking distinct pedogenic genetic horizons, common on flood deposits and steep hillslopes.\n4. Alfisols: Mineral soils with an illuvial silicate clay accumulation (argillic horizon) and moderate to high base saturation.\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Pairs 1, 3, and 4 are correctly matched; Pair 2 is incorrectly matched: 1. Vertisols feature slickensides and wide shrink-swell cracks. 2. Inceptisols are soils showing the inception of horizon differentiation (cambic horizon), NOT highly weathered soils with absent mineral reserves (that describes Oxisols). 3. Entisols are young soils lacking genetic horizons, typical of active floodplains and steep slopes. 4. Alfisols have an argillic (illuvial clay) horizon and high base saturation (>=35%), characteristic of peninsular Red soils.\n\n💡 RANKER'S MEMORY LOCK: USDA Soil Orders Diagnostic Features → Entisols: No genetic horizons; Inceptisols: Inception of horizons (cambic); Vertisols: Slickensides & deep shrink-swell cracks; Alfisols: Argillic clay horizon with high base saturation (>35%).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You matched only one pair, overlooking that the definitions for Vertisols, Entisols, and Alfisols are standard global USDA/ICAR taxonomy definitions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You matched only two pairs, failing to recognize that Alfisols are defined precisely by an argillic horizon with high base saturation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all four pairs, failing to catch that Pair 2 defines Oxisols rather than Inceptisols."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "ICAR Soil Taxonomy",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_102",
+      "questionStem": "Consider the following pairs of Soil Orders and their diagnostic pedogenic features in India:\n1. Vertisols: Presence of intersecting slickensides and deep desiccation cracks during dry seasons.\n2. Inceptisols: Highly weathered soils with prominent deep argillic horizons and complete absence of mineral reserves.\n3. Entisols: Immature mineral soils lacking distinct pedogenic genetic horizons, common on flood deposits and steep hillslopes.\n4. Alfisols: Mineral soils with an illuvial silicate clay accumulation (argillic horizon) and moderate to high base saturation.\nHow many of the pairs given above are correctly matched?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_102",
+      "evidenceText": "Pairs 1, 3, and 4 are correctly matched; Pair 2 is incorrectly matched: 1. Vertisols feature slickensides and wide shrink-swell cracks. 2. Inceptisols are soils showing the inception of horizon differ",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Diagnostic horizons of USDA/ICAR Soil Orders",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_102",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_103",
+    "stem": "Which of the following represents the correct sequential progression of water erosion on an un-vegetated slope?",
+    "options": {
+      "opt_a": "Raindrop (Splash) erosion → Sheet erosion → Rill erosion → Gully erosion",
+      "opt_b": "Sheet erosion → Raindrop (Splash) erosion → Gully erosion → Rill erosion",
+      "opt_c": "Rill erosion → Raindrop (Splash) erosion → Sheet erosion → Gully erosion",
+      "opt_d": "Raindrop (Splash) erosion → Rill erosion → Sheet erosion → Gully erosion"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Water erosion progresses in four distinct physical stages: 1. Splash erosion: Kinetic energy of falling raindrops detaches soil particles and destroys surface aggregates. 2. Sheet erosion: Uniform thin removal of topsoil by overland sheet wash; insidious because it goes unnoticed by farmers until subsoil is exposed. 3. Rill erosion: Runoff concentrates into distinct finger-like micro-channels (rills) that can still be smoothed by normal tillage. 4. Gully erosion: Rills coalesce, deepen, and widen into permanent steep-sided incisions that divide the landscape into badland topography.\n\n💡 RANKER'S MEMORY LOCK: Water Erosion Sequence → Splash (raindrop impact) → Sheet (uniform thin layer) → Rill (micro-channels) → Gully (deep un-crossable ravines).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You placed Sheet erosion before Splash erosion, missing that raindrop impact is the initial physical detachment trigger."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Chronological Disorder Trap",
+        "dissection": "You placed Rill erosion first, which cannot form before raindrop impact and sheet wash generate concentrated runoff."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You placed Rill erosion before Sheet erosion, overlooking that sheet wash precedes channelized micro-rill flow."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Soil Degradation & Conservation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_103",
+      "questionStem": "Which of the following represents the correct sequential progression of water erosion on an un-vegetated slope?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_103",
+      "evidenceText": "Water erosion progresses in four distinct physical stages: 1. Splash erosion: Kinetic energy of falling raindrops detaches soil particles and destroys surface aggregates. 2. Sheet erosion: Uniform thi",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Sequential stages of water erosion",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_103",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_104",
+    "stem": "With reference to the extensive ravine formation and badland topography in the Chambal basin of Central India, consider the following statements:\n1. The deep alluvium of the semi-arid Chambal tract has high erodibility due to poor organic binding and loose loessic silt composition.\n2. Ravine formation in this basin is solely an anthropogenic phenomenon triggered by 20th-century deforestation and canal seepage.\n3. The rejuvenation of rivers associated with tectonic uplift of the northern peninsular foreland has accelerated vertical incision and headward gully erosion.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1 and 3 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 3 are correct: The Chambal ravines developed in thick Quaternary alluvial and loessic silt deposits that are friable and lack cohesion. Neotectonic uplift of the northern peninsular shield and base-level lowering rejuvenated the Chambal drainage system, driving vigorous vertical downcutting and headward gully extension. Statement 2 is incorrect: Ravine formation is not solely anthropogenic; ravines have existed geologically for thousands of years as natural badlands, though deforestation and overgrazing have severely aggravated their spread.\n\n💡 RANKER'S MEMORY LOCK: Chambal Badland Factors → Friable, thick alluvium + tectonic rejuvenation / base-level incision + semi-arid torrential monsoon downpours; Not solely anthropogenic.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted Statement 2 despite the absolute qualifier 'solely an anthropogenic phenomenon'; geomorphological research demonstrates deep natural palaeo-ravines existed historically."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Confusion Trap",
+        "dissection": "You omitted Statement 1, doubting the physical vulnerability of loose alluvial silt to gully formation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements without rejecting the absolute qualifier in Statement 2."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Regional Soil Degradation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_104",
+      "questionStem": "With reference to the extensive ravine formation and badland topography in the Chambal basin of Central India, consider the following statements:\n1. The deep alluvium of the semi-arid Chambal tract has high erodibility due to poor organic binding and loose loessic silt composition.\n2. Ravine formation in this basin is solely an anthropogenic phenomenon triggered by 20th-century deforestation and canal seepage.\n3. The rejuvenation of rivers associated with tectonic uplift of the northern peninsular foreland has accelerated vertical incision and headward gully erosion.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_104",
+      "evidenceText": "Statements 1 and 3 are correct: The Chambal ravines developed in thick Quaternary alluvial and loessic silt deposits that are friable and lack cohesion. Neotectonic uplift of the northern peninsular s",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Ravines of Chambal and badland geomorphology",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_104",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_105",
+    "stem": "Consider the following statements regarding mechanical soil conservation measures:\n1. Contour bunding is recommended for areas with low rainfall (less than 600 mm) and mild slopes (up to 6%) to conserve in-situ moisture.\n2. Graded bunding is preferred in high-rainfall zones and impermeable soils to safely convey surplus runoff into grassed waterways.\n3. Bench terracing is implemented on steep slopes (16% to 33% or more) by cutting and filling to transform the gradient into flat cultivating steps.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct engineering guidelines: 1. Contour bunding: Constructed strictly on the contour in low-rainfall zones (<700-800 mm) on slopes up to 6% with permeable soils to intercept and store rainwater for crop root uptake. 2. Graded bunding: Built with a precise longitudinal gradient (0.1-0.3%) in high-rainfall areas (>800 mm) or clayey soils where ponding would cause waterlogging; surplus runoff is safely discharged into waterways. 3. Bench terracing: Used on steep hill slopes (16-33% or steeper) to convert steep slopes into a flight of level steps, controlling runoff velocity.\n\n💡 RANKER'S MEMORY LOCK: Bunding vs Terracing Design Criteria → Contour bund = dry/low rainfall (<6% slope); Graded bund = high rainfall/drainage; Bench terrace = steep hills (16-33%+).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing standard agricultural engineering thresholds."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You accepted two statements but doubted the technical slope limits for bench terracing."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You rejected valid engineering principles as potential distractors."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Soil Conservation Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_105",
+      "questionStem": "Consider the following statements regarding mechanical soil conservation measures:\n1. Contour bunding is recommended for areas with low rainfall (less than 600 mm) and mild slopes (up to 6%) to conserve in-situ moisture.\n2. Graded bunding is preferred in high-rainfall zones and impermeable soils to safely convey surplus runoff into grassed waterways.\n3. Bench terracing is implemented on steep slopes (16% to 33% or more) by cutting and filling to transform the gradient into flat cultivating steps.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_105",
+      "evidenceText": "All three statements are correct engineering guidelines: 1. Contour bunding: Constructed strictly on the contour in low-rainfall zones (<700-800 mm) on slopes up to 6% with permeable soils to intercep",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Contour bunding, graded bunding, and bench terracing",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_105",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_106",
+    "stem": "With reference to 'Shelterbelts' and 'Windbreaks' deployed for soil conservation in arid and semi-arid tracts of India, consider the following statements:\n1. Shelterbelts are linear strips of trees and shrubs established perpendicular to the prevailing direction of erosive winds.\n2. A shelterbelt can significantly reduce wind velocity over a distance of up to 20 to 30 times the height of the trees on the leeward side.\n3. Dense, completely impenetrable vegetation walls are preferred over moderately porous shelterbelts because solid barriers eliminate turbulence on the leeward side.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Shelterbelts are oriented perpendicular to prevailing erosive summer winds. Leeward protection extends downwind to a distance of 20 to 30 times the height (H) of the barrier. Statement 3 is incorrect: A completely solid, impenetrable barrier creates a strong low-pressure eddy on the leeward side, causing violent turbulence and accelerated soil erosion right behind the barrier. Aerodynamically, a moderately porous barrier (40-50% optical porosity) allows air to filter through smoothly, providing a much larger and more stable sheltered zone.\n\n💡 RANKER'S MEMORY LOCK: Shelterbelt Aerodynamics → Oriented perpendicular to erosive wind; 40-50% porosity is superior to solid walls (avoids turbulent eddies); Protects 20-30x tree height downwind.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You accepted Statement 3, missing the aerodynamic principle that dense solid walls induce severe leeward turbulence."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 2, doubting the extent of leeward wind reduction (20-30H)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements without verifying the aerodynamic drawback of impenetrable windbreaks."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Soil Conservation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_106",
+      "questionStem": "With reference to 'Shelterbelts' and 'Windbreaks' deployed for soil conservation in arid and semi-arid tracts of India, consider the following statements:\n1. Shelterbelts are linear strips of trees and shrubs established perpendicular to the prevailing direction of erosive winds.\n2. A shelterbelt can significantly reduce wind velocity over a distance of up to 20 to 30 times the height of the trees on the leeward side.\n3. Dense, completely impenetrable vegetation walls are preferred over moderately porous shelterbelts because solid barriers eliminate turbulence on the leeward side.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_106",
+      "evidenceText": "Statements 1 and 2 are correct: Shelterbelts are oriented perpendicular to prevailing erosive summer winds. Leeward protection extends downwind to a distance of 20 to 30 times the height (H) of the ba",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Shelterbelts and windbreak aerodynamics",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_106",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_107",
+    "stem": "Consider the following statements regarding agronomic practices for soil and moisture conservation:\n1. Mulching cushions the direct kinetic impact of raindrops, thereby preventing the detachment of soil particles and surface crust formation.\n2. Stubble mulching involves leaving crop residues on the surface during fallow periods, which significantly suppresses wind and water erosion while conserving soil moisture.\n3. Cover cropping using deep-rooted legumes suppresses weed competition but invariably depletes soil organic matter due to accelerated transpiration.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Mulching (organic or plastic) absorbs the kinetic energy of raindrops, preventing particle detachment, pore clogging, and surface soil crusting, while drastically reducing soil water evaporation. Stubble mulching leaves stubble residues standing or flattened across fallow fields, buffering the soil against wind shear and runoff scour. Statement 3 is incorrect: Leguminous cover crops add substantial root and shoot biomass, boosting soil organic carbon and fixing atmospheric nitrogen; they do not deplete soil organic matter.\n\n💡 RANKER'S MEMORY LOCK: Agronomic Soil Conservation → Mulching cushions raindrop splash & prevents crusting; Stubble mulching shields fallow soils from wind/water; Cover crops enrich organic matter & nitrogen.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted Statement 3 despite the phrase 'invariably depletes soil organic matter', ignoring the proven soil-enriching role of legumes."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted Statement 2, doubting the definition and conservation value of stubble mulching."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "You accepted all three statements uncritically."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Soil Conservation Techniques",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_107",
+      "questionStem": "Consider the following statements regarding agronomic practices for soil and moisture conservation:\n1. Mulching cushions the direct kinetic impact of raindrops, thereby preventing the detachment of soil particles and surface crust formation.\n2. Stubble mulching involves leaving crop residues on the surface during fallow periods, which significantly suppresses wind and water erosion while conserving soil moisture.\n3. Cover cropping using deep-rooted legumes suppresses weed competition but invariably depletes soil organic matter due to accelerated transpiration.\nWhich of the statements given above are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_107",
+      "evidenceText": "Statements 1 and 2 are correct: Mulching (organic or plastic) absorbs the kinetic energy of raindrops, preventing particle detachment, pore clogging, and surface soil crusting, while drastically reduc",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Mulching, stubble mulching, and cover crops",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_107",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_108",
+    "stem": "Consider the following statements:\nStatement-I: Intensive canal irrigation in the semi-arid alluvial plains of southwestern Punjab and Haryana has converted thousands of hectares of fertile land into saline and waterlogged wastelands.\nStatement-II: In the absence of sub-surface artificial drainage, intensive irrigation leads to a rising water table, enabling capillary action to draw dissolved salts to the surface where they precipitate upon evaporation.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. Southwestern Punjab and parts of Haryana are situated in a semi-arid depression with poor natural sub-surface drainage. Perennial canal irrigation without sub-surface drainage elevated the water table to within 1-2 meters of the surface. Capillary rise under strong evaporative demand draws dissolved salts upward, depositing a white saline crust (Reh/Thur/Kallar) on topsoil.\n\n💡 RANKER'S MEMORY LOCK: Canal-Induced Salinization → Lack of drainage + rising water table + capillary rise under high evaporation = white alkali (Reh/Kallar) deposition.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "You recognized both statements as true but failed to see that capillary salt precipitation is the exact physical mechanism driving canal-induced land degradation."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Physical Process Trap",
+        "dissection": "You doubted the capillary action mechanism in semi-arid alluvial plains."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Regional Denial Trap",
+        "dissection": "You rejected Statement-I despite massive documentation of salinity in Punjab and Haryana canal commands."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Soil Salinization",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_108",
+      "questionStem": "Consider the following statements:\nStatement-I: Intensive canal irrigation in the semi-arid alluvial plains of southwestern Punjab and Haryana has converted thousands of hectares of fertile land into saline and waterlogged wastelands.\nStatement-II: In the absence of sub-surface artificial drainage, intensive irrigation leads to a rising water table, enabling capillary action to draw dissolved salts to the surface where they precipitate upon evaporation.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_108",
+      "evidenceText": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. Southwestern Punjab and parts of Haryana are situated in a semi-arid depression with poor natural sub-surface d",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Secondary salinization in canal command areas",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_108",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_109",
+    "stem": "Consider the following pairs of soil conservation measures and their primary engineering or agronomic mechanisms:\n1. Gabion Structures: Flexible wire-mesh boxes filled with stones placed across gullies to dissipate torrent energy and retain sediment while allowing water to filter through.\n2. Check Dams: Temporary or permanent low barriers built across drainage lines to reduce runoff velocity and promote silt deposition.\n3. Strip Cropping: Cultivating erosion-permitting crops and erosion-resisting cover crops in alternating narrow strips across the contour.\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three pairs are correctly matched: 1. Gabion structures: Rock-filled wire-mesh crates placed across active torrents to absorb kinetic energy, prevent channel deepening, and trap fertile sediment while draining water. 2. Check dams: Small barrier structures built across gullies to decrease channel slope gradient, reduce velocity, trap sediment, and enhance recharge. 3. Strip cropping: Growing alternating strips of erosion-permitting row crops and erosion-resisting dense cover crops across the slope.\n\n💡 RANKER'S MEMORY LOCK: Soil Conservation Mechanisms → Gabions filter water & trap silt; Check dams flatten hydraulic gradient; Strip cropping pairs erosion-permitting with dense erosion-resisting crops.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You matched only one pair, overlooking that all three definitions are standard textbook agronomic/engineering practices."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You matched only two pairs, doubting either the function of gabions or strip cropping."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You assumed at least one pair must be mismatched."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Soil Conservation Practices",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_109",
+      "questionStem": "Consider the following pairs of soil conservation measures and their primary engineering or agronomic mechanisms:\n1. Gabion Structures: Flexible wire-mesh boxes filled with stones placed across gullies to dissipate torrent energy and retain sediment while allowing water to filter through.\n2. Check Dams: Temporary or permanent low barriers built across drainage lines to reduce runoff velocity and promote silt deposition.\n3. Strip Cropping: Cultivating erosion-permitting crops and erosion-resisting cover crops in alternating narrow strips across the contour.\nHow many of the pairs given above are correctly matched?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_109",
+      "evidenceText": "All three pairs are correctly matched: 1. Gabion structures: Rock-filled wire-mesh crates placed across active torrents to absorb kinetic energy, prevent channel deepening, and trap fertile sediment w",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Gabions, check dams, and strip cropping mechanisms",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_109",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_110",
+    "stem": "According to the Desertification and Land Degradation Atlas of India published by the Space Applications Centre (ISRO), which of the following is the single largest contributing process to land degradation in the country?",
+    "options": {
+      "opt_a": "Wind erosion",
+      "opt_b": "Water erosion",
+      "opt_c": "Vegetation degradation",
+      "opt_d": "Salinization and alkalinization"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "According to the Desertification and Land Degradation Atlas of India published by the Space Applications Centre (SAC/ISRO), Water Erosion is the single largest contributor to land degradation in India, accounting for roughly 11.01% of the total geographical area (representing over 30% of all degraded land). Vegetation degradation ranks second (~9.15%), followed by Wind Erosion (~5.46%, primarily in Rajasthan and Gujarat), and Salinity/Alkalinity (~1.10%).\n\n💡 RANKER'S MEMORY LOCK: SAC/ISRO Land Degradation Ranking → Water Erosion (largest driver, ~11.0% TGA) > Vegetation Degradation (~9.2% TGA) > Wind Erosion (~5.5% TGA) > Salinity/Alkalinity (~1.1% TGA).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Aridity Bias Trap",
+        "dissection": "You selected Wind erosion, overestimating the spatial extent of the Thar desert compared to the nationwide impact of monsoon sheet and gully erosion."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Ecosystem Disturbance Trap",
+        "dissection": "You selected Vegetation degradation, which is the second largest driver (~9.15% TGA) but smaller than water erosion (~11.01% TGA)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Agricultural Trap",
+        "dissection": "You selected Salinization, which occupies a localized extent (~1.1% TGA) despite its severe local agricultural impact."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Land Degradation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_110",
+      "questionStem": "According to the Desertification and Land Degradation Atlas of India published by the Space Applications Centre (ISRO), which of the following is the single largest contributing process to land degradation in the country?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_110",
+      "evidenceText": "According to the Desertification and Land Degradation Atlas of India published by the Space Applications Centre (SAC/ISRO), Water Erosion is the single largest contributor to land degradation in India",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "ISRO/SAC Land Degradation Atlas process rankings",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_110",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_111",
+    "stem": "With reference to the Champion and Seth (1968) Forest Classification of India, consider the following statements:\n1. It classifies Indian forests into 16 major Forest Types categorized under 5 broad Forest Type Groups.\n2. The classification relies primarily on climatic parameters (temperature and rainfall), physiognomy, phenology, and floristic composition.\n3. Tropical Dry Deciduous Forest is the most widespread major forest type group in India, covering the largest percentage of total forest cover.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Champion and Seth revised survey (1968) established 16 major forest types grouped under 5 broad categories (Tropical, Montane Subtropical, Montane Temperate, Sub-Alpine, and Alpine), classified primarily by climatic variables, physiognomic structure, phenological dynamics, and diagnostic floristic indicators. Statement 3 is incorrect: Tropical Moist Deciduous Forest (Group 3) historically accounts for the largest proportion of India forest cover (~37%), followed by Tropical Dry Deciduous Forest (Group 5, ~28%). Together deciduous forests comprise over 65% of India total forest cover.\n\n💡 RANKER'S MEMORY LOCK: Champion & Seth Framework → 16 Major Forest Types in 5 Broad Groups; Based on climate, phenology, and floristics; Tropical Moist Deciduous is the largest individual group (~37%).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You accepted Statement 3, inverting the relative coverage of Tropical Moist Deciduous (~37%) and Tropical Dry Deciduous (~28%)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted Statement 2, doubting the parameters used by Champion and Seth."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements without verifying the dominant forest group statistic."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Champion & Seth classification",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_111",
+      "questionStem": "With reference to the Champion and Seth (1968) Forest Classification of India, consider the following statements:\n1. It classifies Indian forests into 16 major Forest Types categorized under 5 broad Forest Type Groups.\n2. The classification relies primarily on climatic parameters (temperature and rainfall), physiognomy, phenology, and floristic composition.\n3. Tropical Dry Deciduous Forest is the most widespread major forest type group in India, covering the largest percentage of total forest cover.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_111",
+      "evidenceText": "Statements 1 and 2 are correct: Champion and Seth revised survey (1968) established 16 major forest types grouped under 5 broad categories (Tropical, Montane Subtropical, Montane Temperate, Sub-Alpine",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Champion & Seth 1968 classification criteria and forest groups",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_111",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_112",
+    "stem": "Consider the following statements regarding Tropical Evergreen and Semi-Evergreen Forests of India:\n1. Tropical wet evergreen forests are characterized by a multi-tiered canopy exceeding 45 meters, buttressed tree trunks, cauliflory, and an absence of a synchronized leaf-shedding season.\n2. Tropical semi-evergreen forests represent a transitional formation between wet evergreen and moist deciduous forests, found in regions of slightly lower rainfall.\n3. White cedar, Hollock, and Kail are common diagnostic tree species of Tropical Semi-Evergreen forests in the northeastern region.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct: 1. Tropical Wet Evergreen forests (rainfall >250 cm, warm and humid) feature tall emergents (>45-60 m), extensive plank buttressing, cauliflory (flowers/fruits developing directly from trunks and large branches), dense lianas/epiphytes, and staggered leaf shedding that maintains year-round greenness. 2. Semi-evergreen forests occupy rainfall zones between 200 and 250 cm as an ecotonal transition containing a mix of evergreen and deciduous species. 3. NCERT Class XI explicitly cites White Cedar, Hollock, and Kail as typical diagnostic tree species of the Semi-Evergreen forests of Assam and the northeastern hill tracts.\n\n💡 RANKER'S MEMORY LOCK: Tropical Wet vs Semi-Evergreen Forests → Tall multi-tiered canopy + plank buttresses + cauliflory; Semi-evergreen is the transitional ecotone; White cedar, Hollock & Kail are diagnostic semi-evergreen species.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing that cauliflory and buttressing are diagnostic morphological adaptations of wet evergreen forests."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You accepted two statements but doubted the specific northeastern tree species cited in NCERT."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed verified botanical traits of evergreen forests."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Tropical Evergreen and Semi-Evergreen Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_112",
+      "questionStem": "Consider the following statements regarding Tropical Evergreen and Semi-Evergreen Forests of India:\n1. Tropical wet evergreen forests are characterized by a multi-tiered canopy exceeding 45 meters, buttressed tree trunks, cauliflory, and an absence of a synchronized leaf-shedding season.\n2. Tropical semi-evergreen forests represent a transitional formation between wet evergreen and moist deciduous forests, found in regions of slightly lower rainfall.\n3. White cedar, Hollock, and Kail are common diagnostic tree species of Tropical Semi-Evergreen forests in the northeastern region.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_112",
+      "evidenceText": "All three statements are correct: 1. Tropical Wet Evergreen forests (rainfall >250 cm, warm and humid) feature tall emergents (>45-60 m), extensive plank buttressing, cauliflory (flowers/fruits develo",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Evergreen adaptations, cauliflory, and semi-evergreen transition",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_112",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_113",
+    "stem": "Consider the following statements:\nStatement-I: In Tropical Dry Deciduous forests, trees completely shed their leaves at the onset of the dry summer season, giving the forest the appearance of an open parkland.\nStatement-II: Tropical Dry Deciduous forests occur in zones receiving annual rainfall between 70 cm and 100 cm, where the severe dry season induces physiological drought.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. Tropical Dry Deciduous forests occupy zones receiving 70-100 cm of annual precipitation. During the prolonged rainless summer months, atmospheric evaporative demand is high while soil moisture is depleted, causing severe physiological drought. To minimize transpiration, virtually all dominant trees synchronously shed their leaves for 6-8 weeks, leaving open bare canopies and grass undergrowth resembling a parkland.\n\n💡 RANKER'S MEMORY LOCK: Dry Deciduous Parkland Phenology → 70-100 cm rainfall; complete synchronized leaf drop in summer avoids physiological drought; forms open parkland landscape.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "You recognized both statements as true but failed to see that summer moisture stress in the 70-100 cm zone is the direct cause of the synchronized leaf fall."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Rainfall Bracket Trap",
+        "dissection": "You doubted the 70-100 cm precipitation bracket for Tropical Dry Deciduous forests."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Phenology Denial Trap",
+        "dissection": "You doubted the parkland appearance of dry deciduous forests during summer."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Tropical Deciduous Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_113",
+      "questionStem": "Consider the following statements:\nStatement-I: In Tropical Dry Deciduous forests, trees completely shed their leaves at the onset of the dry summer season, giving the forest the appearance of an open parkland.\nStatement-II: Tropical Dry Deciduous forests occur in zones receiving annual rainfall between 70 cm and 100 cm, where the severe dry season induces physiological drought.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_113",
+      "evidenceText": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. Tropical Dry Deciduous forests occupy zones receiving 70-100 cm of annual precipitation. During the prolonged r",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Dry deciduous phenology and parkland landscape",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_113",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_114",
+    "stem": "With reference to Tropical Thorn Forests in India, consider the following statements:\n1. They are distributed in semi-arid tracts receiving less than 70 cm of annual rainfall, including parts of Rajasthan, Gujarat, southwestern Punjab, and the rain-shadow of the Western Ghats.\n2. Plants in these forests exhibit xerophytic adaptations such as deep tap roots, sunken stomata, thick waxy cuticles, and reduction of leaves into spines.\n3. Khejri (Prosopis cineraria), an endemic keystone tree of the Thar desert thorn forests, is a phreatophyte that accesses deep groundwater tables.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct: 1. Tropical thorn forests occur where annual rainfall is below 70 cm, spread across northwestern India and the interior leeward Deccan plateau rain-shadow. 2. Severe water stress drives xeromorphic adaptations: thick cuticles, sunken stomata, leaves reduced to spines or scales (Acacia, Euphorbia, Ziziphus) to curb transpiration. 3. Prosopis cineraria (Khejri) is a classic phreatophyte whose root systems penetrate 15-30+ meters into deep subterranean aquifers, sustaining desert livestock and agroforestry.\n\n💡 RANKER'S MEMORY LOCK: Thorn Forest Adaptations → Sunken stomata, spiny reduction, phreatophytic deep taproots (Khejri / Prosopis cineraria); <70 cm rainfall.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted Statement 3, unaware of the phreatophytic deep-rooting biology of Khejri in the Thar desert."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Confusion Trap",
+        "dissection": "You omitted Statement 1, doubting the rainfall threshold or the presence of thorn forests in the Western Ghats rain shadow."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted xerophytic anatomical features like sunken stomata."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Tropical Thorn Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_114",
+      "questionStem": "With reference to Tropical Thorn Forests in India, consider the following statements:\n1. They are distributed in semi-arid tracts receiving less than 70 cm of annual rainfall, including parts of Rajasthan, Gujarat, southwestern Punjab, and the rain-shadow of the Western Ghats.\n2. Plants in these forests exhibit xerophytic adaptations such as deep tap roots, sunken stomata, thick waxy cuticles, and reduction of leaves into spines.\n3. Khejri (Prosopis cineraria), an endemic keystone tree of the Thar desert thorn forests, is a phreatophyte that accesses deep groundwater tables.\nWhich of the statements given above are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_114",
+      "evidenceText": "All three statements are correct: 1. Tropical thorn forests occur where annual rainfall is below 70 cm, spread across northwestern India and the interior leeward Deccan plateau rain-shadow. 2. Severe ",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Xerophytic adaptations and phreatophytes in thorn forests",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_114",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_115",
+    "stem": "Consider the following pairs of commercial tree species and their primary natural forest types in India:\n1. Rosewood (Dalbergia latifolia): Tropical Wet Evergreen Forest\n2. Sandalwood (Santalum album): Tropical Moist Deciduous Forest\n3. Tendu (Diospyros melanoxylon): Tropical Dry Deciduous Forest\n4. Deodar (Cedrus deodara): Montane Moist Temperate Forest\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched: 1. Rosewood (Dalbergia latifolia) is a prized timber tree characteristic of Tropical Wet Evergreen and Semi-Evergreen forests of the Western Ghats. 2. Sandalwood (Santalum album) is native to Tropical Moist Deciduous forests of southern India (Karnataka, Tamil Nadu, Kerala). 3. Tendu (Diospyros melanoxylon) is an abundant understorey tree of Tropical Dry Deciduous forests of central India. 4. Deodar (Cedrus deodara) is the majestic conifer forming extensive pure stands in the Western Himalayan Moist Temperate forests at 1500-2500 m.\n\n💡 RANKER'S MEMORY LOCK: Forest Species Matrix → Rosewood = Wet Evergreen; Sandalwood = Moist Deciduous; Tendu = Dry Deciduous; Deodar = Moist Temperate Conifer.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You matched only one pair, under-detecting standard NCERT botanical associations."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You matched only two pairs, doubting whether Sandalwood belongs to Moist Deciduous or Evergreen."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You assumed at least one pair was mismatched, missing that all four represent textbook associations."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Timber Species Distribution",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_115",
+      "questionStem": "Consider the following pairs of commercial tree species and their primary natural forest types in India:\n1. Rosewood (Dalbergia latifolia): Tropical Wet Evergreen Forest\n2. Sandalwood (Santalum album): Tropical Moist Deciduous Forest\n3. Tendu (Diospyros melanoxylon): Tropical Dry Deciduous Forest\n4. Deodar (Cedrus deodara): Montane Moist Temperate Forest\nHow many of the pairs given above are correctly matched?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_115",
+      "evidenceText": "All four pairs are correctly matched: 1. Rosewood (Dalbergia latifolia) is a prized timber tree characteristic of Tropical Wet Evergreen and Semi-Evergreen forests of the Western Ghats. 2. Sandalwood ",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Commercial timber species matching with forest types",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_115",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_116",
+    "stem": "Consider the following characteristics of a specific forest formation in India:\n- It occurs in inner Himalayan valleys where the southwest monsoon fails to penetrate and annual rainfall is exceptionally low.\n- Most of the annual precipitation falls as winter snow.\n- The dominant vegetation consists of open coniferous forests dominated by Chilgoza pine (Pinus gerardiana) and Juniper (Juniperus macropoda).\nWhich of the following forest types is described above?",
+    "options": {
+      "opt_a": "Subtropical Pine Forest",
+      "opt_b": "Himalayan Moist Temperate Forest",
+      "opt_c": "Himalayan Dry Temperate Forest",
+      "opt_d": "Subalpine Coniferous Scrub"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "This describes the Himalayan Dry Temperate Forest (Champion & Seth Type 13). It is confined to the inner arid valleys of the Himalayas (Kinnaur, Lahaul-Spiti, Pangi in Himachal Pradesh, parts of Ladakh and Kashmir) shielded from the summer monsoon. Annual precipitation is sparse, mostly delivered as winter snow. The diagnostic tree species is the Chilgoza pine (Pinus gerardiana, famous for edible pine nuts) and dry-tolerant junipers.\n\n💡 RANKER'S MEMORY LOCK: Himalayan Dry Temperate Indicator → Inner dry valleys with winter snowfall; diagnostic indicator is Chilgoza Pine (Pinus gerardiana) & Juniper.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Elevation Trap",
+        "dissection": "You chose Subtropical Pine Forest, which is dominated by Chir Pine (Pinus roxburghii) at lower elevations (1000-2000 m) with heavy monsoon rain."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Moisture Trap",
+        "dissection": "You chose Moist Temperate Forest, which receives abundant monsoon rain and is dominated by Deodar, Oaks, and Blue Pine."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Vegetation Structure Trap",
+        "dissection": "You chose Subalpine Coniferous Scrub, which occurs near the treeline (3000-3500 m) dominated by Silver fir and Rhododendron."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Coniferous Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_116",
+      "questionStem": "Consider the following characteristics of a specific forest formation in India:\n- It occurs in inner Himalayan valleys where the southwest monsoon fails to penetrate and annual rainfall is exceptionally low.\n- Most of the annual precipitation falls as winter snow.\n- The dominant vegetation consists of open coniferous forests dominated by Chilgoza pine (Pinus gerardiana) and Juniper (Juniperus macropoda).\nWhich of the following forest types is described above?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_116",
+      "evidenceText": "This describes the Himalayan Dry Temperate Forest (Champion & Seth Type 13). It is confined to the inner arid valleys of the Himalayas (Kinnaur, Lahaul-Spiti, Pangi in Himachal Pradesh, parts of Ladak",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Himalayan Dry Temperate Forest and Chilgoza pine",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_116",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_117",
+    "stem": "With reference to the 'Myristica Swamps' found in India, consider the following statements:\n1. They are freshwater swamp forest ecosystems dominated by primitive evergreen angiosperms of the nutmeg family (Myristicaceae).\n2. They are characterized by waterlogged soils where trees possess specialized breathing roots (pneumatophores / knee roots) and stilt roots.\n3. In India, they are predominantly distributed in the floodplains of the Brahmaputra valley in Assam.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: Myristica swamps are ancient freshwater swamp forests dominated by primitive trees of the nutmeg family (Myristicaceae, such as Myristica fatua var. magnifica and Gymnacranthera canarica). Because the substrate is inundated and anoxic year-round, these trees have evolved knee roots (pneumatophores) for aeration and extensive stilt/loop roots for mechanical support. Statement 3 is incorrect: Myristica swamps are endemic to the Western Ghats (specifically found in southern Western Ghats of Kerala, Karnataka, and southern Maharashtra), NOT the Brahmaputra valley of Assam.\n\n💡 RANKER'S MEMORY LOCK: Myristica Swamps → Endemic to Western Ghats; Freshwater swamps of Myristicaceae; feature stilt roots & knee pneumatophores; Absent in Assam.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Confusion Trap",
+        "dissection": "You accepted Statement 3, incorrectly associating freshwater swamps with the floodplains of Assam rather than the specialized Western Ghats valley swamps."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted Statement 2, unaware that freshwater swamp trees also develop stilt and knee roots similar to coastal mangroves."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements without verifying the strict geographic endemism of Myristica swamps."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Littoral and Swamp Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_117",
+      "questionStem": "With reference to the 'Myristica Swamps' found in India, consider the following statements:\n1. They are freshwater swamp forest ecosystems dominated by primitive evergreen angiosperms of the nutmeg family (Myristicaceae).\n2. They are characterized by waterlogged soils where trees possess specialized breathing roots (pneumatophores / knee roots) and stilt roots.\n3. In India, they are predominantly distributed in the floodplains of the Brahmaputra valley in Assam.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_117",
+      "evidenceText": "Statements 1 and 2 are correct: Myristica swamps are ancient freshwater swamp forests dominated by primitive trees of the nutmeg family (Myristicaceae, such as Myristica fatua var. magnifica and Gymna",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Myristica swamps ecology and Western Ghats endemism",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_117",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_118",
+    "stem": "Consider the following statements comparing Tropical Wet Evergreen and Tropical Moist Deciduous forests:\n1. Tropical wet evergreen forests display a multi-layered vertical structure with an emergent layer reaching up to 60 meters, an enclosed canopy, and an understorey of shade-tolerant shrubs and epiphytes.\n2. In tropical wet evergreen forests, the ground layer is carpeted with dense, tall grasses because high humidity encourages rapid undergrowth regeneration.\n3. Tropical moist deciduous forests have a much more open canopy that permits sunlight to reach the forest floor, supporting a well-developed shrub and grass layer.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 3 are correct: Tropical wet evergreen forests have dense, multi-tiered canopies (emergents, continuous upper canopy, lower canopy, sub-canopy) that block sunlight almost completely from reaching the forest floor. Statement 2 is incorrect: Because the dense canopy blocks up to 98% of solar radiation, the forest floor in Tropical Wet Evergreen forests is characteristically dark, bare, and virtually devoid of tall grasses; instead, it is dominated by shade-loving ferns, fungi, and litter decomposers. Grasses require direct sunlight and are typical of open deciduous and savanna woodlands, not closed wet evergreen forests.\n\n💡 RANKER'S MEMORY LOCK: Evergreen Understorey Light Barrier → Dense canopy intercepts solar radiation; evergreen forest floor is dark with minimal grass, dominated by ferns and saprophytes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing that Statement 3 accurately describes the light permeability and grassy understorey of moist deciduous forests."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted Statement 2, assuming high humidity automatically creates tall grass cover on the evergreen forest floor."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You rejected all statements despite verified ecological stratification rules."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Forest Types and Species",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_118",
+      "questionStem": "Consider the following statements comparing Tropical Wet Evergreen and Tropical Moist Deciduous forests:\n1. Tropical wet evergreen forests display a multi-layered vertical structure with an emergent layer reaching up to 60 meters, an enclosed canopy, and an understorey of shade-tolerant shrubs and epiphytes.\n2. In tropical wet evergreen forests, the ground layer is carpeted with dense, tall grasses because high humidity encourages rapid undergrowth regeneration.\n3. Tropical moist deciduous forests have a much more open canopy that permits sunlight to reach the forest floor, supporting a well-developed shrub and grass layer.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_118",
+      "evidenceText": "Statements 1 and 3 are correct: Tropical wet evergreen forests have dense, multi-tiered canopies (emergents, continuous upper canopy, lower canopy, sub-canopy) that block sunlight almost completely fr",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Canopy stratification and understorey light penetration",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_118",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_119",
+    "stem": "With reference to the geographical distribution of Mangrove forests in India according to the India State of Forest Report (ISFR), consider the following statements:\n1. West Bengal accounts for more than forty percent of the country total mangrove cover.\n2. Gujarat has the second-largest mangrove cover among Indian States and Union Territories.\n3. Mangrove forests in India are confined entirely to the east coast and the Andaman and Nicobar Islands due to the absence of deltaic formations on the west coast.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: According to the India State of Forest Report (ISFR), West Bengal holds the largest mangrove cover (~42.3% of India total, Sundarbans), followed by Gujarat (~23.7%, in Gulf of Kachchh and Gulf of Khambhat), and Andaman & Nicobar Islands (~12.4%). Statement 3 is incorrect: Mangroves are not confined exclusively to the east coast and A&N Islands. The west coast has substantial mangrove formations, notably in Gujarat (Kachchh, Jamnagar), Maharashtra (Mumbai creeks, Raigad, Ratnagiri), Goa (Mandovi and Zuari estuaries), and Karnataka (Kumta, Honnavar).\n\n💡 RANKER'S MEMORY LOCK: Mangrove Distribution Rank → West Bengal (>42%) > Gujarat (~24%) > Andaman & Nicobar (~12%) > Andhra Pradesh (~8%); West coast has substantial mangroves.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted Statement 3 despite the absolute phrase 'confined entirely to the east coast', ignoring extensive west coast mangroves in Gujarat, Maharashtra, and Goa."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 2, unaware that arid Gujarat holds the second largest mangrove cover in India after West Bengal."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements without questioning the absolute exclusion of the west coast."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Mangrove Formations & Ecosystems",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_119",
+      "questionStem": "With reference to the geographical distribution of Mangrove forests in India according to the India State of Forest Report (ISFR), consider the following statements:\n1. West Bengal accounts for more than forty percent of the country total mangrove cover.\n2. Gujarat has the second-largest mangrove cover among Indian States and Union Territories.\n3. Mangrove forests in India are confined entirely to the east coast and the Andaman and Nicobar Islands due to the absence of deltaic formations on the west coast.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_119",
+      "evidenceText": "Statements 1 and 2 are correct: According to the India State of Forest Report (ISFR), West Bengal holds the largest mangrove cover (~42.3% of India total, Sundarbans), followed by Gujarat (~23.7%, in ",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "ISFR mangrove distribution across Indian states and coasts",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_119",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_120",
+    "stem": "Consider the following statements regarding the specialized root systems of mangrove halophytes:\n1. Pneumatophores are negatively geotropic roots that grow vertically upward out of waterlogged, anoxic sediment into the air.\n2. Gas exchange in pneumatophores occurs through hydrophobic bark fissures that prevent any gaseous diffusion during low tide.\n3. Genera such as Avicennia and Sonneratia are prominent examples of mangroves possessing extensive pneumatophore systems.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 3 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 3 are correct: Mangrove muds are waterlogged and severely depleted of oxygen (hypoxic/anoxic). Avicennia and Sonneratia send up vertical roots against gravity (negative geotropism) called pneumatophores (pencil roots or peg roots). Statement 2 is incorrect: Gas exchange in pneumatophores occurs through specialized spongy pores called 'lenticels' and internal aerenchyma tissue. During low tide, when the pneumatophores are exposed above water, lenticels actively facilitate atmospheric oxygen diffusion down into the root system; they do not prevent gaseous diffusion.\n\n💡 RANKER'S MEMORY LOCK: Pneumatophore Function → Negatively geotropic breathing roots with lenticels and aerenchyma tissue; typical of Avicennia & Sonneratia; gas exchange active at low tide.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You accepted Statement 2, missing that lenticels maximize rather than prevent oxygen diffusion during low tide."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 3, unaware that Avicennia and Sonneratia are classic textbook examples of pneumatophore-bearing mangroves."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements without catching the inverted function of lenticels in Statement 2."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Mangrove Formations & Ecosystems",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_120",
+      "questionStem": "Consider the following statements regarding the specialized root systems of mangrove halophytes:\n1. Pneumatophores are negatively geotropic roots that grow vertically upward out of waterlogged, anoxic sediment into the air.\n2. Gas exchange in pneumatophores occurs through hydrophobic bark fissures that prevent any gaseous diffusion during low tide.\n3. Genera such as Avicennia and Sonneratia are prominent examples of mangroves possessing extensive pneumatophore systems.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_120",
+      "evidenceText": "Statements 1 and 3 are correct: Mangrove muds are waterlogged and severely depleted of oxygen (hypoxic/anoxic). Avicennia and Sonneratia send up vertical roots against gravity (negative geotropism) ca",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Pneumatophores, negative geotropism, and lenticels",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_120",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_121",
+    "stem": "Consider the following statements regarding the reproductive adaptations of mangrove species:\n1. Vivipary is a condition wherein seeds germinate while still attached to the parent tree, producing an elongated dart-like propagule before detachment.\n2. In cryptovivipary, the embryo emerges through the seed coat but remains enclosed within the fruit before falling off.\n3. Viviparous reproduction protects the vulnerable embryonic stage from high salinity and anaerobic suffocation in tidal muds.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct biological adaptations: 1. True vivipary (e.g. Rhizophoraceae: Rhizophora, Bruguiera, Ceriops, Kandelia) involves seed germination and hypocotyl elongation into a robust dart-like propagule while attached to the maternal branch. 2. Cryptovivipary (e.g. Avicennia, Aegiceras) occurs where the embryo breaks out of the seed coat but stays contained within the fruit pericarp prior to abscission. 3. These adaptations bypass the hazardous dormant seed stage in highly saline, oxygen-deficient, abrasive tidal mud, ensuring immediate establishment upon landing or floating.\n\n💡 RANKER'S MEMORY LOCK: Mangrove Reproductive Strategies → Vivipary (propagule breaks fruit: Rhizophora); Cryptovivipary (propagule stays within fruit: Avicennia); Prevents seed suffocation in saline mud.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing that cryptovivipary and vivipary are distinct recognized adaptations in mangrove biology."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You accepted two statements but doubted whether vivipary specifically confers protection against hypoxia and salinity."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine ecological evolutionary adaptations."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Mangrove Formations & Ecosystems",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_121",
+      "questionStem": "Consider the following statements regarding the reproductive adaptations of mangrove species:\n1. Vivipary is a condition wherein seeds germinate while still attached to the parent tree, producing an elongated dart-like propagule before detachment.\n2. In cryptovivipary, the embryo emerges through the seed coat but remains enclosed within the fruit before falling off.\n3. Viviparous reproduction protects the vulnerable embryonic stage from high salinity and anaerobic suffocation in tidal muds.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_121",
+      "evidenceText": "All three statements are correct biological adaptations: 1. True vivipary (e.g. Rhizophoraceae: Rhizophora, Bruguiera, Ceriops, Kandelia) involves seed germination and hypocotyl elongation into a robu",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Vivipary and cryptovivipary reproductive strategies",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_121",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_122",
+    "stem": "With reference to the Sundarbans and Bhitarkanika mangrove ecosystems, consider the following statements:\n1. The Sundarbans constitutes the single largest contiguous mangrove tract in the world, shared between India and Bangladesh.\n2. Bhitarkanika, situated in the estuarine confluence of the Brahmani and Baitarani rivers in Odisha, exhibits the highest mangrove species diversity in India.\n3. The Sundari tree (Heritiera fomes), after which Sundarbans is named, is a true halophyte that thrives exclusively under high oceanic salinity levels.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: The Sundarbans delta is the largest contiguous mangrove forest on Earth. Bhitarkanika in Odisha possesses the highest genetic and species diversity of mangroves in India (over 60 mangrove and mangrove-associate species), surpassing the Sundarbans in floral richness per unit area. Statement 3 is incorrect: Sundari (Heritiera fomes) is an oligohaline mangrove species that requires substantial regular freshwater discharge; it suffers from 'top-dying disease' and declines when oceanic salinity rises due to reduced upstream freshwater river flow.\n\n💡 RANKER'S MEMORY LOCK: Sundarbans vs Bhitarkanika → Sundarbans = largest contiguous tract; Bhitarkanika (Brahmani-Baitarani) = highest floral mangrove diversity; Sundari tree requires freshwater influx (oligohaline).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted Statement 3 despite the phrase 'thrives exclusively under high oceanic salinity', missing that Sundari is an oligohaline tree that needs freshwater mixing."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 2, unaware of the internationally recognized floral mangrove biodiversity of Bhitarkanika."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements uncritically."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Mangrove Formations & Ecosystems",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_122",
+      "questionStem": "With reference to the Sundarbans and Bhitarkanika mangrove ecosystems, consider the following statements:\n1. The Sundarbans constitutes the single largest contiguous mangrove tract in the world, shared between India and Bangladesh.\n2. Bhitarkanika, situated in the estuarine confluence of the Brahmani and Baitarani rivers in Odisha, exhibits the highest mangrove species diversity in India.\n3. The Sundari tree (Heritiera fomes), after which Sundarbans is named, is a true halophyte that thrives exclusively under high oceanic salinity levels.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_122",
+      "evidenceText": "Statements 1 and 2 are correct: The Sundarbans delta is the largest contiguous mangrove forest on Earth. Bhitarkanika in Odisha possesses the highest genetic and species diversity of mangroves in Indi",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Sundarbans vs Bhitarkanika comparative ecology and Sundari tolerance",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_122",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_123",
+    "stem": "Consider the following statements regarding the Coringa and Pichavaram mangrove ecosystems of peninsular India:\n1. Coringa Mangroves, situated in the deltaic estuary of the Godavari river in Andhra Pradesh, constitutes the second largest mangrove formation on the east coast of India.\n2. The endangered Fishing Cat (Prionailurus viverrinus) is a designated flagship species of the Coringa Mangrove Sanctuary.\n3. Pichavaram Mangroves in Tamil Nadu are situated between the Vellar and Coleroon estuaries, sheltered from the open Bay of Bengal by a long sand spit.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct: 1. Coringa (in Kakinada bay / Godavari delta) is the second largest mangrove formation on India mainland east coast after the Sundarbans. 2. Coringa is home to a thriving population of the nocturnal wetland specialist, the Fishing Cat (Prionailurus viverrinus), along with smooth-coated otters. 3. Pichavaram (in Cuddalore district, Tamil Nadu) lies between the Vellar and Coleroon (Kaveri distributary) estuaries, separated from the open sea by a protective sand barrier spit, creating an intricate network of navigable tidal channels.\n\n💡 RANKER'S MEMORY LOCK: Coringa & Pichavaram → Coringa = Godavari delta, 2nd largest on east coast, Fishing Cat sanctuary; Pichavaram = Vellar-Coleroon estuary behind sand spit.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing standard coastal geography facts regarding Coringa and Pichavaram."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You accepted two statements but doubted whether the Fishing Cat is the flagship species of Coringa."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You assumed at least one statement was falsified by the examiner."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Mangrove Formations & Ecosystems",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_123",
+      "questionStem": "Consider the following statements regarding the Coringa and Pichavaram mangrove ecosystems of peninsular India:\n1. Coringa Mangroves, situated in the deltaic estuary of the Godavari river in Andhra Pradesh, constitutes the second largest mangrove formation on the east coast of India.\n2. The endangered Fishing Cat (Prionailurus viverrinus) is a designated flagship species of the Coringa Mangrove Sanctuary.\n3. Pichavaram Mangroves in Tamil Nadu are situated between the Vellar and Coleroon estuaries, sheltered from the open Bay of Bengal by a long sand spit.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_123",
+      "evidenceText": "All three statements are correct: 1. Coringa (in Kakinada bay / Godavari delta) is the second largest mangrove formation on India mainland east coast after the Sundarbans. 2. Coringa is home to a thri",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Coringa and Pichavaram mangrove geographical settings",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_123",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_124",
+    "stem": "Consider the following pairs regarding physiological mechanisms of salt management in mangrove plants:\n1. Ultrafiltration / Salt Exclusion: Roots possess non-metabolic membranes that filter out dissolved salt ions while taking up water (e.g. Rhizophora).\n2. Salt Secretion / Excretion: Leaves possess specialized microscopic salt glands that actively pump excess salt onto the leaf surface (e.g. Avicennia).\n3. Salt Accumulation: Excess salt is stored in senescent, fleshy leaves and shed through abscission (e.g. Lumnitzera).\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "All three pairs",
+      "opt_d": "None of the pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three pairs are correctly matched. Mangroves employ three distinct physiological strategies to survive extreme salt stress: 1. Salt excluders (e.g. Rhizophora, Bruguiera) use ultrafiltration in roots to reject up to 90-97% of sodium chloride at the root boundary. 2. Salt secretors (e.g. Avicennia, Aegiceras) absorb saline water and pump salts out through active salt-secreting epidermal glands on their leaves. 3. Salt accumulators (e.g. Lumnitzera, Sonneratia) concentrate salt in cellular vacuoles of succulent leaves, disposing of it when old leaves drop.\n\n💡 RANKER'S MEMORY LOCK: Mangrove Salt Physiology → Excluders (Rhizophora) block salt at root; Secretors (Avicennia) exude salt via leaf glands; Accumulators (Lumnitzera) shed salt in aging leaves.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You matched only one pair, overlooking that all three mechanisms represent established halophytic physiological pathways."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You matched only two pairs, doubting either salt secretion in Avicennia or salt accumulation in senescent leaves."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You suspected a trick in the physiological matching."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Mangrove Formations & Ecosystems",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_124",
+      "questionStem": "Consider the following pairs regarding physiological mechanisms of salt management in mangrove plants:\n1. Ultrafiltration / Salt Exclusion: Roots possess non-metabolic membranes that filter out dissolved salt ions while taking up water (e.g. Rhizophora).\n2. Salt Secretion / Excretion: Leaves possess specialized microscopic salt glands that actively pump excess salt onto the leaf surface (e.g. Avicennia).\n3. Salt Accumulation: Excess salt is stored in senescent, fleshy leaves and shed through abscission (e.g. Lumnitzera).\nHow many of the pairs given above are correctly matched?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_124",
+      "evidenceText": "All three pairs are correctly matched. Mangroves employ three distinct physiological strategies to survive extreme salt stress: 1. Salt excluders (e.g. Rhizophora, Bruguiera) use ultrafiltration in ro",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Mangrove osmoregulatory mechanisms (exclusion, secretion, accumulation)",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_124",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_125",
+    "stem": "Consider the following statements:\nStatement-I: A severe reduction in upstream freshwater discharge into deltaic estuaries triggers the retreat of Heritiera fomes (Sundari) and promotes the dominance of stunted Avicennia marina in the Indian Sundarbans.\nStatement-II: Heritiera fomes is an oligohaline mangrove species with low tolerance for hyper-saline conditions, whereas Avicennia marina possesses superior physiological mechanisms for salt secretion and hyper-saline endurance.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. When upstream freshwater flows are diverted or dammed, the estuary undergoes hyper-salinization. Sundari (Heritiera fomes) is an oligohaline species adapted to low salinity (freshwater mixing) and suffers dieback ('top-dying disease'). In contrast, Avicennia marina is an euryhaline/polyhaline species with efficient salt glands, outcompeting Sundari and transforming dense tall mangrove forest into low, stunted saline scrub.\n\n💡 RANKER'S MEMORY LOCK: Freshwater Starvation in Mangroves → Sundari (oligohaline) declines; Avicennia marina (salt-tolerant secretor) expands into stunted monotypic stands.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "You recognized both statements as true but missed that differing salinity tolerances directly cause the ecological retreat and species succession."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted the physiological salinity endurance of Avicennia marina."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Ecological Trap",
+        "dissection": "You doubted the decline of Sundari trees under high salinity."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Mangrove Formations & Ecosystems",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_125",
+      "questionStem": "Consider the following statements:\nStatement-I: A severe reduction in upstream freshwater discharge into deltaic estuaries triggers the retreat of Heritiera fomes (Sundari) and promotes the dominance of stunted Avicennia marina in the Indian Sundarbans.\nStatement-II: Heritiera fomes is an oligohaline mangrove species with low tolerance for hyper-saline conditions, whereas Avicennia marina possesses superior physiological mechanisms for salt secretion and hyper-saline endurance.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_125",
+      "evidenceText": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. When upstream freshwater flows are diverted or dammed, the estuary undergoes hyper-salinization. Sundari (Herit",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Estuarine salinization and Sundari vs Avicennia succession",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_125",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_126",
+    "stem": "In ascending order of altitude from the Siwalik foothills to the High Himalayas, which of the following represents the correct sequence of natural vegetation zones?",
+    "options": {
+      "opt_a": "Subtropical Pine Forest → Moist Deciduous Forest → Himalayan Moist Temperate Forest → Subalpine Forest → Alpine Meadows",
+      "opt_b": "Moist Deciduous Forest → Subtropical Pine Forest → Himalayan Moist Temperate Forest → Subalpine Forest → Alpine Meadows",
+      "opt_c": "Moist Deciduous Forest → Himalayan Moist Temperate Forest → Subtropical Pine Forest → Alpine Meadows → Subalpine Forest",
+      "opt_d": "Subtropical Pine Forest → Himalayan Moist Temperate Forest → Moist Deciduous Forest → Subalpine Forest → Alpine Meadows"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The vertical altitudinal sequence in the Himalayas (NCERT India: Physical Environment) is: 1. Foothills & Terai (up to 1,000 m): Tropical Moist Deciduous forests (Sal, Teak, Shisham). 2. 1,000 m to 2,000 m: Subtropical Pine forests (Chir Pine / Pinus roxburghii). 3. 1,500 m to 3,000 m: Himalayan Moist Temperate forests (broadleaved Oaks, Chestnuts; conifers like Deodar, Blue Pine, Spruce). 4. 3,000 m to 3,500 m: Subalpine zone (Silver Fir, Juniper, Birch/Bhojpatra, Rhododendron). 5. 3,500 m to snowline: Alpine meadows (Bugyals) and stunted alpine scrub.\n\n💡 RANKER'S MEMORY LOCK: Himalayan Altitudinal Ladder → Moist Deciduous (<1,000 m) → Chir Pine (1,000-2,000 m) → Temperate Oak/Deodar (1,500-3,000 m) → Subalpine Birch/Fir (3,000-3,500 m) → Alpine Bugyals (>3,500 m).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Inversion Trap",
+        "dissection": "You placed Subtropical Pine Forest at the base, forgetting that deciduous Sal forests occupy the lowest foot-slopes and Terai below 1,000 m."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Elevation Disorder Trap",
+        "dissection": "You placed Temperate forests below Subtropical pine forests."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Scrambled Sequence Trap",
+        "dissection": "You accepted a completely inverted lower sequence."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Zonation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_126",
+      "questionStem": "In ascending order of altitude from the Siwalik foothills to the High Himalayas, which of the following represents the correct sequence of natural vegetation zones?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_126",
+      "evidenceText": "The vertical altitudinal sequence in the Himalayas (NCERT India: Physical Environment) is: 1. Foothills & Terai (up to 1,000 m): Tropical Moist Deciduous forests (Sal, Teak, Shisham). 2. 1,000 m to 2,",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Himalayan altitudinal vegetation sequence",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_126",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_127",
+    "stem": "Consider the following statements:\nStatement-I: The southern slopes of the Himalayas support denser and more diverse forest vegetation that extends to higher altitudes compared to the northern slopes.\nStatement-II: The southern slopes receive greater solar insolation and bear the direct impact of moisture-laden southwest monsoon winds, whereas northern slopes lie in the rain-shadow and experience severe cold-temperature shading.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. In the northern hemisphere, south-facing slopes receive higher direct solar radiation (longer photoperiod and warmth) and intercept the southwest monsoon winds directly. North-facing slopes face inner Central Asia/Tibet, receive oblique insolation (colder microclimate), and lie in the leeward rain-shadow, resulting in thinner, drier, and more stunted vegetation.\n\n💡 RANKER'S MEMORY LOCK: Aspect Effect in Himalayas → South-facing slopes: higher insolation + direct monsoon rains = lush, high-reaching forests; North-facing: cold, rain-shadowed, sparse.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "You recognized both statements as true but failed to connect aspect insolation and monsoon exposure as the primary driver of the vegetation contrast."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Physical Geography Trap",
+        "dissection": "You doubted Statement-II regarding slope aspect and insolation dynamics."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Slope Inversion Trap",
+        "dissection": "You doubted Statement-I, mistakenly assuming northern slopes have more vegetation."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Forests Zonation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_127",
+      "questionStem": "Consider the following statements:\nStatement-I: The southern slopes of the Himalayas support denser and more diverse forest vegetation that extends to higher altitudes compared to the northern slopes.\nStatement-II: The southern slopes receive greater solar insolation and bear the direct impact of moisture-laden southwest monsoon winds, whereas northern slopes lie in the rain-shadow and experience severe cold-temperature shading.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_127",
+      "evidenceText": "Both statements are correct, and Statement-II is the direct explanation for Statement-I. In the northern hemisphere, south-facing slopes receive higher direct solar radiation (longer photoperiod and w",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Aspect effect on Himalayan north vs south slopes",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_127",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_128",
+    "stem": "With reference to the 'Shola' forests of Peninsular India, consider the following statements:\n1. They are stunted tropical montane wet temperate forests confined to sheltered valleys and depressions (folds) above 1500 meters in the Nilgiris, Anamalai, and Palani hills.\n2. The trees are characterized by dense umbrella-shaped crowns, heavy epiphytic loads of mosses, ferns, and lichens, and leathery leaves.\n3. Shola ecosystems act as natural sponges, regulating the perennial base-flow of major southern rivers such as the Bhavani, Moyar, and Amaravathi.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct: 1. Sholas are montane wet temperate forests occurring in high-altitude sheltered folds/valleys (>1500-1800 m) of the Nilgiris, Anamalai, and Palani hills. 2. Trees (e.g. Ternstroemia gymnanthera, Syzygium, Rhodomyrtus tomentosa) are stunted (10-15 m) with round crowns, thick sclerophyllous leaves, and thick epiphytic moss/lichen cover due to persistent mist and high humidity. 3. Their spongy peaty soils retain monsoon rains and release water slowly during dry months, sustaining the perennial headwaters of the Kaveri basin tributaries (Bhavani, Moyar, Kabini) and Amaravathi.\n\n💡 RANKER'S MEMORY LOCK: Shola Forest Profile → Sheltered high-elevation folds (>1500 m) in Nilgiris/Anamalai; stunted, moss-laden crowns; hydrological sponge for South Indian rivers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted Statement 3, unaware of the pivotal watershed sponge role Sholas play in feeding perennial peninsular rivers."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Confusion Trap",
+        "dissection": "You omitted Statement 1, doubting the high elevation threshold (>1500 m) or the specific hill ranges."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Morphological Trap",
+        "dissection": "You omitted Statement 2, doubting the stunted stature and epiphytic moss cover of Shola crowns."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_128",
+      "questionStem": "With reference to the 'Shola' forests of Peninsular India, consider the following statements:\n1. They are stunted tropical montane wet temperate forests confined to sheltered valleys and depressions (folds) above 1500 meters in the Nilgiris, Anamalai, and Palani hills.\n2. The trees are characterized by dense umbrella-shaped crowns, heavy epiphytic loads of mosses, ferns, and lichens, and leathery leaves.\n3. Shola ecosystems act as natural sponges, regulating the perennial base-flow of major southern rivers such as the Bhavani, Moyar, and Amaravathi.\nWhich of the statements given above are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_128",
+      "evidenceText": "All three statements are correct: 1. Sholas are montane wet temperate forests occurring in high-altitude sheltered folds/valleys (>1500-1800 m) of the Nilgiris, Anamalai, and Palani hills. 2. Trees (e",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Shola forests morphology, ecology, and hydrological role",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_128",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_129",
+    "stem": "Consider the following statements regarding the ecological factors that maintain the sharp boundary between Shola forests and adjacent Montane Grasslands:\n1. Seedlings of Shola tree species are highly susceptible to nocturnal ground frost and cannot survive on open, exposed hill slopes.\n2. The native grasses of the montane grasslands are frost-tolerant and fire-adapted, maintaining their dominance over open crests through rapid regeneration.\n3. The sharp forest-grassland boundary is exclusively the result of clearing by colonial tea and coffee planters during the 19th century.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct: The Shola-Grassland mosaic is a natural, ancient palaeo-vegetation climax maintained by microclimatic filtering: nocturnal winter ground frost on open crests and ridges kills Shola tree seedlings, whereas native C4 tussock grasses (Chrysopogon, Arundinella) survive freezing temperatures and frequent fires. Sheltered valley folds stay protected from freezing nocturnal katabatic winds and frost, allowing Shola trees to thrive. Statement 3 is incorrect: Pollen cores prove this mosaic has coexisted for over 20,000 years (dating back to the Last Glacial Maximum); it is not exclusively an anthropogenic artifact of colonial plantation clearing.\n\n💡 RANKER'S MEMORY LOCK: Shola-Grassland Boundary Mechanism → Nocturnal ground frost + fires prevent Shola seedling establishment on open ridges; valley folds insulate trees.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Extreme Qualifier Trap",
+        "dissection": "You accepted Statement 3 despite the phrase 'exclusively the result of colonial clearing', ignoring palaeo-ecological proof of the ancient natural origin of the mosaic."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Statement 2, unaware of the frost-hardy and fire-adapted biology of native montane grasses."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You accepted all statements uncritically."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_129",
+      "questionStem": "Consider the following statements regarding the ecological factors that maintain the sharp boundary between Shola forests and adjacent Montane Grasslands:\n1. Seedlings of Shola tree species are highly susceptible to nocturnal ground frost and cannot survive on open, exposed hill slopes.\n2. The native grasses of the montane grasslands are frost-tolerant and fire-adapted, maintaining their dominance over open crests through rapid regeneration.\n3. The sharp forest-grassland boundary is exclusively the result of clearing by colonial tea and coffee planters during the 19th century.\nWhich of the statements given above is/are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_129",
+      "evidenceText": "Statements 1 and 2 are correct: The Shola-Grassland mosaic is a natural, ancient palaeo-vegetation climax maintained by microclimatic filtering: nocturnal winter ground frost on open crests and ridges",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Microclimatic frost filtering in Shola-grassland mosaic",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_129",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_130",
+    "stem": "Consider the following statements regarding the endemic vegetation of the high-altitude Western Ghats:\n1. Neelakurinji (Strobilanthes kunthiana) is a monocarpic shrub endemic to the Shola-grassland ecosystem that exhibits synchronous masting every 12 years.\n2. Mass flowering of Neelakurinji transforms the rolling montane grasslands into purplish-blue expanses and gives the Nilgiri hills their name.\n3. Following the 12-year flowering and seed dispersal cycle, the parent plants die off, leaving seeds to germinate and establish the next generation.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct: Strobilanthes kunthiana (Neelakurinji) is a famous plietesial monocarpic shrub endemic to the montane grasslands of the Western Ghats (Nilgiris, Palani, Eravikulam in Munnar). It flowers synchronously once every 12 years (plietesial cycle), produces abundant seeds, and then undergoes mass post-flowering mortality (monocarpy). The mass bloom carpets the rolling grasslands with purple-blue flowers, from which the Nilgiri hills ('Blue Mountains') derive their name.\n\n💡 RANKER'S MEMORY LOCK: Neelakurinji (Strobilanthes kunthiana) → Plietesial monocarpic masting shrub; blooms once every 12 years; dies after seeding; gives 'Blue Mountains' its name.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one statement, missing that monocarpy (dying after single flowering) is the defining biological lifecycle of Neelakurinji."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You accepted two statements but doubted whether the entire parent cohort dies after seeding."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism (Over-Elimination)",
+        "dissection": "You dismissed genuine botanical facts regarding Neelakurinji masting."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Forests and Endemic Fauna",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_130",
+      "questionStem": "Consider the following statements regarding the endemic vegetation of the high-altitude Western Ghats:\n1. Neelakurinji (Strobilanthes kunthiana) is a monocarpic shrub endemic to the Shola-grassland ecosystem that exhibits synchronous masting every 12 years.\n2. Mass flowering of Neelakurinji transforms the rolling montane grasslands into purplish-blue expanses and gives the Nilgiri hills their name.\n3. Following the 12-year flowering and seed dispersal cycle, the parent plants die off, leaving seeds to germinate and establish the next generation.\nHow many of the above statements are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_130",
+      "evidenceText": "All three statements are correct: Strobilanthes kunthiana (Neelakurinji) is a famous plietesial monocarpic shrub endemic to the montane grasslands of the Western Ghats (Nilgiris, Palani, Eravikulam in",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Strobilanthes kunthiana synchronous masting and monocarpy",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_130",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_131",
+    "stem": "With reference to ecological degradation in the Nilgiris and Palani hills, consider the following tree species:\n1. Black Wattle (Acacia mearnsii)\n2. Blue Gum (Eucalyptus globulus)\n3. Pine (Pinus patula)\n4. Lantana camara\nHow many of the above are invasive alien species that have aggressively encroached upon the native montane grasslands of the Western Ghats?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four are invasive alien species in the high-elevation Western Ghats: 1. Black Wattle (Acacia mearnsii, native to Australia) was introduced for tannin and fuel; it is the single most destructive invader of native montane grasslands, transforming open habitats into dense monocultures. 2. Blue Gum (Eucalyptus globulus, native to Australia) was introduced for timber and fuel, depleting water tables. 3. Pinus patula (Mexican pine) invades montane grasslands aggressively. 4. Lantana camara (native to tropical America) invades open degraded edges. The High Court of Madras has repeatedly ordered the eradication of exotic Wattle, Eucalyptus, and Pine from the Western Ghats.\n\n💡 RANKER'S MEMORY LOCK: High-Altitude Western Ghats Invasives → Australian Black Wattle (Acacia mearnsii), Blue Gum (Eucalyptus globulus), and Pine (Pinus patula) choke native grasslands.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one species, missing that colonial forestry introduced multiple invasive Australian and American taxa."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Truth Trap",
+        "dissection": "You matched only two species, doubting whether Pine or Lantana are classified as major invasive threats in montane ecosystems."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Invasive Omission Trap",
+        "dissection": "You omitted one invasive taxon, unaware that all four are documented invasive aliens across the Nilgiris and Palani plateau."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Forests",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_131",
+      "questionStem": "With reference to ecological degradation in the Nilgiris and Palani hills, consider the following tree species:\n1. Black Wattle (Acacia mearnsii)\n2. Blue Gum (Eucalyptus globulus)\n3. Pine (Pinus patula)\n4. Lantana camara\nHow many of the above are invasive alien species that have aggressively encroached upon the native montane grasslands of the Western Ghats?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_131",
+      "evidenceText": "All four are invasive alien species in the high-elevation Western Ghats: 1. Black Wattle (Acacia mearnsii, native to Australia) was introduced for tannin and fuel; it is the single most destructive in",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Invasive alien species in Western Ghats montane grasslands",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_131",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_t13_132",
+    "stem": "Consider the following statements regarding the climatic 'Treeline' (Timberline) in Indian mountains:\n1. In the Himalayas, the natural alpine treeline is established between 3,500 and 3,800 meters, typically marked by Birch (Betula utilis / Bhojpatra) and Rhododendron scrub.\n2. The highest summits of the Western Ghats (such as Anamudi and Doddabetta) do not exhibit a true cryogenic alpine treeline because their temperatures never drop sufficiently low throughout the year.\n3. The timberline elevation in the Eastern Himalayas is significantly higher than that in the Western Himalayas due to higher precipitation, greater humidity, and warmer thermal regimes.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct: 1. In the Himalayas, the alpine timberline occurs between 3,300-3,800 m, where Betula utilis (Bhojpatra) and Rhododendron campanulatum mark the upper limit of tree growth. 2. The Western Ghats peak at 2,695 m (Anamudi) and 2,637 m (Doddabetta). While cold at night, mean growing season temperatures remain well above cryogenic alpine treeline thresholds (mean warmest month >6.5°C). The absence of trees on peaks is driven by wind, shallow rocky soils, frost, and fire (edaphic-microclimatic mosaic), not a true climatic treeline. 3. The timberline in the Eastern Himalayas extends higher (up to 3,800-4,000 m) than in the Western Himalayas (~3,300-3,500 m) because the Eastern Himalayas lie at lower latitudes (~27°N vs ~34°N in Kashmir) and receive greater maritime humidity and warmth from the Bay of Bengal.\n\n💡 RANKER'S MEMORY LOCK: Treeline Dynamics in India → Eastern Himalayas treeline is higher than Western Himalayas (lower latitude + higher humidity); Western Ghats peaks lack true cryogenic timberline; Bhojpatra marks Himalayan treeline.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted Statement 3, unaware that lower latitude and high humidity push the Eastern Himalayan treeline 300-500 meters higher than in Kashmir."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Confusion Trap",
+        "dissection": "You omitted Statement 1, doubting the indicator role of Betula utilis (Bhojpatra) at the Himalayan timberline."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Climatic Trap",
+        "dissection": "You omitted Statement 2, assuming peak summits in South India have true cryogenic alpine treelines."
+      }
+    ],
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "Indian Geography",
+    "subTopic": "Montane Zonation",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Premium",
+    "originalTopicId": 13,
+    "originalTopicName": "Soils & Natural Vegetation of India",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_t13_132",
+      "questionStem": "Consider the following statements regarding the climatic 'Treeline' (Timberline) in Indian mountains:\n1. In the Himalayas, the natural alpine treeline is established between 3,500 and 3,800 meters, typically marked by Birch (Betula utilis / Bhojpatra) and Rhododendron scrub.\n2. The highest summits of the Western Ghats (such as Anamudi and Doddabetta) do not exhibit a true cryogenic alpine treeline because their temperatures never drop sufficiently low throughout the year.\n3. The timberline elevation in the Eastern Himalayas is significantly higher than that in the Western Himalayas due to higher precipitation, greater humidity, and warmer thermal regimes.\nWhich of the statements given above are correct?",
+      "intentType": "concept_assessment",
+      "knowledgeNodeId": "node-q_t13_132",
+      "evidenceText": "All three statements are correct: 1. In the Himalayas, the alpine timberline occurs between 3,300-3,800 m, where Betula utilis (Bhojpatra) and Rhododendron campanulatum mark the upper limit of tree gr",
+      "sourceFile": "ncert_xi_india_physical_environment.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_india_physical_environment.txt",
+        "sentence_count": 3,
+        "section_heading": "Soils & Natural Vegetation",
+        "concept": "Alpine treeline ecology in Himalayas vs Western Ghats",
+        "sentence_idx": 1,
+        "block_id": "block-q_t13_132",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Premium",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
   }
 ]

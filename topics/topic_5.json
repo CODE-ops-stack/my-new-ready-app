@@ -15887,5 +15887,2845 @@
     "originalTopicName": "16. Geomorphology",
     "examTarget": null,
     "provenance": null
+  },
+  {
+    "id": "q_top5_new_01",
+    "stem": "Consider the following statements regarding endogenetic crustal movements:\n1. Orogenic movements are tangential horizontal forces that cause intense folding, faulting, and crustal deformation into mountain belts.\n2. Epeirogenic movements are radial vertical forces that result in continental-scale uplift or subsidence without significant folding of rock strata.\n3. Elevated wave-cut platforms and raised fossil beaches high above modern sea level provide geomorphic evidence of regional epeirogenic uplift.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: Orogenic movements (from Greek 'oros' meaning mountain) involve horizontal tangential forces (compression or tension) leading to severe folding, thrusting, and crustal shortening that build mountain belts.\nStatement 2 is correct: Epeirogenic movements (from Greek 'epeiros' meaning continent) operate along the Earth's radius (upward or downward), causing broad continental uplift or subsidence with minimal deformation or tilting of strata.\nStatement 3 is correct: Widespread elevated wave-cut platforms and raised marine terraces found tens of meters above current sea levels along continental margins testify to broad epeirogenic crustal emergence rather than localized orogenic folding.\n\n💡 RANKER'S MEMORY LOCK: Orogenic vs Epeirogenic → Orogenic = Horizontal/Tangential forces causing intense folding, faulting, and mountain building; Epeirogenic = Radial/Vertical forces causing broad continental uplift/subsidence without folding.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Overlooks statement 3; elevated coastal terraces are standard textbook evidence of epeirogenic continental emergence."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Eliminates statement 1 despite orogeny being defined fundamentally by horizontal tangential compressive deformation."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Fails to include statement 2, which correctly defines epeirogeny as radial vertical movement."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_01",
+      "questionStem": "Consider the following statements regarding endogenetic crustal movements...",
+      "intentType": "comparative_evaluation",
+      "knowledgeNodeId": "node-geo-5-01",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 6: Diastrophic movements are further divided into orogenic (mountain building with severe folding/tangential forces) and epeirogenic (continent building with broad vertical movements).",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Diastrophism",
+        "concept": "Orogenic vs Epeirogenic Movements",
+        "sentence_idx": 0,
+        "block_id": "block-diastrophism-01",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_02",
+    "stem": "With reference to crustal fold structures, consider the following pairs:\n1. Monocline: A step-like bend in otherwise horizontal or gently dipping rock strata.\n2. Overturned fold: A fold where one limb is tilted beyond vertical such that both limbs dip in the same direction.\n3. Recumbent fold: An extreme fold whose axial plane is essentially horizontal.\n4. Nappe: A massive sheet of rock transported along a low-angle thrust fault over great distances due to sheared recumbent folds.\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched.\nPair 1 is correct: A monocline is a simple one-sided flexure or step-like fold connecting horizontal strata at different elevations.\nPair 2 is correct: An overturned fold occurs when compressive stress causes the axial plane to incline so steeply that one limb is rotated beyond the vertical; both limbs thus dip in the same direction at different angles.\nPair 3 is correct: A recumbent fold is an overtilted fold where the axial plane has become nearly or completely horizontal.\nPair 4 is correct: A nappe (or thrust sheet) forms when continued compressive stress shears the middle limb of a recumbent fold, thrusting the upper sheet over kilometers along a low-angle thrust plane, as observed extensively in the Alps and Himalayas.\n\n💡 RANKER'S MEMORY LOCK: Fold Hierarchy → Symmetrical → Asymmetrical → Overturned (both limbs dip in same direction) → Recumbent (axial plane horizontal) → Nappe (sheared recumbent fold thrust over vast distances).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Severely underestimates matched pairs by doubting technical structural geology terminology."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "Assumes nappe or overturned fold definitions are fabricated; both are classic NCERT and Savindra Singh classifications."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "Doubts the definition of Nappe, confusing it with an autochthonous thrust sheet."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_02",
+      "questionStem": "With reference to crustal fold structures, consider the following pairs...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-02",
+      "evidenceText": "Savindra Singh Physical Geography: Folds classification - symmetrical, asymmetrical, overturned, recumbent, and nappes formed by shearing of recumbent limbs.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Folding",
+        "concept": "Types of Folds",
+        "sentence_idx": 0,
+        "block_id": "block-folding-02",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_03",
+    "stem": "Consider the following statements regarding fault mechanics in structural geomorphology:\n1. In a normal fault, the hanging wall moves downwards relative to the footwall under extensional tensional stress.\n2. In a reverse fault, the hanging wall moves upwards relative to the footwall under compressional stress, causing crustal shortening.\n3. Transform faults involve primarily vertical displacement along the dip angle of the fault plane.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: Normal faults are produced by crustal extension/tensional stress where the hanging wall slips down relative to the footwall, causing crustal lengthening.\nStatement 2 is correct: Reverse faults (and low-angle thrust faults) are caused by crustal compression where the hanging wall is pushed up relative to the footwall, producing crustal shortening and thickening.\nStatement 3 is incorrect: Transform faults (strike-slip faults, e.g., the San Andreas Fault) involve predominantly horizontal displacement parallel to the strike of the fault plane, not vertical displacement along the dip.\n\n💡 RANKER'S MEMORY LOCK: Fault Mechanics → Normal fault = Tension (hanging wall drops DOWN, crust extends); Reverse fault = Compression (hanging wall moves UP, crust shortens); Strike-slip/Transform = Shear (horizontal displacement along strike).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Omits statement 2, which accurately defines compressional reverse faulting and crustal shortening."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Conceptual Confusion Trap",
+        "dissection": "Accepts statement 3, failing to recognize that transform faults feature strike-slip (horizontal) rather than dip-slip (vertical) movement."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts all three statements without verifying the vertical vs horizontal motion distinction in transform faults."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_03",
+      "questionStem": "Consider the following statements regarding fault mechanics...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-03",
+      "evidenceText": "NCERT Class XI Physical Geography: Faulting results from tensional and compressional forces. Normal faults involve downward displacement of hanging wall, while reverse faults involve upward thrusting.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Faulting",
+        "concept": "Normal vs Reverse vs Strike-Slip Faults",
+        "sentence_idx": 0,
+        "block_id": "block-faulting-03",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_04",
+    "stem": "With reference to Rift Valleys and Block Mountains, consider the following statements:\n1. A graben is a down-dropped crustal block bounded by conjugate normal faults under regional crustal tension.\n2. The Vosges and the Black Forest mountains in Europe are classic horsts separated by the Rhine Graben.\n3. In India, the Narmada and Tapi rivers flow westward through tectonic rift valleys rather than erosional valleys carved solely by the rivers themselves.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: A graben is a central trench-like depression formed when a crustal block slips downward between parallel normal faults due to tensional forces.\nStatement 2 is correct: A horst is an upfaulted block or mountain left standing above adjacent grabens. The Vosges (France) and the Black Forest (Germany) are textbook horsts flanking the Rhine Graben rift valley.\nStatement 3 is correct: The Narmada and Tapi rivers do not flow in self-eroded alluvial channels; they occupy tectonic grabens (rift valleys) formed during the breakup of Gondwanaland and the northward drift of the Indian plate, explaining why they flow west into the Arabian Sea despite the general eastward tilt of Peninsular India.\n\n💡 RANKER'S MEMORY LOCK: Horst & Graben → Graben = Down-dropped valley block bounded by normal faults (e.g. Rhine Graben, Narmada-Tapi rift); Horst = Uplifted block mountain (e.g. Vosges, Black Forest, Vindhyan-Satpura horsts).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over Indian geography; Narmada and Tapi flow through tectonic rift valleys, a fundamental UPSC core concept."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Exclusion Trap",
+        "dissection": "Omits statement 1, which accurately defines graben formation under extensional tectonics."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statement 2, which provides the world-standard textbook example of horst-graben topography."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_04",
+      "questionStem": "With reference to Rift Valleys and Block Mountains...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-04",
+      "evidenceText": "NCERT Class XI Physical Geography: Rift valleys form when central crustal blocks subside between parallel faults. Narmada and Tapi flow through such fault depressions.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Fault Landforms",
+        "concept": "Horst and Graben",
+        "sentence_idx": 0,
+        "block_id": "block-horst-graben-04",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_05",
+    "stem": "Given below are two statements:\nStatement-I: Diastrophic endogenetic forces operate very slowly over geological timescales, causing gradual crustal deformation without instantaneous disruption of the Earth's surface.\nStatement-II: Diastrophic movements are driven by thermal convection currents and radioactive decay within the Earth's mantle, encompassing orogenic mountain building, epeirogenic continental adjustments, and plate tectonics.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation for Statement-I.\nStatement-I correctly describes diastrophism (from the Greek 'diastrophe' meaning distortion/turn aside): these are slow, imperceptible deformations of the lithosphere operating over millions of years, contrasting sharply with catastrophic movements like sudden volcanic eruptions and earthquakes.\nStatement-II provides the correct geodynamic mechanism: heat from radioactive decay in the core and mantle drives slow mantle convection cells, transmitting stresses upward to deform the lithosphere into orogenic belts and epeirogenic plateaus over millions of years.\n\n💡 RANKER'S MEMORY LOCK: Diastrophism vs Catastrophism → Diastrophic forces = Slow, imperceptible, continuous deformational movements (orogenic, epeirogenic, plate tectonic); Catastrophic forces = Sudden, instantaneous, high-energy events (volcanic explosions, seismic fault slips).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Delink Trap",
+        "dissection": "Believes both are true but unrelated; however, mantle thermal convection is the direct physical driver explaining why diastrophic forces deform the crust over geological time."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Falsely rejects mantle convection and radioactive heating as the recognized driver of diastrophic processes."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Rejects Statement-I, confusing slow diastrophic forces with sudden catastrophic forces."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_05",
+      "questionStem": "Given below are two statements: Statement-I: Diastrophic endogenetic forces operate very slowly...",
+      "intentType": "causal_explanation",
+      "knowledgeNodeId": "node-geo-5-05",
+      "evidenceText": "NCERT Class XI Physical Geography: Endogenic processes are divided into slow movements (diastrophism) and sudden movements (volcanoes, earthquakes). Diastrophism is driven by internal radioactive heat and mantle convection.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Diastrophism",
+        "concept": "Causes of Diastrophic Movements",
+        "sentence_idx": 0,
+        "block_id": "block-diastrophism-05",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_06",
+    "stem": "Consider the following statements regarding the East African Rift System (EARS):\n1. It represents an active continental divergent rift zone where the Nubian and Somali tectonic plates are rifting apart.\n2. Lake Tanganyika and Lake Malawi are extremely deep graben lakes occupying fault-bounded tectonic rift valleys.\n3. Lake Victoria is an ultra-deep rift valley lake occupying the main eastern graben of the rift system.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: The East African Rift System is an active continental rift zone where the African continent is splitting into the Nubian Sub-plate to the west and the Somali Sub-plate to the east.\nStatement 2 is correct: Lakes Tanganyika (depth 1,470 m, second deepest lake in the world) and Malawi/Nyasa (depth 706 m) are classic tectonic graben lakes occupying steep-sided rift valleys.\nStatement 3 is incorrect: Lake Victoria is NOT a deep rift valley lake; it is a shallow saucer-shaped crustal depression (maximum depth only ~84 m) located on an elevated plateau between the Western (Albertine) and Eastern (Gregory) rift branches, formed by crustal warping rather than graben faulting.\n\n💡 RANKER'S MEMORY LOCK: East African Lakes Geomorphology → Lake Tanganyika & Lake Malawi = Deep tectonic graben rift lakes; Lake Victoria = Shallow crustal depression/downwarp between the two rift branches (NOT a rift valley graben lake).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Exclusion Trap",
+        "dissection": "Overlooks statement 1; plate rifting between Nubian and Somali subplates is the established plate tectonic model for EARS."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Accepts statement 3; Lake Victoria is shallow and situated between the branches, not within a deep graben."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Geographical Generalization Trap",
+        "dissection": "Treats all African Great Lakes as identical graben lakes, missing Lake Victoria's distinct shallow plateau-warp morphology."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_06",
+      "questionStem": "Consider the following statements regarding the East African Rift System...",
+      "intentType": "spatial_reasoning",
+      "knowledgeNodeId": "node-geo-5-06",
+      "evidenceText": "Savindra Singh / Goh Cheng Leong: The East African Rift features deep fault-trough lakes like Tanganyika and Malawi. Lake Victoria is a shallow downwarp between rift branches.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Rift Valleys",
+        "concept": "East African Rift System",
+        "sentence_idx": 0,
+        "block_id": "block-ears-06",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_07",
+    "stem": "With reference to the structural geomorphic phenomenon of 'Inversion of Relief', consider the following statements:\n1. Anticlinal arches experience tensile stretching along their crests, resulting in dense joint fracturing that promotes accelerated weathering and river carving into anticlinal valleys.\n2. Compressed rock strata along synclinal troughs are more resistant to erosion and eventually stand out as high topography, forming synclinal ridges.\n3. Inversion of relief is a definitive characteristic of maturely dissected folded mountain terrains.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: In folded landscapes, the crests of anticlines are under strong tension, creating open joint systems and fracture planes where weathering agents and stream incision attack rapidly, excavating anticlinal valleys.\nStatement 2 is correct: Conversely, rocks in synclinal troughs are under compressional stress, making them dense and resistant. As adjacent anticlinal crests are eroded away, the synclinal troughs remain as upstanding relief, forming synclinal ridges (or synclinal mountains).\nStatement 3 is correct: This morphological inversion (where topographically high ridges correspond to geological synclines and valleys correspond to anticlines) is termed 'inversion of relief' and represents an advanced stage of mature erosion in folded sedimentary belts (e.g., the Jura Mountains and parts of the Appalachians).\n\n💡 RANKER'S MEMORY LOCK: Inversion of Relief → Anticlinal crests (tensile fractures) erode into Anticlinal Valleys; Synclinal troughs (compressed resistant rock) survive as Synclinal Ridges/Mountains.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statement 3; inversion of relief is indeed a hallmark of mature drainage evolution in folded structures."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over statement 1; tension fracturing on anticlinal crests is the exact mechanical cause of anticlinal valley development."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, which accurately defines synclinal ridge formation."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_07",
+      "questionStem": "With reference to the structural geomorphic phenomenon of Inversion of Relief...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-07",
+      "evidenceText": "Savindra Singh Geomorphology: Inversion of relief occurs when anticlinal crests are eroded into valleys and synclinal troughs stand out as ridges due to differential jointing and compression.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Fold Landforms",
+        "concept": "Inversion of Relief",
+        "sentence_idx": 0,
+        "block_id": "block-inversion-07",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_08",
+    "stem": "Consider the following fault-related geomorphic landforms:\n1. Fault scarp: A steep cliff or slope produced directly by tectonic vertical displacement of the ground surface along a fault plane.\n2. Fault-line scarp: A cliff produced along an ancient fault line primarily by differential erosion between rocks of contrasting resistance rather than direct displacement.\n3. Triangular facets: Truncated, triangular spur ends formed along a mountain front by recurrent faulting along an active fault scarp.\nHow many of the above landforms are correctly defined?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three landforms are correctly defined.\nStatement 1 is correct: A fault scarp is a primary structural feature where the topography directly reflects the displacement of the fault rupture at the surface (e.g. fresh earthquake scarps).\nStatement 2 is correct: A fault-line scarp is a secondary erosional feature where prolonged denudation strips weaker rock on one side of a long-quiescent fault trace, leaving resistant rock on the other side standing as a high scarp.\nStatement 3 is correct: Triangular facets (or fault facets) are flat, triangular faces truncating spur ridges along an active mountain-bounding fault scarp, created when recurrent vertical faulting shears the ends of spurs.\n\n💡 RANKER'S MEMORY LOCK: Fault Landforms → Fault Scarp = Direct tectonic displacement; Fault-line Scarp = Differential erosion along an existing fault line; Triangular Facets = Sheared spur terminations along an active normal fault.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Fails to detect accurate structural geology definitions, treating classic geomorphic terms as fabrications."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "Doubt over triangular facets; triangular facets are among the most distinct visual hallmarks of active normal fault scarps."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "Eliminates all three definitions by assuming examiner traps exist in all statements."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Endogenetic Forces & Diastrophism",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_08",
+      "questionStem": "Consider the following fault-related geomorphic landforms...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-08",
+      "evidenceText": "Savindra Singh Physical Geography: Fault scarps are initial tectonic forms; fault-line scarps develop by differential erosion. Triangular facets mark recurrent fault displacement along mountain fronts.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Fault Landforms",
+        "concept": "Fault Scarp vs Fault-line Scarp",
+        "sentence_idx": 0,
+        "block_id": "block-scarps-08",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_09",
+    "stem": "Consider the following statements regarding physical weathering processes:\n1. Exfoliation domes develop in massive plutonic rocks like granite when the release of confining lithostatic pressure triggers sheeting along expansion joints parallel to the ground surface.\n2. Frost wedging (gelifraction) operates with maximum intensity in polar regions where temperatures remain continuously well below freezing point throughout the year.\n3. Thermal fatigue and granular disintegration are most severe in coarse-grained polymineralic rocks due to differing thermal expansion coefficients of individual constituent minerals.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 3 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 2 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 3 are correct, while statement 2 is incorrect.\nStatement 1 is correct: Unloading or pressure release occurs when overlying rock is stripped away by erosion, releasing confining pressure and causing deep crystalline rocks (like granite) to expand upward, producing sheet joints and exfoliation domes (e.g., in the Sierra Nevada and Chota Nagpur plateau).\nStatement 2 is incorrect: Frost wedging requires frequent fluctuations across the freezing point (0°C)—i.e. diurnal freeze-thaw cycles—along with available liquid water. In extreme polar regions, temperatures stay continuously far below 0°C with little or no melting, freezing water permanently into permafrost and rendering frost wedging inactive.\nStatement 3 is correct: Polymineralic rocks (e.g., granite composed of quartz, feldspar, and biotite) expand and contract at different rates under solar heating because each mineral possesses a distinct coefficient of thermal expansion, inducing differential internal shear stresses and granular disintegration.\n\n💡 RANKER'S MEMORY LOCK: Physical Weathering Mechanics → Exfoliation Domes = Lithostatic unloading/pressure release (sheeting joints); Frost Wedging = Requires frequent Freeze-Thaw oscillations around 0°C (NOT continuous sub-zero polar cold); Granular Disintegration = Differential mineral thermal expansion in polymineralic rocks.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Chooses statement 2 alone; fails to realize continuous below-freezing temperatures prevent the liquid phase necessary for repeated freeze-thaw expansion."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Climatic Zone Confusion Trap",
+        "dissection": "Accepts statement 2; confuses periglacial/high-altitude freeze-thaw zones with perpetual polar permafrost."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts all three statements without testing the thermodynamic requirements of frost wedging."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_09",
+      "questionStem": "Consider the following statements regarding physical weathering processes...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-09",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 6: Physical weathering processes - unloading, temperature changes, and frost wedging. Frost action requires repeated freezing and melting.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Physical Weathering",
+        "concept": "Exfoliation, Frost Action, Thermal Expansion",
+        "sentence_idx": 0,
+        "block_id": "block-phys-weathering-09",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_10",
+    "stem": "Given below are two statements:\nStatement-I: Salt weathering (haloclasty) is a potent mechanical weathering agent in arid interiors and coastal marine environments, frequently producing cavernous honeycomb weathering and tafoni.\nStatement-II: When saline capillary moisture evaporates within rock pore spaces, the crystal growth and thermal expansion of hydrated salts like sodium sulfate and gypsum generate crystallization pressures that exceed the tensile strength of the surrounding rock.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation for Statement-I.\nStatement-I is correct: Salt weathering (haloclasty) operates aggressively in arid environments and sea coasts where salt spray or capillary groundwater rich in dissolved salts penetrates permeable rocks (such as sandstones and porous granites), producing distinctive cavernous hollows known as tafoni or honeycomb weathering.\nStatement-II provides the correct physical explanation: As pore water evaporates, salts precipitate out. With subsequent diurnal temperature rises or hydration (e.g., thenardite converting to mirabilite, or anhydrite to gypsum), the salt crystals expand volumetrically, exerting crystallization pressures up to several tens of megapascals—readily rupturing the mineral grains and flaking the rock surface from within.\n\n💡 RANKER'S MEMORY LOCK: Salt Weathering (Haloclasty) → Saline capillary water evaporates → Salt crystals precipitate and expand (hydration/thermal expansion) → Exerts crystallization pressure exceeding rock tensile strength → Creates Tafoni & Honeycomb weathering in arid/coastal rocks.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Delink Trap",
+        "dissection": "Believes both are correct facts but fails to link salt crystal growth pressure directly to the morphological creation of cavernous tafoni."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Physical Mechanism Trap",
+        "dissection": "Rejects crystallization pressure mechanics, assuming salt weathering is a purely chemical dissolution process."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Rejects Statement-I despite tafoni and honeycomb weathering being standard UPSC physical geography concepts."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_10",
+      "questionStem": "Given below are two statements: Statement-I: Salt weathering (haloclasty) is a potent mechanical weathering agent...",
+      "intentType": "causal_explanation",
+      "knowledgeNodeId": "node-geo-5-10",
+      "evidenceText": "NCERT Class XI Physical Geography: Salt weathering involves expansion of salt crystals during hydration and temperature changes, causing granular disintegration and honeycomb weathering.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Salt Weathering",
+        "concept": "Haloclasty Mechanics",
+        "sentence_idx": 0,
+        "block_id": "block-salt-weathering-10",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_11",
+    "stem": "Consider the following chemical weathering processes:\n1. Carbonation: Reaction of carbonate rocks with carbonic acid formed by dissolution of carbon dioxide in water, producing soluble bicarbonates.\n2. Hydration: The chemical uptake of water molecules into the crystal lattice of a mineral, causing volume expansion and rock breakdown.\n3. Hydrolysis: The chemical reaction between mineral ions and dissociated hydrogen (H+) and hydroxyl (OH-) ions of water, transforming potassium feldspar into kaolinite clay.\n4. Oxidation: The chemical combination of dissolved oxygen with metallic mineral cations, converting ferrous iron (Fe2+) into ferric iron (Fe3+) to produce reddish rust crusts.\nHow many of the above chemical weathering processes are correctly defined?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four chemical weathering processes are correctly defined.\nStatement 1 is correct: Carbonation occurs when CO2 dissolves in rainwater or soil moisture to form weak carbonic acid (H2CO3), which reacts with calcium carbonate (CaCO3) to form highly soluble calcium bicarbonate [Ca(HCO3)2], critical in karst landscape formation.\nStatement 2 is correct: Hydration is the chemical addition of water to mineral structures (e.g. CaSO4 + 2H2O -> CaSO4.2H2O, anhydrite to gypsum), causing a 10-15% increase in volume that mechanically stresses and decomposes the host rock.\nStatement 3 is correct: Hydrolysis is a fundamental chemical weathering reaction involving the breakdown of silicate minerals through reaction with water ions; for example, orthoclase feldspar decomposes into kaolinite clay, releasing silica and potassium ions.\nStatement 4 is correct: Oxidation occurs in aerobic environments where oxygen reacts with iron-bearing minerals (like olivine, pyroxene, and biotite), converting ferrous (Fe2+) to ferric (Fe3+) iron, forming insoluble reddish-brown iron oxides (limonite and hematite) that weaken the rock matrix.\n\n💡 RANKER'S MEMORY LOCK: Chemical Weathering Big Four → Carbonation = Acid solution of carbonates into bicarbonates; Hydration = Water uptake causing volume expansion (anhydrite -> gypsum); Hydrolysis = Water ion reaction breaking silicates (feldspar -> clay); Oxidation = Iron Fe2+ -> Fe3+ (rusting and weakening).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Dramatically undercounts classic textbook reactions, failing to recognize fundamental NCERT definitions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "Confuses hydrolysis and hydration as redundant duplicates; hydration is water addition without dissociation, hydrolysis involves H+/OH- ion reaction."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Technical Boundary Trap",
+        "dissection": "Doubts oxidation as a chemical weathering agent, assuming oxidation is purely a metallurgical term."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_11",
+      "questionStem": "Consider the following chemical weathering processes...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-11",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 6: Chemical weathering processes include solution, carbonation, hydration, oxidation and reduction. Hydrolysis decomposes feldspars to clay.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Chemical Weathering",
+        "concept": "Carbonation, Hydration, Hydrolysis, Oxidation",
+        "sentence_idx": 0,
+        "block_id": "block-chem-weathering-11",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_12",
+    "stem": "With reference to biological weathering, consider the following statements:\n1. Lichens and mosses contribute to biochemical weathering by secreting organic chelating acids that extract trace metallic cations from bare rock surfaces.\n2. Root wedging exerts high mechanical outward pressure along rock bedding planes and joints, widening fractures and disintegrating boulders.\n3. Burrowing macro-organisms like earthworms and rodents solely cause physical dislocation and have no impact on chemical weathering rates.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: Pioneer biological organisms like lichens produce oxalic and other organic acids that chelate metallic cations (such as iron, calcium, and magnesium) from underlying rock minerals, chemically etching rock surfaces and initiating soil formation.\nStatement 2 is correct: Growing plant roots penetrate bedding joints and fissures; as roots expand radially, they exert expansive stresses reaching multiple megapascals, mechanically splitting hard rock masses.\nStatement 3 is incorrect: Burrowing organisms not only physically dislodge materials but also dramatically accelerate chemical weathering by aerating the subsurface, channeling moisture and organic humic acids into previously unexposed fresh mineral layers, and mixing regolith.\n\n💡 RANKER'S MEMORY LOCK: Biological Weathering Mechanisms → Biophysical = Root wedging & burrowing physical disturbance; Biochemical = Chelation by lichen/moss organic acids; Burrowing animals promote BOTH physical dislocation and chemical weathering by channeling air and water.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Omits statement 1 while accepting false claim in statement 3; chelation by pioneer lichens is a classic biological weathering mechanism."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Leaves out root wedging, which is universally recognized as a primary mechanical weathering agent."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Absolutist Phrasing Trap",
+        "dissection": "Overlooks the extreme word 'solely' in statement 3; burrowers strongly enhance chemical weathering by aerating regolith."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_12",
+      "questionStem": "With reference to biological weathering, consider the following statements...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-12",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 6: Biological activity contributes to both mechanical and chemical weathering. Lichens produce chelating acids; roots wedge joints open.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Biological Weathering",
+        "concept": "Biophysical and Biochemical Weathering",
+        "sentence_idx": 0,
+        "block_id": "block-bio-weathering-12",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_13",
+    "stem": "Consider the following mass wasting movements:\n1. Soil creep: A very slow, continuous downslope movement of regolith driven by gravity and cyclic freeze-thaw or wet-dry heave cycles.\n2. Solifluction: Slow downslope flow of water-saturated soil over an impermeable permafrost layer in tundra and periglacial landscapes.\n3. Slump: Rotational downward and outward slipping of a rock or debris mass along a concave-upward curved failure surface.\n4. Debris flow: A rapid, channeled surge of water-saturated, poorly sorted sediment containing boulders, gravel, and mud down steep drainage channels.\nHow many of the above mass movements are correctly characterized?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four mass wasting movements are correctly characterized.\nStatement 1 is correct: Soil creep is the slowest mass wasting process (millimeters/year), driven by thermal/moisture expansion perpendicular to slope and gravity-settling downward, visible in bent tree trunks and tilted fences.\nStatement 2 is correct: Solifluction occurs in high-latitude/altitude permafrost regions where the summer active layer melts and becomes water-saturated; unable to infiltrate frozen permafrost below, the saturated slurry flows downslope forming solifluction lobes.\nStatement 3 is correct: Slump is a form of rotational slide where coherent masses of unconsolidated sediment or rock rotate backward on a concave-upward curved rupture surface, leaving a crescent-shaped scarp.\nStatement 4 is correct: Debris flows are rapid, catastrophic flows of saturated mud, sand, gravel, and boulders that follow existing river channels or gullies, common after intense cloudbursts or volcanic eruptions (lahars).\n\n💡 RANKER'S MEMORY LOCK: Mass Movements Classification → Slow Movements = Creep & Solifluction (permafrost summer thaw); Rapid Slides = Slump (rotational on curved surface) & Rockslide (translational on planar surface); Rapid Flows = Debris flow & Mudflow (channeled, water-saturated).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Dramatically underestimates accuracy of standardized NCERT mass movement definitions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "Confuses translational vs rotational slide mechanics, mistakenly disqualifying slump."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "Doubts solifluction or debris flow descriptions despite both adhering strictly to standard geomorphology."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_13",
+      "questionStem": "Consider the following mass wasting movements...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-13",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 6: Mass movements are divided into slow movements (creep, solifluction) and rapid movements (slump, debris flow, landslide).",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Mass Movements",
+        "concept": "Classification of Mass Movements",
+        "sentence_idx": 0,
+        "block_id": "block-mass-movements-13",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_14",
+    "stem": "Consider the following statements regarding slope stability and landslide mechanics:\n1. Elevated pore water pressure in slope materials decreases effective normal stress between grains, thereby drastically reducing the shear strength of the slope.\n2. The angle of repose is consistently higher for dry, coarse, angular rock fragments than for wet, fine, rounded sand grains.\n3. Undercutting and removing the basal toe of a slope enhances slope stability by lightening the total gravitational overburden.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: According to Terzaghi's principle of effective stress (sigma' = sigma - u), increasing pore water pressure (u) pushes mineral grains apart, decreasing effective normal stress (sigma') and frictional resistance, which triggers catastrophic slope failure.\nStatement 2 is correct: Angular, coarse particles interlock strongly, sustaining steep angles of repose up to 45°, whereas fine, rounded grains roll easily, maintaining lower angles of repose (~30°).\nStatement 3 is incorrect: The toe of a slope provides vital lateral resistance against downslope driving forces. Removing the toe (e.g., through stream erosion or road cutting) removes supporting mass, creating steep unsupported free faces and triggering landslides.\n\n💡 RANKER'S MEMORY LOCK: Slope Stability Physics → Pore Water Pressure = Decreases effective normal stress & lowers shear strength; Angle of Repose = Coarse/angular rocks > Fine/rounded sands; Basal Toe Removal = Destabilizes slope by removing lateral resistance.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Leaves out statement 2, which correctly reflects the physics of sediment angle of repose."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Mechanical Fallacy Trap",
+        "dissection": "Accepts statement 3; basal toe removal is one of the most common triggers of anthropogenic and natural landslides."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts all three without analyzing the negative impact of toe excavation on slope equilibrium."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_14",
+      "questionStem": "Consider the following statements regarding slope stability...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-14",
+      "evidenceText": "NCERT Class XI Physical Geography: Water saturates slope materials, adding weight and lubricating surfaces. Steeper slopes, removal of support from toe, and high pore pressure trigger landslides.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Mass Movements",
+        "concept": "Slope Stability Mechanics",
+        "sentence_idx": 0,
+        "block_id": "block-slope-stability-14",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_15",
+    "stem": "With reference to landslide vulnerability in India, consider the following statements:\n1. The Himalayas are far more prone to frequent and massive landslides than the Western Ghats because they are tectonically active young fold mountains composed of heavily shattered, folded, and dipping strata.\n2. Landslides in the Western Ghats are predominantly triggered by intense, concentrated monsoon rainfall acting on steep escarpments with deep, heavily weathered lateritic regolith.\n3. Permafrost degradation and glacial lake outburst floods (GLOFs) are common triggers of slope instability in both the Himalayas and the Western Ghats.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: The Himalayas represent a collisional tectonic zone with ongoing neo-tectonic uplift, fragile lithology (sedimentary and metasedimentary rocks), deep structural faults (MCT, MBT, HFT), and steep topography, making them globally among the most landslide-prone regions.\nStatement 2 is correct: The Western Ghats are part of the stable Precambrian Deccan Shield with basaltic traps and crystalline granites/gneisses. Here, landslides (predominantly debris flows and mudslides) are driven not by tectonic deformation, but by torrential south-west monsoon precipitation saturating thick, deeply weathered saprolite on steep western scrap faces.\nStatement 3 is incorrect: Permafrost thawing and GLOFs occur exclusively in the high Himalayas; the Western Ghats are tropical and feature no glaciers, permafrost, or glacial lakes.\n\n💡 RANKER'S MEMORY LOCK: Landslides in India: Himalayas vs Western Ghats → Himalayas = Tectonically active young fold mountains, shattered strata, steep relief, high seismicity + permafrost thaw/GLOFs; Western Ghats = Tectonically stable shield, steep escarpments, deep lateritic weathering, exclusively triggered by heavy monsoon rains and human toe modification.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Exclusion Trap",
+        "dissection": "Excludes statement 2, which accurately outlines the unique meteorological and geomorphological controls of Western Ghats landslides."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Geographical Fallacy Trap",
+        "dissection": "Accepts statement 3; permafrost and glaciers do not exist anywhere in the Western Ghats."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Lumps Himalayan periglacial hazards with tropical Western Ghats processes."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_15",
+      "questionStem": "With reference to landslide vulnerability in India, consider the following statements...",
+      "intentType": "comparative_evaluation",
+      "knowledgeNodeId": "node-geo-5-15",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 6: Landslides in India - Himalayas vs Western Ghats. Himalayas are tectonically unstable with shattered rocks; Western Ghats are stable but experience heavy rain on steep scarps.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Mass Movements",
+        "concept": "Landslides: Himalayas vs Western Ghats",
+        "sentence_idx": 0,
+        "block_id": "block-landslides-india-15",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_16",
+    "stem": "Consider the following statements regarding weathering profiles and spheroidal weathering:\n1. The depth of the chemically weathered regolith (saprolite) is greatest in the hot, humid equatorial tropics and thinnest in cold polar and hyper-arid desert regions.\n2. Spheroidal weathering is a chemical weathering process where concentric curved shells peel off joint-bounded boulders as corners and edges are attacked simultaneously from two or three directions.\n3. Spheroidal weathering and mechanical exfoliation are identical phenomena caused purely by diurnal solar heating and rapid nocturnal cooling.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: High temperatures and abundant moisture accelerate chemical reactions exponentially (van 't Hoff rule), generating deep saprolite layers (often exceeding 50-100 meters) in the humid tropics, whereas cold or dry climates restrict chemical weathering to shallow veneers.\nStatement 2 is correct: Spheroidal weathering occurs along orthogonal joint systems in crystalline rocks (like granite or basalt). Water penetrates the joints; edges are attacked from two sides and corners from three sides, oxidizing and hydrating the minerals faster than planar faces, gradually rounding the blocks into spherical corestones.\nStatement 3 is incorrect: Spheroidal weathering is chemical in nature (driven by water penetration and mineral hydration/oxidation), whereas true mechanical exfoliation (sheeting) is a physical process driven by lithostatic pressure release/unloading.\n\n💡 RANKER'S MEMORY LOCK: Regolith & Spheroidal Weathering → Regolith Depth = Deepest in hot, wet equatorial tropics; Spheroidal Weathering = Chemical decomposition along joint corners/edges producing rounded corestones (NOT physical thermal heating).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 1, which represents fundamental global climatic geomorphology."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Conceptual Confusion Trap",
+        "dissection": "Confuses chemical spheroidal weathering with physical pressure-release exfoliation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts statement 3 without distinguishing chemical weathering from mechanical thermal shock."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Exogenetic Weathering & Mass Wasting",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_16",
+      "questionStem": "Consider the following statements regarding weathering profiles...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-16",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 6: Depth of weathering varies with climate. Spheroidal weathering is caused by chemical alteration working inward along joint planes.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Weathering Profiles",
+        "concept": "Saprolite Depth and Spheroidal Weathering",
+        "sentence_idx": 0,
+        "block_id": "block-saprolite-16",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_17",
+    "stem": "With reference to geomorphic cycles and landscape evolution, consider the following statements:\n1. W.M. Davis conceptualized the 'Peneplain' as an ultimate end-stage plain of low undulating relief formed primarily by progressive downwasting (slope decline), dotted with residual hills called monadnocks.\n2. L.C. King proposed that extensive low-relief plains termed 'Pediplains' develop primarily through scarp retreat and parallel slope pedimentation under semi-arid conditions, dotted with residual inselbergs.\n3. Davis assumed episodic, rapid tectonic uplift followed by an extended period of tectonic stillness, whereas Walther Penck argued that uplift and denudation operate concurrently.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1, 2 and 3",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: William Morris Davis's geographical cycle describes the evolution of landforms through Youth, Maturity, and Old Age. The penultimate end product is an almost featureless, undulating plain called a 'peneplain' (almost a plain) where hilltops are lowered by vertical downwasting, leaving resistant residual remnants called 'monadnocks' (after Mt. Monadnock, USA).\nStatement 2 is correct: Lester C. King (South African geomorphologist) criticized Davis and formulated the concept of 'pediplanation'. He argued that escarpments retreat parallel to themselves without losing steepness (scarp retreat / backwearing), leaving concave rock pediments that coalesce into a vast 'pediplain' surmounted by steep-sided residual hills called 'inselbergs' or 'bornhardts'.\nStatement 3 is correct: Davis's fundamental premise was rapid episodic uplift before erosion commences, whereas Walther Penck (German geomorphologist) proposed that landform morphology is a dynamic competition between the rate of tectonic uplift (Endogene Vorgänge) and the rate of degradation (Exogene Vorgänge) operating simultaneously.\n\n💡 RANKER'S MEMORY LOCK: Davis vs King vs Penck → Davis = Peneplain by Downwasting (Slope decline) + Monadnocks + Rapid initial uplift; King = Pediplain by Backwearing (Parallel scarp retreat) + Inselbergs/Bornhardts; Penck = Simultaneous uplift and denudation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statement 3; Penck vs Davis uplift assumptions are among the most frequently tested debates in theoretical geomorphology."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over statement 1; Davis's peneplain and monadnocks form the core of NCERT physical geography."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, which accurately defines King's pediplanation and inselbergs."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_17",
+      "questionStem": "With reference to geomorphic cycles and landscape evolution...",
+      "intentType": "comparative_evaluation",
+      "knowledgeNodeId": "node-geo-5-17",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Davisian cycle of erosion. Peneplain with monadnocks. King's concept of pediplain and parallel retreat of slopes.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Fluvial Landforms",
+        "concept": "Peneplain vs Pediplain",
+        "sentence_idx": 0,
+        "block_id": "block-peneplain-17",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_18",
+    "stem": "Consider the following statements regarding fluvial erosional landforms:\n1. Gorges are deep, narrow valleys with nearly vertical precipitous rock walls, where vertical channel incision drastically outpaces lateral valley widening.\n2. Canyons are wide-topped, step-like valleys characterized by alternating steep cliffs and gentle benches, commonly carved through horizontally bedded strata in semi-arid terrains.\n3. Incised meanders develop when a mature meandering river undergoes rejuvenation due to tectonic uplift or base-level drop, carving deeply into bedrock while preserving its sinuous loop geometry.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: Gorges have nearly vertical side walls with equal width at top and bottom. They form in hard, resistant rocks where downcutting is rapid and weathering/mass wasting of side walls is minimal (e.g., Indus Gorge at Gilgit, Brahmaputra Gorge).\nStatement 2 is correct: A canyon is a variant of a gorge characterized by stepped, terraced side slopes caused by differential erosion across horizontal strata of alternating resistant (cliff-forming limestone/sandstone) and weak (bench-forming shale) rocks, exemplified by the Grand Canyon of the Colorado River and the Gandikota Canyon in Andhra Pradesh.\nStatement 3 is correct: Incised (entrenched) meanders occur when a river that developed sinuous loops on an open floodplain or peneplain is suddenly rejuvenated. The river cuts aggressively downward into hard bedrock, freezing its meandering pattern into steep-walled rock canyons (e.g., San Juan River Goosenecks, Ken River canyon).\n\n💡 RANKER'S MEMORY LOCK: Fluvial Valley Types → Gorge = Deep, narrow with vertical walls in uniform hard rock; Canyon = Stepped slopes through horizontal strata of alternating resistance in dry climates; Incised Meanders = Rejuvenated meandering river cutting vertically into bedrock.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Overlooks statement 3; incised meanders are a high-yield NCERT concept illustrating rejuvenation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over statement 1; vertical walls where incision exceeds lateral widening is the exact definition of a gorge."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, failing to recognize structural stepped profile characteristic of canyons."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_18",
+      "questionStem": "Consider the following statements regarding fluvial erosional landforms...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-18",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Gorges vs Canyons. Gorges have vertical sides; canyons have stepped slopes. Incised meanders form by rejuvenation of mature meandering streams.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Fluvial Landforms",
+        "concept": "Gorges, Canyons and Incised Meanders",
+        "sentence_idx": 0,
+        "block_id": "block-fluvial-valleys-18",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_19",
+    "stem": "With reference to the dynamics of river meanders and ox-bow lakes, consider the following statements:\n1. Flow velocity and centrifugal force are highest along the outer concave bank (cut bank), causing active lateral undercutting and pool scouring.\n2. Helical (corkscrew) flow sweeps sediment across the channel bed from the outer eroded bank toward the inner convex bank, depositing a point bar.\n3. An ox-bow lake forms when the narrow neck separating two adjacent meander loops is breached during flood stage, isolating the abandoned meander loop.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1, 2 and 3",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: As water flows through a bend, centrifugal force pushes the high-velocity core of the flow toward the outer concave bank (cut bank or river cliff), causing intense erosion and deep pools.\nStatement 2 is correct: A secondary circulation called helicoidal flow develops across the channel cross-section. Surface water flows toward the outer bank, dives downward, and travels across the bed toward the inner bank, carrying coarse sediment to deposit on the gently sloping convex bank as a point bar (slip-off slope).\nStatement 3 is correct: Continued lateral migration narrows the meander neck. During high-discharge flood events, the river takes the straight path of steepest hydraulic gradient, cutting through the neck (chute cutoff/neck cutoff); silt and clay subsequently plug the entrances, leaving the crescentic abandoned loop as an ox-bow lake (e.g., Kanwar Lake in Bihar).\n\n💡 RANKER'S MEMORY LOCK: Meander Hydraulics → Outer Concave Bank = High velocity, cut bank/river cliff, active undercutting; Inner Convex Bank = Low velocity, helical cross-flow, point bar/slip-off slope deposition; Neck cutoff during floods = Ox-bow lake.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statement 3; ox-bow lake formation is the natural end stage of meander loop evolution."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubts outer concave bank erosion mechanics, confusing concave and convex bank roles."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2; secondary helicoidal flow is the essential hydraulic mechanism explaining point bar deposition."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_19",
+      "questionStem": "With reference to the dynamics of river meanders and ox-bow lakes...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-19",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Meander development, point bars on concave vs convex banks, cut-offs and oxbow lake formation.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Fluvial Landforms",
+        "concept": "Meander Mechanics and Ox-bow Lakes",
+        "sentence_idx": 0,
+        "block_id": "block-meanders-19",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_20",
+    "stem": "Consider the following statements regarding river drainage systems:\n1. Antecedent rivers are streams that existed prior to tectonic mountain uplift and maintained their original courses by carving deep gorges at a rate equal to or exceeding the rate of crustal uplift.\n2. The Indus, Brahmaputra, and Sutlej are classic trans-Himalayan antecedent rivers.\n3. Superimposed (epigenetic) drainage occurs when a stream system developed on an overlying cover of younger rocks incises down into underlying discordant older basement structures, uninfluenced by their folds or faults.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: Antecedent streams predate the uplift of the landforms across which they flow. As the mountain range or ridge rises, vertical downcutting by the river matches the rate of uplift, resulting in deep, transverse antecedent gorges slicing straight through mountain axes.\nStatement 2 is correct: The Indus, Sutlej, and Brahmaputra originate in the Tibetan plateau on the northern side of the Greater Himalayas and cut right across the rising Himalayan ranges through immense gorges (e.g., Indus gorge at Bunji, Brahmaputra gorge around Namcha Barwa), proving their antecedent origin.\nStatement 3 is correct: Superimposed (or epigenetic) drainage forms when a river develops a drainage pattern on a surface cover of sedimentary or volcanic rocks. As the river cuts down, it removes the cover and imposes that original pattern onto underlying older, structurally discordant rocks (e.g., Subarnarekha, Chambal, and Damodar rivers cutting discordantly across Peninsular ridges).\n\n💡 RANKER'S MEMORY LOCK: Drainage Discordance → Antecedent Drainage = River is older than the tectonic uplift (cuts gorges through rising mountains, e.g. Indus, Sutlej, Brahmaputra); Superimposed Drainage = River pattern established on overlying cover is etched downward into discordant underlying basement (e.g. Subarnarekha, Chambal).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Leaves out statement 3; superimposed drainage is a fundamental UPSC physical geography concept paired with antecedence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubts statement 1, which represents the precise geomorphological definition of antecedence."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, failing to recognize standard NCERT textbook examples of antecedent rivers in India."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_20",
+      "questionStem": "Consider the following statements regarding river drainage systems...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-20",
+      "evidenceText": "NCERT Class XI Indian Physical Environment, Ch. 3 / Physical Geography: Antecedent drainage cuts through uplifting ranges (Indus, Brahmaputra, Sutlej). Superimposed drainage cuts across older structures.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage Systems",
+        "concept": "Antecedent vs Superimposed Drainage",
+        "sentence_idx": 0,
+        "block_id": "block-antecedent-20",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_21",
+    "stem": "Given below are two statements:\nStatement-I: A knickpoint in a river's longitudinal profile is typically characterized by a sharp break in gradient, accompanied by waterfalls or rapids, and marks the headward limit of river rejuvenation.\nStatement-II: River rejuvenation occurs when a change in base level, caused either by tectonic crustal uplift of the land or a eustatic fall in sea level, revives the river's vertical erosive power.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation for Statement-I.\nStatement-I is correct: A knickpoint (nickpoint) is an abrupt break of slope in a graded river profile, usually marked by waterfalls, cascades, or rapids. Upstream of the knickpoint, the river retains the gentle gradient of the older erosion cycle; downstream, the river flows in a steep, newly incised valley.\nStatement-II provides the direct geomorphic cause: Base level drop (due to eustatic fall in sea level) or tectonic land uplift increases the vertical hydraulic drop to the ocean, re-energizing the river and initiating a new cycle of vertical downcutting. This rejuvenating wave of incision cuts upstream (headward erosion), with the knickpoint marking the active migrating boundary between the old and new cycles.\n\n💡 RANKER'S MEMORY LOCK: River Rejuvenation & Knickpoints → Base-level drop (Eustatic fall or Tectonic uplift) → Triggers vertical rejuvenation → Headward migrating step in river gradient = Knickpoint (marked by waterfalls and valley-in-valley profiles).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Delink Trap",
+        "dissection": "Fails to recognize that base-level drop directly generates and explains the migrating knickpoint break in slope."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Conceptual Rejection Trap",
+        "dissection": "Rejects the standard geomorphological definition of base level drop as the driver of rejuvenation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Disqualifies Statement-I, confusing knickpoints with structural rock barriers."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_21",
+      "questionStem": "Given below are two statements: Statement-I: A knickpoint in a river longitudinal profile...",
+      "intentType": "causal_explanation",
+      "knowledgeNodeId": "node-geo-5-21",
+      "evidenceText": "Savindra Singh Physical Geography: River rejuvenation, polycyclic landforms, knickpoints, river terraces, and incised meanders caused by uplift or base-level drops.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Fluvial Geomorphology",
+        "concept": "River Rejuvenation and Knickpoints",
+        "sentence_idx": 0,
+        "block_id": "block-knickpoint-21",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_22",
+    "stem": "Consider the following conditions required for the development of classic Karst topography:\n1. Presence of thick, massive, soluble carbonate rocks such as limestone or dolomite, with dense joint and bedding planes.\n2. The carbonate formations must be situated well above the regional groundwater table to allow active vadose water percolation.\n3. A humid or sub-humid climate with moderate to abundant rainfall to provide continuous solvent water enriched with carbonic acid.\n4. Completely flat, low-lying coastal terrain with no relief to maximize surface ponding of stagnant water.\nWhich of the conditions given above are essential for mature Karst development?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Conditions 1, 2, and 3 are essential, while condition 4 is incorrect.\nStatement 1 is correct: Karst requires thick, massive, pure limestone or dolomite (>60-80% CaCO3) containing an intricate network of joints and bedding planes through which acidic groundwater can circulate.\nStatement 2 is correct: The limestone must lie sufficiently high above base level / regional water table so that gravity can drive vadose water downward through fractures, carving caves, sinkholes, and underground passages.\nStatement 3 is correct: Abundant precipitation is necessary to dissolve soil CO2 and form carbonic acid; arid environments lack sufficient solution activity to develop mature karst.\nStatement 4 is incorrect: Flat topography without relief hinders karst development because stagnant water cannot circulate vigorously through joints; moderate relief and incised river valleys are necessary to maintain hydraulic gradients that drain underground passages.\n\n💡 RANKER'S MEMORY LOCK: 4 Prerequisites of Karst Topography → 1. Thick, pure, well-jointed limestone/dolomite; 2. Moderate relief (incised valleys) to provide hydraulic gradient; 3. Deep water table (thick vadose zone); 4. Abundant rainfall (NOT arid or flat stagnant plains).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Core Lithology Trap",
+        "dissection": "Leaves out statement 1; soluble, well-jointed carbonate rock is the indispensable primary prerequisite for any karst."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Omits statement 2; without an elevated topography above the water table, vigorous vertical groundwater circulation is impossible."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hydrological Fallacy Trap",
+        "dissection": "Accepts statement 4; completely flat topography with stagnant water prevents underground hydraulic circulation."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_22",
+      "questionStem": "Consider the following conditions required for the development of classic Karst topography...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-22",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Groundwater and Karst. Conditions necessary for karst: thick limestone, well jointed, adequate rainfall, deep water table.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Karst Topography",
+        "concept": "Conditions for Karst Development",
+        "sentence_idx": 0,
+        "block_id": "block-karst-conditions-22",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_23",
+    "stem": "With reference to Karst erosional landforms, consider the following features:\n1. Sinkhole (Doline): A circular or funnel-shaped surface depression produced by solution of surface limestone or collapse of an underground cave roof.\n2. Uvala: A large, elongated, compound karst depression formed by the coalescing of several adjacent sinkholes.\n3. Polje: A very large, flat-floored, steep-sided tectonic-karst depression spanning several square kilometers, often drained by subterranean ponors.\n4. Lapies (Karren): Highly etched, fluted, and grooved limestone bedrock outcrops separated by razor-sharp ridges.\nHow many of the above landforms are correctly defined?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four landforms are correctly defined.\nStatement 1 is correct: Sinkholes (dolines) are the most common diagnostic surface karst landforms, formed either by downward solution from surface water (solution sinkholes) or catastrophic collapse of cavern ceilings (collapse sinkholes).\nStatement 2 is correct: An uvala is an intermediate compound depression formed when ongoing solution causes the divide walls between adjacent dolines to collapse and merge into a single irregular depression.\nStatement 3 is correct: A polje (from Slavic 'field') is the largest closed karst depression, with flat alluvial floors extending over tens to hundreds of square kilometers bounded by steep limestone walls, typically drained by swallow holes called ponors.\nStatement 4 is correct: Lapies (French) or Karren (German) are intricate surface solution features consisting of parallel grooves, runnels, and furrows etched into exposed limestone pavements by acidic rainwater runoff, leaving sharp intervening pinnacles.\n\n💡 RANKER'S MEMORY LOCK: Karst Erosional Hierarchy (Small to Large) → Lapies/Karren (surface fluting) → Sinkhole/Doline (single funnel depression) → Uvala (compound coalesced dolines) → Polje (vast flat-bottomed enclosed depression drained by ponors).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Undercounts standardized physical geography terms; all four definitions strictly reflect NCERT and Goh Cheng Leong."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "Doubts the distinction between Uvalas and Poljes, which represent well-established intermediate and macro stages of karst depression."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "Eliminates Lapies, wrongly assuming Lapies is a depositional speleothem rather than an erosional rock fluting."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_23",
+      "questionStem": "With reference to Karst erosional landforms, consider the following features...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-23",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Karst erosional landforms - swallow holes, sinkholes, dolines, uvalas, lapies, and poljes.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Karst Landforms",
+        "concept": "Sinkholes, Uvalas, Poljes and Lapies",
+        "sentence_idx": 0,
+        "block_id": "block-karst-erosional-23",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_24",
+    "stem": "Consider the following statements regarding depositional Karst features (speleothems):\n1. Stalactites grow downwards from cave ceilings as dripping calcium bicarbonate solution loses carbon dioxide and precipitates calcite.\n2. Stalagmites grow upwards from cave floors beneath dripping ceiling water and typically have broader bases and flatter tops than stalactites.\n3. When an ascending stalagmite and a descending stalactite fuse together, they form a continuous limestone pillar or column.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: As groundwater saturated with dissolved calcium bicarbonate seeps through cave ceiling joints, it reaches the cave atmosphere where partial pressure of CO2 is lower; CO2 degasses, precipitating crystalline calcium carbonate (calcite) to form slender, hollow, hanging icicle-like stalactites (holding 'tight' to the ceiling).\nStatement 2 is correct: Water droplets falling from the ceiling or stalactite tips strike the cave floor, splashing and degassing further. Calcite precipitates upward to build mound-like or conical stalagmites (which 'might' reach the roof), having broader bases, rounded crowns, and no central feeder canal.\nStatement 3 is correct: With continued growth, a descending stalactite and an ascending stalagmite coalesce into a solid rock column or limestone pillar spanning floor to ceiling.\n\n💡 RANKER'S MEMORY LOCK: Speleothems Mnemonic → StalaCtite = Ceilings (hangs tight to Ceiling, slender icicles); StalaGmite = Ground (grows up from Ground, broader base); Pillar/Column = Stalactite + Stalagmite fusion.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statement 3; limestone pillars/columns are the universal diagnostic outcome of stalactite-stalagmite fusion."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubts statement 1, confusing stalactite and stalagmite orientations."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, which accurately notes morphological differences in base width and summit curvature."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Fluvial & Karst Geomorphology",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_24",
+      "questionStem": "Consider the following statements regarding depositional Karst features...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-24",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Depositional landforms in karst: stalactites, stalagmites, and cave pillars.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Karst Landforms",
+        "concept": "Depositional Speleothems",
+        "sentence_idx": 0,
+        "block_id": "block-speleothems-24",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_25",
+    "stem": "Consider the following glacial landforms:\n1. Cirque: An armchair-shaped, steep-sided bedrock amphitheater carved into high mountain slopes by glacial plucking and freeze-thaw sapping, often holding a tarn lake.\n2. Arete: A razor-sharp, serrated, knife-edged bedrock ridge separating two adjacent cirques or glacial troughs.\n3. Horn: A sharp, pointed pyramidal peak formed by the headward convergence of three or more cirques (e.g., the Matterhorn).\n4. Hanging Valley: A tributary glacial valley whose floor sits perched high above the over-deepened main glacial trough, commonly producing spectacular waterfalls.\nHow many of the above are glacial erosional landforms?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four are glacial erosional landforms.\nStatement 1 is correct: Cirques (also called corries in Scotland, cwms in Wales) are deep, hollow rock basins with steep headwalls carved by rotational slippage of glacial ice and freeze-thaw quarrying. When the glacier melts, water often fills the basin to form a cirque lake or tarn.\nStatement 2 is correct: An arete forms when two cirques on opposite sides of a ridge or two parallel glaciated valleys erode headward and laterally toward each other, sharpening the intervening divide into a knife-edged ridge.\nStatement 3 is correct: A pyramidal peak or horn develops when three or more cirques erode headward into the same mountain summit from different sides (e.g., Matterhorn in the Swiss Alps).\nStatement 4 is correct: A hanging valley is carved by a smaller tributary glacier with less ice volume and erosive power than the massive main trunk glacier; upon deglaciation, the tributary valley floor hangs suspended hundreds of meters above the main U-shaped trough floor, with streams cascading down as waterfalls (e.g., Yosemite Falls).\n\n💡 RANKER'S MEMORY LOCK: Glacial Alpine Erosional Suite → Cirque/Corrie (armchair basin, tarn lake) → Arete (knife-edge ridge between 2 cirques) → Horn/Pyramidal Peak (3+ converging cirques) → Hanging Valley (suspended tributary valley over main U-trough).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Severely undercounts classic alpine glacial landforms, doubting core NCERT curriculum."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "Confuses hanging valleys with fluvial depositional features; hanging valleys are pristine glacial erosional troughs."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "Doubt over arete or horn, assuming one of them is depositional."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_25",
+      "questionStem": "Consider the following glacial landforms...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-25",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Glacial erosional landforms: cirque, horn, arete, U-shaped valley, hanging valley.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Glacial Landforms",
+        "concept": "Glacial Erosional Landforms",
+        "sentence_idx": 0,
+        "block_id": "block-glacial-erosional-25",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_26",
+    "stem": "With reference to glacial bedrock erosion, consider the following statements:\n1. A Roche Moutonnée is an asymmetrical glacially eroded bedrock hill with a gently sloping, striated, and abraded up-ice (stoss) side, and a steep, jagged, plucked down-ice (lee) side.\n2. A Crag and Tail consists of a resistant rock outcrop (crag) protecting a tapering tail of softer bedrock or glacial till sheltered on its down-ice (lee) side.\n3. Glacial striations, chatter marks, and roche moutonnée profiles provide unambiguous morphological evidence of the paleo-ice flow direction.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1, 2 and 3",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: A Roche Moutonnée (sheepback rock) is formed when advancing glacial ice meets a resistant bedrock knob. On the up-ice (stoss) side, high compressive stress causes regelation and smooth abrasive polishing/striation. On the down-ice (lee) side, localized pressure release and subglacial meltwater cause intense freeze-thaw plucking (quarrying), leaving a steep, rough, fractured cliff face.\nStatement 2 is correct: A Crag and Tail forms when an isolated resistant rock mass (e.g., a volcanic plug like Castle Rock in Edinburgh) obstructs ice movement, protecting softer strata or till behind it to form an elongated, tapering tail extending downstream in the direction of ice advance.\nStatement 3 is correct: Striations (scratches etched into rock by embedded clasts), chatter marks (crescentic gouges), and roche moutonnée asymmetry allow geomorphologists to reconstruct exact trajectories of Quaternary ice sheets.\n\n💡 RANKER'S MEMORY LOCK: Roche Moutonnée vs Crag & Tail → Roche Moutonnée = Stoss side SMOOTH/ABRADED (facing ice advance) + Lee side STEEP/PLUCKED (facing ice retreat direction); Crag and Tail = Resistant crag upstream + Tapering tail downstream.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statement 3; glacial striations and micro-indicators are standard geological tools for mapping ice-sheet vectors."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over statement 1; smooth stoss and plucked lee side asymmetry is the textbook definition of roche moutonnée."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, failing to recognize crag-and-tail as a classic glacial erosional/depositional hybrid."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_26",
+      "questionStem": "With reference to glacial bedrock erosion, consider the following statements...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-26",
+      "evidenceText": "Savindra Singh Physical Geography: Roche moutonnee has smooth stoss and plucked lee side. Crag and tail has steep crag facing upstream and gentle tail downstream.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Glacial Landforms",
+        "concept": "Roche Moutonnee and Crag and Tail",
+        "sentence_idx": 0,
+        "block_id": "block-roche-crag-26",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_27",
+    "stem": "Consider the following statements regarding moraines and glacial till:\n1. Glacial till is an unsorted and unstratified sediment deposited directly by melting glacial ice without sorting by running water.\n2. Lateral moraines form along the flanks of valley glaciers from frost-shattered debris falling from towering rock valley walls.\n3. Medial moraines form when two lateral moraines coalesce downstream from the confluence of two tributary valley glaciers.\n4. Terminal (end) moraines mark the outermost, maximum down-valley limit reached by an advancing glacier snout.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 2, 3 and 4",
+      "opt_d": "1 and 4 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All four statements are correct.\nStatement 1 is correct: Glacial till (or boulder clay) is deposited directly by ice ablation without water sorting; consequently, it is completely unsorted and non-stratified, containing clay, silt, sand, cobbles, and giant erratic boulders jumbled together.\nStatement 2 is correct: Lateral moraines are ridges of rocky debris accumulated along the lateral margins of a valley glacier, supplied by rockfall and periglacial frost wedging from adjacent valley cliffs.\nStatement 3 is correct: When two tributary glaciers merge, their adjacent lateral moraines combine to form a dark, central debris stripe running down the middle of the trunk glacier, known as a medial moraine.\nStatement 4 is correct: Terminal (end) moraines are arcuate ridges of unsorted till deposited at the glacier's terminus (snout) when the rate of ice forward movement balances the rate of ablation for an extended period, marking the farthest advance of the glacier.\n\n💡 RANKER'S MEMORY LOCK: Moraine Classification → Glacial Till = Unsorted, unstratified direct ice deposit; Lateral Moraines = Flank ridges along valley walls; Medial Moraine = Merged lateral moraines at glacier confluence; Terminal Moraine = Arcuate ridge marking maximum snout advance.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 4; terminal moraines are the primary geomorphic marker for reconstructing past glacial extents."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Sedimentological Trap",
+        "dissection": "Omits statement 1, failing to recognize till's defining trait: completely unsorted and unstratified sediment."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statements 2 and 3, which describe valley glacier lateral and medial moraine dynamics."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_27",
+      "questionStem": "Consider the following statements regarding moraines and glacial till...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-27",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Glacial depositional landforms: moraines (lateral, medial, ground, terminal) and unstratified till deposits.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Glacial Depositional Landforms",
+        "concept": "Moraines and Till",
+        "sentence_idx": 0,
+        "block_id": "block-moraines-27",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_28",
+    "stem": "With reference to glacio-fluvial and glacial depositional landforms, consider the following statements:\n1. Eskers are long, sinuous, winding ridges composed of stratified sand and gravel deposited by subglacial meltwater streams flowing through tunnels beneath stagnant ice.\n2. Drumlins are streamlined, teardrop-shaped hills of glacial till whose steep, blunt end faces up-glacier (stoss) and gentler tapered tail points down-glacier (lee).\n3. Kames are steep-sided mounds or small hills composed of stratified sand and gravel deposited in crevasses or moulin holes on melting stagnant ice.\n4. Swarms of drumlins produce an undulating landscape famously termed 'basket of eggs topography'.\nHow many of the above statements are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct.\nStatement 1 is correct: Eskers are glacio-fluvial depositional landforms formed by meltwater rivers carrying sand and gravel inside tunnels at the base of glaciers; when the ice melts away, the riverbed gravel remains as an elevated, winding railway-embankment-like ridge.\nStatement 2 is correct: Drumlins are streamlined depositional hills formed beneath actively flowing ice sheets. Unlike roches moutonnées, drumlins have their steep, blunt end pointing UP-GLACIER (upstream) and their long, tapered, gentle slope pointing DOWN-GLACIER (downstream) in the direction of ice motion.\nStatement 3 is correct: Kames are irregular hills/deltas of washed, stratified glaciofluvial sediment deposited in openings or depressions on the surface of wasting ice sheets.\nStatement 4 is correct: Drumlins typically occur in vast clusters of hundreds or thousands of mounds, known geomorphically as drumlin fields or 'basket-of-eggs topography' (e.g., in Ireland and northern New York).\n\n💡 RANKER'S MEMORY LOCK: Glacio-Fluvial Landforms Key Distinctions → Esker = Long sinuous ridge of STRATIFIED gravel (subglacial river tunnel); Drumlin = Teardrop till hill, blunt end up-ice, tapered tail down-ice ('Basket of eggs'); Kame = Stratified mound deposited in stagnant ice cavity; Roche Moutonnée vs Drumlin: Roche Moutonnee is erosional bedrock (gentle up-ice, steep down-ice), Drumlin is depositional till (steep up-ice, gentle down-ice).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Severely underestimates matched statements; all four are classic NCERT textbook descriptions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Orientation Confusion Trap",
+        "dissection": "Confuses Drumlin asymmetry with Roche Moutonnée asymmetry, wrongly thinking drumlins have blunt ends downstream."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Terminology Trap",
+        "dissection": "Doubt over 'basket of eggs' topography; this is the classic standard English phrase used in UPSC questions for drumlin fields."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_28",
+      "questionStem": "With reference to glacio-fluvial and glacial depositional landforms...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-28",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Eskers, drumlins, kames and outwash plains. Drumlins form basket-of-eggs topography with blunt ends facing upstream.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Glacial Depositional Landforms",
+        "concept": "Eskers, Drumlins and Kames",
+        "sentence_idx": 0,
+        "block_id": "block-eskers-drumlins-28",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_29",
+    "stem": "Consider the following statements regarding aeolian erosional landforms:\n1. Yardangs are elongated, streamlined wind-carved bedrock ridges aligned parallel to the prevailing wind direction, developed in rocks with vertically oriented strata of alternating hardness.\n2. Zeugen are tabular, flat-topped rock ridges formed in horizontally bedded strata where a resistant caprock overlies softer rock, undercut by wind abrasion along open joint furrows.\n3. Ventifacts are loose desert pebbles and stones whose surfaces have been shaped, faceted, and polished by windblown sand abrasion, often forming three-sided dreikanter.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1, 2 and 3",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: Yardangs develop where bands of hard and soft rock are aligned vertically and oriented parallel to prevailing winds. Wind abrasion carves deep grooves/furrows into the softer rocks, leaving sharp, streamlined, keel-shaped ridges of resistant rock standing several meters high, parallel to the wind.\nStatement 2 is correct: Zeugen (singular: Zeuge) develop in horizontally layered rocks where a resistant upper layer (e.g. limestone or sandstone) overlies a softer shale/clay bed. Weathering deepens joints in the caprock; wind abrasion subsequently scoops out the softer underlying rock along joint furrows, creating mushroom-like tabular ridges or table-shaped blocks with overhanging cornices.\nStatement 3 is correct: Ventifacts are desert pebbles, cobbles, or boulders sculpted by wind-blown sand abrasion. When prevailing winds blow from multiple distinct directions or the stone is rotated, several flat, polished, sharp-edged facet faces are produced; stones with three polished facets resembling a Brazil nut are called dreikanter.\n\n💡 RANKER'S MEMORY LOCK: Yardang vs Zeuge vs Ventifact → Yardang = Vertically tilted alternating strata parallel to wind (streamlined keel ridges); Zeuge = Horizontally layered rock with resistant caprock undercut by wind (table-like tabular ridges); Ventifact/Dreikanter = Wind-faceted polished pebbles with sharp intersecting faces.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 3; ventifacts and dreikanter are foundational NCERT terms for wind-abraded clasts."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over statement 1; vertical strata alignment is the essential structural control defining yardangs."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Omits statement 2, which accurately defines zeugen in horizontal caprock strata."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_29",
+      "questionStem": "Consider the following statements regarding aeolian erosional landforms...",
+      "intentType": "comparative_evaluation",
+      "knowledgeNodeId": "node-geo-5-29",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Wind erosional landforms: pediments, yardangs, zeugen, and ventifacts.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Aeolian Landforms",
+        "concept": "Yardangs, Zeugen and Ventifacts",
+        "sentence_idx": 0,
+        "block_id": "block-aeolian-erosional-29",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_30",
+    "stem": "With reference to aeolian geomorphic processes, consider the following statements:\n1. Mushroom rocks (pedestal rocks) develop primarily because sand-blasting abrasion is concentrated near the ground surface, where saltating sand grains bounce within 1 to 2 meters of the floor.\n2. Deflation hollows (blowouts) are formed when turbulent wind lifts and evacuates loose, fine dust particles, sometimes carving depressions down to the regional water table to sustain desert oases.\n3. Erg refers to a rocky, hard-surfaced desert pavement stripped of all sand, while Reg refers to a vast sea of mobile sand dunes.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: Wind cannot lift abrasive sand particles high into the air; sand grains move predominantly by saltation (bouncing) within 0.5 to 1.5 meters above ground level. Therefore, maximum mechanical abrasion attacks the base of an isolated rock outcrop, undercutting it into a narrow pedestal with a broad caprock, forming a mushroom rock (pedestal rock).\nStatement 2 is correct: Wind deflation is the lifting and removal of loose, dry, fine particles by turbulent airflow. Progressive deflation excavates shallow depressions or blowouts; in deep depressions like the Qattara Depression in Egypt, deflation reaches the water table, giving rise to natural desert oases.\nStatement 3 is incorrect: The definitions are inverted. An Erg is a vast sandy desert characterized by undulating sand dunes (e.g., the Grand Erg Oriental in the Sahara). A Reg is a stony desert covered with a lag gravel or desert pavement where fine sand has been stripped away. A Hamada is a bare, rocky desert plateau.\n\n💡 RANKER'S MEMORY LOCK: Desert Surface Types & Aeolian Landforms → Erg = Sandy desert / Dune sea; Reg = Stony desert / Gravel pavement; Hamada = Bare rocky desert; Mushroom Rocks = Saltation undercutting within 1-2m of ground; Deflation Hollows = Wind excavation reaching water table to create Oases.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 1; saltation concentration near the ground is the standard physical explanation for mushroom rock undercutting."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Accepts statement 3; examiners frequently invert Erg (sandy) and Reg (stony desert)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts all statements without detecting the classic Erg vs Reg definition swap."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_30",
+      "questionStem": "With reference to aeolian geomorphic processes, consider the following statements...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-30",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7 / Goh Cheng Leong: Mushroom rocks formed by saltation abrasion near ground. Deflation hollows and desert types: Erg (sandy), Reg (stony), Hamada (rocky).",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Aeolian Landforms",
+        "concept": "Mushroom Rocks, Deflation Hollows, Desert Types",
+        "sentence_idx": 0,
+        "block_id": "block-mushroom-erg-30",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_31",
+    "stem": "Consider the following statements regarding sand dune morphologies:\n1. Barchans are crescent-shaped sand dunes formed under unidirectional winds and limited sand supply, with their gentle convex slope facing upwind and their horns pointing downwind.\n2. Seif (longitudinal) dunes are elongated, linear, sharp-crested sand ridges oriented parallel to the prevailing or resultant wind direction.\n3. Parabolic dunes have their horns pointing upwind and their convex nose facing downwind, typically anchored by vegetation along coasts or semi-arid margins.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: Barchans (crescentic dunes) form in areas of uniform wind direction and limited sand supply. Sand is pushed up the gentle windward slope (10-15°) and avalanches down the steep slip face (30-34°) between two advancing horns pointing in the downwind direction.\nStatement 2 is correct: Seif dunes (from Arabic 'sword') are longitudinal dunes consisting of long, narrow, knife-edged sand ridges stretching for tens of kilometers parallel to the prevailing wind vector, formed by alternating dominant and secondary oblique wind currents.\nStatement 3 is correct: Parabolic dunes are morphologically inverted relative to barchans: their convex nose faces downwind while their trailing arms/horns point upwind because vegetation anchors the outer arms, allowing the unstable central blowout to advance downwind.\n\n💡 RANKER'S MEMORY LOCK: Sand Dune Morphologies → Barchan = Crescent dune, horns point DOWNWIND (wind pushes horns forward, no vegetation); Parabolic Dune = Crescent dune, horns point UPWIND (anchored by coastal vegetation); Seif/Longitudinal = Linear knife-edged ridges parallel to wind direction; Transverse = Wave-like ridges perpendicular to wind.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Leaves out statement 3; the contrast between Barchans (horns downwind) and Parabolic dunes (horns upwind) is a classic UPSC trap."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubts statement 1, confusing barchan horn orientations."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, which accurately defines linear Seif dunes."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_31",
+      "questionStem": "Consider the following statements regarding sand dune morphologies...",
+      "intentType": "comparative_evaluation",
+      "knowledgeNodeId": "node-geo-5-31",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Depositional landforms: Barchans, Seif, Parabolic dunes, Transverse dunes.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Aeolian Depositional Landforms",
+        "concept": "Sand Dunes Types",
+        "sentence_idx": 0,
+        "block_id": "block-sand-dunes-31",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_32",
+    "stem": "With reference to arid and semi-arid piedmont landforms, consider the following statements:\n1. A pediment is a gently inclined, bedrock erosional rock-cut bench carved at the foot of an abrupt desert mountain front.\n2. A bajada is a continuous depositional apron formed by the lateral coalescing of a series of adjacent alluvial fans emerging from desert mountain canyons.\n3. Playas are flat, ephemeral lake beds occupying the lowest depression of internal drainage basins (bolsons), characterized by thick evaporite salt crusts.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: A pediment is an erosional bedrock surface with a gentle slope (0.5° to 5°) extending outward from the base of a retreating mountain escarpment, formed through lateral planation by sheet floods and rills.\nStatement 2 is correct: A bajada (or bahada) is an extensive depositional apron formed when multiple individual alluvial fans spreading from canyon mouths coalesce along the piedmont zone, flanking the mountain front with thick detrital gravel and sand.\nStatement 3 is correct: Playas (or salars/alkali flats) are extremely flat, dry mud basins located in the central sump of desert interior drainage basins (bolsons). Ephemeral runoff ponds temporarily in playas and evaporates rapidly under arid heat, leaving behind glistening crusts of salts (halite, gypsum, borates), such as the Great Rann of Kutch and the Bonneville Salt Flats.\n\n💡 RANKER'S MEMORY LOCK: Desert Piedmont Landscape Suite → Mountain Front → Pediment (EROSIONAL rock-cut bedrock bench at foot of mountain) → Alluvial Fans merge into Bajada (DEPOSITIONAL piedmont alluvial apron) → Playa (Lowest interior drainage basin with evaporite salt flats).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Leaves out statement 3; playas and bolsons are fundamental components of desert basin-and-range geomorphology."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over statement 1; pediments are strictly erosional bedrock platforms, distinct from depositional fans."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, failing to recognize that coalescing alluvial fans specifically define a bajada."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Glacial & Aeolian Landscapes",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_32",
+      "questionStem": "With reference to arid and semi-arid piedmont landforms...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-32",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Pediments and Bajadas. Pediment is erosional bedrock surface; bajada is depositional fan coalescence. Playas in desert basins.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Aeolian and Arid Landforms",
+        "concept": "Pediments, Bajadas and Playas",
+        "sentence_idx": 0,
+        "block_id": "block-pediments-bajada-32",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_33",
+    "stem": "Consider the following evolutionary sequence of coastal erosional landforms on a cliffed headland:\n1. Hydraulic quarrying and wave abrasion exploit structural joints and faults on headland flanks to excavate sea caves.\n2. When two sea caves eroding back-to-back from opposite sides of a promontory coalesce, they break through to form a sea arch.\n3. Continuous undercutting and subaerial weathering cause the arch roof to collapse, leaving an isolated vertical rock pillar known as a sea stack.\n4. Continuing wave assault and basal abrasion eventually cut the stack down to an intertidal rock stump, visible only at low tide.\nWhich of the statements given above correctly describe this geomorphic evolutionary sequence?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 2, 3 and 4",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All four statements are correct.\nThis describes the classic evolutionary denudation sequence of coastal headlands:\n1. Sea caves: Wave compression of trapped air in joints (hydraulic action) plus sand abrasion carves hollows into headland weaknesses.\n2. Sea arches: As wave refraction focuses energy on both sides of a narrow headland, back-to-back caves meet and breach, creating a natural arch (e.g., Durdle Door in Dorset, England).\n3. Sea stacks: The roof of the arch is widened by subaerial weathering and thinned from below until it collapses under gravity, leaving an isolated offshore rock column standing in deep water called a stack (e.g., Old Man of Hoy in Orkney, The Twelve Apostles in Australia).\n4. Sea stumps: Stacks are heavily battered by breaking waves at their base, eventually collapsing into low, wave-washed rock platforms known as stumps.\n\n💡 RANKER'S MEMORY LOCK: Headland Erosional Sequence → Fault/Joint weakness → Sea Cave → Sea Arch (breaching through headland) → Arch Roof Collapses → Sea Stack (isolated pillar) → Basal toppling → Sea Stump (intertidal platform).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 4; a stump is the recognized terminal stage of sea stack erosion in coastal geomorphology."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Omits statement 1, failing to recognize that caves represent the foundational initial stage of the sequence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Leaves out statements 2 and 4, jumping disjointedly across the morphological stages."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_33",
+      "questionStem": "Consider the following evolutionary sequence of coastal erosional landforms...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-33",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Wave erosional landforms: sea cliffs, sea caves, sea arches, stacks, and wave-cut platforms.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Coastal Landforms",
+        "concept": "Coastal Erosional Landforms Sequence",
+        "sentence_idx": 0,
+        "block_id": "block-coastal-seq-33",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_34",
+    "stem": "With reference to wave-cut platforms and sea cliffs, consider the following statements:\n1. A wave-cut notch is formed at the base of a coastal sea cliff primarily by hydraulic action and abrasion concentrated within the intertidal zone around high-tide level.\n2. As the cliff retreats landward through episodic collapse of unsupported overhanging rock, a gently seaward-sloping rock bench called a wave-cut platform is left behind.\n3. The presence of elevated fossil wave-cut platforms located dozens of meters above modern high-tide level indicates coastal submergence.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: Breaking storm waves deliver immense hydraulic shock pressures (up to tens of tons per square meter) and fling sand and shingle against the cliff base between high and low water marks, scouring a horizontal groove or wave-cut notch.\nStatement 2 is correct: As the notch deepens, the overhanging rock face loses basal support and collapses by rockfall or slab failure. Through repeated cycles of undercutting and collapse, the cliff face retreats inland (cliff recession), leaving a smooth, gently sloping rock bench at its foot termed a wave-cut platform (or shore platform).\nStatement 3 is incorrect: Elevated fossil wave-cut platforms stranded high above current sea level indicate coastal EMERGENCE (due to tectonic uplift of the land or glacio-eustatic drop in sea level), not submergence.\n\n💡 RANKER'S MEMORY LOCK: Wave-Cut Platforms & Sea-Level Indicators → Basal Notch undercutting → Cliff retreats landward → Forms Wave-cut Platform (Shore platform); Elevated/Raised Platforms high above sea level = COASTAL EMERGENCE / UPLIFT (NOT submergence).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 1; basal wave-cut notch scouring is the direct physical cause of cliff retreat."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Accepts statement 3; elevated marine platforms represent tectonic emergence or sea level drop, not submergence."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts all statements without detecting the inversion between emergence and submergence."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_34",
+      "questionStem": "With reference to wave-cut platforms and sea cliffs...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-34",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Cliffs, wave-cut notches, and wave-cut platforms. Elevated terraces indicate emergence of coast.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Coastal Landforms",
+        "concept": "Wave-Cut Platform Mechanics and Emergence",
+        "sentence_idx": 0,
+        "block_id": "block-wave-cut-platform-34",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_35",
+    "stem": "Consider the following statements regarding coastal longshore drift and spit development:\n1. Longshore drift is generated when swash rushes obliquely up the beach face dictated by prevailing wind/wave approach, while backwash drags sediment straight down the slope perpendicular to the shoreline under gravity.\n2. A spit is an elongated embankment of sand or shingle projecting from the mainland coast across an embayment, estuary mouth, or into open sea.\n3. The distal recurved (hooked) end of a spit develops when wave refraction around the spit tip or secondary winds redirect sediment transport landward into sheltered bay waters.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1, 2 and 3",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: Waves typically hit coasts obliquely. The uprush (swash) carries sediment up the foreshore at an oblique angle. As the wave dissipates, gravity pulls the backwash directly down the steepest slope perpendicular to the shoreline. This net zigzag trajectory of sand grains along the coast is known as longshore (littoral) drift.\nStatement 2 is correct: Where the coastline abruptly turns inland (such as across an estuary, river mouth, or bay), longshore drift continues dumping sand into deeper, calmer water, building an elongated finger-like ridge called a spit (e.g., Spurn Head in England).\nStatement 3 is correct: As waves wrap around the free end of the spit, wave refraction bends wave energy landward. This, combined with secondary wind currents, turns the tip of the spit toward the coast, creating a hooked or recurved spit.\n\n💡 RANKER'S MEMORY LOCK: Longshore Drift & Spit Mechanics → Zigzag littoral transport: Oblique Swash + Perpendicular Backwash = Longshore Drift; Spit = Sand ridge extending across bay mouth; Recurved Hook = Wave refraction bending the spit tip landward.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Leaves out statement 3; recurved hooks are the standard morphological trait of mature spits."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubts statement 1, failing to recognize the oblique swash and perpendicular backwash zigzag mechanism."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, which provides the primary geomorphological definition of a spit."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_35",
+      "questionStem": "Consider the following statements regarding coastal longshore drift and spit development...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-35",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Coastal depositional landforms: beaches, bars, spits, and hooks formed by longshore drift.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Coastal Depositional Landforms",
+        "concept": "Longshore Drift, Spits, and Hooks",
+        "sentence_idx": 0,
+        "block_id": "block-longshore-spits-35",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_36",
+    "stem": "With reference to coastal depositional landforms, consider the following statements:\n1. A tombolo is a sand or shingle bar that joins an offshore island to the mainland or links two adjacent offshore islands together.\n2. Barrier islands are narrow, elongated sandy ridges that lie parallel to the mainland coast, separated from it by shallow lagoons or tidal marshes.\n3. An offshore bar that grows completely across the mouth of an embayment, sealing it off from the open sea to form a brackish lagoon, is termed a baymouth bar.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: A tombolo (from Italian 'mound') forms when waves refract around an offshore island, creating a low-energy zone in its lee where converging longshore currents deposit sand until a connecting isthmus bridges the island to the mainland (e.g., Chesil Beach connecting the Isle of Portland to Dorset; St. Ninian's Isle in Shetland).\nStatement 2 is correct: Barrier islands are prominent coastal features formed by offshore bar growth and post-glacial sea-level rise; they run parallel to mainland coasts for hundreds of kilometers (e.g., the Outer Banks of North Carolina, Padre Island in Texas), shielding lagoons, estuaries, and salt marshes from open ocean storm surf.\nStatement 3 is correct: When a spit continues to grow across the entire entrance of a bay until it reaches the opposite headland, it becomes a baymouth bar, enclosing the bay into a coastal lagoon (e.g., Slapton Ley in England, Lake Pulicat and Chilika Lake barriers in India).\n\n💡 RANKER'S MEMORY LOCK: Coastal Depositional Geometries → Tombolo = Bar connecting an offshore island to the mainland; Baymouth Bar = Bar completely sealing a bay mouth into a lagoon; Barrier Islands = Parallel sandy islands shielding coastal lagoons.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Leaves out statement 3; baymouth bars are the direct precursor landform enclosing coastal lagoons."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubt over statement 1; tombolos are a classic UPSC Prelims identification question."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, which accurately defines barrier islands and their lagoons."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_36",
+      "questionStem": "With reference to coastal depositional landforms...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-36",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Bars, barriers, and spits. Tombolo connects island to coast. Barrier islands and baymouth bars enclose lagoons.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Coastal Depositional Landforms",
+        "concept": "Tombolos, Barrier Islands and Baymouth Bars",
+        "sentence_idx": 0,
+        "block_id": "block-tombolo-barrier-36",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_37",
+    "stem": "With reference to coastal geomorphological classifications, consider the following types of coastlines:\n1. Ria coast: A submerged coastline formed by the drowning of river-carved valleys, characterized by branching, funnel-shaped inlets that widen and deepen seawards.\n2. Fjord coast: A submerged coastline formed by the drowning of deep, steep-sided, U-shaped glacial troughs, often featuring shallow threshold sills near their mouths.\n3. Dalmatian coast: A submerged coastline formed where longitudinal mountain ridges and parallel tectonic valleys trend parallel to the coast, producing long chains of parallel offshore islands.\n4. Haff coast: A low-lying coastline featuring elongate sandbars (nehrungen) enclosing large shallow brackish lagoons (haffs).\nHow many of the above coastal types are correctly characterized?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four coastal types are correctly characterized.\nStatement 1 is correct: A Ria coast (from Galician 'ria') develops when post-glacial sea levels rise, drowning unglaciated river valleys in mountainous or hilly terrain. They present dendritic, branching estuaries with decreasing depth inland (e.g., coasts of Galicia in NW Spain, SW Ireland, and Brittany in France).\nStatement 2 is correct: A Fjord coast develops when post-glacial sea-level rise drowns glaciated U-shaped valleys. Fjords are exceptionally deep (often exceeding 1,000 meters) with sheer precipitous rock walls and have a shallow underwater threshold (sill) at their ocean entrance caused by terminal moraine deposition (e.g., Norway, Chile, New Zealand).\nStatement 3 is correct: A Dalmatian (or longitudinal) coast forms when a mountainous region with parallel anticlines and synclines running concordant (parallel) to the coastline is submerged; the drowned synclinal valleys become sounds and channels, while the anticlinal ridges become elongated island chains (e.g., the Adriatic coast of Croatia).\nStatement 4 is correct: A Haff coast (common in the southern Baltic Sea, e.g., Curonian and Vistula lagoons) is a lowland coastline where powerful spit-building creates long offshore sand spits (nehrungen) enclosing vast, calm, brackish coastal lagoons (haffs).\n\n💡 RANKER'S MEMORY LOCK: 4 Submerged Coastline Types → Ria Coast = Drowned unglaciated river valleys (branching, funnel-shaped, NW Spain); Fjord Coast = Drowned U-shaped glacial troughs with shallow threshold sills (Norway, Chile); Dalmatian Coast = Drowned concordant parallel ridges & valleys (Adriatic/Croatia); Haff Coast = Lowland coast with sandbars (nehrungen) enclosing lagoons (haffs, Baltic Sea).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap",
+        "dissection": "Severely underestimates matched pairs; all four represent classic Goh Cheng Leong and Savindra Singh coastal classifications."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Count Ambiguity Trap",
+        "dissection": "Doubt over Haff coast or Dalmatian coast, assuming one of them belongs to emergent coasts."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "Doubts the presence of shallow threshold sills in fjords; sills are the defining geomorphic criterion distinguishing fjords from rias."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_37",
+      "questionStem": "With reference to coastal geomorphological classifications, consider the following types of coastlines...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-37",
+      "evidenceText": "Goh Cheng Leong Certificate Physical and Human Geography, Ch. 10 / Savindra Singh: Classification of coasts: Ria, Fjord, Dalmatian, and Haff coasts under submergence.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Coastal Classifications",
+        "concept": "Submergent Coasts: Ria, Fjord, Dalmatian, Haff",
+        "sentence_idx": 0,
+        "block_id": "block-coastal-types-37",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_38",
+    "stem": "Consider the following statements regarding coral reef landforms:\n1. According to Charles Darwin's subsidence theory, coral reefs evolve in the developmental sequence: Fringing Reef -> Barrier Reef -> Atoll, driven by the slow subsidence of the underlying volcanic island.\n2. Fringing reefs are separated from the adjacent mainland coast by a wide, deep navigable lagoon, whereas barrier reefs grow contiguous to the shoreline without any lagoon.\n3. An atoll is an annular or horseshoe-shaped coral reef enclosing a central lagoon, lacking any remnant central volcanic island above sea level.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 3 only",
+      "opt_b": "1 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 3 are correct, while statement 2 is incorrect.\nStatement 1 is correct: In 1842, Charles Darwin formulated the Subsidence Theory of coral reef formation. He proposed that corals first colonize the shallow margins of an active or dormant volcanic island as a fringing reef. As the volcanic island cools and slowly subsides into the ocean, corals continue to grow vigorously upward toward the sunlit sea surface, transitioning into a barrier reef with a wide lagoon, and finally, upon complete submergence of the central volcanic island beneath the sea, into an annular coral atoll (e.g., Lakshadweep and Maldives atolls).\nStatement 2 is incorrect: The descriptions are inverted. A fringing reef grows directly adjacent and contiguous to the shoreline, separated only by a very shallow, narrow boat channel. A barrier reef is situated kilometers offshore, separated from the mainland or volcanic island by a wide, deep, navigable lagoon (e.g., the Great Barrier Reef of Australia).\nStatement 3 is correct: An atoll consists of a circular, oval, or horseshoe-shaped coral rim enclosing a central lagoon, where the original volcanic core has completely subsided beneath sea level.\n\n💡 RANKER'S MEMORY LOCK: Coral Reef Evolution (Darwin's Subsidence Theory) → 1. Fringing Reef: Contiguous to shore, no deep lagoon; 2. Barrier Reef: Island subsides, wide & deep navigable lagoon separates reef from shore; 3. Atoll: Island completely sinks below sea level, leaving an annular coral ring enclosing a central lagoon.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 3; atoll geomorphology without an emergent central island is the culmination of Darwin's theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Accepts statement 2; examiners frequently invert fringing reef (close to shore) and barrier reef (deep wide lagoon)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts all statements without spotting the reversed lagoon properties in statement 2."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_38",
+      "questionStem": "Consider the following statements regarding coral reef landforms...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-38",
+      "evidenceText": "NCERT Class XI Physical Geography / Savindra Singh: Coral reefs: fringing reefs, barrier reefs, and atolls. Darwin's subsidence theory.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Marine Landforms",
+        "concept": "Coral Reefs and Darwin Subsidence Theory",
+        "sentence_idx": 0,
+        "block_id": "block-coral-reefs-38",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_39",
+    "stem": "With reference to marine transgressions, regressions, and coastal terraces, consider the following statements:\n1. Raised beaches, fossil sea caves, and uplifted wave-cut benches situated inland and meters above modern sea levels provide direct geomorphic evidence of an emergent coastline.\n2. Submerged river valleys, drowned forests, and rias provide conclusive geomorphic evidence of a submergent coastline.\n3. Glacio-eustatic sea-level fluctuations represent worldwide changes in ocean water volume driven by the growth and melting of continental ice sheets during glacial-interglacial cycles.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "1, 2 and 3",
+      "opt_c": "1 and 3 only",
+      "opt_d": "2 and 3 only"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "All three statements are correct.\nStatement 1 is correct: An emergent coastline is produced when relative sea level falls—either through tectonic crustal uplift (isostatic rebound / epeirogenic uplift) or global eustatic sea-level drop. High-energy marine erosional landforms that originally formed at sea level (such as wave-cut platforms, sea caves, and beach deposits) become perched high above modern high tides as raised beaches and marine terraces (e.g., parts of the Saurashtra coast and West coast of India around Konkan).\nStatement 2 is correct: A submergent coastline results from relative sea-level rise (marine transgression), where rising waters flood pre-existing terrestrial landscapes, creating drowned river valleys (rias), drowned glacial troughs (fjords), and submerging coastal forests.\nStatement 3 is correct: Glacio-eustasy (formulated by Eduard Suess and Reginald Daly) describes global changes in sea level driven by changes in the volume of water stored in continental ice sheets. During the Last Glacial Maximum (~20,000 years ago), sea levels were approximately 120-130 meters lower than present.\n\n💡 RANKER'S MEMORY LOCK: Coastline Emergence vs Submergence Indicators → Emergent Coast = Raised beaches, uplifted wave-cut platforms, stranded sea caves, fossil cliff lines (Relative sea-level drop or crustal uplift); Submergent Coast = Drowned river valleys (rias), drowned glacial valleys (fjords), submerged forests (Marine transgression).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Incomplete Synthesis Trap",
+        "dissection": "Leaves out statement 3; glacio-eustasy is the fundamental mechanism driving Quaternary sea level oscillations."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Elimination Hesitation Trap",
+        "dissection": "Doubts statement 1, failing to recognize raised beaches and perched platforms as the primary diagnostic landforms of emergent coasts."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 2, which accurately defines submergent coastal features."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Medium",
+    "level": "Medium",
+    "difficulty_level": 2,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_39",
+      "questionStem": "With reference to marine transgressions, regressions, and coastal terraces...",
+      "intentType": "conceptual_understanding",
+      "knowledgeNodeId": "node-geo-5-39",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7: Emergent and submergent coasts. Raised beaches and marine terraces indicate emergent coastlines.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Coastal Classifications",
+        "concept": "Emergent vs Submergent Coastlines",
+        "sentence_idx": 0,
+        "block_id": "block-emergent-submergent-39",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top5_new_40",
+    "stem": "Consider the following statements regarding coastal geomorphic dynamics and natural protective landforms:\n1. Coastal foredunes act as flexible sediment reservoirs that absorb storm wave energy and naturally replenish eroded beach berms through seasonal storm-berm exchange.\n2. Mangrove prop roots and pneumatophores attenuate wave energy and tidal velocity, promoting the flocculation and sedimentation of fine suspended silts to advance coastal land progradation.\n3. The construction of hard groynes perpendicular to the shore prevents beach erosion along the entire downstream coastal reach.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while statement 3 is incorrect.\nStatement 1 is correct: Coastal foredunes, vegetated by halophytic psammophytes (like spinifex and marram grass), function as critical biophysical buffers. During winter storms, high surge waves scarp the dune, eroding sand to form an offshore sand bar that dissipates wave energy; during fair-weather summer swell, sand migrates back onshore, rebuilding the beach berm and dune.\nStatement 2 is correct: Mangroves (e.g. Rhizophora and Avicennia) possess dense networks of stilt roots, knee roots, and pneumatophores that increase hydraulic roughness, cutting wave heights by up to 66% within 100 meters of forest. They cause cohesive clays and organic detritus to flocculate and settle, acting as geomorphic land-builders (coastal progradation).\nStatement 3 is incorrect: Hard groynes built perpendicular to the shoreline intercept longshore drift. While they trap sand on the updrift side, widening that local beach, they starve the downdrift coastline of sediment, causing catastrophic accelerated erosion downdrift (the notorious 'terminal groyne syndrome').\n\n💡 RANKER'S MEMORY LOCK: Coastal Protective Geomorphology → Foredunes = Dynamic sediment reservoir buffering storm waves; Mangroves = Wave attenuators promoting sediment flocculation and land accretion; Groynes = Trap sand updrift BUT starve and severely erode downdrift shoreline (Terminal Groyne Syndrome).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Exclusion Trap",
+        "dissection": "Leaves out statement 1; seasonal dune-beach sediment exchange is a core principle in coastal dynamic equilibrium."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Engineering Fallacy Trap",
+        "dissection": "Accepts statement 3; hard engineering structures like groynes notoriously induce downdrift erosion starvation."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepts all three statements, missing the classic downdrift erosion penalty caused by perpendicular groynes."
+      }
+    ],
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "Physical Geography",
+    "subTopic": "Coastal & Marine Landforms",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Elite",
+    "originalTopicId": 5,
+    "originalTopicName": "Geomorphic Processes & Landforms",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_top5_new_40",
+      "questionStem": "Consider the following statements regarding coastal geomorphic dynamics...",
+      "intentType": "mechanistic_analysis",
+      "knowledgeNodeId": "node-geo-5-40",
+      "evidenceText": "NCERT Class XI Physical Geography, Ch. 7 / Environmental Geography: Coastal protection by dunes and mangroves. Anthropogenic modifications like groynes and sea walls alter coastal drift equilibrium.",
+      "sourceFile": "ncert_xi_physical_geo.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "Coastal Landforms and Dynamics",
+        "concept": "Coastal Buffers and Groyne Dynamics",
+        "sentence_idx": 0,
+        "block_id": "block-coastal-protection-40",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12T17:15:00Z",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Elite",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
   }
 ]

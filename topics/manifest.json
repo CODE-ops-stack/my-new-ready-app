@@ -1,6 +1,6 @@
 {
-  "version": 17,
-  "totalQuestions": 2822,
+  "version": 18,
+  "totalQuestions": 3522,
   "totalTopics": 23,
   "topics": [
     {
@@ -18,19 +18,19 @@
     {
       "topicId": 3,
       "topicName": "🗺️ Maps, Scale, Projections & GIS",
-      "count": 23,
+      "count": 83,
       "file": "topic_3.json"
     },
     {
       "topicId": 4,
       "topicName": "🌋 Earth's Interior, Rocks & Plate Tectonics",
-      "count": 277,
+      "count": 317,
       "file": "topic_4.json"
     },
     {
       "topicId": 5,
       "topicName": "⛰️ Geomorphic Processes & Landforms",
-      "count": 239,
+      "count": 279,
       "file": "topic_5.json"
     },
     {
@@ -48,13 +48,13 @@
     {
       "topicId": 8,
       "topicName": "🌿 Biogeography, Ecosystems & Biodiversity",
-      "count": 82,
+      "count": 132,
       "file": "topic_8.json"
     },
     {
       "topicId": 9,
       "topicName": "🇮🇳 India: Location, Size & Neighbours",
-      "count": 90,
+      "count": 130,
       "file": "topic_9.json"
     },
     {
@@ -72,31 +72,31 @@
     {
       "topicId": 12,
       "topicName": "🌧️ Indian Climate & Monsoon",
-      "count": 70,
+      "count": 120,
       "file": "topic_12.json"
     },
     {
       "topicId": 13,
       "topicName": "🌱 Soils & Natural Vegetation of India",
-      "count": 92,
+      "count": 132,
       "file": "topic_13.json"
     },
     {
       "topicId": 14,
       "topicName": "🐅 Wildlife, Protected Areas & Conservation",
-      "count": 76,
+      "count": 126,
       "file": "topic_14.json"
     },
     {
       "topicId": 15,
       "topicName": "🌾 Agriculture",
-      "count": 131,
+      "count": 171,
       "file": "topic_15.json"
     },
     {
       "topicId": 16,
       "topicName": "💧 Water Resources, Irrigation & Dams",
-      "count": 40,
+      "count": 100,
       "file": "topic_16.json"
     },
     {
@@ -108,7 +108,7 @@
     {
       "topicId": 18,
       "topicName": "🏭 Industries",
-      "count": 72,
+      "count": 122,
       "file": "topic_18.json"
     },
     {
@@ -126,19 +126,19 @@
     {
       "topicId": 21,
       "topicName": "📈 Human Development & Economic Activities",
-      "count": 43,
+      "count": 103,
       "file": "topic_21.json"
     },
     {
       "topicId": 22,
       "topicName": "🗺️ World Regional Geography",
-      "count": 60,
+      "count": 120,
       "file": "topic_22.json"
     },
     {
       "topicId": 23,
       "topicName": "📍 Bihar Geography",
-      "count": 2,
+      "count": 62,
       "file": "topic_23.json"
     }
   ]

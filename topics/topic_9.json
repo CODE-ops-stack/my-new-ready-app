@@ -6388,5 +6388,2845 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "q_4a9547f0",
+    "stem": "Consider the following statements regarding the Tropic of Cancer in India:\n1. It passes through eight Indian states, traversing Rajasthan for the shortest stretch among them.\n2. The River Mahi is the only river in India that cuts across the Tropic of Cancer twice.\n3. Among all state capitals in India, Ranchi is located closest to the Tropic of Cancer.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The Tropic of Cancer (23°30' N) traverses 8 Indian states from west to east: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. Rajasthan has the shortest stretch (~26 km through Banswara and Dungarpur), while Madhya Pradesh has the longest stretch.\n2. The Mahi River originates in Dhar district (MP), cuts the Tropic of Cancer flowing north into Rajasthan, then turns southwest entering Gujarat where it cuts the Tropic of Cancer a second time before emptying into the Gulf of Khambhat.\n3. Ranchi (capital of Jharkhand) is situated at ~23°21' N, making it the closest state capital to the Tropic of Cancer (under 15-20 km distance). Other close capitals include Gandhinagar (~23°13' N) and Bhopal (~23°16' N).\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Tropic of Cancer cuts 8 states (shortest in Rajasthan, longest in MP); Mahi river crosses it twice; Ranchi is the closest state capital.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You recognized statements 1 and 2 but doubted statement 3. Ranchi at 23°21' N is indeed the closest state capital to 23°30' N."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1 believing Rajasthan is not traversed or has a longer stretch. Rajasthan has the shortest stretch of all 8 states."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You dismissed statement 2. The Mahi River is globally celebrated as the prime example of a river cutting the Tropic of Cancer twice."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_4a9547f0",
+      "questionStem": "Consider the following statements regarding the Tropic of Cancer in India:\n1. It passes through eight Indian states, traversing Rajasthan for the shortest stretch among them.\n2. The River Mahi is the only river in India that cuts across the Tropic of Cancer twice.\n3. Among all state capitals in India, Ranchi is located closest to the Tropic of Cancer.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_552b0d6a",
+    "stem": "With reference to the Standard Meridian of India (82°30' E), consider the following statements:\n1. It passes through five Indian states: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh.\n2. It intersects the Tropic of Cancer in the state of Odisha.\n3. The longitude of 82°30' E was chosen because it is an exact multiple of 7°30', ensuring Indian Standard Time conforms to international convention by being offset from UTC by 5 hours and 30 minutes.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statements 1 and 3 are correct, while Statement 2 is incorrect:\n1. The Standard Meridian (82°30' E) passes through 5 states: Uttar Pradesh (Mirzapur near Prayagraj), Madhya Pradesh (Singrauli), Chhattisgarh, Odisha, and Andhra Pradesh.\n2. The intersection of the Tropic of Cancer (23°30' N) and the Standard Meridian (82°30' E) occurs in the Koriya / Baikunthpur district of Chhattisgarh, NOT in Odisha. The Tropic of Cancer does not even pass through Odisha.\n3. Under international agreement (International Meridian Conference), countries select standard meridians in multiples of 7°30' (which equals 30 minutes of time: 7.5° × 4 min = 30 min). 82°30' E is 11 × 7°30', yielding an exact offset of UTC+5:30.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → 82°30' E traverses 5 states (UP, MP, CG, OD, AP) and intersects the Tropic of Cancer in Koriya district, Chhattisgarh.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified statement 1 but missed statement 3. Standard meridians across the globe are standardized in multiples of 7°30' (30-minute intervals)."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "You accepted statement 2. The Tropic of Cancer does not pass through Odisha at all; the intersection is in Koriya, Chhattisgarh."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You failed to catch that Odisha is not touched by the Tropic of Cancer, making an intersection there geographically impossible."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_552b0d6a",
+      "questionStem": "With reference to the Standard Meridian of India (82°30' E), consider the following statements:\n1. It passes through five Indian states: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh.\n2. It intersects the Tropic of Cancer in the state of Odisha.\n3. The longitude of 82°30' E was chosen because it is an exact multiple of 7°30', ensuring Indian Standard Time conforms to international convention by being offset from UTC by 5 hours and 30 minutes.\nWhich of the statements given above is/are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_faad1908",
+    "stem": "Consider the following pairs of extreme geographic points of the Indian Republic:\n1. Northernmost point under Indian administration: Indira Col (Siachen Glacier, Ladakh)\n2. Westernmost inhabited point: Ghuar Mota (Kutch district, Gujarat)\n3. Easternmost point: Kibithu (Anjaw district, Arunachal Pradesh)\n4. Southernmost point of the Indian Union: Cape Comorin (Kanyakumari, Tamil Nadu)\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Pairs 1, 2, and 3 are correctly matched, while Pair 4 is incorrectly matched:\n- Pair 1 is correct: Indira Col (altitude 5,764 m at 35°39' N) on the Siachen Glacier in Ladakh represents the northernmost point under actual Indian administration.\n- Pair 2 is correct: Ghuar Mota (near Sir Creek in Kutch, Gujarat at 68°7' E) is the westernmost point.\n- Pair 3 is correct: Kibithu (in Anjaw district of Arunachal Pradesh at 97°25' E) along the Lohit River valley is the easternmost point.\n- Pair 4 is incorrect: Cape Comorin (Kanyakumari at 8°4' N) is the southernmost point of mainland India, NOT the southernmost point of the entire Indian Union. The southernmost point of the Indian Union is Indira Point (formerly Pygmalion Point) at 6°45' N on Great Nicobar Island.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Southernmost point of mainland India is Kanyakumari (8°4' N); southernmost point of the Indian Union is Indira Point (6°45' N, Great Nicobar).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You underestimated the valid pairs. Indira Col, Ghuar Mota, and Kibithu are all standard verified geographical extremes of India."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only two pairs, missing that three of the four pairs are completely accurate."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Territorial Scope Confusion Trap",
+        "dissection": "You confused mainland India with the Indian Union. Cape Comorin is mainland only; Indira Point is the Indian Union's southernmost extreme."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_faad1908",
+      "questionStem": "Consider the following pairs of extreme geographic points of the Indian Republic:\n1. Northernmost point under Indian administration: Indira Col (Siachen Glacier, Ladakh)\n2. Westernmost inhabited point: Ghuar Mota (Kutch district, Gujarat)\n3. Easternmost point: Kibithu (Anjaw district, Arunachal Pradesh)\n4. Southernmost point of the Indian Union: Cape Comorin (Kanyakumari, Tamil Nadu)\nHow many of the pairs given above are correctly matched?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_590ec867",
+    "stem": "With reference to the longitudinal extent of India and its time implications, consider the following statements:\n1. The longitudinal span of India is approximately 30 degrees, resulting in an actual solar time difference of nearly two hours between Kibithu in Arunachal Pradesh and Ghuar Mota in Gujarat.\n2. 'Chaibagaan Time' was an informal daylight-saving schedule historically maintained by tea gardens in Assam that was set one hour ahead of Indian Standard Time (IST).\n3. The Government of India has officially notified the establishment of two separate administrative time zones (IST-1 and IST-2) separated by one hour, based on recommendations by CSIR-National Physical Laboratory.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect:\n1. India's longitudinal extent spans from 68°7' E to 97°25' E (~29°18' ≈ 30°). Since the Earth rotates 1° every 4 minutes, 30° corresponds to approximately 120 minutes (2 hours).\n2. During British rule, tea planters in Assam instituted 'Chaibagaan Time' (bagan time), setting clocks 1 hour ahead of IST to optimize daylight working hours and productivity.\n3. Although researchers at CSIR-National Physical Laboratory (CSIR-NPL) proposed dividing India into two time zones (IST-1 at UTC+5:30 and IST-2 at UTC+6:30) to conserve electrical energy, the Government of India officially rejected the proposal citing operational, strategic, and railway signaling hazards.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → ~30° longitudinal span creates ~2 hours solar time gap; Chaibagaan time ran 1 hour ahead of IST; Government of India continues with a single unified IST zone.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You recognized statement 1 but missed Chaibagaan time, which is a verified daylight saving practice in Assam tea estates."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You omitted statement 1 (30° × 4 min = 120 min is verified math) and assumed the policy proposal in statement 3 was adopted."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You fell for the policy proposal trap. While CSIR-NPL recommended two time zones, the Government of India formally rejected it."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_590ec867",
+      "questionStem": "With reference to the longitudinal extent of India and its time implications, consider the following statements:\n1. The longitudinal span of India is approximately 30 degrees, resulting in an actual solar time difference of nearly two hours between Kibithu in Arunachal Pradesh and Ghuar Mota in Gujarat.\n2. 'Chaibagaan Time' was an informal daylight-saving schedule historically maintained by tea gardens in Assam that was set one hour ahead of Indian Standard Time (IST).\n3. The Government of India has officially notified the establishment of two separate administrative time zones (IST-1 and IST-2) separated by one hour, based on recommendations by CSIR-National Physical Laboratory.\nWhich of the statements given above is/are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_265513f4",
+    "stem": "Statement-I: The difference between the duration of the longest day and the shortest night is barely 45 minutes at Kanyakumari, but exceeds four hours in Ladakh during solstices.\nStatement-II: As one moves poleward from the Equator, the seasonal variation in the inclination of the sun's incident rays and the circle of illumination causes the disparity in day length to increase with higher latitudes.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct but Statement-II is NOT the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct and Statement-II provides the direct physical and astronomical explanation for Statement-I:\n- Kanyakumari is situated at approximately 8°4' N latitude, close to the Equator. At equatorial and low tropical latitudes, the circle of illumination bisects lines of latitude almost equally throughout the year, keeping day and night close to 12 hours each, with a seasonal variation of only ~45 minutes.\n- In contrast, Ladakh is located at 34°-37° N latitude. Due to the 23.5° axial tilt of the Earth, higher latitudes experience extreme variations in the circle of illumination: in summer (June solstice), the day length reaches nearly 14.5 hours, whereas in winter (December solstice), daylight drops to under 9.5 hours, resulting in a seasonal disparity of over 4 to 5 hours.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Day-night length variation is minimal (~45 min) near Kanyakumari (8°4' N) and pronounced (>4 hours) in Ladakh (37° N) due to axial tilt and poleward circle of illumination disparity.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Blindness Trap",
+        "dissection": "You recognized both facts but failed to realize that Statement-II is the precise astronomical mechanism driving the observation in Statement-I."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Premise Truth-Value Trap",
+        "dissection": "You doubted the fundamental astronomical law in Statement-II. Poleward increase in solstitial day-length disparity is a universal law of physical geography."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted the NCERT core observation in Statement-I. NCERT Class XI explicitly highlights the contrast between Kanyakumari (45 min gap) and Leh/Ladakh (over 4 hours gap)."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_265513f4",
+      "questionStem": "Statement-I: The difference between the duration of the longest day and the shortest night is barely 45 minutes at Kanyakumari, but exceeds four hours in Ladakh during solstices.\nStatement-II: As one moves poleward from the Equator, the seasonal variation in the inclination of the sun's incident rays and the circle of illumination causes the disparity in day length to increase with higher latitudes.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_b17ebfb2",
+    "stem": "Among the following Indian cities, which one lies on a longitude closest to that of the National Capital, New Delhi (approx. 77°12' E)?",
+    "options": {
+      "opt_a": "Bengaluru",
+      "opt_b": "Hyderabad",
+      "opt_c": "Nagpur",
+      "opt_d": "Pune"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Bengaluru lies on a longitude closest to that of New Delhi:\n- New Delhi: ~77°12' E\n- Bengaluru: ~77°35' E (difference of only ~0°23', or less than 25 minutes of arc)\n- Pune: ~73°51' E (difference of ~3°21')\n- Hyderabad: ~78°28' E (difference of ~1°16')\n- Nagpur: ~79°05' E (difference of ~1°53')\nRemarkably, although Bengaluru is located in southern India, it sits on nearly the same north-south meridian as Delhi.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Bengaluru (77°35' E) and Delhi (77°12' E) share almost the exact same meridian transect, differing by just ~23 minutes of arc.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Mental Map Distortion Trap",
+        "dissection": "Candidates intuitively think Hyderabad sits in the central meridian of India and might align with Delhi, but Hyderabad is at 78°28' E (over 1°16' further east)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Mental Map Distortion Trap",
+        "dissection": "Nagpur is the geographic zero-mile marker of India at 79°05' E, which is nearly 2 degrees east of Delhi's meridian (77°12' E)."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Mental Map Distortion Trap",
+        "dissection": "Pune is at 73°51' E in western Maharashtra, lying more than 3.3 degrees to the west of Delhi's longitude."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_b17ebfb2",
+      "questionStem": "Among the following Indian cities, which one lies on a longitude closest to that of the National Capital, New Delhi (approx. 77°12' E)?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_ab645839",
+    "stem": "Consider the following state capitals and major cities of India:\n1. Gandhinagar\n2. Bhopal\n3. Raipur\n4. Jaipur\nHow many of the cities given above are located to the south of the Tropic of Cancer?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Exactly three of the cities are located to the south of the Tropic of Cancer (23°30' N / 23°26' N):\n1. Gandhinagar: ~23°13' N (South of the Tropic of Cancer)\n2. Bhopal: ~23°15' N (South of the Tropic of Cancer)\n3. Raipur: ~21°14' N (South of the Tropic of Cancer)\n4. Jaipur: ~26°55' N (North of the Tropic of Cancer)\nBoth Gandhinagar and Bhopal lie just barely south of 23°30' N. Raipur lies well south in central Chhattisgarh. Jaipur is located in eastern Rajasthan at nearly 27° N, far north of the Tropic of Cancer.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Gandhinagar (23°13' N), Bhopal (23°15' N), and Raipur (21°14' N) are south of the Tropic of Cancer, whereas Jaipur (26°55' N) is north.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You selected 'Only one', assuming that because the Tropic of Cancer passes through Gujarat and MP, their capitals must be north of the line. In fact, both Gandhinagar and Bhopal lie south."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only two cities, overlooking that Raipur at 21°14' N is situated over two full degrees south of the Tropic of Cancer."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You included Jaipur. Although the Tropic of Cancer passes through Rajasthan (Banswara/Dungarpur), Jaipur is located over 350 km north at 26°55' N."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_ab645839",
+      "questionStem": "Consider the following state capitals and major cities of India:\n1. Gandhinagar\n2. Bhopal\n3. Raipur\n4. Jaipur\nHow many of the cities given above are located to the south of the Tropic of Cancer?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_18ddbfa7",
+    "stem": "Consider the following statements regarding the territorial dimensions and frontiers of India:\n1. India possesses a total land frontier of approximately 15,106.7 km and a total coastline of 7,516.6 km, including island territories.\n2. The north-south distance of India from Indira Col to Kanyakumari (approx. 3,214 km) is greater than its east-west distance from Sir Creek to Kibithu (approx. 2,933 km).\n3. Although both the latitudinal and longitudinal extents of mainland India are approximately 30 degrees, the actual linear distance between east and west is lesser because meridians converge toward the poles.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Official Ministry of Home Affairs data and NCERT Class XI cite India's land frontier as 15,106.7 km and total coastline as 7,516.6 km (5,422.6 km mainland coastline + 2,094 km island coastline).\n2. The north-south extent of India measures 3,214 km, while the east-west extent measures 2,933 km (a difference of 281 km).\n3. The latitudinal extent (8°4' N to 37°6' N) and longitudinal extent (68°7' E to 97°25' E) are both roughly 30 degrees. However, while parallels of latitude remain equidistant everywhere (~111 km per degree), meridians of longitude converge from 111.3 km at the Equator down to 0 km at the poles. At India's average latitude (~20°-25° N), 1 degree of longitude corresponds to only ~100-104 km, making the east-west linear distance noticeably shorter.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → N-S extent (3,214 km) exceeds E-W extent (2,933 km) because lines of longitude converge towards the poles, reducing linear distance per degree of longitude.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You accepted statements 1 and 2 but omitted statement 3, which is the foundational geometric explanation in NCERT Class XI for why India's east-west distance is 281 km shorter than its north-south distance."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You doubted the exact frontier figures. 15,106.7 km land boundary and 7,516.6 km total coastline are standard official figures in Indian government surveys."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted whether north-south extent exceeds east-west extent. North-south is 3,214 km whereas east-west is 2,933 km."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Latitudinal and Longitudinal Extent",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_18ddbfa7",
+      "questionStem": "Consider the following statements regarding the territorial dimensions and frontiers of India:\n1. India possesses a total land frontier of approximately 15,106.7 km and a total coastline of 7,516.6 km, including island territories.\n2. The north-south distance of India from Indira Col to Kanyakumari (approx. 3,214 km) is greater than its east-west distance from Sir Creek to Kibithu (approx. 2,933 km).\n3. Although both the latitudinal and longitudinal extents of mainland India are approximately 30 degrees, the actual linear distance between east and west is lesser because meridians converge toward the poles.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_0c521fa0",
+    "stem": "Consider the following statements regarding the international land boundary between India and Bangladesh:\n1. It constitutes the longest international land border that India shares with any neighboring country, spanning over 4,096 km.\n2. The state of Assam touches the Bangladesh border in two geographically separate segments.\n3. The state of Tripura is bounded by Bangladesh on three sides—north, south, and west.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. India shares its longest international land border with Bangladesh, extending for 4,096.7 km, delineated originally along the Radcliffe Line in 1947.\n2. Assam shares two separate border sectors with Bangladesh: one in the west (Dhubri district) and another in the south (Karimganj/Cachar districts in the Barak Valley), separated by the state of Meghalaya.\n3. Tripura has an 856-km long border with Bangladesh, surrounding it on three sides—north, south, and west—leaving only a narrow eastern corridor connecting it to Assam and Mizoram.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → India-Bangladesh border is India's longest (4,096.7 km); Assam touches it in two disjoint sectors; Tripura is surrounded on 3 sides.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You recognized statements 1 and 2 but omitted statement 3. Tripura's peninsula-like protrusion surrounded on 3 sides by Bangladesh is a standard geographic fact."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You doubted statement 1. Bangladesh forms India's longest border (4,096.7 km), longer than China (3,488 km) or Pakistan (3,323 km)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "You dismissed Assam's disjoint border. Assam borders Bangladesh twice: west in Dhubri and south in Cachar/Karimganj, interrupted by Meghalaya."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_0c521fa0",
+      "questionStem": "Consider the following statements regarding the international land boundary between India and Bangladesh:\n1. It constitutes the longest international land border that India shares with any neighboring country, spanning over 4,096 km.\n2. The state of Assam touches the Bangladesh border in two geographically separate segments.\n3. The state of Tripura is bounded by Bangladesh on three sides—north, south, and west.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_e870e65f",
+    "stem": "With reference to the historic India-Bangladesh Land Boundary Agreement (LBA) operationalized via the 100th Constitutional Amendment Act, 2015, consider the following statements:\n1. India transferred 111 enclaves to Bangladesh and received 51 enclaves from Bangladesh in return.\n2. The Tin Bigha Corridor was leased in perpetuity to Bangladesh to provide access to its Dahagram-Angarpota enclave.\n3. The territorial exchange resulted in India gaining a net land area of over 10,000 acres from Bangladesh.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect:\n1. Under the 100th Constitutional Amendment Act, 2015, India transferred 111 enclaves (covering ~17,160 acres) located in Bangladesh to Bangladesh, and received 51 enclaves (covering ~7,110 acres) located in India from Bangladesh.\n2. The Tin Bigha Corridor (a strip of Indian territory in Cooch Behar) was leased in perpetuity to Bangladesh in 2011 to allow unhindered civilian access to Dahagram-Angarpota, Bangladesh's largest enclave inside India.\n3. The exchange resulted in India net transferring approximately 10,050 acres of land to Bangladesh, not gaining land. India undertook this to settle a complex humanitarian issue and demarcate an undisputed, secure border.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → 100th Constitutional Amendment Act (2015): India transferred 111 enclaves and received 51 enclaves; Tin Bigha leased to Bangladesh; net transfer of ~10,050 acres to Bangladesh.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You verified statement 1 but missed statement 2. The Tin Bigha Corridor lease is a foundational bilateral arrangement solving the Dahagram access problem."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You accepted statement 3. India surrendered net territory (~10,050 acres) to Bangladesh; it did not gain land."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You assumed India gained territory in the agreement. In reality, India made a net territorial concession for long-term border security and humanitarian enclave integration."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_e870e65f",
+      "questionStem": "With reference to the historic India-Bangladesh Land Boundary Agreement (LBA) operationalized via the 100th Constitutional Amendment Act, 2015, consider the following statements:\n1. India transferred 111 enclaves to Bangladesh and received 51 enclaves from Bangladesh in return.\n2. The Tin Bigha Corridor was leased in perpetuity to Bangladesh to provide access to its Dahagram-Angarpota enclave.\n3. The territorial exchange resulted in India gaining a net land area of over 10,000 acres from Bangladesh.\nWhich of the statements given above is/are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_ce79e803",
+    "stem": "With reference to the Sino-Indian border and the Line of Actual Control (LAC), consider the following statements:\n1. The McMahon Line, agreed upon during the 1914 Simla Convention between British India and Tibet, represents the boundary along the Eastern Sector.\n2. In the Western Sector in Ladakh, India upholds the Johnson Line of 1865 which includes the Aksai Chin plateau within Jammu & Kashmir.\n3. The Middle Sector comprises the international borders of Himachal Pradesh and Uttarakhand with Tibet, which is the least disputed of the three sectors.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The Eastern Sector (1,140 km) runs along the crest of the Himalayas from the eastern border of Bhutan to the tri-junction with Myanmar. It was demarcated by Sir Henry McMahon during the 1914 Simla Convention between British India and Tibet. China disputes it, referring to Arunachal Pradesh as 'South Tibet'.\n2. In the Western Sector (Ladakh, ~1,597 km), the border dispute centers on Aksai Chin. The British proposed the Johnson Line in 1865 (putting Aksai Chin in Kashmir), which India considers its legal boundary. China advocates the Macartney-MacDonald Line of 1899 (or its 1959 claim line).\n3. The Middle Sector (545 km) runs along Himachal Pradesh and Uttarakhand. Both sides have exchanged maps and reached broad convergence, making it the least contested sector, although minor disputes exist at Barahoti (Uttarakhand).\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → India-China LAC: Eastern Sector (McMahon Line, 1914 Simla), Western Sector (Johnson Line 1865 / Aksai Chin), Middle Sector (HP and Uttarakhand, least disputed).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You verified sectors 1 and 2 but omitted the Middle Sector. The Middle Sector (HP and Uttarakhand) is historically recognized as the least contentious sector of the LAC."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted the McMahon Line. The McMahon Line of the 1914 Simla Convention is the defining legal boundary of the Eastern Sector."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted the Johnson Line. The Johnson Line of 1865 is India's official historical basis for claiming Aksai Chin as part of Ladakh."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_ce79e803",
+      "questionStem": "With reference to the Sino-Indian border and the Line of Actual Control (LAC), consider the following statements:\n1. The McMahon Line, agreed upon during the 1914 Simla Convention between British India and Tibet, represents the boundary along the Eastern Sector.\n2. In the Western Sector in Ladakh, India upholds the Johnson Line of 1865 which includes the Aksai Chin plateau within Jammu & Kashmir.\n3. The Middle Sector comprises the international borders of Himachal Pradesh and Uttarakhand with Tibet, which is the least disputed of the three sectors.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_526bc6ff",
+    "stem": "Consider the following geographical areas along the Indo-Nepal international boundary:\n1. Kalapani: Located at the tri-junction of India, Nepal, and Tibet, administered under the Pithoragarh district of Uttarakhand.\n2. Lipulekh Pass: A high Himalayan pass connecting Uttarakhand's Kumaon region with Tibet, historically used for the Kailash Mansarovar Yatra.\n3. Limpiyadhura: Claimed by Nepal as the origin of the Kali River under the 1816 Treaty of Sugauli.\n4. Susta: A disputed territory in the West Champaran district of Bihar, created by historical southward shifting of the Gandak River.\nHow many of the above geographic areas are correctly described?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four geographic areas are correctly described:\n1. Kalapani: A 372-sq km area in Pithoragarh, Uttarakhand, administered by the Indo-Tibetan Border Police (ITBP). Nepal claims it falls in its Darchula district.\n2. Lipulekh Pass: Located at 16,784 ft, it connects India with Tibet and was the site of the new 80-km border road inaugurated by India in 2020.\n3. Limpiyadhura: Nepal claims that the Kuthi Yankti stream originating from Limpiyadhura is the main Kali River specified in Article 5 of the 1816 Treaty of Sugauli, whereas India maintains the Lipu Gad stream from Kalapani is the traditional boundary.\n4. Susta: Located on the banks of the Gandak River (Narayani River in Nepal) in Bihar's West Champaran district. Over decades, the Gandak shifted course southwards, leaving land historically claimed by Nepal on the Indian side of the river.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Indo-Nepal boundary disputes: Kalapani, Lipulekh Pass, and Limpiyadhura (Treaty of Sugauli 1816 / Kali River) in Uttarakhand; Susta (Gandak River course shift) in Bihar.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one area, missing that all four features are standard dispute zones frequently featured in bilateral negotiations."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You detected two areas, overlooking Susta or Limpiyadhura, which are core dispute points along the Nepal border."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You missed Susta in Bihar. The Gandak river's frequent morphological channel shifts generated the Susta dispute on the Bihar-Nepal border."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_526bc6ff",
+      "questionStem": "Consider the following geographical areas along the Indo-Nepal international boundary:\n1. Kalapani: Located at the tri-junction of India, Nepal, and Tibet, administered under the Pithoragarh district of Uttarakhand.\n2. Lipulekh Pass: A high Himalayan pass connecting Uttarakhand's Kumaon region with Tibet, historically used for the Kailash Mansarovar Yatra.\n3. Limpiyadhura: Claimed by Nepal as the origin of the Kali River under the 1816 Treaty of Sugauli.\n4. Susta: A disputed territory in the West Champaran district of Bihar, created by historical southward shifting of the Gandak River.\nHow many of the above geographic areas are correctly described?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_479990c6",
+    "stem": "With reference to India's international land boundary with the Kingdom of Bhutan, consider the following statements:\n1. Four Indian states share a border with Bhutan: Assam, Arunachal Pradesh, West Bengal, and Sikkim.\n2. Among these four states, Assam shares the longest border with Bhutan, while Sikkim shares the shortest.\n3. The strategic Doklam plateau, which witnessed a military standoff in 2017, is located at the tri-junction of India (Sikkim), Bhutan, and China (Chumbi Valley).\n4. Project DANTAK is an overseas project of the Border Roads Organisation (BRO) established in 1961 to construct and maintain key road infrastructure in Bhutan.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 3 and 4 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct:\n1. India and Bhutan share a 699-km long peaceful international border touching four Indian states: Assam (267 km), Arunachal Pradesh (217 km), West Bengal (183 km), and Sikkim (32 km).\n2. Assam shares the longest border stretch with Bhutan (267 km), while Sikkim shares the shortest stretch (32 km).\n3. The Doklam plateau is situated in western Bhutan, bordered by Tibet's Chumbi Valley to the north and India's Sikkim to the west. Chinese road construction toward the Jampheri Ridge prompted the 73-day military standoff between Indian and Chinese armed forces in 2017.\n4. Project DANTAK was raised in May 1961 by Prime Minister Jawaharlal Nehru and the Third King of Bhutan, Jigme Dorji Wangchuck, entrusted to the Border Roads Organisation (BRO) for constructing monumental highways, airfields, and telecommunication infrastructure in Bhutan.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → India-Bhutan border: 699 km across 4 states (Assam longest 267 km, Sikkim shortest 32 km); Doklam at India-Bhutan-China tri-junction; Project DANTAK operates since 1961.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 4. Project DANTAK is one of the BRO's most historic and enduring projects, celebrated for landmark infrastructure throughout Bhutan."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1, yet verifying that exactly four states border Bhutan is essential knowledge in Indian geography."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted the state border hierarchy. Assam (267 km) shares a far longer border with Bhutan than West Bengal (183 km) or Arunachal Pradesh (217 km)."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_479990c6",
+      "questionStem": "With reference to India's international land boundary with the Kingdom of Bhutan, consider the following statements:\n1. Four Indian states share a border with Bhutan: Assam, Arunachal Pradesh, West Bengal, and Sikkim.\n2. Among these four states, Assam shares the longest border with Bhutan, while Sikkim shares the shortest.\n3. The strategic Doklam plateau, which witnessed a military standoff in 2017, is located at the tri-junction of India (Sikkim), Bhutan, and China (Chumbi Valley).\n4. Project DANTAK is an overseas project of the Border Roads Organisation (BRO) established in 1961 to construct and maintain key road infrastructure in Bhutan.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_4015276b",
+    "stem": "Consider the following segments of the border between India and Pakistan:\n1. Actual Ground Position Line (AGPL): Divides Indian and Pakistani military positions across the Saltoro Ridge from Point NJ9842 to Indira Col.\n2. Line of Control (LoC): Delineated under the 1972 Simla Agreement, replacing the 1949 Ceasefire Line in Jammu & Kashmir.\n3. Sir Creek: A 96-km tidal estuary in the Rann of Kutch where India advocates boundary delimitation based on the Thalweg Principle along the mid-navigable channel.\n4. International Border (IB): Extends from Gujarat through Rajasthan and Punjab up to the Madhopur/Jammu border.\nHow many of the above segments are correctly described?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four segments are correctly described:\n1. AGPL: Established following Operation Meghdoot (1984), it demarcates current troop positions from map grid point NJ9842 on the LoC northwards along the Saltoro Ridge up to Indira Col on the Siachen Glacier.\n2. LoC: Following the 1971 Indo-Pak war, the 1972 Simla Agreement converted the 1949 UN Ceasefire Line into the bilaterally designated Line of Control (LoC).\n3. Sir Creek: A 96-km tidal channel in the Rann of Kutch marsh. India insists on the Thalweg Principle (under international law, boundary in a navigable watercourse runs along the center of the deep navigation channel), while Pakistan relies on the 1914 Bombay Government resolution claiming the entire creek up to the eastern bank.\n4. IB: The settled, mutually recognized international border runs from the Sir Creek estuary in Gujarat through Rajasthan, Punjab, and up to the Akhnoor/Jammu sector, beyond which the LoC begins.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Indo-Pak frontiers: IB (Gujarat to Jammu), LoC (Simla 1972 up to NJ9842), AGPL (NJ9842 to Indira Col / Saltoro), Sir Creek (96-km estuary, Thalweg principle).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one segment, missing that all four border demarcations are officially recognized legal and military definitions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only two segments, missing that the AGPL and Sir Creek disputes are precisely defined under Indian defense doctrine."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified three segments, doubting either the AGPL or the Thalweg Principle applied to Sir Creek."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_4015276b",
+      "questionStem": "Consider the following segments of the border between India and Pakistan:\n1. Actual Ground Position Line (AGPL): Divides Indian and Pakistani military positions across the Saltoro Ridge from Point NJ9842 to Indira Col.\n2. Line of Control (LoC): Delineated under the 1972 Simla Agreement, replacing the 1949 Ceasefire Line in Jammu & Kashmir.\n3. Sir Creek: A 96-km tidal estuary in the Rann of Kutch where India advocates boundary delimitation based on the Thalweg Principle along the mid-navigable channel.\n4. International Border (IB): Extends from Gujarat through Rajasthan and Punjab up to the Madhopur/Jammu border.\nHow many of the above segments are correctly described?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_fc5bf125",
+    "stem": "Consider the following statements regarding the international border between India and Myanmar:\n1. It spans four northeastern Indian states: Arunachal Pradesh, Nagaland, Manipur, and Mizoram, with Arunachal Pradesh sharing the longest stretch.\n2. The border runs along the natural mountainous divide separating the Brahmaputra and Chindwin-Irrawaddy drainage basins.\n3. Under the Free Movement Regime (FMR) established in 2018, border residents were permitted to travel up to 50 km into each other's territory without visas.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect:\n1. India and Myanmar share a 1,643-km long border touching four northeastern states: Arunachal Pradesh (520 km, longest), Mizoram (510 km), Manipur (398 km), and Nagaland (215 km).\n2. The border follows the natural topography along the Patkai Bum, Naga Hills, Chin Hills, and Arakan Yoma ranges, forming the natural drainage divide between the Brahmaputra system in India and the Chindwin-Irrawaddy system in Myanmar.\n3. Under the Free Movement Regime (FMR) operationalized in 2018 under India's Act East policy, indigenous border residents holding a border pass could travel up to 16 km (NOT 50 km) on either side without a visa for up to 14 days. In early 2024, the Government of India decided to scrap the FMR and erect fencing along the entire 1,643-km border due to national security concerns.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Indo-Myanmar border (1,643 km): 4 states (Arunachal longest 520 km); follows Brahmaputra-Irrawaddy divide; FMR allowed 16 km travel (scrapped in 2024).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You accepted only statement 1 but missed statement 2. The boundary is an organic watershed boundary separating the Brahmaputra from the Chindwin/Irrawaddy basins."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You omitted statement 1 and accepted statement 3. Arunachal Pradesh has the longest border (520 km), while FMR permitted only 16 km, not 50 km."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Numeric Distractor Trap",
+        "dissection": "You failed to spot the exaggerated distance in statement 3. The FMR permitted movement up to 16 km, not 50 km."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_fc5bf125",
+      "questionStem": "Consider the following statements regarding the international border between India and Myanmar:\n1. It spans four northeastern Indian states: Arunachal Pradesh, Nagaland, Manipur, and Mizoram, with Arunachal Pradesh sharing the longest stretch.\n2. The border runs along the natural mountainous divide separating the Brahmaputra and Chindwin-Irrawaddy drainage basins.\n3. Under the Free Movement Regime (FMR) established in 2018, border residents were permitted to travel up to 50 km into each other's territory without visas.\nWhich of the statements given above is/are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_22c620c3",
+    "stem": "With reference to India's land boundary with Afghanistan, consider the following statements:\n1. It is the shortest international land boundary of India, measuring approximately 106 km along the Durand Line.\n2. Geographically, it borders the Wakhan Corridor of northeastern Afghanistan and is situated in the Gilgit-Baltistan region of the Union Territory of Ladakh.\n3. The Wakhan Corridor was established in the late 19th century as a geographic buffer strip separating the Russian Empire from the British Empire during the Great Game.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. India shares a 106-km long international border with Afghanistan, making it the shortest land border India shares with any neighboring country.\n2. Under the Jammu and Kashmir Reorganisation Act, 2019, the entire Gilgit-Baltistan and Aksai Chin territories form part of the Union Territory of Ladakh. This border touches the narrow panhandle of northeastern Afghanistan known as the Wakhan Corridor. While currently under illegal Pakistani occupation, India constitutionally claims and maintains this as its sovereign border.\n3. The Wakhan Corridor was created as a strategic buffer between Tsarist Russia's sphere of influence in Central Asia (Tajikistan) and the British Indian Empire (now Pakistan) during the 1893-1895 Durand Line delimitations in the Great Game.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → India-Afghanistan border: 106 km (shortest); borders Wakhan Corridor in UT of Ladakh (Gilgit-Baltistan); created as Great Game buffer.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The historical origins of the Wakhan Corridor as a Great Game buffer between British India and Tsarist Russia are essential geopolitical knowledge."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You doubted statement 1. Official Survey of India and Ministry of Home Affairs documents record India's land border with Afghanistan as exactly 106 km."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Territorial Classification Trap",
+        "dissection": "You doubted statement 2. Post the 2019 bifurcation, Gilgit-Baltistan falls under the administrative map of the Union Territory of Ladakh, not Jammu & Kashmir."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "International Land Boundaries & Enclaves",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_22c620c3",
+      "questionStem": "With reference to India's land boundary with Afghanistan, consider the following statements:\n1. It is the shortest international land boundary of India, measuring approximately 106 km along the Durand Line.\n2. Geographically, it borders the Wakhan Corridor of northeastern Afghanistan and is situated in the Gilgit-Baltistan region of the Union Territory of Ladakh.\n3. The Wakhan Corridor was established in the late 19th century as a geographic buffer strip separating the Russian Empire from the British Empire during the Great Game.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_4719ffcb",
+    "stem": "Under the United Nations Convention on the Law of the Sea (UNCLOS) and India's Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976:\n1. Territorial Waters extend up to 12 nautical miles from the baseline, over which India exercises full sovereignty over the airspace, water column, seabed, and subsoil.\n2. Contiguous Zone extends up to 24 nautical miles from the baseline, giving India powers to exercise control for customs, fiscal, immigration, and sanitary regulations.\n3. Exclusive Economic Zone (EEZ) extends up to 200 nautical miles, conferring sovereign rights for exploration and exploitation of natural resources, but other nations retain freedom of navigation and overflight.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Territorial Sea: Extends up to 12 nautical miles (1 NM = 1.852 km; ~22.2 km). The coastal state exercises sovereignty over the territorial sea, its bed, subsoil, and airspace above it, subject to the right of innocent passage for foreign vessels.\n2. Contiguous Zone: Extends up to 24 nautical miles from the baseline (12 NM beyond the territorial sea). The coastal state may exercise control necessary to prevent and punish infringement of its customs, fiscal, immigration, or sanitary laws within its territory or territorial sea.\n3. Exclusive Economic Zone (EEZ): Extends up to 200 nautical miles from the baseline. The coastal state possesses sovereign rights for exploring, exploiting, conserving, and managing natural resources (living and non-living) of the waters superjacent to the seabed and of the seabed and its subsoil. Foreign states retain the freedoms of navigation, overflight, and laying submarine cables and pipelines.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → UNCLOS & Indian Maritime Zones Act 1976: Territorial Sea (12 NM sovereignty), Contiguous Zone (24 NM fiscal/customs/sanitary enforcement), EEZ (200 NM resource sovereign rights).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. In the EEZ, coastal states have sovereign resource rights while other states enjoy freedom of navigation and overflight under UNCLOS Article 58."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You doubted statement 1. Full sovereignty extends through the entire 12 NM territorial sea, including the airspace and subsoil."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "You omitted the Contiguous Zone. The 24 NM contiguous zone is explicitly defined under Section 5 of India's 1976 Maritime Zones Act."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_4719ffcb",
+      "questionStem": "Under the United Nations Convention on the Law of the Sea (UNCLOS) and India's Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976:\n1. Territorial Waters extend up to 12 nautical miles from the baseline, over which India exercises full sovereignty over the airspace, water column, seabed, and subsoil.\n2. Contiguous Zone extends up to 24 nautical miles from the baseline, giving India powers to exercise control for customs, fiscal, immigration, and sanitary regulations.\n3. Exclusive Economic Zone (EEZ) extends up to 200 nautical miles, conferring sovereign rights for exploration and exploitation of natural resources, but other nations retain freedom of navigation and overflight.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_9d8e77d9",
+    "stem": "Consider the following statements regarding the Ten Degree Channel:\n1. It is a major maritime channel that runs along the 10° N parallel of latitude in the Bay of Bengal.\n2. It physically separates the Little Andaman Island of the Andaman archipelago from the Car Nicobar Island of the Nicobar archipelago.\n3. It has a width of approximately 150 km and serves as a vital strategic waterway connecting the Bay of Bengal to the Andaman Sea.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The Ten Degree Channel lies on the 10° N line of latitude, separating two distinct Union Territory island clusters.\n2. Specifically, it divides the southernmost island of the Andaman group (Little Andaman) from the northernmost island of the Nicobar group (Car Nicobar).\n3. The channel is approximately 150 km (nearly 80 nautical miles) wide and over 800 meters deep. It serves as an open international passage for maritime traffic moving from the western Bay of Bengal through to the Andaman Sea and the Malacca Strait.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Ten Degree Channel (10° N): Separates Little Andaman (Andaman group) from Car Nicobar (Nicobar group); ~150 km wide conduit between Bay of Bengal and Andaman Sea.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The Ten Degree Channel is approximately 150 km wide, providing a deep-water international shipping route."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1, yet the channel takes its exact name from the 10° N parallel of latitude."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Entity Trap",
+        "dissection": "You doubted statement 2. Candidates often mistake South Andaman or Great Andaman for Little Andaman; Little Andaman is the exact northern boundary of the channel."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_9d8e77d9",
+      "questionStem": "Consider the following statements regarding the Ten Degree Channel:\n1. It is a major maritime channel that runs along the 10° N parallel of latitude in the Bay of Bengal.\n2. It physically separates the Little Andaman Island of the Andaman archipelago from the Car Nicobar Island of the Nicobar archipelago.\n3. It has a width of approximately 150 km and serves as a vital strategic waterway connecting the Bay of Bengal to the Andaman Sea.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_e6b8b077",
+    "stem": "Which of the following bodies of water separates Minicoy Island from the main Lakshadweep archipelago (specifically the islands of Kalpeni and Suheli Par)?",
+    "options": {
+      "opt_a": "Eight Degree Channel",
+      "opt_b": "Nine Degree Channel",
+      "opt_c": "Ten Degree Channel",
+      "opt_d": "Great Channel"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The Nine Degree Channel separates Minicoy Island from the northern islands of the Lakshadweep archipelago (Kalpeni, Suheli Par, and the Cannanore group).\n- Nine Degree Channel: Lies along 9° N latitude. It has a width of ~200 km and a depth of over 2,000 meters. It is a heavily trafficked sea route connecting the Suez Canal/Persian Gulf with East Asia.\n- Eight Degree Channel: Lies along 8° N latitude and separates Minicoy Island from the Republic of Maldives.\n- Ten Degree Channel: Lies along 10° N latitude and separates the Andaman Islands from the Nicobar Islands.\n- Great Channel (Six Degree Channel): Lies along 6° N latitude and separates Great Nicobar Island from Sumatra (Indonesia).\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Maritime Channels: 8° Channel (Minicoy & Maldives); 9° Channel (Minicoy & main Lakshadweep); 10° Channel (Little Andaman & Car Nicobar); Great Channel (Great Nicobar & Sumatra).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Adjacent Entity Trap",
+        "dissection": "The Eight Degree Channel separates Minicoy Island from the Maldives, not from the rest of Lakshadweep."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Entity Trap",
+        "dissection": "The Ten Degree Channel is in the Bay of Bengal separating the Andaman group from the Nicobar group, not in the Arabian Sea."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Adjacent Entity Trap",
+        "dissection": "The Great Channel (6° N) separates Great Nicobar Island from Sumatra (Indonesia)."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_e6b8b077",
+      "questionStem": "Which of the following bodies of water separates Minicoy Island from the main Lakshadweep archipelago (specifically the islands of Kalpeni and Suheli Par)?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_aa610bb0",
+    "stem": "With reference to the Eight Degree Channel (8° N Latitude), consider the following statements:\n1. It forms the international maritime boundary separating India's southernmost Lakshadweep island, Minicoy, from the Republic of Maldives.\n2. It lies immediately north of the Ihavandhippolhu Atoll of the Maldives.\n3. It is traversed by key international sea lanes connecting the Persian Gulf and Red Sea with East Asia.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The Eight Degree Channel (along 8° N latitude) demarcates the maritime boundary between India (Minicoy Island) and the Maldives. This boundary was formalized by the 1976 bilateral maritime boundary agreement between India and Maldives.\n2. Geographically, it is bounded on the south by the northernmost atoll of Maldives, known as the Ihavandhippolhu Atoll (Haa Alif Atoll).\n3. The channel is a vital East-West maritime shipping corridor carrying crude oil tankers and container carriers between the Middle East/Europe and the Malacca Strait.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Eight Degree Channel (8° N): Maritime boundary between India's Minicoy Island and Maldives (Ihavandhippolhu Atoll); vital East-West Indian Ocean shipping lane.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The Eight Degree Channel is one of the world's busiest sea lines of communication (SLOCs) carrying supertankers from the Persian Gulf."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1, which represents the core international maritime boundary defined in the 1976 India-Maldives treaty."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Entity Trap",
+        "dissection": "You doubted statement 2. Ihavandhippolhu Atoll is the exact northernmost geographic feature of the Maldives bordering the 8° Channel."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_aa610bb0",
+      "questionStem": "With reference to the Eight Degree Channel (8° N Latitude), consider the following statements:\n1. It forms the international maritime boundary separating India's southernmost Lakshadweep island, Minicoy, from the Republic of Maldives.\n2. It lies immediately north of the Ihavandhippolhu Atoll of the Maldives.\n3. It is traversed by key international sea lanes connecting the Persian Gulf and Red Sea with East Asia.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_70576eab",
+    "stem": "Consider the following statements regarding the Great Channel (also designated as the Six Degree Channel):\n1. It is situated between Indira Point on Great Nicobar Island (India) and Rondo Island off the coast of Aceh, Sumatra (Indonesia).\n2. It represents India's southernmost maritime gateway to the Strait of Malacca and carries a massive proportion of global east-west container shipping.\n3. The maritime boundary between India and Indonesia in this channel was bilaterally settled by an agreement signed in 1974.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The Great Channel (Six Degree Channel) lies along approximately 6° N latitude. It separates India's southernmost tip, Indira Point on Great Nicobar Island, from Rondo Island off the northern tip of Aceh (Sumatra, Indonesia). The distance between the two landmasses is barely ~145-160 km.\n2. It is one of the most critical geopolitical choke points in the Indo-Pacific, acting as the primary deep-water funnel through which maritime traffic passes from the Indian Ocean into the narrow Strait of Malacca.\n3. The maritime boundary was delimited peacefully through the landmark 1974 agreement between the Government of India and the Government of Indonesia relating to the delimitation of the continental shelf boundary between Great Nicobar and Sumatra.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Great Channel (6° N Channel): Lies between Indira Point (Great Nicobar) and Rondo Island (Sumatra, Indonesia); Malacca gateway; settled via 1974 India-Indonesia treaty.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The 1974 maritime delimitation between India and Indonesia is a model bilateral boundary agreement often cited in international law."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1, which identifies the precise geographic endpoints (Indira Point and Rondo Island) of the Great Channel."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You doubted statement 2. The Great Channel is universally recognized as the essential approach corridor to the Malacca Strait."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_70576eab",
+      "questionStem": "Consider the following statements regarding the Great Channel (also designated as the Six Degree Channel):\n1. It is situated between Indira Point on Great Nicobar Island (India) and Rondo Island off the coast of Aceh, Sumatra (Indonesia).\n2. It represents India's southernmost maritime gateway to the Strait of Malacca and carries a massive proportion of global east-west container shipping.\n3. The maritime boundary between India and Indonesia in this channel was bilaterally settled by an agreement signed in 1974.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_aa1c2215",
+    "stem": "With reference to the Duncan Passage in the Andaman Islands, consider the following statements:\n1. It is a navigable strait that separates Rutland Island (South Andaman) to the north and Little Andaman to the south.\n2. The Cinque Islands and Passage Island are located within this waterway.\n3. It connects the open Bay of Bengal in the west with the Andaman Sea in the east.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. Duncan Passage is a strait in the Indian Ocean, about 48 km (26 NM) wide. It separates Rutland Island (part of the Great Andaman group off South Andaman) to the north from Little Andaman Island to the south.\n2. Several small islands and coral reefs lie within and along the passage, including the North and South Cinque Islands (known for coral reefs and marine wildlife), Passage Island, and the Sisters.\n3. Geographically, it connects the Bay of Bengal on the west with the Andaman Sea on the east, providing an alternate sheltered route for vessels avoiding open ocean swells.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Duncan Passage: Separates Rutland Island (South Andaman) and Little Andaman; contains Cinque Islands; connects Bay of Bengal with Andaman Sea.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. Like the Ten Degree Channel, Duncan Passage joins the Bay of Bengal in the west to the Andaman Sea in the east."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. Rutland Island and Little Andaman form the exact northern and southern boundaries of Duncan Passage."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Adjacent Entity Trap",
+        "dissection": "You doubted statement 2. The Cinque Islands are famous marine sanctuaries lying squarely within the Duncan Passage."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_aa1c2215",
+      "questionStem": "With reference to the Duncan Passage in the Andaman Islands, consider the following statements:\n1. It is a navigable strait that separates Rutland Island (South Andaman) to the north and Little Andaman to the south.\n2. The Cinque Islands and Passage Island are located within this waterway.\n3. It connects the open Bay of Bengal in the west with the Andaman Sea in the east.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_c9bfc92f",
+    "stem": "Consider the following geographical features located along the maritime interface between India and Sri Lanka:\n1. Palk Strait: Connects the Bay of Bengal in the northeast with Palk Bay in the southwest.\n2. Adam's Bridge (Ram Setu): A 48-km chain of limestone shoals between Pamban Island (Dhanushkodi) and Mannar Island (Talaimannar).\n3. Katchatheevu: An uninhabited island in Palk Strait whose sovereignty was formally recognized as Sri Lankan under the 1974 bilateral maritime boundary agreement.\n4. Gulf of Mannar: A shallow marine inlet lying south of Adam's Bridge, hosting Southeast Asia's first marine biosphere reserve.\nHow many of the above features are correctly described?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four features are correctly described:\n1. Palk Strait: Connects the open Bay of Bengal in the northeast to Palk Bay in the southwest, bounded by Tamil Nadu and Sri Lanka's Jaffna Peninsula.\n2. Adam's Bridge: A 48-km chain of shoals running from Dhanushkodi at the tip of Pamban Island to Talaimannar on Sri Lanka's Mannar Island, separating Palk Bay from the Gulf of Mannar.\n3. Katchatheevu: A 285-acre uninhabited island in the Palk Strait ceded to Sri Lanka under the 1974 agreement signed by Indira Gandhi and Sirimavo Bandaranaike, supplemented by the 1976 agreement settling maritime boundaries in the Gulf of Mannar and Bay of Bengal.\n4. Gulf of Mannar: Located south of Adam's Bridge and Palk Bay, it contains 21 islands and was declared India's first Marine Biosphere Reserve in 1989, known for dugongs and coral reefs.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Indo-Sri Lanka maritime features: Palk Strait (NE to Palk Bay), Adam's Bridge (Dhanushkodi to Talaimannar), Katchatheevu (1974 pact), Gulf of Mannar (marine biosphere reserve).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one feature, overlooking that all four are core UPSC geography and geopolitics benchmarks."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You detected two features, missing the specific legal context of Katchatheevu or the ecological status of Gulf of Mannar."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified three features, doubting the geographic orientation of Palk Strait connecting to Palk Bay."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_c9bfc92f",
+      "questionStem": "Consider the following geographical features located along the maritime interface between India and Sri Lanka:\n1. Palk Strait: Connects the Bay of Bengal in the northeast with Palk Bay in the southwest.\n2. Adam's Bridge (Ram Setu): A 48-km chain of limestone shoals between Pamban Island (Dhanushkodi) and Mannar Island (Talaimannar).\n3. Katchatheevu: An uninhabited island in Palk Strait whose sovereignty was formally recognized as Sri Lankan under the 1974 bilateral maritime boundary agreement.\n4. Gulf of Mannar: A shallow marine inlet lying south of Adam's Bridge, hosting Southeast Asia's first marine biosphere reserve.\nHow many of the above features are correctly described?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_08a7d39f",
+    "stem": "With reference to India's rights over the deep seabed and extended continental shelf under UNCLOS:\n1. Under UNCLOS Article 76, a coastal state can claim an extended continental shelf up to 350 nautical miles from its baselines or 100 nautical miles beyond the 2,500-meter isobath.\n2. The International Seabed Authority (ISA) has allocated an exclusive pioneer investor area of 75,000 sq km in the Central Indian Ocean Basin (CIOB) to India for the exploration of polymetallic nodules.\n3. India's Deep Ocean Mission focuses on developing deep-sea mining systems, including the manned submersible 'Matsya 6000', to explore mineral resources in this allocated seabed.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. UNCLOS Article 76 establishes that where the continental margin extends beyond 200 nautical miles, a coastal state can submit scientific data to the Commission on the Limits of the Continental Shelf (CLCS) to claim sovereign seabed rights up to 350 NM from baselines, or 100 NM beyond the 2,500-meter depth isobath. India submitted its formal claim for over 1 million sq km of extended continental shelf.\n2. In 1987, India became the first 'Pioneer Investor' recognized by the UN, receiving an allocation of 150,000 sq km in the Central Indian Ocean Basin (CIOB). Following mandatory relinquishment, India retains exclusive rights over 75,000 sq km for polymetallic nodule exploration.\n3. Under the Deep Ocean Mission launched by the Ministry of Earth Sciences, India is developing 'Matsya 6000', a manned submersible capable of carrying 3 humans to a depth of 6,000 meters to inspect and harvest polymetallic nodules rich in nickel, cobalt, copper, and manganese.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Deep seabed rights: UNCLOS Article 76 allows extended continental shelf up to 350 NM; ISA allocated 75,000 sq km in CIOB to India; Deep Ocean Mission develops Matsya 6000 for polymetallic nodules.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The Deep Ocean Mission and the Matsya 6000 submersible are central flagship initiatives directly executing India's ISA seabed rights."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. The 350 NM / 2,500m isobath rule is the exact formula codified under UNCLOS Article 76."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Numeric Distractor Trap",
+        "dissection": "You doubted the 75,000 sq km ISA allocation. India officially holds a 75,000 sq km tract in the CIOB extended through 2027."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Maritime Boundaries and Island Territories",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_08a7d39f",
+      "questionStem": "With reference to India's rights over the deep seabed and extended continental shelf under UNCLOS:\n1. Under UNCLOS Article 76, a coastal state can claim an extended continental shelf up to 350 nautical miles from its baselines or 100 nautical miles beyond the 2,500-meter isobath.\n2. The International Seabed Authority (ISA) has allocated an exclusive pioneer investor area of 75,000 sq km in the Central Indian Ocean Basin (CIOB) to India for the exploration of polymetallic nodules.\n3. India's Deep Ocean Mission focuses on developing deep-sea mining systems, including the manned submersible 'Matsya 6000', to explore mineral resources in this allocated seabed.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_309dbdff",
+    "stem": "Consider the following statements regarding the Siliguri Corridor ('Chicken's Neck'):\n1. It is a narrow bottleneck of territory in West Bengal with a minimum width of approximately 20 to 22 kilometers.\n2. It represents the singular overland transport artery connecting mainland India with the eight states of Northeast India.\n3. To its north lies the Chumbi Valley of Tibet, where an adversarial offensive could potentially threaten land connectivity to Northeast India.\n4. It is bordered by Nepal to the west and Bangladesh to the south.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 3 and 4 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct:\n1. The Siliguri Corridor is a narrow strip of land in northern West Bengal around the city of Siliguri, measuring approximately 60 km in length with a width tapering to only 20-22 km at its narrowest points.\n2. It carries all road highways (such as NH 27), railway trunks, petroleum pipelines, and fiber-optic communication lines connecting mainland India to Assam and the rest of the Northeast.\n3. Strategically, it lies just south of the Chumbi Valley (a dagger-like wedge of Tibetan territory controlled by China sandwiched between Sikkim and Bhutan). A rapid thrust from the Chumbi Valley could sever Northeast India from the mainland, which makes the Doklam plateau overlooking this approach of existential defense importance to India.\n4. Geopolitically, the corridor is flanked by the Mechi River/Nepal on its western perimeter and Bangladesh on its southern perimeter, leaving negligible strategic depth.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Siliguri Corridor ('Chicken's Neck'): 20-22 km narrow strip in West Bengal; sole overland link to NE India; flanked by Nepal (W), Bangladesh (S), and Chinese Chumbi Valley (N).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 4. The Siliguri Corridor is indeed flanked directly by Nepal on the west and Bangladesh on the south."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. The 20 to 22 km dimension is the exact geographic measurement defining the vulnerability of the corridor."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 2, which highlights the critical geographic reality that Siliguri is the sole terrestrial choke point to Northeast India."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_309dbdff",
+      "questionStem": "Consider the following statements regarding the Siliguri Corridor ('Chicken's Neck'):\n1. It is a narrow bottleneck of territory in West Bengal with a minimum width of approximately 20 to 22 kilometers.\n2. It represents the singular overland transport artery connecting mainland India with the eight states of Northeast India.\n3. To its north lies the Chumbi Valley of Tibet, where an adversarial offensive could potentially threaten land connectivity to Northeast India.\n4. It is bordered by Nepal to the west and Bangladesh to the south.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_f6e4f431",
+    "stem": "With reference to the Kaladan Multi-Modal Transit Transport Project (KMTTP), consider the following statements:\n1. It connects Kolkata port in India with the newly built Sittwe deep-water port in Rakhine State, Myanmar, across the Bay of Bengal.\n2. From Sittwe, it incorporates an inland water transport segment along the Kaladan River up to Paletwa in Myanmar.\n3. From Paletwa, a road highway leads to the Indo-Myanmar border at Zorinpui, entering the Indian state of Mizoram.\n4. The project provides an alternative maritime-cum-land transport corridor to Northeast India, bypassing the Siliguri Corridor.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 3 and 4 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct:\n1. The Kaladan project links the Port of Kolkata with Sittwe Port in Myanmar across a 539-km sea route across the Bay of Bengal.\n2. At Sittwe, cargo is transferred onto inland water transport vessels that travel 158 km upstream along the Kaladan River to Paletwa inland river terminal in Chin State.\n3. From Paletwa, cargo moves along a 109-km road to the India-Myanmar border at Zorinpui, crossing into Mizoram and connecting to Lawngtlai on National Highway 54 via a 100-km road.\n4. Geopolitically, it slashes transport distance from Kolkata to Mizoram and Assam by over 1,000 km and eliminates total dependence on the congested Siliguri Corridor.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Kaladan Multi-Modal Project: Kolkata → Sittwe Port (sea, 539 km) → Paletwa (Kaladan River IWT, 158 km) → Zorinpui/Lawngtlai, Mizoram (road, 109 km); bypasses Siliguri Corridor.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 4. The primary strategic motivation for India funding the Kaladan project was precisely to establish a non-Siliguri access route to Northeast India."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. Kolkata to Sittwe across the Bay of Bengal is the initial maritime leg of the project."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "You doubted the Kaladan River IWT leg. Inland navigation between Sittwe and Paletwa is the exact 'multi-modal' river link defining the project."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_f6e4f431",
+      "questionStem": "With reference to the Kaladan Multi-Modal Transit Transport Project (KMTTP), consider the following statements:\n1. It connects Kolkata port in India with the newly built Sittwe deep-water port in Rakhine State, Myanmar, across the Bay of Bengal.\n2. From Sittwe, it incorporates an inland water transport segment along the Kaladan River up to Paletwa in Myanmar.\n3. From Paletwa, a road highway leads to the Indo-Myanmar border at Zorinpui, entering the Indian state of Mizoram.\n4. The project provides an alternative maritime-cum-land transport corridor to Northeast India, bypassing the Siliguri Corridor.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_8c9acddd",
+    "stem": "Consider the following statements regarding the India-Myanmar-Thailand (IMT) Trilateral Highway:\n1. The highway originates at Moreh in Manipur (India) and terminates at Mae Sot in Tak Province (Thailand).\n2. Within Myanmar, it traverses key transit hubs including Tamu, Kalewa, Mandalay, Naypyidaw, and Bago.\n3. Under India's Act East Policy, active deliberations have taken place to extend this connectivity corridor eastward into Cambodia, Laos, and Vietnam.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The IMT Trilateral Highway is a ~1,360-km cross-border highway project that originates at the border town of Moreh in Manipur (India) and terminates at Mae Sot in Thailand.\n2. In Myanmar, the route crosses from Moreh into Tamu, passes through Kalewa, connects to the central hub of Mandalay, continues south to the administrative capital Naypyidaw, and passes through Bago towards the Myawaddy-Mae Sot border.\n3. India and ASEAN have actively negotiated extending the IMT highway through Laos and Cambodia to reach Vietnam's ports (such as Da Nang), creating an uninterrupted East-West Economic Corridor across the Indochinese peninsula.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → IMT Trilateral Highway: Originates at Moreh (Manipur) → traverses Myanmar (Tamu, Mandalay, Naypyidaw) → terminates at Mae Sot (Thailand); proposed extension to Laos, Cambodia, Vietnam.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The proposed extension to Cambodia, Laos, and Vietnam is a high-profile agenda item under ASEAN-India connectivity summits."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1, yet Moreh in Manipur and Mae Sot in Thailand are the two anchor endpoints of the highway."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "You doubted the route within Myanmar. The IMT highway utilizes Myanmar's central transport spine connecting Tamu to Mandalay and Naypyidaw."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_8c9acddd",
+      "questionStem": "Consider the following statements regarding the India-Myanmar-Thailand (IMT) Trilateral Highway:\n1. The highway originates at Moreh in Manipur (India) and terminates at Mae Sot in Tak Province (Thailand).\n2. Within Myanmar, it traverses key transit hubs including Tamu, Kalewa, Mandalay, Naypyidaw, and Bago.\n3. Under India's Act East Policy, active deliberations have taken place to extend this connectivity corridor eastward into Cambodia, Laos, and Vietnam.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_4beaa7da",
+    "stem": "With reference to the strategic significance of Chabahar Port, consider the following statements:\n1. It is located on the Makran coast in the Sistan-Baluchestan province of southeastern Iran, opening directly onto the Gulf of Oman.\n2. India operates the Shahid Beheshti terminal at Chabahar Port through India Ports Global Limited (IPGL).\n3. The port connects via road to the Zaranj-Delaram highway, enabling direct Indian trade with Afghanistan without traversing Pakistani territory.\n4. Chabahar forms the southern maritime anchor of the International North-South Transport Corridor (INSTC) providing connectivity to Russia and Europe.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 3 and 4 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct:\n1. Chabahar Port is situated on Iran's southern Makran coast in Sistan-Baluchestan province, outside the congested Persian Gulf and Strait of Hormuz, giving direct oceanic access to the Gulf of Oman and the Arabian Sea.\n2. In May 2024, India signed a landmark 10-year long-term agreement with Iran for operating the Shahid Beheshti terminal of Chabahar Port through its state-run enterprise India Ports Global Limited (IPGL).\n3. From Chabahar, cargo moves north by road/rail to Milak on the Iran-Afghan border, connecting directly to the 218-km Zaranj-Delaram highway constructed by India's Border Roads Organisation (BRO), linking into Afghanistan's national Garland Highway network and bypassing Pakistan.\n4. Chabahar functions as an alternative southern maritime gateway to Bandar Abbas for the International North-South Transport Corridor (INSTC), creating multimodal access through Iran, the Caspian Sea, Azerbaijan, and Russia to Europe.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Chabahar Port: Gulf of Oman (Sistan-Baluchestan, Iran); Shahid Beheshti terminal run by IPGL; connects to Zaranj-Delaram highway (Afghanistan) bypassing Pakistan; southern maritime node of INSTC.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 4. Chabahar is formally incorporated as a key maritime node within the INSTC multimodal transit network."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. Chabahar's location on the Gulf of Oman (outside the Strait of Hormuz choke point) is its premier geographic advantage."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 2. India Ports Global Limited signed a 10-year contract in 2024 to equip and operate the Shahid Beheshti terminal."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_4beaa7da",
+      "questionStem": "With reference to the strategic significance of Chabahar Port, consider the following statements:\n1. It is located on the Makran coast in the Sistan-Baluchestan province of southeastern Iran, opening directly onto the Gulf of Oman.\n2. India operates the Shahid Beheshti terminal at Chabahar Port through India Ports Global Limited (IPGL).\n3. The port connects via road to the Zaranj-Delaram highway, enabling direct Indian trade with Afghanistan without traversing Pakistani territory.\n4. Chabahar forms the southern maritime anchor of the International North-South Transport Corridor (INSTC) providing connectivity to Russia and Europe.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_4dcba4c5",
+    "stem": "Consider the following statements regarding the Bangladesh, Bhutan, India, Nepal (BBIN) Motor Vehicles Agreement:\n1. It was conceived as a sub-regional transport pact following the stalling of the proposed SAARC Motor Vehicles Agreement at the 2014 Kathmandu Summit.\n2. The agreement aims to allow passenger, personal, and cargo vehicles to travel across the member nations without mandatory border transshipment delays.\n3. Bhutan has officially ratified and implemented the agreement, permitting free transit of heavy transport vehicles through its mountain corridors.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect:\n1. At the 18th SAARC Summit in Kathmandu (2014), the SAARC Motor Vehicles Agreement was blocked by Pakistan. In response, India, Bangladesh, Bhutan, and Nepal formulated the sub-regional BBIN MVA, signed in Thimphu in June 2015.\n2. The agreement enables seamless cross-border movement of passenger and commercial cargo vehicles, reducing high logistics costs, custom delays, and transshipment bottlenecks across South Asia.\n3. Bhutan's National Council (upper house of Parliament) refused to ratify the agreement in 2017 due to domestic concerns regarding environmental degradation, carbon emissions, and vehicular congestion. Bhutan opted to remain an observer, giving its consent for Bangladesh, India, and Nepal (BIN) to proceed with operationalizing the pact among themselves.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → BBIN Motor Vehicles Agreement (2015): Formed after SAARC MVA failure; facilitates seamless cargo transit; Bhutan did NOT ratify due to environmental concerns, leaving India-Bangladesh-Nepal to proceed.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "You omitted statement 1 and accepted statement 3. Bhutan's refusal to ratify on ecological grounds is one of the most prominent environmental diplomacy developments in South Asia."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 2, which outlines the fundamental purpose of the MVA: eliminating cross-border transshipment hurdles."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Plausibility Illusion (Over-Inclusion)",
+        "dissection": "You assumed all four nations ratified the agreement. Bhutan's parliament withheld ratification to protect its carbon-negative status and mountain ecosystem."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_4dcba4c5",
+      "questionStem": "Consider the following statements regarding the Bangladesh, Bhutan, India, Nepal (BBIN) Motor Vehicles Agreement:\n1. It was conceived as a sub-regional transport pact following the stalling of the proposed SAARC Motor Vehicles Agreement at the 2014 Kathmandu Summit.\n2. The agreement aims to allow passenger, personal, and cargo vehicles to travel across the member nations without mandatory border transshipment delays.\n3. Bhutan has officially ratified and implemented the agreement, permitting free transit of heavy transport vehicles through its mountain corridors.\nWhich of the statements given above is/are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_1e04d5a5",
+    "stem": "Consider the following connectivity initiatives between India and Bangladesh:\n1. Agartala-Akhaura Rail Link: Links the railway network of Tripura directly with eastern Bangladesh, slashing rail transit time from Agartala to Kolkata via Dhaka.\n2. Maitri Setu: A 1.9-km bridge constructed across the Feni River connecting Sabroom in South Tripura with Ramgarh in Bangladesh.\n3. Sabroom Integrated Check Post: Designed as the 'Gateway to Southeast Asia', situated less than 80 kilometers from Bangladesh's deep-sea port of Chittagong (Chattogram).\nHow many of the above connectivity projects are correctly matched with their strategic geographic significance?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three connectivity initiatives are correctly matched:\n1. Agartala-Akhaura Rail Link: A 12.24-km dual-gauge rail link (5.46 km in Tripura and 6.78 km in Bangladesh) inaugurated in 2023. It reduces the rail journey between Agartala and Kolkata from 31 hours (via the circuitous Siliguri route) to around 10 hours via Dhaka.\n2. Maitri Setu (Friendship Bridge): Built over the Feni River, connecting Sabroom (southernmost town in Tripura) with Ramgarh in Bangladesh. It opens direct land access for India's Northeast to the Bay of Bengal.\n3. Sabroom ICP & Chittagong Port Access: Sabroom is located barely 75-80 km from the premier maritime seaport of Bangladesh at Chittagong (Chattogram). Under bilateral transit agreements, cargo landed at Chittagong can enter Tripura directly at Sabroom, transforming landlocked Northeast India into a maritime-connected region.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → India-Bangladesh corridors: Agartala-Akhaura Rail Link (cuts Agartala-Kolkata route via Dhaka); Maitri Setu on Feni River (Sabroom to Ramgarh); Sabroom is ~80 km from Chittagong port.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one project, missing that all three are interconnected strategic initiatives designed to give Tripura direct maritime access."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You recognized two projects, missing that the Feni River bridge (Maitri Setu) directly complements Sabroom's access to Chittagong."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "You doubted the authenticity of all three projects. All three are landmark bilateral infrastructure projects completed between 2021 and 2024."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_1e04d5a5",
+      "questionStem": "Consider the following connectivity initiatives between India and Bangladesh:\n1. Agartala-Akhaura Rail Link: Links the railway network of Tripura directly with eastern Bangladesh, slashing rail transit time from Agartala to Kolkata via Dhaka.\n2. Maitri Setu: A 1.9-km bridge constructed across the Feni River connecting Sabroom in South Tripura with Ramgarh in Bangladesh.\n3. Sabroom Integrated Check Post: Designed as the 'Gateway to Southeast Asia', situated less than 80 kilometers from Bangladesh's deep-sea port of Chittagong (Chattogram).\nHow many of the above connectivity projects are correctly matched with their strategic geographic significance?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_fa356bbf",
+    "stem": "With reference to the Great Nicobar Island Holistic Development Project, consider the following statements:\n1. It includes the establishment of an International Container Transshipment Port (ICTP) at Galathea Bay on Great Nicobar Island.\n2. Galathea Bay is geographically proximate to the international east-west shipping route traversing the Malacca Strait, lying within 40 nautical miles of the main channel.\n3. The project incorporates a dual-use military-civil international airport, an integrated township, and a gas/solar power plant.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The Great Nicobar Island Holistic Development Project (spearheaded by NITI Aayog and Andaman and Nicobar Islands Integrated Development Corporation - ANIIDCO) features an International Container Transshipment Terminal (ICTP) at Galathea Bay. Currently, nearly 75% of India's transshipped container cargo is handled at foreign ports like Colombo, Singapore, and Port Klang; Galathea Bay is positioned to recapture this traffic.\n2. Galathea Bay is located barely 40 nautical miles from the international east-west shipping route that carries ~30% of global sea trade through the Malacca Strait, providing unmatched turnaround efficiency for ultra-large container vessels.\n3. In addition to the deep-water transshipment terminal, the mega project includes a dual-use international airport (handling commercial passengers and military defense surveillance), an adjoining township, and a 450 MVA gas/solar power plant.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Great Nicobar Project: International Container Transshipment Port at Galathea Bay; located ~40 NM from Malacca Strait shipping corridor; includes dual-use military-civil airport and township.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The project is an integrated multifaceted development comprising a dual-use military airport and a dedicated power plant alongside the transshipment port."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1, which defines the central infrastructure centerpiece of the entire development at Galathea Bay."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "You doubted the proximity to the Malacca shipping lane. Galathea Bay sits just 40 nautical miles off the main east-west trunk route."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_fa356bbf",
+      "questionStem": "With reference to the Great Nicobar Island Holistic Development Project, consider the following statements:\n1. It includes the establishment of an International Container Transshipment Port (ICTP) at Galathea Bay on Great Nicobar Island.\n2. Galathea Bay is geographically proximate to the international east-west shipping route traversing the Malacca Strait, lying within 40 nautical miles of the main channel.\n3. The project incorporates a dual-use military-civil international airport, an integrated township, and a gas/solar power plant.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_901dcf7e",
+    "stem": "Consider the following pairs of strategic mountain tunnels and their operational connectivity:\n1. Sela Tunnel: Provides all-weather connectivity across Sela Pass to Tawang in Arunachal Pradesh near the LAC.\n2. Atal Tunnel: Bypasses the snow-bound Rohtang Pass on the Manali-Leh highway in Himachal Pradesh.\n3. Zojila Tunnel: Designed to provide year-round connectivity between the Kashmir Valley and Ladakh across the Zojila Pass.\n4. Shinku La Tunnel: Planned across Shinku La to connect Himachal Pradesh's Lahaul valley with Zanskar in Ladakh, creating an alternative axis to Leh.\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched:\n1. Sela Tunnel: Inaugurated in March 2024 by the Border Roads Organisation (BRO), this bi-lane tunnel at 13,000 ft cuts through the Sela Pass on the Balipara-Charduar-Tawang (BCT) road, ensuring all-weather military logistics to Tawang right on the LAC with China.\n2. Atal Tunnel (9.02 km): Built at an altitude of over 10,000 ft in the Pir Panjal Range beneath the Rohtang Pass, it keeps Manali connected to the Lahaul-Spiti valley throughout the harsh winter.\n3. Zojila Tunnel (14.15 km): Under construction at over 11,500 ft, it connects Baltal in Ganderbal (Kashmir) with Minamarg in Dras (Ladakh) beneath the Zojila Pass, ensuring uninterrupted round-the-year passage on NH 1.\n4. Shinku La Tunnel (4.1 km): Under construction by the BRO on the Nimmu-Padam-Darcha (NPD) road at 15,800 ft, it will provide the third all-weather strategic highway axis from Himachal Pradesh to Ladakh, completely insulated from Pakistani or Chinese artillery observation.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Strategic Himalayan Tunnels: Sela (all-weather to Tawang, Arunachal); Atal (Rohtang Pass bypass, HP); Zojila (Srinagar-Leh NH 1); Shinku La (Lahaul to Zanskar / NPD axis to Leh).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one tunnel, missing that all four represent high-priority BRO strategic border infrastructure projects."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only two tunnels, overlooking the strategic significance of the Zojila and Shinku La connectivity axes."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You doubted the Shinku La Tunnel. Shinku La is the key linchpin tunnel along the third alternative axis (Nimmu-Padam-Darcha) connecting Ladakh to the Indian mainland."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Strategic Geopolitical Corridors",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_901dcf7e",
+      "questionStem": "Consider the following pairs of strategic mountain tunnels and their operational connectivity:\n1. Sela Tunnel: Provides all-weather connectivity across Sela Pass to Tawang in Arunachal Pradesh near the LAC.\n2. Atal Tunnel: Bypasses the snow-bound Rohtang Pass on the Manali-Leh highway in Himachal Pradesh.\n3. Zojila Tunnel: Designed to provide year-round connectivity between the Kashmir Valley and Ladakh across the Zojila Pass.\n4. Shinku La Tunnel: Planned across Shinku La to connect Himachal Pradesh's Lahaul valley with Zanskar in Ladakh, creating an alternative axis to Leh.\nHow many of the pairs given above are correctly matched?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_d46757f4",
+    "stem": "Which one of the following represents the correct descending sequence of Indian coastal states according to the length of their mainland coastline?",
+    "options": {
+      "opt_a": "Gujarat > Andhra Pradesh > Tamil Nadu > Maharashtra",
+      "opt_b": "Andhra Pradesh > Gujarat > Tamil Nadu > Kerala",
+      "opt_c": "Gujarat > Tamil Nadu > Andhra Pradesh > Maharashtra",
+      "opt_d": "Gujarat > Maharashtra > Andhra Pradesh > Kerala"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The correct descending sequence is Gujarat > Andhra Pradesh > Tamil Nadu > Maharashtra.\nAccording to the Ministry of Home Affairs and official Survey of India data, the coastline lengths of the nine mainland coastal states are:\n1. Gujarat: ~1,214.7 km\n2. Andhra Pradesh: ~973.7 km\n3. Tamil Nadu: ~906.9 km\n4. Maharashtra: ~652.6 km\n5. Kerala: ~569.7 km\n6. Odisha: ~476.4 km\n7. Karnataka: ~280.0 km\n8. West Bengal: ~157.5 km\n9. Goa: ~101.0 - 160.0 km (shortest)\nCandidates frequently confuse Andhra Pradesh and Tamil Nadu; Andhra Pradesh has the second-longest coastline in India after Gujarat.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Mainland coastline ranking: Gujarat (~1,215 km) > Andhra Pradesh (~974 km) > Tamil Nadu (~907 km) > Maharashtra (~653 km) > Kerala (~570 km).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "Gujarat has the longest mainland coastline (1,214.7 km), significantly longer than Andhra Pradesh (973.7 km), due to the deeply indented Gulf of Kutch and Gulf of Khambhat."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Andhra Pradesh (973.7 km) has a longer coastline than Tamil Nadu (906.9 km). Tamil Nadu ranks third, not second."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "Maharashtra's coastline is ~652.6 km, which is shorter than Andhra Pradesh (973.7 km)."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "sequence",
+    "qstyle": "sequence",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_d46757f4",
+      "questionStem": "Which one of the following represents the correct descending sequence of Indian coastal states according to the length of their mainland coastline?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_8d57afa6",
+    "stem": "Consider the following statements regarding the coastline of India:\n1. India has 9 coastal states and 4 coastal Union Territories (Daman & Diu and Dadra & Nagar Haveli, Puducherry, Lakshadweep, and Andaman & Nicobar Islands).\n2. The Union Territory of Andaman and Nicobar Islands possesses a longer coastline (approx. 1,962 km) than Gujarat, the state with the longest mainland coastline.\n3. Among the 9 coastal states, Goa possesses the shortest coastline.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. India has 9 maritime coastal states (Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra Pradesh, Odisha, West Bengal) and 4 coastal Union Territories: Daman & Diu and Dadra & Nagar Haveli (merged in 2020), Puducherry (with enclaves in Tamil Nadu, Kerala, and Andhra Pradesh), Lakshadweep, and Andaman & Nicobar Islands.\n2. When including Union Territories, Andaman & Nicobar Islands has the longest coastline of all administrative units in India, measuring 1,962 km across its 572 islands, far exceeding Gujarat's 1,214.7 km.\n3. Among the 9 coastal states, Goa has the shortest coastline (~101 km strictly on open sea, or ~160 km including estuarine inlets). West Bengal follows with ~157.5 km.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Indian Coastline: 9 coastal states + 4 coastal UTs; Andaman & Nicobar has the longest coastline (~1,962 km) overall; Goa has the shortest coastline among states.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. Candidates often wonder whether West Bengal or Goa is shortest; Goa is verified as possessing the shortest coastline among the 9 coastal states."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. Following the 2020 merger of Dadra & Nagar Haveli and Daman & Diu, India has exactly 4 coastal Union Territories."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Territorial Scope Confusion Trap",
+        "dissection": "You doubted statement 2. Due to the extensive archipelago containing hundreds of islands, Andaman & Nicobar Islands has a total perimeter of 1,962 km, greater than any mainland state."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_8d57afa6",
+      "questionStem": "Consider the following statements regarding the coastline of India:\n1. India has 9 coastal states and 4 coastal Union Territories (Daman & Diu and Dadra & Nagar Haveli, Puducherry, Lakshadweep, and Andaman & Nicobar Islands).\n2. The Union Territory of Andaman and Nicobar Islands possesses a longer coastline (approx. 1,962 km) than Gujarat, the state with the longest mainland coastline.\n3. Among the 9 coastal states, Goa possesses the shortest coastline.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_2e760d70",
+    "stem": "With reference to the volcanic islands of India, consider the following statements:\n1. Barren Island, located in the Andaman Sea, hosts the only confirmed active volcano in the entire Indian subcontinent and South Asia.\n2. Narcondam Island is a volcanic island of dormant nature located to the northeast of North Andaman.\n3. Both Barren and Narcondam islands are situated on the inner volcanic arc associated with the subduction of the Indian Plate beneath the Burma Microplate.\n4. Narcondam Island is the sole global habitat of the endangered Narcondam Hornbill (Rhyticeros narcondami).\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 3 and 4 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct:\n1. Barren Island is located ~135 km northeast of Port Blair in the Andaman Sea. It is the only confirmed active volcano in South Asia, having erupted in 1787, 1991, 1994-95, 2005, and most recently showing strombolian activity in 2017-2022.\n2. Narcondam Island is a small volcanic island (around 6.8 sq km) situated ~140 km northeast of North Andaman. It consists of a dormant/extinct andesitic volcano whose peak rises 710 meters above sea level.\n3. Geologically, Barren and Narcondam are part of the volcanic inner arc belonging to the Sunda Arc system, created by the oblique subduction of the oceanic crust of the Indian Plate beneath the Burma Microplate.\n4. Narcondam Island is an endemic bird area and the sole worldwide home of the endangered Narcondam Hornbill (Rhyticeros narcondami), a small frugivorous bird protected under Schedule I of the Wildlife Protection Act, 1972.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Volcanic Islands: Barren Island (only active volcano in South Asia, Andaman Sea); Narcondam Island (dormant volcano, sole home of endemic Narcondam Hornbill); part of Sunda volcanic inner arc.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 4. The Narcondam Hornbill is one of India's most famous endemic endangered species, restricted strictly to Narcondam Island."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. Barren Island being the only active volcano in South Asia is a quintessential UPSC fact."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 2. Narcondam is indeed an andesitic dormant volcanic peak located northeast of North Andaman."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_2e760d70",
+      "questionStem": "With reference to the volcanic islands of India, consider the following statements:\n1. Barren Island, located in the Andaman Sea, hosts the only confirmed active volcano in the entire Indian subcontinent and South Asia.\n2. Narcondam Island is a volcanic island of dormant nature located to the northeast of North Andaman.\n3. Both Barren and Narcondam islands are situated on the inner volcanic arc associated with the subduction of the Indian Plate beneath the Burma Microplate.\n4. Narcondam Island is the sole global habitat of the endangered Narcondam Hornbill (Rhyticeros narcondami).\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_9d4301b2",
+    "stem": "Consider the following statements regarding the Lakshadweep archipelago:\n1. It is entirely composed of coral atolls, reefs, and submerged banks developed over the volcanic basement of the Chagos-Laccadive submarine ridge.\n2. The northern group of islands is known as the Amindivi group, while the central/southern group is known as the Cannanore group, with Minicoy situated at the southernmost end.\n3. Pitti Island is an uninhabited atoll in Lakshadweep designated as a bird sanctuary, renowned as a breeding site for pelagic seabirds such as the Sooty Tern and Brown Noddy.\n4. Kavaratti functions as the administrative headquarters, while Agatti has the only domestic airport operating in the archipelago.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 3 and 4 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct:\n1. The 36 islands of Lakshadweep (total area 32 sq km) are entirely biogenic in origin, consisting of coral atolls, fringing reefs, and sand cays resting atop the Chagos-Laccadive submarine plateau.\n2. The archipelago is geographically split into three main divisions: Amindivi Islands in the north (Amini, Chetlat, Kadmat, Kiltan, Bitra), Cannanore (Laccadive) Islands in the center (Andrott, Kavaratti, Kalpeni, Agatti, Suheli Par), and Minicoy Island isolated in the south across the 9° Channel.\n3. Pitti Island (Pakshipitti) is a small, uninhabited coral sand cay of 1.2 hectares located 24 km north of Kavaratti. It was notified as a bird sanctuary in 1962 and serves as an indispensable nesting colony for pelagic seabirds including the Sooty Tern (Onychoprion fuscatus) and the Greater Crested Tern.\n4. Kavaratti is the administrative capital of the Union Territory of Lakshadweep, while Agatti Island contains the lone commercial airstrip (Agatti Aerodrome) serving the island chain.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Lakshadweep Archipelago: Coral atolls on Chagos-Laccadive Ridge; Amindivi (North), Cannanore (Center), Minicoy (South); Pitti Island (bird sanctuary for Sooty Terns); Kavaratti capital, Agatti airport.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 4. Kavaratti being the capital and Agatti having the sole airport are vital administrative facts of the Union Territory."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. The geological formation of Lakshadweep atop the Chagos-Laccadive submarine ridge is standard NCERT Class XI physical geography."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 2. The historical and geographic division into Amindivi and Cannanore groups was formally codified in the Lakshadweep Regulation, 1965."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_9d4301b2",
+      "questionStem": "Consider the following statements regarding the Lakshadweep archipelago:\n1. It is entirely composed of coral atolls, reefs, and submerged banks developed over the volcanic basement of the Chagos-Laccadive submarine ridge.\n2. The northern group of islands is known as the Amindivi group, while the central/southern group is known as the Cannanore group, with Minicoy situated at the southernmost end.\n3. Pitti Island is an uninhabited atoll in Lakshadweep designated as a bird sanctuary, renowned as a breeding site for pelagic seabirds such as the Sooty Tern and Brown Noddy.\n4. Kavaratti functions as the administrative headquarters, while Agatti has the only domestic airport operating in the archipelago.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_b6de1908",
+    "stem": "Consider the following pairs of geographic features in the Andaman and Nicobar Islands:\n1. Saddle Peak (732 m): Highest elevation in the Andaman and Nicobar archipelago, situated in North Andaman Island.\n2. Mount Thullier (642 m): Highest peak of the Nicobar group, situated on Great Nicobar Island.\n3. Middle Andaman: The single largest island by land area in India.\n4. Port Blair: Capital city located on South Andaman Island.\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched:\n1. Saddle Peak (732 m / 2,402 ft): Located within Saddle Peak National Park on North Andaman Island, it is the highest point of the entire archipelago.\n2. Mount Thullier (642 m / 2,106 ft): Located in Great Nicobar Biosphere Reserve on Great Nicobar Island, it is the highest peak in the Nicobar group.\n3. Middle Andaman: Covering an area of ~1,536 sq km, it is the largest individual island in the Republic of India by surface area (slightly larger than North Andaman or South Andaman).\n4. Port Blair (recently renamed Sri Vijaya Puram): The capital city and administrative nerve center of the Union Territory, located on the southeast coast of South Andaman Island.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Andaman & Nicobar Peaks: Saddle Peak (732 m, North Andaman - highest overall); Mount Thullier (642 m, Great Nicobar - highest in Nicobars); Middle Andaman (largest island in India); Port Blair on South Andaman.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one pair, missing that all four pairs are exact, textbook-verified physical facts."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only two pairs, overlooking Mount Thullier on Great Nicobar or Middle Andaman as India's largest island."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified three pairs, likely doubting Middle Andaman. Middle Andaman (~1,536 sq km) is indeed larger than South Andaman (~1,211 sq km) or Great Nicobar (~921 sq km)."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_b6de1908",
+      "questionStem": "Consider the following pairs of geographic features in the Andaman and Nicobar Islands:\n1. Saddle Peak (732 m): Highest elevation in the Andaman and Nicobar archipelago, situated in North Andaman Island.\n2. Mount Thullier (642 m): Highest peak of the Nicobar group, situated on Great Nicobar Island.\n3. Middle Andaman: The single largest island by land area in India.\n4. Port Blair: Capital city located on South Andaman Island.\nHow many of the pairs given above are correctly matched?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_120b339b",
+    "stem": "With reference to the distribution of coral reef ecosystems in India, consider the following statements:\n1. Lakshadweep represents atoll reef systems, whereas the Andaman and Nicobar Islands are predominantly characterized by fringing reefs.\n2. Major reef formations in mainland India are found in the Gulf of Mannar and the Gulf of Kutch.\n3. Coral reefs are virtually absent along the eastern coast off West Bengal and Odisha due to massive freshwater discharges, reduced salinity, and heavy silt loads brought by rivers like the Ganga, Brahmaputra, and Mahanadi.\n4. Submerged patch reefs are present along the central-western coast, notably at Netrani Island in Karnataka and Angria Bank off Maharashtra.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "2, 3 and 4 only",
+      "opt_c": "1, 2 and 4 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four statements are correct:\n1. India possesses four primary coral reef regions: Lakshadweep (classic atolls), Andaman & Nicobar (fringing reefs and some barrier reefs), Gulf of Mannar (fringing and patch reefs around 21 islands), and Gulf of Kutch (fringing reefs around 42 islands).\n2. On mainland India, the Gulf of Mannar (Palk Bay) and Gulf of Kutch (Marine National Park) are the two premier centers of extensive coral reef formations.\n3. Corals require clear, warm, saline marine water (salinity 27-40 ppt) with adequate sunlight. The northwest Bay of Bengal along West Bengal and Odisha receives massive influxes of fresh water and millions of tons of riverine sediment from the Ganga, Brahmaputra, and Mahanadi deltas, smothering coral polyps and depressing salinity below tolerable thresholds.\n4. Beyond the four major zones, submerged patch reefs flourish off the central-western coast, including around Netrani Island (Pigeon Island) off Murudeshwar in Karnataka and the submerged sunken atoll/coral bank known as Angria Bank off the Konkan coast of Maharashtra.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Coral Reefs of India: Lakshadweep (atolls); Andaman & Nicobar (fringing); Gulf of Mannar & Gulf of Kutch (mainland reefs); absent in WB/Odisha due to freshwater & silt; patch reefs at Netrani Island and Angria Bank.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 4. Netrani Island and Angria Bank are well-documented patch coral ecosystems on India's western continental shelf."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. The structural dichotomy between Lakshadweep atolls and Andaman fringing reefs is a classic physical geography concept."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3, missing the fundamental ecological principle that high turbidity and low salinity prevent coral growth off Bengal and Odisha."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_120b339b",
+      "questionStem": "With reference to the distribution of coral reef ecosystems in India, consider the following statements:\n1. Lakshadweep represents atoll reef systems, whereas the Andaman and Nicobar Islands are predominantly characterized by fringing reefs.\n2. Major reef formations in mainland India are found in the Gulf of Mannar and the Gulf of Kutch.\n3. Coral reefs are virtually absent along the eastern coast off West Bengal and Odisha due to massive freshwater discharges, reduced salinity, and heavy silt loads brought by rivers like the Ganga, Brahmaputra, and Mahanadi.\n4. Submerged patch reefs are present along the central-western coast, notably at Netrani Island in Karnataka and Angria Bank off Maharashtra.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_dc19159d",
+    "stem": "Consider the following statements regarding the coastal geomorphology of Gujarat:\n1. The Great Rann of Kutch is an extensive desiccated marine salt marsh created by the uplift of land and regression of the sea, accentuated by seismic events like the 1819 earthquake that formed the 'Allah Bund'.\n2. Sir Creek and Kori Creek are tidal creeks within the Indus deltaic periphery subject to dynamic erosion, shifting channels, and extensive mangrove swamps.\n3. The Gulf of Khambhat displays extreme macro-tidal conditions with tidal ranges exceeding 10 meters, driven by its shallow bathymetry and funnel-shaped configuration.\nWhich of the statements given above are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements are correct:\n1. The Great Rann of Kutch was historically a shallow arm of the Arabian Sea that silted up and became desiccated. During the monumental Rann of Kutch earthquake of June 1819 (magnitude ~7.8-8.2), a 90-km long, 3-meter high natural earthen dam/fault scarp was uplifted, known as the 'Allah Bund' (Mound of God), which altered the flow of the eastern branches of the Indus River (Nara) and turned the lake into a barren salt flat.\n2. Sir Creek (96 km) and Kori Creek are tidal estuaries on the border of Gujarat and Sindh (Pakistan). They form part of the vast wetland complex of the Indus delta, lined with extensive Avicennia marina mangrove forests and subject to fierce tidal flushing.\n3. The Gulf of Khambhat (Cambay) experiences macrotidal tides of up to 10-11 meters—the second highest tidal range in the world after the Bay of Fundy. This extreme tidal amplitude results from the amplification caused by its narrow, shallow, funnel-shaped bathymetry into which major rivers like Narmada, Tapi, Mahi, and Sabarmati discharge.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Gujarat coastal geomorphology: Great Rann formed by regression and 1819 Allah Bund earthquake faulting; Sir Creek & Kori Creek are tidal mangrove creeks; Gulf of Khambhat has extreme macrotidal range (>10 m).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 3. The macro-tidal amplitude of over 10 meters in the Gulf of Khambhat is a world-renowned oceanographic feature."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You omitted statement 1. The 1819 Allah Bund tectonic faulting is one of the most famous historical earthquake-geomorphology events in Indian geography."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Spatial Distortion Trap",
+        "dissection": "You omitted statement 2. Sir Creek and Kori Creek are authentic tidal creeks directly anchoring the maritime border disputes in Kutch."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_dc19159d",
+      "questionStem": "Consider the following statements regarding the coastal geomorphology of Gujarat:\n1. The Great Rann of Kutch is an extensive desiccated marine salt marsh created by the uplift of land and regression of the sea, accentuated by seismic events like the 1819 earthquake that formed the 'Allah Bund'.\n2. Sir Creek and Kori Creek are tidal creeks within the Indus deltaic periphery subject to dynamic erosion, shifting channels, and extensive mangrove swamps.\n3. The Gulf of Khambhat displays extreme macro-tidal conditions with tidal ranges exceeding 10 meters, driven by its shallow bathymetry and funnel-shaped configuration.\nWhich of the statements given above are correct?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_c8c7c346",
+    "stem": "Consider the following pairs of Indian coastal/offshore islands and their strategic or physical significance:\n1. Sriharikota: A barrier island separating Pulicat Lake from the Bay of Bengal, housing the Satish Dhawan Space Centre.\n2. Dr. Abdul Kalam Island (Wheeler Island): An island off the coast of Odisha near Dhamra Port, utilized by DRDO as India's primary missile testing site.\n3. Pamban Island (Rameswaram Island): Connects to the Tamil Nadu mainland via the Pamban rail and road bridges and terminates at Dhanushkodi facing the Palk Strait.\n4. New Moore Island (South Talpatti): A temporary mudflat island in the Hariabhanga river estuary that triggered an Indo-Bangladesh maritime boundary dispute before submerging due to sea level rise.\nHow many of the above pairs are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched:\n1. Sriharikota: A barrier spit/island in Tirupati district of Andhra Pradesh that encloses Pulicat Lake (second largest brackish lagoon in India) from the Bay of Bengal. It was selected for ISRO's spaceport (Satish Dhawan Space Centre - SHAR) due to its proximity to the equator (for geostationary launch energy boost) and eastward launch over the unpopulated sea.\n2. Dr. Abdul Kalam Island (formerly Wheeler Island): Located approximately 10 km off the Odisha coast in the Bhadrak district. It is India's premier missile test facility where long-range strategic missiles (Agni series, Prithvi, interceptors) are launched by DRDO.\n3. Pamban Island: Located in Ramanathapuram district of Tamil Nadu between the mainland and Sri Lanka. It contains Rameswaram and ends at the ghost town of Dhanushkodi. The historic 2.06-km Pamban rail bridge (opened in 1914) spans the Palk Strait.\n4. New Moore Island (known in Bangladesh as South Talpatti): Formed in the Bay of Bengal in the estuary of the Hariabhanga River following the 1970 Bhola cyclone. Both India and Bangladesh laid claim to the island until satellite imagery in 2010 confirmed that rising sea levels and coastal erosion had completely submerged it beneath the sea.\n\n💡 RANKER'S MEMORY LOCK: India: Location, Size & Neighbours → Strategic Coastal Islands: Sriharikota (barrier island on Pulicat Lake, ISRO spaceport); Dr. Abdul Kalam Island (off Odisha, DRDO missile testing); Pamban Island (Rameswaram / Dhanushkodi); New Moore Island (submerged estuary mudflat disputed with Bangladesh).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only one pair, missing that all four island descriptions are verified geographical and geopolitical benchmarks."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified only two pairs, overlooking either the DRDO missile facility on Abdul Kalam Island or the New Moore Island dispute."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Detection Trap (Examiner Camouflage)",
+        "dissection": "You identified three pairs, doubting either Sriharikota's geomorphic classification as a barrier island or the history of New Moore Island."
+      }
+    ],
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "Indian Geography",
+    "subTopic": "Coastal States & Island Archipelagos",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "Standard",
+    "originalTopicId": 7,
+    "originalTopicName": "India - Location and Space Relations",
+    "examTarget": "UPSC-Prelims",
+    "provenance": {
+      "questionId": "q_c8c7c346",
+      "questionStem": "Consider the following pairs of Indian coastal/offshore islands and their strategic or physical significance:\n1. Sriharikota: A barrier island separating Pulicat Lake from the Bay of Bengal, housing the Satish Dhawan Space Centre.\n2. Dr. Abdul Kalam Island (Wheeler Island): An island off the coast of Odisha near Dhamra Port, utilized by DRDO as India's primary missile testing site.\n3. Pamban Island (Rameswaram Island): Connects to the Tamil Nadu mainland via the Pamban rail and road bridges and terminates at Dhanushkodi facing the Palk Strait.\n4. New Moore Island (South Talpatti): A temporary mudflat island in the Hariabhanga river estuary that triggered an Indo-Bangladesh maritime boundary dispute before submerging due to sea level rise.\nHow many of the above pairs are correctly matched?",
+      "intentType": "spatial_analysis",
+      "knowledgeNodeId": "node-expert",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_india_env.txt",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_physical_geo.txt",
+        "sentence_count": 1,
+        "section_heading": "",
+        "concept": "",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Standard",
+        "specificExam": "UPSC-Prelims"
+      },
+      "linkHashes": {}
+    }
   }
 ]

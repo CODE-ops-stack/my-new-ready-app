@@ -19665,5 +19665,2845 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "q_top4_upsc_01",
+    "stem": "Consider the following pairs of Seismic Discontinuities in the Earth's interior and the boundaries they demarcate:\n1. Conrad Discontinuity : Transition between the upper continental crust and lower continental crust\n2. Mohorovicic Discontinuity : Boundary separating the Earth's crust from the underlying upper mantle\n3. Gutenberg Discontinuity : Boundary separating the lower mantle from the liquid outer core\n4. Lehmann Discontinuity : Transition zone separating the molten outer core from the solid inner core\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched.\n\n1. Conrad Discontinuity marks the boundary between the upper granitic/felsic continental crust and the lower basaltic/mafic continental crust (depth ~15-20 km).\n2. Mohorovicic (Moho) Discontinuity separates the crust from the upper mantle, characterized by a sharp surge in P-wave velocity from ~6.8 km/s to ~8.1 km/s.\n3. Gutenberg Discontinuity (depth ~2,900 km) marks the core-mantle boundary (CMB), separating the solid silicate lower mantle (mesosphere) from the dense liquid metallic outer core.\n4. Lehmann Discontinuity (depth ~5,150 km) separates the liquid outer core from the solid crystalline inner core.\n\n💡 RANKER'S MEMORY LOCK: Seismic Discontinuities (Surface to Center) -> Conrad (upper/lower crust) -> Moho (crust/mantle) -> Repetti (upper/lower mantle) -> Gutenberg (mantle/outer core) -> Lehmann (outer/inner core). Mnemonic: C-M-R-G-L.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Selecting 'Only one pair' severely underestimates the accuracy of standard geological boundary definitions. All four seismic discontinuities match their textbook boundary definitions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Verification Trap",
+        "dissection": "You may have recognized the prominent Moho and Gutenberg boundaries but hesitated on the intra-crustal Conrad or intra-core Lehmann boundaries. Both are standard NCERT/higher physical geography milestones."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Counting Trap",
+        "dissection": "Lehmann discontinuity is often confused with Repetti, leading candidates to reject pair 4. Lehmann correctly marks the outer liquid / inner solid core interface at 5,150 km."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_01",
+      "questionStem": "Consider the following pairs of Seismic Discontinuities in the Earth's interior and the boundaries they demarcate:\n1. Conrad Discontinuity : Transition between the upper continental crust and lower continental crust\n2. Mohorovicic Discontinuity : Boundary separating the Earth's crust from the underlying upper mantle\n3. Gutenberg Discontinuity : Boundary separating the lower mantle from the liquid outer core\n4. Lehmann Discontinuity : Transition zone separating the molten outer core from the solid inner core\nHow many of the pairs given above are correctly matched?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_01",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_02",
+    "stem": "With reference to the Earth's Crust, consider the following statements:\n1. The continental crust is predominantly felsic (granitic) with an average density of ~2.7 g/cm3, whereas the oceanic crust is predominantly mafic (basaltic) with an average density of ~3.0 g/cm3.\n2. The oceanic crust is typically 30 to 70 km thick, whereas continental crust averages merely 5 to 8 km in thickness.\n3. Ancient continental cratons can exceed 3.5 to 4.0 billion years in age, whereas oceanic crust nowhere exceeds roughly 200 million years in age.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statements 1 and 3 are correct, while Statement 2 is incorrect.\n\nStatement 1 is correct: Continental crust is predominantly granitic (rich in silica and alumina - Sial) with lower density (~2.7 g/cm3), whereas oceanic crust is basaltic (rich in silica and magnesia - Sima) with higher density (~3.0 g/cm3).\nStatement 2 is incorrect because the thickness values are inverted. Oceanic crust is extremely thin, averaging 5 to 8 km (rarely exceeding 10 km), whereas continental crust averages 30 to 35 km and reaches up to 70 to 75 km under major orogenic belts like the Himalayas and the Andes.\nStatement 3 is correct: Because oceanic crust is continuously recycled via subduction at convergent margins, no existing oceanic crust in the major ocean basins is older than ~180-200 million years (Jurassic). Conversely, continental crust is buoyant and cannot easily subduct, preserving ancient cratons exceeding 3.8 to 4.0 billion years.\n\n💡 RANKER'S MEMORY LOCK: Continental vs Oceanic Crust -> Continental is thick (30-70 km), buoyant, low density (~2.7), ancient (>3.8 Ga). Oceanic is thin (5-8 km), dense (~3.0), young (<200 Ma) due to perpetual subduction recycling.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Fact Inversion Trap",
+        "dissection": "Statement 2 flips the thicknesses of oceanic and continental crust. Oceanic crust is the thin basaltic veneer (5-8 km), not 30-70 km."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Premise Error Trap",
+        "dissection": "Accepting Statement 2 overlooks the basic hypsographic and geophysical property that continental crust forms the thick buoyant roots of continents."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Assuming all three statements are true overlooks the deliberate numerical inversion in Statement 2."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_02",
+      "questionStem": "With reference to the Earth's Crust, consider the following statements:\n1. The continental crust is predominantly felsic (granitic) with an average density of ~2.7 g/cm3, whereas the oceanic crust is predominantly mafic (basaltic) with an average density of ~3.0 g/cm3.\n2. The oceanic crust is typically 30 to 70 km thick, whereas continental crust averages merely 5 to 8 km in thickness.\n3. Ancient continental cratons can exceed 3.5 to 4.0 billion years in age, whereas oceanic crust nowhere exceeds roughly 200 million years in age.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_02",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_03",
+    "stem": "Consider the following statements regarding the Earth's Asthenosphere:\nStatement-I: Tectonic plates comprising the rigid lithosphere are mechanically capable of horizontal motion across the Earth's surface due to the ductile, low shear-strength nature of the underlying asthenosphere.\nStatement-II: The asthenosphere is completely melted into a bulk liquid magma reservoir because ambient geothermal temperatures exceed the liquidus of peridotite mantle rock.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statement-I is correct, but Statement-II is incorrect.\n\nStatement-I is correct: The asthenosphere (extending from ~100 km to ~410 km depth) is mechanically ductile and semi-plastic (rheologically weak). Its low shear strength and ability to undergo solid-state creep over geological time scales allows the overlying brittle lithospheric plates to decouple and slide over it.\nStatement-II is incorrect: The asthenosphere is NOT a bulk liquid magma ocean. It is overwhelmingly solid crystalline mantle rock (primarily peridotite). However, because ambient temperatures are extremely close to its solidus (melting temperature under confining pressure), it experiences small degrees of partial melting (~1% to 5% melt along grain boundaries). This minute interstitial melt dramatically lowers effective viscosity and seismic wave velocity without transforming the asthenosphere into a bulk liquid reservoir.\n\n💡 RANKER'S MEMORY LOCK: Asthenosphere Rheology -> The asthenosphere is PLASTIC/DUCTILE SOLID, NOT liquid! Only 1-5% partial melting occurs along grain boundaries, enabling plate glide and solid-state creep.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Phase of Matter Fallacy",
+        "dissection": "Assuming the asthenosphere is a molten liquid magma pool is a classic school-level misconception. The outer core is the only bulk liquid layer of Earth's interior."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "False Fact Acceptance Trap",
+        "dissection": "You recognized Statement-I but accepted Statement-II as factually true. S-waves transmit through the asthenosphere, proving it is mechanically solid with partial melt, not bulk liquid."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Inverted Evaluation Trap",
+        "dissection": "Statement-I is the foundational basis of plate tectonic theory (rigid lithosphere riding on ductile asthenosphere). Rejecting Statement-I is fundamentally erroneous."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_03",
+      "questionStem": "Consider the following statements regarding the Earth's Asthenosphere:\nStatement-I: Tectonic plates comprising the rigid lithosphere are mechanically capable of horizontal motion across the Earth's surface due to the ductile, low shear-strength nature of the underlying asthenosphere.\nStatement-II: The asthenosphere is completely melted into a bulk liquid magma reservoir because ambient geothermal temperatures exceed the liquidus of peridotite mantle rock.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_03",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_04",
+    "stem": "Consider the following statements regarding the Earth's Deep Mantle:\n1. In spite of temperatures exceeding 2,000 deg C to 3,000 deg C, the lower mantle (mesosphere) behaves as a solid crystalline body due to colossal confining lithostatic pressure.\n2. The D'' (D-double-prime) layer, located at the core-mantle boundary, is characterized by extreme thermal gradients, chemical heterogeneity, and sharp seismic velocity anomalies.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both statements 1 and 2 are correct.\n\nStatement 1 is correct: In the lower mantle (mesosphere, depth ~660 km to 2,900 km), temperatures are extraordinarily high, but confining lithostatic pressure increases even more rapidly with depth (reaching ~135 GPa at the core-mantle boundary). This colossal pressure raises the melting curve (solidus) of bridgmanite and ferropericlase minerals well above the ambient geotherm, ensuring that the lower mantle remains in a solid crystalline phase.\nStatement 2 is correct: The D'' layer is a complex boundary layer roughly 200 to 300 km thick situated directly above the core-mantle boundary (Gutenberg discontinuity). It exhibits sharp thermal boundary gradients (where heat conducts from the core into the mantle), mineral phase transitions (bridgmanite to post-perovskite), subducted slab graveyards, and ultra-low velocity zones (ULVZs).\n\n💡 RANKER'S MEMORY LOCK: Lower Mantle & D'' Layer -> Lower mantle is solid because lithostatic confining pressure outpaces temperature rise. D'' layer is the thermal/seismic boundary layer at CMB where mantle plumes originate and slabs accumulate.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Boundary Layer Oversight Trap",
+        "dissection": "Overlooking Statement 2 ignores the modern geophysical consensus regarding the D'' layer as the primary thermal boundary layer driving mantle plumes and geodynamics."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Pressure-Melting Confusion Trap",
+        "dissection": "Rejecting Statement 1 assumes that high temperatures must cause melting, forgetting the Clapeyron slope: high lithostatic confining pressure shifts melting points to much higher temperatures."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Both statements accurately state core geophysical principles established by deep-Earth seismology and high-pressure mineral physics."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_04",
+      "questionStem": "Consider the following statements regarding the Earth's Deep Mantle:\n1. In spite of temperatures exceeding 2,000 deg C to 3,000 deg C, the lower mantle (mesosphere) behaves as a solid crystalline body due to colossal confining lithostatic pressure.\n2. The D'' (D-double-prime) layer, located at the core-mantle boundary, is characterized by extreme thermal gradients, chemical heterogeneity, and sharp seismic velocity anomalies.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_04",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_05",
+    "stem": "Consider the following statements regarding Earth's Core:\nStatement-I: Earth's dipolar magnetic field is generated and sustained within the liquid outer core rather than the solid inner core.\nStatement-II: Vigorous thermal and compositional convection of molten iron-nickel in the outer core, organized into helical columns by planetary rotation and Coriolis acceleration, operates as a self-exciting geodynamo.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II provides the correct physical explanation for Statement-I.\n\nStatement-I is correct: The geomagnetic field is generated in the liquid outer core (depth 2,900 km to 5,150 km). Permanent ferromagnetism cannot exist in the inner core because temperatures (~5,000 deg C to 6,000 deg C) far exceed the Curie point of iron (~770 deg C).\nStatement-II is correct and explains Statement-I: The geodynamo operates because the outer core is an electrically conductive fluid in vigorous motion. Convection is driven both thermally (cooling at the CMB) and compositionally (rejection of light elements like Si, S, O as the inner core crystallizes). The Earth's rotation introduces Coriolis force, which twists rising convection currents into helical, cylinder-aligned rolls. These swirling currents of conductive liquid iron-nickel induce and sustain a powerful planetary magnetic field via electromagnetic induction.\n\n💡 RANKER'S MEMORY LOCK: Geodynamo Engine -> Outer Core is LIQUID Fe-Ni + Convection (thermal & compositional) + Coriolis effect = Helical electrical currents producing Earth's geomagnetic field. Inner core is above Curie temperature and cannot be a permanent magnet.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "Statement-II is the direct, foundational hydrodynamic mechanism explaining Statement-I. Disconnecting them fails to recognize the causal mechanics of geodynamo theory."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Geodynamo Mechanism Denial Trap",
+        "dissection": "Rejecting Statement-II denies the well-established magnetohydrodynamic model that convection and Coriolis twisting of molten iron generate the dipolar magnetic field."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Premise Rejection Trap",
+        "dissection": "Rejecting Statement-I contradicts basic physics: permanent magnetization is impossible above the Curie temperature, proving the field must be dynamically generated in the fluid outer core."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_05",
+      "questionStem": "Consider the following statements regarding Earth's Core:\nStatement-I: Earth's dipolar magnetic field is generated and sustained within the liquid outer core rather than the solid inner core.\nStatement-II: Vigorous thermal and compositional convection of molten iron-nickel in the outer core, organized into helical columns by planetary rotation and Coriolis acceleration, operates as a self-exciting geodynamo.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_05",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_06",
+    "stem": "Regarding the physical proportions of the Earth's concentric layers, consider the following statements:\n1. The core constitutes nearly 50% of the Earth's total volume.\n2. The mantle accounts for roughly 84% of the Earth's total volume and approximately 67% of its total mass.\n3. The core accounts for nearly one-third (~32% to 33%) of Earth's total mass despite occupying less than one-fifth of its volume.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 2 and 3 are correct, while Statement 1 is incorrect.\n\nStatement 1 is incorrect: The core accounts for only about 16% (roughly one-sixth) of the Earth's total volume, not 50%. The radius of the core is ~3,480 km out of Earth's total radius of 6,371 km, but volume scales with radius cubed (V proportional to r^3).\nStatement 2 is correct: The mantle represents ~83% to 84% of the planet's total volume and ~67% to 68% (roughly two-thirds) of its total mass, making it by far the largest single physical reservoir by volume and mass.\nStatement 3 is correct: Because the core is composed of extremely dense iron-nickel alloy (density ~9.9 to 13.1 g/cm3 compared to the mantle's ~3.3 to 5.5 g/cm3), it accounts for approximately 32% to 33% of the Earth's total mass despite occupying only ~16% of its volume. (The crust represents less than 1% of both volume and mass).\n\n💡 RANKER'S MEMORY LOCK: Earth's Volumetric & Mass Proportions -> Mantle: ~84% Volume, ~67% Mass. Core: ~16% Volume, ~32% Mass. Crust: <1% Volume, <1% Mass.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Volume-Radius Conflation Trap",
+        "dissection": "Statement 1 confuses radial fraction (~55% radius) with volumetric fraction (~16% volume). Earth's core is only 16% of total planetary volume."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Mantle Denial Trap",
+        "dissection": "Selecting 1 and 3 rejects Statement 2, which is the foundational NCERT fact that mantle is the voluminous bulk (84%) of the planet."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "All-Inclusive Trap",
+        "dissection": "Accepting all statements misses the severe inflation of the core's volume in Statement 1."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_06",
+      "questionStem": "Regarding the physical proportions of the Earth's concentric layers, consider the following statements:\n1. The core constitutes nearly 50% of the Earth's total volume.\n2. The mantle accounts for roughly 84% of the Earth's total volume and approximately 67% of its total mass.\n3. The core accounts for nearly one-third (~32% to 33%) of Earth's total mass despite occupying less than one-fifth of its volume.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_06",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_07",
+    "stem": "Which one of the following statements is correct regarding the density profile of the Earth's interior?",
+    "options": {
+      "opt_a": "The sharpest density jump within the interior occurs across the Gutenberg discontinuity, where density surges from ~5.5 g/cm3 to nearly 10.0 g/cm3.",
+      "opt_b": "Rock density decreases continuously from the base of the crust down to the core-mantle boundary due to progressive thermal expansion.",
+      "opt_c": "The Earth's continental and oceanic crust combined accounts for approximately 15% of the total mass of the planet.",
+      "opt_d": "The transition from the outer core to the inner core is characterized by an abrupt decrease in density from 12.8 g/cm3 down to 9.5 g/cm3."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Option A is correct.\n\nOption A is correct: At the core-mantle boundary (Gutenberg discontinuity, depth 2,900 km), there is a staggering compositional change from solid silicate mantle rocks (density ~5.5-5.7 g/cm3) to molten iron-nickel metallic alloy (density ~9.9-10.0 g/cm3). This represents the greatest single density discontinuity anywhere in the Earth's interior.\nOption B is incorrect: Density increases continuously with depth throughout the mantle (from ~3.3 g/cm3 at the Moho to ~5.5 g/cm3 at the base) due to increasing lithostatic compression and phase transitions into denser mineral structures.\nOption C is incorrect: The crust accounts for less than 1% of the total mass and volume of the planet.\nOption D is incorrect: Density increases further from the outer core (~12.1-12.2 g/cm3 at base) to the inner core (~12.8-13.1 g/cm3) due to solidification and compaction of iron crystals.\n\n💡 RANKER'S MEMORY LOCK: Gutenberg Density Jump -> Greatest density contrast in Earth's interior is at CMB (Gutenberg): jumps from ~5.5 g/cm3 (silicate mantle) to ~10.0 g/cm3 (liquid metallic outer core).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Physical Law Inversion Trap",
+        "dissection": "Density increases with depth due to immense confining lithostatic pressure overcoming thermal expansion."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Gross Numerical Overestimation Trap",
+        "dissection": "The entire crust constitutes less than 1% of Earth's mass, not 15%."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Core Inversion Trap",
+        "dissection": "The solid inner core is denser (~13 g/cm3) than the liquid outer core (~10-12 g/cm3), not less dense."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_07",
+      "questionStem": "Which one of the following statements is correct regarding the density profile of the Earth's interior?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_07",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_08",
+    "stem": "Consider the following statements regarding the physical state of the Earth's Core:\nStatement-I: The Earth's inner core remains in a liquid state because temperatures at the center of the planet exceed 5,000 deg C to 6,000 deg C.\nStatement-II: Colossal confining lithostatic pressure exceeding 3.3 to 3.6 million atmospheres (330-360 GPa) at the Earth's center elevates the melting point of iron-nickel alloy above the ambient internal temperature.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Statement-I is incorrect, but Statement-II is correct.\n\nStatement-I is incorrect: The inner core is SOLID, not liquid. Inge Lehmann discovered in 1936 that P-waves refract through a solid inner core, and subsequent seismic evidence (PKJKP phases) confirmed the transmission of shear waves through the inner core, proving its solid crystalline state.\nStatement-II is correct: Under standard atmospheric pressure, iron melts at 1,538 deg C. However, melting temperature increases dramatically with confining pressure (the Clausius-Clapeyron relation). At the center of the Earth, confining pressure reaches an astronomical 330 to 360 GPa (~3.3 to 3.6 million atmospheres). This immense pressure packs iron-nickel atoms into a rigid hexagonal close-packed (hcp) crystal lattice, raising the melting point of iron to approximately 6,200 deg C, which exceeds the ambient center temperature (~5,400 deg C to 5,700 deg C). Consequently, the inner core is solid.\n\n💡 RANKER'S MEMORY LOCK: Solid Inner Core Paradox -> Inner core is hotter than the surface of the Sun yet SOLID because immense lithostatic pressure (3.6 million atm) raises iron's melting point above the ambient core temperature.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Premise Blindness Trap",
+        "dissection": "Statement-I claims the inner core is liquid, which directly contradicts foundational geology (inner core is solid crystalline iron-nickel)."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Outer/Inner Core Confusion Trap",
+        "dissection": "Confusing the liquid outer core with the solid inner core leads to accepting Statement-I as true."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Clapeyron Relation Inversion Trap",
+        "dissection": "Statement-II correctly articulates the thermodynamic pressure-freezing effect that explains why the inner core is solid."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_08",
+      "questionStem": "Consider the following statements regarding the physical state of the Earth's Core:\nStatement-I: The Earth's inner core remains in a liquid state because temperatures at the center of the planet exceed 5,000 deg C to 6,000 deg C.\nStatement-II: Colossal confining lithostatic pressure exceeding 3.3 to 3.6 million atmospheres (330-360 GPa) at the Earth's center elevates the melting point of iron-nickel alloy above the ambient internal temperature.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_08",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_09",
+    "stem": "With reference to earthquake body waves, consider the following statements:\n1. In Primary (P) waves, rock particles vibrate parallel to the direction of wave propagation, causing volumetric deformation through alternating compression and dilation.\n2. Secondary (S) waves are capable of propagating through liquids and gases because fluids offer high resistance to shear stress.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statement 1 is correct, while Statement 2 is incorrect.\n\nStatement 1 is correct: P-waves are longitudinal compressional waves. As they propagate through a medium, particle motion is strictly parallel to the direction of wave travel. They cause volumetric strain (changes in volume without change in shape) through successive compressive and dilational pulses, allowing them to propagate through solids, liquids, and gases.\nStatement 2 is incorrect: S-waves are transverse shear waves where particle motion is perpendicular to the direction of propagation. Their propagation depends entirely on the shear modulus (rigidity, mu) of the medium. Because liquids and gases possess zero shear rigidity (they cannot sustain shear stress and yield continuously to shear), S-waves cannot propagate through fluids at all. This physical property enabled Richard Dixon Oldham in 1906 to deduce that Earth's outer core is liquid.\n\n💡 RANKER'S MEMORY LOCK: P-waves vs S-waves Mechanics -> P-waves: Longitudinal/Compressional (parallel particle motion), travel through Solids, Liquids & Gases. S-waves: Transverse/Shear (perpendicular motion), travel ONLY through Solids because fluids have ZERO shear rigidity.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Fluid Rigidity Fallacy",
+        "dissection": "Fluids (liquids and gases) have zero shear modulus. Claiming S-waves travel through fluids contradicts the fundamental basis of seismology and the discovery of the liquid outer core."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting both statements ignores the classic NCERT principle that S-waves cannot transmit through liquid media."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "P-Wave Mechanism Denial Trap",
+        "dissection": "Rejecting Statement 1 denies the exact textbook definition of compressional P-wave particle motion."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_09",
+      "questionStem": "With reference to earthquake body waves, consider the following statements:\n1. In Primary (P) waves, rock particles vibrate parallel to the direction of wave propagation, causing volumetric deformation through alternating compression and dilation.\n2. Secondary (S) waves are capable of propagating through liquids and gases because fluids offer high resistance to shear stress.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_09",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_10",
+    "stem": "Consider the following statements regarding Seismic Wave Shadow Zones:\n1. The S-wave shadow zone is confined strictly to a narrow belt between 103 deg and 142 deg from an earthquake epicenter.\n2. The S-wave shadow zone covers a substantially larger percentage of the Earth's surface area than the P-wave shadow zone.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 2 is correct, while Statement 1 is incorrect.\n\nStatement 1 is incorrect: The shadow zone between 103 deg and 142 deg from the epicenter belongs to P-waves, formed because P-waves are refracted sharply inward upon entering the low-velocity liquid outer core. In contrast, the S-wave shadow zone extends continuously beyond 103 deg all the way to 180 deg on both sides of the globe because S-waves cannot penetrate the liquid outer core at all.\nStatement 2 is correct: The P-wave shadow zone forms two circular bands (each spanning roughly 39 deg from 103 deg to 142 deg). Beyond 142 deg, P-waves reappear (PKP phases). The S-wave shadow zone, however, covers the entire hemisphere beyond 103 deg (an uninterrupted spherical cap spanning ~154 deg across the antipode), covering over 40% of the entire planetary surface. Thus, the S-wave shadow zone is vastly larger than the P-wave shadow zone.\n\n💡 RANKER'S MEMORY LOCK: Shadow Zones Demystified -> P-wave shadow zone: 103 deg to 142 deg (refraction by liquid core; reappears past 142 deg). S-wave shadow zone: ENTIRE zone beyond 103 deg (103 deg to 180 deg, covers >40% of Earth, because S-waves CANNOT enter liquid outer core).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Shadow Zone Inversion Trap",
+        "dissection": "Statement 1 assigns the P-wave shadow zone boundaries (103 deg - 142 deg) to S-waves. S-waves are blocked everywhere beyond 103 deg."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Conflation Trap",
+        "dissection": "Candidates often confuse the two shadow zones. Statement 1 is false, making 'Both 1 and 2' incorrect."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Statement 2 is a verified NCERT physical geography fact: the S-wave shadow zone is significantly larger than the P-wave shadow zone."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_10",
+      "questionStem": "Consider the following statements regarding Seismic Wave Shadow Zones:\n1. The S-wave shadow zone is confined strictly to a narrow belt between 103 deg and 142 deg from an earthquake epicenter.\n2. The S-wave shadow zone covers a substantially larger percentage of the Earth's surface area than the P-wave shadow zone.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_10",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_11",
+    "stem": "Consider the following statements regarding the Low Velocity Zone (LVZ) in the upper mantle:\nStatement-I: Both P-wave and S-wave seismic velocities exhibit a sharp deceleration between depths of roughly 100 km and 250 km.\nStatement-II: Ambient temperatures at these upper mantle depths closely approach the solidus of mantle peridotite, causing 1% to 5% partial melting which drastically reduces the shear rigidity of the rocks.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II is the direct geophysical explanation for Statement-I.\n\nStatement-I is correct: The Low Velocity Zone (LVZ) is a distinct seismic layer located within the upper asthenosphere (~100 to 250 km depth) where both compressional (Vp) and shear (Vs) wave velocities decrease noticeably compared to the overlying rigid lithospheric mantle.\nStatement-II is correct and explains Statement-I: Seismic velocity is proportional to the square root of elastic moduli divided by density (V = sqrt(modulus/density)). At depths around 100-250 km, the geothermal gradient intersects or approaches the wet solidus of peridotite. This results in minute degrees of partial melting (~1% to 5% melt) along intergranular crystal boundaries. Even 1% interstitial melt causes an enormous reduction in the shear modulus (rigidity, mu) of mantle rocks without significant change in bulk density, causing seismic wave speeds to drop sharply.\n\n💡 RANKER'S MEMORY LOCK: Low Velocity Zone (LVZ) -> Located at 100-250 km in asthenosphere. Wave velocities drop because geotherm nears peridotite solidus -> 1-5% partial melting -> drastic collapse of shear modulus (rigidity).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "Statement-II is the precise thermodynamic and mineral physics cause of the Low Velocity Zone, not an unrelated parallel fact."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Partial Melting Denial Trap",
+        "dissection": "Rejecting Statement-II denies the universally accepted physical mechanism responsible for the asthenospheric low-velocity channel."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "LVZ Existence Denial Trap",
+        "dissection": "Rejecting Statement-I contradicts the empirical discovery of the Gutenberg low-velocity layer in global seismology."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_11",
+      "questionStem": "Consider the following statements regarding the Low Velocity Zone (LVZ) in the upper mantle:\nStatement-I: Both P-wave and S-wave seismic velocities exhibit a sharp deceleration between depths of roughly 100 km and 250 km.\nStatement-II: Ambient temperatures at these upper mantle depths closely approach the solidus of mantle peridotite, causing 1% to 5% partial melting which drastically reduces the shear rigidity of the rocks.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_11",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_12",
+    "stem": "With reference to the propagation and geometry of seismic body waves through the Earth's interior, consider the following statements:\n1. Seismic ray paths in the mantle follow curved trajectories concave towards the Earth's surface because seismic velocity generally increases with increasing depth.\n2. When P-waves cross the core-mantle boundary from the lower mantle into the liquid outer core, their rays refract sharply inward toward the normal due to a sudden drop in wave velocity.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both statements 1 and 2 are correct.\n\nStatement 1 is correct: According to Snell's law and Fermat's principle of least time, when a wave moves through a continuous medium where velocity increases progressively with depth (due to pressure-induced compaction and mineral rigidity increases), the wave continuously bends away from the normal. This bends the ray paths continuously upwards, producing curved trajectories that are concave upwards (concave towards the surface) until they emerge back at the surface.\nStatement 2 is correct: At the core-mantle boundary (Gutenberg discontinuity at 2,900 km depth), P-wave velocity drops precipitously from ~13.7 km/s in the lowermost mantle (D'' layer) to ~8.1 km/s in the liquid outer core. According to Snell's law (sin i / sin r = v1 / v2), entering a slower medium causes the ray to refract sharply towards the normal (inward toward the center of the Earth). This sharp inward deflection creates the classic P-wave shadow zone on the surface between 103 deg and 142 deg.\n\n💡 RANKER'S MEMORY LOCK: Ray Paths & Snell's Law -> Ray paths curve upwards (concave to surface) because mantle velocity INCREASES with depth. At CMB, P-wave speed DROPS from 13.7 to 8.1 km/s -> rays bend sharply INWARD toward normal, creating the P-wave shadow zone.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Core Refraction Blindness Trap",
+        "dissection": "Overlooking Statement 2 ignores the optical refraction principle that explains how P-wave shadow zones are cast by the low-velocity outer core."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Continuous Curvature Denial Trap",
+        "dissection": "Rejecting Statement 1 assumes seismic waves travel in straight lines, ignoring continuous upward refraction caused by mantle velocity gradients."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Both statements are fundamental principles of observational geophysics and seismic wave theory."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_12",
+      "questionStem": "With reference to the propagation and geometry of seismic body waves through the Earth's interior, consider the following statements:\n1. Seismic ray paths in the mantle follow curved trajectories concave towards the Earth's surface because seismic velocity generally increases with increasing depth.\n2. When P-waves cross the core-mantle boundary from the lower mantle into the liquid outer core, their rays refract sharply inward toward the normal due to a sudden drop in wave velocity.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_12",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_13",
+    "stem": "Consider the following statements regarding Seismic Surface Waves:\n1. Love waves cause purely horizontal transverse shearing of the ground perpendicular to the direction of propagation and cannot travel through liquid water bodies.\n2. Rayleigh waves induce a retrograde elliptical ground motion in a vertical plane oriented in the direction of wave travel.\n3. Surface waves travel at significantly higher velocities than body waves, which is why they arrive first on seismograph records.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n\nStatement 1 is correct: Love (L) waves are horizontally polarized surface shear waves (SH waves). Particle motion is strictly horizontal and transverse (perpendicular) to wave propagation. Because they are pure shear waves, they require a solid medium with non-zero shear rigidity and cannot propagate through water bodies or air.\nStatement 2 is correct: Rayleigh (R) waves produce a rolling retrograde elliptical motion in the vertical plane aligned with propagation (similar to ocean surface waves, but retrograde at the surface). They are responsible for severe structural destruction during major earthquakes.\nStatement 3 is incorrect: Surface waves are the SLOWEST of all seismic waves. P-waves (Primary) travel fastest (first arrival), followed by S-waves (Secondary arrival), and finally Surface waves arrive last. However, surface waves carry the highest amplitude and lowest attenuation with distance, causing the most devastating ground shaking.\n\n💡 RANKER'S MEMORY LOCK: Surface Waves Anatomy -> Love waves: Horizontal transverse shear (no propagation in water). Rayleigh waves: Retrograde vertical elliptical roll. Surface waves are the SLOWEST (arrive last), but have the LARGEST amplitude and cause the most catastrophic destruction.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Wave Velocity Inversion Trap",
+        "dissection": "Statement 3 claims surface waves are the fastest, which completely inverts the fundamental sequence of seismology: P-waves arrive first, S-waves second, and surface waves last."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Velocity Fallacy Acceptance Trap",
+        "dissection": "Selecting 1 and 3 accepts the false premise that surface waves arrive before body waves."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting all three statements ignores the blatant contradiction in Statement 3 regarding arrival times on seismographs."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_13",
+      "questionStem": "Consider the following statements regarding Seismic Surface Waves:\n1. Love waves cause purely horizontal transverse shearing of the ground perpendicular to the direction of propagation and cannot travel through liquid water bodies.\n2. Rayleigh waves induce a retrograde elliptical ground motion in a vertical plane oriented in the direction of wave travel.\n3. Surface waves travel at significantly higher velocities than body waves, which is why they arrive first on seismograph records.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_13",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_14",
+    "stem": "Consider the following geophysical lines of evidence supporting the existence of a dense metallic (Fe-Ni) core in the Earth:\n1. The Earth's overall mean density (~5.52 g/cm3) is substantially higher than the average density of crustal rocks (~2.7 to 3.0 g/cm3).\n2. The Earth's dimensionless moment of inertia factor (~0.3307) is lower than that of a solid sphere of uniform density (0.40), confirming pronounced concentration of mass toward the planetary center.\n3. The composition of iron-nickel meteorites (siderites, composed of kamacite and taenite alloys) reflects the differentiated core material of disrupted early planetesimals.\nHow many of the lines of evidence given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "All three",
+      "opt_d": "None"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "All three lines of evidence are correct.\n\n1. Mean Density: Henry Cavendish determined Earth's mass in 1798, revealing a bulk density of ~5.52 g/cm3. Since surface rocks (granite, basalt) average only ~2.7-3.0 g/cm3 and even upper mantle peridotite is ~3.3 g/cm3, immense amounts of high-density material (metals such as iron and nickel, density >10 g/cm3) must reside at the center.\n2. Moment of Inertia: For a sphere of uniform density, the moment of inertia I = 0.40 M R^2. Satellite geodesy and precession measurements show Earth's moment of inertia factor is 0.3307. A value below 0.40 mathematically requires that mass is heavily concentrated towards the center.\n3. Meteorite Analogy: Chondritic and iron meteorites represent pristine remnants of differentiated planetary bodies from the early Solar System. Iron meteorites consist of ~90% Iron and ~8-10% Nickel (kamacite and taenite alloys), perfectly matching the required density and cosmic abundance of Earth's core.\n\n💡 RANKER'S MEMORY LOCK: Core Composition Geophysics -> 1. Bulk density (5.52 g/cm3) vs surface (2.7 g/cm3). 2. Moment of inertia factor (0.33 < 0.40 -> mass concentrated at center). 3. Iron meteorites (Ni-Fe alloys) prove core differentiation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Extreme Skepticism Trap",
+        "dissection": "Selecting 'Only one' overlooks the classical convergence of Newtonian mechanics, orbital geodesy, and meteoritics in establishing Earth's metallic core."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Geodesy Neglect Trap",
+        "dissection": "You may have accepted density and meteorites but doubted the moment of inertia factor (0.33). The moment of inertia factor is a cornerstone proof of Earth's dense core."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Total Denial Trap",
+        "dissection": "All three observations are universally accepted empirical proofs of Earth's metallic core composition."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_14",
+      "questionStem": "Consider the following geophysical lines of evidence supporting the existence of a dense metallic (Fe-Ni) core in the Earth:\n1. The Earth's overall mean density (~5.52 g/cm3) is substantially higher than the average density of crustal rocks (~2.7 to 3.0 g/cm3).\n2. The Earth's dimensionless moment of inertia factor (~0.3307) is lower than that of a solid sphere of uniform density (0.40), confirming pronounced concentration of mass toward the planetary center.\n3. The composition of iron-nickel meteorites (siderites, composed of kamacite and taenite alloys) reflects the differentiated core material of disrupted early planetesimals.\nHow many of the lines of evidence given above are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_14",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_15",
+    "stem": "With reference to earthquake hypocenter depths, consider the following statements:\n1. Earthquakes generated along mid-ocean ridge divergent boundaries regularly originate at deep focal depths exceeding 400 km.\n2. Deep-focus earthquakes (depths between 300 km and 700 km) occur exclusively along Wadati-Benioff zones where cold oceanic lithospheric slabs subduct into the mantle.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 2 is correct, while Statement 1 is incorrect.\n\nStatement 1 is incorrect: Along mid-ocean ridges (divergent boundaries) and transform faults, the lithosphere is hot, thin, and brittle only at very shallow levels. Consequently, earthquakes at divergent boundaries are exclusively shallow-focus, almost always occurring at depths of less than 20 to 30 km (never exceeding 70 km).\nStatement 2 is correct: At depths below 300 km, ambient mantle temperatures and confining pressures are so high that normal mantle peridotite deforms by ductile plastic flow rather than brittle shear fracture. Deep-focus earthquakes (300 km to ~700 km depth) can only occur inside cold, rigid subducting oceanic slabs that plunge rapidly into the mantle, remaining brittle and cold enough to store and release elastic strain via phase transformation faulting (e.g., olivine-to-spinel/wadsleyite transition). This dipping planar seismic zone is known as the Wadati-Benioff zone.\n\n💡 RANKER'S MEMORY LOCK: Earthquake Focal Depths -> Mid-Ocean Ridges & Transform Faults = Shallow focus ONLY (<70 km, hot/thin lithosphere). Deep focus (300-700 km) = Exclusively in Wadati-Benioff zones of cold subducting slabs.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Spreading Center Depth Trap",
+        "dissection": "Statement 1 assigns deep earthquakes to mid-ocean ridges. Spreading ridges are shallow, hot thermal regimes where deep brittle failure is physically impossible."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plate Boundary Conflation Trap",
+        "dissection": "Accepting both statements fails to differentiate the shallow thermal mechanics of spreading centers from the deep cold subduction mechanics of convergent zones."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Wadati-Benioff Denial Trap",
+        "dissection": "Statement 2 is an immutable empirical law of global earthquake distribution. Deep earthquakes cease below ~670-700 km depth."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_15",
+      "questionStem": "With reference to earthquake hypocenter depths, consider the following statements:\n1. Earthquakes generated along mid-ocean ridge divergent boundaries regularly originate at deep focal depths exceeding 400 km.\n2. Deep-focus earthquakes (depths between 300 km and 700 km) occur exclusively along Wadati-Benioff zones where cold oceanic lithospheric slabs subduct into the mantle.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_15",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_16",
+    "stem": "In the context of global seismic mantle tomography, consider the following statements:\n1. Regions with slower-than-average shear wave velocities (slow anomalies) in the lower mantle correspond to hotter, buoyant upwelling mantle plumes.\n2. Two massive Large Low-Shear-Velocity Provinces (LLSVPs), colloquially known as mantle 'superplumes' or 'blobs', are anchored at the core-mantle boundary beneath Africa and the Pacific Ocean.\n3. Cold, subducting oceanic lithospheric slabs appear in seismic tomographic cross-sections as slow velocity anomalies due to their structural fracturing.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 3 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n\nStatement 1 is correct: In seismic tomography, wave velocity is inversely correlated with temperature. Hotter, less dense, thermally buoyant mantle material exhibits reduced elastic moduli, causing shear waves to travel slower (negative or 'slow' velocity anomalies, often color-coded red).\nStatement 2 is correct: Global shear-wave tomography has identified two continent-sized structures at the base of the mantle (D'' layer) known as Large Low-Shear-Velocity Provinces (LLSVPs): one beneath the African plate (Tuzo) and one beneath the Pacific plate (Jason). They extend thousands of kilometers laterally and up to 1,000 km vertically above the core-mantle boundary and are the primary source regions for deep mantle plumes.\nStatement 3 is incorrect: Cold, subducting oceanic slabs are much colder, more rigid, and denser than the surrounding warm ambient mantle. Consequently, seismic waves travel faster through them, appearing in tomography as FAST velocity anomalies (often color-coded blue), not slow anomalies.\n\n💡 RANKER'S MEMORY LOCK: Seismic Tomography Interpretation -> Hot / Buoyant / Plumes = SLOW velocity anomalies (red). Cold / Dense / Subducting Slabs = FAST velocity anomalies (blue). Two major LLSVPs exist at CMB: African and Pacific superplumes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Tomographic Velocity Inversion Trap",
+        "dissection": "Statement 3 flips tomographic sign: cold subducted slabs are fast (high-velocity) anomalies, not slow anomalies."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Plume Velocity Denial Trap",
+        "dissection": "Selecting 2 and 3 accepts the inverted slab property while rejecting the thermal-velocity relationship in Statement 1."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "All-Inclusive Trap",
+        "dissection": "Accepting all three statements ignores the fundamental physics: colder rock equals higher density and higher seismic velocity."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_16",
+      "questionStem": "In the context of global seismic mantle tomography, consider the following statements:\n1. Regions with slower-than-average shear wave velocities (slow anomalies) in the lower mantle correspond to hotter, buoyant upwelling mantle plumes.\n2. Two massive Large Low-Shear-Velocity Provinces (LLSVPs), colloquially known as mantle 'superplumes' or 'blobs', are anchored at the core-mantle boundary beneath Africa and the Pacific Ocean.\n3. Cold, subducting oceanic lithospheric slabs appear in seismic tomographic cross-sections as slow velocity anomalies due to their structural fracturing.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_16",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_17",
+    "stem": "Which of the following was/were cited by Alfred Wegener in his Continental Drift Theory (1912) as empirical evidence supporting the past union of continents?\n1. The occurrence of Permo-Carboniferous glacial tillite beds (Gondwana sequences) across peninsular India, southern Africa, Madagascar, Australia, and Antarctica.\n2. The discontinuous fossil records of the small freshwater reptile Mesosaurus and the seed-fern Glossopteris across widely separated southern ocean basins.\n3. Rich alluvial gold placer deposits along the Ghana coast of West Africa lacking any local auriferous bedrock source, matching gold-bearing lodes in Brazil.\nSelect the correct answer using the code given below:",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three lines of evidence (1, 2, and 3) were explicitly documented by Alfred Wegener in his 1912 treatise 'Die Entstehung der Kontinente und Ozeane'.\n\n1. Glacial Tillites (Paleoclimate): Wegener documented thick glacial tillite deposits (such as the Talchir boulder beds in India, Dwyka tillite in South Africa, and Bacchus Marsh tillite in Australia) of Permo-Carboniferous age. Striations and glacial pavements showed ice sheets radiating outwards from a unified high-latitude polar ice cap in Gondwanaland.\n2. Paleontological Evidence: Mesosaurus was a small, shallow-water freshwater reptile that could not have swam across a 5,000 km saltwater Atlantic Ocean; its fossils occur exclusively in the Dwyka formation of South Africa and the Irati shale of Brazil. Similarly, the sub-polar tongue fern Glossopteris is found across India, Africa, Australia, and Antarctica.\n3. Placer Deposits: The gold-bearing placer gravels of the Ghana coast (formerly the Gold Coast of Africa) possess no local mother-lode veins in Ghana; when South America and Africa are reconstructed, the Ghana deposits directly align with the rich gold-bearing Proterozoic rocks of the São Francisco craton in Brazil.\n\n💡 RANKER'S MEMORY LOCK: Wegener's 5 Core Evidences -> 1. Jigsaw 'Matching of Continents' (Bullard 1965 at 500-fathom depth). 2. Rocks of Same Age across Oceans (Brazil & West Africa). 3. Tillite (Talchir beds in India, Dwyka in Africa). 4. Placer Deposits (Ghana gold from Brazil veins). 5. Fossil Distribution (Mesosaurus, Glossopteris, Lystrosaurus).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Placer Deposit Omission Trap",
+        "dissection": "Candidates often remember fossils and tillite but omit placer deposits. Ghana's gold placer provenance from Brazil is explicitly highlighted in NCERT Class 11 Chapter 4."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Tillite Skepticism Trap",
+        "dissection": "Glacial tillite in peninsular India (Talchir) is the classic anchor of Wegener's Gondwana paleoclimatic argument."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Fossil Omission Trap",
+        "dissection": "Mesosaurus and Glossopteris are universally taught canonical examples of trans-oceanic fossil correlation."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_17",
+      "questionStem": "Which of the following was/were cited by Alfred Wegener in his Continental Drift Theory (1912) as empirical evidence supporting the past union of continents?\n1. The occurrence of Permo-Carboniferous glacial tillite beds (Gondwana sequences) across peninsular India, southern Africa, Madagascar, Australia, and Antarctica.\n2. The discontinuous fossil records of the small freshwater reptile Mesosaurus and the seed-fern Glossopteris across widely separated southern ocean basins.\n3. Rich alluvial gold placer deposits along the Ghana coast of West Africa lacking any local auriferous bedrock source, matching gold-bearing lodes in Brazil.\nSelect the correct answer using the code given below:",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_17",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_18",
+    "stem": "With reference to the driving mechanisms postulated by Alfred Wegener for continental displacement, consider the following statements:\n1. Alfred Wegener attributed the equatorward drift of continents to the 'pole-fleeing force' generated by the centrifugal force of Earth's diurnal rotation.\n2. Wegener postulated that the westward displacement of North and South America was driven by the gravitational tidal drag exerted by the Moon and the Sun.\n3. Harold Jeffreys and contemporary geophysicists rejected Wegener's hypothesis because the proposed tidal drag, if strong enough to move continents, would have halted Earth's rotation within a year.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements (1, 2, and 3) are historically and geophysically correct.\n\nStatement 1 is correct: Wegener suggested that the bulge of the Earth at the equator causes a slight differential centrifugal force (the Polfluchtkraft or 'pole-fleeing force') that pushes buoyant granitic continental blocks from the poles toward the equator.\nStatement 2 is correct: To explain why the Americas drifted westward, opening the Atlantic Ocean and crumpling the Rockies and Andes along their leading western edges, Wegener invoked tidal friction caused by the gravitational pull of the Moon and Sun pulling the crust westward relative to the interior.\nStatement 3 is correct: The fatal weakness of Wegener's theory was the lack of a viable dynamic driving mechanism. The British geophysicist Harold Jeffreys demonstrated that tidal drag capable of displacing massive sialic continents through a rigid oceanic sima would have stopped the Earth's diurnal rotation in less than a year. Jeffreys and others proved that the pole-fleeing and tidal forces were billions of times too weak to overcome the shear strength of oceanic rocks.\n\n💡 RANKER'S MEMORY LOCK: Wegener's Driving Forces & Fatal Flaw -> Wegener proposed: 1. Pole-fleeing force (centrifugal -> equatorward drift). 2. Tidal force (Moon/Sun gravity -> westward drift). Fatal flaw: Both forces are mathematically billions of times too weak! Real driving force was discovered later: Mantle convection & slab pull.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Geophysical Critique Omission Trap",
+        "dissection": "Statement 3 articulates the definitive mathematical refutation by Harold Jeffreys that caused the global geological community to reject Wegener's theory until plate tectonics."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Pole-Fleeing Force Doubt Trap",
+        "dissection": "Pole-fleeing force is explicitly defined in NCERT Class 11 as Wegener's proposed mechanism for equatorward motion."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Tidal Mechanism Doubt Trap",
+        "dissection": "Tidal friction was Wegener's explicit explanation for the westward drift of the American landmasses."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_18",
+      "questionStem": "With reference to the driving mechanisms postulated by Alfred Wegener for continental displacement, consider the following statements:\n1. Alfred Wegener attributed the equatorward drift of continents to the 'pole-fleeing force' generated by the centrifugal force of Earth's diurnal rotation.\n2. Wegener postulated that the westward displacement of North and South America was driven by the gravitational tidal drag exerted by the Moon and the Sun.\n3. Harold Jeffreys and contemporary geophysicists rejected Wegener's hypothesis because the proposed tidal drag, if strong enough to move continents, would have halted Earth's rotation within a year.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_18",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_19",
+    "stem": "Consider the following statements regarding Arthur Holmes's Convection Current Theory:\nStatement-I: Arthur Holmes provided the first physically viable dynamic engine for continental displacement in the late 1920s and 1930s, paving the way for the plate tectonics revolution.\nStatement-II: Holmes postulated that radiogenic heat generation in the mantle drives thermal convection cells, where rising currents cause crustal tension and rifting, while descending limbs pull crustal materials into geosynclines.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II provides the direct physical explanation for Statement-I.\n\nStatement-I is correct: While Wegener's theory was widely dismissed due to inadequate driving forces, Arthur Holmes published 'Radioactivity and Earth Movements' (1928-1931), proposing that massive thermal convection currents in the mantle could drag continents across the globe. This rescued the concept of mobile continents and became the direct intellectual foundation of modern plate tectonics.\nStatement-II is correct and explains Statement-I: Holmes realized that radioactive decay of uranium, thorium, and potassium in the deep interior creates enormous thermal energy. Because heat cannot escape efficiently by conduction alone, the mantle must convect in solid-state thermal cells. Rising convection limbs spread horizontally at the base of the lithosphere, generating extensional tension that rips continents apart; converging descending limbs pull crust down into deep geosynclines and trenches, providing the exact physical engine required.\n\n💡 RANKER'S MEMORY LOCK: Arthur Holmes (1930s) -> Convection Current Theory: Mantle thermal convection driven by radioactive decay. Rising limbs = Crustal rifting & divergence; Descending limbs = Crustal buckling & convergence. The missing link that vindicated continental drift!",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "Thermal convection driven by mantle radioactivity (Statement-II) is precisely the theoretical engine that made continental motion physically plausible (Statement-I)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Holmes Theory Denial Trap",
+        "dissection": "Statement-II is the exact model articulated by Arthur Holmes in his 1944 textbook 'Principles of Physical Geology'."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Historical Priority Inversion Trap",
+        "dissection": "Arthur Holmes is universally recognized as the pioneer of the mantle convection model that laid the groundwork for plate tectonics."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_19",
+      "questionStem": "Consider the following statements regarding Arthur Holmes's Convection Current Theory:\nStatement-I: Arthur Holmes provided the first physically viable dynamic engine for continental displacement in the late 1920s and 1930s, paving the way for the plate tectonics revolution.\nStatement-II: Holmes postulated that radiogenic heat generation in the mantle drives thermal convection cells, where rising currents cause crustal tension and rifting, while descending limbs pull crustal materials into geosynclines.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_19",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_20",
+    "stem": "Consider the following statements regarding Paleomagnetism and Continental Drift:\nStatement-I: The Apparent Polar Wandering (APW) curves constructed from North American and European rocks through geological time follow two distinct, diverging tracks for rocks older than the Mesozoic.\nStatement-II: The Earth possessed multiple simultaneous magnetic north poles during the Paleozoic and early Mesozoic eras which drifted independently across the polar circles.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statement-I is correct, but Statement-II is incorrect.\n\nStatement-I is correct: In the 1950s, Keith Runcorn, Edward Irving, and P.M.S. Blackett measured the remanent magnetization (thermal remanent magnetization, TRM) of ancient rocks. Plotting the apparent position of the magnetic pole through time for North America and Europe produced two separate, diverging curves ('apparent polar wandering' paths).\nStatement-II is incorrect: The geocentric axial dipole (GAD) hypothesis of geophysics dictates that Earth's magnetic field, averaged over several thousand years, has always behaved as a single dipole aligned with the rotational axis. Earth cannot have two or more independent magnetic poles at the same time. When the Atlantic Ocean is closed and Europe and North America are rotated back into their pre-breakup Pangean positions, the two APW curves merge into a single identical curve. This provided irrefutable empirical proof that the poles did not wander—the continents wandered!\n\n💡 RANKER'S MEMORY LOCK: Apparent Polar Wandering (APW) -> Earth has ONLY ONE dipole axis at any time. Different continents showed DIFFERENT polar wandering paths because the CONTINENTS were drifting relative to a stationary rotational pole! When continents are refitted, APW curves merge perfectly.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Multiple Dipoles Fallacy",
+        "dissection": "Believing Earth had multiple simultaneous magnetic poles violates Maxwell's equations and planetary geodynamo physics. The apparent wandering is an illusion caused by continental drift."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "False Physics Acceptance Trap",
+        "dissection": "You accepted Statement-II as a factual statement. Earth's magnetic field is strictly dipolar on geological time averages."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "APW Reality Inversion Trap",
+        "dissection": "Statement-I is the definitive empirical discovery by Blackett and Runcorn that revived continental drift in the 1950s."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_20",
+      "questionStem": "Consider the following statements regarding Paleomagnetism and Continental Drift:\nStatement-I: The Apparent Polar Wandering (APW) curves constructed from North American and European rocks through geological time follow two distinct, diverging tracks for rocks older than the Mesozoic.\nStatement-II: The Earth possessed multiple simultaneous magnetic north poles during the Paleozoic and early Mesozoic eras which drifted independently across the polar circles.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_20",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_21",
+    "stem": "Consider the following statements regarding the Vine-Matthews-Morley hypothesis (1963):\n1. Symmetrical, alternating stripes of positive and negative magnetic anomalies flanking mid-ocean ridges record periodic reversals of the Earth's geomagnetic field.\n2. For a geomagnetic polarity chron of a given duration, wider magnetic anomaly stripes on the ocean floor indicate a faster rate of seafloor spreading.\n3. Magnetic anomaly stripes on the ocean floor are oriented strictly perpendicular to the axis of the mid-ocean ridge crest.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n\nStatement 1 is correct: In 1963, Fred Vine, Drummond Matthews, and Lawrence Morley proposed that new oceanic crust forms at mid-ocean ridges and records the prevailing geomagnetic field as basalt cools below the Curie point (~580 deg C). Periodic geomagnetic field reversals produce alternating bands of normal (positive anomaly) and reversed (negative anomaly) remanent magnetism that are mirror-image symmetrical about the ridge axis.\nStatement 2 is correct: Because the geomagnetic reversal time scale is calibrated by radiometric dating of continental basalts, the duration of each magnetic epoch (chron) is known. The spreading rate is simply width divided by time (Velocity = Distance / Time). Thus, for a chron of fixed duration, wider stripes indicate faster seafloor spreading (e.g., East Pacific Rise spreads at 10-16 cm/year, producing very wide stripes, whereas Mid-Atlantic Ridge spreads at 2-3 cm/year, producing narrow stripes).\nStatement 3 is incorrect: The magnetic stripes run PARALLEL to the crest of the mid-ocean ridge, not perpendicular. The zebra-skin pattern forms continuous parallel bands flanking both sides of the spreading axis.\n\n💡 RANKER'S MEMORY LOCK: Vine-Matthews-Morley Hypothesis -> Ocean floor acts as a magnetic tape recorder! Alternating stripes are PARALLEL and SYMMETRICAL to ridge axis. Wider stripe for same duration = FASTER seafloor spreading.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Rate-Width Omission Trap",
+        "dissection": "Statement 2 is a foundational quantitative principle of marine geophysics: spreading rate equals stripe width divided by reversal duration."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Stripe Orientation Inversion Trap",
+        "dissection": "Statement 3 claims stripes are perpendicular to the ridge. They are strictly parallel to the spreading center."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting all statements ignores the deliberate geometric error in Statement 3 (parallel vs perpendicular)."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_21",
+      "questionStem": "Consider the following statements regarding the Vine-Matthews-Morley hypothesis (1963):\n1. Symmetrical, alternating stripes of positive and negative magnetic anomalies flanking mid-ocean ridges record periodic reversals of the Earth's geomagnetic field.\n2. For a geomagnetic polarity chron of a given duration, wider magnetic anomaly stripes on the ocean floor indicate a faster rate of seafloor spreading.\n3. Magnetic anomaly stripes on the ocean floor are oriented strictly perpendicular to the axis of the mid-ocean ridge crest.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_21",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_22",
+    "stem": "Consider the following empirical observations that substantiated Harry Hess's Seafloor Spreading hypothesis (1962):\n1. The age of ocean floor basalts increases systematically with increasing distance away from mid-ocean ridge crests.\n2. The thickness of deep-ocean pelagic sediments increases progressively from almost zero at the ridge axis towards continental margins.\n3. Nowhere on Earth does deep oceanic crust exceed roughly 200 million years in age, contrasting sharply with continental rocks exceeding 3.8 billion years.\n4. Oceanic trenches coincide with severe negative gravity anomalies and descending convection limbs where oceanic lithosphere is consumed.\nHow many of the observations given above are correct?",
+    "options": {
+      "opt_a": "Only one",
+      "opt_b": "Only two",
+      "opt_c": "Only three",
+      "opt_d": "All four"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four empirical observations are correct.\n\n1. Age Gradient: Core drilling by the Deep Sea Drilling Project (DSDP, Glomar Challenger) proved that basalts at the ridge crest are youngest (zero age), and become progressively older away from the ridge symmetrically on both flanks.\n2. Sediment Thickness: Because new crust is continually created at the ridge crest, ridge crests have zero sediment. The further away from the ridge, the longer the oceanic crust has been exposed to the rain of pelagic sediment, resulting in progressively thicker sedimentary layers toward ocean margins.\n3. Crustal Age Paradox: Harry Hess resolved the mystery of why oceans have no ancient rocks: oceanic crust is born at mid-ocean ridges and recycled back into the mantle at subduction zones within ~200 million years.\n4. Trenches and Subduction: F.A. Vening Meinesz discovered immense negative gravity anomalies over oceanic trenches, which Hess recognized as descending limbs of mantle convection pulling oceanic crust down into the mantle.\n\n💡 RANKER'S MEMORY LOCK: Hess's Seafloor Spreading Pillars -> 1. Age increases symmetrically away from ridge. 2. Sediment thickness increases away from ridge. 3. No oceanic crust >200 Ma (Jurassic). 4. Trenches = Subduction / Destruction of crust.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Hyper-Skepticism Trap",
+        "dissection": "Selecting 'Only one' overlooks the decisive marine geology evidence that transformed continental drift into plate tectonics."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Knowledge Trap",
+        "dissection": "Candidates often remember age and sediment thickness but doubt the crustal age limit (200 Ma) or negative gravity anomalies. Both are verified milestones."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Counting Trap",
+        "dissection": "All four observations are mutually reinforcing pillars of Harry Hess's 1962 'History of Ocean Basins'."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_22",
+      "questionStem": "Consider the following empirical observations that substantiated Harry Hess's Seafloor Spreading hypothesis (1962):\n1. The age of ocean floor basalts increases systematically with increasing distance away from mid-ocean ridge crests.\n2. The thickness of deep-ocean pelagic sediments increases progressively from almost zero at the ridge axis towards continental margins.\n3. Nowhere on Earth does deep oceanic crust exceed roughly 200 million years in age, contrasting sharply with continental rocks exceeding 3.8 billion years.\n4. Oceanic trenches coincide with severe negative gravity anomalies and descending convection limbs where oceanic lithosphere is consumed.\nHow many of the observations given above are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_22",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_23",
+    "stem": "Consider the following statements regarding Paleoclimatic Evidence for continental drift:\nStatement-I: Extensive Carboniferous-Permian coal measures found in Svalbard, Greenland, and northern Europe were deposited under polar ice-cap climatic conditions.\nStatement-II: During the Carboniferous period, these northern landmasses were situated in the warm, humid equatorial tropical belt as part of the Euramerica / Pangaea supercontinent.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Statement-I is incorrect, but Statement-II is correct.\n\nStatement-I is incorrect: Coal cannot form beneath polar ice-cap glaciers. The extensive commercial coal deposits of Svalbard (an Arctic archipelago at 78 deg N), Greenland, Britain, and the Appalachian basin are composed of giant lycopsid trees (Lepidodendron, Sigillaria) and seed-ferns that required tropical, equatorial swamp conditions with year-round warmth, heavy rainfall, and high biomass production.\nStatement-II is correct: Continental drift resolves this paleoclimatic paradox. During the Carboniferous (~300-350 million years ago), North America, Greenland, and Europe were welded together near the equator. At the exact same time, modern tropical and sub-tropical landmasses (India, southern Africa, Australia, South America) were clustered around the South Pole undergoing severe continental glaciation (the Gondwana Dwyka-Talchir glacial epoch).\n\n💡 RANKER'S MEMORY LOCK: Paleoclimatic Inversion Paradox -> Arctic Svalbard & Europe have TROPICAL Carboniferous coal because they were at the EQUATOR! Tropical India & Africa have GLACIAL tillites because they were at the SOUTH POLE!",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Paleo-Vegetation Fallacy",
+        "dissection": "Statement-I claims coal formed under polar glaciers. Coal requires luxuriant tropical swamp vegetation with high net primary productivity."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Premise Acceptance Trap",
+        "dissection": "You accepted Statement-I despite the biological and climatic impossibility of forming dense coal forests under polar ice caps."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Pangean Reconstruction Denial Trap",
+        "dissection": "Statement-II is the foundational paleogeographic reconstruction of Pangaea verified by paleomagnetic and fossil data."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_23",
+      "questionStem": "Consider the following statements regarding Paleoclimatic Evidence for continental drift:\nStatement-I: Extensive Carboniferous-Permian coal measures found in Svalbard, Greenland, and northern Europe were deposited under polar ice-cap climatic conditions.\nStatement-II: During the Carboniferous period, these northern landmasses were situated in the warm, humid equatorial tropical belt as part of the Euramerica / Pangaea supercontinent.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_23",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_24",
+    "stem": "Consider the following statements comparing Active and Passive Continental Margins:\n1. Passive continental margins (such as the Atlantic coasts of South America and Africa) coincide directly with major plate boundaries and feature deep oceanic trenches and frequent volcanic eruptions.\n2. Active continental margins (such as the Pacific coast of South America) coincide with convergent plate boundaries and feature narrow continental shelves, steep slopes, and intense seismicity.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 2 is correct, while Statement 1 is incorrect.\n\nStatement 1 is incorrect: Passive continental margins (also called trailing or Atlantic-type margins) DO NOT coincide with plate boundaries. They lie within the interior of tectonic plates where continental crust transitions smoothly into oceanic crust. Consequently, they are tectonically quiescent, characterized by broad continental shelves (often 100-300 km wide), thick sedimentary wedges, and an almost complete absence of volcanism and deep earthquakes. They possess no oceanic trenches.\nStatement 2 is correct: Active continental margins (Pacific-type margins) coincide directly with active convergent or transform plate boundaries (e.g., the western margin of South America along the Peru-Chile trench). They feature very narrow continental shelves (often <10 km wide), steep continental slopes, deep-sea trenches, active volcanic chains (the Andes), and frequent high-magnitude earthquakes along subduction zones.\n\n💡 RANKER'S MEMORY LOCK: Active vs Passive Margins -> Passive Margin (Atlantic): NO plate boundary, wide shelf, no trench, no volcanoes. Active Margin (Pacific): CONVERGENT plate boundary, narrow shelf, deep trench, intense volcanism and seismicity.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Margin Definition Inversion Trap",
+        "dissection": "Statement 1 assigns the characteristics of active margins (trenches, volcanoes) to passive margins. Passive margins lack plate boundaries."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting both statements fails to recognize that passive margins are defined specifically by the lack of active tectonic boundaries."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Statement 2 is the textbook definition of an active convergent Pacific-type margin."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_24",
+      "questionStem": "Consider the following statements comparing Active and Passive Continental Margins:\n1. Passive continental margins (such as the Atlantic coasts of South America and Africa) coincide directly with major plate boundaries and feature deep oceanic trenches and frequent volcanic eruptions.\n2. Active continental margins (such as the Pacific coast of South America) coincide with convergent plate boundaries and feature narrow continental shelves, steep slopes, and intense seismicity.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_24",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_25",
+    "stem": "Consider the following pairs of Minor Tectonic Plates and their geographic locations:\n1. Cocos Plate : Situated between Central America and the Pacific Plate\n2. Nazca Plate : Situated between South America and the Pacific Plate\n3. Juan de Fuca Plate : Situated off the coast of the Pacific Northwest (North America)\n4. Scotia Plate : Situated between the South American Plate and the Antarctic Plate\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched.\n\n1. Cocos Plate: A minor oceanic plate off the western coast of Central America, bounded by the Pacific Plate, Rivera Plate, and Nazca Plate, subducting beneath the Caribbean Plate along the Middle America Trench.\n2. Nazca Plate: A major minor oceanic plate in the eastern Pacific, bounded by the East Pacific Rise on the west and subducting beneath western South America along the Peru-Chile Trench, generating the Andes.\n3. Juan de Fuca Plate: A small oceanic plate wedge off the coasts of Washington, Oregon, and British Columbia, subducting beneath the North American Plate to fuel the Cascade Volcanic Arc (Mt. St. Helens, Mt. Rainier).\n4. Scotia Plate: A minor oceanic plate lying between the tip of South America (Tierra del Fuego) and the Antarctic Peninsula, bounded by transform and subduction margins (Scotia Arc).\n\n💡 RANKER'S MEMORY LOCK: Minor Tectonic Plates Positions -> Cocos (Central America & Pacific) | Nazca (South America & Pacific) | Juan de Fuca (Pacific NW / Cascades) | Scotia (South America & Antarctica) | Arabian (Saudi Arabia) | Philippine (between Asiatic & Pacific).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Plate Geography Skepticism Trap",
+        "dissection": "Selecting 'Only one pair' severely underestimates the geographic accuracy of these standard NCERT Class 11 minor plate locations."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Partial Plate Recognition Trap",
+        "dissection": "Candidates often remember Nazca and Cocos but doubt Juan de Fuca or Scotia. Both are standard UPSC syllabus fixtures."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Counting Trap",
+        "dissection": "Scotia Plate is frequently confused with the Caribbean Plate, leading candidates to eliminate pair 4. Scotia is correctly positioned between South America and Antarctica."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_25",
+      "questionStem": "Consider the following pairs of Minor Tectonic Plates and their geographic locations:\n1. Cocos Plate : Situated between Central America and the Pacific Plate\n2. Nazca Plate : Situated between South America and the Pacific Plate\n3. Juan de Fuca Plate : Situated off the coast of the Pacific Northwest (North America)\n4. Scotia Plate : Situated between the South American Plate and the Antarctic Plate\nHow many of the pairs given above are correctly matched?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_25",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_26",
+    "stem": "Consider the following statements regarding Divergent Plate Boundaries and Continental Rifting:\n1. The East African Rift System illustrates an early evolutionary stage of continental rifting characterized by crustal doming, normal faulting, and horst-and-graben topography.\n2. Volcanism along mid-ocean ridge divergent boundaries is predominantly violent and explosive, producing thick rhyolitic ash sheets.\n3. The Red Sea represents an intermediate stage of continental rifting where continental rupture has led to nascent oceanic crust formation and seafloor spreading.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statements 1 and 3 are correct, while Statement 2 is incorrect.\n\nStatement 1 is correct: Continental rifting begins when upwelling thermal mantle plumes thin and stretch the overlying continental lithosphere. Extensional stress creates extensive normal faults and sunken downdropped fault blocks (grabens) bordered by elevated horsts, exemplified by the Gregory Rift and Western Rift of East Africa.\nStatement 2 is incorrect: Volcanism at divergent boundaries (mid-ocean ridges) is effusive, quiescent, and basaltic (tholeiitic basalt), NOT violent rhyolitic. Because the magmas are generated by decompression melting of the mantle, they are low in silica (45-52%) and dissolved water, having very low viscosity that allows dissolved volatiles to escape gently without explosive ash formation.\nStatement 3 is correct: The Red Sea represents the Wilson cycle's juvenile ocean stage. What began as a continental rift between the African and Arabian plates ~25-30 million years ago has successfully torn the continent apart, flooding the depression with seawater and initiating basaltic seafloor spreading along its central axial trough.\n\n💡 RANKER'S MEMORY LOCK: Continental Rifting Stages -> Stage 1: Continental Rift Valley (East African Rift, grabens, alkaline volcanism). Stage 2: Nascent / Juvenile Ocean (Red Sea, linear sea, new oceanic crust). Stage 3: Mature Ocean Basin (Atlantic Ocean, central mid-ocean ridge). Ridge volcanism is QUIET BASALTIC, not explosive rhyolitic!",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Volcanic Chemistry Inversion Trap",
+        "dissection": "Statement 2 falsely claims divergent boundary volcanism is violent and rhyolitic. Mid-ocean ridges erupt effusive tholeiitic basalt."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Rifting Foundation Denial Trap",
+        "dissection": "Selecting 2 and 3 rejects Statement 1, which accurately describes the classic geomorphology of the East African Rift."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting all statements ignores the fundamental chemical difference between basaltic spreading ridges and explosive subduction-zone volcanoes."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_26",
+      "questionStem": "Consider the following statements regarding Divergent Plate Boundaries and Continental Rifting:\n1. The East African Rift System illustrates an early evolutionary stage of continental rifting characterized by crustal doming, normal faulting, and horst-and-graben topography.\n2. Volcanism along mid-ocean ridge divergent boundaries is predominantly violent and explosive, producing thick rhyolitic ash sheets.\n3. The Red Sea represents an intermediate stage of continental rifting where continental rupture has led to nascent oceanic crust formation and seafloor spreading.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_26",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_27",
+    "stem": "With reference to Oceanic-Oceanic Convergent Plate Boundaries, consider the following statements:\n1. When two oceanic plates converge, the younger and warmer oceanic plate preferentially subducts beneath the older and colder plate.\n2. Volcanic island arcs (such as the Marianas, Aleutians, and Japan) are generated by hydrous flux melting of the mantle wedge above the dehydrating subducting slab.\n3. Deep oceanic trenches are consistently positioned on the oceanward (convex) side of the volcanic island arc.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 2 and 3 are correct, while Statement 1 is incorrect.\n\nStatement 1 is incorrect: When two oceanic lithospheric plates collide, the OLDER, colder, and denser oceanic plate subducts beneath the younger, warmer, and more buoyant plate. As oceanic lithosphere ages, conductive cooling thickens the lithospheric mantle, making it denser than the underlying asthenosphere and driving spontaneous subduction (e.g., the ~160 Ma Pacific plate subducting beneath the younger Philippine Sea plate).\nStatement 2 is correct: As the subducting slab descends past ~80-120 km depth, rising temperatures and pressures break down hydrous minerals (serpentine, amphibole), releasing water into the overlying peridotite mantle wedge. This water drastically lowers the melting point of the mantle peridotite (flux melting), generating basaltic to andesitic magma that ascends to construct volcanic island arcs.\nStatement 3 is correct: Due to the spherical geometry of the Earth and the angle of slab descent, the subduction trench always forms on the oceanward side of the arc, giving island arcs their characteristic convex curve toward the subducting open oceanic plate.\n\n💡 RANKER'S MEMORY LOCK: Oceanic-Oceanic Convergence -> Denser/Older slab subducts under Younger/Warmer plate. Dewatering of slab -> Flux Melting of mantle wedge -> Volcanic Island Arc. Trench is ALWAYS on the outer convex (oceanward) side.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Age-Density Inversion Trap",
+        "dissection": "Statement 1 flips the physics of subduction: older oceanic crust is colder and denser, so it subducts; younger oceanic crust is warmer and lighter."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Flux-Melting Denial Trap",
+        "dissection": "Selecting 1 and 3 rejects Statement 2, which is the foundational petrological mechanism for island arc magmatism."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "All-Inclusive Trap",
+        "dissection": "Accepting all statements ignores the deliberate density inversion in Statement 1."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_27",
+      "questionStem": "With reference to Oceanic-Oceanic Convergent Plate Boundaries, consider the following statements:\n1. When two oceanic plates converge, the younger and warmer oceanic plate preferentially subducts beneath the older and colder plate.\n2. Volcanic island arcs (such as the Marianas, Aleutians, and Japan) are generated by hydrous flux melting of the mantle wedge above the dehydrating subducting slab.\n3. Deep oceanic trenches are consistently positioned on the oceanward (convex) side of the volcanic island arc.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_27",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_28",
+    "stem": "Consider the following statements regarding Oceanic-Continental Convergent Boundaries:\n1. The Andes Mountain system was produced by the subduction of the dense oceanic Nazca Plate beneath the continental South American Plate.\n2. An accretionary prism (wedge) is formed along the trench from pelagic sediments and trench fill scraped off the descending oceanic slab.\n3. Earthquakes along the Wadati-Benioff zone become progressively shallower as one moves inland away from the ocean trench into the continental interior.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n\nStatement 1 is correct: The collision of the dense, mafic oceanic Nazca Plate with the buoyant, granitic continental South American Plate created the Peru-Chile Trench and elevated the Andean continental magmatic arc.\nStatement 2 is correct: As the oceanic slab plunges into the trench, the leading edge of the continental overriding plate acts like a giant bulldozer blade, scraping off unconsolidated marine sediments and oceanic crustal slivers. These deformed sediments are stacked into thrust sheets forming an accretionary prism (wedge) on the landward side of the trench.\nStatement 3 is incorrect: The dipping subduction slab plunges obliquely beneath the continent. Consequently, earthquake focal depths are shallow (<30 km) near the trench, intermediate (70-300 km) beneath the volcanic arc, and DEEPEST (up to 600-700 km) furthest inland under the continental interior. Earthquakes deepen INLAND, not become shallower.\n\n💡 RANKER'S MEMORY LOCK: Oceanic-Continental Subduction -> Nazca Plate under South America = Andes + Peru-Chile Trench. Scraping of marine sediment = Accretionary Prism. Wadati-Benioff earthquakes DEEPEN INLAND away from trench as slab plunges deeper into the mantle.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Focal Depth Geometry Inversion Trap",
+        "dissection": "Statement 3 inverts the dipping geometry of the subducting slab. Hypocenters deepen as you move inland beneath the continental plate."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Accretionary Wedge Denial Trap",
+        "dissection": "Selecting 1 and 3 rejects Statement 2, which correctly describes the formation of the accretionary wedge."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting all statements misses the spatial inversion in Statement 3 regarding earthquake focal depths."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_28",
+      "questionStem": "Consider the following statements regarding Oceanic-Continental Convergent Boundaries:\n1. The Andes Mountain system was produced by the subduction of the dense oceanic Nazca Plate beneath the continental South American Plate.\n2. An accretionary prism (wedge) is formed along the trench from pelagic sediments and trench fill scraped off the descending oceanic slab.\n3. Earthquakes along the Wadati-Benioff zone become progressively shallower as one moves inland away from the ocean trench into the continental interior.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_28",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_29",
+    "stem": "Consider the following statements regarding Continental-Continental Collisional Boundaries:\nStatement-I: Despite intense crustal shortening, folding, and extreme crustal thickening exceeding 70 km under the Himalayas and Tibetan Plateau, modern active arc volcanism is absent along the collision zone.\nStatement-II: Both colliding continental lithospheres possess low average density and high buoyancy, precluding the subduction of continental crust into the deep asthenospheric mantle where dehydration and hydrous flux melting occur.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II provides the direct geodynamic explanation for Statement-I.\n\nStatement-I is correct: The Himalayan mountain range, formed by the continent-continent collision between the Indian and Eurasian plates, is seismically hyperactive with devastating thrust earthquakes (e.g., Main Central Thrust, Main Boundary Thrust), but it lacks active volcanic arcs like those seen in the Andes, Japan, or Cascades.\nStatement-II is correct and explains Statement-I: Continental crust is granitic (felsic) with a low density of ~2.7 g/cm3, making it far too buoyant to sink deep into the denser mantle (~3.3 g/cm3). When the intervening Tethys oceanic lithosphere was completely consumed (~50-55 Ma), oceanic subduction ceased. The buoyant Indian continental crust resisted subduction and instead underthrust beneath Eurasia, causing massive crustal stacking and doubling of crustal thickness (~70-75 km). Without a sinking water-rich oceanic slab penetrating the deep asthenospheric mantle, flux melting cannot occur, completely preventing arc volcanism.\n\n💡 RANKER'S MEMORY LOCK: Why No Volcanoes in the Himalayas? -> Continental crust is TOO BUOYANT to sink into the deep mantle! No oceanic slab sinking = No dehydration = No flux melting = NO VOLCANOES. Only intense thrust faulting, folding, and crustal doubling (75 km thick).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "Buoyancy of continental crust preventing deep mantle subduction (Statement-II) is the definitive geophysical explanation for why collisional orogens lack arc volcanism (Statement-I)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Buoyancy Physics Denial Trap",
+        "dissection": "Rejecting Statement-II contradicts Archimedes' principle applied to geodynamics: low-density sialic crust cannot sink into high-density ultramafic mantle."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Himalayan Volcanism Fallacy",
+        "dissection": "Believing the Himalayas have active volcanic arcs is a common misconception. The Himalayas are an amagmatic collision orogen."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_29",
+      "questionStem": "Consider the following statements regarding Continental-Continental Collisional Boundaries:\nStatement-I: Despite intense crustal shortening, folding, and extreme crustal thickening exceeding 70 km under the Himalayas and Tibetan Plateau, modern active arc volcanism is absent along the collision zone.\nStatement-II: Both colliding continental lithospheres possess low average density and high buoyancy, precluding the subduction of continental crust into the deep asthenospheric mantle where dehydration and hydrous flux melting occur.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_29",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_30",
+    "stem": "With reference to Transform Fault Boundaries, consider the following statements:\n1. Along transform plate boundaries, lithosphere is neither created nor destroyed because plates slide horizontally past one another along strike-slip fault planes.\n2. Transform boundaries are typically marked by deep oceanic trenches and towering composite stratovolcanoes.\n3. In oceanic fracture zones, active seismicity is concentrated exclusively along the transform segment connecting the two offset spreading ridge axes.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Statements 1 and 3 are correct, while Statement 2 is incorrect.\n\nStatement 1 is correct: Transform faults (first recognized by J. Tuzo Wilson in 1965) are conservative plate margins. Because the relative plate motion is purely strike-slip (parallel to the fault trace), there is neither divergence (which creates lithosphere) nor convergence/subduction (which destroys lithosphere).\nStatement 2 is incorrect: Transform boundaries lack both deep-sea trenches (which require subduction) and volcanic arcs (which require subduction-induced flux melting or ridge decompression). The San Andreas Fault and Alpine Fault are strike-slip fault systems devoid of volcanic arcs and trenches.\nStatement 3 is correct: J. Tuzo Wilson proved that along oceanic fracture zones that offset mid-ocean ridges, plates move in opposite directions ONLY between the two offset ridge axes (the transform fault proper). Beyond the ridge offsets, the fracture zone continues as an inactive scar where adjacent crust on both sides moves in the same direction at the same speed, producing virtually zero seismicity.\n\n💡 RANKER'S MEMORY LOCK: Transform Faults (Conservative Margins) -> Pure horizontal strike-slip motion. NO creation or destruction of crust -> NO trenches, NO volcanism! Seismicity is confined ONLY to the transform segment between the two offset ridge crests.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Transform Volcanism Fallacy",
+        "dissection": "Statement 2 falsely claims transform faults produce trenches and stratovolcanoes. Conservative margins are devoid of subduction trenches and volcanic arcs."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Conservative Definition Denial Trap",
+        "dissection": "Selecting 2 and 3 rejects Statement 1, which is the foundational definition of Tuzo Wilson's conservative transform faults."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting all statements overlooks the absence of volcanic activity along transform boundaries."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_30",
+      "questionStem": "With reference to Transform Fault Boundaries, consider the following statements:\n1. Along transform plate boundaries, lithosphere is neither created nor destroyed because plates slide horizontally past one another along strike-slip fault planes.\n2. Transform boundaries are typically marked by deep oceanic trenches and towering composite stratovolcanoes.\n3. In oceanic fracture zones, active seismicity is concentrated exclusively along the transform segment connecting the two offset spreading ridge axes.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_30",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_31",
+    "stem": "In the context of plate tectonics, which one of the following sequences represents the correct ascending stratigraphic order (from bottom to top) of a complete Penrose Ophiolite Suite?",
+    "options": {
+      "opt_a": "Pillow basalts -> Sheeted dyke complex -> Layered gabbros -> Ultramafic mantle peridotite -> Deep-sea cherts",
+      "opt_b": "Ultramafic mantle peridotite -> Layered gabbros -> Sheeted dyke complex -> Pillow basalts -> Pelagic deep-sea sediments",
+      "opt_c": "Granitic batholith -> Rhyolitic ignimbrite -> Basaltic sill -> Marine limestone -> Turbidite sandstone",
+      "opt_d": "Pelagic deep-sea sediments -> Pillow basalts -> Layered gabbros -> Sheeted dyke complex -> Ultramafic peridotite"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Option B is correct.\n\nAn ophiolite is a section of Earth's oceanic crust and underlying upper mantle that has been uplifted and exposed above sea level and emplaced onto continental crustal rocks via obduction. The 1972 GSA Penrose Conference defined the standard ascending stratigraphic profile of an ophiolite (from base to top):\n1. Base: Ultramafic mantle rocks (harzburgite, lherzolite, dunite, often serpentinized), representing the upper mantle lithosphere.\n2. Layered and isotropic gabbros: Representing the crystallized floor and walls of magma chambers in oceanic crust Layer 3.\n3. Sheeted dyke complex: Feeder dykes where magma repeatedly intruded extensional fissures at spreading ridges (Layer 2B).\n4. Pillow basalts: Bulbous basaltic lavas flash-frozen on the ocean floor upon contact with cold seawater (Layer 2A).\n5. Top: Deep-sea pelagic sediments (radiolarites, cherts, shales, and metalliferous sediments) deposited atop the volcanic seafloor (Layer 1).\nExamples include the Semail Ophiolite in Oman and the Indus Suture Ophiolites in Ladakh.\n\n💡 RANKER'S MEMORY LOCK: Penrose Ophiolite Sequence (Base to Top) -> Ultramafic Peridotite (mantle) -> Layered Gabbro (deep crust) -> Sheeted Dykes (conduits) -> Pillow Basalt (submarine eruption) -> Pelagic Chert (deep ocean floor).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Stratigraphic Inversion Trap",
+        "dissection": "Option A completely inverts the sequence, placing surface pillow basalts at the base and mantle peridotite near the top."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Continental Crust Conflation Trap",
+        "dissection": "Option C describes a continental felsic volcanic-plutonic complex, not an oceanic lithosphere ophiolite suite."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Top-to-Bottom Inversion Trap",
+        "dissection": "Option D lists the sequence from top to bottom instead of ascending order from bottom to top."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "direct",
+    "qstyle": "direct",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_31",
+      "questionStem": "In the context of plate tectonics, which one of the following sequences represents the correct ascending stratigraphic order (from bottom to top) of a complete Penrose Ophiolite Suite?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_31",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_32",
+    "stem": "Consider the following statements regarding the driving mechanisms of Plate Tectonics:\n1. 'Slab pull', generated by the negative buoyancy of cold, dense subducting oceanic lithosphere sinking into the warmer asthenosphere, is the quantitatively dominant force driving plate motion.\n2. 'Ridge push' operates as a gravitational sliding force away from the elevated bathymetric topography of mid-ocean ridges.\n3. Basal shear traction from convective mantle cells drags plates across the surface with forces far exceeding slab pull.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n\nStatement 1 is correct: Quantitative torque balances and plate velocity measurements (Forsyth & Uyeda 1975) established that 'slab pull' is by far the strongest driving force. As oceanic lithosphere cools, it becomes denser than the asthenosphere; upon subduction, eclogite facies metamorphism densifies the slab further, acting like a heavy descending anchor that pulls the rest of the plate behind it. Plates attached to subducting slabs (e.g., Pacific, Nazca, Cocos) move at 8-16 cm/year, whereas plates lacking subducting slabs (e.g., Antarctic, Eurasian, African) move at only 1-3 cm/year.\nStatement 2 is correct: 'Ridge push' is caused because mid-ocean ridges stand 2 to 3 km above the adjacent deep ocean abyssal plains due to high thermal buoyancy. Gravity acts on this elevated mass, exerting a lateral downslope body force pushing the oceanic plate away from the ridge crest.\nStatement 3 is incorrect: Modern geodynamic models demonstrate that mantle convection cells do not vigorously drag lithospheric plates via basal traction. In many regions, the rapidly moving plate actually drags the underlying upper asthenosphere with it, making basal traction a retarding or minor secondary force, far weaker than slab pull.\n\n💡 RANKER'S MEMORY LOCK: Tectonic Driving Forces Hierarchy -> 1. SLAB PULL = King of driving forces (negative buoyancy of sinking slab into mantle). 2. RIDGE PUSH = Gravitational downslope slide from high ridge crest. 3. Basal drag is WEAK/secondary compared to slab pull.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Slab Pull Dominance Denial Trap",
+        "dissection": "Selecting 2 and 3 denies Statement 1, which is the foundational consensus of modern geodynamics that slab pull dominates plate velocities."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Basal Drag Exaggeration Trap",
+        "dissection": "Statement 3 exaggerates basal drag. Plates attached to subducting slabs move up to 10x faster than landlocked plates, proving slab pull dwarfs basal drag."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "All-Inclusive Trap",
+        "dissection": "Accepting all statements overlooks the clear physical hierarchy among tectonic driving mechanisms."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_32",
+      "questionStem": "Consider the following statements regarding the driving mechanisms of Plate Tectonics:\n1. 'Slab pull', generated by the negative buoyancy of cold, dense subducting oceanic lithosphere sinking into the warmer asthenosphere, is the quantitatively dominant force driving plate motion.\n2. 'Ridge push' operates as a gravitational sliding force away from the elevated bathymetric topography of mid-ocean ridges.\n3. Basal shear traction from convective mantle cells drags plates across the surface with forces far exceeding slab pull.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_32",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_33",
+    "stem": "With reference to the physical and chemical characteristics of Magma, consider the following statements:\n1. Felsic (rhyolitic) magmas possess high silica content (>65%), high viscosity, and lower eruption temperatures (~800 deg C), which impede gas release and trigger violently explosive pyroclastic eruptions.\n2. Mafic (basaltic) magmas possess low silica content (45-52%), low viscosity, and high eruption temperatures (~1100 deg C to 1200 deg C), allowing dissolved volatiles to escape easily and producing quiet, effusive lava flows.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both statements 1 and 2 are correct.\n\nStatement 1 is correct: Felsic (rhyolitic and dacitic) magmas have high concentrations of silica (SiO2 > 65%). High silica leads to extensive polymerization of silicate tetrahedra (Si-O bonds) in the melt, creating extremely high dynamic viscosity. Combined with lower eruption temperatures (~750-850 deg C), the stiff, sluggish magma traps expanding dissolved gases (water vapor, CO2, SO2). As magma ascends and confining pressure drops, trapped gas bubbles cannot escape freely, rapidly building astronomical pressure until they violently shatter the magma in explosive paroxysmal eruptions.\nStatement 2 is correct: Mafic (basaltic) magmas have low silica content (45-52%) and high temperatures (~1100-1200 deg C), meaning silicate networks are poorly polymerized and fluid. Low viscosity allows exsolving dissolved gases to bubble out passively into the atmosphere without building catastrophic pressure, resulting in gentle, effusive fountaining and fluid lava flows (such as Hawaiian pahoehoe and aa flows).\n\n💡 RANKER'S MEMORY LOCK: Magma Chemistry & Eruptive Style -> Felsic (Rhyolite): High Silica (>65%), Low Temp, HIGH Viscosity -> Traps Gas -> EXPLOSIVE Pyroclastic Eruptions! Mafic (Basalt): Low Silica (45-52%), High Temp, LOW Viscosity -> Gases Escape -> GENTLE Effusive Flows!",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Mafic Magma Physics Denial Trap",
+        "dissection": "Overlooking Statement 2 ignores the basic petrological reason why basaltic shield volcanoes erupt gently without catastrophic explosions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Felsic Viscosity Denial Trap",
+        "dissection": "Rejecting Statement 1 denies the fundamental role of silica polymerization in generating explosive volcanic eruptions."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Both statements provide exact, textbook definitions of igneous petrology and volcanic behavior."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_33",
+      "questionStem": "With reference to the physical and chemical characteristics of Magma, consider the following statements:\n1. Felsic (rhyolitic) magmas possess high silica content (>65%), high viscosity, and lower eruption temperatures (~800 deg C), which impede gas release and trigger violently explosive pyroclastic eruptions.\n2. Mafic (basaltic) magmas possess low silica content (45-52%), low viscosity, and high eruption temperatures (~1100 deg C to 1200 deg C), allowing dissolved volatiles to escape easily and producing quiet, effusive lava flows.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_33",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_34",
+    "stem": "Consider the following statements regarding Volcanic Edifices:\n1. Shield volcanoes are built exclusively by explosive rhyolitic ash clouds that settle over millions of years.\n2. Composite volcanoes (stratovolcanoes), such as Mount Fuji and Mount Mayon, have steep conical profiles built of alternating strata of pyroclastic debris and viscous andesitic lava flows.\n3. Shield volcanoes, such as Mauna Loa in Hawaii, display broad gentle slopes because highly fluid basaltic lava flows over immense distances before solidifying.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statements 2 and 3 are correct, while Statement 1 is incorrect.\n\nStatement 1 is incorrect: Shield volcanoes are NOT built of explosive rhyolitic ash clouds; they are built by successive effusive layers of fluid basaltic lava. Shield volcanoes are characterized by very low explosivity unless external groundwater interacts with the magma chamber.\nStatement 2 is correct: Composite volcanoes (stratovolcanoes) are tall, symmetrical, steep-sided volcanic cones (slope angles up to 30-35 deg near summit). They are constructed from interlayered ('composite') strata of hardened viscous lava (andesite, dacite) and pyroclastic tephra (ash, cinders, volcanic bombs) ejected during alternating explosive and lava-flow phases.\nStatement 3 is correct: Shield volcanoes are the largest individual volcanoes on Earth (e.g., Mauna Loa rises ~9 km from the ocean floor). Because the erupted basalt is extremely fluid, it spreads out thinly across wide areas, producing a broad, low-profile dome resembling a warrior's shield lying flat on the ground (flank slopes rarely exceed 5-10 deg).\n\n💡 RANKER'S MEMORY LOCK: Shield vs Composite Volcanoes -> Shield Volcanoes (Hawaii, Mauna Loa): FLUID BASALT, gentle slopes (shield-like), effusive/non-explosive. Composite / Stratovolcanoes (Fuji, Mayon, Vesuvius): VISCOUS ANDESITE, steep slopes, alternating layers of ash & lava, violently explosive.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Shield Ash Fallacy",
+        "dissection": "Statement 1 falsely claims shield volcanoes are made of explosive rhyolitic ash. Shield volcanoes are effusive basaltic edifices."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Stratovolcano Denial Trap",
+        "dissection": "Selecting 1 and 3 rejects Statement 2, which accurately defines the classic stratified morphology of composite volcanoes."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "All-Inclusive Trap",
+        "dissection": "Accepting all statements misses the severe factual error in Statement 1 regarding the composition and eruptive mechanism of shield volcanoes."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_34",
+      "questionStem": "Consider the following statements regarding Volcanic Edifices:\n1. Shield volcanoes are built exclusively by explosive rhyolitic ash clouds that settle over millions of years.\n2. Composite volcanoes (stratovolcanoes), such as Mount Fuji and Mount Mayon, have steep conical profiles built of alternating strata of pyroclastic debris and viscous andesitic lava flows.\n3. Shield volcanoes, such as Mauna Loa in Hawaii, display broad gentle slopes because highly fluid basaltic lava flows over immense distances before solidifying.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_34",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_35",
+    "stem": "Consider the following statements regarding Calderas:\nStatement-I: A caldera is an immense, basin-shaped volcanic depression that forms primarily through the catastrophic structural collapse of a volcanic summit rather than by the explosive blow-out of the mountain peak.\nStatement-II: The rapid eruption of colossal volumes of magma during paroxysmal eruptions empties the underlying shallow magma chamber, depriving the overlying volcanic roof rock of structural support.\nWhich one of the following is correct in respect of the above statements?",
+    "options": {
+      "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "opt_b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "opt_c": "Statement-I is correct but Statement-II is incorrect",
+      "opt_d": "Statement-I is incorrect but Statement-II is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both Statement-I and Statement-II are correct, and Statement-II provides the direct physical explanation for Statement-I.\n\nStatement-I is correct: Calderas (e.g., Crater Lake in Oregon, Lake Toba in Sumatra, Yellowstone in Wyoming) are enormous circular or elliptical volcanic depressions often spanning 5 to 50 km in diameter. For decades, it was commonly thought that explosive eruptions blasted away the top of the mountain. Geological field mapping proved that the summit collapses INWARD into the Earth, leaving steep crater walls surrounding a collapsed basin.\nStatement-II is correct and explains Statement-I: During colossal, super-volcanic eruptions (Volcanic Explosivity Index VEI 6 to 8), tens to hundreds of cubic kilometers of pyroclastic material are vented in hours or days. This catastrophically empties the shallow subsurface magma reservoir. The overlying rock roof, no longer supported by the hydraulic pressure of magma beneath it, collapses downward along ring fractures like a piston, producing a massive caldera depression.\n\n💡 RANKER'S MEMORY LOCK: Caldera Formation -> Calderas form by ROOF COLLAPSE into an evacuated magma chamber, NOT by explosive blowing off of the summit! Emptying of magma reservoir removes support -> roof collapses along ring fractures.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Causal Disconnection Trap",
+        "dissection": "Emptying of the magma chamber and loss of hydrostatic support (Statement-II) is the exact physical engine causing summit collapse (Statement-I)."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Chamber Evacuation Denial Trap",
+        "dissection": "Rejecting Statement-II denies the universal volcanological mechanism of caldera subsidence demonstrated by Crater Lake and Toba."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Summit Blown-Off Fallacy",
+        "dissection": "Believing calderas are created by blowing off the mountain summit is a disproven early 19th-century fallacy."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "assertion",
+    "qstyle": "assertion",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_35",
+      "questionStem": "Consider the following statements regarding Calderas:\nStatement-I: A caldera is an immense, basin-shaped volcanic depression that forms primarily through the catastrophic structural collapse of a volcanic summit rather than by the explosive blow-out of the mountain peak.\nStatement-II: The rapid eruption of colossal volumes of magma during paroxysmal eruptions empties the underlying shallow magma chamber, depriving the overlying volcanic roof rock of structural support.\nWhich one of the following is correct in respect of the above statements?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_35",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_36",
+    "stem": "Regarding Flood Basalt Provinces and the Deccan Traps, consider the following statements:\n1. Flood basalt provinces are generated by massive fissure eruptions of highly fluid basaltic lava that inundate tens of thousands of square kilometers without building a central conical volcano.\n2. The main pulse of the Deccan Traps erupted during the late Cretaceous (~66 million years ago) as the northward-drifting Indian Plate passed over the Reunion mantle hotspot.\n3. The characteristic step-like topography of the Deccan Traps is the result of differential erosion acting on successive horizontal sheets of cooled basalt lava flows.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1 and 3 only",
+      "opt_d": "1, 2 and 3"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All three statements (1, 2, and 3) are correct.\n\nStatement 1 is correct: Flood basalt provinces (Large Igneous Provinces, LIPs) are formed by rapid, colossal fissure eruptions of very low-viscosity basaltic lava. Instead of piling up around a central vent, the lava flows across vast distances forming horizontal lava plateaus (e.g., Deccan Traps in India, Columbia River Basalts in the USA, Siberian Traps in Russia).\nStatement 2 is correct: Geochronological dating (40Ar/39Ar and U-Pb) demonstrates that the bulk of the Deccan flood basalts erupted over a remarkably short geological interval of ~500,000 to 1 million years around 66 Ma (precisely coinciding with the Cretaceous-Paleogene extinction boundary). The volcanism was triggered when the Indian Plate migrated over the deep mantle plume head of the Reunion hotspot.\nStatement 3 is correct: The Swedish word 'Trapp' means stairs or steps. Individual lava flows in the Deccan plateau cooled with dense, jointed interiors and vesicular, crumbly flow tops. Prolonged tropical weathering and fluvial erosion have stripped the softer flow tops while leaving the hard columnar flow centers as flat-topped mesas and step-like terrace escarpments.\n\n💡 RANKER'S MEMORY LOCK: Deccan Traps Facts -> 1. Flood Basalt / LIP: Fissure eruption of fluid basalt. 2. Age: ~66 Ma (Cretaceous-Paleogene boundary) via Reunion hotspot plume. 3. 'Trap' = Swedish for 'stairs' (step-like landscape from differential weathering of horizontal lava flows).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Geomorphology Omission Trap",
+        "dissection": "Statement 3 explains the literal origin of the term 'Trap' (Swedish for stairs/steps), which is a core concept in Indian physical geography."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Fissure Eruption Doubt Trap",
+        "dissection": "Selecting 2 and 3 doubts Statement 1. Flood basalts are defined globally by effusive fissure eruptions without central cones."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Reunion Hotspot Doubt Trap",
+        "dissection": "Selecting 1 and 3 omits the Reunion hotspot connection, which is the universally accepted geodynamic trigger for Deccan magmatism."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_36",
+      "questionStem": "Regarding Flood Basalt Provinces and the Deccan Traps, consider the following statements:\n1. Flood basalt provinces are generated by massive fissure eruptions of highly fluid basaltic lava that inundate tens of thousands of square kilometers without building a central conical volcano.\n2. The main pulse of the Deccan Traps erupted during the late Cretaceous (~66 million years ago) as the northward-drifting Indian Plate passed over the Reunion mantle hotspot.\n3. The characteristic step-like topography of the Deccan Traps is the result of differential erosion acting on successive horizontal sheets of cooled basalt lava flows.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_36",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_37",
+    "stem": "Consider the following pairs of Intrusive Igneous Rock Bodies (Plutons) and their structural geometries:\n1. Sill : Concordant tabular intrusion injected parallel to the bedding planes of pre-existing sedimentary strata\n2. Laccolith : Mushroom-shaped or dome-shaped intrusion with a flat floor that arches up overlying sedimentary strata\n3. Lopolith : Large saucer-shaped concordant intrusion with a central depression or sagged basin\n4. Phacolith : Lens-shaped intrusion situated along the crest of an anticline or the trough of a syncline in folded strata\nHow many of the pairs given above are correctly matched?",
+    "options": {
+      "opt_a": "Only one pair",
+      "opt_b": "Only two pairs",
+      "opt_c": "Only three pairs",
+      "opt_d": "All four pairs"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "All four pairs are correctly matched.\n\n1. Sill: A concordant tabular sheet of igneous rock that intrudes horizontally or sub-horizontally parallel to the stratification planes of surrounding rocks (thinner sheets are called sills; discordant vertical sheets are dykes).\n2. Laccolith: A concordant blister-shaped or mushroom-shaped pluton with a flat, horizontal base and a convex-upward dome that deforms and arches the overlying sedimentary rock beds (e.g., granite laccoliths of the Karnataka plateau).\n3. Lopolith: A concordant intrusive body with a saucer-shaped or bowl-shaped geometry whose center has sagged downwards due to the weight of the intruded magma (e.g., the Bushveld Igneous Complex in South Africa).\n4. Phacolith: A concordant crescent or lens-shaped intrusion occupying the crest of an anticline or the trough of a syncline where magma squeezed into zones of low pressure during folding.\n\n💡 RANKER'S MEMORY LOCK: Intrusive Concordant Plutons Geometry -> Sill = Horizontal sheet parallel to strata. Laccolith = Mushroom dome with FLAT base arching overlying strata. Lopolith = Saucer-shaped / bowl with sagged center. Phacolith = Lens-shaped at crest of anticline or trough of syncline.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Selecting 'Only one pair' severely underestimates the accuracy of standard NCERT intrusive landform definitions."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Pluton Geometry Confusion Trap",
+        "dissection": "Candidates often confuse Lopolith (saucer) and Laccolith (mushroom dome) and prematurely eliminate one of them."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Under-Counting Trap",
+        "dissection": "Phacolith is often an unfamiliar term, leading candidates to reject pair 4. Phacolith is the standard term for synclinal/anticlinal lens-shaped intrusions."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "count",
+    "qstyle": "count",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_37",
+      "questionStem": "Consider the following pairs of Intrusive Igneous Rock Bodies (Plutons) and their structural geometries:\n1. Sill : Concordant tabular intrusion injected parallel to the bedding planes of pre-existing sedimentary strata\n2. Laccolith : Mushroom-shaped or dome-shaped intrusion with a flat floor that arches up overlying sedimentary strata\n3. Lopolith : Large saucer-shaped concordant intrusion with a central depression or sagged basin\n4. Phacolith : Lens-shaped intrusion situated along the crest of an anticline or the trough of a syncline in folded strata\nHow many of the pairs given above are correctly matched?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_37",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_38",
+    "stem": "Consider the following statements regarding Plutonic Rock Bodies:\n1. Batholiths are small, tabular concordant igneous intrusions rarely exceeding 5 square kilometers in surface exposure.\n2. Dykes are discordant, wall-like intrusive bodies that cut across the bedding planes or foliation of surrounding country rocks.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Statement 2 is correct, while Statement 1 is incorrect.\n\nStatement 1 is incorrect: Batholiths are the LARGEST of all plutonic bodies, not small tabular intrusions. By definition, a batholith is an immense discordant granitic pluton whose surface outcrop area exceeds 100 square kilometers (bodies smaller than 100 km2 are termed 'stocks'). Batholiths form deep within the crust from the coalescing of multiple magma diapirs and represent the roots of eroded mountain chains (e.g., the Idaho Batholith, Coast Range Batholith, Sierra Nevada Batholith).\nStatement 2 is correct: Dykes (dikes) are discordant tabular igneous bodies that inject along fractures cutting across pre-existing layering or planar structures of the host rock. They are typically vertical or steeply inclined and can range from a few centimeters to tens of meters in thickness and many kilometers in length. They often served as feeder conduits for fissure flood basalt eruptions (e.g., dolerite dykes traversing the Deccan Traps and Gondwana coalfields).\n\n💡 RANKER'S MEMORY LOCK: Batholiths & Dykes (Discordant Plutons) -> Batholith: GIGANTIC granitic mass (>100 sq km exposure), roots of mountain belts. Dyke: Vertical wall-like discordant sheet cutting ACROSS bedding planes (feeder conduits for flood basalts).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Batholith Definition Inversion Trap",
+        "dissection": "Statement 1 describes a small sill or stock. Batholiths are colossal (>100 sq km) discordant plutonic bodies."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Generalization Trap",
+        "dissection": "Accepting both statements overlooks the gross misrepresentation of batholith size and concordancy in Statement 1."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Dyke Definition Denial Trap",
+        "dissection": "Statement 2 is the exact NCERT textbook definition of an igneous dyke."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_38",
+      "questionStem": "Consider the following statements regarding Plutonic Rock Bodies:\n1. Batholiths are small, tabular concordant igneous intrusions rarely exceeding 5 square kilometers in surface exposure.\n2. Dykes are discordant, wall-like intrusive bodies that cut across the bedding planes or foliation of surrounding country rocks.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_38",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_39",
+    "stem": "Consider the following statements regarding volcanic phenomena:\n1. A pyroclastic density current (nuee ardente) is a ground-hugging avalanche of incandescent gas, ash, pumice, and rock fragments that travels downslope at speeds exceeding 100 km/h.\n2. A lahar is a catastrophic volcanic mudflow formed when unconsolidated volcanic ash and pyroclastic debris become mobilized by torrential rainfall or melting snow and ice.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both statements 1 and 2 are correct.\n\nStatement 1 is correct: Pyroclastic density currents (PDCs, famously described as 'nuee ardente' or glowing clouds by Alfred Lacroix during the 1902 eruption of Mount Pelee) are fluid mixtures of hot volcanic gases, ash, pumice, and lithic blocks. They can reach temperatures of up to 1,000 deg C and surge downslope under gravity at hurricane velocities (100 to 700 km/h), representing the deadliest of all volcanic hazards.\nStatement 2 is correct: Lahars are volcanic debris flows or mudflows with the consistency of wet concrete. They are generated when loose, unconsolidated pyroclastic deposits on a volcanic cone are mobilized by heavy monsoonal or cyclonic rainfall (as occurred at Mount Pinatubo in 1991), catastrophic drainage of a summit crater lake, or rapid melting of glacial ice and snow during an eruption (as devastated Armero, Colombia during the 1985 eruption of Nevado del Ruiz).\n\n💡 RANKER'S MEMORY LOCK: Volcanic Hazards -> Pyroclastic Density Current (Nuee Ardente): Incandescent (>800 deg C) avalanche of gas and ash moving at 100-700 km/h. Lahar: Rapid volcanic mudflow/debris flow mobilized by rainfall or melting snow/ice.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Lahar Hazard Denial Trap",
+        "dissection": "Overlooking Statement 2 ignores lahars, which are among the most lethal secondary hazards associated with composite volcanoes."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Pyroclastic Flow Denial Trap",
+        "dissection": "Rejecting Statement 1 denies the classic definition of nuee ardente established by the Mount Pelee eruption."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Over-Elimination Trap",
+        "dissection": "Both statements provide exact, verified physical definitions of hazardous volcanic mass flows."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_39",
+      "questionStem": "Consider the following statements regarding volcanic phenomena:\n1. A pyroclastic density current (nuee ardente) is a ground-hugging avalanche of incandescent gas, ash, pumice, and rock fragments that travels downslope at speeds exceeding 100 km/h.\n2. A lahar is a catastrophic volcanic mudflow formed when unconsolidated volcanic ash and pyroclastic debris become mobilized by torrential rainfall or melting snow and ice.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_39",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
+  },
+  {
+    "id": "q_top4_upsc_40",
+    "stem": "With reference to volcanic micro-structures and cooling features, consider the following statements:\n1. Columnar jointing forms exclusively during submarine quenching in deep oceanic trenches.\n2. Pillow basalts are formed exclusively during subaerial eruptions under hyper-arid desert conditions.\nWhich of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Neither Statement 1 nor Statement 2 is correct (both statements are factually false).\n\nStatement 1 is incorrect: Columnar jointing does NOT form exclusively during submarine trench quenching. It develops in thick, ponded basaltic lava flows or shallow intrusions (sills, dykes) as they cool slowly and contract uniformly on land (subaerially) or within the crust. As the rock shrinks, tensile stresses pull outward from evenly spaced centers, forming a regular polygonal network of vertical fractures (predominantly hexagonal columns), famous examples being the Giant's Causeway in Northern Ireland and St. Mary's Islands in Karnataka, India.\nStatement 2 is incorrect: Pillow basalts (pillow lavas) are NOT formed subaerially in arid deserts. They form EXCLUSIVELY during underwater (submarine or sublacustrine) eruptions. When basaltic magma is extruded into water, contact with cold water immediately flash-chills an outer vitreous (glassy) crust. Continued lava pressure pushes through the skin, forming rounded, bulbous, pillow-like lobes stacked on top of one another. Pillow basalts are the definitive marker of submarine volcanism preserved in ophiolites.\n\n💡 RANKER'S MEMORY LOCK: Volcanic Cooling Features -> Columnar Jointing: Uniform thermal contraction during slow cooling of thick basalt flows -> Hexagonal joint columns (Giant's Causeway, St. Mary's Island). Pillow Basalt: Underwater / Submarine eruption -> Flash-quenching into bulbous pillows. Both statements inverted the environments!",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Trench Conflation Trap",
+        "dissection": "Statement 1 falsely restricts columnar jointing to submarine trenches. It forms during thermal contraction of subaerial or intrusive lava flows."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Desert Environment Fallacy",
+        "dissection": "Statement 2 falsely claims pillow basalts form in arid deserts. Pillow basalts form exclusively underwater in oceans or lakes."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Dual Falsehood Acceptance Trap",
+        "dissection": "Both statements contain blatant physical and environmental inaccuracies, making 'Both 1 and 2' completely erroneous."
+      }
+    ],
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "Physical Geography",
+    "subTopic": "Earth's Interior, Rocks & Plate Tectonics",
+    "tier": "Hard",
+    "level": "Hard",
+    "difficulty_level": 3,
+    "format": "multi_statement",
+    "qstyle": "multi_statement",
+    "exams": "UPSC,State_PSC",
+    "isCurrentAffairs": false,
+    "needsMapDiagram": false,
+    "imageUrl": "",
+    "originalTier": "1",
+    "originalTopicId": 4,
+    "originalTopicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "examTarget": "UPSC",
+    "provenance": {
+      "questionId": "q_top4_upsc_40",
+      "questionStem": "With reference to volcanic micro-structures and cooling features, consider the following statements:\n1. Columnar jointing forms exclusively during submarine quenching in deep oceanic trenches.\n2. Pillow basalts are formed exclusively during subaerial eruptions under hyper-arid desert conditions.\nWhich of the statements given above is/are correct?",
+      "intentType": "conceptual_synthesis",
+      "knowledgeNodeId": "node-geo4-q_top4_upsc_40",
+      "evidenceText": "",
+      "sourceFile": "ncert_xi_fundamentals_of_physical_geography.pdf",
+      "sourceLocation": {
+        "sourceId": "ncert_xi_fundamentals_of_physical_geography.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 0,
+        "block_id": "",
+        "has_antecedent": false
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-12",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "1",
+        "specificExam": "UPSC"
+      },
+      "linkHashes": {}
+    }
   }
 ]
