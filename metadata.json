@@ -1,8 +1,8 @@
 {
   "version": 18,
   "totalQuestions": 3522,
-  "apkSha256": "3170FE23D4B1E509CE38260EAEE9CB58A8FFFF5ACEA655E4602A6BFD7A436566",
-  "apkSizeBytes": 33647668,
+  "apkSha256": "7FC8E50726DD0325A3A4A5A08EC09F33D3569306A8C76351FB4BB18697238E55",
+  "apkSizeBytes": 34083556,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -38,6 +38,6 @@
     "🗺️ World Regional Geography": 120,
     "📍 Bihar Geography": 62
   },
-  "updatedAt": "2026-10-12T15:31:36Z",
+  "updatedAt": "2026-10-12T15:47:36Z",
   "releaseNotes": "Version 18.0: Master UPSC Geography Question Bank Expansion (3,522 MCQs across all 23 Chapters). Engineered with UPSC Professor PYQ standard, multi-statement evaluation, 'Only One/Two/All Three' formats, and Amit Khurana Sir's zero-assumption first-principles scaffolding with distilled Ranker's Memory Locks. Approach B: Volatile RAM streaming with 0 questions on disk."
 }
