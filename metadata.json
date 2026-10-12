@@ -1,8 +1,8 @@
 {
   "version": 16,
   "totalQuestions": 2822,
-  "apkSha256": "597F6137AAD6A698742F0EA09C4785B75C201291605827312646C19F8FEAB00A",
-  "apkSizeBytes": 33631280,
+  "apkSha256": "06C247D01497C364E5FA04FE60E5862B82788CEFFF1F25877264FFBF96026CC8",
+  "apkSizeBytes": 34054089,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -38,6 +38,6 @@
     "🗺️ World Regional Geography": 60,
     "📍 Bihar Geography": 2
   },
-  "updatedAt": "2026-10-12T09:38:33Z",
+  "updatedAt": "2026-10-12T09:44:30Z",
   "releaseNotes": "Version 16: Automated Over-The-Air (OTA) In-App APK Updater with FileProvider integration, real-time download streaming, and seamless offline data preservation."
 }
