@@ -1,7 +1,7 @@
 {
   "version": 19,
   "totalQuestions": 3942,
-  "apkSha256": "E8B45B8F5A42A64813303293B8301E18FCC3F5FAF4B8666066F0DCF4D1FDDDBE",
+  "apkSha256": "1E7CA9DAF521029C50E2535EB97E5E67EC517CD447A4D30FDBD646F7387273D0",
   "apkSizeBytes": 33788213,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
@@ -38,7 +38,7 @@
     "🗺️ World Regional Geography": 120,
     "📍 Bihar Geography": 62
   },
-  "updatedAt": "2026-10-12T23:34:13Z",
+  "updatedAt": "2026-10-13T07:03:53Z",
   "releaseNotes": "Version 19.0: Official UPSC Geography Optional Integration & Complete Curriculum Architecture. Expanded to 3,942 MCQs across 30 Comprehensive Chapters. Dedicated '🎓 UPSC Geography Optional' track (Chapters 24-30: Perspectives in Human Geography, Models & Laws, Regional Planning, Cultural Setting, Political Geography, Advanced Geomorphology, and Advanced Ocean Topography & Climatology). Every chapter features gradual 3-tier pedagogical leveling (Basic → Medium → Advanced UPSC Ranker), Amit Khurana Sir's zero-assumption first-principles explanations, Ranker's Memory Locks, and full distractor dissections. Approach B: 100% Volatile RAM streaming with strictly 0 persistent questions in SQLite.",
   "totalTopics": 30
 }
