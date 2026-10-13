@@ -1,8 +1,8 @@
 {
-  "version": 19,
+  "version": 20,
   "totalQuestions": 3942,
-  "apkSha256": "C4158BB083A21614D524EA5D95C9D7DAF833BA43790F273128AECECEC71C8508",
-  "apkSizeBytes": 33788272,
+  "apkSha256": "25D2030F95504AB8B84BD8DA9541CBA10811863751B1493891AEAA52EF0752C5",
+  "apkSizeBytes": 33925646,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -38,7 +38,7 @@
     "🗺️ World Regional Geography": 120,
     "📍 Bihar Geography": 62
   },
-  "updatedAt": "2026-10-13T07:56:00Z",
-  "releaseNotes": "Version 19.1: Introducing '🏔️ Himalayan Summit Rush' Visual Gamified MCQ Engine & Autonomous PackageInstaller OTA Updates. Real-time elevation ascent along the Himalayan transect (500m to 8,848m) with animated surveyor avatar, 35-second dynamic Oxygen Gauge, 12s Oxygen Boost bursts, combo multipliers ('Sherpa Pace'), and Summit Triumph Modal. Plus full 30-chapter UPSC Geography curriculum (3,942 MCQs), Amit Khurana Sir zero-assumption first-principles explanations, and Approach B 100% volatile RAM streaming.",
+  "updatedAt": "2026-10-13T16:45:00Z",
+  "releaseNotes": "Version 20.0: Introducing the revolutionary '🏛️ Mains Answer Architect' & '📐 20s Micro-Diagram Ghost-Trace Engine'. Practice UPSC Geography Mains descriptive answers with official 7m (10M), 11m (15M), and 14m (20M) stopwatches, ⚡ Synapse Cross-Paper Bridges linking Paper 1 theories to Paper 2 Indian reality, 30s P-H-E-S-G brainstorming HUD, Real-Paper Camera Scans, and Infinite Chief Evaluator 5D Rubric Scoring. Plus Himalayan Summit Rush Prelims mode and 30-chapter curriculum.",
   "totalTopics": 30
 }
