@@ -1,8 +1,8 @@
 {
   "version": 19,
   "totalQuestions": 3942,
-  "apkSha256": "BCEC6A3AC9706BB233E0133F5563175C89AEC03A6A8CAB99F8131584F49A97AE",
-  "apkSizeBytes": 33788213,
+  "apkSha256": "C4158BB083A21614D524EA5D95C9D7DAF833BA43790F273128AECECEC71C8508",
+  "apkSizeBytes": 33788272,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -38,7 +38,7 @@
     "🗺️ World Regional Geography": 120,
     "📍 Bihar Geography": 62
   },
-  "updatedAt": "2026-10-13T07:03:53Z",
-  "releaseNotes": "Version 19.0: Official UPSC Geography Optional Integration & Complete Curriculum Architecture. Expanded to 3,942 MCQs across 30 Comprehensive Chapters. Dedicated '🎓 UPSC Geography Optional' track (Chapters 24-30: Perspectives in Human Geography, Models & Laws, Regional Planning, Cultural Setting, Political Geography, Advanced Geomorphology, and Advanced Ocean Topography & Climatology). Every chapter features gradual 3-tier pedagogical leveling (Basic → Medium → Advanced UPSC Ranker), Amit Khurana Sir's zero-assumption first-principles explanations, Ranker's Memory Locks, and full distractor dissections. Approach B: 100% Volatile RAM streaming with strictly 0 persistent questions in SQLite.",
+  "updatedAt": "2026-10-13T07:56:00Z",
+  "releaseNotes": "Version 19.1: Introducing '🏔️ Himalayan Summit Rush' Visual Gamified MCQ Engine & Autonomous PackageInstaller OTA Updates. Real-time elevation ascent along the Himalayan transect (500m to 8,848m) with animated surveyor avatar, 35-second dynamic Oxygen Gauge, 12s Oxygen Boost bursts, combo multipliers ('Sherpa Pace'), and Summit Triumph Modal. Plus full 30-chapter UPSC Geography curriculum (3,942 MCQs), Amit Khurana Sir zero-assumption first-principles explanations, and Approach B 100% volatile RAM streaming.",
   "totalTopics": 30
 }
