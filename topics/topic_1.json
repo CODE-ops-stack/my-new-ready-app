@@ -3125,7 +3125,7 @@
   },
   {
     "id": "q_96b99dca",
-    "stem": "Consider the following statements regarding the Earth's magnetic field:\n1. The geodynamo theory attributes the generation of the Earth's main magnetic field to convective currents of liquid iron in the outer core.\n2. The rotation of the Earth on its axis provides the Coriolis force necessary to organize the fluid motions in the outer core into helical columns.\n3. Paleomagnetic studies indicate that the Earth's magnetic poles have remained fixed in their geographic positions throughout geological history.",
+    "stem": "Consider the following statements regarding the Earth's magnetic field:\n1. The geodynamo theory attributes the generation of the Earth's main magnetic field to convective currents of liquid iron in the outer core.\n2. The rotation of the Earth on its axis provides the Coriolis force necessary to organize the fluid motions in the outer core into helical columns.\n3. Paleomagnetic studies indicate that the Earth's magnetic poles have remained fixed in their geographic positions throughout geological history.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -4758,7 +4758,7 @@
   },
   {
     "id": "q_98b50a54",
-    "stem": "Consider the following statements regarding solar and lunar eclipses:\n1. An eclipse does not occur at every new moon and full moon primarily because the Moon's orbital plane intersects the ecliptic at two specific nodes that regress westward over time.\n2. Total solar eclipses are visible only along a narrow path on Earth's surface because the umbral shadow cone of the Moon tapers to a point that barely reaches or falls short of the Earth's surface.\n3. Hybrid solar eclipses occur exclusively when the Moon is at aphelion, causing the Earth's curvature to transition the eclipse from annular to total.",
+    "stem": "Consider the following statements regarding solar and lunar eclipses:\n1. An eclipse does not occur at every new moon and full moon primarily because the Moon's orbital plane intersects the ecliptic at two specific nodes that regress westward over time.\n2. Total solar eclipses are visible only along a narrow path on Earth's surface because the umbral shadow cone of the Moon tapers to a point that barely reaches or falls short of the Earth's surface.\n3. Hybrid solar eclipses occur exclusively when the Moon is at aphelion, causing the Earth's curvature to transition the eclipse from annular to total.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -5326,7 +5326,7 @@
   },
   {
     "id": "q_af7ec61a",
-    "stem": "Consider the following statements regarding the Coriolis force and its relationship to Earth's rotational dynamics:\n1. The magnitude of the Coriolis force acting on a moving parcel of air is directly proportional to the sine of the latitude and the speed of the moving object.\n2. The Coriolis force does work on moving air parcels, changing their kinetic energy as they are deflected toward the right in the Northern Hemisphere.\n3. The horizontal deflection caused by the Coriolis force is absent at the equator because the vector of Earth's rotational axis is parallel to the horizontal plane at that location.",
+    "stem": "Consider the following statements regarding the Coriolis force and its relationship to Earth's rotational dynamics:\n1. The magnitude of the Coriolis force acting on a moving parcel of air is directly proportional to the sine of the latitude and the speed of the moving object.\n2. The Coriolis force does work on moving air parcels, changing their kinetic energy as they are deflected toward the right in the Northern Hemisphere.\n3. The horizontal deflection caused by the Coriolis force is absent at the equator because the vector of Earth's rotational axis is parallel to the horizontal plane at that location.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -5752,7 +5752,7 @@
   },
   {
     "id": "q_292d3138",
-    "stem": "Consider the following statements regarding the Milankovitch cycles and their impact on Earth's climate:\n1. Precession of the equinoxes alters the timing of perihelion relative to the seasons, modulating the amplitude of seasonal temperature contrasts in both hemispheres.\n2. Changes in the obliquity of the Earth directly alter the total annual volume of solar radiation reaching the entire planet at the top of the atmosphere.\n3. Orbital eccentricity changes the absolute distance between the Earth and the Sun, thereby altering the total global annual insolation received by Earth by up to 20 percent.",
+    "stem": "Consider the following statements regarding the Milankovitch cycles and their impact on Earth's climate:\n1. Precession of the equinoxes alters the timing of perihelion relative to the seasons, modulating the amplitude of seasonal temperature contrasts in both hemispheres.\n2. Changes in the obliquity of the Earth directly alter the total annual volume of solar radiation reaching the entire planet at the top of the atmosphere.\n3. Orbital eccentricity changes the absolute distance between the Earth and the Sun, thereby altering the total global annual insolation received by Earth by up to 20 percent.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -6107,7 +6107,7 @@
   },
   {
     "id": "q_650168fb",
-    "stem": "Consider the following statements regarding the line of apsides and line of nodes of the Earth-Moon system:\n1. The line of apsides of Earth's orbit is stationary in space, anchoring the timing of perihelion to the calendar year indefinitely.\n2. The line of nodes of the Moon's orbit undergoes retrograde precession, completing a full 360-degree rotation approximately every 18.6 years.\n3. Eclipser seasons (saros cycles) are directly regulated by the periodic alignment of the solar position with the moving line of nodes.",
+    "stem": "Consider the following statements regarding the line of apsides and line of nodes of the Earth-Moon system:\n1. The line of apsides of Earth's orbit is stationary in space, anchoring the timing of perihelion to the calendar year indefinitely.\n2. The line of nodes of the Moon's orbit undergoes retrograde precession, completing a full 360-degree rotation approximately every 18.6 years.\n3. Eclipser seasons (saros cycles) are directly regulated by the periodic alignment of the solar position with the moving line of nodes.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -7172,7 +7172,7 @@
   },
   {
     "id": "q_6584f535",
-    "stem": "Consider the following features:\n1. Sun rays are vertical on the Tropic of Capricorn.\n2. Length of the night is longer than the day in the Northern Hemisphere.\n3. The South Pole experiences 24 hours of darkness.\n\nWhich of the following dates corresponds to the features described above?\n\n(a) June 21\n(b) December 22\n(c) March 21\n(d) September 23",
+    "stem": "Consider the following features:\n1. Sun rays are vertical on the Tropic of Capricorn.\n2. Length of the night is longer than the day in the Northern Hemisphere.\n3. The North Pole experiences 24 hours of darkness.\n\nWhich of the following dates corresponds to the features described above?\n\n(a) June 21\n(b) December 22\n(c) March 21\n(d) September 23",
     "options": {
       "opt_a": "June 21",
       "opt_b": "December 22",
@@ -7180,7 +7180,7 @@
       "opt_d": "September 23"
     },
     "correctAnswer": "opt_b",
-    "explanation": "[QA NOTE: Stem has a geographic error — Stem says Dec 22 South Pole has 24h DARKNESS — actually has 24h DAYLIGHT. Stem needs correction to North Pole for darkness.] On December 22 (Winter Solstice in the Northern Hemisphere), the vertical rays of the Sun fall on the Tropic of Capricorn. The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite of the North Pole, which experiences 24 hours of darkness).\n\n💡 RANKER'S MEMORY LOCK: features → The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite ....",
+    "explanation": "On December 22 (Winter Solstice in the Northern Hemisphere), the vertical rays of the Sun fall on the Tropic of Capricorn. The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite of the North Pole, which experiences 24 hours of darkness).\n\n💡 RANKER'S MEMORY LOCK: features → The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite ....",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -8024,7 +8024,7 @@
   },
   {
     "id": "q_4c842426",
-    "stem": "Why does the Southern Hemisphere experience summer when the Earth is at its farthest point from the Sun (Aphelion in early July)?",
+    "stem": "Why does the Northern Hemisphere experience summer even when the Earth is at its farthest point from the Sun (Aphelion in early July)?",
     "options": {
       "opt_a": "Ocean currents in the Southern Hemisphere transport heat more efficiently.",
       "opt_b": "Seasonal temperatures are dictated by the angle of incidence of solar radiation caused by axial tilt rather than variations in Earth-Sun distance.",
@@ -8032,7 +8032,7 @@
       "opt_d": "The Antarctic ice sheet reflects more solar radiation during perihelion."
     },
     "correctAnswer": "opt_b",
-    "explanation": "[QA NOTE: Stem has a geographic error — Stem asserts Southern Hem experiences summer at Aphelion (July) — actually Southern Hem has summer at Aphelion (Jan). Stem premise is confused; needs Northern Hem framing.] Earth's distance from the Sun plays a minor role in seasonal temperature variations compared to the angle of incidence of solar rays and the duration of daylight, both of which are determined by the Earth's axial tilt. Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern Hemisphere is tilted towards the Sun, experiencing summer.\n\n💡 RANKER'S MEMORY LOCK: Universe, Solar System & Motions of the Earth → Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern H....",
+    "explanation": "Earth's distance from the Sun plays a minor role in seasonal temperature variations compared to the angle of incidence of solar rays and the duration of daylight, both of which are determined by the Earth's axial tilt. Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern Hemisphere is tilted towards the Sun, experiencing summer.\n\n💡 RANKER'S MEMORY LOCK: Universe, Solar System & Motions of the Earth → Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern H....",
     "distractorDissections": [
       {
         "optionId": "opt_a",

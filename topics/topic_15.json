@@ -9231,7 +9231,7 @@
   },
   {
     "id": "q_0d6703d8",
-    "stem": "Consider the following statements regarding regional planning approaches in India:\n1. Sectoral planning involves the development of specialized sectors like agriculture, irrigation, and power across the national economy.\n2. Regional planning focuses on the formulation of development strategies for specific geographical regions with unique socioeconomic and physical characteristics.\n3. Target area planning is a subset of sectoral planning aimed at addressing regional imbalances by focusing exclusively on backward states as single homogeneous units.",
+    "stem": "Consider the following statements regarding regional planning approaches in India:\n1. Sectoral planning involves the development of specialized sectors like agriculture, irrigation, and power across the national economy.\n2. Regional planning focuses on the formulation of development strategies for specific geographical regions with unique socioeconomic and physical characteristics.\n3. Target area planning is a subset of sectoral planning aimed at addressing regional imbalances by focusing exclusively on backward states as single homogeneous units.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",

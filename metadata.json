@@ -1,8 +1,8 @@
 {
-  "version": 20,
+  "version": 21,
   "totalQuestions": 3942,
-  "apkSha256": "25D2030F95504AB8B84BD8DA9541CBA10811863751B1493891AEAA52EF0752C5",
-  "apkSizeBytes": 33925646,
+  "apkSha256": "04E8651905494039CA856D8D2F8298D81F19B218D56CE45A0055223C6D20C226",
+  "apkSizeBytes": 34030138,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -36,9 +36,16 @@
     "👥 Population, Migration & Settlements": 124,
     "📈 Human Development & Economic Activities": 103,
     "🗺️ World Regional Geography": 120,
-    "📍 Bihar Geography": 62
+    "📍 Bihar Geography": 62,
+    "🧠 Perspectives in Human Geography (Geographical Thought)": 60,
+    "📐 Models, Theories & Laws in Human Geography": 60,
+    "🗺️ Regional Planning & Regionalisation": 60,
+    "👥 Cultural Setting of India": 60,
+    "🏛️ Political Aspects of Indian Geography": 60,
+    "⛰️ Advanced Geomorphology & Landscape Evolution": 60,
+    "🌊 Advanced Ocean Topography & Climatological Dynamics": 60
   },
-  "updatedAt": "2026-10-13T16:45:00Z",
-  "releaseNotes": "Version 20.0: Introducing the revolutionary '🏛️ Mains Answer Architect' & '📐 20s Micro-Diagram Ghost-Trace Engine'. Practice UPSC Geography Mains descriptive answers with official 7m (10M), 11m (15M), and 14m (20M) stopwatches, ⚡ Synapse Cross-Paper Bridges linking Paper 1 theories to Paper 2 Indian reality, 30s P-H-E-S-G brainstorming HUD, Real-Paper Camera Scans, and Infinite Chief Evaluator 5D Rubric Scoring. Plus Himalayan Summit Rush Prelims mode and 30-chapter curriculum.",
+  "updatedAt": "2026-10-13T17:45:00Z",
+  "releaseNotes": "Version 21.0: 30-Agent Parallel Quality Verification complete across all 3,942 questions. Verified and perfected all stem interrogatives, corrected astronomical aphelion/solstice premise edge-cases, refined spatial sequence terminology, and polished Mains Answer Architect with seamless question cycling navigation and FAANG-grade UI transitions.",
   "totalTopics": 30
 }

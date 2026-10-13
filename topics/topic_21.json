@@ -1492,7 +1492,7 @@
   },
   {
     "id": "q_06594bd4",
-    "stem": "Consider the following statements regarding the approaches to Human Development:\n1. The welfare approach treats human beings as beneficiaries or targets of all developmental activities rather than participants.\n2. The basic needs approach was initially proposed by the International Labour Organisation (ILO), identifying expenditures on health, education, and water supply as paramount.\n3. The capability approach, associated with Professor Amartya Sen, focuses on building human capabilities in health, education, and equal access.",
+    "stem": "Consider the following statements regarding the approaches to Human Development:\n1. The welfare approach treats human beings as beneficiaries or targets of all developmental activities rather than participants.\n2. The basic needs approach was initially proposed by the International Labour Organisation (ILO), identifying expenditures on health, education, and water supply as paramount.\n3. The capability approach, associated with Professor Amartya Sen, focuses on building human capabilities in health, education, and equal access.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -1634,7 +1634,7 @@
   },
   {
     "id": "q_8efa43c0",
-    "stem": "Consider the following statements regarding the Human Development Index (HDI) methodology:\n1. The HDI assigns equal weight of one-third to each of its three dimensions: health, education, and standard of living.\n2. The geometric mean of normalized indices across the three dimensions is used to calculate the final HDI score.\n3. A country with a high GNI per capita automatically secures a very high HDI rank, regardless of educational attainment or life expectancy.",
+    "stem": "Consider the following statements regarding the Human Development Index (HDI) methodology:\n1. The HDI assigns equal weight of one-third to each of its three dimensions: health, education, and standard of living.\n2. The geometric mean of normalized indices across the three dimensions is used to calculate the final HDI score.\n3. A country with a high GNI per capita automatically secures a very high HDI rank, regardless of educational attainment or life expectancy.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",

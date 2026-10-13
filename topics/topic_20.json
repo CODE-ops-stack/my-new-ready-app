@@ -427,7 +427,7 @@
   },
   {
     "id": "q_cbf603bc",
-    "stem": "Consider the following pairs matching demographic indicators with their spatial patterns or definitions:\n1. Sex Ratio: Number of females per thousand males in a population.\n2. Doubling Time: The number of years required for a population to double its size at its current annual natural growth rate.\n3. Human Development Index (HDI): A composite metric incorporating life expectancy, education, and gross national income per capita.",
+    "stem": "Consider the following pairs matching demographic indicators with their spatial patterns or definitions:\n1. Sex Ratio: Number of females per thousand males in a population.\n2. Doubling Time: The number of years required for a population to double its size at its current annual natural growth rate.\n3. Human Development Index (HDI): A composite metric incorporating life expectancy, education, and gross national income per capita.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair is correctly matched",
       "opt_b": "Only two pairs are correctly matched",
@@ -498,7 +498,7 @@
   },
   {
     "id": "q_38035576",
-    "stem": "Consider the following statements regarding the calculation and interpretation of the Dependency Ratio:\n1. The total dependency ratio is the sum of the youth dependency ratio and the old-age dependency ratio.\n2. A declining dependency ratio universally guarantees an immediate economic boom without corresponding investments in human capital.\n3. Nations with high human immunodeficiency virus (HIV) burdens often experience distorted dependency structures with missing middle-aged working cohorts.",
+    "stem": "Consider the following statements regarding the calculation and interpretation of the Dependency Ratio:\n1. The total dependency ratio is the sum of the youth dependency ratio and the old-age dependency ratio.\n2. A declining dependency ratio universally guarantees an immediate economic boom without corresponding investments in human capital.\n3. Nations with high human immunodeficiency virus (HIV) burdens often experience distorted dependency structures with missing middle-aged working cohorts.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -640,7 +640,7 @@
   },
   {
     "id": "q_6583bccb",
-    "stem": "Consider the following pairs regarding Demographic Transition Theory stages and their characteristics:\n1. Stage 1: High birth rate and high death rate; population growth is slow.\n2. Stage 2: Declining death rate while birth rate remains high; rapid population growth.\n3. Stage 3: Declining birth rate and low death rate; population size stabilizes.\n4. Stage 4: Low birth rate and low death rate; population growth approaches zero or becomes negative.",
+    "stem": "Consider the following pairs regarding Demographic Transition Theory stages and their characteristics:\n1. Stage 1: High birth rate and high death rate; population growth is slow.\n2. Stage 2: Declining death rate while birth rate remains high; rapid population growth.\n3. Stage 3: Declining birth rate and low death rate; population size stabilizes.\n4. Stage 4: Low birth rate and low death rate; population growth approaches zero or becomes negative.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only two pairs are correctly matched",
       "opt_b": "Only three pairs are correctly matched",
@@ -995,7 +995,7 @@
   },
   {
     "id": "q_afe56ac7",
-    "stem": "Consider the following statements regarding literacy rates and their socio-economic correlations:\n1. Regional disparities in literacy rates in India are heavily influenced by historical access to missionary and state-sponsored vernacular schooling.\n2. Female literacy exhibits a strong inverse correlation with infant mortality rates and total fertility rates.\n3. The Census of India defines the literacy rate for the entire total population including infants.",
+    "stem": "Consider the following statements regarding literacy rates and their socio-economic correlations:\n1. Regional disparities in literacy rates in India are heavily influenced by historical access to missionary and state-sponsored vernacular schooling.\n2. Female literacy exhibits a strong inverse correlation with infant mortality rates and total fertility rates.\n3. The Census of India defines the literacy rate for the entire total population including infants.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -3693,7 +3693,7 @@
   },
   {
     "id": "q_40ff27cd",
-    "stem": "Consider the following statements regarding internal migration patterns in India based on Census data:\n1. Rural to rural migration constitutes the largest share of internal migration streams in India.\n2. Marriage is the dominant reason for migration among females, whereas work and employment are the primary reasons for migration among males.\n3. Female migration streams in India are predominantly rural-to-urban due to the expansion of industrial corridors.",
+    "stem": "Consider the following statements regarding internal migration patterns in India based on Census data:\n1. Rural to rural migration constitutes the largest share of internal migration streams in India.\n2. Marriage is the dominant reason for migration among females, whereas work and employment are the primary reasons for migration among males.\n3. Female migration streams in India are predominantly rural-to-urban due to the expansion of industrial corridors.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",

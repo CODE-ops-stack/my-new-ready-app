@@ -3125,7 +3125,7 @@
   },
   {
     "id": "q_96b99dca",
-    "stem": "Consider the following statements regarding the Earth's magnetic field:\n1. The geodynamo theory attributes the generation of the Earth's main magnetic field to convective currents of liquid iron in the outer core.\n2. The rotation of the Earth on its axis provides the Coriolis force necessary to organize the fluid motions in the outer core into helical columns.\n3. Paleomagnetic studies indicate that the Earth's magnetic poles have remained fixed in their geographic positions throughout geological history.",
+    "stem": "Consider the following statements regarding the Earth's magnetic field:\n1. The geodynamo theory attributes the generation of the Earth's main magnetic field to convective currents of liquid iron in the outer core.\n2. The rotation of the Earth on its axis provides the Coriolis force necessary to organize the fluid motions in the outer core into helical columns.\n3. Paleomagnetic studies indicate that the Earth's magnetic poles have remained fixed in their geographic positions throughout geological history.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -4758,7 +4758,7 @@
   },
   {
     "id": "q_98b50a54",
-    "stem": "Consider the following statements regarding solar and lunar eclipses:\n1. An eclipse does not occur at every new moon and full moon primarily because the Moon's orbital plane intersects the ecliptic at two specific nodes that regress westward over time.\n2. Total solar eclipses are visible only along a narrow path on Earth's surface because the umbral shadow cone of the Moon tapers to a point that barely reaches or falls short of the Earth's surface.\n3. Hybrid solar eclipses occur exclusively when the Moon is at aphelion, causing the Earth's curvature to transition the eclipse from annular to total.",
+    "stem": "Consider the following statements regarding solar and lunar eclipses:\n1. An eclipse does not occur at every new moon and full moon primarily because the Moon's orbital plane intersects the ecliptic at two specific nodes that regress westward over time.\n2. Total solar eclipses are visible only along a narrow path on Earth's surface because the umbral shadow cone of the Moon tapers to a point that barely reaches or falls short of the Earth's surface.\n3. Hybrid solar eclipses occur exclusively when the Moon is at aphelion, causing the Earth's curvature to transition the eclipse from annular to total.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -5326,7 +5326,7 @@
   },
   {
     "id": "q_af7ec61a",
-    "stem": "Consider the following statements regarding the Coriolis force and its relationship to Earth's rotational dynamics:\n1. The magnitude of the Coriolis force acting on a moving parcel of air is directly proportional to the sine of the latitude and the speed of the moving object.\n2. The Coriolis force does work on moving air parcels, changing their kinetic energy as they are deflected toward the right in the Northern Hemisphere.\n3. The horizontal deflection caused by the Coriolis force is absent at the equator because the vector of Earth's rotational axis is parallel to the horizontal plane at that location.",
+    "stem": "Consider the following statements regarding the Coriolis force and its relationship to Earth's rotational dynamics:\n1. The magnitude of the Coriolis force acting on a moving parcel of air is directly proportional to the sine of the latitude and the speed of the moving object.\n2. The Coriolis force does work on moving air parcels, changing their kinetic energy as they are deflected toward the right in the Northern Hemisphere.\n3. The horizontal deflection caused by the Coriolis force is absent at the equator because the vector of Earth's rotational axis is parallel to the horizontal plane at that location.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -5752,7 +5752,7 @@
   },
   {
     "id": "q_292d3138",
-    "stem": "Consider the following statements regarding the Milankovitch cycles and their impact on Earth's climate:\n1. Precession of the equinoxes alters the timing of perihelion relative to the seasons, modulating the amplitude of seasonal temperature contrasts in both hemispheres.\n2. Changes in the obliquity of the Earth directly alter the total annual volume of solar radiation reaching the entire planet at the top of the atmosphere.\n3. Orbital eccentricity changes the absolute distance between the Earth and the Sun, thereby altering the total global annual insolation received by Earth by up to 20 percent.",
+    "stem": "Consider the following statements regarding the Milankovitch cycles and their impact on Earth's climate:\n1. Precession of the equinoxes alters the timing of perihelion relative to the seasons, modulating the amplitude of seasonal temperature contrasts in both hemispheres.\n2. Changes in the obliquity of the Earth directly alter the total annual volume of solar radiation reaching the entire planet at the top of the atmosphere.\n3. Orbital eccentricity changes the absolute distance between the Earth and the Sun, thereby altering the total global annual insolation received by Earth by up to 20 percent.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -6107,7 +6107,7 @@
   },
   {
     "id": "q_650168fb",
-    "stem": "Consider the following statements regarding the line of apsides and line of nodes of the Earth-Moon system:\n1. The line of apsides of Earth's orbit is stationary in space, anchoring the timing of perihelion to the calendar year indefinitely.\n2. The line of nodes of the Moon's orbit undergoes retrograde precession, completing a full 360-degree rotation approximately every 18.6 years.\n3. Eclipser seasons (saros cycles) are directly regulated by the periodic alignment of the solar position with the moving line of nodes.",
+    "stem": "Consider the following statements regarding the line of apsides and line of nodes of the Earth-Moon system:\n1. The line of apsides of Earth's orbit is stationary in space, anchoring the timing of perihelion to the calendar year indefinitely.\n2. The line of nodes of the Moon's orbit undergoes retrograde precession, completing a full 360-degree rotation approximately every 18.6 years.\n3. Eclipser seasons (saros cycles) are directly regulated by the periodic alignment of the solar position with the moving line of nodes.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -7172,7 +7172,7 @@
   },
   {
     "id": "q_6584f535",
-    "stem": "Consider the following features:\n1. Sun rays are vertical on the Tropic of Capricorn.\n2. Length of the night is longer than the day in the Northern Hemisphere.\n3. The South Pole experiences 24 hours of darkness.\n\nWhich of the following dates corresponds to the features described above?\n\n(a) June 21\n(b) December 22\n(c) March 21\n(d) September 23",
+    "stem": "Consider the following features:\n1. Sun rays are vertical on the Tropic of Capricorn.\n2. Length of the night is longer than the day in the Northern Hemisphere.\n3. The North Pole experiences 24 hours of darkness.\n\nWhich of the following dates corresponds to the features described above?\n\n(a) June 21\n(b) December 22\n(c) March 21\n(d) September 23",
     "options": {
       "opt_a": "June 21",
       "opt_b": "December 22",
@@ -7180,7 +7180,7 @@
       "opt_d": "September 23"
     },
     "correctAnswer": "opt_b",
-    "explanation": "[QA NOTE: Stem has a geographic error — Stem says Dec 22 South Pole has 24h DARKNESS — actually has 24h DAYLIGHT. Stem needs correction to North Pole for darkness.] On December 22 (Winter Solstice in the Northern Hemisphere), the vertical rays of the Sun fall on the Tropic of Capricorn. The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite of the North Pole, which experiences 24 hours of darkness).\n\n💡 RANKER'S MEMORY LOCK: features → The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite ....",
+    "explanation": "On December 22 (Winter Solstice in the Northern Hemisphere), the vertical rays of the Sun fall on the Tropic of Capricorn. The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite of the North Pole, which experiences 24 hours of darkness).\n\n💡 RANKER'S MEMORY LOCK: features → The Northern Hemisphere experiences its longest nights and shortest days, while the South Pole experiences continuous daylight (opposite ....",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -8024,7 +8024,7 @@
   },
   {
     "id": "q_4c842426",
-    "stem": "Why does the Southern Hemisphere experience summer when the Earth is at its farthest point from the Sun (Aphelion in early July)?",
+    "stem": "Why does the Northern Hemisphere experience summer even when the Earth is at its farthest point from the Sun (Aphelion in early July)?",
     "options": {
       "opt_a": "Ocean currents in the Southern Hemisphere transport heat more efficiently.",
       "opt_b": "Seasonal temperatures are dictated by the angle of incidence of solar radiation caused by axial tilt rather than variations in Earth-Sun distance.",
@@ -8032,7 +8032,7 @@
       "opt_d": "The Antarctic ice sheet reflects more solar radiation during perihelion."
     },
     "correctAnswer": "opt_b",
-    "explanation": "[QA NOTE: Stem has a geographic error — Stem asserts Southern Hem experiences summer at Aphelion (July) — actually Southern Hem has summer at Aphelion (Jan). Stem premise is confused; needs Northern Hem framing.] Earth's distance from the Sun plays a minor role in seasonal temperature variations compared to the angle of incidence of solar rays and the duration of daylight, both of which are determined by the Earth's axial tilt. Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern Hemisphere is tilted towards the Sun, experiencing summer.\n\n💡 RANKER'S MEMORY LOCK: Universe, Solar System & Motions of the Earth → Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern H....",
+    "explanation": "Earth's distance from the Sun plays a minor role in seasonal temperature variations compared to the angle of incidence of solar rays and the duration of daylight, both of which are determined by the Earth's axial tilt. Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern Hemisphere is tilted towards the Sun, experiencing summer.\n\n💡 RANKER'S MEMORY LOCK: Universe, Solar System & Motions of the Earth → Although the Earth is at aphelion in July, the Southern Hemisphere is tilted away from the Sun, resulting in winter, while the Northern H....",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -16028,7 +16028,7 @@
   },
   {
     "id": "q_180b3681",
-    "stem": "Consider the following statements:\n1. The Torrid Zone experiences tropical conditions because the midday sun is exactly overhead on at least one day a year across all latitudes within this zone.\n2. The Temperate Zones experience moderate temperatures because the sun rays within these zones are never directly overhead.",
+    "stem": "Consider the following statements:\n1. The Torrid Zone experiences tropical conditions because the midday sun is exactly overhead on at least one day a year across all latitudes within this zone.\n2. The Temperate Zones experience moderate temperatures because the sun rays within these zones are never directly overhead.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "Only 1",
       "opt_b": "Only 2",
@@ -16312,7 +16312,7 @@
   },
   {
     "id": "q_fbe8e024",
-    "stem": "Consider the following statements regarding the parallels of latitude:\n1. The distance between any two consecutive parallels of latitude is approximately 111 km everywhere on the Earth's surface.\n2. All parallels of latitude are great circles that divide the Earth into two equal halves.\n3. The size of the parallels of latitude decreases progressively as we move from the Equator towards the poles.",
+    "stem": "Consider the following statements regarding the parallels of latitude:\n1. The distance between any two consecutive parallels of latitude is approximately 111 km everywhere on the Earth's surface.\n2. All parallels of latitude are great circles that divide the Earth into two equal halves.\n3. The size of the parallels of latitude decreases progressively as we move from the Equator towards the poles.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -16383,7 +16383,7 @@
   },
   {
     "id": "q_eb0ea264",
-    "stem": "Consider the following statements regarding the Prime Meridian:\n1. It passes through Greenwich, near London, and is designated as 0° longitude.\n2. It divides the Earth into the Northern and Southern hemispheres.\n3. Local time at the Prime Meridian is adopted as the Standard Meridian time for all countries globally.",
+    "stem": "Consider the following statements regarding the Prime Meridian:\n1. It passes through Greenwich, near London, and is designated as 0° longitude.\n2. It divides the Earth into the Northern and Southern hemispheres.\n3. Local time at the Prime Meridian is adopted as the Standard Meridian time for all countries globally.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -36689,7 +36689,7 @@
   },
   {
     "id": "q_cfb53789",
-    "stem": "Consider the following statements regarding seismic wave propagation through the Earth's interior:\n1. P-waves (Primary waves) are longitudinal compression waves that can travel through both solid and liquid layers.\n2. The abrupt refraction of P-waves and S-waves at boundaries between different layers is caused by changes in density and elastic moduli.\n3. The inner core causes a complete shadow zone for P-waves across the entire globe.",
+    "stem": "Consider the following statements regarding seismic wave propagation through the Earth's interior:\n1. P-waves (Primary waves) are longitudinal compression waves that can travel through both solid and liquid layers.\n2. The abrupt refraction of P-waves and S-waves at boundaries between different layers is caused by changes in density and elastic moduli.\n3. The inner core causes a complete shadow zone for P-waves across the entire globe.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -37186,7 +37186,7 @@
   },
   {
     "id": "q_36abc504",
-    "stem": "Consider the following statements regarding the seismic discontinuities within the Earth's interior:\n1. The Conrad discontinuity separates the upper continental crust from the lower continental crust.\n2. The Repetti discontinuity marks the transition zone between the upper mantle and the lower mantle.\n3. The Gutenberg discontinuity is situated at the boundary between the inner core and the outer core.",
+    "stem": "Consider the following statements regarding the seismic discontinuities within the Earth's interior:\n1. The Conrad discontinuity separates the upper continental crust from the lower continental crust.\n2. The Repetti discontinuity marks the transition zone between the upper mantle and the lower mantle.\n3. The Gutenberg discontinuity is situated at the boundary between the inner core and the outer core.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -37328,7 +37328,7 @@
   },
   {
     "id": "q_9cbf1a92",
-    "stem": "Consider the following statements regarding the Earth's mantle:\n1. The mantle accounts for the vast majority of the Earth's total volume.\n2. The lower mantle, also known as the mesosphere, is chemically distinct and completely rigid, preventing any convective heat transfer.\n3. Seismic wave velocities generally increase with depth as they travel through the mantle.",
+    "stem": "Consider the following statements regarding the Earth's mantle:\n1. The mantle accounts for the vast majority of the Earth's total volume.\n2. The lower mantle, also known as the mesosphere, is chemically distinct and completely rigid, preventing any convective heat transfer.\n3. Seismic wave velocities generally increase with depth as they travel through the mantle.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -37754,7 +37754,7 @@
   },
   {
     "id": "q_b49ebc75",
-    "stem": "Consider the following statements regarding the Earth's crust:\n1. The oceanic crust is denser and composed predominantly of silica and magnesium (SIMA).\n2. The continental crust has a granitic composition and is rich in silica and aluminium (SIAL).\n3. The average thickness of the continental crust is significantly greater than that of the oceanic crust.",
+    "stem": "Consider the following statements regarding the Earth's crust:\n1. The oceanic crust is denser and composed predominantly of silica and magnesium (SIMA).\n2. The continental crust has a granitic composition and is rich in silica and aluminium (SIAL).\n3. The average thickness of the continental crust is significantly greater than that of the oceanic crust.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -39813,7 +39813,7 @@
   },
   {
     "id": "q_8b498372",
-    "stem": "Consider the following statements about the Central Highlands:\n1. They are bounded by the Aravali range on the west and the Satpura range on the south.\n2. The general slope of the Central Highlands is from south to north, as indicated by the flow of rivers like Chambal, Sindh, Betwa, and Ken.\n3. The Malwa Plateau forms the major portion of the Central Highlands.",
+    "stem": "Consider the following statements about the Central Highlands:\n1. They are bounded by the Aravali range on the west and the Satpura range on the south.\n2. The general slope of the Central Highlands is from south to north, as indicated by the flow of rivers like Chambal, Sindh, Betwa, and Ken.\n3. The Malwa Plateau forms the major portion of the Central Highlands.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -43079,7 +43079,7 @@
   },
   {
     "id": "q_f9a3beff",
-    "stem": "Consider the following statements regarding 'rat-hole' mining:\n1. It is a large-scale mechanized surface mining technique prevalent in the plateau regions of Central India.\n2. In Meghalaya, particularly in the Jaintia Hills and Jowai areas, it involves digging very small horizontal or vertical tunnels to extract coal.\n3. The practice has been associated with severe environmental hazards such as acid mine drainage and the contamination of nearby water bodies.",
+    "stem": "Consider the following statements regarding 'rat-hole' mining:\n1. It is a large-scale mechanized surface mining technique prevalent in the plateau regions of Central India.\n2. In Meghalaya, particularly in the Jaintia Hills and Jowai areas, it involves digging very small horizontal or vertical tunnels to extract coal.\n3. The practice has been associated with severe environmental hazards such as acid mine drainage and the contamination of nearby water bodies.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -43221,7 +43221,7 @@
   },
   {
     "id": "q_cafc34ed",
-    "stem": "With reference to the geological occurrence and properties of iron ores in India, consider the following statements:\n1. Hematite ore occurs extensively in the Dharwar rock system of peninsular India.\n2. Limonite is an inferior hydrated iron oxide ore that is yellowish or earthy brown in appearance.\n3. The highest reserves of magnetite are located in the state of Jharkhand.",
+    "stem": "With reference to the geological occurrence and properties of iron ores in India, consider the following statements:\n1. Hematite ore occurs extensively in the Dharwar rock system of peninsular India.\n2. Limonite is an inferior hydrated iron oxide ore that is yellowish or earthy brown in appearance.\n3. The highest reserves of magnetite are located in the state of Jharkhand.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -59906,7 +59906,7 @@
   },
   {
     "id": "q_125e5f11",
-    "stem": "With reference to the Bharmaur tribal region and the Gaddi tribal community, consider the following statements:\n1. The Bharmaur region lies in the Chamba district of Himachal Pradesh and experiences harsh climatic conditions and fragile mountain ecosystems.\n2. Historically, the Gaddis practiced transhumance, migrating to low-altitude valleys in winter and high pastures in summer.\n3. The introduction of the Tribal Sub-Plan in the 1970s marked a major shift towards the socio-economic development of this region, focusing heavily on infrastructure development such as transport, communication, and schools.",
+    "stem": "With reference to the Bharmaur tribal region and the Gaddi tribal community, consider the following statements:\n1. The Bharmaur region lies in the Chamba district of Himachal Pradesh and experiences harsh climatic conditions and fragile mountain ecosystems.\n2. Historically, the Gaddis practiced transhumance, migrating to low-altitude valleys in winter and high pastures in summer.\n3. The introduction of the Tribal Sub-Plan in the 1970s marked a major shift towards the socio-economic development of this region, focusing heavily on infrastructure development such as transport, communication, and schools.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -91841,7 +91841,7 @@
   },
   {
     "id": "q_1685ca67",
-    "stem": "With reference to tidal friction and its long-term mechanical impact on the Earth-Moon system, consider the following statements:\n1. Tidal friction caused by gravitational interaction transfers angular momentum from the Earth's rotation to the Moon's orbital motion.\n2. The progressive deceleration of Earth's rotational speed leads to a continuous increase in the length of the solar day over geological time scales.\n3. The recession of the Moon from Earth will theoretically continue indefinitely until Earth becomes tidally locked with the Moon, irrespective of the Sun's evolutionary lifecycle.",
+    "stem": "With reference to tidal friction and its long-term mechanical impact on the Earth-Moon system, consider the following statements:\n1. Tidal friction caused by gravitational interaction transfers angular momentum from the Earth's rotation to the Moon's orbital motion.\n2. The progressive deceleration of Earth's rotational speed leads to a continuous increase in the length of the solar day over geological time scales.\n3. The recession of the Moon from Earth will theoretically continue indefinitely until Earth becomes tidally locked with the Moon, irrespective of the Sun's evolutionary lifecycle.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -104571,7 +104571,7 @@
   },
   {
     "id": "q_559b3ff1",
-    "stem": "Consider the following statements regarding the strategic and geographical significance of India's location:\n1. The Indian peninsula projecting into the Indian Ocean provides central linkage between West Asia, East Asia, and Africa.\n2. The trans-Indian Ocean routes which connect European countries in the West and countries of East Asia provide a strategic central hub position to India.\n3. The northern mountain ranges act as an impenetrable barrier that completely prevents the movement of cold polar winds into the subcontinent during winter.",
+    "stem": "Consider the following statements regarding the strategic and geographical significance of India's location:\n1. The Indian peninsula projecting into the Indian Ocean provides central linkage between West Asia, East Asia, and Africa.\n2. The trans-Indian Ocean routes which connect European countries in the West and countries of East Asia provide a strategic central hub position to India.\n3. The northern mountain ranges act as an impenetrable barrier that completely prevents the movement of cold polar winds into the subcontinent during winter.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -121824,7 +121824,7 @@
   },
   {
     "id": "q_c4ebaaab",
-    "stem": "Consider the following geographic divisions of the Western Coastal Plain from North to South:\n1. Konkan Coast\n2. Malabar Coast\n3. Kannada (Karnataka) Coast\nThe correct chronological order of these coasts from North to South is:",
+    "stem": "Consider the following geographic divisions of the Western Coastal Plain from North to South:\n1. Konkan Coast\n2. Malabar Coast\n3. Kannada (Karnataka) Coast\nThe correct spatial sequence of these coasts from North to South is:\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 - 3 - 2",
       "opt_b": "3 - 1 - 2",
@@ -125942,7 +125942,7 @@
   },
   {
     "id": "q_5b602a77",
-    "stem": "Consider the following statements regarding the physical and chemical properties of Arid and Desert soils in India:\n1. They lack nitrogen and possess a very low percentage of soluble salts.\n2. Phosphate content in these soils is generally normal to high.\n3. Nitrogen is deficient, but available plant nutrients can be unlocked rapidly upon the introduction of regulated irrigation.",
+    "stem": "Consider the following statements regarding the physical and chemical properties of Arid and Desert soils in India:\n1. They lack nitrogen and possess a very low percentage of soluble salts.\n2. Phosphate content in these soils is generally normal to high.\n3. Nitrogen is deficient, but available plant nutrients can be unlocked rapidly upon the introduction of regulated irrigation.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -137586,7 +137586,7 @@
   },
   {
     "id": "q_624857f6",
-    "stem": "Consider the following statements about High-Technology (High-Tech) manufacturing and Technopolis:\n1. Technopolis refers to high-tech industrial regions that are self-contained and internationally competitive, often developing around major research universities.\n2. Silicon Valley in California is a classic archetype of a technopolis, characterized by professional white-collar workers outnumbering blue-collar assembly line workers.\n3. High-tech industries require vast quantities of heavy raw materials, making proximity to deep-water ports mandatory for their survival.",
+    "stem": "Consider the following statements about High-Technology (High-Tech) manufacturing and Technopolis:\n1. Technopolis refers to high-tech industrial regions that are self-contained and internationally competitive, often developing around major research universities.\n2. Silicon Valley in California is a classic archetype of a technopolis, characterized by professional white-collar workers outnumbering blue-collar assembly line workers.\n3. High-tech industries require vast quantities of heavy raw materials, making proximity to deep-water ports mandatory for their survival.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -141065,7 +141065,7 @@
   },
   {
     "id": "q_7a39e917",
-    "stem": "Consider the following statements regarding the Godavari River system:\n1. It is the largest river system in peninsular India and is often referred to as 'Dakshin Ganga'.\n2. Its principal tributaries include the Penganga, Indravati, Pranhita, and Sabari.\n3. The river empties into the Arabian Sea through a massive delta system near Valsad in Gujarat.",
+    "stem": "Consider the following statements regarding the Godavari River system:\n1. It is the largest river system in peninsular India and is often referred to as 'Dakshin Ganga'.\n2. Its principal tributaries include the Penganga, Indravati, Pranhita, and Sabari.\n3. The river empties into the Arabian Sea through a massive delta system near Valsad in Gujarat.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -141988,7 +141988,7 @@
   },
   {
     "id": "q_9b18d64e",
-    "stem": "Consider the following river systems and their structural or tectonic origins:\n1. Indus, Sutlej, and Brahmaputra rivers are classic examples of antecedent drainage.\n2. The drainage pattern exhibited by rivers in regions of dome-like structures or volcanic cones is radial.\n3. Trellis drainage patterns develop where hard and soft rocks exist parallel to each other, and primary tributaries flow along valleys.",
+    "stem": "Consider the following river systems and their structural or tectonic origins:\n1. Indus, Sutlej, and Brahmaputra rivers are classic examples of antecedent drainage.\n2. The drainage pattern exhibited by rivers in regions of dome-like structures or volcanic cones is radial.\n3. Trellis drainage patterns develop where hard and soft rocks exist parallel to each other, and primary tributaries flow along valleys.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -153429,7 +153429,7 @@
   },
   {
     "id": "q_f372848d",
-    "stem": "Consider the following statements regarding the geographical requirements of Sugarcane cultivation in India:\n1. It is a tropical and subtropical crop requiring a hot and humid climate.\n2. It grows well in areas receiving annual rainfall between 75 cm and 100 cm, supplemented by artificial irrigation.\n3. It can be successfully grown on any soil type, including waterlogged and highly acidic soils, without affecting sucrose content.",
+    "stem": "Consider the following statements regarding the geographical requirements of Sugarcane cultivation in India:\n1. It is a tropical and subtropical crop requiring a hot and humid climate.\n2. It grows well in areas receiving annual rainfall between 75 cm and 100 cm, supplemented by artificial irrigation.\n3. It can be successfully grown on any soil type, including waterlogged and highly acidic soils, without affecting sucrose content.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -155843,7 +155843,7 @@
   },
   {
     "id": "q_96fe8694",
-    "stem": "Consider the following statements regarding the formation and characteristics of Laterite soils in India:\n1. They develop in areas characterized by high temperatures and heavy rainfall with alternate wet and dry periods.\n2. Intense leaching removes silica and lime, leaving the soil rich in oxides of iron and aluminium.\n3. These soils are inherently fertile and require minimal chemical fertilizers for the continuous cultivation of cereal crops.",
+    "stem": "Consider the following statements regarding the formation and characteristics of Laterite soils in India:\n1. They develop in areas characterized by high temperatures and heavy rainfall with alternate wet and dry periods.\n2. Intense leaching removes silica and lime, leaving the soil rich in oxides of iron and aluminium.\n3. These soils are inherently fertile and require minimal chemical fertilizers for the continuous cultivation of cereal crops.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -155914,7 +155914,7 @@
   },
   {
     "id": "q_8f0ead52",
-    "stem": "Consider the following pairs regarding soil conservation practices and their primary operational mechanisms:\n1. Contour Bunding: Building earthen ridges along contours to trap runoff and reduce slope length.\n2. Terracing: Cutting step-like flat fields out of steep hill slopes to minimize velocity of runoff.\n3. Mulching: Application of synthetic chemical polymers to bind loose sand particles in arid zones.",
+    "stem": "Consider the following pairs regarding soil conservation practices and their primary operational mechanisms:\n1. Contour Bunding: Building earthen ridges along contours to trap runoff and reduce slope length.\n2. Terracing: Cutting step-like flat fields out of steep hill slopes to minimize velocity of runoff.\n3. Mulching: Application of synthetic chemical polymers to bind loose sand particles in arid zones.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
       "opt_b": "Only two pairs",
@@ -156127,7 +156127,7 @@
   },
   {
     "id": "q_c9afd7f2",
-    "stem": "Consider the following statements regarding Laterite soils in the Indian subcontinent:\n1. They are prominently developed over the Deccan trap, Rajmahal hills, and parts of the Eastern Ghats.\n2. Due to their high clay content and moisture retention capacity, they are the prime soils for wheat cultivation in peninsular India.\n3. Laterite formations are often quarried to obtain building blocks used in tropical rural architecture.",
+    "stem": "Consider the following statements regarding Laterite soils in the Indian subcontinent:\n1. They are prominently developed over the Deccan trap, Rajmahal hills, and parts of the Eastern Ghats.\n2. Due to their high clay content and moisture retention capacity, they are the prime soils for wheat cultivation in peninsular India.\n3. Laterite formations are often quarried to obtain building blocks used in tropical rural architecture.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
       "opt_b": "1 and 3 only",
@@ -156624,7 +156624,7 @@
   },
   {
     "id": "q_4871afe3",
-    "stem": "Consider the following pairs regarding problematic Indian soils and their defining chemical attributes:\n1. Saline Soils: High proportion of sodium, potassium, and magnesium; infertile due to excessive salts.\n2. Arid Soils: High organic matter content with rapid accumulation of calcium carbonate.\n3. Peaty Soils: Heavy accumulation of organic matter due to waterlogging in areas of heavy rainfall.",
+    "stem": "Consider the following pairs regarding problematic Indian soils and their defining chemical attributes:\n1. Saline Soils: High proportion of sodium, potassium, and magnesium; infertile due to excessive salts.\n2. Arid Soils: High organic matter content with rapid accumulation of calcium carbonate.\n3. Peaty Soils: Heavy accumulation of organic matter due to waterlogging in areas of heavy rainfall.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
       "opt_b": "Only two pairs",
@@ -157334,7 +157334,7 @@
   },
   {
     "id": "q_40765c66",
-    "stem": "Consider the following statements about Peaty and Marshy soils in India:\n1. They are commonly found in the Kottayam and Alappuzha districts of Kerala, known as 'Kari' lands.\n2. These soils are typically alkaline in reaction and lack adequate vegetation cover.\n3. They turn submerged and acquire a dark color due to the heavy accumulation of partially decomposed organic debris.",
+    "stem": "Consider the following statements about Peaty and Marshy soils in India:\n1. They are commonly found in the Kottayam and Alappuzha districts of Kerala, known as 'Kari' lands.\n2. These soils are typically alkaline in reaction and lack adequate vegetation cover.\n3. They turn submerged and acquire a dark color due to the heavy accumulation of partially decomposed organic debris.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -179983,7 +179983,7 @@
   },
   {
     "id": "q_0d6703d8",
-    "stem": "Consider the following statements regarding regional planning approaches in India:\n1. Sectoral planning involves the development of specialized sectors like agriculture, irrigation, and power across the national economy.\n2. Regional planning focuses on the formulation of development strategies for specific geographical regions with unique socioeconomic and physical characteristics.\n3. Target area planning is a subset of sectoral planning aimed at addressing regional imbalances by focusing exclusively on backward states as single homogeneous units.",
+    "stem": "Consider the following statements regarding regional planning approaches in India:\n1. Sectoral planning involves the development of specialized sectors like agriculture, irrigation, and power across the national economy.\n2. Regional planning focuses on the formulation of development strategies for specific geographical regions with unique socioeconomic and physical characteristics.\n3. Target area planning is a subset of sectoral planning aimed at addressing regional imbalances by focusing exclusively on backward states as single homogeneous units.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -185592,7 +185592,7 @@
   },
   {
     "id": "q_a301c2cf",
-    "stem": "Consider the following impacts of the Indira Gandhi Canal project on the socio-economic profile of the region:\n1. Substantial increase in the production of crops such as wheat and cotton due to assured irrigation.\n2. Transformation of the traditional nomadic pastoral economy towards sedentary commercial agriculture.\n3. In-migration of agricultural laborers and farmers from neighboring states like Punjab and Haryana.",
+    "stem": "Consider the following impacts of the Indira Gandhi Canal project on the socio-economic profile of the region:\n1. Substantial increase in the production of crops such as wheat and cotton due to assured irrigation.\n2. Transformation of the traditional nomadic pastoral economy towards sedentary commercial agriculture.\n3. In-migration of agricultural laborers and farmers from neighboring states like Punjab and Haryana.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -197307,7 +197307,7 @@
   },
   {
     "id": "q_ef893d16",
-    "stem": "Consider the following statements regarding the structural distribution of metallic minerals in peninsular India:\n1. The Dharwar rock system hosts the majority of metallic mineral resources such as iron ore, manganese, and copper.\n2. The Gondwana rock system contains the highest reserves of non-ferrous metallic minerals in India.\n3. The Vindhyan rock system is primarily known for building stones and limestone rather than large metallic ore deposits.",
+    "stem": "Consider the following statements regarding the structural distribution of metallic minerals in peninsular India:\n1. The Dharwar rock system hosts the majority of metallic mineral resources such as iron ore, manganese, and copper.\n2. The Gondwana rock system contains the highest reserves of non-ferrous metallic minerals in India.\n3. The Vindhyan rock system is primarily known for building stones and limestone rather than large metallic ore deposits.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -197378,7 +197378,7 @@
   },
   {
     "id": "q_e586824a",
-    "stem": "Consider the following statements regarding the geographical distribution of Mica in India:\n1. The Koderma-Gaya-Hazaribagh belt is situated along the northern edge of the Chota Nagpur plateau and produces high-grade ruby mica.\n2. In Andhra Pradesh, the Nellore mica belt is well-known for the production of green mica.\n3. The mica-bearing pegmatites of Rajasthan are predominantly distributed along the Aravalli range, with significant deposits in Ajmer.",
+    "stem": "Consider the following statements regarding the geographical distribution of Mica in India:\n1. The Koderma-Gaya-Hazaribagh belt is situated along the northern edge of the Chota Nagpur plateau and produces high-grade ruby mica.\n2. In Andhra Pradesh, the Nellore mica belt is well-known for the production of green mica.\n3. The mica-bearing pegmatites of Rajasthan are predominantly distributed along the Aravalli range, with significant deposits in Ajmer.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -197946,7 +197946,7 @@
   },
   {
     "id": "q_750b0702",
-    "stem": "Consider the following statements regarding the physical and chemical properties of Mica:\n1. It has a hexagonal crystal system characterized by weak intermolecular bonding along the basal planes.\n2. It possesses high dielectric strength and excellent insulating properties, making it indispensable in electrical and electronics industries.\n3. It is thermally stable and can withstand high temperatures without losing its structural integrity.",
+    "stem": "Consider the following statements regarding the physical and chemical properties of Mica:\n1. It has a hexagonal crystal system characterized by weak intermolecular bonding along the basal planes.\n2. It possesses high dielectric strength and excellent insulating properties, making it indispensable in electrical and electronics industries.\n3. It is thermally stable and can withstand high temperatures without losing its structural integrity.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -199366,7 +199366,7 @@
   },
   {
     "id": "q_0edf3111",
-    "stem": "Consider the following statements regarding the manganese deposits in India:\n1. India is one of the leading producers of manganese in the world, and the mineral is primarily used in the manufacturing of ferro-manganese alloys.\n2. The Nagpur-Bhandara belt in Maharashtra and the Balaghat belt in Madhya Pradesh together account for a major share of India's high-grade manganese production.\n3. Manganese is predominantly found in sedimentary rock formations of the Archean era.",
+    "stem": "Consider the following statements regarding the manganese deposits in India:\n1. India is one of the leading producers of manganese in the world, and the mineral is primarily used in the manufacturing of ferro-manganese alloys.\n2. The Nagpur-Bhandara belt in Maharashtra and the Balaghat belt in Madhya Pradesh together account for a major share of India's high-grade manganese production.\n3. Manganese is predominantly found in sedimentary rock formations of the Archean era.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -199437,7 +199437,7 @@
   },
   {
     "id": "q_986ab514",
-    "stem": "With reference to copper distribution and mining in India, consider the following statements:\n1. The Khetri copper belt is situated in the Aravalli hills of Rajasthan and is known for hydrothermal vein-type copper deposits.\n2. The Singhbhum copper belt in Jharkhand is one of the oldest and most extensively mined copper-bearing zones in the country.\n3. India is self-sufficient in copper ore production and exports refined copper to global markets.",
+    "stem": "With reference to copper distribution and mining in India, consider the following statements:\n1. The Khetri copper belt is situated in the Aravalli hills of Rajasthan and is known for hydrothermal vein-type copper deposits.\n2. The Singhbhum copper belt in Jharkhand is one of the oldest and most extensively mined copper-bearing zones in the country.\n3. India is self-sufficient in copper ore production and exports refined copper to global markets.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
       "opt_b": "2 and 3 only",
@@ -201212,7 +201212,7 @@
   },
   {
     "id": "q_2070ab11",
-    "stem": "Consider the following statements regarding the classification of manufacturing industries based on size and inputs:\n1. Household industries are the smallest manufacturing units where artisans use local raw materials and simple tools to produce goods mainly for local consumption.\n2. Small-scale manufacturing differs from cottage industries by utilizing mass-produced standardized parts and employing power-driven machinery.\n3. Mineral-based industries source their raw materials exclusively from metallic ores, leaving non-metallic minerals to the chemical industry.",
+    "stem": "Consider the following statements regarding the classification of manufacturing industries based on size and inputs:\n1. Household industries are the smallest manufacturing units where artisans use local raw materials and simple tools to produce goods mainly for local consumption.\n2. Small-scale manufacturing differs from cottage industries by utilizing mass-produced standardized parts and employing power-driven machinery.\n3. Mineral-based industries source their raw materials exclusively from metallic ores, leaving non-metallic minerals to the chemical industry.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -204478,7 +204478,7 @@
   },
   {
     "id": "q_a0405ace",
-    "stem": "Consider the following statements regarding bauxite distribution and aluminum production in India:\n1. Odisha is the leading producer of bauxite, with major reserves concentrated in the Koraput, Kalahandi, and Sundargarh districts.\n2. Bauxite is an oxide of aluminum and is primarily formed by the decomposition of a wide variety of rocks rich in aluminum silicates under tropical weathering conditions.\n3. All major bauxite-producing states in India house primary aluminum smelting plants within their state boundaries to minimize freight costs.",
+    "stem": "Consider the following statements regarding bauxite distribution and aluminum production in India:\n1. Odisha is the leading producer of bauxite, with major reserves concentrated in the Koraput, Kalahandi, and Sundargarh districts.\n2. Bauxite is an oxide of aluminum and is primarily formed by the decomposition of a wide variety of rocks rich in aluminum silicates under tropical weathering conditions.\n3. All major bauxite-producing states in India house primary aluminum smelting plants within their state boundaries to minimize freight costs.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -217258,7 +217258,7 @@
   },
   {
     "id": "q_3369f435",
-    "stem": "Consider the following statements regarding the Brundtland Report ('Our Common Future') and the evolution of the concept of Sustainable Development:\n1. It formally defined sustainable development as meeting the needs of the present without compromising the ability of future generations to meet their own needs.\n2. It emphasized that economic growth and environmental protection are inherently incompatible and must be pursued sequentially.\n3. The report highlighted the concept of 'needs', particularly the essential needs of the world's poor, to which overriding priority should be given.",
+    "stem": "Consider the following statements regarding the Brundtland Report ('Our Common Future') and the evolution of the concept of Sustainable Development:\n1. It formally defined sustainable development as meeting the needs of the present without compromising the ability of future generations to meet their own needs.\n2. It emphasized that economic growth and environmental protection are inherently incompatible and must be pursued sequentially.\n3. The report highlighted the concept of 'needs', particularly the essential needs of the world's poor, to which overriding priority should be given.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
       "opt_b": "Only two",
@@ -219601,7 +219601,7 @@
   },
   {
     "id": "q_cbf603bc",
-    "stem": "Consider the following pairs matching demographic indicators with their spatial patterns or definitions:\n1. Sex Ratio: Number of females per thousand males in a population.\n2. Doubling Time: The number of years required for a population to double its size at its current annual natural growth rate.\n3. Human Development Index (HDI): A composite metric incorporating life expectancy, education, and gross national income per capita.",
+    "stem": "Consider the following pairs matching demographic indicators with their spatial patterns or definitions:\n1. Sex Ratio: Number of females per thousand males in a population.\n2. Doubling Time: The number of years required for a population to double its size at its current annual natural growth rate.\n3. Human Development Index (HDI): A composite metric incorporating life expectancy, education, and gross national income per capita.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair is correctly matched",
       "opt_b": "Only two pairs are correctly matched",
@@ -219672,7 +219672,7 @@
   },
   {
     "id": "q_38035576",
-    "stem": "Consider the following statements regarding the calculation and interpretation of the Dependency Ratio:\n1. The total dependency ratio is the sum of the youth dependency ratio and the old-age dependency ratio.\n2. A declining dependency ratio universally guarantees an immediate economic boom without corresponding investments in human capital.\n3. Nations with high human immunodeficiency virus (HIV) burdens often experience distorted dependency structures with missing middle-aged working cohorts.",
+    "stem": "Consider the following statements regarding the calculation and interpretation of the Dependency Ratio:\n1. The total dependency ratio is the sum of the youth dependency ratio and the old-age dependency ratio.\n2. A declining dependency ratio universally guarantees an immediate economic boom without corresponding investments in human capital.\n3. Nations with high human immunodeficiency virus (HIV) burdens often experience distorted dependency structures with missing middle-aged working cohorts.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -219814,7 +219814,7 @@
   },
   {
     "id": "q_6583bccb",
-    "stem": "Consider the following pairs regarding Demographic Transition Theory stages and their characteristics:\n1. Stage 1: High birth rate and high death rate; population growth is slow.\n2. Stage 2: Declining death rate while birth rate remains high; rapid population growth.\n3. Stage 3: Declining birth rate and low death rate; population size stabilizes.\n4. Stage 4: Low birth rate and low death rate; population growth approaches zero or becomes negative.",
+    "stem": "Consider the following pairs regarding Demographic Transition Theory stages and their characteristics:\n1. Stage 1: High birth rate and high death rate; population growth is slow.\n2. Stage 2: Declining death rate while birth rate remains high; rapid population growth.\n3. Stage 3: Declining birth rate and low death rate; population size stabilizes.\n4. Stage 4: Low birth rate and low death rate; population growth approaches zero or becomes negative.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only two pairs are correctly matched",
       "opt_b": "Only three pairs are correctly matched",
@@ -220169,7 +220169,7 @@
   },
   {
     "id": "q_afe56ac7",
-    "stem": "Consider the following statements regarding literacy rates and their socio-economic correlations:\n1. Regional disparities in literacy rates in India are heavily influenced by historical access to missionary and state-sponsored vernacular schooling.\n2. Female literacy exhibits a strong inverse correlation with infant mortality rates and total fertility rates.\n3. The Census of India defines the literacy rate for the entire total population including infants.",
+    "stem": "Consider the following statements regarding literacy rates and their socio-economic correlations:\n1. Regional disparities in literacy rates in India are heavily influenced by historical access to missionary and state-sponsored vernacular schooling.\n2. Female literacy exhibits a strong inverse correlation with infant mortality rates and total fertility rates.\n3. The Census of India defines the literacy rate for the entire total population including infants.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -222867,7 +222867,7 @@
   },
   {
     "id": "q_40ff27cd",
-    "stem": "Consider the following statements regarding internal migration patterns in India based on Census data:\n1. Rural to rural migration constitutes the largest share of internal migration streams in India.\n2. Marriage is the dominant reason for migration among females, whereas work and employment are the primary reasons for migration among males.\n3. Female migration streams in India are predominantly rural-to-urban due to the expansion of industrial corridors.",
+    "stem": "Consider the following statements regarding internal migration patterns in India based on Census data:\n1. Rural to rural migration constitutes the largest share of internal migration streams in India.\n2. Marriage is the dominant reason for migration among females, whereas work and employment are the primary reasons for migration among males.\n3. Female migration streams in India are predominantly rural-to-urban due to the expansion of industrial corridors.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -229470,7 +229470,7 @@
   },
   {
     "id": "q_06594bd4",
-    "stem": "Consider the following statements regarding the approaches to Human Development:\n1. The welfare approach treats human beings as beneficiaries or targets of all developmental activities rather than participants.\n2. The basic needs approach was initially proposed by the International Labour Organisation (ILO), identifying expenditures on health, education, and water supply as paramount.\n3. The capability approach, associated with Professor Amartya Sen, focuses on building human capabilities in health, education, and equal access.",
+    "stem": "Consider the following statements regarding the approaches to Human Development:\n1. The welfare approach treats human beings as beneficiaries or targets of all developmental activities rather than participants.\n2. The basic needs approach was initially proposed by the International Labour Organisation (ILO), identifying expenditures on health, education, and water supply as paramount.\n3. The capability approach, associated with Professor Amartya Sen, focuses on building human capabilities in health, education, and equal access.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
@@ -229612,7 +229612,7 @@
   },
   {
     "id": "q_8efa43c0",
-    "stem": "Consider the following statements regarding the Human Development Index (HDI) methodology:\n1. The HDI assigns equal weight of one-third to each of its three dimensions: health, education, and standard of living.\n2. The geometric mean of normalized indices across the three dimensions is used to calculate the final HDI score.\n3. A country with a high GNI per capita automatically secures a very high HDI rank, regardless of educational attainment or life expectancy.",
+    "stem": "Consider the following statements regarding the Human Development Index (HDI) methodology:\n1. The HDI assigns equal weight of one-third to each of its three dimensions: health, education, and standard of living.\n2. The geometric mean of normalized indices across the three dimensions is used to calculate the final HDI score.\n3. A country with a high GNI per capita automatically secures a very high HDI rank, regardless of educational attainment or life expectancy.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
       "opt_b": "Only two statements are correct",
