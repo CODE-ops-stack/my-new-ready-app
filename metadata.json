@@ -1,8 +1,8 @@
 {
   "version": 23,
   "totalQuestions": 3942,
-  "apkSha256": "5BBDD330ADB070343380F2833DB712D0718B9B959E11B6740852854F2CC5B1D8",
-  "apkSizeBytes": 33877406,
+  "apkSha256": "AB211073EDB61A94B18390184AC3B53A9A69770B3248A14988C5F6F4D565ACF8",
+  "apkSizeBytes": 34046834,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -45,7 +45,7 @@
     "⛰️ Advanced Geomorphology & Landscape Evolution": 60,
     "🌊 Advanced Ocean Topography & Climatological Dynamics": 60
   },
-  "updatedAt": "2026-10-13T17:45:00Z",
-  "releaseNotes": "Version 21.0: 30-Agent Parallel Quality Verification complete across all 3,942 questions. Verified and perfected all stem interrogatives, corrected astronomical aphelion/solstice premise edge-cases, refined spatial sequence terminology, and polished Mains Answer Architect with seamless question cycling navigation and FAANG-grade UI transitions.",
+  "updatedAt": "2026-10-14T18:15:00Z",
+  "releaseNotes": "Version 23.0: Full enterprise verification. Permanent defensive Gson deserializer against polymorphism; 60 Bihar Geography provenance records normalized; BPSC 5-option model enabled with official abstain choice; strict exam-specific gating across UPSC, BPSC, and SSC/RRB; passed full 30-chapter unit test suite across 3,942 questions.",
   "totalTopics": 30
 }
