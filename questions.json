@@ -243996,7 +243996,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "3",
+      "questionStem": "Consider the following pairs of geological formations in Bihar and their spatial distribution:\n1. Dharwar Rocks : South-eastern fringe (Munger, Jamui, Nawada, Rajgir)\n2. Vindhyan Rocks : South-western",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-3",
+      "evidenceText": "All four pairs are correctly matched.\n1. Dharwar rocks are Pre-Cambrian crystalline formations found along the south-eastern fringe in Munger, Jamui, Nawada, Gaya, and the Rajgir hills. They represent the oldest geological formations in Bihar.\n2. Vindhyan rocks are Pre-Cambrian to early Paleozoic se",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-3",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_3",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244043,7 +244067,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "4",
+      "questionStem": "With reference to the sub-Himalayan Shiwalik formations located in the north-western corner of Bihar, consider the following statements:\n1. The Someshwar Range forms the international border between B",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-4",
+      "evidenceText": "All three statements are correct.\n1. The Someshwar Range extends over approximately 74 km in north-western West Champaran. Its highest point, Someshwar Fort peak, stands at an altitude of approximately 874 meters, which is the highest elevation in Bihar, demarcating the border with Nepal.\n2. The Ram",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-4",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_4",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244090,7 +244138,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "5",
+      "questionStem": "In the physical geography of northern Bihar, the historic transverse passes (nallas) cutting across the Someshwar Range—such as Someshwar Pass, Bhikna Thori Pass, and Marwat Pass—were geomorphological",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-5",
+      "evidenceText": "The prominent mountain passes across the Someshwar Range on the Indo-Nepal border (notably Someshwar Pass, Bhikna Thori Pass, and Marwat Pass) were incised by headwater torrents and hill tributaries of the Gandak drainage system, such as the Kudi, Harha, and associated seasonal ravines. These gaps h",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-5",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_5",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -244137,7 +244209,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "6",
+      "questionStem": "Consider the following statements regarding the micro-relief landforms of the North Gangetic Plain in Bihar:\n1. 'Chaur' refers to a low-lying, saucer-shaped natural depression that remains seasonally ",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-6",
+      "evidenceText": "All three statements are correct.\n1. A 'Chaur' is a extensive saucer-shaped low-lying floodplain depression common in North Bihar (e.g., Kawar Chaur, Hardia Chaur) that holds floodwaters and rainwater for months.\n2. A 'Maun' (or Man) refers specifically to crescent-shaped oxbow lakes formed when a m",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-6",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_6",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244184,7 +244280,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "7",
+      "questionStem": "Consider the following statements:\nStatement-I: The major southern tributaries of the Ganga in Bihar (such as the Punpun and Harohar) flow parallel to the Ganga in a north-easterly direction for consi",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-7",
+      "evidenceText": "Both Statement-I and Statement-II are correct, and Statement-II provides the direct geomorphic explanation for Statement-I. Because the River Ganga deposits coarse silt along its immediate margins, it has built up elevated natural levees ('tats') on its southern bank. The terrain immediately south o",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-7",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_7",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Assertion-Reason"
   },
   {
@@ -244231,7 +244351,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "8",
+      "questionStem": "With reference to the Kaimur Plateau in south-western Bihar, consider the following statements:\n1. Geologically, it forms the easternmost terminus of the Vindhyan Supergroup, dominated by horizontally",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-8",
+      "evidenceText": "All three statements are correct.\n1. The Kaimur Plateau (spanning Kaimur and Rohtas districts) is the easternmost extension of the Vindhyan upland system, characterized by tabular scarps of sandstone, shale, and limestone.\n2. The Son River occupies a deep, structurally controlled tectonic fault tren",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-8",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_8",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244278,7 +244422,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "9",
+      "questionStem": "Match List-I (Prominent Hill / Inselberg Group of Bihar) with List-II (Administrative District): \nList-I:\nA. Kharagpur Hills\nB. Barabar and Nagarjuni Hills\nC. Rajgir Hills\nD. Pretshila and Brahmayoni ",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-9",
+      "evidenceText": "The correct match is A-2, B-1, C-4, D-3.\n- Kharagpur Hills (A-2) are a triangular block of Dharwar quartzites and schists located primarily in Munger district.\n- Barabar and Nagarjuni Hills (B-1), famous for Mauryan rock-cut caves, are granite relict hills located in Jehanabad district (adjoining Ma",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-9",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_9",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Match the Following"
   },
   {
@@ -244325,7 +244493,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "10",
+      "questionStem": "In the riverine morphology of the Middle Ganga Plain in Bihar, the geomorphic term 'Diara' specifically denotes:",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-10",
+      "evidenceText": "In Bihar, 'Diara' (or Diara land) refers to riverine lands, sandbars, and islands situated between the natural levees and braided channels of major rivers like the Ganga, Gandak, Kosi, and Son. These lands are submerged during monsoon floods and emerge during the low-flow post-monsoon season with fr",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-10",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_10",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -244372,7 +244564,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "11",
+      "questionStem": "Consider the following statements regarding the regional slope and topographic gradient of the plains of Bihar:\n1. The North Gangetic Plain exhibits an overarching regional slope from north-west to so",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-11",
+      "evidenceText": "All three statements are correct.\n1. The North Gangetic Plain slopes from the north-west (elevation ~100m near West Champaran) towards the south-east (elevation ~30m near Katihar), which directs the flow of rivers like Gandak, Burhi Gandak, and Kosi into the Ganga.\n2. The South Gangetic Plain slopes",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-11",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_11",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244419,7 +244635,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "12",
+      "questionStem": "Consider the following statements regarding the structural evolution and depth of alluvium in the Gangetic trough of Bihar:\n1. The Gangetic depression in Bihar originated as a foreland sag formed by t",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-12",
+      "evidenceText": "All three statements are correct.\n1. Geologically, the Gangetic plain is a classical flexural foredeep (foreland basin) created during the Tertiary-Quaternary periods as the Indian continental lithosphere flexed downward beneath the thrust sheets of the colliding Himalayan orogen.\n2. The sediment we",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Physiography of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-12",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_12",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244466,7 +244706,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "13",
+      "questionStem": "With reference to the course and drainage basin of the River Ganga in Bihar, consider the following statements:\n1. The river enters the territory of Bihar near Chausa in Buxar district and departs nea",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-13",
+      "evidenceText": "All three statements are correct.\n1. The Ganga enters Bihar at Chausa (Buxar district) on the Uttar Pradesh border and leaves the state near Manihari (Katihar district) to enter West Bengal, traversing approximately 445 km within Bihar.\n2. The Ganga flows through exactly 12 districts in Bihar: Buxar",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-13",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_13",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244513,7 +244777,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "14",
+      "questionStem": "Consider the following statements regarding the Gandak River system in Bihar:\n1. It enters the plains of Bihar at Valmikinagar in West Champaran, debouching from the Nepal Himalayas at the historic Tr",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-14",
+      "evidenceText": "All three statements are correct.\n1. The Gandak (known as Narayani or Saptagandaki in Nepal and Saligrami due to ammonite fossil stones) debouches from the Himalayas into the plains at Triveni near Valmikinagar in West Champaran, where the famous Triveni / Valmikinagar barrage is situated.\n2. The Ga",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-14",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_14",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244560,7 +244848,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "15",
+      "questionStem": "The Kosi River is historically notorious as the 'Sorrow of Bihar'. With reference to its geomorphology, sediment transport, and avulsion dynamics, consider the following statements:\n1. It is formed by",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-15",
+      "evidenceText": "Statements 1, 3, and 4 are correct, while Statement 2 is incorrect.\n- Statement 1 is correct: The Kosi is formed in eastern Nepal by seven major headwater rivers (Arun, Tamur, Sun Kosi, etc.) and breaks out into the plains through the Chatra Gorge.\n- Statement 2 is incorrect: Over the past 250 years",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-15",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_15",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244607,7 +244919,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "16",
+      "questionStem": "Consider the following statements regarding the Burhi Gandak (Sikrahana) River in Bihar:\n1. Unlike the Gandak, it does not originate in the snow-clad Greater Himalayas but emerges from the Someshwar R",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-16",
+      "evidenceText": "All three statements are correct.\n1. The Burhi Gandak (known as Sikrahana in its upper reaches) originates from the Chautarwa Chaur springs near the Someshwar Hills in West Champaran, making it an entirely sub-Himalayan rain-fed river.\n2. Due to steep upper gradients and a deep, narrow meandering ch",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-16",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_16",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244654,7 +244990,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "17",
+      "questionStem": "Consider the following statements:\nStatement-I: The Bagmati and Kamla-Balan river basins in North Bihar are notoriously vulnerable to sudden, severe flash-flood surges during peak monsoons.\nStatement-",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-17",
+      "evidenceText": "Both Statement-I and Statement-II are correct, and Statement-II provides the direct hydrological and geomorphological explanation for Statement-I. The Bagmati (originating near Shivapuri in the Kathmandu valley) and the Kamla-Balan (originating in the Mahabharat hills of Sindhuli) possess steep uppe",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-17",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_17",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Assertion-Reason"
   },
   {
@@ -244701,7 +245061,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "18",
+      "questionStem": "The Ghaghara River (known as Karnali in Nepal and Saryu in Uttar Pradesh) terminates its course by joining the River Ganga in Bihar at which of the following geographic locations?",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-18",
+      "evidenceText": "The Ghaghara River enters Bihar along the border of Siwan and Saran districts, demarcating the border between Bihar (Saran) and Uttar Pradesh (Ballia) before joining the River Ganga at Revelganj (near Chhapra) in Saran district. The confluence of the Ghaghara and Ganga is historically celebrated as ",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-18",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_18",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -244748,7 +245132,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "19",
+      "questionStem": "Consider the following statements regarding the Mahananda River system in Bihar:\n1. It is the easternmost left-bank Himalayan tributary of the River Ganga within the territory of Bihar.\n2. It originat",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-19",
+      "evidenceText": "All three statements are correct.\n1. The Mahananda is the easternmost tributary of the Ganga in Bihar, flowing through the eastern margins of Kishanganj, Purnia, and Katihar districts.\n2. It originates near Paglajhora Falls in the Darjeeling Hills of West Bengal and enters Bihar at Kishanganj.\n3. It",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-19",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_19",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244795,7 +245203,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "20",
+      "questionStem": "With reference to the Son River and its water resource infrastructure in Bihar, consider the following statements:\n1. Originating on the Amarkantak Plateau, it serves as the principal right-bank south",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-20",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: The Son originates at Amarkantak (MP) and enters Bihar in Rohtas district, forming the boundary between Rohtas/Bhojpur and Aurangabad/Arwal/Patna.\n- Statement 2 is correct: The Indrapuri Barrage (built at Dehri",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-20",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_20",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244842,7 +245274,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "21",
+      "questionStem": "Consider the following statements regarding the Punpun River system:\n1. It originates on the northern slopes of the Chota Nagpur Plateau in Palamu district of Jharkhand.\n2. It flows in a north-easterl",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-21",
+      "evidenceText": "All four statements are correct.\n1. The Punpun originates in the Palamu plateau tract of Jharkhand and enters Bihar in Aurangabad district.\n2. It flows north-east through Aurangabad, Gaya, Jehanabad/Arwal, and Patna districts.\n3. Its major tributaries are the Morhar, Dardha, Batane, and Madar rivers",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-21",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_21",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244889,7 +245345,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "22",
+      "questionStem": "With reference to the Falgu River and its hydro-cultural landscape in Bihar, consider the following statements:\n1. The Falgu is formed near Bodh Gaya by the confluence of two streams, namely the Lilaj",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-22",
+      "evidenceText": "All three statements are correct.\n1. The Falgu proper is formed immediately north of Bodh Gaya by the confluence of the Lilajan (ancient Niranjana, on whose banks Buddha achieved enlightenment) and the Mohana river.\n2. The Falgu is an ephemeral river: due to massive sand deposition in its wide, shal",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-22",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_22",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244936,7 +245416,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "23",
+      "questionStem": "Consider the following statements regarding the Karmanasa River:\n1. It originates in the Kaimur Range and flows north-westward to form the natural boundary between Bihar and Uttar Pradesh.\n2. It disch",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-23",
+      "evidenceText": "All three statements are correct.\n1. The Karmanasa originates on the northern scarps of the Kaimur hills in Kaimur district, flowing across Kaimur and Buxar while forming the interstate boundary between Bihar and Uttar Pradesh (Chandauli/Ghazipur).\n2. It terminates by discharging into the River Gang",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-23",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_23",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -244983,7 +245487,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "24",
+      "questionStem": "Consider the following statements:\nStatement-I: The Harohar River system functions as the master collector channel for the low-lying Tal depressions of South Bihar.\nStatement-II: The natural levees al",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-24",
+      "evidenceText": "Both Statement-I and Statement-II are correct, and Statement-II is the direct geomorphological explanation for Statement-I. South Bihar streams descending from the Chota Nagpur plateau (Falgu, Paimar, Dhadhar, Tilaiya, Sakri) cannot pierce the elevated southern natural levee of the Ganga. They are i",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Drainage System of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-24",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_24",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Assertion-Reason"
   },
   {
@@ -245030,7 +245558,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "25",
+      "questionStem": "Match List-I (Agro-Climatic Zone of Bihar) with List-II (Distinguishing Agro-Ecological Characteristics): \nList-I:\nA. Zone I (North-West Alluvial Plain)\nB. Zone II (North-East Alluvial Plain)\nC. Zone ",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-25",
+      "evidenceText": "The correct match is A-1, B-2, C-3, D-4.\n- Zone I (North-West Alluvial Plain): 13 districts north of Ganga and west of Kosi. Dominated by calcareous alluvium (Balasundar) with high free lime, alkaline pH, leading producer of sugarcane, maize, and Shahi litchi.\n- Zone II (North-East Alluvial Plain): ",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-25",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_25",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Match the Following"
   },
   {
@@ -245077,7 +245629,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "26",
+      "questionStem": "Consider the following statements regarding Agro-Climatic Zone I (North-West Alluvial Plain) of Bihar:\n1. It encompasses 13 administrative districts situated north of the River Ganga and west of the K",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-26",
+      "evidenceText": "All three statements are correct.\n1. Agro-Climatic Zone I comprises 13 districts: West Champaran, East Champaran, Sheohar, Sitamarhi, Madhubani, Darbhanga, Muzaffarpur, Vaishali, Samastipur, Begusarai, Gopalganj, Siwan, and Saran.\n2. The soils are mostly alluvial sandy loams to loams containing free",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-26",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_26",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245124,7 +245700,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "27",
+      "questionStem": "With reference to Agro-Climatic Zone II (North-East Alluvial Plain) of Bihar, consider the following statements:\n1. It experiences the highest annual precipitation among all agro-climatic zones of Bih",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-27",
+      "evidenceText": "All three statements are correct.\n1. Zone II (comprising 8 districts: Purnia, Katihar, Saharsa, Supaul, Madhepura, Araria, Kishanganj, and Khagaria) receives the highest rainfall in the state due to early proximity to the Bay of Bengal monsoon current and sub-Himalayan orographic lift.\n2. Due to hig",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-27",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_27",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245171,7 +245771,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "28",
+      "questionStem": "Consider the following statements regarding the agro-climatic profile of South Bihar (Zones IIIA and IIIB):\n1. Both zones receive lower average annual rainfall and face significantly higher vulnerabil",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-28",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: South Bihar lies in the rain-shadow of the northern Himalayan orographic front, receiving generally 900-1100 mm of rainfall, making it prone to meteorological and hydrological droughts.\n- Statement 2 is correct",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-28",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_28",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245218,7 +245842,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "29",
+      "questionStem": "In standard climatological classifications of India, how is the prevailing macro-climate of the Gangetic plain in Bihar categorized according to Vladimir Koeppen's and Glenn Trewartha's climate classi",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-29",
+      "evidenceText": "Under Koeppen's climatic classification, the Bihar plain falls under 'Cwg'—representing a warm temperate/subtropical climate with dry winters ('w'), hot summers, and rainfall concentrated during the summer monsoon ('g' indicates Ganges temperature curve where the warmest month occurs before the summ",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-29",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_29",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -245265,7 +245913,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "30",
+      "questionStem": "Consider the following statements regarding the spatial distribution and monsoon dynamics of precipitation in Bihar:\n1. The state exhibits a pronounced spatial rainfall gradient decreasing progressive",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-30",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: Rainfall in Bihar decreases from north-east (>1800 mm) towards south-west (<1000 mm in Aurangabad/Arwal).\n- Statement 2 is correct: Kishanganj, nestled near the foothills of the Himalayas and the Bengal duars, ",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-30",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_30",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245312,7 +245984,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "31",
+      "questionStem": "Consider the following statements:\nStatement-I: Gaya district routinely records both the highest summer temperatures (>45°C) and among the lowest winter temperatures (<4°C) in the state of Bihar.\nStat",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-31",
+      "evidenceText": "Both Statement-I and Statement-II are correct, and Statement-II is the direct geographic explanation for Statement-I. Gaya exhibits extreme continental temperature variations because it lies far from the moderating maritime effects of the Bay of Bengal and is encircled by rocky Dharwar hills (such a",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-31",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_31",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Assertion-Reason"
   },
   {
@@ -245359,7 +246055,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "32",
+      "questionStem": "With reference to pre-monsoon and summer atmospheric phenomena in Bihar, consider the following statements:\n1. 'Loo' refers to desiccating, intensely hot, and dust-laden westerly winds blowing across ",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-32",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: The 'Loo' is a scorching, dry westerly wind blowing from the Thar/Rajasthan desert across the Gangetic plain, causing severe heat exhaustion.\n- Statement 2 is correct: Kalbaishakhi (Nor'westers) are afternoon c",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-32",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_32",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245406,7 +246126,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "33",
+      "questionStem": "The light to moderate winter rainfall occasionally received in Bihar during December and January is primarily attributable to which of the following atmospheric mechanisms?",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-33",
+      "evidenceText": "Winter rainfall in Bihar during December and January is caused by Western Disturbances—shallow extra-tropical cyclonic storms that originate over the Mediterranean Sea, Black Sea, and Caspian Sea and are steered into northern India by the subtropical westerly jet stream. Although precipitation amoun",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Climate & Agro-Climatic Zones of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-33",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_33",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -245453,7 +246197,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "34",
+      "questionStem": "Match List-I (Soil Classification of Bihar) with List-II (Spatial Distribution & Dominant Pedological Attributes): \nList-I:\nA. Piedmont Swamp Soil\nB. Terai Soil\nC. Balasundar Soil\nD. Karail-Kewal Soil",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-34",
+      "evidenceText": "The correct match is A-1, B-2, C-3, D-4.\n- Piedmont Swamp Soil (A-1): Developed on alluvial fans and marshy foothill slopes of the Someshwar Range in West Champaran. High organic humus, moist clay-loam texture, highly suitable for sugarcane and paddy.\n- Terai Soil (B-2): Extends as a 5-8 km narrow b",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-34",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_34",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Match the Following"
   },
   {
@@ -245500,7 +246268,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "35",
+      "questionStem": "Consider the following statements regarding the Piedmont Swamp Soil of Bihar:\n1. It is geographically confined to the sub-Himalayan foothill tract of the Someshwar Range in West Champaran district.\n2.",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-35",
+      "evidenceText": "All three statements are correct.\n1. Piedmont Swamp Soil is geographically restricted to the north-western corner of Bihar in West Champaran, along the foot slopes of the Someshwar and Dun hills.\n2. The high moisture regime, combined with the leaf litter from the dense Sal (Shorea robusta) and Terai",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-35",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_35",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245547,7 +246339,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "36",
+      "questionStem": "With reference to the Terai Soil occurring along the northern frontier of Bihar, consider the following statements:\n1. It forms a continuous narrow strip of approximately 5 to 8 kilometers width exten",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-36",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: The Terai soil belt hugs the Indo-Nepal border, spanning West Champaran, East Champaran, Sitamarhi, Madhubani, Supaul, Araria, and Kishanganj.\n- Statement 2 is correct: Heavy rainfall (especially towards the ea",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-36",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_36",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245594,7 +246410,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "37",
+      "questionStem": "Consider the following statements regarding 'Balasundar' soil in North Bihar:\n1. It represents an older alluvial soil (Bangar) widely distributed across Saharsa, Darbhanga, Samastipur, Muzaffarpur, an",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-37",
+      "evidenceText": "All three statements are correct.\n1. Balasundar is the vernacular name for the older calcareous alluvium of North Bihar, covering extensive areas across the Tirhut, Saran, and western Kosi divisions.\n2. The diagnostic feature of Balasundar soil is the presence of calcic horizons and nodules of calci",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-37",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_37",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245641,7 +246481,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "38",
+      "questionStem": "With reference to the comparative characteristics of Khadar and Bangar soils in the Gangetic plains of Bihar, consider the following statements:\n1. Khadar soils occupy active floodplains and low-lying",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-38",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: Khadar is the newer alluvium deposited in active floodplains (Diara lands and river banks). Annual monsoon floods deposit layers of fertile fine sand, silt, and clay.\n- Statement 2 is correct: Bangar represents",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-38",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_38",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245688,7 +246552,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "39",
+      "questionStem": "Consider the following statements regarding the 'Karail-Kewal' soil of the South Gangetic Plain in Bihar:\n1. 'Karail' denotes dark, heavy, montmorillonite-rich clay that develops deep shrinkage fissur",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-39",
+      "evidenceText": "All three statements are correct.\n1. 'Karail' is a vernacular term for the dark, heavy clay soil found across Rohtas, Bhojpur, Patna, Gaya, and Jehanabad. Like peninsular regur (black soil), it possesses expandable smectite/montmorillonite clay minerals that shrink and crack upon desiccation and swe",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-39",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_39",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245735,7 +246623,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "40",
+      "questionStem": "Consider the following statements:\nStatement-I: The low-lying Tal soils of the Mokama tract in South Bihar are rarely sown for Kharif crops but produce exceptional, record harvests of Rabi pulses.\nSta",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-40",
+      "evidenceText": "Both Statement-I and Statement-II are correct, and Statement-II provides the direct agricultural and geomorphological explanation for Statement-I. The Mokama Tal is a low-lying back-swamp trough extending parallel to the Ganga south of its natural levee. From July to October, runoff from rivers like",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-40",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_40",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Assertion-Reason"
   },
   {
@@ -245782,7 +246694,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "41",
+      "questionStem": "Consider the following statements regarding the Red and Yellow Soils occurring along the southern plateau fringe in Banka, Jamui, Nawada, and Gaya districts:\n1. They are residual soils developed throu",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-41",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: The Red and Yellow soils of south-eastern Bihar are typical residual pedological formations developed over Dharwar and Archean basement crystalline rocks (granites, gneisses, schists).\n- Statement 2 is correct:",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-41",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_41",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245829,7 +246765,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "42",
+      "questionStem": "In the pedological mapping of Bihar, 'Lal Balui Mitti' (Red Sandy Soil) is predominantly distributed across which of the following physiographic regions?",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-42",
+      "evidenceText": "Lal Balui Mitti (Red Sandy Soil) in Bihar is the direct weathering product of Vindhyan sandstones occurring across the Kaimur and Rohtas plateaus. The soil has a coarse sandy texture, highly porous structure, low organic carbon, and poor fertility, with low water retention. Consequently, it supports",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Soils of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-42",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_42",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -245876,7 +246836,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "43",
+      "questionStem": "According to the official data of the India State of Forest Report (ISFR) 2021, consider the following statements regarding the forest cover of Bihar:\n1. The recorded forest cover of Bihar stands at a",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-43",
+      "evidenceText": "All three statements are correct.\n1. As per ISFR 2021, the forest cover in Bihar is 7,380.79 sq km, which is 7.84% of the state's total geographical area (94,163 sq km). (Tree cover adds another 2,341 sq km or 2.48%, totaling 10.32% green cover).\n2. Kaimur district has the largest forest cover in te",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-43",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_43",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245923,7 +246907,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "44",
+      "questionStem": "With reference to Valmiki Tiger Reserve (VTR) in Bihar, consider the following statements:\n1. It is the sole National Park and Tiger Reserve currently established within the state of Bihar.\n2. It form",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-44",
+      "evidenceText": "All four statements are correct.\n1. Valmiki Tiger Reserve (comprising Valmiki National Park and Valmiki Wildlife Sanctuary in West Champaran) is currently the only operational Tiger Reserve and National Park in Bihar.\n2. VTR forms part of the transboundary Terai Arc Landscape (TAL) and is directly c",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-44",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_44",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -245970,7 +246978,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "45",
+      "questionStem": "Consider the following statements regarding Kanwar Lake (Kabartal):\n1. It is situated in the Begusarai district and represents Asia's largest freshwater oxbow lake.\n2. It originated from the natural m",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-45",
+      "evidenceText": "All four statements are correct.\n1. Kanwar Lake (Kabartal), situated in Begusarai district, covers around 67 sq km during peak floods and is celebrated as Asia's largest freshwater oxbow lake.\n2. Geomorphologically, it was formed as a classic residual oxbow cut-off (paleo-meander) of the highly sinu",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-45",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_45",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246017,7 +247049,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "46",
+      "questionStem": "In 2024, two wetlands from Bihar were designated as Ramsar Sites: Nagi Bird Sanctuary and Nakti Bird Sanctuary. In this context, consider the following statements:\n1. Both sanctuaries are situated in ",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-46",
+      "evidenceText": "All three statements are correct.\n1. Nagi Bird Sanctuary and Nakti Bird Sanctuary are located in Jhajha block of Jamui district in south-eastern Bihar.\n2. Both sites originated from artificial earthen irrigation reservoirs constructed in the mid-20th century across seasonal streams descending from t",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-46",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_46",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246064,7 +247120,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "47",
+      "questionStem": "Consider the following statements regarding the Vikramshila Gangetic Dolphin Sanctuary:\n1. It encompasses an approximately 60-kilometer stretch of the River Ganga located in Bhagalpur district, extend",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-47",
+      "evidenceText": "All three statements are correct.\n1. Designated in 1991, the Vikramshila Gangetic Dolphin Sanctuary spans about 60 km of the Ganga between Sultanganj and Kahalgaon in Bhagalpur district.\n2. It remains India's sole river sanctuary dedicated to the conservation of the Gangetic Dolphin (Platanista gang",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-47",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_47",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246111,7 +247191,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "48",
+      "questionStem": "Which of the following environmental and geomorphological features uniquely characterizes the Bhimbandh Wildlife Sanctuary located in Munger district of Bihar?",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-48",
+      "evidenceText": "Bhimbandh Wildlife Sanctuary (covering ~681 sq km in the Kharagpur Hills of Munger district) is celebrated for its natural geothermal hot springs—including the Bhimbandh spring (where water emerges at temperatures between 52°C and 65°C, one of the hottest in India), Rishi Kund, and Hingania springs.",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-48",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_48",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -246158,7 +247262,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "49",
+      "questionStem": "Consider the following statements regarding the Kaimur Wildlife Sanctuary in Bihar:\n1. It is geographically the largest wildlife sanctuary by protected surface area in the state of Bihar.\n2. It is sit",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-49",
+      "evidenceText": "All three statements are correct.\n1. Kaimur Wildlife Sanctuary covers an extensive area of approximately 1,342 sq km (or ~1,504 sq km including contiguous protected zones), making it by far the largest wildlife sanctuary in Bihar (exceeding Valmiki Sanctuary's ~880 sq km).\n2. It sprawls across the V",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-49",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_49",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246205,7 +247333,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "50",
+      "questionStem": "Match List-I (Protected Wetland / Sanctuary of Bihar) with List-II (Administrative District): \nList-I:\nA. Kusheshwar Asthan Bird Sanctuary\nB. Barela Salim Ali Zubba Sahni Bird Sanctuary\nC. Udaypur Wil",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-50",
+      "evidenceText": "The correct match is A-2, B-1, C-4, D-3.\n- Kusheshwar Asthan Bird Sanctuary (A-2): An extensive natural waterlogged chaur wetland located in Darbhanga district, renowned for wintering migratory waterfowl.\n- Barela Salim Ali Zubba Sahni Bird Sanctuary (B-1): A protected wetland lake sanctuary located",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-50",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_50",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Match the Following"
   },
   {
@@ -246252,7 +247404,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "51",
+      "questionStem": "With reference to the geothermal hot springs of Bihar, consider the following statements:\n1. The thermal springs of Rajgir (such as Brahmakund and Saptadhara) emerge along tectonic fractures within Pr",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-51",
+      "evidenceText": "All three statements are correct.\n1. Rajgir's hot springs (including Brahmakund, Saptadhara, Surya Kund) issue from fault fractures in the steeply dipping Dharwar quartzites of the Rajgir Hills (Vipula and Vaibhargiri).\n2. Brahmakund is the hottest spring in Rajgir, consistently registering water te",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-51",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_51",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246299,7 +247475,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "52",
+      "questionStem": "Consider the following statements:\nStatement-I: The notification of Kaimur Wildlife Sanctuary as Bihar's second Tiger Reserve will establish a strategic trans-state ecological corridor connecting the ",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-52",
+      "evidenceText": "Both Statement-I and Statement-II are correct, and Statement-II is the direct ecological explanation for Statement-I. The Kaimur forest tract in western Bihar is not an isolated habitat island; it represents the easternmost spur of the vast Vindhyan forest belt. Geographically and biologically, Kaim",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Protected Areas & Forest Cover of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-52",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_52",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Assertion-Reason"
   },
   {
@@ -246346,7 +247546,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "53",
+      "questionStem": "Consider the following statements regarding the post-bifurcation mineral profile of Bihar following the reorganization of the state in November 2000:\n1. The bifurcation and creation of Jharkhand trans",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-53",
+      "evidenceText": "All three statements are correct.\n1. Following the Bihar Reorganisation Act of 2000, almost all the major metallic and fossil fuel mineral belts located in the Chota Nagpur Plateau (Jharia/Bokaro coal, Singhbhum iron ore, copper at Ghatshila, uranium at Jaduguda) were transferred to Jharkhand, leavi",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-53",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_53",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246393,7 +247617,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "54",
+      "questionStem": "With reference to the geological occurrence and industrial significance of Pyrite deposits at Amjhor in Rohtas district, consider the following statements:\n1. The pyrite seam is stratigraphically embe",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-54",
+      "evidenceText": "All three statements are correct.\n1. The Amjhor pyrite deposit occurs as a sedimentary bed approximately 0.5 to 1.0 meter thick within the carbonaceous Bijaigarh Shales of the Kaimur Group (Vindhyan Supergroup).\n2. Mining and roasting operations were conducted by the public sector undertaking Pyrite",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-54",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_54",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246440,7 +247688,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "55",
+      "questionStem": "With reference to the limestone reserves and cement manufacturing belt of south-western Bihar, consider the following statements:\n1. High-grade cement-quality limestone in Bihar is geographically conc",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-55",
+      "evidenceText": "All three statements are correct.\n1. Rohtas and Kaimur districts are the limestone capitals of Bihar, holding practically the entire commercial limestone reserves of the state (estimated at over 210 million tonnes).\n2. The limestone belongs stratigraphically to the Rohtas Stage of the Semri Group wi",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-55",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_55",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246487,7 +247759,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "56",
+      "questionStem": "Consider the following statements regarding the mica belt in Bihar:\n1. The mica occurrences in Nawada, Jamui, and Gaya districts represent the northern continuation of the famous Bihar-Jharkhand Mica ",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-56",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: The mica belt extends over a 150 km long and 20-30 km wide zone across Nawada, Jamui, and Gaya in Bihar, forming the northern flank of the famous Koderma-Giridih mica belt.\n- Statement 2 is correct: Excellent q",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-56",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_56",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246534,7 +247830,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "57",
+      "questionStem": "In recent geological resource assessments conducted by the Geological Survey of India (GSI), the Sono area in Jamui district of Bihar attracted intense national attention because:",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-57",
+      "evidenceText": "Geological Survey of India (GSI) exploration reports confirmed that the Sono block in Jamui district hosts an estimated inferred mineral resource of approximately 222.88 million tonnes of gold ore containing around 37.6 tonnes of gold metal. This accounts for approximately 44% of India's total prima",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-57",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_57",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Direct Fact"
   },
   {
@@ -246581,7 +247901,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "58",
+      "questionStem": "Match List-I (Mineral Commodity Found in Bihar) with List-II (Principal Geographical Occurrence): \nList-I:\nA. Bauxite\nB. China Clay (Kaolin)\nC. Steatite / Soapstone\nD. Quartzite / Silica Sand\n\nList-II",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-58",
+      "evidenceText": "The correct match is A-1, B-2, C-3, D-4.\n- Bauxite (A-1): High-grade bauxite deposits derived from the enrichment of aluminous rocks are localized in the Kharagpur Hills of Munger district (as well as the Rohtas plateau).\n- China Clay / Kaolin (B-2): Formed by the hydrothermal alteration of feldspar",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-58",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_58",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Match the Following"
   },
   {
@@ -246628,7 +247972,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "59",
+      "questionStem": "Consider the following statements regarding the Barauni Oil Refinery in Begusarai district of Bihar:\n1. It was commissioned in 1964 with technical and financial collaboration from the USSR and Romania",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-59",
+      "evidenceText": "Statements 1 and 2 are correct, while Statement 3 is incorrect.\n- Statement 1 is correct: Built during the Second and Third Five-Year Plans, the Barauni Refinery was dedicated to the nation in 1964, constructed with technical assistance from the Soviet Union (USSR) and Romania.\n- Statement 2 is corr",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-59",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_59",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246675,7 +248043,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "60",
+      "questionStem": "Match List-I (Major Thermal Power Station in Bihar) with List-II (District Location): \nList-I:\nA. Kahalgaon Super Thermal Power Station\nB. Barh Super Thermal Power Station\nC. Nabinagar Super Thermal P",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-60",
+      "evidenceText": "The correct match is A-1, B-2, C-3, D-4.\n- Kahalgaon Super Thermal Power Station (A-1): A major coal-fired plant (2,340 MW capacity) operated by NTPC, situated in Kahalgaon in Bhagalpur district.\n- Barh Super Thermal Power Station (B-2): A mega-power project (3,300 MW planned capacity) utilizing sup",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-60",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_60",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Match the Following"
   },
   {
@@ -246722,7 +248114,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "61",
+      "questionStem": "With reference to hydroelectric power development in Bihar, consider the following statements:\n1. Due to the predominantly flat alluvial topography, hydro potential in Bihar is harnessed primarily thr",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-61",
+      "evidenceText": "All three statements are correct.\n1. Lacking high mountain drops in the plains, Bihar cannot sustain large reservoir-based storage hydroelectric dams; instead, hydro potential is developed via small hydel canal drops and barrage falls under the Bihar State Hydroelectric Power Corporation (BSHPC).\n2.",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-61",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_61",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
@@ -246769,7 +248185,31 @@
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
     "examTarget": "UPSC_CSE_PRELIMS",
-    "provenance": "UPSC_EXPERT_PREDICTIVE",
+    "provenance": {
+      "questionId": "62",
+      "questionStem": "Consider the following statements regarding emerging renewable and future energy projects in Bihar:\n1. Bihar's first floating solar power plant was commissioned on a pond reservoir at Kadirabad in Dar",
+      "intentType": "UPSC_EXPERT_PREDICTIVE",
+      "knowledgeNodeId": "node-bihar-62",
+      "evidenceText": "All three statements are correct.\n1. In 2022, Bihar's first floating solar power plant (2 MW capacity) was successfully commissioned over the Kadirabad pond in Darbhanga district by the Bihar Renewable Energy Development Agency (BREDA), pioneered under the 'Clean Water, Green Energy' initiative.\n2. ",
+      "sourceFile": "bihar_geography_curriculum.txt",
+      "sourceLocation": {
+        "sourceId": "bihar_geography_curriculum.txt",
+        "sentence_count": 1,
+        "section_heading": "Mineral Resources & Energy of Bihar",
+        "concept": "Bihar Geography",
+        "sentence_idx": 0,
+        "block_id": "bihar-block-62",
+        "has_antecedent": false
+      },
+      "provenanceHash": "hash_bihar_62",
+      "createdAt": "2026-10-14",
+      "schemaVersion": "1.0.0",
+      "metadata": {
+        "tier": "Hard",
+        "specificExam": "BPSC,UPSC"
+      },
+      "linkHashes": {}
+    },
     "qstyle": "Statement Based"
   },
   {
