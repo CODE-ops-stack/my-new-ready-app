@@ -18727,5 +18727,1093 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0039",
+    "stem": "Each orbit of the International Space Station (ISS) takes _____minutes.",
+    "options": {
+      "opt_a": "80 - 82",
+      "opt_b": "85 - 87",
+      "opt_c": "90 - 93",
+      "opt_d": "83 - 86"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "90-93. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'80 - 82' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'85 - 87' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'83 - 86' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0039",
+      "questionStem": "Each orbit of the International Space Station (ISS) takes _____minutes.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0039",
+      "evidenceText": "90-93. In 24 hours, the space station makes 16 orbits of Earth, traveling through 16 sunrises and sunsets.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 39,
+        "block_id": "Pinnacle_SSC_Q39",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 39,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0094",
+    "stem": "Tsunami is NOT caused by:",
+    "options": {
+      "opt_a": "Hurricanes",
+      "opt_b": "volcanic eruptions",
+      "opt_c": "undersea landslides",
+      "opt_d": "Earthquakes"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Hurricanes. Tsunamis are giant waves caused by earthquakes or volcanic eruptions under the sea.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'volcanic eruptions' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'undersea landslides' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Earthquakes' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0094",
+      "questionStem": "Tsunami is NOT caused by:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0094",
+      "evidenceText": "Hurricanes. Tsunamis are giant waves caused by earthquakes or volcanic eruptions under the sea.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 94,
+        "block_id": "Pinnacle_SSC_Q94",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 94,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0097",
+    "stem": "Ocean acidification is the ongoing decrease in the pH of the Earth’s oceans, caused by the uptake of ______ from the atmosphere.",
+    "options": {
+      "opt_a": "Methane",
+      "opt_b": "carbon dioxide",
+      "opt_c": "nitrogen",
+      "opt_d": "argon"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Carbon dioxide. Ocean acidification is the worldwide reduction in the pH of seawater as a consequence of the absorption of large amounts of carbon dioxide by the oceans. It results in the alteration of marine food chains and food supply to humans.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Methane' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'nitrogen' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'argon' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0097",
+      "questionStem": "Ocean acidification is the ongoing decrease in the pH of the Earth’s oceans, caused by the uptake of ______ from the atmosphere.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0097",
+      "evidenceText": "Carbon dioxide. Ocean acidification is the worldwide reduction in the pH of seawater as a consequence of the absorption of large amounts of carbon dioxide by the oceans. It results in the alteration o",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 97,
+        "block_id": "Pinnacle_SSC_Q97",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 97,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0112",
+    "stem": "Which trek in Bhutan is considered to be the crown jewel of Bhutanese trekking?",
+    "options": {
+      "opt_a": "Jumolhari Trek",
+      "opt_b": "Dagala Thousand Lakes Trek",
+      "opt_c": "Snowman Trek",
+      "opt_d": "Laya Gasa Trek"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Snowman Trek . It is a 27 day track. Other Treks in Bhutan - Jumolhari Trek, Dagala Thousand Lakes trek, Laya Gasa Trek, Druk Path Trek, Tsaluna Trek, etc. Treks in India - Kalindi Khal Trek, Stok Kangri Trek, Auden's Col Trek, Chadar Trek, etc.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Jumolhari Trek' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Dagala Thousand Lakes Trek' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Laya Gasa Trek' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0112",
+      "questionStem": "Which trek in Bhutan is considered to be the crown jewel of Bhutanese trekking?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0112",
+      "evidenceText": "Snowman Trek . It is a 27 day track. Other Treks in Bhutan - Jumolhari Trek, Dagala Thousand Lakes trek, Laya Gasa Trek, Druk Path Trek, Tsaluna Trek, etc. Treks in India - Kalindi Khal Trek, Stok Kan",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 112,
+        "block_id": "Pinnacle_SSC_Q112",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 112,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0205",
+    "stem": "Which of the following ports is known as ‘Diamond Harbour’?",
+    "options": {
+      "opt_a": "Port Blair",
+      "opt_b": "Kochi",
+      "opt_c": "Kolkata",
+      "opt_d": "Mangalore"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Kolkata Port (Haldia seaport) is the only riverine Major Port situated on the Hugli river in West Bengal. Cochin Port or Kochi port lies on two islands in the Vembanadu Lake; Willingdon Island and Vallarpadam and is important for the export of spices and salt.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Port Blair' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kochi' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mangalore' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0205",
+      "questionStem": "Which of the following ports is known as ‘Diamond Harbour’?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0205",
+      "evidenceText": "Kolkata Port (Haldia seaport) is the only riverine Major Port situated on the Hugli river in West Bengal. Cochin Port or Kochi port lies on two islands in the Vembanadu Lake; Willingdon Island and Val",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 205,
+        "block_id": "Pinnacle_SSC_Q205",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 205,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0288",
+    "stem": "Consider the following statements regarding oil production in India: 1. Assam is the oldest oil-producing state of India, with Digboi being the first oil reserve. 2. Rajasthan is currently the largest producer of petroleum in India. 3. Major oil fields of Gujarat include Ankleshwar and Kalol. 4. Maharashtra is the second largest producer of petroleum in India. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "1, 2 and 3 only",
+      "opt_b": "1 and 4 only",
+      "opt_c": "2 and 3 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "1, 2 and 3 only. The largest producer of petroleum in India is Rajasthan, followed by Gujarat and Assam. Oil fields of Rajasthan: Mangla, Bhagyam, Kameshwari. Gujarat oil fields: Ankleshwar, Kalol. Naharkatiya and Moran - Hugrijan are important oil fields of Assam.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 and 4 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 and 3 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1, 2, 3 and 4' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0288",
+      "questionStem": "Consider the following statements regarding oil production in India: 1. Assam is the oldest oil-producing state of India, with Digboi being the first oil reserve. 2. Rajasthan is currently the largest producer of petroleum in India. 3. Major oil fields of Gujarat include Ankleshwar and Kalol. 4. Maharashtra is the second largest producer of petroleum in India. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0288",
+      "evidenceText": "1, 2 and 3 only. The largest producer of petroleum in India is Rajasthan, followed by Gujarat and Assam. Oil fields of Rajasthan: Mangla, Bhagyam, Kameshwari. Gujarat oil fields: Ankleshwar, Kalol. Na",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 288,
+        "block_id": "Pinnacle_SSC_Q288",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 288,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0578",
+    "stem": "What is the name of the physical feature that is the longitudinal valley lying between the Lesser Himalayas and the Siwalik in India?",
+    "options": {
+      "opt_a": "Duns",
+      "opt_b": "Doab",
+      "opt_c": "Bhabhar",
+      "opt_d": "Terai"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Duns are structurally formed valleys covered with boulders and gravel from the erosion of the Himalayas and Shivalik uplands. Major duns in the region include Dehra, Kohtri, Chaukham, Patli, and Kota, with Dehradun being the largest at 35 km long and 25 km wide.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Doab' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Bhabhar' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Terai' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0578",
+      "questionStem": "What is the name of the physical feature that is the longitudinal valley lying between the Lesser Himalayas and the Siwalik in India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0578",
+      "evidenceText": "Duns are structurally formed valleys covered with boulders and gravel from the erosion of the Himalayas and Shivalik uplands. Major duns in the region include Dehra, Kohtri, Chaukham, Patli, and Kota,",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 578,
+        "block_id": "Pinnacle_SSC_Q578",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 578,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0642",
+    "stem": "_______ is the deepest landlocked and well - protected port.",
+    "options": {
+      "opt_a": "Kandla",
+      "opt_b": "Mumbai",
+      "opt_c": "Visakhapatnam",
+      "opt_d": "Paradip"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Visakhapatnam - It is a major port (total 13 in India) located in Andhra Pradesh coast of Bay of Bengal. It is a natural harbor. The major commodities in this port include Iron ore, manganese ore, steel products, general cargo, coal and crude oil.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kandla' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mumbai' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Paradip' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0642",
+      "questionStem": "_______ is the deepest landlocked and well - protected port.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0642",
+      "evidenceText": "Visakhapatnam - It is a major port (total 13 in India) located in Andhra Pradesh coast of Bay of Bengal. It is a natural harbor. The major commodities in this port include Iron ore, manganese ore, ste",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 642,
+        "block_id": "Pinnacle_SSC_Q642",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 642,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0790",
+    "stem": "Which of the following determines the colour, texture,chemical properties, mineral, content and permeability of the soil?",
+    "options": {
+      "opt_a": "Parent rock",
+      "opt_b": "Time",
+      "opt_c": "Relief",
+      "opt_d": "Climate"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Parent rock . The color in the soil is mainly due to two factors – organic content and the chemical nature of iron compounds found in the soil.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Time' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Relief' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Climate' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0790",
+      "questionStem": "Which of the following determines the colour, texture,chemical properties, mineral, content and permeability of the soil?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0790",
+      "evidenceText": "Parent rock . The color in the soil is mainly due to two factors – organic content and the chemical nature of iron compounds found in the soil.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 790,
+        "block_id": "Pinnacle_SSC_Q790",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 790,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0793",
+    "stem": "What type of rocks were once igneous or sedimentary, but have metamorphosed as a result of intense heat and/or pressure within the Earth's crust?",
+    "options": {
+      "opt_a": "Granite",
+      "opt_b": "Quartzite",
+      "opt_c": "Sandstone",
+      "opt_d": "Basalt"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Quartzite. Granite is a coarse-grained (phaneritic) intrusive igneous rock composed mostly of quartz, alkali feldspar, and plagioclase. Sandstone is a clastic sedimentary rock composed mainly of sand-sized silicate grains. Basalt is a mafic extrusive rock, is the most widespread of all igneous rocks, and comprises more than 90% of all volcanic rocks.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Granite' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Sandstone' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Basalt' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0793",
+      "questionStem": "What type of rocks were once igneous or sedimentary, but have metamorphosed as a result of intense heat and/or pressure within the Earth's crust?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0793",
+      "evidenceText": "Quartzite. Granite is a coarse-grained (phaneritic) intrusive igneous rock composed mostly of quartz, alkali feldspar, and plagioclase. Sandstone is a clastic sedimentary rock composed mainly of sand-",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 793,
+        "block_id": "Pinnacle_SSC_Q793",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 793,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0800",
+    "stem": "The Garo, Khasi and Jaintia hills are a subdivision of:",
+    "options": {
+      "opt_a": "Assam valley",
+      "opt_b": "Barak basin",
+      "opt_c": "Surma basin",
+      "opt_d": "Meghalaya plateau"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Meghalaya Plateau. The plateau is separated from the main block of the peninsular plateau by a gap called the Garo-RajMahal gap. It is located on the northeastern flank of Peninsular India. It is one of the rainiest, most tectonically active areas in the world. Hills in North East India - Lushai Hills or Mizo Hills (Mizoram and Tripura), Chin Hills (Manipur to Chin State of Myanmar), Japfu Mountain Range (Nagaland), Barail Range (Assam), Dafla Hills and Abor Hills (Arunachal Pradesh).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Assam valley' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Barak basin' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Surma basin' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0800",
+      "questionStem": "The Garo, Khasi and Jaintia hills are a subdivision of:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0800",
+      "evidenceText": "Meghalaya Plateau. The plateau is separated from the main block of the peninsular plateau by a gap called the Garo-RajMahal gap. It is located on the northeastern flank of Peninsular India. It is one ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 800,
+        "block_id": "Pinnacle_SSC_Q800",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 800,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0805",
+    "stem": "The Himalayan Mountain range was formed by the collision of ________.",
+    "options": {
+      "opt_a": "African Plate and Australian Plate",
+      "opt_b": "Indian Plate and African Plate",
+      "opt_c": "Eurasian Plate and African Plate",
+      "opt_d": "Indian Plate and Eurasian Plate"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Indian Plate and Eurasian Plate. Plates - They are large, rigid pieces of the Earth's lithosphere that fit together like a jigsaw puzzle, and their movements are responsible for shaping the Earth's surface through processes such as earthquakes and the formation of mountains. Major plates (7) - African Plate, Antarctic Plate, Eurasian Plate, North American Plate, South American Plate, Pacific Plate and Indo-Australian Plate.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'African Plate and Australian Plate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Indian Plate and African Plate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Eurasian Plate and African Plate' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0805",
+      "questionStem": "The Himalayan Mountain range was formed by the collision of ________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0805",
+      "evidenceText": "Indian Plate and Eurasian Plate. Plates - They are large, rigid pieces of the Earth's lithosphere that fit together like a jigsaw puzzle, and their movements are responsible for shaping the Earth's su",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 805,
+        "block_id": "Pinnacle_SSC_Q805",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 805,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0822",
+    "stem": "Consider the following statements regarding the highest peaks in India: I. Gorichen Peak, with an elevation of 6858 m, is the highest peak in Arunachal Pradesh. II. Dhupgarh is the highest peak in Himachal Pradesh. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "Only I",
+      "opt_b": "Only II",
+      "opt_c": "Both I and II",
+      "opt_d": "Neither I nor II"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Only I. Dhupgarh is the highest in Madhya Pradesh, and Reo Purgyil is the highest in Himachal Pradesh.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both I and II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither I nor II' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0822",
+      "questionStem": "Consider the following statements regarding the highest peaks in India: I. Gorichen Peak, with an elevation of 6858 m, is the highest peak in Arunachal Pradesh. II. Dhupgarh is the highest peak in Himachal Pradesh. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0822",
+      "evidenceText": "Only I. Dhupgarh is the highest in Madhya Pradesh, and Reo Purgyil is the highest in Himachal Pradesh.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 822,
+        "block_id": "Pinnacle_SSC_Q822",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 822,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0824",
+    "stem": "Which of the following is a mountain peak that rises above the surrounding peaks at the mountainous border of the Indian state of Nagaland and the Sagaing region of Myanmar?",
+    "options": {
+      "opt_a": "Mount Kalsubai",
+      "opt_b": "Mount Doddabetta",
+      "opt_c": "Mount Saramati",
+      "opt_d": "Mount Dhupgarh"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Mount Saramati. Doddabetta is the highest mountain in the Nilgiri Mountains at 2,637 meters. Kalsubai (highest point) is a mountain in the Western Ghats, located in the Indian state of Maharashtra.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mount Kalsubai' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mount Doddabetta' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mount Dhupgarh' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0824",
+      "questionStem": "Which of the following is a mountain peak that rises above the surrounding peaks at the mountainous border of the Indian state of Nagaland and the Sagaing region of Myanmar?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0824",
+      "evidenceText": "Mount Saramati. Doddabetta is the highest mountain in the Nilgiri Mountains at 2,637 meters. Kalsubai (highest point) is a mountain in the Western Ghats, located in the Indian state of Maharashtra.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 824,
+        "block_id": "Pinnacle_SSC_Q824",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 824,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0826",
+    "stem": "_______ is created by the collision of convergent plate boundaries.",
+    "options": {
+      "opt_a": "Mid-ocean ridge",
+      "opt_b": "Land erosion",
+      "opt_c": "Oceanic trench",
+      "opt_d": "Mountain building"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Mountain building . A convergent boundary is an area on earth where two or more lithospheric plates converge or collide and one plate eventually slides beneath the other.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mid-ocean ridge' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Land erosion' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Oceanic trench' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0826",
+      "questionStem": "_______ is created by the collision of convergent plate boundaries.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0826",
+      "evidenceText": "Mountain building . A convergent boundary is an area on earth where two or more lithospheric plates converge or collide and one plate eventually slides beneath the other.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 826,
+        "block_id": "Pinnacle_SSC_Q826",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 826,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0827",
+    "stem": "'Pidurutalagala' is the highest mountain peak in ______.",
+    "options": {
+      "opt_a": "Bhutan",
+      "opt_b": "Sri Lanka",
+      "opt_c": "Myanmar",
+      "opt_d": "Nepal"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Sri Lanka . Pidurutalagala (Mount Pedro) is the tallest mountain in Sri Lanka, standing at 2,524 m in Nuwara Eliya.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Bhutan' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Myanmar' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Nepal' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0827",
+      "questionStem": "'Pidurutalagala' is the highest mountain peak in ______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0827",
+      "evidenceText": "Sri Lanka . Pidurutalagala (Mount Pedro) is the tallest mountain in Sri Lanka, standing at 2,524 m in Nuwara Eliya.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Geomorphic Processes & Landforms",
+        "concept": "Geomorphic Processes & Landforms",
+        "sentence_idx": 827,
+        "block_id": "Pinnacle_SSC_Q827",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 827,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 5,
+    "topicName": "Geomorphic Processes & Landforms",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

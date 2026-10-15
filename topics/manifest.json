@@ -1,18 +1,18 @@
 {
   "version": 21,
-  "totalQuestions": 3942,
+  "totalQuestions": 4851,
   "totalTopics": 30,
   "topics": [
     {
       "topicId": 1,
       "topicName": "🌌 Universe, Solar System & Motions of the Earth",
-      "count": 116,
+      "count": 150,
       "file": "topic_1.json"
     },
     {
       "topicId": 2,
       "topicName": "🌐 Globe, Latitudes, Longitudes & Time",
-      "count": 135,
+      "count": 143,
       "file": "topic_2.json"
     },
     {
@@ -24,61 +24,61 @@
     {
       "topicId": 4,
       "topicName": "🌋 Earth's Interior, Rocks & Plate Tectonics",
-      "count": 317,
+      "count": 328,
       "file": "topic_4.json"
     },
     {
       "topicId": 5,
       "topicName": "⛰️ Geomorphic Processes & Landforms",
-      "count": 279,
+      "count": 295,
       "file": "topic_5.json"
     },
     {
       "topicId": 6,
       "topicName": "🌪️ Atmosphere, Winds & Climate Systems",
-      "count": 113,
+      "count": 155,
       "file": "topic_6.json"
     },
     {
       "topicId": 7,
       "topicName": "🌊 Oceanography",
-      "count": 295,
+      "count": 312,
       "file": "topic_7.json"
     },
     {
       "topicId": 8,
       "topicName": "🌿 Biogeography, Ecosystems & Biodiversity",
-      "count": 132,
+      "count": 134,
       "file": "topic_8.json"
     },
     {
       "topicId": 9,
       "topicName": "🇮🇳 India: Location, Size & Neighbours",
-      "count": 130,
+      "count": 139,
       "file": "topic_9.json"
     },
     {
       "topicId": 10,
       "topicName": "🏔️ Physiography of India",
-      "count": 209,
+      "count": 403,
       "file": "topic_10.json"
     },
     {
       "topicId": 11,
       "topicName": "🏞️ Drainage System of India",
-      "count": 244,
+      "count": 410,
       "file": "topic_11.json"
     },
     {
       "topicId": 12,
       "topicName": "🌧️ Indian Climate & Monsoon",
-      "count": 120,
+      "count": 145,
       "file": "topic_12.json"
     },
     {
       "topicId": 13,
       "topicName": "🌱 Soils & Natural Vegetation of India",
-      "count": 132,
+      "count": 159,
       "file": "topic_13.json"
     },
     {
@@ -90,19 +90,19 @@
     {
       "topicId": 15,
       "topicName": "🌾 Agriculture",
-      "count": 171,
+      "count": 327,
       "file": "topic_15.json"
     },
     {
       "topicId": 16,
       "topicName": "💧 Water Resources, Irrigation & Dams",
-      "count": 100,
+      "count": 115,
       "file": "topic_16.json"
     },
     {
       "topicId": 17,
       "topicName": "⛏️ Minerals & Energy Resources",
-      "count": 147,
+      "count": 250,
       "file": "topic_17.json"
     },
     {
@@ -114,13 +114,13 @@
     {
       "topicId": 19,
       "topicName": "🚆 Transport, Communication & Trade",
-      "count": 142,
+      "count": 153,
       "file": "topic_19.json"
     },
     {
       "topicId": 20,
       "topicName": "👥 Population, Migration & Settlements",
-      "count": 124,
+      "count": 197,
       "file": "topic_20.json"
     },
     {
@@ -183,5 +183,6 @@
       "count": 60,
       "file": "topic_30.json"
     }
-  ]
+  ],
+  "updatedAt": "2026-10-15T13:30:00Z"
 }

@@ -22505,5 +22505,753 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0008",
+    "stem": "Consider the following statements about the Geoid: 1. The term Geoid refers to the axis of the Earth. 2. The Earth is slightly flattened at the poles and bulges at the equator due to the outward force caused by its rotation. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "2 only. Geoid refers to the shape of the Earth, not its axis.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0008",
+      "questionStem": "Consider the following statements about the Geoid: 1. The term Geoid refers to the axis of the Earth. 2. The Earth is slightly flattened at the poles and bulges at the equator due to the outward force caused by its rotation. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0008",
+      "evidenceText": "2 only. Geoid refers to the shape of the Earth, not its axis.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 8,
+        "block_id": "Pinnacle_SSC_Q8",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 8,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0078",
+    "stem": "Continental Shelf which is the shallowest part of the ocean has an average gradient of:",
+    "options": {
+      "opt_a": "1° or even less",
+      "opt_b": "2° or even less",
+      "opt_c": "8° or even less",
+      "opt_d": "5° or even less"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "1° or even less. The Continental Shelf is the extended margin of each continent occupied by relatively shallow seas and gulfs. About Continental Shelf : The shelf typically ends at a very steep slope, called the shelf break. Their width varies globally, with an average of about 80 km, but can be narrower or even absent in some regions, such as the coasts of Chile and the west coast of Sumatra.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2° or even less' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'8° or even less' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'5° or even less' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0078",
+      "questionStem": "Continental Shelf which is the shallowest part of the ocean has an average gradient of:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0078",
+      "evidenceText": "1° or even less. The Continental Shelf is the extended margin of each continent occupied by relatively shallow seas and gulfs. About Continental Shelf : The shelf typically ends at a very steep slope,",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 78,
+        "block_id": "Pinnacle_SSC_Q78",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 78,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0085",
+    "stem": "Which of the following oceans extends into the Mediterranean Sea?",
+    "options": {
+      "opt_a": "Indian Ocean",
+      "opt_b": "Pacific Ocean",
+      "opt_c": "Atlantic Ocean",
+      "opt_d": "Arctic Ocean"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Atlantic Ocean is the 2nd largest ocean in the world. The Mediterranean is an intercontinental sea spread between Europe, North Africa, and Western Asia and connected to the Atlantic Ocean through the strait of Gibraltar.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Indian Ocean' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Pacific Ocean' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Arctic Ocean' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0085",
+      "questionStem": "Which of the following oceans extends into the Mediterranean Sea?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0085",
+      "evidenceText": "Atlantic Ocean is the 2nd largest ocean in the world. The Mediterranean is an intercontinental sea spread between Europe, North Africa, and Western Asia and connected to the Atlantic Ocean through the",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 85,
+        "block_id": "Pinnacle_SSC_Q85",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 85,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0090",
+    "stem": "The crust is the Earth's outermost layer that is less than ______ percent of Earth by mass, with oceanic crust and continental crust often consisting of more felsic rocks.",
+    "options": {
+      "opt_a": "5",
+      "opt_b": "1",
+      "opt_c": "2",
+      "opt_d": "10"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "1. The average density of oceanic crust is 3.0 g/cm 3 , while continental crust has an average of 2.7 g/cm 3 . The mass of the continental crust is 2.195. The continental crust (about 30 km) is composed of lighter (felsic) sodium potassium aluminum silicate rocks, like granite. The oceanic crust (about 5 km) is composed of dense (mafic) iron magnesium silicate igneous rocks, like basalt.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'5' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'10' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0090",
+      "questionStem": "The crust is the Earth's outermost layer that is less than ______ percent of Earth by mass, with oceanic crust and continental crust often consisting of more felsic rocks.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0090",
+      "evidenceText": "1. The average density of oceanic crust is 3.0 g/cm 3 , while continental crust has an average of 2.7 g/cm 3 . The mass of the continental crust is 2.195. The continental crust (about 30 km) is compos",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 90,
+        "block_id": "Pinnacle_SSC_Q90",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 90,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0091",
+    "stem": "Consider the following statements: 1. The movement of Earth's plates is classified into three main types of tectonic boundaries. 2. Convergent, divergent, and transform are the three primary types of plate movements. Which of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both 1 and 2. The movement of the plates creates three types of tectonic boundaries: convergent, where plates move into one another; divergent, where plates move apart; and transform, where plates move sideways in relation to each other.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0091",
+      "questionStem": "Consider the following statements: 1. The movement of Earth's plates is classified into three main types of tectonic boundaries. 2. Convergent, divergent, and transform are the three primary types of plate movements. Which of the statements given above is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0091",
+      "evidenceText": "Both 1 and 2. The movement of the plates creates three types of tectonic boundaries: convergent, where plates move into one another; divergent, where plates move apart; and transform, where plates mov",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 91,
+        "block_id": "Pinnacle_SSC_Q91",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 91,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0105",
+    "stem": "Consider the following statements regarding Gondwanaland: 1. Gondwanaland included present-day South America, Africa, Madagascar, India, Australia, and Antarctica. 2. North America was also a part of Gondwanaland. Which of the above statements is/are incorrect?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "2 only. Gondwana was a large landmass, sometimes referred to as a supercontinent. The remnants of Gondwana make up around two-thirds of today's continental area, including South America, Africa, Antarctica, Australia, Zealandia, Arabia, and the Indian subcontinent. Neighbouring Countries of India",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0105",
+      "questionStem": "Consider the following statements regarding Gondwanaland: 1. Gondwanaland included present-day South America, Africa, Madagascar, India, Australia, and Antarctica. 2. North America was also a part of Gondwanaland. Which of the above statements is/are incorrect?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0105",
+      "evidenceText": "2 only. Gondwana was a large landmass, sometimes referred to as a supercontinent. The remnants of Gondwana make up around two-thirds of today's continental area, including South America, Africa, Antar",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 105,
+        "block_id": "Pinnacle_SSC_Q105",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 105,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0659",
+    "stem": "Which of the following statements is/are true regarding India's rural and urban population trends from 1901 to 2011? 1. The rural population has consistently increased in absolute numbers. 2. The percentage share of rural population in total population has steadily declined. 3. Urban population first exceeded 100 million in 1981.",
+    "options": {
+      "opt_a": "Only 1 and 2",
+      "opt_b": "All of the above",
+      "opt_c": "Only 1 and 3",
+      "opt_d": "Only 2 and 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Only 1 and 2. Despite rapid urbanization, India’s rural population kept increasing in absolute numbers in every census from 1901 to 2011. It rose from about 212 million in 1901 to over 833 million in 2011. However, the share of the rural population declined from 89% (1901) to 68.84% (2011). India’s urban population crossed 100 million in the 1971 Census, reaching about 109 million (10.78 crore), and further increased to around 159 million in 1981.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'All of the above' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 1 and 3' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 2 and 3' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0659",
+      "questionStem": "Which of the following statements is/are true regarding India's rural and urban population trends from 1901 to 2011? 1. The rural population has consistently increased in absolute numbers. 2. The percentage share of rural population in total population has steadily declined. 3. Urban population first exceeded 100 million in 1981.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0659",
+      "evidenceText": "Only 1 and 2. Despite rapid urbanization, India’s rural population kept increasing in absolute numbers in every census from 1901 to 2011. It rose from about 212 million in 1901 to over 833 million in ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 659,
+        "block_id": "Pinnacle_SSC_Q659",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 7/08/2025 (Shift 2)",
+        "pdfSequence": 659,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0723",
+    "stem": "The _________ birth rate indicates the number of live births occurring during the year per 1000 population estimated at midyear.",
+    "options": {
+      "opt_a": "neutral",
+      "opt_b": "positive",
+      "opt_c": "negative",
+      "opt_d": "crude"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "crude. Birth rate is the total number of live births in a particular area (an entire country, a state, a district or other territorial unit) during a specified period (usually a year) divided by the total population of that area in thousands. Death rate is expressed as the number of deaths in a given area during a given time per 1000 population. Rate of natural increase refers to the difference between the birth rate and the www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography death rate.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'neutral' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'positive' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'negative' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0723",
+      "questionStem": "The _________ birth rate indicates the number of live births occurring during the year per 1000 population estimated at midyear.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0723",
+      "evidenceText": "crude. Birth rate is the total number of live births in a particular area (an entire country, a state, a district or other territorial unit) during a specified period (usually a year) divided by the t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 723,
+        "block_id": "Pinnacle_SSC_Q723",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 723,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0767",
+    "stem": "The zone separating the troposphere from the stratosphere is called the __________.",
+    "options": {
+      "opt_a": "Tropopause",
+      "opt_b": "stratospause",
+      "opt_c": "Stratomerge",
+      "opt_d": "Tropomerge"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Tropopause. The air temperature at the tropopause is about - 80 o C over the equator and about - 45 o C over the poles. The temperature in this region is nearly constant, and hence, it is called the tropopause. The stratosphere is found above the tropopause and extends up to a height of 50 km. One important feature of the stratosphere is that it contains the ozone layer.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'stratospause' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Stratomerge' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tropomerge' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0767",
+      "questionStem": "The zone separating the troposphere from the stratosphere is called the __________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0767",
+      "evidenceText": "Tropopause. The air temperature at the tropopause is about - 80 o C over the equator and about - 45 o C over the poles. The temperature in this region is nearly constant, and hence, it is called the t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 767,
+        "block_id": "Pinnacle_SSC_Q767",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 767,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0866",
+    "stem": "The earthquakes that are generated due to the explosion of chemical or nuclear devices are known as:",
+    "options": {
+      "opt_a": "Collapse earthquakes",
+      "opt_b": "Explosion earthquakes",
+      "opt_c": "Tectonic earthquakes",
+      "opt_d": "Reservoir-induced earthquakes"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Explosion earthquakes. Types of Earthquakes: In regions with heavy mining activity, the collapse of underground mine roofs can cause minor tremors, known as collapse earthquakes. The most common type is tectonic earthquakes, which result from the movement of rocks along a fault plane. A subcategory of tectonic earthquakes, known as volcanic earthquakes, occur in areas with active volcanoes. Additionally, reservoir-induced earthquakes are triggered in regions where large reservoirs are present.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Collapse earthquakes' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tectonic earthquakes' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Reservoir-induced earthquakes' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0866",
+      "questionStem": "The earthquakes that are generated due to the explosion of chemical or nuclear devices are known as:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0866",
+      "evidenceText": "Explosion earthquakes. Types of Earthquakes: In regions with heavy mining activity, the collapse of underground mine roofs can cause minor tremors, known as collapse earthquakes. The most common type ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 866,
+        "block_id": "Pinnacle_SSC_Q866",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 866,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0889",
+    "stem": "Select the correct statement.",
+    "options": {
+      "opt_a": "The pyramid of energy is always upright.",
+      "opt_b": "The pyramid of biomass is always inverted.",
+      "opt_c": "The pyramid of mass is always upright.",
+      "opt_d": "The pyramid of number is always upright."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The pyramid of energy is always upright, and can never be inverted. According to the 10% law proposed by Raymond Lindeman of energy flow , only 10% of energy is transferred from one trophic level to another and 90% of the energy remains at the former trophic level for its needs like respiration and digestion processes. The direction of energy flow in an ecosystem is always unidirectional.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'The pyramid of biomass is always inverted.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'The pyramid of mass is always upright.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'The pyramid of number is always upright.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0889",
+      "questionStem": "Select the correct statement.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0889",
+      "evidenceText": "The pyramid of energy is always upright, and can never be inverted. According to the 10% law proposed by Raymond Lindeman of energy flow , only 10% of energy is transferred from one trophic level to a",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Earth's Interior, Rocks & Plate Tectonics",
+        "concept": "Earth's Interior, Rocks & Plate Tectonics",
+        "sentence_idx": 889,
+        "block_id": "Pinnacle_SSC_Q889",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 889,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 4,
+    "topicName": "Earth's Interior, Rocks & Plate Tectonics",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

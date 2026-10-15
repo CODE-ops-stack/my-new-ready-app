@@ -9228,5 +9228,617 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0025",
+    "stem": "Which of the below statements is/are incorrect? Statement 1: The Big Dipper is an asterism formed by the seven brightest stars in the constellation Orion. Statement 2: Ursa Major is the largest constellation in the entire sky.",
+    "options": {
+      "opt_a": "Only Statement 1",
+      "opt_b": "Only Statement 2",
+      "opt_c": "Both Statement 1 and 2",
+      "opt_d": "None of the above"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both Statement 1 and 2. Statement 1 is incorrect because the Big Dipper belongs to the constellation Ursa Major, not Orion. Statement 2 is also incorrect because Ursa Major ( Great Bear) is the third - largest constellation in the sky and the largest constellation in the Northern Hemisphere.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 1' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'None of the above' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0025",
+      "questionStem": "Which of the below statements is/are incorrect? Statement 1: The Big Dipper is an asterism formed by the seven brightest stars in the constellation Orion. Statement 2: Ursa Major is the largest constellation in the entire sky.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0025",
+      "evidenceText": "Both Statement 1 and 2. Statement 1 is incorrect because the Big Dipper belongs to the constellation Ursa Major, not Orion. Statement 2 is also incorrect because Ursa Major ( Great Bear) is the third ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 25,
+        "block_id": "Pinnacle_SSC_Q25",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 25,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0037",
+    "stem": "Which of the below statements is/are incorrect? Statement 1: Comets are cosmic snowballs of frozen gases, rock, and dust that orbit the Sun. Statement 2: Meteorites are stars that fall from space and burn completely before reaching the Earth’s surface.",
+    "options": {
+      "opt_a": "Only Statement 1",
+      "opt_b": "Only Statement 2",
+      "opt_c": "Both Statement 1 and 2",
+      "opt_d": "None of the above"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Only Statement 2. Meteorites - When a meteoroid survives its trip through the atmosphere and hits the ground, it’s called a meteorite. Meteorites typically range between the size of a pebble and a fist.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 1' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both Statement 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'None of the above' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0037",
+      "questionStem": "Which of the below statements is/are incorrect? Statement 1: Comets are cosmic snowballs of frozen gases, rock, and dust that orbit the Sun. Statement 2: Meteorites are stars that fall from space and burn completely before reaching the Earth’s surface.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0037",
+      "evidenceText": "Only Statement 2. Meteorites - When a meteoroid survives its trip through the atmosphere and hits the ground, it’s called a meteorite. Meteorites typically range between the size of a pebble and a fis",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 37,
+        "block_id": "Pinnacle_SSC_Q37",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 37,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0038",
+    "stem": "What is the radius of the earth?",
+    "options": {
+      "opt_a": "7456 km",
+      "opt_b": "6371 km",
+      "opt_c": "5619 km",
+      "opt_d": "4728 km"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "6371 km. Earth Distance from the Sun (150 million km), Surface area: 510.1 million km², Land area: 149 million km², Gravity: 9.8 m/s².",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'7456 km' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'5619 km' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'4728 km' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0038",
+      "questionStem": "What is the radius of the earth?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0038",
+      "evidenceText": "6371 km. Earth Distance from the Sun (150 million km), Surface area: 510.1 million km², Land area: 149 million km², Gravity: 9.8 m/s².",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 38,
+        "block_id": "Pinnacle_SSC_Q38",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 38,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0047",
+    "stem": "Consider the following statements regarding solar eclipses: 1. A solar eclipse occurs when the Moon passes between the Earth and the Sun. 2. Types of solar eclipse include Total, Hybrid, Annular, and Partial. 3. In an annular solar eclipse, the Moon appears smaller than the Sun and does not completely cover it. 4. A penumbral eclipse is a type of solar eclipse. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "Only 1, 2 and 3",
+      "opt_b": "Only 1 and 3",
+      "opt_c": "Only 2 and 4",
+      "opt_d": "All of the above"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Only 1, 2 and 3. Penumbral (Lunar eclipse). A solar eclipse occurs when the Moon passes between the Earth and the Sun. Types of solar eclipse: Total (Completely blocking the face of the Sun), Hybrid (the Moon is farther away from Earth, it appears smaller than the Sun and does not completely cover the Sun) and Annular (when Sun is at or near its farthest point from Earth).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 1 and 3' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 2 and 4' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'All of the above' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0047",
+      "questionStem": "Consider the following statements regarding solar eclipses: 1. A solar eclipse occurs when the Moon passes between the Earth and the Sun. 2. Types of solar eclipse include Total, Hybrid, Annular, and Partial. 3. In an annular solar eclipse, the Moon appears smaller than the Sun and does not completely cover it. 4. A penumbral eclipse is a type of solar eclipse. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0047",
+      "evidenceText": "Only 1, 2 and 3. Penumbral (Lunar eclipse). A solar eclipse occurs when the Moon passes between the Earth and the Sun. Types of solar eclipse: Total (Completely blocking the face of the Sun), Hybrid (",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 47,
+        "block_id": "Pinnacle_SSC_Q47",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 47,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0231",
+    "stem": "On which river is Peacock Island located?",
+    "options": {
+      "opt_a": "Mahanadi",
+      "opt_b": "Ganga",
+      "opt_c": "Brahmaputra",
+      "opt_d": "Yamuna"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Brahmaputra. Peacock Island or Umananda Island is the smallest inhabited river island in the middle of river Brahmaputra, flowing through the city of Guwahati. Its name derives from Assamese Uma. It is also known as Bhasmachal.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mahanadi' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ganga' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Yamuna' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0231",
+      "questionStem": "On which river is Peacock Island located?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0231",
+      "evidenceText": "Brahmaputra. Peacock Island or Umananda Island is the smallest inhabited river island in the middle of river Brahmaputra, flowing through the city of Guwahati. Its name derives from Assamese Uma. It i",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 231,
+        "block_id": "Pinnacle_SSC_Q231",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 231,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0341",
+    "stem": "The agricultural land below the main canal water level forms the ______.",
+    "options": {
+      "opt_a": "command area",
+      "opt_b": "lift system",
+      "opt_c": "flow system",
+      "opt_d": "warebandi"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "command area. Lift system - Water is lifted from lower level to higher level with the help of pumps and other equipment. Flow system - The type of irrigation in which water is available at a higher level to enable supply to the land by gravity flow . Warabandi - It is a system of rotation of supply of water according to a predetermined schedule as per area and crop needs specifying the day, time and duration of supply to each holding to ensure equitable water distribution among farmers of an outlet command.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'lift system' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'flow system' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'warebandi' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0341",
+      "questionStem": "The agricultural land below the main canal water level forms the ______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0341",
+      "evidenceText": "command area. Lift system - Water is lifted from lower level to higher level with the help of pumps and other equipment. Flow system - The type of irrigation in which water is available at a higher le",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 341,
+        "block_id": "Pinnacle_SSC_Q341",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 341,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0615",
+    "stem": "About what percentage of passenger traffic is carried by roads in India?",
+    "options": {
+      "opt_a": "77%",
+      "opt_b": "87%",
+      "opt_c": "57%",
+      "opt_d": "67%"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "87%. The Road Transport Sector handles about 60% of freight traffic in India. For passenger traffic, roads account for 87%, railways for 12%, and both air and waterways contribute approximately 0.5% each, as per the Ministry of Road Transport and Highways.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'77%' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'57%' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'67%' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0615",
+      "questionStem": "About what percentage of passenger traffic is carried by roads in India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0615",
+      "evidenceText": "87%. The Road Transport Sector handles about 60% of freight traffic in India. For passenger traffic, roads account for 87%, railways for 12%, and both air and waterways contribute approximately 0.5% e",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 615,
+        "block_id": "Pinnacle_SSC_Q615",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 615,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0682",
+    "stem": "According to the Census of India 2011, which group of Union Territories has the highest density of population?",
+    "options": {
+      "opt_a": "Lakshadweep, Daman and Diu and Puducherry",
+      "opt_b": "Delhi, Chandigarh and Daman and Diu",
+      "opt_c": "Delhi, Chandigarh and Puducherry",
+      "opt_d": "Lakshadweep, Daman and Diu and Chandigarh"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Delhi, Chandigarh and Puducherry. In 2011, the population density of India was 382 persons per square kilometer, with Arunachal Pradesh having the lowest density at 17 persons per square kilometer; Bihar had the highest density at 1,106 persons per square kilometer, followed by West Bengal (1028), Kerala (860), Uttar Pradesh (829), and Haryana (573).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Lakshadweep, Daman and Diu and Puducherry' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Delhi, Chandigarh and Daman and Diu' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Lakshadweep, Daman and Diu and Chandigarh' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0682",
+      "questionStem": "According to the Census of India 2011, which group of Union Territories has the highest density of population?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0682",
+      "evidenceText": "Delhi, Chandigarh and Puducherry. In 2011, the population density of India was 382 persons per square kilometer, with Arunachal Pradesh having the lowest density at 17 persons per square kilometer; Bi",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 682,
+        "block_id": "Pinnacle_SSC_Q682",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 682,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0832",
+    "stem": "In which of the following states is the Shatrunjaya Hills located?",
+    "options": {
+      "opt_a": "Gujarat",
+      "opt_b": "Andhra Pradesh",
+      "opt_c": "Madhya Pradesh",
+      "opt_d": "Karnataka"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Gujarat . Other prominent hills in Gujarat include– Bhujia Hill, Dhinodhar, Girnar, Kalo Dungar, Pavagadh Hill, Thaltej-Jodhpur Tekra, Wilson Hills.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Andhra Pradesh' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Madhya Pradesh' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Karnataka' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0832",
+      "questionStem": "In which of the following states is the Shatrunjaya Hills located?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0832",
+      "evidenceText": "Gujarat . Other prominent hills in Gujarat include– Bhujia Hill, Dhinodhar, Girnar, Kalo Dungar, Pavagadh Hill, Thaltej-Jodhpur Tekra, Wilson Hills.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "India: Location, Size & Neighbours",
+        "concept": "India: Location, Size & Neighbours",
+        "sentence_idx": 832,
+        "block_id": "Pinnacle_SSC_Q832",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 832,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 9,
+    "topicName": "India: Location, Size & Neighbours",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

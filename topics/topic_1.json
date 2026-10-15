@@ -8215,5 +8215,2317 @@
       "createdAt": "2026-10-11T21:55:00Z",
       "schemaVersion": "v8"
     }
+  },
+  {
+    "id": "ssc_pyq_0001",
+    "stem": "What are the streams of charged particles ejected by the Sun into space called?",
+    "options": {
+      "opt_a": "Sunspots",
+      "opt_b": "Solar wind",
+      "opt_c": "Solar flares",
+      "opt_d": "Coronal loops"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Solar wind. It is a constant stream of charged particles (mostly protons and electrons) that are released from the Sun's upper atmosphere, known as the corona. The solar wind blows in all directions. It continues moving at that speed for about 10 billion kilometers (six billion miles). Sunspots are dark surface spots, Solar flar es are sudden bursts of energy, and Coronal loops are arcs of hot plasma shaped by magnetic fields.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Sunspots' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Solar flares' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Coronal loops' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0001",
+      "questionStem": "What are the streams of charged particles ejected by the Sun into space called?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0001",
+      "evidenceText": "Solar wind. It is a constant stream of charged particles (mostly protons and electrons) that are released from the Sun's upper atmosphere, known as the corona. The solar wind blows in all directions. ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 1,
+        "block_id": "Pinnacle_SSC_Q1",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 6/08/2025 (Shift 2)",
+        "pdfSequence": 1,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0002",
+    "stem": "Which of the following systems can be affected by a solar storm? 1. GPS signal accuracy 2. Power transmission systems 3. Submarine communication cables 4. Pipeline infrastructure",
+    "options": {
+      "opt_a": "2 and 3 only",
+      "opt_b": "1 and 2 only",
+      "opt_c": "3 and 4 only",
+      "opt_d": "1, 2, 3, and 4 all of these"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "1, 2, 3, and 4 all of these. Solar storms release high-energy charged particles and electromagnetic radiation that disturb Earth’s magnetosphere. This can disrupt GPS accuracy, power grids, submarine cables, and pipelines by inducing currents and affecting signal transmission. Hence, all four listed systems are vulnerable.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 and 3 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 and 2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'3 and 4 only' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0002",
+      "questionStem": "Which of the following systems can be affected by a solar storm? 1. GPS signal accuracy 2. Power transmission systems 3. Submarine communication cables 4. Pipeline infrastructure",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0002",
+      "evidenceText": "1, 2, 3, and 4 all of these. Solar storms release high-energy charged particles and electromagnetic radiation that disturb Earth’s magnetosphere. This can disrupt GPS accuracy, power grids, submarine ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 2,
+        "block_id": "Pinnacle_SSC_Q2",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 6/08/2025 (Shift 3)",
+        "pdfSequence": 2,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0004",
+    "stem": "Which of the following is the correct sequence in the life cycle of a star like the Sun?",
+    "options": {
+      "opt_a": "Protostar → White Dwarf → Red Giant → Main Sequence",
+      "opt_b": "Nebula → Red Giant → Main Sequence → White Dwarf",
+      "opt_c": "Main Sequence → Red Giant → White Dwarf",
+      "opt_d": "Red Giant → Protostar → White Dwarf"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Main Sequence → Red Giant → White Dwarf. The life cycle of a medium-sized star (like our Sun) follows a specific sequence: 1. Nebula / Protostar stage – Stars are born in large clouds of gas and dust (nebula). The contracting gas forms a protostar. 2.Main Sequence – The star spends most of its life in this stable phase, where hydrogen fusion occurs in the core (the Sun is currently in this stage). 3. Red Giant – After hydrogen in the core is exhausted, the star expands and cools to become a Red Giant. 4. White Dwarf – Finally, after shedding its outer layers (planetary nebula), the star’s remaining dense core becomes a White Dwarf.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Protostar → White Dwarf → Red Giant → Main Sequence' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Nebula → Red Giant → Main Sequence → White Dwarf' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Red Giant → Protostar → White Dwarf' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0004",
+      "questionStem": "Which of the following is the correct sequence in the life cycle of a star like the Sun?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0004",
+      "evidenceText": "Main Sequence → Red Giant → White Dwarf. The life cycle of a medium-sized star (like our Sun) follows a specific sequence: 1. Nebula / Protostar stage – Stars are born in large clouds of gas and dust ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 4,
+        "block_id": "Pinnacle_SSC_Q4",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 7/08/2025 (Shift 3)",
+        "pdfSequence": 4,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0007",
+    "stem": "Which planet has the longest day in the solar system?",
+    "options": {
+      "opt_a": "Venus",
+      "opt_b": "Mars",
+      "opt_c": "Jupiter",
+      "opt_d": "Earth"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Venus. A day on a planet is measured by its rotation period (time taken to complete one rotation on its axis). Venus rotates very slowly and in the opposite direction (retrograde rotation). One day on Venus (sidereal day) = 243 Earth days → the longest day in the solar system. Venus - Rotation period = 243 Earth days.Mars - Similar to Earth; 24 hours 37 minutes. Jupiter - Fastest rotation; ~9 hours 56 minutes (shortest day).Earth - 24 hours.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mars' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Jupiter' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Earth' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0007",
+      "questionStem": "Which planet has the longest day in the solar system?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0007",
+      "evidenceText": "Venus. A day on a planet is measured by its rotation period (time taken to complete one rotation on its axis). Venus rotates very slowly and in the opposite direction (retrograde rotation). One day on",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 7,
+        "block_id": "Pinnacle_SSC_Q7",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 8/08/2025 (Shift 3)",
+        "pdfSequence": 7,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0010",
+    "stem": "Which of the below statements is/are correct? Statement 1: Callisto, Europa, and Ganymede are natural satellites of Jupiter. Statement 2: Triton is the largest moon of Neptune.",
+    "options": {
+      "opt_a": "Only Statement 1",
+      "opt_b": "Only Statement 2",
+      "opt_c": "Both Statement 1 and 2",
+      "opt_d": "None of the above"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both Statement 1 and 2. Jupiter, the most massive planet of the solar system and the fifth in distance from the Sun. Revolution - 11 years and 11 months, Rotation - 9 hours 56 minutes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 1' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'None of the above' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0010",
+      "questionStem": "Which of the below statements is/are correct? Statement 1: Callisto, Europa, and Ganymede are natural satellites of Jupiter. Statement 2: Triton is the largest moon of Neptune.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0010",
+      "evidenceText": "Both Statement 1 and 2. Jupiter, the most massive planet of the solar system and the fifth in distance from the Sun. Revolution - 11 years and 11 months, Rotation - 9 hours 56 minutes.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 10,
+        "block_id": "Pinnacle_SSC_Q10",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 10,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0011",
+    "stem": "Which is, by far, the closest dwarf planet orbiting at only 2.8 times Earth’s distance from the sun?",
+    "options": {
+      "opt_a": "Ceres",
+      "opt_b": "Makemake",
+      "opt_c": "Eris",
+      "opt_d": "Pluto"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it is the only dwarf planet located in the inner solar system. It was the first member of the asteroid belt to be discovered when Giuseppe Piazzi spotted it in 1801.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Makemake' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Eris' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Pluto' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0011",
+      "questionStem": "Which is, by far, the closest dwarf planet orbiting at only 2.8 times Earth’s distance from the sun?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0011",
+      "evidenceText": "Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it is the only dwarf planet located in the inner solar system. It was the first member of the asteroid belt to be discove",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 11,
+        "block_id": "Pinnacle_SSC_Q11",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 11,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0012",
+    "stem": "Consider the following statements about a nebula: 1. A nebula is a cloud of dust and gas inside a galaxy, consisting mainly of hydrogen, helium, and other ionized gases. 2. Originally, the term nebula was used to describe only galaxies within the Milky Way. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "1 only. The term nebula was originally used for any diffuse astronomical object, including galaxies outside the Milky Way.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0012",
+      "questionStem": "Consider the following statements about a nebula: 1. A nebula is a cloud of dust and gas inside a galaxy, consisting mainly of hydrogen, helium, and other ionized gases. 2. Originally, the term nebula was used to describe only galaxies within the Milky Way. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0012",
+      "evidenceText": "1 only. The term nebula was originally used for any diffuse astronomical object, including galaxies outside the Milky Way.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 12,
+        "block_id": "Pinnacle_SSC_Q12",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 12,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0013",
+    "stem": "A distinctive cross - shaped constellation best seen in the northern hemisphere during the summer and fall months around September is:",
+    "options": {
+      "opt_a": "Cygnus",
+      "opt_b": "Ursa Major",
+      "opt_c": "Pegasus",
+      "opt_d": "Cassiopeia"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Cygnus. It is a northern constellation on the plane of the Milky Way, deriving its name from the Latinized Greek word for swan.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ursa Major' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Pegasus' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cassiopeia' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0013",
+      "questionStem": "A distinctive cross - shaped constellation best seen in the northern hemisphere during the summer and fall months around September is:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0013",
+      "evidenceText": "Cygnus. It is a northern constellation on the plane of the Milky Way, deriving its name from the Latinized Greek word for swan.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 13,
+        "block_id": "Pinnacle_SSC_Q13",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 13,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0015",
+    "stem": "The colour of the surface of Mars is red because of the presence of large amounts of chemical compounds in it. What is the name of that compound?",
+    "options": {
+      "opt_a": "Magnesium oxide",
+      "opt_b": "Tin oxide",
+      "opt_c": "Iron oxide",
+      "opt_d": "Nitrogen oxide"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Iron oxide. Mars appears reddish due to the presence of ferric iron in the form of red hematite (Fe 2 O 3 ). The surface pressure of Mars is 610 Pascals, and its gravity is about one - third of Earth's. A Martian day lasts 24 hours and 37 minutes. Mars has two moons: Phobos and Deimos.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Magnesium oxide' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tin oxide' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Nitrogen oxide' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0015",
+      "questionStem": "The colour of the surface of Mars is red because of the presence of large amounts of chemical compounds in it. What is the name of that compound?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0015",
+      "evidenceText": "Iron oxide. Mars appears reddish due to the presence of ferric iron in the form of red hematite (Fe 2 O 3 ). The surface pressure of Mars is 610 Pascals, and its gravity is about one - third of Earth'",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 15,
+        "block_id": "Pinnacle_SSC_Q15",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 15,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0017",
+    "stem": "Which of the following is the second nearest star to Earth?",
+    "options": {
+      "opt_a": "Proxima Centauri",
+      "opt_b": "Polaris",
+      "opt_c": "Sirius",
+      "opt_d": "Delta Velorum"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Proxima Centauri. It is the closest star to the sun, at a distance of 4.24 light - years. A light - year is the distance light travels in one year, which is about 9.461 x 10 12 kilometers. Polaris (North Star) is located nearly directly above Earth's North Pole along its rotational axis. Sirius (Dog Star) is the brightest star in Earth's night sky. Delta Velorum is a triple star system in the southern constellation of Vela.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Polaris' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Sirius' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Delta Velorum' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0017",
+      "questionStem": "Which of the following is the second nearest star to Earth?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0017",
+      "evidenceText": "Proxima Centauri. It is the closest star to the sun, at a distance of 4.24 light - years. A light - year is the distance light travels in one year, which is about 9.461 x 10 12 kilometers. Polaris (No",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 17,
+        "block_id": "Pinnacle_SSC_Q17",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 17,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0018",
+    "stem": "Which of the following statements most accurately describes the planet Saturn?",
+    "options": {
+      "opt_a": "It is a gas giant made up mostly of hydrogen and helium and the density is less than that of water",
+      "opt_b": "Its surface is reddish in colour.",
+      "opt_c": "It was the seventh planet discovered in the Solar System.",
+      "opt_d": "Its cloud-like outer regions consist of methane in the gaseous form and ammonia in crystalline form."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Saturn's density (0.70 gm/cm 3 ) is less than that of water, making it the least dense planet in the solar system. If there were a body of water large enough, Saturn would theoretically float. The presence of methane and ammonia is more characteristic of Uranus and Neptune.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Its surface is reddish in colour.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'It was the seventh planet discovered in the Solar System.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Its cloud-like outer regions consist of methane in the gaseous form and ammonia in crystalline form.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0018",
+      "questionStem": "Which of the following statements most accurately describes the planet Saturn?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0018",
+      "evidenceText": "Saturn's density (0.70 gm/cm 3 ) is less than that of water, making it the least dense planet in the solar system. If there were a body of water large enough, Saturn would theoretically float. The pre",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 18,
+        "block_id": "Pinnacle_SSC_Q18",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 18,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0019",
+    "stem": "Which of the following rocky planets is the fastest planet in our solar system – traveling through space at about 29 miles (47 kilometers) per second?",
+    "options": {
+      "opt_a": "Earth",
+      "opt_b": "Mercury",
+      "opt_c": "Venus",
+      "opt_d": "Mars"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Mercury. It is the nearest to the sun. It takes only about 88 days to complete one round along its orbit. Venus: It is considered as ‘Earth’s - twin’ because its size and shape are very much similar to that of the earth. Venus is also known as Lucifer. Earth is the fifth largest planet (in size). It is slightly flattened at the poles and its shape is described as a Geoid. Mars - The fourth planet from the Sun and it is a dusty, cold, desert world with a very thin atmosphere.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Earth' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Venus' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mars' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0019",
+      "questionStem": "Which of the following rocky planets is the fastest planet in our solar system – traveling through space at about 29 miles (47 kilometers) per second?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0019",
+      "evidenceText": "Mercury. It is the nearest to the sun. It takes only about 88 days to complete one round along its orbit. Venus: It is considered as ‘Earth’s - twin’ because its size and shape are very much similar t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 19,
+        "block_id": "Pinnacle_SSC_Q19",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 19,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0020",
+    "stem": "Which of the following is one of the largest spiral galaxies?",
+    "options": {
+      "opt_a": "NGC 6872",
+      "opt_b": "Milky Way",
+      "opt_c": "Cygnus A",
+      "opt_d": "Maffei 1"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "NGC 6872, which is one of the largest spiral galaxies, spanning 522,000 light-years across, approximately fiv e times the size of the Milky Way. It is located 212 million light-years from Earth in the southern constellation Pavo. www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Milky Way' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cygnus A' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Maffei 1' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0020",
+      "questionStem": "Which of the following is one of the largest spiral galaxies?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0020",
+      "evidenceText": "NGC 6872, which is one of the largest spiral galaxies, spanning 522,000 light-years across, approximately fiv e times the size of the Milky Way. It is located 212 million light-years from Earth in the",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 20,
+        "block_id": "Pinnacle_SSC_Q20",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 20,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0021",
+    "stem": "Match the following planets with their approximate day length (rotation period): List I (Planet) List II (Day Length in Hours) A. Mercury i. 25 B. Venus ii. 1,408 C. Mars iii. 5,832 D. Neptune iv. 16",
+    "options": {
+      "opt_a": "A–ii, B–iii, C–i, D–iv",
+      "opt_b": "A–iii, B–ii, C–i, D–iv",
+      "opt_c": "A–ii, B–iv, C–i, D–iii",
+      "opt_d": "A–iv, B–iii, C–ii, D–i"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A–ii, B–iii, C–i, D–iv. Planet and Day Length in hours: Mercury (1,408), Venus (5,832), Earth (24), Mars (25), Jupiter (10), Saturn (11), Uranus (17). Mercury is nearest to the sun. It takes only about 88 days to complete one round along its orbit.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'A–iii, B–ii, C–i, D–iv' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A–ii, B–iv, C–i, D–iii' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A–iv, B–iii, C–ii, D–i' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0021",
+      "questionStem": "Match the following planets with their approximate day length (rotation period): List I (Planet) List II (Day Length in Hours) A. Mercury i. 25 B. Venus ii. 1,408 C. Mars iii. 5,832 D. Neptune iv. 16",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0021",
+      "evidenceText": "A–ii, B–iii, C–i, D–iv. Planet and Day Length in hours: Mercury (1,408), Venus (5,832), Earth (24), Mars (25), Jupiter (10), Saturn (11), Uranus (17). Mercury is nearest to the sun. It takes only abou",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 21,
+        "block_id": "Pinnacle_SSC_Q21",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 21,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0022",
+    "stem": "Who was the first to develop a mathematical predictive heliocentric model of the solar system?",
+    "options": {
+      "opt_a": "Nicolaus Copernicus",
+      "opt_b": "Galileo Galilei",
+      "opt_c": "Pierre-Simon Laplace",
+      "opt_d": "Immanuel Kant"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Nicolaus Copernicus. Although Aryabhatta (5th century A.D.) hinted at astronomical ideas, Copernicus (1473 - 1543) developed the first mathematical heliocentric model, where planets revolved around a fix ed Sun. Galileo supported this model, and Johannes Kepler later refined it by introducing elliptical orbits, now known as Kepler's laws.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Galileo Galilei' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Pierre-Simon Laplace' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Immanuel Kant' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0022",
+      "questionStem": "Who was the first to develop a mathematical predictive heliocentric model of the solar system?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0022",
+      "evidenceText": "Nicolaus Copernicus. Although Aryabhatta (5th century A.D.) hinted at astronomical ideas, Copernicus (1473 - 1543) developed the first mathematical heliocentric model, where planets revolved around a ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 22,
+        "block_id": "Pinnacle_SSC_Q22",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 22,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0024",
+    "stem": "Which of the below statements is/are correct? Statement 1: Apogee is the point in the orbit of an object around the Earth where it is farthest from the Earth’s center. Statement 2: Perigee refers to the point where the Moon’s orbit is closest to the Earth.",
+    "options": {
+      "opt_a": "Only Statement 1",
+      "opt_b": "Only Statement 2",
+      "opt_c": "Both Statement 1 and 2",
+      "opt_d": "None of the above"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both Statement 1 and 2. Perihelion: The Earth closest to the Sun on 3rd January. Aphelion: The Earth farthest from the Sun on 4th July.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 1' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'None of the above' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0024",
+      "questionStem": "Which of the below statements is/are correct? Statement 1: Apogee is the point in the orbit of an object around the Earth where it is farthest from the Earth’s center. Statement 2: Perigee refers to the point where the Moon’s orbit is closest to the Earth.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0024",
+      "evidenceText": "Both Statement 1 and 2. Perihelion: The Earth closest to the Sun on 3rd January. Aphelion: The Earth farthest from the Sun on 4th July.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 24,
+        "block_id": "Pinnacle_SSC_Q24",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 24,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0026",
+    "stem": "A constellation of the northern sky easily recognised by a group of fiv e bright stars forming a slightly irregular ‘W’ is called:",
+    "options": {
+      "opt_a": "Cassiopeia",
+      "opt_b": "Orion",
+      "opt_c": "Ursa Major",
+      "opt_d": "Cygnus"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Cassiopeia. It is a prominent constellation in the northern sky. It is visible during winter in the early part of the night. It looks like a distorted letter W or M.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Orion' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ursa Major' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cygnus' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0026",
+      "questionStem": "A constellation of the northern sky easily recognised by a group of fiv e bright stars forming a slightly irregular ‘W’ is called:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0026",
+      "evidenceText": "Cassiopeia. It is a prominent constellation in the northern sky. It is visible during winter in the early part of the night. It looks like a distorted letter W or M.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 26,
+        "block_id": "Pinnacle_SSC_Q26",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 26,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0027",
+    "stem": "Assertion (A): Saturn is the second largest planet in our Solar System and has the most prominent ring system. Reason (R): Saturn is larger than Jupiter and has Titan, the largest moon in the Solar System.",
+    "options": {
+      "opt_a": "Both A and R are true, and R is the correct explanation of A.",
+      "opt_b": "Both A and R are true, but R is not the correct explanation of A.",
+      "opt_c": "A is true, but R is false.",
+      "opt_d": "A is false, but R is true."
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "A is true, but R is false. Our Solar System has eight planets which orbit the sun. In order of distance from the sun they are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Largest to smallest: Jupiter, Saturn, Uranus, Neptune, Earth, Venus, Mars, Mercury. Saturn moon Titan is the second largest moon after Ganymede (Jupiter’s moon).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both A and R are true, and R is the correct explanation of A.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both A and R are true, but R is not the correct explanation of A.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A is false, but R is true.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0027",
+      "questionStem": "Assertion (A): Saturn is the second largest planet in our Solar System and has the most prominent ring system. Reason (R): Saturn is larger than Jupiter and has Titan, the largest moon in the Solar System.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0027",
+      "evidenceText": "A is true, but R is false. Our Solar System has eight planets which orbit the sun. In order of distance from the sun they are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Larges",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 27,
+        "block_id": "Pinnacle_SSC_Q27",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 27,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0029",
+    "stem": "Which of the following statements about planet Saturn is true?",
+    "options": {
+      "opt_a": "Saturn is the fourth planet from the Sun and the largest planet in our solar system.",
+      "opt_b": "Satellites like Enceladus and Titan of Saturn are home to internal oceans, could possibly support life.",
+      "opt_c": "Saturn's environment is conducive to life.",
+      "opt_d": "Saturn is a massive ball made up mostly nitrogen."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Saturn is the second largest planet, composed of hydrogen and helium. It has 146 moons. Titan - It is the largest moon of Saturn and the second largest moon in our solar system. Enceladus - It is the second nearest of the major regular moons of Saturn and the brightest of all its moons. It was discovered in 1789 by the English astronomer William Herschel. It is found that Titan has methane in its atmosphere and Enceladus has a liquid ocean with erupting plumes of gas and water.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Saturn is the fourth planet from the Sun and the largest planet in our solar system.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Saturn's environment is conducive to life.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Saturn is a massive ball made up mostly nitrogen.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0029",
+      "questionStem": "Which of the following statements about planet Saturn is true?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0029",
+      "evidenceText": "Saturn is the second largest planet, composed of hydrogen and helium. It has 146 moons. Titan - It is the largest moon of Saturn and the second largest moon in our solar system. Enceladus - It is the ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 29,
+        "block_id": "Pinnacle_SSC_Q29",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 29,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0030",
+    "stem": "Which star is also known as the ‘Pole Star’?",
+    "options": {
+      "opt_a": "The East star",
+      "opt_b": "The South star",
+      "opt_c": "The West star",
+      "opt_d": "The North star"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "The North star. Polaris, also known as the North Star, is located almost directly above Earth's north pole along our planet's rotational axis. The imaginary line that runs through the Earth from the North Pole to the South Pole is called the Earth's axis of rotation. The Earth rotates around this axis, similar to how a top spins around its spindle.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'The East star' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'The South star' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'The West star' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0030",
+      "questionStem": "Which star is also known as the ‘Pole Star’?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0030",
+      "evidenceText": "The North star. Polaris, also known as the North Star, is located almost directly above Earth's north pole along our planet's rotational axis. The imaginary line that runs through the Earth from the N",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 30,
+        "block_id": "Pinnacle_SSC_Q30",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 30,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0031",
+    "stem": "In 1905, who concluded with Thomas Chamberlain that the planets of the Solar System originated from an encounter between the Sun and another star?",
+    "options": {
+      "opt_a": "James Hutton",
+      "opt_b": "Inge Lehmann www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
+      "opt_c": "Charles Lyell",
+      "opt_d": "Forest Moulton"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Forest Moulton. He was an American astronomer and mathematician known for his contributions to celestial mechanics. He co-developed the Chamberlin-Moulton planetesimal hypothesis, which proposed a model for the formation of the solar system. According to this hypothesis, planets formed from smaller bodies called planetesimals through the process of accretion.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'James Hutton' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Inge Lehmann www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Charles Lyell' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0031",
+      "questionStem": "In 1905, who concluded with Thomas Chamberlain that the planets of the Solar System originated from an encounter between the Sun and another star?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0031",
+      "evidenceText": "Forest Moulton. He was an American astronomer and mathematician known for his contributions to celestial mechanics. He co-developed the Chamberlin-Moulton planetesimal hypothesis, which proposed a mod",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 31,
+        "block_id": "Pinnacle_SSC_Q31",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 31,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0033",
+    "stem": "Which is the most widely accepted model to explain the formation and evaluation of the solar system?",
+    "options": {
+      "opt_a": "Cloud hypothesis",
+      "opt_b": "Gas hypothesis",
+      "opt_c": "Nebular hypothesis",
+      "opt_d": "Solar hypothesis"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Nebular hypothesis - The planets were formed out of a cloud of material associated with a youthful sun, which was slowly rotating. The theory was developed by Immanuel Kant. But Mathematician Laplace revised it in 1796. Other Hypothesis: Big Bang Theory - Propounded by George Lamaitre related to the origin of the universe.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cloud hypothesis' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Gas hypothesis' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Solar hypothesis' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0033",
+      "questionStem": "Which is the most widely accepted model to explain the formation and evaluation of the solar system?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0033",
+      "evidenceText": "Nebular hypothesis - The planets were formed out of a cloud of material associated with a youthful sun, which was slowly rotating. The theory was developed by Immanuel Kant. But Mathematician Laplace ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 33,
+        "block_id": "Pinnacle_SSC_Q33",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 33,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0034",
+    "stem": "Which trend is found about the distance between the galaxies?",
+    "options": {
+      "opt_a": "Unpredictable",
+      "opt_b": "Decreasing",
+      "opt_c": "Constant",
+      "opt_d": "Increasing"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Increasing. In 1929, Edwin Hubble announced that almost all galaxies appeared to be moving away from us. He found that the universe was expanding - with all of the galaxies moving away from each other. This phenomenon was observed as a redshift of a galaxy's spectrum.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Unpredictable' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Decreasing' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Constant' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0034",
+      "questionStem": "Which trend is found about the distance between the galaxies?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0034",
+      "evidenceText": "Increasing. In 1929, Edwin Hubble announced that almost all galaxies appeared to be moving away from us. He found that the universe was expanding - with all of the galaxies moving away from each other",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 34,
+        "block_id": "Pinnacle_SSC_Q34",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 34,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0036",
+    "stem": "Which scientist thought of the concept of the steady state of the universe?",
+    "options": {
+      "opt_a": "Harold Jeffrey",
+      "opt_b": "Edwin Hubble",
+      "opt_c": "Fred Hoyle",
+      "opt_d": "Pierre - Laplace"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Fred Hoyle. Steady - State Theory : It is a theoretical model in which the Universe is constantly expanding but with a fix ed average density. The theory was put forward by three scientists Sir Hermann Bondi, Thomas Gold, and Sir Fred Hoyle in 1948.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Harold Jeffrey' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Edwin Hubble' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Pierre - Laplace' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0036",
+      "questionStem": "Which scientist thought of the concept of the steady state of the universe?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0036",
+      "evidenceText": "Fred Hoyle. Steady - State Theory : It is a theoretical model in which the Universe is constantly expanding but with a fix ed average density. The theory was put forward by three scientists Sir Herman",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 36,
+        "block_id": "Pinnacle_SSC_Q36",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 36,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0041",
+    "stem": "In early 1610, who discovered with his newly invented telescope that Jupiter has four moons?",
+    "options": {
+      "opt_a": "Simon Marius",
+      "opt_b": "Tycho Brahe",
+      "opt_c": "Galileo Galilei",
+      "opt_d": "Johannes Kepler"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Galileo Galilei. He was an Italian astronomer and scientist. He described the rings of Saturn, the phases of Venus, sunsets, and the bumpy lunar surface. The four moons he discovered were: Io, Europa, Ganymede, and Callisto.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Simon Marius' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tycho Brahe' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Johannes Kepler' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0041",
+      "questionStem": "In early 1610, who discovered with his newly invented telescope that Jupiter has four moons?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0041",
+      "evidenceText": "Galileo Galilei. He was an Italian astronomer and scientist. He described the rings of Saturn, the phases of Venus, sunsets, and the bumpy lunar surface. The four moons he discovered were: Io, Europa,",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 41,
+        "block_id": "Pinnacle_SSC_Q41",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 41,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0042",
+    "stem": "Who was the first to accurately describe the rings of Saturn as a disc around the planet in 1655?",
+    "options": {
+      "opt_a": "Hideki Yukawa",
+      "opt_b": "Galileo Galilei",
+      "opt_c": "Christiaan Huygens",
+      "opt_d": "Giovanni Cassini"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Christiaan Huygens. His other inventions include the pendulum clock, centrifugal governor, and magic lantern.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Hideki Yukawa' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Galileo Galilei' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Giovanni Cassini' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0042",
+      "questionStem": "Who was the first to accurately describe the rings of Saturn as a disc around the planet in 1655?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0042",
+      "evidenceText": "Christiaan Huygens. His other inventions include the pendulum clock, centrifugal governor, and magic lantern.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 42,
+        "block_id": "Pinnacle_SSC_Q42",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 42,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0043",
+    "stem": "The moon completes _________ rotation on its axis as it completes one revolution around the Earth.",
+    "options": {
+      "opt_a": "3",
+      "opt_b": "2",
+      "opt_c": "1",
+      "opt_d": "4"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "1. The Moon is Earth's only natural satellite circling the planet at an average distance of 384,400 kilometers. The Moon's presence helps stabilize our planet and moderate our climate. The radius of the Moon is 1.74 × 10 6 m. Huygens is the Moon's tallest mountain.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'3' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'4' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0043",
+      "questionStem": "The moon completes _________ rotation on its axis as it completes one revolution around the Earth.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0043",
+      "evidenceText": "1. The Moon is Earth's only natural satellite circling the planet at an average distance of 384,400 kilometers. The Moon's presence helps stabilize our planet and moderate our climate. The radius of t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 43,
+        "block_id": "Pinnacle_SSC_Q43",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 43,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0045",
+    "stem": "The ______ radiation belts are giant swaths of magnetically trapped highly energetic charged particles that surround Earth.",
+    "options": {
+      "opt_a": "Van Allen",
+      "opt_b": "Aurora",
+      "opt_c": "Kuiper",
+      "opt_d": "Chinook"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Van Allen. An aurora is a natural phenomenon which is characterized by a display of a natural-coloured (green, red, yellow or white) light in the sky.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Aurora' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kuiper' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Chinook' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0045",
+      "questionStem": "The ______ radiation belts are giant swaths of magnetically trapped highly energetic charged particles that surround Earth.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0045",
+      "evidenceText": "Van Allen. An aurora is a natural phenomenon which is characterized by a display of a natural-coloured (green, red, yellow or white) light in the sky.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 45,
+        "block_id": "Pinnacle_SSC_Q45",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 45,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0095",
+    "stem": "Which of the following is a warm current?",
+    "options": {
+      "opt_a": "Labrador current",
+      "opt_b": "Falkland current",
+      "opt_c": "Canary current",
+      "opt_d": "Gulf stream"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Gulf stream current in the North Atlantic and the Kuroshio Current in the North Pacific are warm currents. Warm Currents - Alaskan Current, Tsushima Current, Brazilian Current etc. Cold Current - Labrador Current, Canary Current, Benguela Current, Falkland Current, South Indian Ocean Current, Okhotsk Current, Humboldt or Peruvian Current etc.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Labrador current' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Falkland current' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Canary current' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0095",
+      "questionStem": "Which of the following is a warm current?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0095",
+      "evidenceText": "Gulf stream current in the North Atlantic and the Kuroshio Current in the North Pacific are warm currents. Warm Currents - Alaskan Current, Tsushima Current, Brazilian Current etc. Cold Current - Labr",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 95,
+        "block_id": "Pinnacle_SSC_Q95",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 95,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0109",
+    "stem": "Assertion (A): New Moore Island, also known as South Talpatti, is geographically closest to Bangladesh. Reason (R): It is located in the Bay of Bengal near the maritime boundary between India and Bangladesh.",
+    "options": {
+      "opt_a": "Both A and R are correct, and R is the correct explanation of A",
+      "opt_b": "Both A and R are correct, but R is not the correct explanation of A",
+      "opt_c": "A is correct, but R is incorrect",
+      "opt_d": "A is incorrect, but R is correct"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both A and R are correct, and R is the correct explanation of A.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both A and R are correct, but R is not the correct explanation of A' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A is correct, but R is incorrect' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A is incorrect, but R is correct' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0109",
+      "questionStem": "Assertion (A): New Moore Island, also known as South Talpatti, is geographically closest to Bangladesh. Reason (R): It is located in the Bay of Bengal near the maritime boundary between India and Bangladesh.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0109",
+      "evidenceText": "Both A and R are correct, and R is the correct explanation of A.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 109,
+        "block_id": "Pinnacle_SSC_Q109",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 109,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0439",
+    "stem": "Which of the following is NOT a primary factor affecting the variation of insolation on Earth?",
+    "options": {
+      "opt_a": "Presence of water bodies in an area",
+      "opt_b": "Rotation of the Earth on its axis",
+      "opt_c": "Transparency of the atmosphere",
+      "opt_d": "Angle of inclination of the Sun's rays"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Presence of water bodies in an area. Insolation refers to the incoming solar radiation received on Earth’s surface. Its primary variation depends on factors like the rotation of the Earth on its axis, which causes day and night; the angle of inclination of the Sun’s rays, which changes with latitude and seasons; and the transparency of the atmosphere, which determines how much radiation penetrates through clouds, dust, and gases. The presence of water bodies, however, influences the distribution and moderation of temperature rather than the actual amount of insolation received.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Rotation of the Earth on its axis' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Transparency of the atmosphere' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Angle of inclination of the Sun's rays' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0439",
+      "questionStem": "Which of the following is NOT a primary factor affecting the variation of insolation on Earth?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0439",
+      "evidenceText": "Presence of water bodies in an area. Insolation refers to the incoming solar radiation received on Earth’s surface. Its primary variation depends on factors like the rotation of the Earth on its axis,",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 439,
+        "block_id": "Pinnacle_SSC_Q439",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 6/08/2025 (Shift 3)",
+        "pdfSequence": 439,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0454",
+    "stem": "Which of the following groups of places in India has little differences in day and night temperatures?",
+    "options": {
+      "opt_a": "Chennai and Thiruvananthapuram",
+      "opt_b": "Jaipur and Jaisalmer",
+      "opt_c": "Bhopal and Indore",
+      "opt_d": "Jammu and Kashmir"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Chennai and Thiruvananthapuram. Thar desert experiences the highest diurnal range of temperature. This is because of the fact that sand (found in ample quantity in this region) gains and loses heat very quickly. As a result of this phenomenon, there is a wide difference between day and night temperatures in this region. The day temperature may rise to 50°C and drop down to near 15°C the same night. There is no sea closer to this area and hence there is no moderating effect.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Jaipur and Jaisalmer' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Bhopal and Indore' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Jammu and Kashmir' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0454",
+      "questionStem": "Which of the following groups of places in India has little differences in day and night temperatures?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0454",
+      "evidenceText": "Chennai and Thiruvananthapuram. Thar desert experiences the highest diurnal range of temperature. This is because of the fact that sand (found in ample quantity in this region) gains and loses heat ve",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 454,
+        "block_id": "Pinnacle_SSC_Q454",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 454,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0510",
+    "stem": "Which of the following cities is called the Silicon Valley of India due to its prominence in the IT industry?",
+    "options": {
+      "opt_a": "Bengaluru",
+      "opt_b": "Dehradun",
+      "opt_c": "Hyderabad",
+      "opt_d": "Gurugram"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Bengaluru I. Nicknames of Indian Cities: Hyderabad - City of Pearls; Gurugram - Millennium City; Korba - Power Hub of India; Jamshedpur - Steel Capital of India; Nalanda - The Land of Knowledge; Guntur - Land of Chillies; Kashmir - Switzerland of India; Pondicherry - Paris of the East; Coimbatore - Manchester of South India; Chennai - Detroit of Asia.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Dehradun' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Hyderabad' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Gurugram' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0510",
+      "questionStem": "Which of the following cities is called the Silicon Valley of India due to its prominence in the IT industry?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0510",
+      "evidenceText": "Bengaluru I. Nicknames of Indian Cities: Hyderabad - City of Pearls; Gurugram - Millennium City; Korba - Power Hub of India; Jamshedpur - Steel Capital of India; Nalanda - The Land of Knowledge; Guntu",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 510,
+        "block_id": "Pinnacle_SSC_Q510",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 510,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0617",
+    "stem": "Which of the following ports was developed as a Satellite port to relieve the pressure at the Mumbai port?",
+    "options": {
+      "opt_a": "New Mangalore Port",
+      "opt_b": "Marmagao Port",
+      "opt_c": "Deendayal Port Authority",
+      "opt_d": "Jawaharlal Nehru Port"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Jawaharlal Nehru Port (Nhava Sheva), established on 26 May 1989, is India's second-largest container port, following Mundra Port. New Mangalore Port, in Karnataka, is operated by the New Mangalore Port Trust. Mormugao Port, commissioned in 1885, is located on Goa's western coast.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'New Mangalore Port' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Marmagao Port' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Deendayal Port Authority' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0617",
+      "questionStem": "Which of the following ports was developed as a Satellite port to relieve the pressure at the Mumbai port?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0617",
+      "evidenceText": "Jawaharlal Nehru Port (Nhava Sheva), established on 26 May 1989, is India's second-largest container port, following Mundra Port. New Mangalore Port, in Karnataka, is operated by the New Mangalore Por",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Universe, Solar System & Motions of the Earth",
+        "concept": "Universe, Solar System & Motions of the Earth",
+        "sentence_idx": 617,
+        "block_id": "Pinnacle_SSC_Q617",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 617,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 1,
+    "topicName": "Universe, Solar System & Motions of the Earth",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

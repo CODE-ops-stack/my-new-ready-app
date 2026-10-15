@@ -9370,5 +9370,1841 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0028",
+    "stem": "_________ oblong orbit overlaps the orbit of Neptune.",
+    "options": {
+      "opt_a": "Jupiter’s",
+      "opt_b": "Pluto’s",
+      "opt_c": "Venus’",
+      "opt_d": "Mars’"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Pluto’s. Neptune is the outermost Jovian planet in the solar system. Until 2006 Pluto was the farthest planet from the Sun. In 2006, The International Astronomical Union (IAU) downgraded the status of Pluto to that of a dwarf planet. The Jovian planets are Jupiter, Saturn, Uranus, and Neptune, which are also known as the gas giants.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Jupiter’s' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Venus’' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mars’' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0028",
+      "questionStem": "_________ oblong orbit overlaps the orbit of Neptune.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0028",
+      "evidenceText": "Pluto’s. Neptune is the outermost Jovian planet in the solar system. Until 2006 Pluto was the farthest planet from the Sun. In 2006, The International Astronomical Union (IAU) downgraded the status of",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 28,
+        "block_id": "Pinnacle_SSC_Q28",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 28,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0032",
+    "stem": "Perihelion is when Earth is ______.",
+    "options": {
+      "opt_a": "under the sun",
+      "opt_b": "farthest from the sun",
+      "opt_c": "nearest to the sun",
+      "opt_d": "above the sun"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "nearest to the sun. On 3rd January, the earth is the nearest to the sun (147 million km). Aphelion is the point of the Earth’s orbit that is farthest away from the Sun.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'under the sun' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'farthest from the sun' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'above the sun' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0032",
+      "questionStem": "Perihelion is when Earth is ______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0032",
+      "evidenceText": "nearest to the sun. On 3rd January, the earth is the nearest to the sun (147 million km). Aphelion is the point of the Earth’s orbit that is farthest away from the Sun.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 32,
+        "block_id": "Pinnacle_SSC_Q32",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 32,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0407",
+    "stem": "Which of the following states has mangrove forests?",
+    "options": {
+      "opt_a": "Telangana",
+      "opt_b": "Andhra Pradesh",
+      "opt_c": "Rajasthan",
+      "opt_d": "Manipur"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Andhra Pradesh. Mangroves are practically evergreen with thick leathery leaves. Such types of forests are found in the deltas of Sundarbans, Mahanadi, the Godavari, Krishna, Kaveri rivers and in the Andaman and Nicobar Islands.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Telangana' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Rajasthan' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Manipur' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0407",
+      "questionStem": "Which of the following states has mangrove forests?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0407",
+      "evidenceText": "Andhra Pradesh. Mangroves are practically evergreen with thick leathery leaves. Such types of forests are found in the deltas of Sundarbans, Mahanadi, the Godavari, Krishna, Kaveri rivers and in the A",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 407,
+        "block_id": "Pinnacle_SSC_Q407",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 407,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0414",
+    "stem": "The natural vegetation of India is broadly divided into ______ groups.",
+    "options": {
+      "opt_a": "7",
+      "opt_b": "9",
+      "opt_c": "6",
+      "opt_d": "5"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "5. Vegetation of India – Tropical evergreen forest, Tropical deciduous forest, Thorny bushes, Mountain vegetation and Mangrove forests.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'7' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'9' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'6' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0414",
+      "questionStem": "The natural vegetation of India is broadly divided into ______ groups.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0414",
+      "evidenceText": "5. Vegetation of India – Tropical evergreen forest, Tropical deciduous forest, Thorny bushes, Mountain vegetation and Mangrove forests.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 414,
+        "block_id": "Pinnacle_SSC_Q414",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 414,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0421",
+    "stem": "Mosses and lichens are found in which kind of forest?",
+    "options": {
+      "opt_a": "Tropical Rainforest",
+      "opt_b": "Temperate Forest",
+      "opt_c": "Coniferous Forest",
+      "opt_d": "Tundra Forest"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Tundra Forest - It has relatively little rain and extremely cold temperatures. It is composed of dwarf shrubs, sedges, and grasses.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tropical Rainforest' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Temperate Forest' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Coniferous Forest' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0421",
+      "questionStem": "Mosses and lichens are found in which kind of forest?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0421",
+      "evidenceText": "Tundra Forest - It has relatively little rain and extremely cold temperatures. It is composed of dwarf shrubs, sedges, and grasses.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 421,
+        "block_id": "Pinnacle_SSC_Q421",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 421,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0426",
+    "stem": "In India, what is the mean annual average temperature in subtropical vegetation zone?",
+    "options": {
+      "opt_a": "Above 24° C",
+      "opt_b": "7°C to 17°C",
+      "opt_c": "Below 7°C",
+      "opt_d": "17°C to 24°C"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "17°C to 24°C. Natural vegetation - The plant life that grows in an area without the influence of human activity. Types - Forests, Grasslands (divided into savannas, steppes and prairies, depending on the climate and other environmental factors), Deserts (These are arid regions with very little rainfall and sparse vegetation), Tundra (This is a cold, treeless region found in the Arctic and on high mountain slopes), Wetland (These are areas with water-logged soil, such as marshes).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Above 24° C' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'7°C to 17°C' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Below 7°C' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0426",
+      "questionStem": "In India, what is the mean annual average temperature in subtropical vegetation zone?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0426",
+      "evidenceText": "17°C to 24°C. Natural vegetation - The plant life that grows in an area without the influence of human activity. Types - Forests, Grasslands (divided into savannas, steppes and prairies, depending on ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 426,
+        "block_id": "Pinnacle_SSC_Q426",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 426,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0427",
+    "stem": "Which of the following pairs of countries - name of grassland is correct? I. Argentina - Pampas, II. Brazil - Steppe",
+    "options": {
+      "opt_a": "Neither I nor II",
+      "opt_b": "Only II",
+      "opt_c": "Only I",
+      "opt_d": "Both I and II"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Only I. Steppe - Europe and North Asia, Brazil - Campos, Pustaz- Hungary, Prairies - USA, Veld - South Africa, Downs - Australia, Canterbury - New Zealand, Savannah - Africa, Taiga - Europe and Asia.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither I nor II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both I and II' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0427",
+      "questionStem": "Which of the following pairs of countries - name of grassland is correct? I. Argentina - Pampas, II. Brazil - Steppe",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0427",
+      "evidenceText": "Only I. Steppe - Europe and North Asia, Brazil - Campos, Pustaz- Hungary, Prairies - USA, Veld - South Africa, Downs - Australia, Canterbury - New Zealand, Savannah - Africa, Taiga - Europe and Asia.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 427,
+        "block_id": "Pinnacle_SSC_Q427",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 427,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0432",
+    "stem": "A species of grass named ______ is on the verge of extinction due to its insensitivity towards the environment.",
+    "options": {
+      "opt_a": "Helianthus annuus",
+      "opt_b": "Saccharum officinarum",
+      "opt_c": "Hubbardia heptaneuron",
+      "opt_d": "Bellis perennis"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Hubbardia heptaneuron. The native range of this species is India (Karnataka). It is an annual and grows primarily in the seasonally dry tropical biome. Helianthus annuus (Common Sunflower).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Helianthus annuus' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Saccharum officinarum' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Bellis perennis' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0432",
+      "questionStem": "A species of grass named ______ is on the verge of extinction due to its insensitivity towards the environment.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0432",
+      "evidenceText": "Hubbardia heptaneuron. The native range of this species is India (Karnataka). It is an annual and grows primarily in the seasonally dry tropical biome. Helianthus annuus (Common Sunflower).",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 432,
+        "block_id": "Pinnacle_SSC_Q432",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 432,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0523",
+    "stem": "Which of the following statements best links a current conservation initiative for the Great Indian Bustard with its geographical location?",
+    "options": {
+      "opt_a": "National Avian Research Centre in Maharashtra conducted habitat simulation for GIB.",
+      "opt_b": "Kalyan Sanctuary in Karnataka now houses the largest wild GIB population.",
+      "opt_c": "India's first successful artificial insemination of GIB took place in the National Breeding Centre in Jaisalmer, Rajasthan.",
+      "opt_d": "A GIB conservation breeding centre was set up in Kutch, Gujarat for desert climate adaptation."
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "The Great Indian Bustard (GIB) is critically endangered, with its last viable wild population mainly surviving in Rajasthan’s Desert National Park. To save the species, the National Bustard Breeding Centre (NBBC) was established in Jaisalmer and Pokhran, Rajasthan. In June 2021, India achieved the milestone of the first successful artificial insemination and captive breeding of GIB here.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'National Avian Research Centre in Maharashtra conducted habitat simulation for GIB.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kalyan Sanctuary in Karnataka now houses the largest wild GIB population.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A GIB conservation breeding centre was set up in Kutch, Gujarat for desert climate adaptation.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0523",
+      "questionStem": "Which of the following statements best links a current conservation initiative for the Great Indian Bustard with its geographical location?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0523",
+      "evidenceText": "The Great Indian Bustard (GIB) is critically endangered, with its last viable wild population mainly surviving in Rajasthan’s Desert National Park. To save the species, the National Bustard Breeding C",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 523,
+        "block_id": "Pinnacle_SSC_Q523",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 6/08/2025 (Shift 3)",
+        "pdfSequence": 523,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0528",
+    "stem": "Match the following. 1. Ranthambore National Park",
+    "options": {
+      "opt_a": "Tamil Nadu 2. Bandipur National Park",
+      "opt_b": "Rajasthan 3. Mudumalai National Park",
+      "opt_c": "Karnataka",
+      "opt_d": "1-a, 2-c, 3-b"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "1-b, 2-c, 3-a.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tamil Nadu 2. Bandipur National Park' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Rajasthan 3. Mudumalai National Park' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Karnataka' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0528",
+      "questionStem": "Match the following. 1. Ranthambore National Park",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0528",
+      "evidenceText": "1-b, 2-c, 3-a.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 528,
+        "block_id": "Pinnacle_SSC_Q528",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 528,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0529",
+    "stem": "Which of the following protected areas are located in Telangana? I. Kawal Tiger Reserve II. Pranahita Wildlife Sanctuary III. Nagarjuna Sagar–Srisailam Tiger Reserve IV. Kinnerasani Wildlife Sanctuary",
+    "options": {
+      "opt_a": "Only I and II",
+      "opt_b": "Only II and III",
+      "opt_c": "Only I, II, III and IV",
+      "opt_d": "Only I and III"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Only I, II, III and IV. Kawal Tiger Reserve is located at Adilabad district in Telangana. It was declared a wildlife sanctuary in 1965 and later became part of the Kawal Tiger Reserve under Project Tiger in 2012.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only I and II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II and III' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only I and III' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0529",
+      "questionStem": "Which of the following protected areas are located in Telangana? I. Kawal Tiger Reserve II. Pranahita Wildlife Sanctuary III. Nagarjuna Sagar–Srisailam Tiger Reserve IV. Kinnerasani Wildlife Sanctuary",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0529",
+      "evidenceText": "Only I, II, III and IV. Kawal Tiger Reserve is located at Adilabad district in Telangana. It was declared a wildlife sanctuary in 1965 and later became part of the Kawal Tiger Reserve under Project Ti",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 529,
+        "block_id": "Pinnacle_SSC_Q529",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 529,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0530",
+    "stem": "The Betul, Hoshangabad and Chhindwara districts of Madhya Pradesh is a part of which of the following Biosphere Reserves?",
+    "options": {
+      "opt_a": "Manas",
+      "opt_b": "Seshachalam",
+      "opt_c": "Agasthyamalai",
+      "opt_d": "Pachmarhi"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Pachmarhi Biosphere Reserve is recognized for its rich biodiversity and has been designated as a UNESCO Biosphere Reserve in 2009. The Satpura mountain ranges across India from west to east and Pachmarhi lies directly in its centre. It comprises three protection sites: the Bori Sanctuary, Satpura National Park and Pachmarhi Sanctuary. Other Biosphere Reserve: Manas (Assam), Seshachalam (Andhra Pradesh), Agasthyamalai (Kerala and Tamil Nadu).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Manas' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Seshachalam' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Agasthyamalai' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0530",
+      "questionStem": "The Betul, Hoshangabad and Chhindwara districts of Madhya Pradesh is a part of which of the following Biosphere Reserves?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0530",
+      "evidenceText": "Pachmarhi Biosphere Reserve is recognized for its rich biodiversity and has been designated as a UNESCO Biosphere Reserve in 2009. The Satpura mountain ranges across India from west to east and Pachma",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 530,
+        "block_id": "Pinnacle_SSC_Q530",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 530,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0531",
+    "stem": "As of the June 2021, how many biosphere reserves are established in India?",
+    "options": {
+      "opt_a": "18",
+      "opt_b": "20",
+      "opt_c": "26",
+      "opt_d": "15"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "18. The Government of India started the Biosphere Reserve scheme in 1986. This is guided by the UNESCO MAB programme, as India is a signatory to the landscape approach supported by MAB. The Nilgiri Biosphere Reserve was the first and Oldest biosphere reserve in India established in 1986.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'20' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'26' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'15' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0531",
+      "questionStem": "As of the June 2021, how many biosphere reserves are established in India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0531",
+      "evidenceText": "18. The Government of India started the Biosphere Reserve scheme in 1986. This is guided by the UNESCO MAB programme, as India is a signatory to the landscape approach supported by MAB. The Nilgiri Bi",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 531,
+        "block_id": "Pinnacle_SSC_Q531",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 531,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0532",
+    "stem": "Which national park in the Andaman and Nicobar Islands is home to species like Megapode, crab-eating Macaque, Nicobar Pigeon, and Giant Robber Crab?",
+    "options": {
+      "opt_a": "Raimona National Park",
+      "opt_b": "Campbell Bay National Park",
+      "opt_c": "Mouling National Park",
+      "opt_d": "Papikonda National Park"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Campbell Bay National Park , established in 1992, spans 426.23 square km and is part of the Great Nicobar Biosphere Reserve. Other notable parks include Raimona National Park in Assam (famous for elephants and tigers), Mouling National Park in Arunachal Pradesh (known for temperate forests and Himalayan wildlife), and Papikonda National Park in Andhra Pradesh (noted for Eastern Ghats biodiversity).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Raimona National Park' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mouling National Park' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Papikonda National Park' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0532",
+      "questionStem": "Which national park in the Andaman and Nicobar Islands is home to species like Megapode, crab-eating Macaque, Nicobar Pigeon, and Giant Robber Crab?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0532",
+      "evidenceText": "Campbell Bay National Park , established in 1992, spans 426.23 square km and is part of the Great Nicobar Biosphere Reserve. Other notable parks include Raimona National Park in Assam (famous for elep",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 532,
+        "block_id": "Pinnacle_SSC_Q532",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 532,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0534",
+    "stem": "In which state is the Nanda Devi Biosphere Reserve located?",
+    "options": {
+      "opt_a": "Assam",
+      "opt_b": "Himachal Pradesh",
+      "opt_c": "Odisha",
+      "opt_d": "Uttarakhand"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Uttarakhand. Nanda Devi Biosphere Reserve included in UNESCO World Heritage site in 1988. Some biosphere reserves in India: Cold Desert (Himachal Pradesh), Khangchendzonga (Sikkim), Dihang - Dibang (Arunachal Pradesh), Manas (Assam), Dibru - Saikhowa (Assam), Nokrek (Meghalaya), Panna (Madhya Pradesh), Pachmarhi (Madhya Pradesh).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Assam' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Himachal Pradesh' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Odisha' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0534",
+      "questionStem": "In which state is the Nanda Devi Biosphere Reserve located?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0534",
+      "evidenceText": "Uttarakhand. Nanda Devi Biosphere Reserve included in UNESCO World Heritage site in 1988. Some biosphere reserves in India: Cold Desert (Himachal Pradesh), Khangchendzonga (Sikkim), Dihang - Dibang (A",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 534,
+        "block_id": "Pinnacle_SSC_Q534",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 534,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0535",
+    "stem": "Select the natural habitat of the Asiatic Lion from the following.",
+    "options": {
+      "opt_a": "Gir forest",
+      "opt_b": "Sundarbans",
+      "opt_c": "Kanha National Park",
+      "opt_d": "Saranda forest"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Gir forest. Asiatic lions are an endangered species and their 534is restricted only to the Gir National Park situated in Gujarat. India is the only country in the world to have both tigers and lions. Tigers are found in the forests of Madhya Pradesh, the Sundarbans of West Bengal. Number of Lions in India - 674. The first tiger reserve in India was established in 1973 (Project Tiger).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Sundarbans' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kanha National Park' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Saranda forest' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0535",
+      "questionStem": "Select the natural habitat of the Asiatic Lion from the following.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0535",
+      "evidenceText": "Gir forest. Asiatic lions are an endangered species and their 534is restricted only to the Gir National Park situated in Gujarat. India is the only country in the world to have both tigers and lions. ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 535,
+        "block_id": "Pinnacle_SSC_Q535",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 535,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0537",
+    "stem": "Which biosphere of Southern Andhra Pradesh is home to many endemic species including the famous Red Sanders and Slender Loris?",
+    "options": {
+      "opt_a": "Cold Desert",
+      "opt_b": "Pachmarhi",
+      "opt_c": "Seshachalam",
+      "opt_d": "Agasthyamalai"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Seshachalam. It is a Biosphere Reserve situated in the Seshachalam Hill ranges of the Eastern Ghats in southern Andhra Pradesh, covering a total area of 4755.9 km². Seshachalam SLBR was designated in 2011. It is known for its large reserves of Red Sandalwood.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cold Desert' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Pachmarhi' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Agasthyamalai' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0537",
+      "questionStem": "Which biosphere of Southern Andhra Pradesh is home to many endemic species including the famous Red Sanders and Slender Loris?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0537",
+      "evidenceText": "Seshachalam. It is a Biosphere Reserve situated in the Seshachalam Hill ranges of the Eastern Ghats in southern Andhra Pradesh, covering a total area of 4755.9 km². Seshachalam SLBR was designated in ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 537,
+        "block_id": "Pinnacle_SSC_Q537",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 537,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0538",
+    "stem": "The Keoladeo National Park is located in the state of _______.",
+    "options": {
+      "opt_a": "Gujarat",
+      "opt_b": "Rajasthan",
+      "opt_c": "Odisha",
+      "opt_d": "Madhya Pradesh"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Rajasthan. Keoladeo National Park in Bharatpur district was declared a UNESCO World Heritage Site in 1985. States and National Parks: Rajasthan - Ranthambhore, Sariska. Gujarat - Gir, Marine. Odisha - Simlipal. Madhya Pradesh - Bandhavgarh, Fossil, Madhav, Sanjay-Dubri.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Gujarat' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Odisha' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Madhya Pradesh' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0538",
+      "questionStem": "The Keoladeo National Park is located in the state of _______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0538",
+      "evidenceText": "Rajasthan. Keoladeo National Park in Bharatpur district was declared a UNESCO World Heritage Site in 1985. States and National Parks: Rajasthan - Ranthambhore, Sariska. Gujarat - Gir, Marine. Odisha -",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 538,
+        "block_id": "Pinnacle_SSC_Q538",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 538,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0539",
+    "stem": "Correctly match the following. States Bio-reserve 1. Assam a. Pachmarhi 2. Madhya Pradesh b. Nokrek 3. Odisha c. Manas 4. Meghalaya d. Similipa",
+    "options": {
+      "opt_a": "1-c, 2-a, 3-d, 4-b",
+      "opt_b": "1-b, 2-a, 3-d, 4-c",
+      "opt_c": "1-a, 2-b, 3-c, 4-d",
+      "opt_d": "1-b, 2-c, 3-a, 4-d"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "1-c, 2-a, 3-d, 4-b.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-b, 2-a, 3-d, 4-c' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-a, 2-b, 3-c, 4-d' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-b, 2-c, 3-a, 4-d' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0539",
+      "questionStem": "Correctly match the following. States Bio-reserve 1. Assam a. Pachmarhi 2. Madhya Pradesh b. Nokrek 3. Odisha c. Manas 4. Meghalaya d. Similipa",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0539",
+      "evidenceText": "1-c, 2-a, 3-d, 4-b.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 539,
+        "block_id": "Pinnacle_SSC_Q539",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 539,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0540",
+    "stem": "Match the following. i) Gir National Park a) Rhinos ii) Rajaji National Park b) Siberian cranes iii) Keoladeo NationalPark c) Lions iv) Kaziranga National Park d) Elephants",
+    "options": {
+      "opt_a": "i-d, ii-b, iii-c, iv-a",
+      "opt_b": "i-d, ii-c, iii-a, iv-b",
+      "opt_c": "i-c, ii-d, iii-b, iv-a",
+      "opt_d": "i-a, ii-b, iii-c, iv-d"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "i-c, ii-d, iii-b, iv-a. Jim Corbett National Park (Uttarakhand) - Tiger; Sundarban National Park (West Bengal) - Bengal tiger; Dudhwa National Park (Uttar Pradesh) - Swamp deer and Tiger; Silent Valley National Park (Kerala) - Lion Tailed Macaque; Orang National Park (Assam) - One Horned Rhinoceros and the Royal Bengal Tiger.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'i-d, ii-b, iii-c, iv-a' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'i-d, ii-c, iii-a, iv-b' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'i-a, ii-b, iii-c, iv-d' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0540",
+      "questionStem": "Match the following. i) Gir National Park a) Rhinos ii) Rajaji National Park b) Siberian cranes iii) Keoladeo NationalPark c) Lions iv) Kaziranga National Park d) Elephants",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0540",
+      "evidenceText": "i-c, ii-d, iii-b, iv-a. Jim Corbett National Park (Uttarakhand) - Tiger; Sundarban National Park (West Bengal) - Bengal tiger; Dudhwa National Park (Uttar Pradesh) - Swamp deer and Tiger; Silent Valle",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 540,
+        "block_id": "Pinnacle_SSC_Q540",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 540,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0541",
+    "stem": "Match the wildlife sanctuaries in column A with their corresponding states in column B. Column A (Wildlife Sanctuaries) Column B (States) 1. Tansa a. Tamil Nadu 2. Guindy b. Maharashtra 3. Orchha c. Madhya Pradesh 4. Kaziranga d. Assam",
+    "options": {
+      "opt_a": "1-a, 2-b, 3-c, 4-d",
+      "opt_b": "1-b, 2-a, 3-c, 4-d",
+      "opt_c": "1-b, 2-a, 3-d, 4-c",
+      "opt_d": "1-b, 2-c, 3-a, 4-d"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "1-b, 2-a, 3-c, 4-d.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-a, 2-b, 3-c, 4-d' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-b, 2-a, 3-d, 4-c' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-b, 2-c, 3-a, 4-d' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0541",
+      "questionStem": "Match the wildlife sanctuaries in column A with their corresponding states in column B. Column A (Wildlife Sanctuaries) Column B (States) 1. Tansa a. Tamil Nadu 2. Guindy b. Maharashtra 3. Orchha c. Madhya Pradesh 4. Kaziranga d. Assam",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0541",
+      "evidenceText": "1-b, 2-a, 3-c, 4-d.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 541,
+        "block_id": "Pinnacle_SSC_Q541",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 541,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0543",
+    "stem": "Which of the following is the closest wild relative of domestic cattle protected in some of the famous national parks of India like Nagarhole and Bandipur?",
+    "options": {
+      "opt_a": "Red angus",
+      "opt_b": "Asiatic buffalo",
+      "opt_c": "Nilgai",
+      "opt_d": "Gaur"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Gaur. First population estimation exercise of the Indian Gaur (Bison) was carried out in the Nilgiris Forest Division (Tamil Nadu).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Red angus' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Asiatic buffalo' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Nilgai' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0543",
+      "questionStem": "Which of the following is the closest wild relative of domestic cattle protected in some of the famous national parks of India like Nagarhole and Bandipur?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0543",
+      "evidenceText": "Gaur. First population estimation exercise of the Indian Gaur (Bison) was carried out in the Nilgiris Forest Division (Tamil Nadu).",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 543,
+        "block_id": "Pinnacle_SSC_Q543",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 543,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0546",
+    "stem": "The famous Nelapattu Bird Sanctuary is located in which of the following states?",
+    "options": {
+      "opt_a": "Tamil Nadu",
+      "opt_b": "Andhra Pradesh",
+      "opt_c": "Karnataka",
+      "opt_d": "Madhya Pradesh"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Andhra Pradesh. Nelapattu Bird Sanctuary - It is an important breeding site for spot-billed pelicans (Pelecanus philippensis). Other bird sanctuaries in Andhra Pradesh - Kolleru, Uppalapadu, Telineelapuram and Telukunchi. Tamil Nadu - Karikili Birds Sanctuary, Chitrangudi. Karnataka - Ranganathittu, Attiveri. Madhya Pradesh - Ghatigaon, Karera Bustard Sanctuary.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tamil Nadu' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Karnataka' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Madhya Pradesh' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0546",
+      "questionStem": "The famous Nelapattu Bird Sanctuary is located in which of the following states?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0546",
+      "evidenceText": "Andhra Pradesh. Nelapattu Bird Sanctuary - It is an important breeding site for spot-billed pelicans (Pelecanus philippensis). Other bird sanctuaries in Andhra Pradesh - Kolleru, Uppalapadu, Telineela",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 546,
+        "block_id": "Pinnacle_SSC_Q546",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 546,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0547",
+    "stem": "Which country is the only country in the world to have both tigers and lions?",
+    "options": {
+      "opt_a": "Kenya",
+      "opt_b": "South Africa",
+      "opt_c": "India",
+      "opt_d": "China"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "India. The natural habitat of the Indian lion is the Gir forest in Gujarat. Tigers are found in the forests of Madhya Pradesh, the Sundarbans of West Bengal. Number of Lions in India - 674. In 2023, the tiger population in India was recorded at 3682.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kenya' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'South Africa' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'China' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0547",
+      "questionStem": "Which country is the only country in the world to have both tigers and lions?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0547",
+      "evidenceText": "India. The natural habitat of the Indian lion is the Gir forest in Gujarat. Tigers are found in the forests of Madhya Pradesh, the Sundarbans of West Bengal. Number of Lions in India - 674. In 2023, t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 547,
+        "block_id": "Pinnacle_SSC_Q547",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 547,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0549",
+    "stem": "Baghmara Pitcher Plant Sanctuary www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography is located in which of the following states?",
+    "options": {
+      "opt_a": "Meghalaya",
+      "opt_b": "Goa",
+      "opt_c": "Karnataka",
+      "opt_d": "Assam"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Meghalaya (South Garo Hills District). The sanctuary is named after a rare insectivorous Pitcher Plant that is endemic to this region only.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Goa' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Karnataka' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Assam' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0549",
+      "questionStem": "Baghmara Pitcher Plant Sanctuary www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography is located in which of the following states?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0549",
+      "evidenceText": "Meghalaya (South Garo Hills District). The sanctuary is named after a rare insectivorous Pitcher Plant that is endemic to this region only.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 549,
+        "block_id": "Pinnacle_SSC_Q549",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 549,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0903",
+    "stem": "Name a unit designed for wet and dry bulb thermometers to protect temperature sensors from being affected by direct or reflected sunlight.",
+    "options": {
+      "opt_a": "Stevenson screen",
+      "opt_b": "Skywarn screen",
+      "opt_c": "Clarinet screen",
+      "opt_d": "Cardinal screen"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Stevenson screen - It is also known as a cotton region shelter, an instrument shelter, a thermometer shelter, a thermoscreen, or a thermometer screen. Skywarn screen - It is a national network of volunteer severe weather spotters. It was established to obtain critical weather information by the National Weather Service.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Skywarn screen' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Clarinet screen' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cardinal screen' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0903",
+      "questionStem": "Name a unit designed for wet and dry bulb thermometers to protect temperature sensors from being affected by direct or reflected sunlight.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0903",
+      "evidenceText": "Stevenson screen - It is also known as a cotton region shelter, an instrument shelter, a thermometer shelter, a thermoscreen, or a thermometer screen. Skywarn screen - It is a national network of volu",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 903,
+        "block_id": "Pinnacle_SSC_Q903",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 903,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0923",
+    "stem": "Which floating fern damages aquatic ecosystems by outgrowing and replacing native plants that provide food and habitat for native animals and waterflow?",
+    "options": {
+      "opt_a": "Salvinia minima",
+      "opt_b": "Osmunda regalis",
+      "opt_c": "Giant salvinia",
+      "opt_d": "Azolla pinnata"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Giant salvinia (aquatic fern, native to south-eastern Brazil, Scientific name - Salvinia molesta). Salvinia minima (common salvinia or water spangles), Osmunda regalis (Royal fern), Azolla pinnata (mosquito fern, feathered mosquito fern and water velvet).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Salvinia minima' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Osmunda regalis' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Azolla pinnata' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0923",
+      "questionStem": "Which floating fern damages aquatic ecosystems by outgrowing and replacing native plants that provide food and habitat for native animals and waterflow?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0923",
+      "evidenceText": "Giant salvinia (aquatic fern, native to south-eastern Brazil, Scientific name - Salvinia molesta). Salvinia minima (common salvinia or water spangles), Osmunda regalis (Royal fern), Azolla pinnata (mo",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Soils & Natural Vegetation of India",
+        "concept": "Soils & Natural Vegetation of India",
+        "sentence_idx": 923,
+        "block_id": "Pinnacle_SSC_Q923",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 923,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 13,
+    "topicName": "Soils & Natural Vegetation of India",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

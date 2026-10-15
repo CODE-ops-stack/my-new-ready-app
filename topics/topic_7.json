@@ -20943,5 +20943,1161 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0086",
+    "stem": "The mohororvicic (Moho) discontinuity separates?",
+    "options": {
+      "opt_a": "Earth's lithosphere and asthenosphere",
+      "opt_b": "Earth's atmosphere and hydrosphere www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
+      "opt_c": "Earth's crust and the inner core",
+      "opt_d": "Earth's crust and the mantle"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Earth's crust and the mantle. Moho discontinuity - It occurs at an average depth of about 8 kilometers beneath the ocean basins and 32 kilometers beneath continental surfaces.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Earth's lithosphere and asthenosphere' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Earth's atmosphere and hydrosphere www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Earth's crust and the inner core' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0086",
+      "questionStem": "The mohororvicic (Moho) discontinuity separates?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0086",
+      "evidenceText": "Earth's crust and the mantle. Moho discontinuity - It occurs at an average depth of about 8 kilometers beneath the ocean basins and 32 kilometers beneath continental surfaces.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 86,
+        "block_id": "Pinnacle_SSC_Q86",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 86,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0092",
+    "stem": "Movement of fault lines can cause:",
+    "options": {
+      "opt_a": "a flood",
+      "opt_b": "sudden rain",
+      "opt_c": "an earthquake",
+      "opt_d": "a storm"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "An earthquake. It is a sudden shaking or trembling of the earth which lasts for a very short time. Earthquakes tend to occur at the boundaries of earth’s plates. These boundaries are known as fault zones. Over 80 percent of earthquakes occur around the edges of the Pacific Ocean, an area known as the 'Ring of Fire' . Instrument used for measuring Earthquake: Seismograph.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'a flood' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'sudden rain' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'a storm' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0092",
+      "questionStem": "Movement of fault lines can cause:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0092",
+      "evidenceText": "An earthquake. It is a sudden shaking or trembling of the earth which lasts for a very short time. Earthquakes tend to occur at the boundaries of earth’s plates. These boundaries are known as fault zo",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 92,
+        "block_id": "Pinnacle_SSC_Q92",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 92,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0093",
+    "stem": "What is the average salinity of the Indian ocean?",
+    "options": {
+      "opt_a": "350 o/oo",
+      "opt_b": "35 o/oo",
+      "opt_c": "3.5 o/oo",
+      "opt_d": "3 o/oo"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "35 o/oo (35 parts per thousand) . Salinity is the amount of salt present in 1000 grams of water. A salinity of 24.7 % has been regarded as the upper limit to fix ‘brackish water’.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'350 o/oo' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'3.5 o/oo' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'3 o/oo' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0093",
+      "questionStem": "What is the average salinity of the Indian ocean?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0093",
+      "evidenceText": "35 o/oo (35 parts per thousand) . Salinity is the amount of salt present in 1000 grams of water. A salinity of 24.7 % has been regarded as the upper limit to fix ‘brackish water’.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 93,
+        "block_id": "Pinnacle_SSC_Q93",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 93,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0098",
+    "stem": "Consider the following statements regarding the lowest known point on Earth: 1. Challenger Deep is located in the western Pacific Ocean. 2. The Great Barrier Reef is the world’s largest coral reef located in Australia. 3. Factorian Deep is the deepest point in the Pacific Ocean. Which of the statements given above is incorrect?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "3 only",
+      "opt_d": "1 and 3"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "3 only. The lowest known point on earth is called Challenger Deep, which is present in the Pacific Ocean. Factorian Deep is the new deepest point in Antarctica's Southern Ocean. The www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography Great Blue Hole is a giant marine sinkhole off the coast of Belize.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 and 3' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0098",
+      "questionStem": "Consider the following statements regarding the lowest known point on Earth: 1. Challenger Deep is located in the western Pacific Ocean. 2. The Great Barrier Reef is the world’s largest coral reef located in Australia. 3. Factorian Deep is the deepest point in the Pacific Ocean. Which of the statements given above is incorrect?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0098",
+      "evidenceText": "3 only. The lowest known point on earth is called Challenger Deep, which is present in the Pacific Ocean. Factorian Deep is the new deepest point in Antarctica's Southern Ocean. The www.ssccglpinnacle",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 98,
+        "block_id": "Pinnacle_SSC_Q98",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 98,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0103",
+    "stem": "Match the following Seismic Zones of India with their characteristics: List I (Seismic Zone) List II (Characteristic) A. Zone II 1.Least seismically active region B. Zone III 2. Moderate seismic activity C. Zone IV 3. High seismic activity D. Zone V 4. Most seismically active region",
+    "options": {
+      "opt_a": "A-1, B-2, C-3, D-4",
+      "opt_b": "A-2, B-1, C-4, D-3",
+      "opt_c": "A-4, B-3, C-1, D-2",
+      "opt_d": "A-3, B-4, C-2, D-1"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A-1, B-2, C-3, D-4. The Bureau of Indian Standards has classified regions in India into 4 seismic zones on the basis of historical seismic activity. These are zones II, III, IV and V. The magnitude scale used to measure earthquakes ranges from 1 to 12.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'A-2, B-1, C-4, D-3' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A-4, B-3, C-1, D-2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A-3, B-4, C-2, D-1' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0103",
+      "questionStem": "Match the following Seismic Zones of India with their characteristics: List I (Seismic Zone) List II (Characteristic) A. Zone II 1.Least seismically active region B. Zone III 2. Moderate seismic activity C. Zone IV 3. High seismic activity D. Zone V 4. Most seismically active region",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0103",
+      "evidenceText": "A-1, B-2, C-3, D-4. The Bureau of Indian Standards has classified regions in India into 4 seismic zones on the basis of historical seismic activity. These are zones II, III, IV and V. The magnitude sc",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 103,
+        "block_id": "Pinnacle_SSC_Q103",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 103,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0104",
+    "stem": "The _____ is responsible for Earth's magnetic field.",
+    "options": {
+      "opt_a": "inner core",
+      "opt_b": "mantle",
+      "opt_c": "outer core",
+      "opt_d": "crust"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "outer core. On Earth, flowing liquid metal in the outer core of the planet generates electric currents. The rotation of Earth on its axis causes these electric currents to form a magnetic field which extends around the planet.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'inner core' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'mantle' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'crust' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0104",
+      "questionStem": "The _____ is responsible for Earth's magnetic field.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0104",
+      "evidenceText": "outer core. On Earth, flowing liquid metal in the outer core of the planet generates electric currents. The rotation of Earth on its axis causes these electric currents to form a magnetic field which ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 104,
+        "block_id": "Pinnacle_SSC_Q104",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 104,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0135",
+    "stem": "Identify a water-harvesting system found in Jaisalmer.",
+    "options": {
+      "opt_a": "Guls",
+      "opt_b": "Johads",
+      "opt_c": "Khadins",
+      "opt_d": "Kuls"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Khadins. ‘Rooftop rainwater harvesting’ was commonly practised to store drinking water, particularly in Rajasthan. In arid and semi-arid regions, agricultural fields were converted into rain fed storage structures that allowed the water to stand and moisten the soil like the ‘khadins’ in Jaisalmer and ‘Johads’ in other parts of Rajasthan. In hill and mountainous regions, people built diversion channels like the ‘guls’ or ‘kuls’ of the Western Himalayas for agriculture.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Guls' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Johads' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kuls' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0135",
+      "questionStem": "Identify a water-harvesting system found in Jaisalmer.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0135",
+      "evidenceText": "Khadins. ‘Rooftop rainwater harvesting’ was commonly practised to store drinking water, particularly in Rajasthan. In arid and semi-arid regions, agricultural fields were converted into rain fed stora",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 135,
+        "block_id": "Pinnacle_SSC_Q135",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 135,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0440",
+    "stem": "The highest rainfall in India gets recorded in the Khasi and Jaintia Hills. In which state will you find these hills?",
+    "options": {
+      "opt_a": "Meghalaya",
+      "opt_b": "Nagaland",
+      "opt_c": "Arunachal Pradesh",
+      "opt_d": "Assam"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Meghalaya. The Khasi and Jaintia Hills are part of the Garo-Khasi-Jaintia range, which forms the central and eastern parts of the state of Meghalaya. These hills are renowned for receiving some of the highest rainfall in the world. Their unique funnel-like topography traps the moisture-laden winds from the Bay of Bengal branch of the Southwest Monsoon, forcing them to rise and shed their moisture as extremely heavy orographic rainfall. Mawsynram and Cherrapunji (Sohra), the two wettest places on Earth, are located in the Khasi Hills.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Nagaland' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Arunachal Pradesh' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Assam' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0440",
+      "questionStem": "The highest rainfall in India gets recorded in the Khasi and Jaintia Hills. In which state will you find these hills?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0440",
+      "evidenceText": "Meghalaya. The Khasi and Jaintia Hills are part of the Garo-Khasi-Jaintia range, which forms the central and eastern parts of the state of Meghalaya. These hills are renowned for receiving some of the",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 440,
+        "block_id": "Pinnacle_SSC_Q440",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 7/08/2025 (Shift 2)",
+        "pdfSequence": 440,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0499",
+    "stem": "Identify the group of districts that are NOT an example of industrial districts of India.",
+    "options": {
+      "opt_a": "Cuttack and Kota",
+      "opt_b": "Kanpur and Agra",
+      "opt_c": "Alwar and Bhiwani",
+      "opt_d": "Jabalpur and Bhopal"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Alwar and Bhiwani. Cuttack (Odisha) is known for textile and handicraft industries, especially the silver filigr ee (Tarakasi) work. Kota (Rajasthan) is famous for its engineering and chemical industries. Kanpur is a significant industrial hub, historically known for its leather and textile industries. It is sometimes called the \"Manchester of the East.\" Agra is widely known for its tourism, but it also has industries related to leather goods, footwear, and marble stone carving. Jabalpur (Madhya Pradesh) is known for ordnance factories, defense-related industries, and manufacturing units. Bhopal (Madhya Pradesh) is a major industrial center with industries like electrical goods, chemicals, and the famous Bharat Heavy Electricals Limited (BHEL).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cuttack and Kota' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kanpur and Agra' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Jabalpur and Bhopal' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0499",
+      "questionStem": "Identify the group of districts that are NOT an example of industrial districts of India.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0499",
+      "evidenceText": "Alwar and Bhiwani. Cuttack (Odisha) is known for textile and handicraft industries, especially the silver filigr ee (Tarakasi) work. Kota (Rajasthan) is famous for its engineering and chemical industr",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 499,
+        "block_id": "Pinnacle_SSC_Q499",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 499,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0526",
+    "stem": "Match the following Wildlife Sanctuaries (Column A) with their respective States (Column B). Choose the option correct option: Column A (Wildlife Sanctuary) Column B (State) 1. Gandhi Sagar WLS a. Assam 2. Sonai Rupai WLS b. Madhya Pradesh 3. Kaimur WLS c. Telangana 4. Eturnagaram WLS d. Bihar www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
+    "options": {
+      "opt_a": "1-b, 2-a, 3-d, 4-c",
+      "opt_b": "1-a, 2-c, 3-b, 4-d",
+      "opt_c": "1-d, 2-c, 3-a, 4-b",
+      "opt_d": "1-c, 2-d, 3-a, 4-b"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Sonai Rupai Wildlife Sanctuary is situated in the foothills of the Himalayas in the Sonitpur district of Assam. Kaimur Wildlife Sanctuary, the largest in the state, is located in the Kaimur district of Bihar. Eturnagaram Wildlife Sanctuary is located in the Mulugu district of Telangana. The Gandhi Sagar Wildlife Sanctuary in Madhya Pradesh has been identified as the second potential home for cheetahs in India, after Kuno National Park.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-a, 2-c, 3-b, 4-d' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-d, 2-c, 3-a, 4-b' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-c, 2-d, 3-a, 4-b' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0526",
+      "questionStem": "Match the following Wildlife Sanctuaries (Column A) with their respective States (Column B). Choose the option correct option: Column A (Wildlife Sanctuary) Column B (State) 1. Gandhi Sagar WLS a. Assam 2. Sonai Rupai WLS b. Madhya Pradesh 3. Kaimur WLS c. Telangana 4. Eturnagaram WLS d. Bihar www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0526",
+      "evidenceText": "Sonai Rupai Wildlife Sanctuary is situated in the foothills of the Himalayas in the Sonitpur district of Assam. Kaimur Wildlife Sanctuary, the largest in the state, is located in the Kaimur district o",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 526,
+        "block_id": "Pinnacle_SSC_Q526",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 8/08/2025 (Shift 3)",
+        "pdfSequence": 526,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0637",
+    "stem": "Which autonomous body was operationalised under the Ministry of Surface Transport in 1995?",
+    "options": {
+      "opt_a": "Border Roads Organization (BRO)",
+      "opt_b": "Centre for Railway Information System (CRIS)",
+      "opt_c": "Inland Waterways Authority of India (IWAI)",
+      "opt_d": "National Highways Authority of India (NHAI)"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "National Highways Authority of India (NHAI) - Operationalised in 1995 and established under the National Highways Authority of India Act, 1988. Headquarters - New Delhi. Other organizations:- Border Roads Organization (BRO) - Formed, 7 May 1960. Headquarters - New Delhi. Center for Railway Information System (CRIS) - Founded, July 1986. Headquarters - New Delhi. Inland Waterways Authority of India (IWAI) - Founded, 27 October 1986 and headquartered - Noida (Uttar Pradesh).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Border Roads Organization (BRO)' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Centre for Railway Information System (CRIS)' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Inland Waterways Authority of India (IWAI)' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0637",
+      "questionStem": "Which autonomous body was operationalised under the Ministry of Surface Transport in 1995?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0637",
+      "evidenceText": "National Highways Authority of India (NHAI) - Operationalised in 1995 and established under the National Highways Authority of India Act, 1988. Headquarters - New Delhi. Other organizations:- Border R",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 637,
+        "block_id": "Pinnacle_SSC_Q637",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 637,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0644",
+    "stem": "Which among the following is India's first corporatised port?",
+    "options": {
+      "opt_a": "Kochi",
+      "opt_b": "Kandla",
+      "opt_c": "Mangalore",
+      "opt_d": "Ennore"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Ennore (Kamarajar port). Located - Coromandel Coast, Tamil Nadu. The Kochi International Container Transshipment Terminal (ICTT), locally known as the Vallarpadam Terminal, is the first transshipment terminal in India and the first container terminal to operate in a SEZ (Special Economic Zone).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kochi' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kandla' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mangalore' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0644",
+      "questionStem": "Which among the following is India's first corporatised port?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0644",
+      "evidenceText": "Ennore (Kamarajar port). Located - Coromandel Coast, Tamil Nadu. The Kochi International Container Transshipment Terminal (ICTT), locally known as the Vallarpadam Terminal, is the first transshipment ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 644,
+        "block_id": "Pinnacle_SSC_Q644",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 644,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0655",
+    "stem": "Which of the following statements are correct? www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography 1. Birth rate measures the number of children born per 1000 people annually. 2. Pull factors include opportunities that attract people to new regions. 3. Death rate is always higher than birth rate. 4. Push factors can include civil unrest and lack of jobs.",
+    "options": {
+      "opt_a": "All of the above",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1, 2, and 4 only",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "1, 2, and 4 only. Birth rate is correctly defined as the number of live births per 1000 population in a year. Pull factors are positive conditions and opportunities, such as better jobs, education, or security, that attract people to a new location. Death rate is not always higher than birth rate; in fact, most countries experience higher birth rates, except in advanced economies with population decline. Push factors are negative conditions, such as poverty, unemployment, political instability, or civil unrest, that compel people to leave their home region.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'All of the above' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 and 3 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 and 3 only' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0655",
+      "questionStem": "Which of the following statements are correct? www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography 1. Birth rate measures the number of children born per 1000 people annually. 2. Pull factors include opportunities that attract people to new regions. 3. Death rate is always higher than birth rate. 4. Push factors can include civil unrest and lack of jobs.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0655",
+      "evidenceText": "1, 2, and 4 only. Birth rate is correctly defined as the number of live births per 1000 population in a year. Pull factors are positive conditions and opportunities, such as better jobs, education, or",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 655,
+        "block_id": "Pinnacle_SSC_Q655",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 6/08/2025 (Shift 3)",
+        "pdfSequence": 655,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0710",
+    "stem": "Consider the following statements regarding Census 2011 literacy data: 1. Lakshadweep had the lowest literacy rate among Union Territories at 76.24%. 2. Tamil Nadu was the most literate state with 94% literacy. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "Only 1",
+      "opt_b": "Only 2",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Neither 1 nor 2. Dadra and Nagar Haveli had the lowest literacy rate among Union Territories at 76.24%.. According to census 2011, its literacy rate is 76.24% (Male 85.17, female 64.32). Top Literate States : Kerala (94.00%), Lakshadweep (91.85%), Mizoram (91.33%), Goa (88.70%), Tripura (87.22%).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 1' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both 1 and 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0710",
+      "questionStem": "Consider the following statements regarding Census 2011 literacy data: 1. Lakshadweep had the lowest literacy rate among Union Territories at 76.24%. 2. Tamil Nadu was the most literate state with 94% literacy. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0710",
+      "evidenceText": "Neither 1 nor 2. Dadra and Nagar Haveli had the lowest literacy rate among Union Territories at 76.24%.. According to census 2011, its literacy rate is 76.24% (Male 85.17, female 64.32). Top Literate ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 710,
+        "block_id": "Pinnacle_SSC_Q710",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 710,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0907",
+    "stem": "Which of the following is the scientific discipline concerned with the description and classification of the Earth's topographic features?",
+    "options": {
+      "opt_a": "Geomorphology",
+      "opt_b": "Acarology",
+      "opt_c": "Ethology",
+      "opt_d": "Meteorology"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Geomorphology is a term that studies change in the earth’s surface due to these exogenic and endogenic forces, where exogenic forces are the external forces originating within the earth’s atmosphere and endogenic forces are internal forces generated from within the earth. Acarology - Study of mites and ticks. It also involves the study of the Acarina order - it means study of arachnids like spiders, scorpions,etc. www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Acarology' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ethology' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Meteorology' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0907",
+      "questionStem": "Which of the following is the scientific discipline concerned with the description and classification of the Earth's topographic features?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0907",
+      "evidenceText": "Geomorphology is a term that studies change in the earth’s surface due to these exogenic and endogenic forces, where exogenic forces are the external forces originating within the earth’s atmosphere a",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 907,
+        "block_id": "Pinnacle_SSC_Q907",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 907,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0919",
+    "stem": "The national census does NOT recognise ________ groups within India.",
+    "options": {
+      "opt_a": "tribal",
+      "opt_b": "ethnic",
+      "opt_c": "religious",
+      "opt_d": "scheduled caste"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Ethnic. Census is the process of collecting, analyzing, and sharing demographic, economic, and social data of all people in a country or specific region at a given time.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'tribal' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'religious' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'scheduled caste' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0919",
+      "questionStem": "The national census does NOT recognise ________ groups within India.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0919",
+      "evidenceText": "Ethnic. Census is the process of collecting, analyzing, and sharing demographic, economic, and social data of all people in a country or specific region at a given time.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 919,
+        "block_id": "Pinnacle_SSC_Q919",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 919,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0924",
+    "stem": "___________ refers to a sanitation system in which toilets collect human excreta in sealable, removable cartridges that are transported to treatment facilities.",
+    "options": {
+      "opt_a": "Ecological sanitation",
+      "opt_b": "Container-Based sanitation",
+      "opt_c": "Community-led total sanitation",
+      "opt_d": "Dry sanitation"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Container Based Sanitation . Ecological sanitation is that protects human and ecosystem health while preventing water pollution, conserving energy, and capturing nutrients.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ecological sanitation' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Community-led total sanitation' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Dry sanitation' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0924",
+      "questionStem": "___________ refers to a sanitation system in which toilets collect human excreta in sealable, removable cartridges that are transported to treatment facilities.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0924",
+      "evidenceText": "Container Based Sanitation . Ecological sanitation is that protects human and ecosystem health while preventing water pollution, conserving energy, and capturing nutrients.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Oceanography",
+        "concept": "Oceanography",
+        "sentence_idx": 924,
+        "block_id": "Pinnacle_SSC_Q924",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 924,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 7,
+    "topicName": "Oceanography",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

@@ -7098,5 +7098,1025 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0128",
+    "stem": "Which of the following rivers flows north of the Tropic of Cancer in India?",
+    "options": {
+      "opt_a": "Mahanadi",
+      "opt_b": "Tapi",
+      "opt_c": "Penganga",
+      "opt_d": "Yamuna"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Yamuna. Originates - Yamunotri Glacier, Flows through the Himalayan foothills before entering the Indo-Gangetic Plain. Tributaries - Tons, Hindon, Chambal, Sind, Betwa, and Ken. The Yamuna River joins the Ganges River near Prayagraj (Allahabad). The Mahi River is the only river in India that crosses the Tropic of Cancer twice. Originates in the Vindhya Mountains in Madhya Pradesh, flows through Madhya Pradesh, Rajasthan, and Gujarat, and drains into the Arabian Sea.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mahanadi' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tapi' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Penganga' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0128",
+      "questionStem": "Which of the following rivers flows north of the Tropic of Cancer in India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0128",
+      "evidenceText": "Yamuna. Originates - Yamunotri Glacier, Flows through the Himalayan foothills before entering the Indo-Gangetic Plain. Tributaries - Tons, Hindon, Chambal, Sind, Betwa, and Ken. The Yamuna River joins",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 128,
+        "block_id": "Pinnacle_SSC_Q128",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 128,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0160",
+    "stem": "Consider the following statements regarding drainage patterns in India: 1. Radial drainage pattern is formed when rivers discharge their waters into a central depression or lake, as in Loktak Lake (Manipur). 2. Centripetal drainage pattern is formed when rivers originate from a hill and flow in all directions, as in the case of Narmada. Which of the above statements are incorrect?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both 1 and 2. The drainage system formed when rivers discharge their waters from all directions in a lake www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography or depression, as in the case of Loktak Lake in Manipur, is called Centripetal. Radial drainage pattern: When the rivers originate from a hill and flow in all directions. Example - Narmada.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0160",
+      "questionStem": "Consider the following statements regarding drainage patterns in India: 1. Radial drainage pattern is formed when rivers discharge their waters into a central depression or lake, as in Loktak Lake (Manipur). 2. Centripetal drainage pattern is formed when rivers originate from a hill and flow in all directions, as in the case of Narmada. Which of the above statements are incorrect?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0160",
+      "evidenceText": "Both 1 and 2. The drainage system formed when rivers discharge their waters from all directions in a lake www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography or depression",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 160,
+        "block_id": "Pinnacle_SSC_Q160",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 160,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0187",
+    "stem": "Consider the following statements regarding types of waterfalls: 1. A cataract is a waterfall with an enormous volume of water. 2. In a cascade waterfall, water descends vertically, losing all contact with the bedrock. 3. In a horsetail waterfall, water descends in distinctly separate flows. 4. In a punchbowl waterfall, water maintains continuous contact with the bedrock. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "3 and 4 only",
+      "opt_c": "1, 2 and 3 only",
+      "opt_d": "1, 2, 3 and 4"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "1 only. Types of Waterfalls: Horsetail - Descending water maintains some contact with bedrock. Plunge - Water descends vertically, losing contact with the bedrock surface. Block - Water descends from a relatively wide stream or river. Multi-step - A series of waterfalls one after another of roughly the same size each with its own sunken plunge pool. Segmented - Distinctly separate flows of water form as it descends. Cascade - Water descends a series of rock steps. Punchbowl - Water descends in a constricted form and then spreads out in a wider pool. Q.188 . Which of the following rivers does NOT flow in Kerala State? (a) Bharathapuzha (b) Periyar (c) Pamba (d) Penner Sol.188.(d) Penner - It rises in Nandi Hills in Chikballapur District of Karnataka and falls into the Bay of Bengal. Bharathapuzha (Ponnani) river is Kerala's second longest West Flowing River, draining into the Arabian Sea. Q.189 . A long, winding ridge of stratified sand and gravel is known as: (a) whorl (b) esker (c) lop (d) arch Sol.189.(b) Esker. These are ridges made of sands and gravels, deposited by glacial meltwater flowing through tunnels within and underneath glaciers, or through meltwater channels on top of glaciers. Other depositional landforms: Drumlins are smooth oval shaped ridge -like features composed mainly of glacial till with some masses of gravel and sand.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'3 and 4 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1, 2 and 3 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1, 2, 3 and 4' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0187",
+      "questionStem": "Consider the following statements regarding types of waterfalls: 1. A cataract is a waterfall with an enormous volume of water. 2. In a cascade waterfall, water descends vertically, losing all contact with the bedrock. 3. In a horsetail waterfall, water descends in distinctly separate flows. 4. In a punchbowl waterfall, water maintains continuous contact with the bedrock. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0187",
+      "evidenceText": "1 only. Types of Waterfalls: Horsetail - Descending water maintains some contact with bedrock. Plunge - Water descends vertically, losing contact with the bedrock surface. Block - Water descends from ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 187,
+        "block_id": "Pinnacle_SSC_Q187",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 187,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0192",
+    "stem": "Consider the following statements regarding Indian rivers: 1. The Banas River originates from the Khamnor Hills of the Aravalli Range in Rajasthan and is a tributary of the Chambal River. 2. The Tapi River originates from the Satpura Range in Rajasthan. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "Only 1",
+      "opt_b": "Only 2",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Only 1. Tapi originates from Satpura ranges in Madhya Pradesh. The Banas river originates from the Khamnor hills of the Aravali range. It is a tributary of the Chambal River. It is also known as “Van ki Asha”. Length of Banas: 512 km. Tributaries: Kothari, Dai, Dheel, Menali etc.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0192",
+      "questionStem": "Consider the following statements regarding Indian rivers: 1. The Banas River originates from the Khamnor Hills of the Aravalli Range in Rajasthan and is a tributary of the Chambal River. 2. The Tapi River originates from the Satpura Range in Rajasthan. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0192",
+      "evidenceText": "Only 1. Tapi originates from Satpura ranges in Madhya Pradesh. The Banas river originates from the Khamnor hills of the Aravali range. It is a tributary of the Chambal River. It is also known as “Van ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 192,
+        "block_id": "Pinnacle_SSC_Q192",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 192,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0225",
+    "stem": "Gurdwara Patalpuri Sahib is located on the bank of river ______.",
+    "options": {
+      "opt_a": "Yamuna",
+      "opt_b": "Ganga",
+      "opt_c": "Sutlej",
+      "opt_d": "Beas"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Sutlej. Gurdwara Patalpuri Sahib located in Rupnagar district of Punjab. Guru Hargobind Ji in 1644 as well as Guru Har Rai Ji in 1661 were cremated here.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Yamuna' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ganga' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Beas' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0225",
+      "questionStem": "Gurdwara Patalpuri Sahib is located on the bank of river ______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0225",
+      "evidenceText": "Sutlej. Gurdwara Patalpuri Sahib located in Rupnagar district of Punjab. Guru Hargobind Ji in 1644 as well as Guru Har Rai Ji in 1661 were cremated here.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 225,
+        "block_id": "Pinnacle_SSC_Q225",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 225,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0226",
+    "stem": "Which of the following is a tributary of the river Brahmaputra that flows through Bhutan?",
+    "options": {
+      "opt_a": "Wang Chhu River",
+      "opt_b": "Sittaung River",
+      "opt_c": "Ayeyarwady River",
+      "opt_d": "Chindwin River"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Wang Chhu River . Bhutan has four major rivers, named Drangme Chhu, Mo Chhu, Wang Chhu and Torsa Chhu . The Brahmaputra is one of the largest rivers of the Indian Subcontinent.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Sittaung River' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ayeyarwady River' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Chindwin River' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0226",
+      "questionStem": "Which of the following is a tributary of the river Brahmaputra that flows through Bhutan?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0226",
+      "evidenceText": "Wang Chhu River . Bhutan has four major rivers, named Drangme Chhu, Mo Chhu, Wang Chhu and Torsa Chhu . The Brahmaputra is one of the largest rivers of the Indian Subcontinent.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 226,
+        "block_id": "Pinnacle_SSC_Q226",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 226,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0305",
+    "stem": "The people of Himachal Pradesh make channels to bring water from a glacier or rainwater to villages for the function of mainly irrigation. These channels are locally known as:",
+    "options": {
+      "opt_a": "Khadins",
+      "opt_b": "Guls or Kuls",
+      "opt_c": "Johads",
+      "opt_d": "Baori"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Guls or Kuls. In hill and mountainous regions, people built diversion channels like the ‘guls’ or ‘kuls’ of the Western Himalayas for agriculture. Water harvesting system: ‘Rooftop rain water harvesting’ was commonly practised to store drinking water, particularly in Rajasthan. In arid and semi-arid regions, agricultural fields were converted into rain fed storage structures that allowed the water to stand and moisten the soil like the ‘khadins’ in Jaisalmer and ‘Johads’ in other parts of Rajasthan. Roof top rain water harvesting is the most common practice in Shillong, Meghalaya.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Khadins' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Johads' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Baori' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0305",
+      "questionStem": "The people of Himachal Pradesh make channels to bring water from a glacier or rainwater to villages for the function of mainly irrigation. These channels are locally known as:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0305",
+      "evidenceText": "Guls or Kuls. In hill and mountainous regions, people built diversion channels like the ‘guls’ or ‘kuls’ of the Western Himalayas for agriculture. Water harvesting system: ‘Rooftop rain water harvesti",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 305,
+        "block_id": "Pinnacle_SSC_Q305",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 305,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0600",
+    "stem": "In the state of ______, the general direction of the Himalayas is from southwest to northeast.",
+    "options": {
+      "opt_a": "Manipur",
+      "opt_b": "Nagaland",
+      "opt_c": "Mizoram",
+      "opt_d": "Arunachal Pradesh"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Arunachal Pradesh. Himalayas in the Darjeeling and Sikkim regions lie in an east-west direction.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Manipur' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Nagaland' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mizoram' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0600",
+      "questionStem": "In the state of ______, the general direction of the Himalayas is from southwest to northeast.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0600",
+      "evidenceText": "Arunachal Pradesh. Himalayas in the Darjeeling and Sikkim regions lie in an east-west direction.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 600,
+        "block_id": "Pinnacle_SSC_Q600",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 600,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0611",
+    "stem": "Through which routes is the majority of India’s international trade carried out?",
+    "options": {
+      "opt_a": "Railway and air",
+      "opt_b": "Sea and air",
+      "opt_c": "Only Railway",
+      "opt_d": "Sea and railway"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Sea and air. India has a coastline of approximately 7,516.6 km, making maritime transport essential for international trade. According to the Ministry of Shipping, about 95% of India's trade by volume and 70% by value is conducted via sea routes. A smaller portion of trade occurs through land routes to neighboring countries, including Nepal, Bhutan, Bangladesh, and Pakistan.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Railway and air' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Railway' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Sea and railway' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0611",
+      "questionStem": "Through which routes is the majority of India’s international trade carried out?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0611",
+      "evidenceText": "Sea and air. India has a coastline of approximately 7,516.6 km, making maritime transport essential for international trade. According to the Ministry of Shipping, about 95% of India's trade by volume",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 611,
+        "block_id": "Pinnacle_SSC_Q611",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 611,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0612",
+    "stem": "According to the Ministry of Road Transport and Highways’ annual report (2020-2021), which position does India have in terms of road networks in the world?",
+    "options": {
+      "opt_a": "First",
+      "opt_b": "Second",
+      "opt_c": "Fourth",
+      "opt_d": "Third"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Second. India has the second largest road network in the world after the USA. India’s road network stands at over 63,71,847 km. This comprises National Highways, Expressways, State Highways, Major District Roads, other District Roads and Village Roads (Ministry of Road Transport & Highways Annual Report FY 2021-22). Q.613 . As of Financial year 2019, which of the following states has the highest road density in India? (a) Haryana (b) Tamil Nadu (c) Kerala (d) Punjab Sol.613.(c) Kerala. As of the financial year 2019, Kerala had the highest road density among states, with 6.7 thousand kilometers of roads per one thousand square kilometers. Among union territories, Chandigarh had the highest road density in India, with over 22.6 thousand kilometers per one thousand square kilometers. Road density refers to the total length of all roads in a country, including highways, national roads, and city or rural roads, compared to the country's land area.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'First' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Fourth' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Third' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0612",
+      "questionStem": "According to the Ministry of Road Transport and Highways’ annual report (2020-2021), which position does India have in terms of road networks in the world?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0612",
+      "evidenceText": "Second. India has the second largest road network in the world after the USA. India’s road network stands at over 63,71,847 km. This comprises National Highways, Expressways, State Highways, Major Dis",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 612,
+        "block_id": "Pinnacle_SSC_Q612",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 612,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0638",
+    "stem": "Which of the following is the only rack railway in India that was declared a UNESCO World Heritage Site in 2005?",
+    "options": {
+      "opt_a": "Nilgiri Mountain Railway",
+      "opt_b": "Kangra Valley Railway",
+      "opt_c": "Matheran Hill Railway",
+      "opt_d": "Kalka–Shimla Railway"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Nilgiri Mountain Railway. Darjeeling Himalayan Railway (In UNESCO list in 1999), Kalka Shimla Railway (2008) and Chhatrapati Shivaji Terminus, Mumbai (2004). There are 43 World Heritage Sites in India. Out of these, 35 are cultural, seven are natural, and one, Khangchendzonga National Park, is of mixed type (As of October 2024).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kangra Valley Railway' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Matheran Hill Railway' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Kalka–Shimla Railway' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0638",
+      "questionStem": "Which of the following is the only rack railway in India that was declared a UNESCO World Heritage Site in 2005?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0638",
+      "evidenceText": "Nilgiri Mountain Railway. Darjeeling Himalayan Railway (In UNESCO list in 1999), Kalka Shimla Railway (2008) and Chhatrapati Shivaji Terminus, Mumbai (2004). There are 43 World Heritage Sites in India",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 638,
+        "block_id": "Pinnacle_SSC_Q638",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 638,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0734",
+    "stem": "Which of the following periods is referred to as a period of stagnant or stationary phase of growth of India's population?",
+    "options": {
+      "opt_a": "1921-1941",
+      "opt_b": "1901-1921",
+      "opt_c": "1961-1981",
+      "opt_d": "1941-1961"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "1901-1921. The year 1921 is known as the year demographic divide because it is the only census year when there was a decrease in the growth of population.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1921-1941' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1961-1981' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1941-1961' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0734",
+      "questionStem": "Which of the following periods is referred to as a period of stagnant or stationary phase of growth of India's population?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0734",
+      "evidenceText": "1901-1921. The year 1921 is known as the year demographic divide because it is the only census year when there was a decrease in the growth of population.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 734,
+        "block_id": "Pinnacle_SSC_Q734",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 734,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0780",
+    "stem": "The igneous, sedimentary and metamorphic rocks are interconvertible through a continuous process called:",
+    "options": {
+      "opt_a": "lithification",
+      "opt_b": "metamorphism",
+      "opt_c": "rock cycle",
+      "opt_d": "weathering and erosion"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "rock cycle. It is a series of processes that create and transform the types of rocks in Earth's crust. Lithification: This is specifically the process by which sediments are compacted and cemented to form sedimentary rocks. Metamorphism is the process by which existing rocks (Igneous, Sedimentary, or even other Metamorphic rocks) are transformed into metamorphic rocks under high pressure, and temperature. Weathering and erosion: These are processes that break down existing rocks into smaller particles.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'lithification' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'metamorphism' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'weathering and erosion' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0780",
+      "questionStem": "The igneous, sedimentary and metamorphic rocks are interconvertible through a continuous process called:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0780",
+      "evidenceText": "rock cycle. It is a series of processes that create and transform the types of rocks in Earth's crust. Lithification: This is specifically the process by which sediments are compacted and cemented to ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 780,
+        "block_id": "Pinnacle_SSC_Q780",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 780,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0845",
+    "stem": "Which of the following are some regions in the world, known for their thriving citrus fruit production?",
+    "options": {
+      "opt_a": "Africa",
+      "opt_b": "Equatorial regions",
+      "opt_c": "Caribbean",
+      "opt_d": "Mediterranean regions"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Mediterranean regions - These are known as ‘Orchards of the world’. Plants grow in Mediterranean regions - Citrus fruits like lemons, orange and grapefruit, Rosemary, Olive. Mediterranean woodlands are found in the Mediterranean Sea region, Central Chile, the Southwest United States, Australia, and Africa.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Africa' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Equatorial regions' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Caribbean' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0845",
+      "questionStem": "Which of the following are some regions in the world, known for their thriving citrus fruit production?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0845",
+      "evidenceText": "Mediterranean regions - These are known as ‘Orchards of the world’. Plants grow in Mediterranean regions - Citrus fruits like lemons, orange and grapefruit, Rosemary, Olive. Mediterranean woodlands ar",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 845,
+        "block_id": "Pinnacle_SSC_Q845",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 845,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0882",
+    "stem": "What is a population (or subspecies or race) that is adapted to local environmental conditions called?",
+    "options": {
+      "opt_a": "Niche",
+      "opt_b": "Ecotype",
+      "opt_c": "Prototype",
+      "opt_d": "Biome"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Ecotype is a genetically distinct group within a species adapted to specific environmental conditions. An ecological niche describes how a species interacts within an ecosystem. A biome refers to a community of plants and animals naturally occurring in a region with shared characteristics.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Niche' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Prototype' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Biome' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0882",
+      "questionStem": "What is a population (or subspecies or race) that is adapted to local environmental conditions called?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0882",
+      "evidenceText": "Ecotype is a genetically distinct group within a species adapted to specific environmental conditions. An ecological niche describes how a species interacts within an ecosystem. A biome refers to a co",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Water Resources, Irrigation & Dams",
+        "concept": "Water Resources, Irrigation & Dams",
+        "sentence_idx": 882,
+        "block_id": "Pinnacle_SSC_Q882",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 882,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 16,
+    "topicName": "Water Resources, Irrigation & Dams",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

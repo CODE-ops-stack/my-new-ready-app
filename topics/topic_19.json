@@ -10080,5 +10080,753 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0307",
+    "stem": "Which of the following statements correctly defines the green revolution?",
+    "options": {
+      "opt_a": "It is a new strategy in agriculture to produce food grains, especially wheat and rice.",
+      "opt_b": "It is a new strategy to increase the share of the forest.",
+      "opt_c": "It is a new strategy to use green colour for all purposes.",
+      "opt_d": "It is a new strategy to use only herbal products."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The Green Revolution, starting in the 1960s, aimed to achieve food security and reduce food imports, particularly in India. It involved the introduction of high-yielding variety seeds, mechanized farming, improved irrigation, and the use of pesticides and fertilizers.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'It is a new strategy to increase the share of the forest.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'It is a new strategy to use green colour for all purposes.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'It is a new strategy to use only herbal products.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0307",
+      "questionStem": "Which of the following statements correctly defines the green revolution?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0307",
+      "evidenceText": "The Green Revolution, starting in the 1960s, aimed to achieve food security and reduce food imports, particularly in India. It involved the introduction of high-yielding variety seeds, mechanized farm",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 307,
+        "block_id": "Pinnacle_SSC_Q307",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 307,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0497",
+    "stem": "Select the INCORRECT statement from the following.",
+    "options": {
+      "opt_a": "The development of the cotton textile industry in Britain led to the decline of Indian textile producers.",
+      "opt_b": "Cotton clothes made in England had driven Indian clothes out of the markets of Europe and America in the beginning of the 20th century.",
+      "opt_c": "The Sale and Devang communities of South India were famous for weaving.",
+      "opt_d": "The first cotton textile mill in India was established in Bombay in 1854."
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "By the beginning of the 20th century, India was not competing in European and American markets because British policies had already eliminated Indian textile exports to these regions by the 19th century. The decline of Indian textiles in international markets occurred much earlier, during the late 18th and 19th centuries, following the Industrial Revolution in Britain.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'The development of the cotton textile industry in Britain led to the decline of Indian textile producers.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'The Sale and Devang communities of South India were famous for weaving.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'The first cotton textile mill in India was established in Bombay in 1854.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0497",
+      "questionStem": "Select the INCORRECT statement from the following.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0497",
+      "evidenceText": "By the beginning of the 20th century, India was not competing in European and American markets because British policies had already eliminated Indian textile exports to these regions by the 19th centu",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 497,
+        "block_id": "Pinnacle_SSC_Q497",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 497,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0599",
+    "stem": "The archaeological site of Atranjikhera is located in _______.",
+    "options": {
+      "opt_a": "Himachal Pradesh",
+      "opt_b": "Uttarakhand",
+      "opt_c": "Uttar Pradesh",
+      "opt_d": "Maharashtra"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Uttar Pradesh. This site was first identified by Sir Alexander Cunningham in 1862 but excavated by R C Gaur in 1962.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Himachal Pradesh' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Uttarakhand' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Maharashtra' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0599",
+      "questionStem": "The archaeological site of Atranjikhera is located in _______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0599",
+      "evidenceText": "Uttar Pradesh. This site was first identified by Sir Alexander Cunningham in 1862 but excavated by R C Gaur in 1962.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 599,
+        "block_id": "Pinnacle_SSC_Q599",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 599,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0607",
+    "stem": "What is the primary mission behind India's involvement in the International North-South Transport Corridor (INSTC)?",
+    "options": {
+      "opt_a": "To promote clean maritime security",
+      "opt_b": "To bypass China's CPEC route via Taiwan",
+      "opt_c": "To improve connectivity with Eurasia via multimodal routes",
+      "opt_d": "To facilitate transit trade through the Arctic"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "The INSTC (International North-South Transport Corridor) is a multi-modal (ship–rail–road) transport network covering about 7,200 km. It connects India → Iran → Russia → Central Asia → Europe. Main goals: Provide India with a shorter, cheaper trade route to Eurasia compared to the Suez Canal route. Strengthen India’s presence in Central Asia and Russia while bypassing Pakistan. Enhance trade and energy connectivity with Eurasia through integrated logistics.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'To promote clean maritime security' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'To bypass China's CPEC route via Taiwan' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'To facilitate transit trade through the Arctic' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0607",
+      "questionStem": "What is the primary mission behind India's involvement in the International North-South Transport Corridor (INSTC)?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0607",
+      "evidenceText": "The INSTC (International North-South Transport Corridor) is a multi-modal (ship–rail–road) transport network covering about 7,200 km. It connects India → Iran → Russia → Central Asia → Europe. Main go",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 607,
+        "block_id": "Pinnacle_SSC_Q607",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 8/08/2025 (Shift 2)",
+        "pdfSequence": 607,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0621",
+    "stem": "When was air transport nationalised in India?",
+    "options": {
+      "opt_a": "1950",
+      "opt_b": "1952",
+      "opt_c": "1951",
+      "opt_d": "1953"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "1953. The Air Corporations Act of 1953 led to the nationalization of Indian airlines and the formation of two corporations: Indian Airlines for domestic routes and Air India International for international routes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1950' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1952' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1951' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0621",
+      "questionStem": "When was air transport nationalised in India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0621",
+      "evidenceText": "1953. The Air Corporations Act of 1953 led to the nationalization of Indian airlines and the formation of two corporations: Indian Airlines for domestic routes and Air India International for internat",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 621,
+        "block_id": "Pinnacle_SSC_Q621",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 621,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0622",
+    "stem": "Match the railway zones in column A with their headquarters in column B. Column A (Railway zones) Column B (Headquarters) 1. Central a. New Delhi 2. Northern b. Mumbai CST 3. Eastern c. Chennai 4. Southern d. Kolkata",
+    "options": {
+      "opt_a": "1-b, 2-d, 3-a, 4-c",
+      "opt_b": "1-a, 2-b, 3-d, 4-c",
+      "opt_c": "1-b, 2-a, 3-d, 4-c",
+      "opt_d": "1-b, 2-a, 3-c, 4-d"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "1-b, 2-a, 3-d, 4-c.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-b, 2-d, 3-a, 4-c' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-a, 2-b, 3-d, 4-c' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1-b, 2-a, 3-c, 4-d' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0622",
+      "questionStem": "Match the railway zones in column A with their headquarters in column B. Column A (Railway zones) Column B (Headquarters) 1. Central a. New Delhi 2. Northern b. Mumbai CST 3. Eastern c. Chennai 4. Southern d. Kolkata",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0622",
+      "evidenceText": "1-b, 2-a, 3-d, 4-c.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 622,
+        "block_id": "Pinnacle_SSC_Q622",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 622,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0625",
+    "stem": "Pipelines as a means of transport are looked after by the _________ of the Government of India.",
+    "options": {
+      "opt_a": "Ministry of Petroleum and Natural Gas",
+      "opt_b": "Ministry of Home Affairs",
+      "opt_c": "Ministry of Railways",
+      "opt_d": "Ministry of Road Transport and Highways"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Ministry of Petroleum and Natural Gas. Some major pipelines in India: Hazira - Bijaypur - Jagdishpur Pipeline - India's longest gas pipeline, which runs from Gujarat to Uttar Pradesh. Jamnagar-Loni LPG Pipeline - It transports LPG from Jamnagar to Loni near Delhi. Naharkatia-Nunmati-Barauni Pipeline - India's first crude oil pipeline, which runs from Assam to the Barauni refinery.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ministry of Home Affairs' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ministry of Railways' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Ministry of Road Transport and Highways' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0625",
+      "questionStem": "Pipelines as a means of transport are looked after by the _________ of the Government of India.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0625",
+      "evidenceText": "Ministry of Petroleum and Natural Gas. Some major pipelines in India: Hazira - Bijaypur - Jagdishpur Pipeline - India's longest gas pipeline, which runs from Gujarat to Uttar Pradesh. Jamnagar-Loni LP",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 625,
+        "block_id": "Pinnacle_SSC_Q625",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 625,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0628",
+    "stem": "The historical Sher Shah Suri Marg is called the National Highway no. _________ between Delhi and Amritsar.",
+    "options": {
+      "opt_a": "9",
+      "opt_b": "3",
+      "opt_c": "1",
+      "opt_d": "7"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "1. Sher Shah Suri built the Shahi (Royal) Road to strengthen and consolidate his empire from the Indus Valley to Bengal's Sonar Valley. This road was renamed the Grand Trunk (GT) Road during British rule, connecting Kolkata and Peshawar. Currently, it extends from Amritsar to Kolkata and is divided into two segments: National Highway (NH)-1 from Delhi to Amritsar and NH-2 from Delhi to Kolkata.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'9' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'3' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'7' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0628",
+      "questionStem": "The historical Sher Shah Suri Marg is called the National Highway no. _________ between Delhi and Amritsar.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0628",
+      "evidenceText": "1. Sher Shah Suri built the Shahi (Royal) Road to strengthen and consolidate his empire from the Indus Valley to Bengal's Sonar Valley. This road was renamed the Grand Trunk (GT) Road during British r",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 628,
+        "block_id": "Pinnacle_SSC_Q628",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 628,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0629",
+    "stem": "In which of the following years was the air transport in India launched?",
+    "options": {
+      "opt_a": "1948",
+      "opt_b": "1932",
+      "opt_c": "1954",
+      "opt_d": "1911"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "1911. Air Transportation: Air transport in India was launched between Allahabad and Naini (10 km). George Light started Air Transport in India. The first airmail flight was piloted by French pilot Henri Pequet. Air transport was nationalised and two Corporations, Air India International and Indian Airlines were formed in 1953.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1948' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1932' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1954' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0629",
+      "questionStem": "In which of the following years was the air transport in India launched?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0629",
+      "evidenceText": "1911. Air Transportation: Air transport in India was launched between Allahabad and Naini (10 km). George Light started Air Transport in India. The first airmail flight was piloted by French pilot Hen",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 629,
+        "block_id": "Pinnacle_SSC_Q629",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 629,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0648",
+    "stem": "Which of the following ancient ports was situated on the Malabar Coast?",
+    "options": {
+      "opt_a": "Barygaza",
+      "opt_b": "Muziris",
+      "opt_c": "Tamralipti",
+      "opt_d": "Palur"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Muziris Port. It became popular when Babylonians, Assyrians, and Egyptians came to the Malabar Coast in search of spices in 3000 BC.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Barygaza' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tamralipti' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Palur' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0648",
+      "questionStem": "Which of the following ancient ports was situated on the Malabar Coast?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0648",
+      "evidenceText": "Muziris Port. It became popular when Babylonians, Assyrians, and Egyptians came to the Malabar Coast in search of spices in 3000 BC.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 648,
+        "block_id": "Pinnacle_SSC_Q648",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 648,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0862",
+    "stem": "What evidence supports the Big Bang theory of universe origin?",
+    "options": {
+      "opt_a": "Sunspot cycles",
+      "opt_b": "Redshift of galaxies",
+      "opt_c": "Solar wind",
+      "opt_d": "Volcanic eruptions on Earth"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The redshift of galaxies is a major piece of observational evidence supporting the Big Bang Theory. Redshift refers to the phenomenon where light from distant galaxies shifts toward the red end of the spectrum, indicating that they are moving away from us. This supports the idea that the universe is expanding, and if it's expanding now, it must have originated from a singular point — as proposed in the Big Bang Theory.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Sunspot cycles' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Solar wind' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Volcanic eruptions on Earth' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0862",
+      "questionStem": "What evidence supports the Big Bang theory of universe origin?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0862",
+      "evidenceText": "The redshift of galaxies is a major piece of observational evidence supporting the Big Bang Theory. Redshift refers to the phenomenon where light from distant galaxies shifts toward the red end of the",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Transport, Communication & Trade",
+        "concept": "Transport, Communication & Trade",
+        "sentence_idx": 862,
+        "block_id": "Pinnacle_SSC_Q862",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 7/08/2025 (Shift 3)",
+        "pdfSequence": 862,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 19,
+    "topicName": "Transport, Communication & Trade",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

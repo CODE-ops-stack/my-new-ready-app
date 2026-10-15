@@ -9583,5 +9583,549 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0049",
+    "stem": "At what latitude does the easterly jet stream blow over peninsular India during the summer months?",
+    "options": {
+      "opt_a": "24°N",
+      "opt_b": "30°N",
+      "opt_c": "14°N",
+      "opt_d": "28°N"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "14°N. The Jet Stream is a geostrophic wind blowing horizontally through the upper layers of the troposphere, generally from west to east. The tropical easterly jet stream, located between 8 and 35 degrees north latitude, is connected to the southwest monsoon in India. Q.50 . In which month is the InterTropical Convergence Zone (ITCZ) located around 20°N-25°N latitude (over the Gangetic plain) ? (a) May (b) August (c) June (d) July Sol.50.(d) July. The Inter Tropical Convergence Zone (ITCZ) is a low pressure zone located at the equator where trade winds converge, and so, it is a zone where air tends to ascend. The Inter-Tropical Convergence Zone located around 20°N-25°N latitudes (over the Gangetic plain) in July month is sometimes called the monsoon trough.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'24°N' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'30°N' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'28°N' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0049",
+      "questionStem": "At what latitude does the easterly jet stream blow over peninsular India during the summer months?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0049",
+      "evidenceText": "14°N. The Jet Stream is a geostrophic wind blowing horizontally through the upper layers of the troposphere, generally from west to east. The tropical easterly jet stream, located between 8 and 35 deg",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 49,
+        "block_id": "Pinnacle_SSC_Q49",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 49,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0051",
+    "stem": "Which of the below statements is/are incorrect? Statement 1: Longitude directly determines the temperature of ocean waters. Statement 2: Ocean currents influence ocean water temperature by transporting warm and cold water masses.",
+    "options": {
+      "opt_a": "Only Statement 1",
+      "opt_b": "Only Statement 2",
+      "opt_c": "Both Statement 1 and 2",
+      "opt_d": "None of the above"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Only Statement 1. Statement 1 is incorrect because longitude does not directly affect ocean water temperature. Factors determining ocean water temperature : Latitude - Affects the amount of solar radiation received. Unequal distribution of land and water - Affects heat absorption and distribution. Ocean currents - Transport heat and cold water masses globally.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both Statement 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'None of the above' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0051",
+      "questionStem": "Which of the below statements is/are incorrect? Statement 1: Longitude directly determines the temperature of ocean waters. Statement 2: Ocean currents influence ocean water temperature by transporting warm and cold water masses.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0051",
+      "evidenceText": "Only Statement 1. Statement 1 is incorrect because longitude does not directly affect ocean water temperature. Factors determining ocean water temperature : Latitude - Affects the amount of solar radi",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 51,
+        "block_id": "Pinnacle_SSC_Q51",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 51,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0056",
+    "stem": "During October-November, the apparent movement of the sun is towards the _____.",
+    "options": {
+      "opt_a": "North",
+      "opt_b": "North-East",
+      "opt_c": "North-West",
+      "opt_d": "South"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "South. The position of the rising sun keeps on moving towards the south in the period from 21st June to 22nd December. This period is called Dakshinayan . From 22nd December to 21st June, the sun keeps on moving towards the north. This period is called Uttarayan.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'North' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'North-East' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'North-West' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0056",
+      "questionStem": "During October-November, the apparent movement of the sun is towards the _____.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0056",
+      "evidenceText": "South. The position of the rising sun keeps on moving towards the south in the period from 21st June to 22nd December. This period is called Dakshinayan . From 22nd December to 21st June, the sun keep",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 56,
+        "block_id": "Pinnacle_SSC_Q56",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 56,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0061",
+    "stem": "From the north most to south most point of India, what is the extent of India?",
+    "options": {
+      "opt_a": "4109 km",
+      "opt_b": "2914 km",
+      "opt_c": "3214 km",
+      "opt_d": "3785 km"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "3214 km. Extent of India: East to west (2,933 km), land frontier (15,200 km), coastline (7,516.6 km). The westernmost point (Ghuar Moti in Kutch). The easternmost point (Kibithu in Arunachal Pradesh). Indira Col (northernmost point). Indira Point (Great Nicobar Island, Andaman sea) is the Southernmost point of India while Kanyakumari is the southernmost point of the Indian Mainland.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'4109 km' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2914 km' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'3785 km' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0061",
+      "questionStem": "From the north most to south most point of India, what is the extent of India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0061",
+      "evidenceText": "3214 km. Extent of India: East to west (2,933 km), land frontier (15,200 km), coastline (7,516.6 km). The westernmost point (Ghuar Moti in Kutch). The easternmost point (Kibithu in Arunachal Pradesh).",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 61,
+        "block_id": "Pinnacle_SSC_Q61",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 61,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0441",
+    "stem": "Tropical cyclones originate over which of the following regions?",
+    "options": {
+      "opt_a": "Bay of Bengal, Arabian Sea and the Indian Ocean",
+      "opt_b": "Mediterranean Sea, Pacific Ocean and the Indian Ocean",
+      "opt_c": "Bay of Bengal, Arabian Sea and the Atlantic Ocean",
+      "opt_d": "Mediterranean Sea, Arabian Sea and the Indian Ocean"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A tropical cyclone is formed over warm ocean waters near the equator. The centre of a cyclone is very calm and clear with very low air pressure. The average speed is 120 kmph. They move from east to west under the influence of trade winds. www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mediterranean Sea, Pacific Ocean and the Indian Ocean' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Bay of Bengal, Arabian Sea and the Atlantic Ocean' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mediterranean Sea, Arabian Sea and the Indian Ocean' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0441",
+      "questionStem": "Tropical cyclones originate over which of the following regions?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0441",
+      "evidenceText": "A tropical cyclone is formed over warm ocean waters near the equator. The centre of a cyclone is very calm and clear with very low air pressure. The average speed is 120 kmph. They move from east to w",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 441,
+        "block_id": "Pinnacle_SSC_Q441",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 441,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0468",
+    "stem": "When was the Indian Meteorological Department, which collects data on temperature, rainfall, wind, etc., and makes weather forecasts, established by the Government of India?",
+    "options": {
+      "opt_a": "1873",
+      "opt_b": "1879",
+      "opt_c": "1876",
+      "opt_d": "1875"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "1875. Indian Meteorological Department - An agency of the Ministry of Earth Sciences of the Government of India. It is the principal agency responsible for meteorological observations, weather forecasting and seismology. Formed - 15 January 1875. Headquarters - New Delhi. Regional offices - Chennai, Mumbai, Kolkata, Nagpur, Guwahati and New Delhi.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1873' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'1879' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'1876' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0468",
+      "questionStem": "When was the Indian Meteorological Department, which collects data on temperature, rainfall, wind, etc., and makes weather forecasts, established by the Government of India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0468",
+      "evidenceText": "1875. Indian Meteorological Department - An agency of the Ministry of Earth Sciences of the Government of India. It is the principal agency responsible for meteorological observations, weather forecas",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 468,
+        "block_id": "Pinnacle_SSC_Q468",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 468,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0597",
+    "stem": "Deserts, rain,forests, coral reefs, www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography and mangroves are features of ________ diversity.",
+    "options": {
+      "opt_a": "genetic",
+      "opt_b": "cultural",
+      "opt_c": "species",
+      "opt_d": "ecological"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Ecological diversity includes species diversity, genetic diversity, and ecosystem diversity. They are collectively considered biodiversity. It is the sum of all kinds of animals and plants living on this earth along with their habitat.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'genetic' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'cultural' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'species' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0597",
+      "questionStem": "Deserts, rain,forests, coral reefs, www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography and mangroves are features of ________ diversity.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0597",
+      "evidenceText": "Ecological diversity includes species diversity, genetic diversity, and ecosystem diversity. They are collectively considered biodiversity. It is the sum of all kinds of animals and plants living on t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 597,
+        "block_id": "Pinnacle_SSC_Q597",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 597,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0848",
+    "stem": "According to the World Bank, what was the density of the population of Sri Lanka in 2020?",
+    "options": {
+      "opt_a": "554 Persons per sq . km.",
+      "opt_b": "300 Persons per sq . km.",
+      "opt_c": "354 Persons per sq . km.",
+      "opt_d": "364 Persons per sq . km."
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "354 Persons per sq . km. Other Countries' population density (Food and Agriculture Organization and World Bank population estimates in 2020) in square Km:- India (470), China (150), Myanmar (82), Nepal (205), Bangladesh (1286), New Zealand (19).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'554 Persons per sq . km.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'300 Persons per sq . km.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'364 Persons per sq . km.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0848",
+      "questionStem": "According to the World Bank, what was the density of the population of Sri Lanka in 2020?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0848",
+      "evidenceText": "354 Persons per sq . km. Other Countries' population density (Food and Agriculture Organization and World Bank population estimates in 2020) in square Km:- India (470), China (150), Myanmar (82), Nepa",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Globe, Latitudes, Longitudes & Time",
+        "concept": "Globe, Latitudes, Longitudes & Time",
+        "sentence_idx": 848,
+        "block_id": "Pinnacle_SSC_Q848",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 848,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 2,
+    "topicName": "Globe, Latitudes, Longitudes & Time",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

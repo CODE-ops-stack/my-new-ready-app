@@ -9320,5 +9320,141 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0310",
+    "stem": "Consider the following statements regarding the Second Green Revolution Cell: 1. The headquarters of the Second Green Revolution (SGR) Cell is located at ICAR–Research Complex for Eastern Region (RCER), Patna. 2. The benefits of the first Green Revolution were mainly confined to the eastern region of India. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "1 only. The Second Green Revolution (SGR) Cell was created by the Ministry of Agriculture and Farmers' Welfare, Government of India to improve agricultural productivity and livelihood in the Eastern region of India because the benefits of first Green Revolution were mainly confined to north-western states of Haryana, Punjab and western Uttar Pradesh.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0310",
+      "questionStem": "Consider the following statements regarding the Second Green Revolution Cell: 1. The headquarters of the Second Green Revolution (SGR) Cell is located at ICAR–Research Complex for Eastern Region (RCER), Patna. 2. The benefits of the first Green Revolution were mainly confined to the eastern region of India. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0310",
+      "evidenceText": "1 only. The Second Green Revolution (SGR) Cell was created by the Ministry of Agriculture and Farmers' Welfare, Government of India to improve agricultural productivity and livelihood in the Eastern r",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Biogeography, Ecosystems & Biodiversity",
+        "concept": "Biogeography, Ecosystems & Biodiversity",
+        "sentence_idx": 310,
+        "block_id": "Pinnacle_SSC_Q310",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 310,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 8,
+    "topicName": "Biogeography, Ecosystems & Biodiversity",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0883",
+    "stem": "Identify whether the given statements about an earthquake are correct or incorrect. Statement 1 : When the stress on the edge overcomes the friction, there is an earthquake that releases energy in waves that travel through Earth's crust and causes the shaking that we feel. Statement 2 : An earthquake cannot be identified as a foreshock until after a larger earthquake in the same area occurs.",
+    "options": {
+      "opt_a": "Only Statement 1 is correct",
+      "opt_b": "Both Statements 1 and 2 are correct",
+      "opt_c": "Only Statement 2 is correct",
+      "opt_d": "Both Statements 1 and 2 are incorrect"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Both Statements 1 and 2 are correct. When lithospheric plates move, the Earth's surface vibrates, causing earthquakes. The point inside the crust where movement begins is called the focus, while the point directly above it on the surface is the epicenter. Vibrations spread outward from the epicenter, with the strongest impact near this point, decreasing as they move away.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 1 is correct' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 2 is correct' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both Statements 1 and 2 are incorrect' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0883",
+      "questionStem": "Identify whether the given statements about an earthquake are correct or incorrect. Statement 1 : When the stress on the edge overcomes the friction, there is an earthquake that releases energy in waves that travel through Earth's crust and causes the shaking that we feel. Statement 2 : An earthquake cannot be identified as a foreshock until after a larger earthquake in the same area occurs.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0883",
+      "evidenceText": "Both Statements 1 and 2 are correct. When lithospheric plates move, the Earth's surface vibrates, causing earthquakes. The point inside the crust where movement begins is called the focus, while the p",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Biogeography, Ecosystems & Biodiversity",
+        "concept": "Biogeography, Ecosystems & Biodiversity",
+        "sentence_idx": 883,
+        "block_id": "Pinnacle_SSC_Q883",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 883,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 8,
+    "topicName": "Biogeography, Ecosystems & Biodiversity",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

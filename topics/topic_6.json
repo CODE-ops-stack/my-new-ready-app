@@ -8021,5 +8021,2861 @@
       },
       "linkHashes": {}
     }
+  },
+  {
+    "id": "ssc_pyq_0009",
+    "stem": "Who gave the expanding universe hypothesis?",
+    "options": {
+      "opt_a": "Galileo Galilei",
+      "opt_b": "Edwin Hubble",
+      "opt_c": "James Clerk Maxwell",
+      "opt_d": "CV Raman"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Edwin Hubble. The most popular argument regarding the origin of www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography the universe is the Big Bang Theory. It is also called the expanding universe hypothesis. Edwin Hubble, in 1920, provided evidence that the universe is expanding. As time passes, galaxies move further and further apart. Galileo Galilei is known for his contributions to astronomy, particularly with the use of the telescope.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Galileo Galilei' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'James Clerk Maxwell' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'CV Raman' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0009",
+      "questionStem": "Who gave the expanding universe hypothesis?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0009",
+      "evidenceText": "Edwin Hubble. The most popular argument regarding the origin of www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography the universe is the Big Bang Theory. It is also called ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 9,
+        "block_id": "Pinnacle_SSC_Q9",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 9,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0035",
+    "stem": "Consider the following statements regarding terrestrial planets: 1. Terrestrial planets are primarily composed of rocks and metals. 2. Mercury, Venus, Earth, and Mars are classified as terrestrial planets. 3. Terrestrial planets can be further categorised into silicate, iron, coreless, and carbon (diamond) planets. 4. The atmosphere of all terrestrial planets is primarily made up of hydrogen and helium. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "Only 1, 2 and 3",
+      "opt_b": "Only 1 and 2",
+      "opt_c": "Only 2, 3 and 4",
+      "opt_d": "All of the above"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Only 1, 2 and 3. In our solar system, planets are broadly classified into two categories: terrestrial and Jovian. Terrestrial planets (Mercury, Venus, Earth, and Mars) are small, rocky, and relatively close to the Sun. Jovian planets (Jupiter, Saturn, Uranus, and Neptune) are gas giants, much larger and further from the Sun.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only 2, 3 and 4' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'All of the above' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0035",
+      "questionStem": "Consider the following statements regarding terrestrial planets: 1. Terrestrial planets are primarily composed of rocks and metals. 2. Mercury, Venus, Earth, and Mars are classified as terrestrial planets. 3. Terrestrial planets can be further categorised into silicate, iron, coreless, and carbon (diamond) planets. 4. The atmosphere of all terrestrial planets is primarily made up of hydrogen and helium. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0035",
+      "evidenceText": "Only 1, 2 and 3. In our solar system, planets are broadly classified into two categories: terrestrial and Jovian. Terrestrial planets (Mercury, Venus, Earth, and Mars) are small, rocky, and relatively",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 35,
+        "block_id": "Pinnacle_SSC_Q35",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 35,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0044",
+    "stem": "Which of the following statements regarding the moon is correct? I. The size of the illuminated part of the moon visible from the Earth increases each day after the new moon day. II. After the full moon day, the sunlit part of the moon visible from the Earth decreases in size every day.",
+    "options": {
+      "opt_a": "Both I and II",
+      "opt_b": "Only I",
+      "opt_c": "Neither I nor II",
+      "opt_d": "Only II www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both I and II. When there are two full moons within a month, the second full moon is called a Blue Moon, When a full moon occurs at its perigee (the moon is closest to the earth) it is called a Supermoon.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only I' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither I nor II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0044",
+      "questionStem": "Which of the following statements regarding the moon is correct? I. The size of the illuminated part of the moon visible from the Earth increases each day after the new moon day. II. After the full moon day, the sunlit part of the moon visible from the Earth decreases in size every day.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0044",
+      "evidenceText": "Both I and II. When there are two full moons within a month, the second full moon is called a Blue Moon, When a full moon occurs at its perigee (the moon is closest to the earth) it is called a Superm",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 44,
+        "block_id": "Pinnacle_SSC_Q44",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 44,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0070",
+    "stem": "Which of the following is a landlocked Salt Lake in South-West Asia between Israel and Jordan?",
+    "options": {
+      "opt_a": "Don Juan Pond",
+      "opt_b": "Aral Sea",
+      "opt_c": "Caspian Sea",
+      "opt_d": "Dead Sea"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Dead Sea. Its salinity of 340 grams per litre of water. The Dead Sea seawater has a density of 1.240 kg/L, which makes swimming in its waters similar to floating. The Caspian Sea is the world's largest saltwater lake by volume. The Aral Sea is located between Kazakhstan to the north and Uzbekistan to the south.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Don Juan Pond' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Aral Sea' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Caspian Sea' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0070",
+      "questionStem": "Which of the following is a landlocked Salt Lake in South-West Asia between Israel and Jordan?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0070",
+      "evidenceText": "Dead Sea. Its salinity of 340 grams per litre of water. The Dead Sea seawater has a density of 1.240 kg/L, which makes swimming in its waters similar to floating. The Caspian Sea is the world's larges",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 70,
+        "block_id": "Pinnacle_SSC_Q70",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 70,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0080",
+    "stem": "Choose the correct statement(s) related to ‘continentality’. A. The sea exerts a moderating influence on climate. B. As the distance from the sea increases, the people experience extreme weather conditions. C. As one goes from the surface of the earth to higher altitudes, the atmosphere becomes less dense and temperature decreases.",
+    "options": {
+      "opt_a": "B and C",
+      "opt_b": "Only C",
+      "opt_c": "A and C",
+      "opt_d": "A and B"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "A and B. Continentality (i.e. very hot during summers and very cold during winters) found in inland areas. Continental climates are common between 40° and 70° north latitude and experience large temperature differences between day and night.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'B and C' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only C' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A and C' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0080",
+      "questionStem": "Choose the correct statement(s) related to ‘continentality’. A. The sea exerts a moderating influence on climate. B. As the distance from the sea increases, the people experience extreme weather conditions. C. As one goes from the surface of the earth to higher altitudes, the atmosphere becomes less dense and temperature decreases.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0080",
+      "evidenceText": "A and B. Continentality (i.e. very hot during summers and very cold during winters) found in inland areas. Continental climates are common between 40° and 70° north latitude and experience large tempe",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 80,
+        "block_id": "Pinnacle_SSC_Q80",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 80,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0295",
+    "stem": "The major resources of Gondwana coal, which are metallurgical coal is located in______.",
+    "options": {
+      "opt_a": "Damodar valley",
+      "opt_b": "Chambal valley",
+      "opt_c": "Krishna valley",
+      "opt_d": "Narmada valley"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Damodar valley (West Bengal -Jharkhand). Jharia, Raniganj, Bokaro are important coalfields. The Godavari, Mahanadi, Son and Wardha valleys also contain coal deposits. Q.296 . Peat coal has ____ carbon and ____ moisture content? (a) High, Low (b) Low, high (c) High, High (d) Low, Low Sol.296.(b) Low, high. Peat is a soft, dark brown coal that is formed from dead and decaying organic matter. It has an energy density of 15 MJ/kg. It has a low heating capacity. India has the fifth-largest coal reserves in the world. Coal India Limited (CIL) (Public Sector Undertaking) was established on 1 November 1975 under the ownership of the Ministry of Coal. Headquarters: Kolkata.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Chambal valley' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Krishna valley' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Narmada valley' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0295",
+      "questionStem": "The major resources of Gondwana coal, which are metallurgical coal is located in______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0295",
+      "evidenceText": "Damodar valley (West Bengal -Jharkhand). Jharia, Raniganj, Bokaro are important coalfields. The Godavari, Mahanadi, Son and Wardha valleys also contain coal deposits. Q.296 . Peat coal has ____ carbon",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 295,
+        "block_id": "Pinnacle_SSC_Q295",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 295,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0420",
+    "stem": "Which of the following states is associated with the tropical thorn forests?",
+    "options": {
+      "opt_a": "Andaman and Nicobar Islands",
+      "opt_b": "West Bengal",
+      "opt_c": "Madhya Pradesh",
+      "opt_d": "Mizoram"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Madhya Pradesh. Tropical Thorn Forests and Scrubs (receive rainfall less than 50 cm) - It includes semi - arid areas of south west Punjab, Haryana, Rajasthan, Gujarat, Madhya Pradesh and Uttar Pradesh. Trees like – Babool, ber, wild date palm, Khair tree.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Andaman and Nicobar Islands' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'West Bengal' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mizoram' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0420",
+      "questionStem": "Which of the following states is associated with the tropical thorn forests?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0420",
+      "evidenceText": "Madhya Pradesh. Tropical Thorn Forests and Scrubs (receive rainfall less than 50 cm) - It includes semi - arid areas of south west Punjab, Haryana, Rajasthan, Gujarat, Madhya Pradesh and Uttar Pradesh",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 420,
+        "block_id": "Pinnacle_SSC_Q420",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 420,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0424",
+    "stem": "Which of the following statements is incorrect? Statement 1: Taiga forests are found in the higher latitudes (50°–70°) of the Northern Hemisphere and are mainly coniferous. Statement 2: Tundra forests are coniferous and found in the higher latitudes of the Northern Hemisphere.",
+    "options": {
+      "opt_a": "Only Statement 1 is incorrect",
+      "opt_b": "Only Statement 2 is incorrect",
+      "opt_c": "Both statements are incorrect",
+      "opt_d": "Neither statement is incorrect"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Only Statement 2 is incorrect. Taiga - Trees found are mainly cone-bearing trees like spruce, pine, fir , and hemlock. Veld - Open, uncultivated country or grassland in southern Africa. Tundra - A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen. Llanos - A vast tropical grassland plain situated to the east of the Andes in Colombia and Venezuela, in northwestern South America.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 1 is incorrect' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both statements are incorrect' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither statement is incorrect' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0424",
+      "questionStem": "Which of the following statements is incorrect? Statement 1: Taiga forests are found in the higher latitudes (50°–70°) of the Northern Hemisphere and are mainly coniferous. Statement 2: Tundra forests are coniferous and found in the higher latitudes of the Northern Hemisphere.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0424",
+      "evidenceText": "Only Statement 2 is incorrect. Taiga - Trees found are mainly cone-bearing trees like spruce, pine, fir , and hemlock. Veld - Open, uncultivated country or grassland in southern Africa. Tundra - A vas",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 424,
+        "block_id": "Pinnacle_SSC_Q424",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 424,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0425",
+    "stem": "In India, trees of which forest type shed their leaves for about six to eight weeks in dry summer?",
+    "options": {
+      "opt_a": "Tropical Deciduous Forests",
+      "opt_b": "Tropical Evergreen Forests",
+      "opt_c": "Montane Forests",
+      "opt_d": "Tropical Thorn Forests and Scrubs"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Tropical Deciduous Forests. These forests spread over regions which receive rainfall between 70-200 cm. Tendu, palas, amaltas, bel, khair, axlewood, etc are the common trees of these forests.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tropical Evergreen Forests' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Montane Forests' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tropical Thorn Forests and Scrubs' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0425",
+      "questionStem": "In India, trees of which forest type shed their leaves for about six to eight weeks in dry summer?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0425",
+      "evidenceText": "Tropical Deciduous Forests. These forests spread over regions which receive rainfall between 70-200 cm. Tendu, palas, amaltas, bel, khair, axlewood, etc are the common trees of these forests.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 425,
+        "block_id": "Pinnacle_SSC_Q425",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 425,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0430",
+    "stem": "Consider the following statements about forests: Statement I: Temperate evergreen forests are mainly located in the mid-latitudinal coastal regions such as southeastern USA, southern China, and southeastern Brazil. Statement II: Tropical rainforests are mainly located in the mid-latitudinal coastal regions. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "Only I",
+      "opt_b": "Only II",
+      "opt_c": "Both I and II",
+      "opt_d": "Neither I nor II"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Only I. Temperate evergreen forests are mainly located in the mid-latitudinal coastal regions. Tropical rainforests are mainly located in the tropics, between the latitudes of 23.5°N (the Tropic of Cancer) and 23.5°S (the Tropic of Capricorn)—the tropics.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both I and II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither I nor II' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0430",
+      "questionStem": "Consider the following statements about forests: Statement I: Temperate evergreen forests are mainly located in the mid-latitudinal coastal regions such as southeastern USA, southern China, and southeastern Brazil. Statement II: Tropical rainforests are mainly located in the mid-latitudinal coastal regions. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0430",
+      "evidenceText": "Only I. Temperate evergreen forests are mainly located in the mid-latitudinal coastal regions. Tropical rainforests are mainly located in the tropics, between the latitudes of 23.5°N (the Tropic of Ca",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 430,
+        "block_id": "Pinnacle_SSC_Q430",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 430,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0437",
+    "stem": "Coringa is a beautiful _____ forest where the Godavari joins the backwaters of Bay of Bengal.",
+    "options": {
+      "opt_a": "evergreen",
+      "opt_b": "coniferous",
+      "opt_c": "mangrove",
+      "opt_d": "deciduous"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Mangrove. Coringa is the second largest mangrove formation in India, next to Sundarbans. The Coringa mangroves are bordered on the northern side by Kakinada Bay. Q.438 . Which of the following trees will you find in the Littoral forests? (a) Chinar (b) Ebony (c) Sundari (d) Cypress Sol.438.(c) Sundari tree is found in Sundarbans delta in West Bengal in Mangrove forest (Littoral forests). Climate",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'evergreen' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'coniferous' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'deciduous' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0437",
+      "questionStem": "Coringa is a beautiful _____ forest where the Godavari joins the backwaters of Bay of Bengal.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0437",
+      "evidenceText": "Mangrove. Coringa is the second largest mangrove formation in India, next to Sundarbans. The Coringa mangroves are bordered on the northern side by Kakinada Bay. Q.438 . Which of the following trees w",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 437,
+        "block_id": "Pinnacle_SSC_Q437",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 437,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0446",
+    "stem": "The climate of a place is NOT affected by which of the following?",
+    "options": {
+      "opt_a": "Relief",
+      "opt_b": "Type of soil",
+      "opt_c": "Location",
+      "opt_d": "Distance from the sea"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Type of soil. Climate refers to the long-term conditions of a specific region. The changes in climate within a region are influenced by its atmospheric and environmental conditions. The six major factors that influence the climate of a location are latitude, altitude, pressure, and wind systems, distance from the sea (continentality), ocean currents, and relief features.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Relief' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Location' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Distance from the sea' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0446",
+      "questionStem": "The climate of a place is NOT affected by which of the following?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0446",
+      "evidenceText": "Type of soil. Climate refers to the long-term conditions of a specific region. The changes in climate within a region are influenced by its atmospheric and environmental conditions. The six major fact",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 446,
+        "block_id": "Pinnacle_SSC_Q446",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 446,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0453",
+    "stem": "Which theory describes the collective effects of changes in Earth's movements on its climate over thousands of years?",
+    "options": {
+      "opt_a": "Milankovitch theory",
+      "opt_b": "Copernicus' heliocentric theory",
+      "opt_c": "Plate tectonics theory",
+      "opt_d": "Continental drift theory"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Milankovitch theory. Copernican heliocentrism, proposed by Copernicus in 1543, positions the Sun at the center, with Earth and other planets orbiting it. Plate tectonics is a scientific theory that explains how major landforms are created as a result of Earth's subterranean movements.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Copernicus' heliocentric theory' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Plate tectonics theory' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Continental drift theory' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0453",
+      "questionStem": "Which theory describes the collective effects of changes in Earth's movements on its climate over thousands of years?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0453",
+      "evidenceText": "Milankovitch theory. Copernican heliocentrism, proposed by Copernicus in 1543, positions the Sun at the center, with Earth and other planets orbiting it. Plate tectonics is a scientific theory that ex",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 453,
+        "block_id": "Pinnacle_SSC_Q453",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 453,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0459",
+    "stem": "In the context of local storms of hot weather season, Nor'Westers are:",
+    "options": {
+      "opt_a": "the pre-monsoon showers that are a common phenomenon in Kerala and coastal areas of Karnataka",
+      "opt_b": "the dreaded evening thunderstorms in Bengal and Assam",
+      "opt_c": "the hot, dry and oppressing winds blowing in the Northern plains from Punjab to Bihar with higher intensity between Delhi and Patna",
+      "opt_d": "a nearby wind that blows coffee flowers in Kerala"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Nor Westers : Their notorious nature can be understood from the local nomenclature of ‘Kalbaisakhi’, a calamity of the month of Baisakh. These showers are useful for tea, jute and rice cultivation. In Assam, these storms are known as “Bardoli Chheerha”. Some Famous Local Storms: Blossom Shower: Useful for coffee flowers blooming in Kerala. Loo : Hot, dry and oppressing winds blowing in the Northern plains.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'the pre-monsoon showers that are a common phenomenon in Kerala and coastal areas of Karnataka' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'the hot, dry and oppressing winds blowing in the Northern plains from Punjab to Bihar with higher intensity between Delhi and Patna' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'a nearby wind that blows coffee flowers in Kerala' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0459",
+      "questionStem": "In the context of local storms of hot weather season, Nor'Westers are:",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0459",
+      "evidenceText": "Nor Westers : Their notorious nature can be understood from the local nomenclature of ‘Kalbaisakhi’, a calamity of the month of Baisakh. These showers are useful for tea, jute and rice cultivation. In",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 459,
+        "block_id": "Pinnacle_SSC_Q459",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 459,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0471",
+    "stem": "What type of climate is found in North Western Europe, West Coast of North America, North of California, Southern Chile, South-eastern Australia and New Zealand?",
+    "options": {
+      "opt_a": "Tropical wet and dry climate",
+      "opt_b": "Cold snow forest climate",
+      "opt_c": "Marine west coast climate",
+      "opt_d": "Subtropical steppe climate"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Marine west coast climate - Under the Koppen Climate Classification, it comes under Warm Temperate (Mid-Latitude) Climates (Group C) and is www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography represented by ‘Cfb’.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tropical wet and dry climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cold snow forest climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Subtropical steppe climate' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0471",
+      "questionStem": "What type of climate is found in North Western Europe, West Coast of North America, North of California, Southern Chile, South-eastern Australia and New Zealand?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0471",
+      "evidenceText": "Marine west coast climate - Under the Koppen Climate Classification, it comes under Warm Temperate (Mid-Latitude) Climates (Group C) and is www.ssccglpinnacle.com Download Pinnacle Exam Preparation Ap",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 471,
+        "block_id": "Pinnacle_SSC_Q471",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 471,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0474",
+    "stem": "According to the Koppen classification, Which regions experience cold humid winters with short summers?",
+    "options": {
+      "opt_a": "South of Goa",
+      "opt_b": "Western Rajasthan",
+      "opt_c": "Arunachal Pradesh",
+      "opt_d": "Northern Madhya Pradesh"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Arunachal Pradesh. Koeppen identified a close relationship between the distribution of vegetation and climate.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'South of Goa' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Western Rajasthan' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Northern Madhya Pradesh' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0474",
+      "questionStem": "According to the Koppen classification, Which regions experience cold humid winters with short summers?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0474",
+      "evidenceText": "Arunachal Pradesh. Koeppen identified a close relationship between the distribution of vegetation and climate.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 474,
+        "block_id": "Pinnacle_SSC_Q474",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 474,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0481",
+    "stem": "The centre of a cyclone is a calm area. It is called the_______of the storm.",
+    "options": {
+      "opt_a": "base",
+      "opt_b": "focal point",
+      "opt_c": "eye",
+      "opt_d": "trigger point"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Eye. The eye of a storm is usually circular and typically 25-40 miles in diameter. It is surrounded by an eyewall, where the most severe weather of a cyclone occurs.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'base' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'focal point' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'trigger point' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0481",
+      "questionStem": "The centre of a cyclone is a calm area. It is called the_______of the storm.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0481",
+      "evidenceText": "Eye. The eye of a storm is usually circular and typically 25-40 miles in diameter. It is surrounded by an eyewall, where the most severe weather of a cyclone occurs.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 481,
+        "block_id": "Pinnacle_SSC_Q481",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 481,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0486",
+    "stem": "Which among the following wind is associated with extreme cold and dryness?",
+    "options": {
+      "opt_a": "Monsoon Winds",
+      "opt_b": "Westerlies",
+      "opt_c": "Trade Winds",
+      "opt_d": "Polar Easterlies"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Polar Easterlies . They emanate from the polar highs, areas of high pressure around the North and South Poles. They flow to low-pressure areas in sub-polar regions. Easterlies (blow from the east) - It is the name of the permanent winds that come from the direction of their origin. Monsoon Winds - They are caused when the air over land gets heated and rises, causing winds to blow from the ocean toward land. Westerlies - Prevailing winds from the west toward the east in the middle latitudes.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Monsoon Winds' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Westerlies' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Trade Winds' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0486",
+      "questionStem": "Which among the following wind is associated with extreme cold and dryness?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0486",
+      "evidenceText": "Polar Easterlies . They emanate from the polar highs, areas of high pressure around the North and South Poles. They flow to low-pressure areas in sub-polar regions. Easterlies (blow from the east) - I",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 486,
+        "block_id": "Pinnacle_SSC_Q486",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 486,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0491",
+    "stem": "Consider the following statements about the main reasons for the excessive cold in north India during the cold weather season and identify which of the statements are correct. 1. States like Punjab, Haryana and Rajasthan, being far away from the moderating influence of sea, experience continental climate. 2. The snowfall in the nearby Himalayan ranges creates a cold wave situation. 3. Around February, the cold winds coming from the Caspian Sea and Turkmenistan bring a cold wave along with frost and fog over the northwestern parts of India.",
+    "options": {
+      "opt_a": "1 and 2 only",
+      "opt_b": "2 and 3 only",
+      "opt_c": "1, 2 and 3",
+      "opt_d": "1 and 3 only"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "1, 2 and 3. Coastal areas have moderate temperatures because the land absorbs and radiates heat much faster than sea. So, during the day cool air from the sea rushes towards the land and during the night cool air from the land rushes towards the sea.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 and 2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 and 3 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'1 and 3 only' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0491",
+      "questionStem": "Consider the following statements about the main reasons for the excessive cold in north India during the cold weather season and identify which of the statements are correct. 1. States like Punjab, Haryana and Rajasthan, being far away from the moderating influence of sea, experience continental climate. 2. The snowfall in the nearby Himalayan ranges creates a cold wave situation. 3. Around February, the cold winds coming from the Caspian Sea and Turkmenistan bring a cold wave along with frost and fog over the northwestern parts of India.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0491",
+      "evidenceText": "1, 2 and 3. Coastal areas have moderate temperatures because the land absorbs and radiates heat much faster than sea. So, during the day cool air from the sea rushes towards the land and during the ni",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 491,
+        "block_id": "Pinnacle_SSC_Q491",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 491,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0492",
+    "stem": "Low annual range of temperature and high annual rainfall are characteristics of a _________.",
+    "options": {
+      "opt_a": "Mediterranean climate",
+      "opt_b": "temperate climate",
+      "opt_c": "tropical humid climate",
+      "opt_d": "cold climate"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Tropical Humid Climate: Low range of temperature, Rainfall exceeds evapotranspiration for at least 270 days in a year, between Tropic of Cancer and Capricorn.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mediterranean climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'temperate climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'cold climate' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0492",
+      "questionStem": "Low annual range of temperature and high annual rainfall are characteristics of a _________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0492",
+      "evidenceText": "Tropical Humid Climate: Low range of temperature, Rainfall exceeds evapotranspiration for at least 270 days in a year, between Tropic of Cancer and Capricorn.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 492,
+        "block_id": "Pinnacle_SSC_Q492",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 492,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0493",
+    "stem": "Which of the following codes signify Cold Climate with Dry Winters according to Koeppen’s classification?",
+    "options": {
+      "opt_a": "EF",
+      "opt_b": "Df",
+      "opt_c": "ET",
+      "opt_d": "Dw"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Dw. Koeppen recognised six major climatic groups based on seasonal precipitation and temperature patterns. The six main groups are A (tropical), B (arid), C (temperate), D (continental), E (polar) and H (highland).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'EF' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Df' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'ET' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0493",
+      "questionStem": "Which of the following codes signify Cold Climate with Dry Winters according to Koeppen’s classification?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0493",
+      "evidenceText": "Dw. Koeppen recognised six major climatic groups based on seasonal precipitation and temperature patterns. The six main groups are A (tropical), B (arid), C (temperate), D (continental), E (polar) and",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 493,
+        "block_id": "Pinnacle_SSC_Q493",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 493,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0494",
+    "stem": "The cold snow forest climate is found largely in the continental region in the Northern Hemisphere between _______ northern latitudes in Europe, Asia www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography and North America",
+    "options": {
+      "opt_a": "40°- 70°",
+      "opt_b": "30°- 50°",
+      "opt_c": "80°- 110°",
+      "opt_d": "15°- 20°"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "40°-70°. India has a tropical climate because of the Himalayan mountain.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'30°- 50°' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'80°- 110°' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'15°- 20°' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0494",
+      "questionStem": "The cold snow forest climate is found largely in the continental region in the Northern Hemisphere between _______ northern latitudes in Europe, Asia www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography and North America",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0494",
+      "evidenceText": "40°-70°. India has a tropical climate because of the Himalayan mountain.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 494,
+        "block_id": "Pinnacle_SSC_Q494",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 494,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0564",
+    "stem": "Which physical feature of India prevents the cold winds from central Asia from entering the Indian subcontinent?",
+    "options": {
+      "opt_a": "Indian plains",
+      "opt_b": "Indian desert",
+      "opt_c": "Coastal area",
+      "opt_d": "Himalayas"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Himalaya : It acts as a natural barrier, blocking cold winds from Central Asia and protecting the climate of India. This mountain range effectively protects the subcontinent, and maintains its relatively warm temperatures. Coastal area : Allows winds from the sea to enter India.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Indian plains' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Indian desert' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Coastal area' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0564",
+      "questionStem": "Which physical feature of India prevents the cold winds from central Asia from entering the Indian subcontinent?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0564",
+      "evidenceText": "Himalaya : It acts as a natural barrier, blocking cold winds from Central Asia and protecting the climate of India. This mountain range effectively protects the subcontinent, and maintains its relativ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 564,
+        "block_id": "Pinnacle_SSC_Q564",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 564,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0574",
+    "stem": "In which direction is the general elevation of the peninsular plateau of www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography India?",
+    "options": {
+      "opt_a": "From North to South",
+      "opt_b": "From South to North",
+      "opt_c": "From West to East",
+      "opt_d": "From East to West"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "From West to East. The Peninsular Plateau of India lies south of the Northern Plains, with an average elevation of 600-900 m. It consists of smaller plateaus and hill ranges with river basins and valleys. The plateau is divided into three groups: Central Highlands (e.g., Malwa, Bundelkhand), Deccan Plateau (e.g., Maharashtra, Karnataka), and Northwestern Plateau (e.g., Aravalli, Vindhya, Satpura ranges).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'From North to South' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'From South to North' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'From East to West' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0574",
+      "questionStem": "In which direction is the general elevation of the peninsular plateau of www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0574",
+      "evidenceText": "From West to East. The Peninsular Plateau of India lies south of the Northern Plains, with an average elevation of 600-900 m. It consists of smaller plateaus and hill ranges with river basins and vall",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 574,
+        "block_id": "Pinnacle_SSC_Q574",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 574,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0757",
+    "stem": "Consider the following statements: I. Neonatal mortality rate refers to the number of deaths during the first 30 completed days of life per 1000 live births. II. Infant mortality rate refers to the number of deaths of children below 1 month of age per 1000 live births. Which of the above statement(s) is/are correct?",
+    "options": {
+      "opt_a": "Only I",
+      "opt_b": "Only II",
+      "opt_c": "Both I and II",
+      "opt_d": "Neither I nor II"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Neither I nor II. The number of deaths during the first 28 completed days of life per 1000 live births in a given year or period is defined as neonatal mortality rate. An age-specific mortality rate is a mortality rate limited to a particular age group. The crude death rate is calculated as the number of deaths in a given period divided by the population exposed to risk of death in that period. The Infant mortality rate (IMR) is the number of deaths of infants under one year of age per 1,000 live births",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only I' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both I and II' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0757",
+      "questionStem": "Consider the following statements: I. Neonatal mortality rate refers to the number of deaths during the first 30 completed days of life per 1000 live births. II. Infant mortality rate refers to the number of deaths of children below 1 month of age per 1000 live births. Which of the above statement(s) is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0757",
+      "evidenceText": "Neither I nor II. The number of deaths during the first 28 completed days of life per 1000 live births in a given year or period is defined as neonatal mortality rate. An age-specific mortality rate i",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 757,
+        "block_id": "Pinnacle_SSC_Q757",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 757,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0759",
+    "stem": "As per the theory of demographic transition, the post-transitional stage of demographic transition is characterised by ______.",
+    "options": {
+      "opt_a": "low and nearly equal birth and death rates",
+      "opt_b": "falling birth rates and high death rates",
+      "opt_c": "high and nearly equal birth and death rates",
+      "opt_d": "falling death rates and high birth Rates"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The demographic transition model has four stages: pre-industrial, urbanizing/industrializing, mature industrial, and post-industrial. Atmosphere",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'falling birth rates and high death rates' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'high and nearly equal birth and death rates' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'falling death rates and high birth Rates' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0759",
+      "questionStem": "As per the theory of demographic transition, the post-transitional stage of demographic transition is characterised by ______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0759",
+      "evidenceText": "The demographic transition model has four stages: pre-industrial, urbanizing/industrializing, mature industrial, and post-industrial. Atmosphere",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 759,
+        "block_id": "Pinnacle_SSC_Q759",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 759,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0761",
+    "stem": "Which layer of the Earth's atmosphere is primarily responsible for absorbing ultraviolet radiation from the Sun?",
+    "options": {
+      "opt_a": "Thermosphere",
+      "opt_b": "Stratosphere",
+      "opt_c": "Mesosphere",
+      "opt_d": "Troposphere"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Stratosphere. The stratosphere, lying above the troposphere (about 10–50 km altitude), contains the ozone layer, which absorbs most of the Sun’s harmful ultraviolet (UV) radiation. This protective function shields living organisms from DNA damage, skin cancer, and other harmful effects of excessive UV exposure. The thermosphere absorbs X-rays and www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography gamma rays, while the mesosphere mainly helps burn up meteors. The troposphere is the lowest layer where weather occurs but does not absorb significant UV radiation. Thus, the stratosphere is primarily responsible for UV absorption.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Thermosphere' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Mesosphere' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Troposphere' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0761",
+      "questionStem": "Which layer of the Earth's atmosphere is primarily responsible for absorbing ultraviolet radiation from the Sun?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0761",
+      "evidenceText": "Stratosphere. The stratosphere, lying above the troposphere (about 10–50 km altitude), contains the ozone layer, which absorbs most of the Sun’s harmful ultraviolet (UV) radiation. This protective fun",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 761,
+        "block_id": "Pinnacle_SSC_Q761",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 6/08/2025 (Shift 3)",
+        "pdfSequence": 761,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0762",
+    "stem": "Read the following statements: Statement 1: The temperature in Troposphere decreases at the rate of 1°C for every 165 meters of height. Statement 2: The temperature in mesosphere starts to decrease with the increase in altitude and reaches up to -100°C at around 80 km. Which of the following statements is/are correct?",
+    "options": {
+      "opt_a": "Only Statement 1 is correct",
+      "opt_b": "Only Statement 2 is correct",
+      "opt_c": "Both statements 1 and 2 are correct",
+      "opt_d": "Both statements 1 and 2 are incorrect"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both statements 1 and 2 are correct. Statement 1 describes the Normal Lapse Rate in the troposphere, where temperature decreases by approximately 1°C for every 165 meters (or 6.5°C per kilometer) of ascent. Statement 2 is also correct; in the mesosphere, temperature again decreases with increasing altitude, reaching the coldest temperatures in the Earth's atmosphere, around -90°C to -100°C, at the mesopause (approx. 80-85 km).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 1 is correct' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only Statement 2 is correct' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both statements 1 and 2 are incorrect' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0762",
+      "questionStem": "Read the following statements: Statement 1: The temperature in Troposphere decreases at the rate of 1°C for every 165 meters of height. Statement 2: The temperature in mesosphere starts to decrease with the increase in altitude and reaches up to -100°C at around 80 km. Which of the following statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0762",
+      "evidenceText": "Both statements 1 and 2 are correct. Statement 1 describes the Normal Lapse Rate in the troposphere, where temperature decreases by approximately 1°C for every 165 meters (or 6.5°C per kilometer) of a",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 762,
+        "block_id": "Pinnacle_SSC_Q762",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC Stenographer 7/08/2025 (Shift 2)",
+        "pdfSequence": 762,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0763",
+    "stem": "Consider the following statements: I. Smog is a dense mass of water drops mixed with smoke and dust particles near the ground. II. Mist and fog differ mainly on the basis of visibility reduction. Which of the above statement(s) is/are correct?",
+    "options": {
+      "opt_a": "Only I",
+      "opt_b": "Only II",
+      "opt_c": "Both I and II",
+      "opt_d": "Neither I nor II"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Both I and II. Fog forms when an air mass with high water vapor suddenly cools, causing condensation on fine dust particles. It is essentially a cloud at or near the ground, leading to poor visibility, often reduced to zero. Fog is denser and thicker than mist. Fog reduces visibility to less than one kilometer, while mist reduces visibility to one to two kilometers. Frost forms on cold surfaces when condensation takes place below freezing point (00C), i.e. the dew point is at or below the freezing point.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only I' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither I nor II' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0763",
+      "questionStem": "Consider the following statements: I. Smog is a dense mass of water drops mixed with smoke and dust particles near the ground. II. Mist and fog differ mainly on the basis of visibility reduction. Which of the above statement(s) is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0763",
+      "evidenceText": "Both I and II. Fog forms when an air mass with high water vapor suddenly cools, causing condensation on fine dust particles. It is essentially a cloud at or near the ground, leading to poor visibility",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 763,
+        "block_id": "Pinnacle_SSC_Q763",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 763,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0764",
+    "stem": "Atmospheric temperature usually decreases with altitude, but sometimes this phenomenon gets reversed in the troposphere. This phenomenon is known as _________.",
+    "options": {
+      "opt_a": "Temperature Inversion",
+      "opt_b": "Adiabatic Lapse Rate",
+      "opt_c": "Global Warming",
+      "opt_d": "Temperature Convection"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Temperature Inversion occurs when the normal pattern of temperature decreasing with altitude is reversed, and the air becomes warmer as you go higher. This phenomenon can lead to air pollution problems and is often seen in valleys or areas with stagnant air. Adiabatic lapse rate: Change of temperature with a change in altitude of an air parcel without gaining or losing any heat to the environment surrounding the parcel. Temperature Convection - The process by which heat is transferred through the movement of fluid (like air or water) due to temperature differences.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Adiabatic Lapse Rate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Global Warming' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Temperature Convection' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0764",
+      "questionStem": "Atmospheric temperature usually decreases with altitude, but sometimes this phenomenon gets reversed in the troposphere. This phenomenon is known as _________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0764",
+      "evidenceText": "Temperature Inversion occurs when the normal pattern of temperature decreasing with altitude is reversed, and the air becomes warmer as you go higher. This phenomenon can lead to air pollution problem",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 764,
+        "block_id": "Pinnacle_SSC_Q764",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 764,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0765",
+    "stem": "What kind of radiation is absorbed by the ozone layer?",
+    "options": {
+      "opt_a": "Green radiation",
+      "opt_b": "Infrared radiation",
+      "opt_c": "Visible radiation",
+      "opt_d": "Ultraviolet radiation"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Ultraviolet radiation. The UV radiation spectrum is divided into three types : UVA, UVB and UVC. These rays can affect our skin in different ways. Ozone layer : It is a region in the Earth's stratosphere that contains a high concentration of ozone (O 3 ) gas. This layer acts as a shield, protecting the Earth from the Sun's harmful ultraviolet (UV) radiation. Infrared radiation (IR), also known as thermal radiation, is that band in the electromagnetic radiation spectrum with wavelengths above red visible light between 780 nm to 1mm (0.78 μm to 1000 μm). Q.766 . The upper portion of the earth is known as: (a) Stratosphere (b) Troposphere (c) Lithosphere (d) Mesosphere Sol.766.(c) Lithosphere. It is bounded by the atmosphere above and the asthenosphere (another part of the upper mantle) below. The stratosphere is the second-lowest layer of Earth's atmosphere. The troposphere, the lowest layer of the atmosphere, contains about 75-80% of the atmospheric mass. Most clouds form in the troposphere, where nearly all weather occurs. The mesosphere is the third highest layer, situated between the stratosphere and the thermosphere.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Green radiation' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Infrared radiation' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Visible radiation' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0765",
+      "questionStem": "What kind of radiation is absorbed by the ozone layer?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0765",
+      "evidenceText": "Ultraviolet radiation. The UV radiation spectrum is divided into three types : UVA, UVB and UVC. These rays can affect our skin in different ways. Ozone layer : It is a region in the Earth's stratosph",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 765,
+        "block_id": "Pinnacle_SSC_Q765",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 765,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0768",
+    "stem": "Consider the following statements: I. All weather phenomena like rainfall, storms, and winds occur in the Thermosphere. II. The ozone layer is present in the Troposphere. Which of the above statements is/are correct?",
+    "options": {
+      "opt_a": "Only I",
+      "opt_b": "Only II",
+      "opt_c": "Both I and II",
+      "opt_d": "Neither I nor II"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Neither I nor II. All the changes in climate and weather takes place in the Troposphere. It is the lowermost layer of the atmosphere and is often referred to as the \"region of mixing”. Its average height is 13 km and extends roughly to a height of 8 km near the poles and about 18 km at the equator. Stratosphere (contains the ozone layer) - 2nd layer of the Earth's atmosphere, extending from about 10 to 50 km in altitude. Mesosphere - 3rd layer of the Earth's atmosphere, extending from about 50 to 85 km in altitude. Most meteors burn up in this atmospheric layer. Thermosphere - 4th layer of the Earth's atmosphere, extending from about 85 to 500 km in altitude.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only I' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Only II' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both I and II' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0768",
+      "questionStem": "Consider the following statements: I. All weather phenomena like rainfall, storms, and winds occur in the Thermosphere. II. The ozone layer is present in the Troposphere. Which of the above statements is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0768",
+      "evidenceText": "Neither I nor II. All the changes in climate and weather takes place in the Troposphere. It is the lowermost layer of the atmosphere and is often referred to as the \"region of mixing”. Its average hei",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 768,
+        "block_id": "Pinnacle_SSC_Q768",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Medium",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 768,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Medium",
+    "format": "Statement Based",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0769",
+    "stem": "Which of the following claims about chlorofluorocarbons (CFCs) is accurate?",
+    "options": {
+      "opt_a": "CFCs are used as repairers of the troposphere",
+      "opt_b": "CFCs are used as fuel for air crafts",
+      "opt_c": "CFCs are used as repairers of the ozone layer",
+      "opt_d": "CFCs are used as refrigerants"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "CFCs, banned in India for depleting the ozone layer, were used in plastic foams, cleaning electronics, and aerosol cans. They are now replaced by www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography HFCs, which have an ozone depletion potential of 0.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'CFCs are used as repairers of the troposphere' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'CFCs are used as fuel for air crafts' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'CFCs are used as repairers of the ozone layer' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0769",
+      "questionStem": "Which of the following claims about chlorofluorocarbons (CFCs) is accurate?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0769",
+      "evidenceText": "CFCs, banned in India for depleting the ozone layer, were used in plastic foams, cleaning electronics, and aerosol cans. They are now replaced by www.ssccglpinnacle.com Download Pinnacle Exam Preparat",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 769,
+        "block_id": "Pinnacle_SSC_Q769",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 769,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0772",
+    "stem": "Which of the following statements is NOT correct regarding the stratosphere?",
+    "options": {
+      "opt_a": "It lies above the mesosphere.",
+      "opt_b": "It extends up to a height of 50 km.",
+      "opt_c": "It contains a layer of ozone gas.",
+      "opt_d": "This layer is almost free from clouds."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Stratosphere - Its height of the bottom varies with latitude and with the seasons. Aviation & Jet Streams fly in the Stratosphere.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'It extends up to a height of 50 km.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'It contains a layer of ozone gas.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'This layer is almost free from clouds.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0772",
+      "questionStem": "Which of the following statements is NOT correct regarding the stratosphere?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0772",
+      "evidenceText": "Stratosphere - Its height of the bottom varies with latitude and with the seasons. Aviation & Jet Streams fly in the Stratosphere.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 772,
+        "block_id": "Pinnacle_SSC_Q772",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 772,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0784",
+    "stem": "The outermost part of the Earth is known as __________.",
+    "options": {
+      "opt_a": "volcano",
+      "opt_b": "the crust",
+      "opt_c": "the core",
+      "opt_d": "the mantle"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "the crust. The Earth's crust is the thinnest of all its layers, about 35 km thick on the continental masses and only 5 km on the ocean floors. The main minerals in the continental crust are silica and alumina, while the oceanic crust consists primarily of silica and magnesium. Beneath the crust lies the mantle, which extends to a depth of 2900 km. The innermost layer is the core, with a radius of about 3500 km, made mostly of nickel and iron.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'volcano' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'the core' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'the mantle' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0784",
+      "questionStem": "The outermost part of the Earth is known as __________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0784",
+      "evidenceText": "the crust. The Earth's crust is the thinnest of all its layers, about 35 km thick on the continental masses and only 5 km on the ocean floors. The main minerals in the continental crust are silica and",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 784,
+        "block_id": "Pinnacle_SSC_Q784",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 784,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0792",
+    "stem": "Mushroom rocks are formed due to _____.",
+    "options": {
+      "opt_a": "glacial deposition",
+      "opt_b": "deposition of sea waves",
+      "opt_c": "running water erosion",
+      "opt_d": "wind erosion"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Wind erosion. A mushroom rock (perched rock) is a typical mushroom-shaped landform that is formed by the action of wind erosion. These rocks are mostly found in arid regions. Such rocks are found in the Thar Desert of India.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'glacial deposition' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'deposition of sea waves' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'running water erosion' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0792",
+      "questionStem": "Mushroom rocks are formed due to _____.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0792",
+      "evidenceText": "Wind erosion. A mushroom rock (perched rock) is a typical mushroom-shaped landform that is formed by the action of wind erosion. These rocks are mostly found in arid regions. Such rocks are found in t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 792,
+        "block_id": "Pinnacle_SSC_Q792",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 792,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0844",
+    "stem": "How much percentage of Earth's water make up the oceans?",
+    "options": {
+      "opt_a": "57%",
+      "opt_b": "7%",
+      "opt_c": "37%",
+      "opt_d": "97%"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "97%. Water covers 71 percent of Earth's surface. Distribution of Earth’s water: Oceans (97.2%), Glaciers (2.1%), Groundwater (0.61 percent); Freshwater lakes (0.009 percent), Inland seas (0.008 percent), Soil Moisture (0.005 percent), Atmosphere (0.001 percent), Rivers (0.0001 percent).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'57%' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'7%' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'37%' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0844",
+      "questionStem": "How much percentage of Earth's water make up the oceans?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0844",
+      "evidenceText": "97%. Water covers 71 percent of Earth's surface. Distribution of Earth’s water: Oceans (97.2%), Glaciers (2.1%), Groundwater (0.61 percent); Freshwater lakes (0.009 percent), Inland seas (0.008 percen",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 844,
+        "block_id": "Pinnacle_SSC_Q844",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 844,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0861",
+    "stem": "Match the columns: Column A (Land-Use Category) Column B (Description - Shuffled) A. Miscellaneous Tree Crops & Groves 1. Land left fallow for more than 1 year but less than 5 years B. Culturable Wasteland 2. Privately owned land under orchards and fruit trees C. Current Fallow 3. Land left uncultivated for over 5 years D. Fallow other than Current Fallow 4. Land left fallow for one or less than one year",
+    "options": {
+      "opt_a": "A-2, B-3, C-4, D-1",
+      "opt_b": "A-3, B-2, C-1, D-4",
+      "opt_c": "A-1, B-4, C-2, D-3",
+      "opt_d": "A-4, B-1, C-3, D-2"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A-2, B-3, C-4, D-1.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'A-3, B-2, C-1, D-4' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A-1, B-4, C-2, D-3' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A-4, B-1, C-3, D-2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0861",
+      "questionStem": "Match the columns: Column A (Land-Use Category) Column B (Description - Shuffled) A. Miscellaneous Tree Crops & Groves 1. Land left fallow for more than 1 year but less than 5 years B. Culturable Wasteland 2. Privately owned land under orchards and fruit trees C. Current Fallow 3. Land left uncultivated for over 5 years D. Fallow other than Current Fallow 4. Land left fallow for one or less than one year",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0861",
+      "evidenceText": "A-2, B-3, C-4, D-1.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 861,
+        "block_id": "Pinnacle_SSC_Q861",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 7/08/2025 (Shift 3)",
+        "pdfSequence": 861,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0864",
+    "stem": "Match the port/corridor with its strategic benefit to India Column A (Port/Corridor) Column B (Strategic Benefit to India) A. Chabahar Port 1. Links India with Europe via Middle East B. IMEC 2. New age of transportation between the two countries India to Southeast Asia via Mizoram-Myanmar link C. Sittwe Port 3. Access to Central Asia bypassing Pakistan",
+    "options": {
+      "opt_a": "A → 3, B → 1, C → 2",
+      "opt_b": "A → 2, B → 3, C → 1",
+      "opt_c": "A → 3, B → 2, C→ 1",
+      "opt_d": "A → 1, B → 2, C → 3"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "A → 3, B → 1, C → 2. Chabahar Port (Iran): Located on the Gulf of Oman, it is strategically important for India as it provides a trade route to Afghanistan and Central Asia, bypassing Pakistan. India-Middle East-Europe Economic Corridor (IMEC): A planned corridor to enhance connectivity and economic integration between Asia, the www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography Persian Gulf, and Europe, boosting trade and development. Sittwe Port (Myanmar): A deep-water port in Rakhine State, built with Indian assistance and operationalized by India Ports Global (IPGL). It is India’s second overseas port after Chabahar, forming a key part of the Kaladan Multi-Modal Transit Transport Project (KMMTTP), which connects India’s northeast to the Bay of Bengal, reducing dependence on the Siliguri Corridor and promoting regional trade.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'A → 2, B → 3, C → 1' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A → 3, B → 2, C→ 1' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A → 1, B → 2, C → 3' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0864",
+      "questionStem": "Match the port/corridor with its strategic benefit to India Column A (Port/Corridor) Column B (Strategic Benefit to India) A. Chabahar Port 1. Links India with Europe via Middle East B. IMEC 2. New age of transportation between the two countries India to Southeast Asia via Mizoram-Myanmar link C. Sittwe Port 3. Access to Central Asia bypassing Pakistan",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0864",
+      "evidenceText": "A → 3, B → 1, C → 2. Chabahar Port (Iran): Located on the Gulf of Oman, it is strategically important for India as it provides a trade route to Afghanistan and Central Asia, bypassing Pakistan. India-",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 864,
+        "block_id": "Pinnacle_SSC_Q864",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC Stenographer 8/08/2025 (Shift 2)",
+        "pdfSequence": 864,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0893",
+    "stem": "The term physical geology was coined by __________.",
+    "options": {
+      "opt_a": "William Hopkins",
+      "opt_b": "Georgius Agricola",
+      "opt_c": "Louis Agassiz",
+      "opt_d": "Aziz Ab'Saber"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "William Hopkins . Fathers of Various Fields - Economics (Adam Smith), Telephone (Alexander Graham Bell), Modern Chemistry (Antoine Lavoisier), Classification/ Taxonomy (Carl Linnaeus), Evolution (Charles Darwin), Geography (Eratosthenes).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Georgius Agricola' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Louis Agassiz' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Aziz Ab'Saber' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0893",
+      "questionStem": "The term physical geology was coined by __________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0893",
+      "evidenceText": "William Hopkins . Fathers of Various Fields - Economics (Adam Smith), Telephone (Alexander Graham Bell), Modern Chemistry (Antoine Lavoisier), Classification/ Taxonomy (Carl Linnaeus), Evolution (Char",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 893,
+        "block_id": "Pinnacle_SSC_Q893",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 893,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0900",
+    "stem": "Which states are involved in the joint venture of the Chambal Project?",
+    "options": {
+      "opt_a": "Rajasthan and Haryana",
+      "opt_b": "Rajasthan and Uttar Pradesh",
+      "opt_c": "Uttar Pradesh and Madhya Pradesh",
+      "opt_d": "Rajasthan and Madhya Pradesh"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Rajasthan and Madhya Pradesh. Chambal Project : Initiated in - 1954. Aim - Harnessing the Chambal River for irrigation, Power generation and for prevention and control of soil erosion in the valley.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Rajasthan and Haryana' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Rajasthan and Uttar Pradesh' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Uttar Pradesh and Madhya Pradesh' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0900",
+      "questionStem": "Which states are involved in the joint venture of the Chambal Project?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0900",
+      "evidenceText": "Rajasthan and Madhya Pradesh. Chambal Project : Initiated in - 1954. Aim - Harnessing the Chambal River for irrigation, Power generation and for prevention and control of soil erosion in the valley.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 900,
+        "block_id": "Pinnacle_SSC_Q900",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 900,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0908",
+    "stem": "_______ species are those species of plants and animals which are found exclusively in a particular area.",
+    "options": {
+      "opt_a": "Endemic",
+      "opt_b": "Endangered",
+      "opt_c": "Threatened",
+      "opt_d": "Critically Endangered"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Endemic. Example of Endemic Species - Kangaroos originally endemic to Australia and found nowhere else in the world. Endemic Species of India - Asiatic Lion (Gir Forest), Kashmir Stag (Kashmir Valley), Purple Frog (Western Ghats), Sangai Deer (Loktak Lake), Nilgiri Tahr (Nilgiri Hills).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Endangered' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Threatened' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Critically Endangered' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0908",
+      "questionStem": "_______ species are those species of plants and animals which are found exclusively in a particular area.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0908",
+      "evidenceText": "Endemic. Example of Endemic Species - Kangaroos originally endemic to Australia and found nowhere else in the world. Endemic Species of India - Asiatic Lion (Gir Forest), Kashmir Stag (Kashmir Valley)",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Atmosphere, Winds & Climate Systems",
+        "concept": "Atmosphere, Winds & Climate Systems",
+        "sentence_idx": 908,
+        "block_id": "Pinnacle_SSC_Q908",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 908,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 6,
+    "topicName": "Atmosphere, Winds & Climate Systems",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]

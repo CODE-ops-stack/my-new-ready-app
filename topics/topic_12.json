@@ -7818,5 +7818,1705 @@
         "concept": "Agro-Climatic Synthesis"
       }
     }
+  },
+  {
+    "id": "ssc_pyq_0077",
+    "stem": "Which of the following is the correct match between column-A and column-B? Column - A (Elements in earth crust) Column - B (Total % in earth crust) i. Oxygen a. 8% ii. Silicon b. 28% iii. Aluminium c. 47% iv. Iron d. 5%",
+    "options": {
+      "opt_a": "i-a, ii-b, iii-c, iv-d",
+      "opt_b": "i-c, ii-a, iii-b, iv-d",
+      "opt_c": "i-c, ii-b, iii-a, iv-d",
+      "opt_d": "i-b, ii-a, iii-c, iv-d"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "i-c, ii-b, iii-a, iv-d. Abundances of other Element in the Earth’s Crust: Calcium (Ca) - 3.63%, Sodium (Na) - 2.83%, Potassium (K) - 2.59%, Magnesium (Mg) - 2.09% and others - 1.41%. Earth has three layers: crust (upper layer), mantle (middle layer), and core (lower layer).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'i-a, ii-b, iii-c, iv-d' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'i-c, ii-a, iii-b, iv-d' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'i-b, ii-a, iii-c, iv-d' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0077",
+      "questionStem": "Which of the following is the correct match between column-A and column-B? Column - A (Elements in earth crust) Column - B (Total % in earth crust) i. Oxygen a. 8% ii. Silicon b. 28% iii. Aluminium c. 47% iv. Iron d. 5%",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0077",
+      "evidenceText": "i-c, ii-b, iii-a, iv-d. Abundances of other Element in the Earth’s Crust: Calcium (Ca) - 3.63%, Sodium (Na) - 2.83%, Potassium (K) - 2.59%, Magnesium (Mg) - 2.09% and others - 1.41%. Earth has three l",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 77,
+        "block_id": "Pinnacle_SSC_Q77",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 77,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0081",
+    "stem": "Consider the following statements about oceanic trenches: 1. The Mariana Trench in the Pacific Ocean is the deepest point on Earth, with a depth of about 11,022 metres. 2. The Java Trench, located in the Indian Ocean, is deeper than the Tonga Trench in the Southwestern Pacific Ocean. Which of the statements given above is/are correct?",
+    "options": {
+      "opt_a": "1 only",
+      "opt_b": "2 only",
+      "opt_c": "Both 1 and 2",
+      "opt_d": "Neither 1 nor 2"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "1 only. Java Trench (also known as the Sunda Trench): Located in the northeastern Indian Ocean, its maximum depth is approximately 7,725 metres. Tonga Trench: Located in the Pacific Ocean near the Tonga Islands, its deepest point (Horizon Deep) is approximately 10,882 metres. Other Trenches: Puerto Rico Trench (8,400 m) - Atlantic Ocean; South Sandwich Trench (7,432 m) - Southern Ocean.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'2 only' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both 1 and 2' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Neither 1 nor 2' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0081",
+      "questionStem": "Consider the following statements about oceanic trenches: 1. The Mariana Trench in the Pacific Ocean is the deepest point on Earth, with a depth of about 11,022 metres. 2. The Java Trench, located in the Indian Ocean, is deeper than the Tonga Trench in the Southwestern Pacific Ocean. Which of the statements given above is/are correct?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0081",
+      "evidenceText": "1 only. Java Trench (also known as the Sunda Trench): Located in the northeastern Indian Ocean, its maximum depth is approximately 7,725 metres. Tonga Trench: Located in the Pacific Ocean near the Ton",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 81,
+        "block_id": "Pinnacle_SSC_Q81",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 81,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0356",
+    "stem": "Which of the following is termed as \"sericulture\"?",
+    "options": {
+      "opt_a": "Cultivation of grapes",
+      "opt_b": "Growing of fruits",
+      "opt_c": "Breeding of fish",
+      "opt_d": "Commercial rearing of silk worms"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Commercial rearing of silkworms. ‘Bombyx mori', ‘Eri’, ‘Muga’ and ‘Tasar’ are silkworm species used in sericulture. These are used to produce silk fiber (protein) from their silk glands . Moriculture refers to the cultivation of mulberry plants. Other types of farming : Aviculture (birds), Apiculture (bees), Pisciculture (fish), Viticulture (grapes), Fungiculture (mushroom), Arboriculture (tree), Silviculture (fodder crops), Olericulture (vegetables).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cultivation of grapes' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Growing of fruits' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Breeding of fish' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0356",
+      "questionStem": "Which of the following is termed as \"sericulture\"?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0356",
+      "evidenceText": "Commercial rearing of silkworms. ‘Bombyx mori', ‘Eri’, ‘Muga’ and ‘Tasar’ are silkworm species used in sericulture. These are used to produce silk fiber (protein) from their silk glands . Moriculture ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 356,
+        "block_id": "Pinnacle_SSC_Q356",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 356,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0422",
+    "stem": "Major plantations are found in the __________ region of the world.",
+    "options": {
+      "opt_a": "Tropical",
+      "opt_b": "Grassland",
+      "opt_c": "Temperate",
+      "opt_d": "Desert"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Tropical. Plantation crops - A type of commercial farming where a single crop of tea, coffee, sugarcane, cashew, rubber, banana or cotton are grown. Major plantations - Rubber in Malaysia, coffee in Brazil, tea in India and Sri Lanka. Major food crops - Wheat, rice, maize and millets. Jute and cotton are fibr e crops.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Grassland' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Temperate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Desert' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0422",
+      "questionStem": "Major plantations are found in the __________ region of the world.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0422",
+      "evidenceText": "Tropical. Plantation crops - A type of commercial farming where a single crop of tea, coffee, sugarcane, cashew, rubber, banana or cotton are grown. Major plantations - Rubber in Malaysia, coffee in B",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 422,
+        "block_id": "Pinnacle_SSC_Q422",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 422,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0443",
+    "stem": "The climatic diversity of India is characterised by its distinctiveness, and one of the following factors does NOT contribute to it is ___________.",
+    "options": {
+      "opt_a": "longitudinal extent",
+      "opt_b": "latitudinal extent",
+      "opt_c": "topography",
+      "opt_d": "vegetation"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "The latitudinal extent influences temperature and rainfall patterns due to variations in solar energy and atmospheric density. However, it is not a major factor contributing to India's climatic diversity compared to longitudinal extent, topography, and vegetation.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'longitudinal extent' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'topography' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'vegetation' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0443",
+      "questionStem": "The climatic diversity of India is characterised by its distinctiveness, and one of the following factors does NOT contribute to it is ___________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0443",
+      "evidenceText": "The latitudinal extent influences temperature and rainfall patterns due to variations in solar energy and atmospheric density. However, it is not a major factor contributing to India's climatic divers",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 443,
+        "block_id": "Pinnacle_SSC_Q443",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 443,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0445",
+    "stem": "Match the following hot winds with their respective regions: List I (Hot Winds) List II (Regions) a. Loo i. North Africa & South Europe b. Chinook ii.North and Northwestern India c. Sirocco iii. Guinea Coast d. Harmattan iv. USA (Rocky Mountain region)",
+    "options": {
+      "opt_a": "a – ii, b – iv, c – i, d – iii",
+      "opt_b": "a – iii, b – ii, c – i, d – iv",
+      "opt_c": "a – ii, b – i, c – iv, d – iii",
+      "opt_d": "a – iv, b – iii, c – ii, d – i"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "a – ii, b – iv, c – i, d – iii. Loo - These are strong, gusty, hot, dry winds blowing during the day over the north and northwestern India. In West Bengal, similar storms are known as ‘Kaal Baisakhi’. They blow in the summer season. Other hot winds - Foehn (Europe), , Santa Ana (USA), Harmattan (Guinea coast), Khamsin (Egypt).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'a – iii, b – ii, c – i, d – iv' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'a – ii, b – i, c – iv, d – iii' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'a – iv, b – iii, c – ii, d – i' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0445",
+      "questionStem": "Match the following hot winds with their respective regions: List I (Hot Winds) List II (Regions) a. Loo i. North Africa & South Europe b. Chinook ii.North and Northwestern India c. Sirocco iii. Guinea Coast d. Harmattan iv. USA (Rocky Mountain region)",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0445",
+      "evidenceText": "a – ii, b – iv, c – i, d – iii. Loo - These are strong, gusty, hot, dry winds blowing during the day over the north and northwestern India. In West Bengal, similar storms are known as ‘Kaal Baisakhi’.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 445,
+        "block_id": "Pinnacle_SSC_Q445",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 445,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0449",
+    "stem": "The tropical cyclones in Australia are known as ________.",
+    "options": {
+      "opt_a": "hurricanes",
+      "opt_b": "willy-willies",
+      "opt_c": "cyclones",
+      "opt_d": "typhoons"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "willy-willies. Tropical cyclones are intense low-pressure areas that form in the atmosphere between 30° N and 30° S latitudes. They can extend up to 1,000 km horizontally and 12–14 km vertically from the surface. Tropical cyclones rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere. Their names in different countries : Hurricanes - United States, Typhoons - China Sea and Pacific Ocean, Cyclones - Indian Ocean.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'hurricanes' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'cyclones' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'typhoons' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0449",
+      "questionStem": "The tropical cyclones in Australia are known as ________.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0449",
+      "evidenceText": "willy-willies. Tropical cyclones are intense low-pressure areas that form in the atmosphere between 30° N and 30° S latitudes. They can extend up to 1,000 km horizontally and 12–14 km vertically from ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 449,
+        "block_id": "Pinnacle_SSC_Q449",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 449,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0455",
+    "stem": "Which of the following statements about climate is INCORRECT?",
+    "options": {
+      "opt_a": "India’s climate has characteristics of tropical as well as subtropical climates.",
+      "opt_b": "Coastal areas of India experience less contrasts in temperature conditions as compared to the interior of the country.",
+      "opt_c": "‘Monsoon’ type of climate is found mainly in south and southeast Asia.",
+      "opt_d": "India experiences comparatively stronger winters as compared to central Asia."
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Central Asia generally experiences stronger winters compared to India due to its continental location and lack of moderating influences like large bodies of water. The Climate of India is the tropical monsoon climate type with regional variations in temperature, precipitation, and amount of rainfall because of the large geographical area.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'India’s climate has characteristics of tropical as well as subtropical climates.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Coastal areas of India experience less contrasts in temperature conditions as compared to the interior of the country.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'‘Monsoon’ type of climate is found mainly in south and southeast Asia.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0455",
+      "questionStem": "Which of the following statements about climate is INCORRECT?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0455",
+      "evidenceText": "Central Asia generally experiences stronger winters compared to India due to its continental location and lack of moderating influences like large bodies of water. The Climate of India is the tropical",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 455,
+        "block_id": "Pinnacle_SSC_Q455",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 455,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0462",
+    "stem": "Identify a type of season that is NOT a part of the four seasons of India.",
+    "options": {
+      "opt_a": "The southeast monsoon season",
+      "opt_b": "The southwest monsoon season",
+      "opt_c": "The hot weather season",
+      "opt_d": "The cold weather season"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "The southeast monsoon season. Four main seasons can be identified in India : The hot weather season (March to May), The southwest monsoon season (June to September), The post - monsoon or retreating monsoon season (October to December), The cold weather season (January to February).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'The southwest monsoon season' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'The hot weather season' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'The cold weather season' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0462",
+      "questionStem": "Identify a type of season that is NOT a part of the four seasons of India.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0462",
+      "evidenceText": "The southeast monsoon season. Four main seasons can be identified in India : The hot weather season (March to May), The southwest monsoon season (June to September), The post - monsoon or retreating m",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 462,
+        "block_id": "Pinnacle_SSC_Q462",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 462,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0463",
+    "stem": "What is the name of the cold phase of the ENSO climate pattern that describes the unusual cooling of the surface waters of the region?",
+    "options": {
+      "opt_a": "NINO-3 region",
+      "opt_b": "ENSO-neutral",
+      "opt_c": "Trans-Nino",
+      "opt_d": "La Nina"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "La Nina. In La Nina, the tropical Pacific trade winds become very strong and an abnormal accumulation of cold water occurs in the central and eastern Pacific Ocean. El Nino is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean. El Nino is the “warm phase” of a larger phenomenon called the El Nino-Southern Oscillation (ENSO).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'NINO-3 region' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'ENSO-neutral' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Trans-Nino' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0463",
+      "questionStem": "What is the name of the cold phase of the ENSO climate pattern that describes the unusual cooling of the surface waters of the region?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0463",
+      "evidenceText": "La Nina. In La Nina, the tropical Pacific trade winds become very strong and an abnormal accumulation of cold water occurs in the central and eastern Pacific Ocean. El Nino is a climate pattern that d",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 463,
+        "block_id": "Pinnacle_SSC_Q463",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 463,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0466",
+    "stem": "According to the Koppen climate classification system, ‘Am’ is the code for which type of climate?",
+    "options": {
+      "opt_a": "Tropical wet and dry climate",
+      "opt_b": "Tropical monsoon climate",
+      "opt_c": "Humid subtropical climate",
+      "opt_d": "Marine west coast climate"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Tropical monsoon climate. Koeppen’s Classification of Climatic Regions of India is based on mean annual and monthly temperature and precipitation data. He identified fiv e major climatic groups: four based on temperature (A, C, D, E for humid climates) and one on precipitation (B for dry climates). These groups are further divided into types, indicated by small letters that describe seasonality: f (no dry season), m (monsoon), w (winter dry), and s (summer dry). Climatic Regions of India: Amw, As, Aw, BShw, BWhw, Cwg, Dfc, Et, E.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Tropical wet and dry climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Humid subtropical climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Marine west coast climate' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0466",
+      "questionStem": "According to the Koppen climate classification system, ‘Am’ is the code for which type of climate?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0466",
+      "evidenceText": "Tropical monsoon climate. Koeppen’s Classification of Climatic Regions of India is based on mean annual and monthly temperature and precipitation data. He identified fiv e major climatic groups: four ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 466,
+        "block_id": "Pinnacle_SSC_Q466",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 466,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0467",
+    "stem": "Assertion (A): The climate of a particular place is controlled by six major factors. Reason (R): Latitude, altitude, pressure and wind system, distance from the sea, ocean currents, and relief features are the six main controls of climate.",
+    "options": {
+      "opt_a": "Both A and R are true, and R is the correct explanation of A",
+      "opt_b": "Both A and R are true, but R is not the correct explanation of A",
+      "opt_c": "A is true, but R is false",
+      "opt_d": "A is false, but R is true"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Both A and R are true, and R is the correct explanation of A.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Both A and R are true, but R is not the correct explanation of A' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A is true, but R is false' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A is false, but R is true' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0467",
+      "questionStem": "Assertion (A): The climate of a particular place is controlled by six major factors. Reason (R): Latitude, altitude, pressure and wind system, distance from the sea, ocean currents, and relief features are the six main controls of climate.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0467",
+      "evidenceText": "Both A and R are true, and R is the correct explanation of A.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 467,
+        "block_id": "Pinnacle_SSC_Q467",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 467,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0469",
+    "stem": "Choose the INCORRECT statement related to monsoon.",
+    "options": {
+      "opt_a": "The intensity and position of the high - pressure area, east of Madagascar, affects the Indian Monsoon",
+      "opt_b": "The Southwest Monsoon winds blow over the warm oceans, gather moisture and bring widespread rainfall over the mainland of India.",
+      "opt_c": "The difference in pressure over Tahiti (Pacific Ocean), and Darwin in northern Australia (Indian Ocean) is computed to predict the intensity of the monsoons.",
+      "opt_d": "The western cyclonic disturbances occur due to withdrawal or the retreat of the monsoon"
+    },
+    "correctAnswer": "opt_d",
+    "explanation": "Western Cyclonic Disturbances are weather phenomena of the winter months brought in by the westerly flow from the Mediterranean region. They usually influence the weather of the north and north-western regions of India. It originates over the Mediterranean: The region which includes the Mediterranean Sea and seven Member States, either partially (France, Portugal, Italy, Spain) or completely (Greece, Malta, Cyprus).",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'The intensity and position of the high - pressure area, east of Madagascar, affects the Indian Monsoon' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'The Southwest Monsoon winds blow over the warm oceans, gather moisture and bring widespread rainfall over the mainland of India.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'The difference in pressure over Tahiti (Pacific Ocean), and Darwin in northern Australia (Indian Ocean) is computed to predict the intensity of the monsoons.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0469",
+      "questionStem": "Choose the INCORRECT statement related to monsoon.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0469",
+      "evidenceText": "Western Cyclonic Disturbances are weather phenomena of the winter months brought in by the westerly flow from the Mediterranean region. They usually influence the weather of the north and north-wester",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 469,
+        "block_id": "Pinnacle_SSC_Q469",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 469,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0470",
+    "stem": "Which winds blow across the Asian continent at latitudes north of the Himalayas roughly parallel to the Tibetan highlands?",
+    "options": {
+      "opt_a": "Trade winds",
+      "opt_b": "Jet streams",
+      "opt_c": "Southwest winds",
+      "opt_d": "Northwest winds"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Jet streams - A narrow belt of high altitude (above 12,000 m) westerly winds in the Troposphere. Their speed varies from about 110 km/h in summer to about 184 km/h in winter. The polar jet is located between the 50°-60° latitude lines in both the northern and southern hemispheres. The subtropical jet is located around the 30° latitude line.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Trade winds' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Southwest winds' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Northwest winds' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0470",
+      "questionStem": "Which winds blow across the Asian continent at latitudes north of the Himalayas roughly parallel to the Tibetan highlands?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0470",
+      "evidenceText": "Jet streams - A narrow belt of high altitude (above 12,000 m) westerly winds in the Troposphere. Their speed varies from about 110 km/h in summer to about 184 km/h in winter. The polar jet is located ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 470,
+        "block_id": "Pinnacle_SSC_Q470",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 470,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0472",
+    "stem": "Choose the INCORRECT statement out of the following.",
+    "options": {
+      "opt_a": "There is an increase in rainfall generally from east to west in the Northern Plains.",
+      "opt_b": "Most parts of the country receive rainfall from June to September.",
+      "opt_c": "The annual precipitation in Meghalaya is over 400 cm.",
+      "opt_d": "Some parts like the Tamil Nadu’s coast gets a large portion of its rains during October and November."
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Rainfall decreases from the east to the west in Northern India because there is a decrease in the moisture content of the winds. The monsoon approaches the Indian landmass in two branches: The Arabian Sea branch (The monsoon winds originating over the Arabian Sea) and the Bay of Bengal branch.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Most parts of the country receive rainfall from June to September.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'The annual precipitation in Meghalaya is over 400 cm.' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Some parts like the Tamil Nadu’s coast gets a large portion of its rains during October and November.' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0472",
+      "questionStem": "Choose the INCORRECT statement out of the following.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0472",
+      "evidenceText": "Rainfall decreases from the east to the west in Northern India because there is a decrease in the moisture content of the winds. The monsoon approaches the Indian landmass in two branches: The Arabian",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 472,
+        "block_id": "Pinnacle_SSC_Q472",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 472,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0476",
+    "stem": "What is 'Mahawat' in India?",
+    "options": {
+      "opt_a": "Cold waves during the winter season",
+      "opt_b": "Cloud burst during the monsoon season",
+      "opt_c": "Cyclonic rainfall during the winter season",
+      "opt_d": "Hot and dry winds during the summer season"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Mahawat is the total amount of rainfall in the cold weather season, that is the winter season which is caused by the western cyclonic disturbances in the north and north -western part of India.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cold waves during the winter season' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Cloud burst during the monsoon season' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Hot and dry winds during the summer season' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0476",
+      "questionStem": "What is 'Mahawat' in India?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0476",
+      "evidenceText": "Mahawat is the total amount of rainfall in the cold weather season, that is the winter season which is caused by the western cyclonic disturbances in the north and north -western part of India.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 476,
+        "block_id": "Pinnacle_SSC_Q476",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 476,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0482",
+    "stem": "What would happen if the difference in pressure in Tahiti was negative?",
+    "options": {
+      "opt_a": "Above average late monsoon",
+      "opt_b": "Drought",
+      "opt_c": "Below average and late monsoon",
+      "opt_d": "Above average and early monsoon"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "The difference in pressure over Tahiti (Pacific Ocean) and Darwin in Northern Australia (Indian Ocean) is computed to predict the intensity of the monsoons. Factors Affecting Monsoon - The shift of the position of Inter Tropical Convergence Zone (ITCZ); The presence of the high-pressure area, east of Madagascar; Heating of The Tibetan plateau in summers; The movement of the jet streams; Southern Oscillation (SO) - Change of pressure between south Pacific Ocean and eastern Indian Ocean.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Above average late monsoon' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Drought' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Above average and early monsoon' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0482",
+      "questionStem": "What would happen if the difference in pressure in Tahiti was negative?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0482",
+      "evidenceText": "The difference in pressure over Tahiti (Pacific Ocean) and Darwin in Northern Australia (Indian Ocean) is computed to predict the intensity of the monsoons. Factors Affecting Monsoon - The shift of th",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 482,
+        "block_id": "Pinnacle_SSC_Q482",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 482,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0483",
+    "stem": "What type of climate occurs along the west coast of continents in subtropical latitudes between 30°-40° latitudes, covering Central California, www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography Central Chile along the coast in South East and South Western Australia?",
+    "options": {
+      "opt_a": "Subtropical steppe climate",
+      "opt_b": "Humid subtropical climate",
+      "opt_c": "Mediterranean climate",
+      "opt_d": "Marine west coast climate"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Mediterranean climate : Clear skies and high temperatures; hot, dry summers and cool, wet winters. The climate is not extreme because of cooling from water bodies. This unique seasonal pattern makes it ideal for growing crops like olives, grapes, and citrus fruits.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Subtropical steppe climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Humid subtropical climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Marine west coast climate' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0483",
+      "questionStem": "What type of climate occurs along the west coast of continents in subtropical latitudes between 30°-40° latitudes, covering Central California, www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography Central Chile along the coast in South East and South Western Australia?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0483",
+      "evidenceText": "Mediterranean climate : Clear skies and high temperatures; hot, dry summers and cool, wet winters. The climate is not extreme because of cooling from water bodies. This unique seasonal pattern makes i",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 483,
+        "block_id": "Pinnacle_SSC_Q483",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 483,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0490",
+    "stem": "When the grains of sand are very fine and light , the wind can carry it over a very long distance . When such sand is deposited in large areas, it is called_____.",
+    "options": {
+      "opt_a": "loess",
+      "opt_b": "moraines",
+      "opt_c": "mushroom",
+      "opt_d": "stacks"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Loess. It is a clastic, predominantly silt-sized sediment that is formed by the accumulation of wind - blown dust.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'moraines' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'mushroom' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'stacks' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0490",
+      "questionStem": "When the grains of sand are very fine and light , the wind can carry it over a very long distance . When such sand is deposited in large areas, it is called_____.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0490",
+      "evidenceText": "Loess. It is a clastic, predominantly silt-sized sediment that is formed by the accumulation of wind - blown dust.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 490,
+        "block_id": "Pinnacle_SSC_Q490",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 490,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0640",
+    "stem": "Match the National Waterways with their respective states: A. NW–97 → (i) West Bengal B. NW–98 → (ii) Punjab & Himachal Pradesh C. NW–93 → (iii) Meghalaya D. NW–99 → (iv) Tamil Nadu",
+    "options": {
+      "opt_a": "A–i, B–ii, C–iii, D–iv",
+      "opt_b": "A–iii, B–iv, C–ii, D–i",
+      "opt_c": "A–ii, B–i, C–iv, D–iii",
+      "opt_d": "A–iv, B–iii, C–i, D–ii"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "NW - 1 (Ganga - Bhagirathi - Hooghly): The longest waterways in India (Prayagraj to Haldia) - Uttar Pradesh, Bihar, Jharkhand & West Bengal. NW - 2 (Brahmaputra River) - Assam. NW - 3 (West Coast Canal and Champakara and Udyogamandal Canals) - Kerala. NW - 98 (Sutlej River) - Punjab and Himachal Pradesh. NW - 10 (Amba River) - Maharashtra. NW - 93 (Simsang River) - Meghalaya. NW - 83 (Rajpuri Creek) - Maharashtra. NW - 111 (Zuari River) - Goa. NW - 73 (Narmada River) - Gujarat and Maharashtra. NW - 97 (Sundarbans Waterways) - West Bengal.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'A–iii, B–iv, C–ii, D–i' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'A–ii, B–i, C–iv, D–iii' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'A–iv, B–iii, C–i, D–ii' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0640",
+      "questionStem": "Match the National Waterways with their respective states: A. NW–97 → (i) West Bengal B. NW–98 → (ii) Punjab & Himachal Pradesh C. NW–93 → (iii) Meghalaya D. NW–99 → (iv) Tamil Nadu",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0640",
+      "evidenceText": "NW - 1 (Ganga - Bhagirathi - Hooghly): The longest waterways in India (Prayagraj to Haldia) - Uttar Pradesh, Bihar, Jharkhand & West Bengal. NW - 2 (Brahmaputra River) - Assam. NW - 3 (West Coast Cana",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 640,
+        "block_id": "Pinnacle_SSC_Q640",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 640,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0746",
+    "stem": "Settlements in which houses are built close to each other are called _____.",
+    "options": {
+      "opt_a": "Scattered settlement",
+      "opt_b": "Compact settlement",
+      "opt_c": "Line settlement",
+      "opt_d": "Grid settlement"
+    },
+    "correctAnswer": "opt_b",
+    "explanation": "Compact settlement. Grid settlements are settlements in which houses are built in a grid pattern, such as cities. Scattered settlements are settlements in which houses are spaced apart, such as forests or deserts, rural areas. Line settlements are settlements in which houses are built along a road or river and canals.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Scattered settlement' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Line settlement' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Grid settlement' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0746",
+      "questionStem": "Settlements in which houses are built close to each other are called _____.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0746",
+      "evidenceText": "Compact settlement. Grid settlements are settlements in which houses are built in a grid pattern, such as cities. Scattered settlements are settlements in which houses are spaced apart, such as forest",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 746,
+        "block_id": "Pinnacle_SSC_Q746",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 746,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0770",
+    "stem": "What is the purpose of the Earth's magnetic field?",
+    "options": {
+      "opt_a": "To provide an energy source for life on Earth",
+      "opt_b": "To control the Earth's climate",
+      "opt_c": "To shield the Earth from solar wind and cosmic radiation",
+      "opt_d": "To cause the tides in the ocean"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Earth's magnetic field (Geomagnetic field) - The magnetic field that extends from Earth's interior out into space, where it interacts with the solar wind, a stream of charged particles emerging from the Sun. Earth’s Magnetism - Generated by convection currents of molten iron and nickel in the earth’s core. These convection currents are caused by heat escaping from the core, a natural process called a geodynamo.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'To provide an energy source for life on Earth' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'To control the Earth's climate' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'To cause the tides in the ocean' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0770",
+      "questionStem": "What is the purpose of the Earth's magnetic field?",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0770",
+      "evidenceText": "Earth's magnetic field (Geomagnetic field) - The magnetic field that extends from Earth's interior out into space, where it interacts with the solar wind, a stream of charged particles emerging from t",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 770,
+        "block_id": "Pinnacle_SSC_Q770",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 770,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0777",
+    "stem": "__________ is a naturally occurring phenomenon that is responsible for the heating of the Earth’s surface and atmosphere.",
+    "options": {
+      "opt_a": "Radiation",
+      "opt_b": "Global warming",
+      "opt_c": "Greenhouse effect",
+      "opt_d": "Global heating"
+    },
+    "correctAnswer": "opt_c",
+    "explanation": "Greenhouse Effect . When the Sun's energy reaches the Earth's atmosphere, some of it is reflected back to space and the rest is absorbed and re-radiated by greenhouse gases. The absorbed energy warms the atmosphere and the surface of the Earth.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_a",
+        "trapType": "Factual Distractor",
+        "dissection": "'Radiation' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Global warming' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Global heating' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0777",
+      "questionStem": "__________ is a naturally occurring phenomenon that is responsible for the heating of the Earth’s surface and atmosphere.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0777",
+      "evidenceText": "Greenhouse Effect . When the Sun's energy reaches the Earth's atmosphere, some of it is reflected back to space and the rest is absorbed and re-radiated by greenhouse gases. The absorbed energy warms ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 777,
+        "block_id": "Pinnacle_SSC_Q777",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 777,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0857",
+    "stem": "A major portion of 'Sufed Koh' mountain range lies in ______.",
+    "options": {
+      "opt_a": "Pakistan",
+      "opt_b": "China",
+      "opt_c": "India",
+      "opt_d": "Myanmar"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Pakistan. Safed Koh is a mountain range on the Pakistan -Afghanistan border. It parallels the Kabul River. A spur of the range is crossed by the Khyber Pass.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'China' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'India' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Myanmar' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0857",
+      "questionStem": "A major portion of 'Sufed Koh' mountain range lies in ______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0857",
+      "evidenceText": "Pakistan. Safed Koh is a mountain range on the Pakistan -Afghanistan border. It parallels the Kabul River. A spur of the range is crossed by the Khyber Pass.",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 857,
+        "block_id": "Pinnacle_SSC_Q857",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 857,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
+  },
+  {
+    "id": "ssc_pyq_0922",
+    "stem": "'Anaconda' , one of the world's largest snakes, is found in _______.",
+    "options": {
+      "opt_a": "Tropical evergreen forest",
+      "opt_b": "Monsoon forest",
+      "opt_c": "Temperate evergreen forest",
+      "opt_d": "Temperate grasslands"
+    },
+    "correctAnswer": "opt_a",
+    "explanation": "Tropical Evergreen Forests (Amazon forest). They are categorized under the genus Eunectes (great swimmers) and family (Boidae). They thrive very well in hot, humid places with dense foliage. Tropical rainforests are found in South America, Africa, and Southeast Asia around the equator.",
+    "distractorDissections": [
+      {
+        "optionId": "opt_b",
+        "trapType": "Factual Distractor",
+        "dissection": "'Monsoon forest' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_c",
+        "trapType": "Factual Distractor",
+        "dissection": "'Temperate evergreen forest' is an incorrect option in this SSC PYQ context."
+      },
+      {
+        "optionId": "opt_d",
+        "trapType": "Factual Distractor",
+        "dissection": "'Temperate grasslands' is an incorrect option in this SSC PYQ context."
+      }
+    ],
+    "provenance": {
+      "questionId": "ssc_pyq_0922",
+      "questionStem": "'Anaconda' , one of the world's largest snakes, is found in _______.",
+      "intentType": "ssc_cgl_speed_drill",
+      "knowledgeNodeId": "node-ssc-pinnacle-0922",
+      "evidenceText": "Tropical Evergreen Forests (Amazon forest). They are categorized under the genus Eunectes (great swimmers) and family (Boidae). They thrive very well in hot, humid places with dense foliage. Tropical ",
+      "sourceFile": "question.pdf",
+      "sourceLocation": {
+        "sourceId": "question.pdf",
+        "sentence_count": 1,
+        "section_heading": "Indian Climate & Monsoon",
+        "concept": "Indian Climate & Monsoon",
+        "sentence_idx": 922,
+        "block_id": "Pinnacle_SSC_Q922",
+        "has_antecedent": true
+      },
+      "provenanceHash": "",
+      "createdAt": "2026-10-15T13:00:00Z",
+      "schemaVersion": "1.0",
+      "metadata": {
+        "tier": "Basic",
+        "specificExam": "SSC CGL / Stenographer PYQ",
+        "pdfSequence": 922,
+        "sourceBook": "Pinnacle SSC Geography"
+      },
+      "linkHashes": {}
+    },
+    "tier": "Basic",
+    "format": "Direct Fact",
+    "topicId": 12,
+    "topicName": "Indian Climate & Monsoon",
+    "section": "SSC CGL / RRB NTPC Speed Drills",
+    "examTarget": "SSC_CGL",
+    "exams": [
+      "SSC_CGL",
+      "SSC_CHSL",
+      "RRB_NTPC",
+      "RRB_GROUP_D"
+    ]
   }
 ]
