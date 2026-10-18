@@ -1,8 +1,8 @@
 {
-  "version": "v30.0",
+  "version": "v31.0",
   "totalQuestions": 5551,
-  "apkSha256": "C23CD862CB36D49EE5581E509517A47C44DDBD950228F5A26DF6821592F10893",
-  "apkSizeBytes": 34572355,
+  "apkSha256": "D161F011D42A78AE51ECE0F09E2F0A26836FCA82F0DE2E29F180706895039445",
+  "apkSizeBytes": 34647764,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -166,6 +166,6 @@
     }
   },
   "updatedAt": "2026-10-18",
-  "releaseNotes": "Version 25.0: Investor-grade hardening release. Fixed first-launch guest login race condition and account persistence; upgraded authentication UI with clear competitive exam terminology; eliminated topic catalog freeze with instantaneous fallback; enabled ultra-fast multi-slice streaming for Paper Twin, Smart Revision, and Trap Training.",
+  "releaseNotes": "Version 31.0: Visual & Interactive Exploration Release. Added interactive Ocean Currents & Monsoon Teleconnections sandboxes (post-answer, anti-spoiler compliant), vector-drawn interactive India Physiography Relief Map with tap hit-testing and geomorphic zone inspector, and Spaced Revision Geodetic Memory Vault featuring the Ebbinghaus forgetting curve, 60-second compass warmup drill, and synaptic retention health gauge.",
   "totalTopics": 30
 }
