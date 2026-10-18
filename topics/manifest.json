@@ -1,188 +1,218 @@
 {
-  "version": 21,
-  "totalQuestions": 4851,
+  "version": "v26.0",
+  "totalQuestions": 5551,
   "totalTopics": 30,
   "topics": [
     {
       "topicId": 1,
       "topicName": "🌌 Universe, Solar System & Motions of the Earth",
       "count": 150,
-      "file": "topic_1.json"
+      "file": "topic_1.json",
+      "questionCount": 150
     },
     {
       "topicId": 2,
       "topicName": "🌐 Globe, Latitudes, Longitudes & Time",
       "count": 143,
-      "file": "topic_2.json"
+      "file": "topic_2.json",
+      "questionCount": 143
     },
     {
       "topicId": 3,
       "topicName": "🗺️ Maps, Scale, Projections & GIS",
       "count": 83,
-      "file": "topic_3.json"
+      "file": "topic_3.json",
+      "questionCount": 143
     },
     {
       "topicId": 4,
       "topicName": "🌋 Earth's Interior, Rocks & Plate Tectonics",
       "count": 328,
-      "file": "topic_4.json"
+      "file": "topic_4.json",
+      "questionCount": 368
     },
     {
       "topicId": 5,
       "topicName": "⛰️ Geomorphic Processes & Landforms",
       "count": 295,
-      "file": "topic_5.json"
+      "file": "topic_5.json",
+      "questionCount": 335
     },
     {
       "topicId": 6,
       "topicName": "🌪️ Atmosphere, Winds & Climate Systems",
       "count": 155,
-      "file": "topic_6.json"
+      "file": "topic_6.json",
+      "questionCount": 155
     },
     {
       "topicId": 7,
       "topicName": "🌊 Oceanography",
       "count": 312,
-      "file": "topic_7.json"
+      "file": "topic_7.json",
+      "questionCount": 312
     },
     {
       "topicId": 8,
       "topicName": "🌿 Biogeography, Ecosystems & Biodiversity",
       "count": 134,
-      "file": "topic_8.json"
+      "file": "topic_8.json",
+      "questionCount": 184
     },
     {
       "topicId": 9,
       "topicName": "🇮🇳 India: Location, Size & Neighbours",
       "count": 139,
-      "file": "topic_9.json"
+      "file": "topic_9.json",
+      "questionCount": 179
     },
     {
       "topicId": 10,
       "topicName": "🏔️ Physiography of India",
       "count": 403,
-      "file": "topic_10.json"
+      "file": "topic_10.json",
+      "questionCount": 403
     },
     {
       "topicId": 11,
       "topicName": "🏞️ Drainage System of India",
       "count": 410,
-      "file": "topic_11.json"
+      "file": "topic_11.json",
+      "questionCount": 410
     },
     {
       "topicId": 12,
       "topicName": "🌧️ Indian Climate & Monsoon",
       "count": 145,
-      "file": "topic_12.json"
+      "file": "topic_12.json",
+      "questionCount": 195
     },
     {
       "topicId": 13,
       "topicName": "🌱 Soils & Natural Vegetation of India",
       "count": 159,
-      "file": "topic_13.json"
+      "file": "topic_13.json",
+      "questionCount": 199
     },
     {
       "topicId": 14,
       "topicName": "🐅 Wildlife, Protected Areas & Conservation",
       "count": 126,
-      "file": "topic_14.json"
+      "file": "topic_14.json",
+      "questionCount": 176
     },
     {
       "topicId": 15,
       "topicName": "🌾 Agriculture",
       "count": 327,
-      "file": "topic_15.json"
+      "file": "topic_15.json",
+      "questionCount": 367
     },
     {
       "topicId": 16,
       "topicName": "💧 Water Resources, Irrigation & Dams",
       "count": 115,
-      "file": "topic_16.json"
+      "file": "topic_16.json",
+      "questionCount": 175
     },
     {
       "topicId": 17,
       "topicName": "⛏️ Minerals & Energy Resources",
       "count": 250,
-      "file": "topic_17.json"
+      "file": "topic_17.json",
+      "questionCount": 250
     },
     {
       "topicId": 18,
       "topicName": "🏭 Industries",
       "count": 122,
-      "file": "topic_18.json"
+      "file": "topic_18.json",
+      "questionCount": 172
     },
     {
       "topicId": 19,
       "topicName": "🚆 Transport, Communication & Trade",
       "count": 153,
-      "file": "topic_19.json"
+      "file": "topic_19.json",
+      "questionCount": 153
     },
     {
       "topicId": 20,
       "topicName": "👥 Population, Migration & Settlements",
       "count": 197,
-      "file": "topic_20.json"
+      "file": "topic_20.json",
+      "questionCount": 197
     },
     {
       "topicId": 21,
       "topicName": "📈 Human Development & Economic Activities",
       "count": 103,
-      "file": "topic_21.json"
+      "file": "topic_21.json",
+      "questionCount": 163
     },
     {
       "topicId": 22,
       "topicName": "🗺️ World Regional Geography",
       "count": 120,
-      "file": "topic_22.json"
+      "file": "topic_22.json",
+      "questionCount": 180
     },
     {
       "topicId": 23,
       "topicName": "📍 Bihar Geography",
       "count": 62,
-      "file": "topic_23.json"
+      "file": "topic_23.json",
+      "questionCount": 122
     },
     {
       "topicId": 24,
       "topicName": "🧠 Perspectives in Human Geography (Geographical Thought)",
       "count": 60,
-      "file": "topic_24.json"
+      "file": "topic_24.json",
+      "questionCount": 60
     },
     {
       "topicId": 25,
       "topicName": "📐 Models, Theories & Laws in Human Geography",
       "count": 60,
-      "file": "topic_25.json"
+      "file": "topic_25.json",
+      "questionCount": 60
     },
     {
       "topicId": 26,
       "topicName": "🗺️ Regional Planning & Regionalisation",
       "count": 60,
-      "file": "topic_26.json"
+      "file": "topic_26.json",
+      "questionCount": 60
     },
     {
       "topicId": 27,
       "topicName": "👥 Cultural Setting of India",
       "count": 60,
-      "file": "topic_27.json"
+      "file": "topic_27.json",
+      "questionCount": 60
     },
     {
       "topicId": 28,
       "topicName": "🏛️ Political Aspects of Indian Geography",
       "count": 60,
-      "file": "topic_28.json"
+      "file": "topic_28.json",
+      "questionCount": 60
     },
     {
       "topicId": 29,
       "topicName": "⛰️ Advanced Geomorphology & Landscape Evolution",
       "count": 60,
-      "file": "topic_29.json"
+      "file": "topic_29.json",
+      "questionCount": 60
     },
     {
       "topicId": 30,
       "topicName": "🌊 Advanced Ocean Topography & Climatology Models",
       "count": 60,
-      "file": "topic_30.json"
+      "file": "topic_30.json",
+      "questionCount": 60
     }
   ],
-  "updatedAt": "2026-10-15T13:30:00Z"
+  "updatedAt": "2026-10-18"
 }

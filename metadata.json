@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "totalQuestions": 4851,
+  "version": "v26.0",
+  "totalQuestions": 5551,
   "apkSha256": "8C95390C515AE801402D236EB829AC0DA4EACB65D1E36CD99134558EB525F6F9",
   "apkSizeBytes": 33893790,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
@@ -43,9 +43,129 @@
     "👥 Cultural Setting of India": 60,
     "🏛️ Political Aspects of Indian Geography": 60,
     "⛰️ Advanced Geomorphology & Landscape Evolution": 60,
-    "🌊 Advanced Ocean Topography & Climatology Models": 60
+    "🌊 Advanced Ocean Topography & Climatology Models": 60,
+    "1": {
+      "topicId": 1,
+      "questionCount": 150
+    },
+    "2": {
+      "topicId": 2,
+      "questionCount": 143
+    },
+    "3": {
+      "topicId": 3,
+      "questionCount": 143
+    },
+    "4": {
+      "topicId": 4,
+      "questionCount": 368
+    },
+    "5": {
+      "topicId": 5,
+      "questionCount": 335
+    },
+    "6": {
+      "topicId": 6,
+      "questionCount": 155
+    },
+    "7": {
+      "topicId": 7,
+      "questionCount": 312
+    },
+    "8": {
+      "topicId": 8,
+      "questionCount": 184
+    },
+    "9": {
+      "topicId": 9,
+      "questionCount": 179
+    },
+    "10": {
+      "topicId": 10,
+      "questionCount": 403
+    },
+    "11": {
+      "topicId": 11,
+      "questionCount": 410
+    },
+    "12": {
+      "topicId": 12,
+      "questionCount": 195
+    },
+    "13": {
+      "topicId": 13,
+      "questionCount": 199
+    },
+    "14": {
+      "topicId": 14,
+      "questionCount": 176
+    },
+    "15": {
+      "topicId": 15,
+      "questionCount": 367
+    },
+    "16": {
+      "topicId": 16,
+      "questionCount": 175
+    },
+    "17": {
+      "topicId": 17,
+      "questionCount": 250
+    },
+    "18": {
+      "topicId": 18,
+      "questionCount": 172
+    },
+    "19": {
+      "topicId": 19,
+      "questionCount": 153
+    },
+    "20": {
+      "topicId": 20,
+      "questionCount": 197
+    },
+    "21": {
+      "topicId": 21,
+      "questionCount": 163
+    },
+    "22": {
+      "topicId": 22,
+      "questionCount": 180
+    },
+    "23": {
+      "topicId": 23,
+      "questionCount": 122
+    },
+    "24": {
+      "topicId": 24,
+      "questionCount": 60
+    },
+    "25": {
+      "topicId": 25,
+      "questionCount": 60
+    },
+    "26": {
+      "topicId": 26,
+      "questionCount": 60
+    },
+    "27": {
+      "topicId": 27,
+      "questionCount": 60
+    },
+    "28": {
+      "topicId": 28,
+      "questionCount": 60
+    },
+    "29": {
+      "topicId": 29,
+      "questionCount": 60
+    },
+    "30": {
+      "topicId": 30,
+      "questionCount": 60
+    }
   },
-  "updatedAt": "2026-10-16T15:00:00Z",
+  "updatedAt": "2026-10-18",
   "releaseNotes": "Version 25.0: Investor-grade hardening release. Fixed first-launch guest login race condition and account persistence; upgraded authentication UI with clear competitive exam terminology; eliminated topic catalog freeze with instantaneous fallback; enabled ultra-fast multi-slice streaming for Paper Twin, Smart Revision, and Trap Training.",
   "totalTopics": 30
 }
