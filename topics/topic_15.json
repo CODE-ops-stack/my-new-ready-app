@@ -12313,7 +12313,7 @@
   },
   {
     "id": 3524,
-    "stem": "The southern part of India lies in the _________ belt.",
+    "stem": "Geographically situated south of the Tropic of Cancer (23°30' N), the peninsular half of India lies predominantly within which climatic zone?",
     "options": {
       "opt_a": "rain",
       "opt_b": "temperate",
@@ -16023,7 +16023,7 @@
   },
   {
     "id": 3577,
-    "stem": "_______ land is suitable for regular cropping.",
+    "stem": "Land that possesses adequate soil fertility, moisture, and topographical relief suitable for regular plowing and crop cultivation is classified as what?",
     "options": {
       "opt_a": "Arable",
       "opt_b": "Barren",
@@ -16653,7 +16653,7 @@
   },
   {
     "id": 3586,
-    "stem": "Cultivation of rice needs high rainfall ________.",
+    "stem": "Agronomically, successful wetland cultivation of rice requires high rainfall accompanied by which of the following climatic conditions?",
     "options": {
       "opt_a": "Low temperature and low humidity",
       "opt_b": "High temperature and low humidity",
@@ -18263,7 +18263,7 @@
   },
   {
     "id": 3609,
-    "stem": "The colour of the alluvial soils varies from ________.",
+    "stem": "Depending on the depositional environment, depth, and organic content, the colour of alluvial soils across the Indo-Gangetic plains typically varies from what to what?",
     "options": {
       "opt_a": "pale white to warm white",
       "opt_b": "light orange to dark orange",
@@ -19313,7 +19313,7 @@
   },
   {
     "id": 3624,
-    "stem": "Thorny bushes are found in _____ region.",
+    "stem": "Thorny scrub and xerophytic vegetation in India are predominantly adapted to which of the following environmental regions?",
     "options": {
       "opt_a": "mediterranean",
       "opt_b": "polar",
@@ -21413,7 +21413,7 @@
   },
   {
     "id": 3654,
-    "stem": "National Highway No. 7 connects:",
+    "stem": "Under the historical national highway numbering system, National Highway No. 7 (NH 7) connected which terminal points?",
     "options": {
       "opt_a": "Fazilka to Mana",
       "opt_b": "Kashmir to Kanyakumari",
@@ -22113,12 +22113,12 @@
   },
   {
     "id": 3664,
-    "stem": "Structural geology deals with:",
+    "stem": "The sub-discipline of Structural Geology is primarily concerned with the study of which of the following?",
     "options": {
-      "opt_a": "the age of rocks",
-      "opt_b": "the components and chemical nature of soil",
-      "opt_c": "the form, classification, mechanism, and causes of rock structures’ evolution",
-      "opt_d": "the cause of volcano formation"
+      "opt_a": "The geologic age and fossil record of stratified rock layers",
+      "opt_b": "The mineral components and geochemical nature of soil horizons",
+      "opt_c": "The form, classification, mechanism, and tectonic forces governing rock structures",
+      "opt_d": "The volcanic eruption mechanisms and magma chamber dynamics"
     },
     "correctAnswer": "opt_c",
     "explanation": "The correct answer is: the form, classification, mechanism, and causes of rock structures’ evolution. Petrology is the science of rocks. Rock: Any natural mass of mineral matter that makes up the Earth's crust.",
@@ -22183,7 +22183,7 @@
   },
   {
     "id": 3665,
-    "stem": "The core of the Great Himalayas is composed of ______.",
+    "stem": "Geologically, the central crystalline core of the Great Himalayas (Himadri) is predominantly composed of which rock type?",
     "options": {
       "opt_a": "Slate",
       "opt_b": "Granite",
@@ -22883,7 +22883,7 @@
   },
   {
     "id": 3675,
-    "stem": "The Karewa formations are found in the __________ .",
+    "stem": "The lacustrine Karewa deposits, renowned for the commercial cultivation of saffron (Zafran), are uniquely found in which physiographical region?",
     "options": {
       "opt_a": "North Easter Hills",
       "opt_b": "Kashmir Himalayas",

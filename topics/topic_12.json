@@ -1441,7 +1441,7 @@
   },
   {
     "id": 2803,
-    "stem": "The term 'Break in the Monsoon' refers to:",
+    "stem": "In Indian climatology, what does the term 'Break in the Monsoon' specifically signify?",
     "options": {
       "opt_a": "A period of dry spell during the south-west monsoon season lasting for a few days to weeks",
       "opt_b": "The sudden onset of the monsoon over Kerala in early June",
@@ -8361,7 +8361,7 @@
   },
   {
     "id": 2909,
-    "stem": "The tropical cyclones in Australia are known as ________.",
+    "stem": "In regional meteorological nomenclature, tropical cyclones occurring over the northwestern coasts of Australia are commonly known as what?",
     "options": {
       "opt_a": "hurricanes",
       "opt_b": "willy-willies",
@@ -8781,7 +8781,7 @@
   },
   {
     "id": 2915,
-    "stem": "Choose the INCORRECT statement related to monsoon.",
+    "stem": "Which of the following statements regarding the Indian Monsoon mechanism and related teleconnections is INCORRECT?",
     "options": {
       "opt_a": "The intensity and position of the high - pressure area, east of Madagascar, affects the Indian Monsoon",
       "opt_b": "The Southwest Monsoon winds blow over the warm oceans, gather moisture and bring widespread rainfall over the mainland of India.",
@@ -8921,12 +8921,12 @@
   },
   {
     "id": 2917,
-    "stem": "Choose the INCORRECT statement out of the following.",
+    "stem": "Which of the following statements regarding the spatial distribution and seasonality of precipitation in India is INCORRECT?",
     "options": {
       "opt_a": "There is an increase in rainfall generally from east to west in the Northern Plains.",
       "opt_b": "Most parts of the country receive rainfall from June to September.",
       "opt_c": "The annual precipitation in Meghalaya is over 400 cm.",
-      "opt_d": "Some parts like the Tamil Nadu’s coast gets a large portion of its rains during October and November."
+      "opt_d": "Some parts like the Tamil Nadu coast receive a large portion of their rains during October and November."
     },
     "correctAnswer": "opt_a",
     "explanation": "Rainfall decreases from the east to the west in Northern India because there is a decrease in the moisture content of the winds. The monsoon approaches the Indian landmass in two branches: The Arabian Sea branch (The monsoon winds originating over the Arabian Sea) and the Bay of Bengal branch.",

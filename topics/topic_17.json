@@ -12965,7 +12965,7 @@
   },
   {
     "id": 4076,
-    "stem": "The approximate amount of silica present in cement is:",
+    "stem": "In the chemical composition of standard Ordinary Portland Cement (OPC), what is the approximate percentage range of silica (SiO2) present?",
     "options": {
       "opt_a": "between 27% and 35%",
       "opt_b": "between 37% and 45%",
@@ -15065,7 +15065,7 @@
   },
   {
     "id": 4106,
-    "stem": "The wetland of Ashtamudi is located in:",
+    "stem": "The designated Ramsar wetland of Ashtamudi Lake is situated in which of the following coastal Indian States?",
     "options": {
       "opt_a": "Assam",
       "opt_b": "Tamil Nadu",
@@ -15695,7 +15695,7 @@
   },
   {
     "id": 4115,
-    "stem": "The Vadhavan Port is located in _____.",
+    "stem": "The major all-weather greenfield Vadhavan Port project is situated in which Indian State?",
     "options": {
       "opt_a": "Kerala",
       "opt_b": "Tamil Nadu",
@@ -15975,7 +15975,7 @@
   },
   {
     "id": 4119,
-    "stem": "The term ‘monsoon’ is derived from a/an:",
+    "stem": "The meteorological term 'Monsoon' is historically derived from the word 'Mausim' originating from which language?",
     "options": {
       "opt_a": "Italian word",
       "opt_b": "Latin word",
@@ -16045,7 +16045,7 @@
   },
   {
     "id": 4120,
-    "stem": "Exfoliation is a form of _________.",
+    "stem": "Exfoliation (onion-skin weathering) involving the peeling off of curved outer rock sheets is categorized under which type of weathering?",
     "options": {
       "opt_a": "physical weathering",
       "opt_b": "chemical weathering",
@@ -17445,7 +17445,7 @@
   },
   {
     "id": 4140,
-    "stem": "The Vienna Convention is related to ____________.",
+    "stem": "The landmark 1985 Vienna Convention was internationally adopted for the protection and preservation of which environmental resource?",
     "options": {
       "opt_a": "protection of wild life",
       "opt_b": "protection of ozone layer",
@@ -17515,7 +17515,7 @@
   },
   {
     "id": 4141,
-    "stem": "Select the correct statement about climax community.",
+    "stem": "Which of the following statements most accurately defines a 'climax community' in the trajectory of ecological succession?",
     "options": {
       "opt_a": "It is an ecological community in which populations of plants or animals, which are very unstable and exist for very few time.",
       "opt_b": "It is a very first community of the ecosystem.",

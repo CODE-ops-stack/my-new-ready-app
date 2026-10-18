@@ -22833,7 +22833,7 @@
       "opt_d": "Neither 1 nor 2"
     },
     "correctAnswer": "opt_b",
-    "explanation": "The correct answer is: 2 only. 2 only. Geoid refers to the shape of the Earth, not its axis. This is a key concept in Earth's Interior, Rocks & Plate Tectonics that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "The true physical shape of the Earth is scientifically described as an 'Oblate Spheroid' or simply a 'Geoid' (literally meaning 'earth-shaped'). Statement 1 is incorrect because the Geoid describes the equipotential surface of the Earth's gravity field that approximately coincides with mean sea level, not the Earth's axis of rotation (which is the imaginary line connecting the North and South Poles). Statement 2 is correct because the Earth's continuous axial rotation generates an outward centrifugal force that reaches its maximum at the equator (where rotational velocity is highest, ~1670 km/h) and diminishes to zero at the rotational poles. Over billions of years, this differential centrifugal force caused the Earth's ductile mantle and crust to deform, resulting in an equatorial bulge (equatorial diameter is ~12,756 km) and polar flattening (polar diameter is ~12,714 km, a difference of approximately 42 km).\n\n- Option A (1 only) is incorrect because Statement 1 erroneously equates the geoid with the rotational axis.\n- Option C (Both 1 and 2) is incorrect because Statement 1 is conceptually false.\n- Option D (Neither 1 nor 2) is incorrect because Statement 2 accurately describes polar flattening and equatorial bulging due to centrifugal rotation.\n\nMEMORY ANCHOR: Geoid = 'Earth-shaped' (Bulging Belly at Equator, Flattened Caps at Poles).",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -23525,7 +23525,7 @@
   },
   {
     "id": 764,
-    "stem": "Select the correct statement.",
+    "stem": "Which of the following statements regarding ecological pyramids and energy flow in an ecosystem is correct?",
     "options": {
       "opt_a": "The pyramid of energy is always upright.",
       "opt_b": "The pyramid of biomass is always inverted.",

@@ -9505,12 +9505,12 @@
   },
   {
     "id": 3110,
-    "stem": "_________ oblong orbit overlaps the orbit of Neptune.",
+    "stem": "Which of the following celestial bodies possesses an eccentric, oblong orbit that periodically intersects and crosses inside the orbital path of Neptune?",
     "options": {
-      "opt_a": "Jupiter’s",
-      "opt_b": "Pluto’s",
-      "opt_c": "Venus’",
-      "opt_d": "Mars’"
+      "opt_a": "Jupiter",
+      "opt_b": "Pluto",
+      "opt_c": "Venus",
+      "opt_d": "Mars"
     },
     "correctAnswer": "opt_b",
     "explanation": "Pluto’s. Neptune is the outermost Jovian planet in the solar system. Until 2006 Pluto was the farthest planet from the Sun. In 2006, The International Astronomical Union (IAU) downgraded the status of Pluto to that of a dwarf planet. The Jovian planets are Jupiter, Saturn, Uranus, and Neptune, which are also known as the gas giants.",
@@ -9575,7 +9575,7 @@
   },
   {
     "id": 3111,
-    "stem": "Perihelion is when Earth is ______.",
+    "stem": "The astronomical term 'Perihelion' describes the orbital position when the Earth is at what relative distance from the Sun?",
     "options": {
       "opt_a": "under the sun",
       "opt_b": "farthest from the sun",
@@ -10135,15 +10135,15 @@
   },
   {
     "id": 3119,
-    "stem": "Match the following. 1. Ranthambore National Park",
+    "stem": "Match the National Parks with their respective States in India:\n1. Ranthambore National Park\n2. Bandipur National Park\n3. Mudumalai National Park\n\nList of States:\na. Tamil Nadu\nb. Rajasthan\nc. Karnataka",
     "options": {
-      "opt_a": "Tamil Nadu 2. Bandipur National Park",
-      "opt_b": "Rajasthan 3. Mudumalai National Park",
-      "opt_c": "Karnataka",
-      "opt_d": "1-a, 2-c, 3-b"
+      "opt_a": "1-b, 2-c, 3-a",
+      "opt_b": "1-a, 2-b, 3-c",
+      "opt_c": "1-c, 2-a, 3-b",
+      "opt_d": "1-b, 2-a, 3-c"
     },
-    "correctAnswer": "opt_d",
-    "explanation": "The correct answer is: 1-a, 2-c, 3-b. 1-b, 2-c, 3-a. This is a key concept in Soils & Natural Vegetation of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "correctAnswer": "opt_a",
+    "explanation": "Ranthambore National Park is situated in the Sawai Madhopur district of Rajasthan (famous for Royal Bengal tigers, matches b). Bandipur National Park is located in the Chamarajanagar district of Karnataka, forming part of the Nilgiri Biosphere Reserve (matches c). Mudumalai National Park is in the Nilgiris district of Tamil Nadu at the tri-junction of Tamil Nadu, Karnataka, and Kerala (matches a). Hence, the correct combination is 1-b, 2-c, 3-a.\n\n- Option B is incorrect because Ranthambore is in Rajasthan, not Tamil Nadu.\n- Option C is incorrect because Bandipur is in Karnataka, not Tamil Nadu.\n- Option D is incorrect because it swaps the locations of Bandipur and Mudumalai.\n\n💡 MEMORY ANCHOR: Ranthambore = Rajasthan, Bandipur = Karnataka, Mudumalai = Tamil Nadu.",
     "distractorDissections": [
       {
         "optionId": "opt_a",

@@ -2665,7 +2665,7 @@
   },
   {
     "id": 2007,
-    "stem": "The 10 Degree Channel separates:",
+    "stem": "The Ten Degree Channel in the Bay of Bengal geographically separates which of the following island entities?",
     "options": {
       "opt_a": "Andaman and Nicobar Islands",
       "opt_b": "Lakshadweep and Maldives",
@@ -2737,7 +2737,7 @@
   },
   {
     "id": 2008,
-    "stem": "The Mahadeo Hills are located to the:",
+    "stem": "In the central Indian upland topography, the Mahadeo Hills are situated in which direction relative to the Maikal Range?",
     "options": {
       "opt_a": "East of the Maikal Range",
       "opt_b": "West of the Maikal Range",
@@ -15337,7 +15337,7 @@
       "opt_d": "A–i, B–iii, C–iv, D–ii"
     },
     "correctAnswer": "opt_a",
-    "explanation": "The correct answer is: A–ii, B–iii, C–iv, D–i. A–ii, B–iii, C–iv, D–i. This is a key concept in Physiography of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "Planetary rotation periods vary widely: Earth rotates once in 23 hours 56 minutes (sidereal day). Jupiter rotates once in approximately 9 hours 56 minutes, making it the fastest-spinning planet despite its immense size. Saturn completes one rotation in about 10 hours 40 minutes with differential rotation. Uranus takes approximately 17 hours 14 minutes on its unusually retrograde and tilted (98 degrees) axis. Thus correct matching: Earth=ii, Jupiter=iii, Saturn=iv, Uranus=i.\n\n- Option B is incorrect because it erroneously assigns Saturn's period to Earth.\n- Option C is incorrect because it swaps Saturn and Jupiter rotation periods.\n- Option D is incorrect because it assigns Uranus's period to Earth.\n\nMEMORY ANCHOR: Fast Gas Giants: Jupiter (9h 56m) less than Saturn (10h 40m) less than Uranus (17h 14m) less than Earth (24h).",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -15757,7 +15757,7 @@
       "opt_d": "A–ii, B–iv, C–iii, D–i"
     },
     "correctAnswer": "opt_a",
-    "explanation": "The correct answer is: A–ii, B–iii, C–i, D–iv. A–ii, B–iii, C–i, D–iv. This is a key concept in Physiography of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "Latitudinal channels in the Indian Ocean define key maritime passages: 8 Degree Channel passes between Minicoy Island (India) and the northernmost Maldive atolls. 9 Degree Channel separates Minicoy from the main Lakshadweep archipelago. 10 Degree Channel traverses the Bay of Bengal, dividing Little Andaman from Car Nicobar. 11 Degree Channel bisects Lakshadweep into Amindivi Islands (north) and Cannanore Islands (south). Correct matching: A=ii, B=iii, C=i, D=iv.\n\n- Option B is incorrect as it places 8 Degree Channel between Minicoy and Lakshadweep.\n- Option C is incorrect as it confuses 8 Degree with 11 Degree Channel.\n- Option D reverses positions of 9 and 11 degree channels.\n\nMEMORY ANCHOR: South to North Channels: 8 (Maldives-Minicoy), 9 (Minicoy-Lakshadweep), 10 (Andaman-Nicobar), 11 (Amindivi-Cannanore).",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -16169,7 +16169,7 @@
   },
   {
     "id": 2195,
-    "stem": "In the context of water bodies, Neap Tides occur :",
+    "stem": "In the oceanic tidal cycle, under which of the following astronomical configurations do Neap Tides occur?",
     "options": {
       "opt_a": "when the earth, moon and sun line up in a straight line",
       "opt_b": "when the sun and moon are on the opposite sides",
@@ -16309,7 +16309,7 @@
   },
   {
     "id": 2197,
-    "stem": "The thermocline layer is the ______ layer of the ocean.",
+    "stem": "In the vertical thermal stratification of ocean waters, the thermocline represents which sequential layer?",
     "options": {
       "opt_a": "second",
       "opt_b": "third",
@@ -16947,7 +16947,7 @@
       "opt_d": "replenishment"
     },
     "correctAnswer": "opt_a",
-    "explanation": "The correct answer is: Infiltration. Infiltr ation occurs when surface water enters the soil. This is a key concept in Physiography of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "Infiltration is the physical hydrological process by which surface water from rainfall, snowmelt, or irrigation enters and permeates downward into the soil profile through the ground surface. The maximum rate at which a given soil can absorb water is termed its infiltration capacity, which depends on soil porosity, texture, organic matter content, soil moisture levels, and vegetative cover. Once water infiltrates, gravitational forces cause it to move deeper through subsurface strata in percolation, ultimately recharging groundwater tables.\n\n- Option B (depletion) is incorrect because depletion refers to extraction or loss of stored water.\n- Option C (storage) is incorrect because storage refers to retention in reservoirs, not the dynamic entry mechanism.\n- Option D (replenishment) is incorrect because replenishment describes the cumulative result, not the specific entry process.\n\nMEMORY ANCHOR: Infiltration = IN-to the Soil Surface; Percolation = Pores downward to Groundwater.",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -17359,7 +17359,7 @@
   },
   {
     "id": 2212,
-    "stem": "Trishulganga is a stream of the river:",
+    "stem": "The Trishulganga is a prominent headstream and tributary of which of the following river systems?",
     "options": {
       "opt_a": "Ghaghara",
       "opt_b": "Beas",
@@ -17429,7 +17429,7 @@
   },
   {
     "id": 2213,
-    "stem": "Tila, Seti and Beri are the tributaries of :",
+    "stem": "The Tila, Seti, and Beri rivers are important tributaries of which of the following major Himalayan rivers?",
     "options": {
       "opt_a": "Tamsa",
       "opt_b": "Ghaghara",
@@ -17647,7 +17647,7 @@
       "opt_d": "Krishna"
     },
     "correctAnswer": "opt_d",
-    "explanation": "The correct answer is: Krishna. Krishna . This is a key concept in Physiography of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "The Krishna River (1,400 km) originates near Mahabaleshwar in Maharashtra's Western Ghats and drains into the Bay of Bengal. Its principal tributaries include: Left bank - Bhima (longest), Dindi, Musi, Munneru, Yerla; Right bank - Koyna, Warna, Panchganga, Ghataprabha, Malaprabha, Tungabhadra. Yerla, Warna, and Dindi are all integral tributaries of the Krishna river system.\n\n- Option A (Brahmaputra) is incorrect; its tributaries include Subansiri, Kameng, Manas, Sankosh, and Teesta.\n- Option B (Godavari) is incorrect; its tributaries include Penganga, Wainganga, Wardha, Pranhita, Indravati.\n- Option C (Kaveri) is incorrect; its tributaries include Harangi, Hemavati, Shimsha, Kabini, Bhavani, Amaravati.\n\nMEMORY ANCHOR: Krishna's Left Bank: Bhima, Musi, Dindi, Yerla; Right Bank: Koyna, Tungabhadra, Ghataprabha, Warna.",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -18689,7 +18689,7 @@
   },
   {
     "id": 2231,
-    "stem": "Identify the step that is NOT a part of decomposition.",
+    "stem": "Which of the following processes is NOT an integral functional step in ecological decomposition?",
     "options": {
       "opt_a": "Leaching",
       "opt_b": "Humification",
@@ -18899,7 +18899,7 @@
   },
   {
     "id": 2234,
-    "stem": "________ leaves are used to make bidis.",
+    "stem": "Leaves of which of the following indigenous forest trees are primarily harvested and commercially utilized for manufacturing bidis in India?",
     "options": {
       "opt_a": "Neem",
       "opt_b": "Champa",
@@ -19257,7 +19257,7 @@
       "opt_d": "The Middle vertical includes medium-sized shrubs and trees."
     },
     "correctAnswer": "opt_c",
-    "explanation": "The correct answer is: The Bottom vertical contains medium-sized shrubs and trees.. Bottom vertical - It contains the shortest plants in a forest ecosystem, such as mosses and ferns.",
+    "explanation": "Forest stratification refers to the vertical arrangement of plant communities into distinct horizontal layers: Top/Emergent canopy layer (tallest mature forest trees), Second/Sub-canopy layer (smaller understory trees and saplings), Middle/Shrub layer (woody perennial shrubs, 1-5 metres height), Bottom/Ground layer (herbs, grasses, ferns, mosses under 1 metre). Statement C is NOT correct because medium-sized shrubs occupy the middle vertical stratum, whereas the bottom stratum is restricted to ground-hugging herbs and mosses.\n\n- Option A is a correct statement: mature canopy trees constitute the topmost layer.\n- Option B is a correct statement: small trees occupy the secondary stratum.\n- Option D is a correct statement: medium shrubs and bushes form the middle tier.\n\nMEMORY ANCHOR: Forest Stratification Top to Bottom: Canopy Trees, Understory Small Trees, Shrub Layer (Middle), Ground Layer Mosses and Herbs.",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -19739,7 +19739,7 @@
   },
   {
     "id": 2246,
-    "stem": "Western disturbances are responsible for:",
+    "stem": "Western Cyclonic Disturbances originating over the Mediterranean Sea are primarily responsible for which of the following weather phenomena in India?",
     "options": {
       "opt_a": "dusty storms in eastern coastal area of India",
       "opt_b": "hot winds during summers in northern India",
@@ -20789,7 +20789,7 @@
   },
   {
     "id": 2261,
-    "stem": "Which of the following statements is/are correct I. Maximum National Parks in India are located in the state of Madhya Pradesh. II. Mudumalai National Park is located in Kerala. www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography III. The Salim Ali Centre for Ornithology and Natural History is located in Tamil Nadu.",
+    "stem": "Which of the following statements is/are correct regarding National Parks and conservation bodies in India?\nI. The maximum number of National Parks in India are located in Madhya Pradesh.\nII. Mudumalai National Park is located in Kerala.\nIII. The Salim Ali Centre for Ornithology and Natural History is located in Tamil Nadu.",
     "options": {
       "opt_a": "Both I and II are correct",
       "opt_b": "Both I and III are correct",
@@ -21217,7 +21217,7 @@
       "opt_d": "Kerala"
     },
     "correctAnswer": "opt_a",
-    "explanation": "The correct answer is: Karnataka. Karnataka. This is a key concept in Physiography of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "Dandeli Wildlife Sanctuary is situated in the Uttara Kannada district of Karnataka, along the banks of the Kali River in the central Western Ghats. Covering over 866 sq km, it was integrated with the contiguous Anshi National Park in 2007 to form the Kali Tiger Reserve (2015). The sanctuary's dense moist deciduous and semi-evergreen forests support Bengal tigers, leopards, Asian elephants, gaur, king cobras, and the rare melanistic leopard (black panther), alongside the Great Indian Hornbill.\n\n- Option B (Jharkhand) is incorrect; Jharkhand is home to Betla National Park and Dalma Wildlife Sanctuary.\n- Option C (Sikkim) is incorrect; Sikkim hosts Khangchendzonga National Park.\n- Option D (Kerala) is incorrect; Kerala hosts Periyar, Wayanad, Parambikulam sanctuaries.\n\nMEMORY ANCHOR: Dandeli on Kali River = Dense Karnataka Western Ghats (Home of the Black Panther).",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -21699,7 +21699,7 @@
   },
   {
     "id": 2274,
-    "stem": "Purvanchal Himalayas does NOT comprise of :",
+    "stem": "The Purvanchal (Eastern Hills) complex of the Himalayas does NOT comprise which of the following mountain ranges?",
     "options": {
       "opt_a": "Naga hills",
       "opt_b": "Pir Panjal range",
@@ -22049,7 +22049,7 @@
   },
   {
     "id": 2279,
-    "stem": "The Himalayas' outermost range is called __________.",
+    "stem": "What is the southernmost and outermost longitudinal structural range of the Himalayas known as?",
     "options": {
       "opt_a": "Shiwaliks",
       "opt_b": "Kanchenjunga",
@@ -22337,7 +22337,7 @@
       "opt_d": "Only c and d"
     },
     "correctAnswer": "opt_c",
-    "explanation": "The correct answer is: a and c. a and c. The highest peak in the Western Ghats is Anamudi (2,695 metres). This is a key concept in Physiography of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "The Western Ghats (Sahyadris) run north-to-south along India's western peninsular margin. Statement a is correct: Elevation progressively increases from north to south, starting from 900-1000 metres in Maharashtra and rising above 2,000 metres in the Nilgiris and Anaimalai Hills, culminating in Anamudi (2,695 m) in Kerala. Statement b is incorrect: Mahendragiri (1,501 m) is in the Eastern Ghats of Odisha, not Western Ghats. Statement c is correct: Western Ghats average 900-1,600 metres, substantially higher than the Eastern Ghats averaging ~600 metres. Statement d is incorrect because height increases, not decreases, towards the south. Thus statements a and c are correct.\n\n- Option A is incorrect because statements b and d are false.\n- Option B is incorrect because statement b is false.\n- Option D is incorrect because statement d is false.\n\nMEMORY ANCHOR: Western Ghats: Height Increases Southward to Anamudi; Eastern Ghats: Lower and Broken.",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -22757,7 +22757,7 @@
       "opt_d": "2 and 3"
     },
     "correctAnswer": "opt_b",
-    "explanation": "The correct answer is: Only 2. Only 2. Kalimpong is in West Bengal. This is a key concept in Physiography of India that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "Evaluating each statement: Statement 1 is correct - Tawang is a prominent high-altitude district in western Arunachal Pradesh, home to the 400-year-old Tawang Monastery, the largest Tibetan Buddhist monastery in India. Statement 2 is incorrect - Kalimpong was carved out of Darjeeling district in February 2017 to become the 21st administrative district of West Bengal, NOT Sikkim. Statement 3 is correct - Alipurduar and Jalpaiguri are both northern districts in the Dooars-Terai region of West Bengal. The question asks for the INCORRECT statement, so Statement 2 is the answer.\n\n- Option A is incorrect because Statement 1 is factually accurate.\n- Option C is incorrect because Statement 3 is factually accurate.\n- Option D is incorrect because Statement 3 is factually accurate.\n\nMEMORY ANCHOR: Kalimpong and Darjeeling = West Bengal Hill Districts (NOT Sikkim).",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -23379,7 +23379,7 @@
   },
   {
     "id": 2298,
-    "stem": "Select the natural port of India from the following.",
+    "stem": "Which of the following is a prominent naturally sheltered deep-water harbour and port on the western coast of India?",
     "options": {
       "opt_a": "Mumbai Port",
       "opt_b": "Chennai Port",
@@ -26039,7 +26039,7 @@
   },
   {
     "id": 2336,
-    "stem": "Asia is separated from Europe by ______ mountains.",
+    "stem": "The continental landmass of Asia is physically separated from Europe by which of the following mountain ranges?",
     "options": {
       "opt_a": "Himalayan",
       "opt_b": "Andes Mountains",
@@ -26179,7 +26179,7 @@
   },
   {
     "id": 2338,
-    "stem": "The uplifted blocks of block mountains are called ______.",
+    "stem": "In fault-block mountain topography, the elevated or uplifted blocks bounded by normal faults are technically known as what?",
     "options": {
       "opt_a": "horsts",
       "opt_b": "grabens",
@@ -26459,7 +26459,7 @@
   },
   {
     "id": 2342,
-    "stem": "The Deomali is the highest mountain peak of ______.",
+    "stem": "Deomali, standing at an elevation of approximately 1,672 metres, is the highest mountain peak of which Indian State?",
     "options": {
       "opt_a": "Assam",
       "opt_b": "West Bengal",
@@ -26747,7 +26747,7 @@
       "opt_d": "Shevaroy Hills"
     },
     "correctAnswer": "opt_b",
-    "explanation": "The correct answer is: Karbi Anglong Hills. Karbi Anglong Hills . Javadi Hills and Shevaroy Hills are located in Tamil Nadu.",
+    "explanation": "The Karbi Anglong Hills are situated in the Karbi Anglong district of central Assam. Geologically, these hills represent an ancient detached eastern outlier of the Indian Peninsular Shield, not part of the folded Himalayan mountain system. They were separated from the main Chota Nagpur Plateau during the Rajmahal volcanic phase by the Garo-Rajmahal Gap (Malda Fault), subsequently filled with alluvial sediments by the Ganga and Brahmaputra rivers. The Karbi Anglong plateau is dissected by major Brahmaputra tributaries including the Kopili and Dhansiri rivers.\n\n- Option A (Aravali Hills) is incorrect; the Aravallis form an ancient mountain belt across Gujarat, Rajasthan, Haryana, and Delhi.\n- Option C (Javadi Hills) is incorrect; Javadi Hills are in northern Tamil Nadu in the Eastern Ghats.\n- Option D (Shevaroy Hills) is incorrect; the Shevaroy Hills are near Salem in Tamil Nadu.\n\nMEMORY ANCHOR: Karbi Anglong and Mikir Hills = Peninsular Outlier in Assam; Shevaroy and Javadi = Tamil Nadu Eastern Ghats.",
     "distractorDissections": [
       {
         "optionId": "opt_a",
@@ -27439,7 +27439,7 @@
   },
   {
     "id": 2356,
-    "stem": "Copacabana beach is situated in __________.",
+    "stem": "The world-famous Copacabana beach is situated in which of the following countries?",
     "options": {
       "opt_a": "Australia",
       "opt_b": "Brazil",

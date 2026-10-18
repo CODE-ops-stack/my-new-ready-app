@@ -4681,7 +4681,7 @@
   },
   {
     "id": 1205,
-    "stem": "The Madden-Julian Oscillation (MJO) is best described as:",
+    "stem": "Which of the following statements best describes the Madden-Julian Oscillation (MJO)?",
     "options": {
       "opt_a": "A permanent stationary atmospheric wave system anchored over the equatorial Atlantic Ocean.",
       "opt_b": "A planetary-scale eastward-moving disturbance of clouds, rainfall, winds, and pressure spanning the tropics.",
@@ -9607,7 +9607,7 @@
   },
   {
     "id": 1274,
-    "stem": "The cold snow forest climate is found largely in the continental region in the Northern Hemisphere between _______ northern latitudes in Europe, Asia www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography and North America",
+    "stem": "Between which of the following northern latitudes is the cold snow forest climate (Taiga / Boreal) predominantly found?",
     "options": {
       "opt_a": "40°- 70°",
       "opt_b": "30°- 50°",
@@ -9615,7 +9615,7 @@
       "opt_d": "15°- 20°"
     },
     "correctAnswer": "opt_a",
-    "explanation": "The correct answer is: 40°- 70°. 40°-70°. India has a tropical climate because of the Himalayan mountain. This is a key concept in Atmosphere, Winds & Climate Systems that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "The cold snow forest (Taiga) climate spans 40 to 70 degrees North latitude across continental interiors of North America and Eurasia. It features brief warm summers and long severe winters with heavy snowfall. Coniferous forests (spruce, pine, larch, fir) dominate this zone. It does not exist in the Southern Hemisphere due to the absence of large landmasses at those latitudes.\n\nMEMORY ANCHOR: Taiga Belt = 40 to 70 North, Continental Asia and North America only.",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -10517,7 +10517,7 @@
   },
   {
     "id": 1287,
-    "stem": "The outermost part of the Earth is known as __________.",
+    "stem": "What is the outermost solid mechanical and chemical layer of the Earth known as?",
     "options": {
       "opt_a": "volcano",
       "opt_b": "the crust",
@@ -10587,7 +10587,7 @@
   },
   {
     "id": 1288,
-    "stem": "Mushroom rocks are formed due to _____.",
+    "stem": "Mushroom rocks (pedestal rocks) are characteristic landforms formed predominantly due to which of the following processes?",
     "options": {
       "opt_a": "glacial deposition",
       "opt_b": "deposition of sea waves",
@@ -10735,7 +10735,7 @@
       "opt_d": "A-4, B-1, C-3, D-2"
     },
     "correctAnswer": "opt_a",
-    "explanation": "The correct answer is: A-2, B-3, C-4, D-1. A-2, B-3, C-4, D-1. This is a key concept in Atmosphere, Winds & Climate Systems that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
+    "explanation": "In Indian agricultural land-use classification, land resources are divided into nine standard categories. 'Land under Miscellaneous Tree Crops and Groves' (A) includes cultivable land used for casuarina trees, bamboo clumps, and privately owned fruit orchards (matches 2). 'Culturable Wasteland' (B) is land available for cultivation that has not been cultivated for more than five successive years (matches 3). 'Current Fallow' (C) represents cropped land kept unseeded during the current agricultural year to restore soil fertility (matches 4). 'Fallow other than Current Fallow' (D) is agricultural land left uncultivated for a period between one and five years (matches 1). Thus, the correct matching is A-2, B-3, C-4, D-1.\n\n- Option B is incorrect because it confuses tree crops with land uncultivated over 5 years.\n- Option C is incorrect because it assigns orchard land to fallow classifications.\n- Option D is incorrect because it pairs current fallow with wasteland parameters.\n\nMEMORY ANCHOR: Fallow Timeline: Current = up to 1 yr | Other Fallow 1-5 yrs | Culturable Wasteland more than 5 yrs.",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -10867,7 +10867,7 @@
   },
   {
     "id": 1292,
-    "stem": "The term physical geology was coined by __________.",
+    "stem": "By which of the following pioneering geologists was the term 'Physical Geology' coined?",
     "options": {
       "opt_a": "William Hopkins",
       "opt_b": "Georgius Agricola",
