@@ -34,7 +34,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "1",
     "originalTopicId": 7,
     "originalTopicName": "Our Country — India",
-    "examTarget": "SSC CGL",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4e09cb8a",
       "questionStem": "Consider the following statements regarding the journey and evolution of the Indian landmass:\n1. India was originally a large island situated off the Australian coast and separated from Asia by the Tethys Sea.\n2. The outpouring of lava to form the Deccan Traps began around 60 million years ago while the subcontinent was close to the equator.\nWhich of the statements given above is/are correct?",
@@ -68,7 +68,8 @@
         "specificExam": "SSC CGL"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 43
   },
   {
     "id": 1792,
@@ -105,7 +106,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_69bad67d",
       "questionStem": "Which of the following islands or island groups of India is of volcanic origin, possessing active or dormant volcanic features?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 1793,
@@ -176,7 +178,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b5d9efa3",
       "questionStem": "Consider the following pairs of Himalayan ranges and their characteristic features:\n1. Greater Himalayas (Himadri): Composed primarily of crystalline rocks, snow-bound throughout the year, and contains core synclinal basins.\n2. Lesser Himalayas (Himachal): Composed of highly compressed and altered rocks, featuring famous hill stations like Nainital and well-known flat-bottomed structural valleys known as duns.\n3. Shiwaliks: The outermost southern foothills composed of unconsolidated sediments brought down by rivers from the main Himalayan ranges.\nHow many pairs are correctly matched?",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 44
   },
   {
     "id": 1794,
@@ -247,7 +250,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5a73655b",
       "questionStem": "Which of the following meridians is accepted as the Standard Meridian of India, passing through Mirzapur in Uttar Pradesh?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 1795,
@@ -318,7 +322,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0f1fa1a2",
       "questionStem": "Which of the following water bodies separates the Andaman Islands from the Nicobar Islands?",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 3
   },
   {
     "id": 1796,
@@ -389,7 +394,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e464b46c",
       "questionStem": "Which of the following states of India shares boundaries with the maximum number of other Indian states?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 4
   },
   {
     "id": 1797,
@@ -460,7 +466,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4b750b3d",
       "questionStem": "Which of the following Indian states does NOT share an international land border with any other country?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 5
   },
   {
     "id": 1798,
@@ -531,7 +538,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c87a2dc6",
       "questionStem": "Which of the following represents the southernmost point of the Indian Union, previously known as Pygmalion Point?",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 6
   },
   {
     "id": 1799,
@@ -602,7 +610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c07add5f",
       "questionStem": "Consider the following statements regarding the latitudinal and longitudinal extent of India:\n1. The latitudinal and longitudinal extent of the Indian mainland are roughly the same in degrees, spanning approximately 30 degrees.\n2. The actual east-west distance of India is greater than its north-south distance because lines of longitude converge at the poles.\n\nWhich of the statements given above is/are correct?",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 45
   },
   {
     "id": 1800,
@@ -673,7 +682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9caf493d",
       "questionStem": "Consider the following statements regarding the Northern Plains of India:\n1. The Bhabar belt is a narrow, porous tract along the foothills of the Shiwaliks where small streams disappear underground.\n2. The Terai region lies south of Bhabar, characterized by wet, swampy, and marshy conditions with thick natural vegetation and rich wildlife.\n3. The Bhangar plain comprises newer, younger deposits of the floodplains which are enriched by fresh silt deposits almost every year.\n\nHow many of the statements given above are correct?",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 46
   },
   {
     "id": 1801,
@@ -744,7 +754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4ada63b5",
       "questionStem": "Consider the following statements regarding the Peninsular river systems:\n1. The Godavari is the longest river of Peninsular India, and its basin extends over states including Maharashtra, Chhattisgarh, Odisha, and Andhra Pradesh.\n2. Unlike Himalayan rivers, all major Peninsular rivers follow strict west-to-east or east-to-west structural trends dictated by ancient fault lines.\n3. The Cauvery river basin receives rainfall from both the Southwest and Northeast monsoon seasons, making its flow regime less dependent on a single monsoon peak than other southern rivers.\nHow many of the above statements are correct?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 47
   },
   {
     "id": 1802,
@@ -815,7 +826,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "1",
     "originalTopicId": 7,
     "originalTopicName": "Our Country — India",
-    "examTarget": "SSC CGL",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_45908283",
       "questionStem": "Consider the following statements about Dykes:\n1. They are formed when lava solidifies almost perpendicular to the ground in cracks and fissures, forming a wall-like structure.\n2. They are considered the feeders for the volcanic eruptions that created the Deccan Traps.\nWhich of the statements given above is/are correct?",
@@ -849,7 +860,8 @@
         "specificExam": "SSC CGL"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 48
   },
   {
     "id": 1803,
@@ -886,7 +898,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e9e4d5ac",
       "questionStem": "Consider the following pairs relating to Indian island groups and their geographical markers:\n1. Ten Degree Channel: Separates the Andaman group from the Nicobar group of islands.\n2. Duncan Passage: Separates Little Andaman from Car Nicobar.\n3. Minicoy Island: Separated from the rest of the Lakshadweep group by the Eight Degree Channel.\nHow many pairs are correctly matched?",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 49
   },
   {
     "id": 1804,
@@ -957,7 +970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -966,7 +979,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6df5b457",
       "questionStem": "Consider the following statements regarding India's coastline:\n1. The total length of the coastline of the mainland, including Andaman & Nicobar and Lakshadweep islands, is approximately 7,516.6 km.\n2. Gujarat has the longest coastline among all Indian states.\n3. Among the peninsular states, Andhra Pradesh has the second-longest coastline after Gujarat.\nHow many of the above statements are correct?",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 50
   },
   {
     "id": 1805,
@@ -1028,7 +1042,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1037,7 +1051,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6f20825e",
       "questionStem": "Consider the following statements regarding the latitudinal and longitudinal extent of India:\n1. The latitudinal and longitudinal extent of the Indian mainland are roughly the same in degrees, measuring about 30 degrees.\n2. The actual ground distance corresponding to one degree of latitude is slightly longer near the southern tip of India compared to the northern frontier due to the oblate spheroid shape of the Earth.\n3. The longitudinal difference between the westernmost point in Gujarat and the easternmost point in Arunachal Pradesh causes a local time lag of approximately two hours.\nHow many of the above statements are correct?",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 51
   },
   {
     "id": 1806,
@@ -1099,7 +1114,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1108,7 +1123,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_825254d8",
       "questionStem": "Consider the following pairs regarding the states through which the Tropic of Cancer (23°30'N) passes, arranged in a sequence from West to East:\n1. Gujarat\n2. Madhya Pradesh\n3. Chhattisgarh\n4. Tripura\nHow many of the above pairs are correctly matched in correct west-to-east sequence?",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 73
   },
   {
     "id": 1807,
@@ -1170,7 +1186,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1179,7 +1195,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_57c21a6e",
       "questionStem": "Consider the following countries sharing a land border with India:\n1. Myanmar\n2. Afghanistan\n3. Bhutan\n4. Tajikistan\nHow many of the above share a land boundary with India?",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 74
   },
   {
     "id": 1808,
@@ -1241,7 +1258,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1250,7 +1267,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_936671ff",
       "questionStem": "Assertion (A): The southern part of India lies within the tropics, while the northern part lies in the sub-tropical or warm temperate zone.\nReason (R): The Tropic of Cancer divides the country into almost two equal halves, giving India distinct tropical characteristics in the south and temperate attributes in the north.",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 75
   },
   {
     "id": 1809,
@@ -1312,7 +1330,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1321,7 +1339,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_82e459cf",
       "questionStem": "Consider the following statements regarding India's maritime boundaries and territorial waters:\n1. The territorial waters of India extend up to 12 nautical miles from the baseline.\n2. The Exclusive Economic Zone (EEZ) extends up to 200 nautical miles from the coast, granting rights for resource exploration.\n3. The contiguous zone extends to 24 nautical miles from the baseline, within which India exercises fiscal and immigration control.\nHow many of the above statements are correct?",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 52
   },
   {
     "id": 1810,
@@ -1383,7 +1402,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1392,7 +1411,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_559b3ff1",
       "questionStem": "Consider the following statements regarding the strategic and geographical significance of India's location:\n1. The Indian peninsula projecting into the Indian Ocean provides central linkage between West Asia, East Asia, and Africa.\n2. The trans-Indian Ocean routes which connect European countries in the West and countries of East Asia provide a strategic central hub position to India.\n3. The northern mountain ranges act as an impenetrable barrier that completely prevents the movement of cold polar winds into the subcontinent during winter.",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 53
   },
   {
     "id": 1811,
@@ -1454,7 +1474,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1463,7 +1483,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f112f732",
       "questionStem": "Consider the following pairs of neighboring countries and their separating maritime boundary lines/gaps with India:\n1. India and Sri Lanka — Palk Strait and Gulf of Mannar\n2. India and Maldives — Eight Degree Channel\n3. India and Indonesia — Six Degree Channel\nHow many of the above pairs are correctly matched?",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 1812,
@@ -1525,7 +1546,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1534,7 +1555,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9c287c96",
       "questionStem": "Which of the following mountain passes is incorrectly matched with the Himalayan range or state where it predominantly facilitates trans-Himalayan communication?",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 7
   },
   {
     "id": 1813,
@@ -1596,7 +1618,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1605,7 +1627,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4c6d9021",
       "questionStem": "Statement-I: The Peninsular river systems are older and have achieved a graded profile with mature valleys compared to the Himalayan river systems.\nStatement-II: The geological evolution of the Peninsular plateau dates back to the breakup of the Gondwana landmass, whereas the Himalayas are young fold mountains formed by active tectonic convergence.",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 76
   },
   {
     "id": 1814,
@@ -1667,7 +1690,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1676,7 +1699,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f495161c",
       "questionStem": "Which of the following statements is NOT correct regarding the Standard Meridian of India and Indian Standard Time (IST)?",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 55
   },
   {
     "id": 1815,
@@ -1738,7 +1762,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1747,7 +1771,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e24e1f85",
       "questionStem": "Which of the following drainage patterns is most likely to develop in regions characterized by a dome-like structure, youthful topography, or volcanic cones where streams radiate outwards from a central high point?",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 56
   },
   {
     "id": 1816,
@@ -1809,7 +1834,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1818,7 +1843,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ed846bf4",
       "questionStem": "Statement-I: The western coastal plains of India are narrower and act as submergent coastal plains, whereas the eastern coastal plains are broader and represent emergent coastal plains.\nStatement-II: The western coast lacks major delta formations and features estuaries, while the eastern coast is marked by large delta systems formed by eastward-flowing peninsular rivers.",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 77
   },
   {
     "id": 1817,
@@ -1880,7 +1906,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1889,7 +1915,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_90800bcb",
       "questionStem": "Which of the following river systems of India exhibits a classic 'iniclinal' or antecedent drainage character by cutting completely across the Himalayan mountain chain through deep gorges?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 8
   },
   {
     "id": 1818,
@@ -1951,7 +1978,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1960,7 +1987,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_275e40e7",
       "questionStem": "Statement-I: The southern part of the Peninsular Plateau experiences a seasonal reversal of wind systems, but it never experiences snow even at its highest elevations.\nStatement-II: The Nilgiri and Anaimalai hills, despite rising above 2,500 meters, lie well within the tropical zone and lack the sustained sub-zero winter temperatures required for snowfall.",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 78
   },
   {
     "id": 1819,
@@ -2022,7 +2050,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2031,7 +2059,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_66a8f76e",
       "questionStem": "Which of the following is NOT correct regarding the drainage systems and river morphologies of the Indian subcontinent?",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 57
   },
   {
     "id": 1820,
@@ -2093,7 +2122,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2102,7 +2131,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bbc7aee1",
       "questionStem": "A cargo vessel traveling along the coastal waters of India needs to anchor at a major port situated on a drowned ria coast that provides a natural deep-water harbor protected by off-shore islands. Which of the following ports matches this specific physiographic description?",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 58
   },
   {
     "id": 1821,
@@ -2164,7 +2194,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2173,7 +2203,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3822a088",
       "questionStem": "Statement-I: The Northern Plains of India are aggradation plains formed by the continuous deposition of silt brought down by three major river systems over millions of years.\nStatement-II: The depth of alluvium in the Northern Plains is uniform throughout, being shallowest near the Himalayan foothills and deepest near the Peninsular margin.",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 79
   },
   {
     "id": 1822,
@@ -2235,7 +2266,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2244,7 +2275,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9a22ce06",
       "questionStem": "Which of the following geographical features marks the boundary between the Malwa Plateau and the Chota Nagpur Plateau, acting as a major water divide between the Ganga and Narmada river basins?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 59
   },
   {
     "id": 1823,
@@ -2306,7 +2338,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2315,7 +2347,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "Our Country - India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c3600a43",
       "questionStem": "Consider the following statements regarding the Standard Meridian of India (82°30' E):\n1. It passes through five Indian states: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh.\n2. The chosen longitude passes precisely through the observatory in Mirzapur, near Prayagraj, and maintains an exact time lag of 5 hours ahead of Greenwich Mean Time (GMT).\n3. If the Standard Meridian of India were shifted westward to 75° E longitude, standard time would be advanced by 30 minutes.\nHow many of the above statements are correct?",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 60
   },
   {
     "id": 1824,
@@ -2377,7 +2410,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2386,7 +2419,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_938a76a1",
       "questionStem": "Consider the following statements regarding the latitudinal and longitudinal extent of India:\n1. The mainland of India extends between 8°4'N and 37°6'N latitudes.\n2. The latitudinal and longitudinal extent of India is roughly about 30 degrees, yet the actual distance East-West appears smaller than the North-South distance.\n3. The longitudinal extent directly influences the duration of tropical and subtropical climate types across the country.\nHow many of the above statements are correct?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 61
   },
   {
     "id": 1825,
@@ -2448,7 +2482,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2457,7 +2491,7 @@
     "originalTier": "Premium",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9c074fef",
       "questionStem": "Assertion (A): The time difference between the southernmost point of Gujarat and the easternmost point of Arunachal Pradesh is approximately two hours.\nReason (R): The earth rotates through 360 degrees in 24 hours, meaning a longitudinal difference of 1 degree translates to a time difference of 4 minutes across a span of roughly 30 degrees longitude.",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 80
   },
   {
     "id": 1826,
@@ -2519,7 +2554,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2528,7 +2563,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c784f78f",
       "questionStem": "Which of the following Indian states share an international boundary with both Myanmar and Bangladesh?",
@@ -2553,7 +2588,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 9
   },
   {
     "id": 1827,
@@ -2590,7 +2626,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2599,7 +2635,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e83dbf67",
       "questionStem": "Consider the following states of India:\n1. Sikkim\n2. West Bengal\n3. Assam\n4. Arunachal Pradesh\nWhich of the above states share a land border with Bhutan?",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 81
   },
   {
     "id": 1828,
@@ -2661,7 +2698,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2670,7 +2707,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5a81bc4b",
       "questionStem": "Consider the following Indian states:\n1. Arunachal Pradesh\n2. Manipur\n3. Meghalaya\n4. Mizoram\nWhich of the states given above share an international border with Myanmar?",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 82
   },
   {
     "id": 1829,
@@ -2732,7 +2770,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2741,7 +2779,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map_019",
       "questionStem": "Which of the following pairs of Indian States share borders with three different countries? 1. West Bengal 2. Sikkim 3. Arunachal Pradesh 4. Mizoram",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 10
   },
   {
     "id": 1830,
@@ -2803,7 +2842,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2812,7 +2851,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map1_d4e5f6",
       "questionStem": "If you travel in a straight line from Kohima to Kottayam, what is the minimum number of Indian states you will cross, excluding the origin and destination states?",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 11
   },
   {
     "id": 1831,
@@ -2874,7 +2914,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2883,7 +2923,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map1_j0k1l2",
       "questionStem": "Which of the following cities is located closest to the Indian Standard Meridian (82.5° E)?",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 12
   },
   {
     "id": 1832,
@@ -2945,7 +2986,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2954,7 +2995,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map1_h4i5j6",
       "questionStem": "Which of these pairs of State - Bordering Country is NOT correct?",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 13
   },
   {
     "id": 1833,
@@ -3016,7 +3058,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3025,7 +3067,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map1_t6u7v8",
       "questionStem": "The Tropic of Cancer passes through which of the following groups of states?",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 14
   },
   {
     "id": 1834,
@@ -3087,7 +3130,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3096,7 +3139,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map1_w9x0y1",
       "questionStem": "Which among the following states has the longest international border?",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 15
   },
   {
     "id": 1835,
@@ -3158,7 +3202,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map2_i9j0k1l2",
       "questionStem": "Which of the following countries do NOT share a land border with Myanmar? 1. Laos 2. Cambodia 3. Thailand 4. Vietnam",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 16
   },
   {
     "id": 1836,
@@ -3229,7 +3274,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3238,7 +3283,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map3_p6q7r8",
       "questionStem": "Which of the following Indian states shares its border with Myanmar?",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 17
   },
   {
     "id": 1837,
@@ -3300,7 +3346,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3309,7 +3355,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map3_e1f2g3",
       "questionStem": "Which of the following pairs of Indian states has BOTH an international land border and a coastline?",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 18
   },
   {
     "id": 1838,
@@ -3371,7 +3418,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3380,7 +3427,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map3_z2a3b4",
       "questionStem": "Identify the correct descending order of countries by the length of their international land border with India.",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 19
   },
   {
     "id": 1839,
@@ -3442,7 +3490,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3451,7 +3499,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map4_k7l8m9n0",
       "questionStem": "Which of the following Indian states share a border with Myanmar? 1. Arunachal Pradesh 2. Nagaland 3. Manipur 4. Mizoram 5. Tripura",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 20
   },
   {
     "id": 1840,
@@ -3513,7 +3562,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3522,7 +3571,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map5_o1p2q3r4",
       "questionStem": "The Oresund Strait, crossed by the famous Oresund Bridge, forms the border between which two countries?",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 21
   },
   {
     "id": 1841,
@@ -3584,7 +3634,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3593,7 +3643,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map5_i1j2k3l4",
       "questionStem": "The Palk Strait separates India (Tamil Nadu) from which neighboring country?",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 22
   },
   {
     "id": 1842,
@@ -3655,7 +3706,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3664,7 +3715,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map5_y7z8a9b0",
       "questionStem": "The Strait of Juan de Fuca forms part of the international boundary between which two countries?",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 23
   },
   {
     "id": 1843,
@@ -3726,7 +3778,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3735,7 +3787,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_m3n4o5",
       "questionStem": "Which of the following statements correctly describes the complex spatial borders of the Arabian Peninsula?",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 62
   },
   {
     "id": 1844,
@@ -3797,7 +3850,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3806,7 +3859,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_z2a3b4",
       "questionStem": "Which of the following ASEAN member nations share a land border with China? 1. Myanmar 2. Laos 3. Vietnam 4. Thailand Select the correct answer using the code given below:",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 24
   },
   {
     "id": 1845,
@@ -3868,7 +3922,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3877,7 +3931,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_c5d6e7",
       "questionStem": "Turkey occupies a highly strategic transcontinental location. Which of the following countries forms its easternmost land border?",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 25
   },
   {
     "id": 1846,
@@ -3939,7 +3994,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3948,7 +4003,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map8_7k8l",
       "questionStem": "The Pyrenees mountains form a formidable natural border separating the Iberian Peninsula from the rest of continental Europe, specifically between which two countries?",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 26
   },
   {
     "id": 1847,
@@ -4010,7 +4066,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4019,7 +4075,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_a1b2c3",
       "questionStem": "Which of the following sets of states is crossed by the Indian Standard Time (IST) meridian (82.5° E)?",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 27
   },
   {
     "id": 1848,
@@ -4081,7 +4138,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4090,7 +4147,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_m3n4o5",
       "questionStem": "A flight taking off from Delhi (approx 28.6° N, 77.2° E) to Thiruvananthapuram (approx 8.5° N, 76.9° E) will primarily travel in which direction?",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 28
   },
   {
     "id": 1849,
@@ -4152,7 +4210,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4161,7 +4219,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_k7l8m9",
       "questionStem": "The longitudinal extent of India is approximately 30 degrees, which translates to a time difference of roughly ______ between the easternmost and westernmost points.",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 29
   },
   {
     "id": 1850,
@@ -4223,7 +4282,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred3_3m4n5o",
       "questionStem": "With the recent expansion, BRICS now includes major oil-producing nations. Which of the following maritime choke points is bordered by TWO BRICS members?",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 30
   },
   {
     "id": 1851,
@@ -4294,7 +4354,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pin_06",
       "questionStem": "Rakhine State, frequently in the news due to the Rohingya crisis, shares its international land border with which of the following countries?",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 31
   },
   {
     "id": 1852,
@@ -4365,7 +4426,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4374,7 +4435,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pin_20",
       "questionStem": "The Ogaden region, an arid and sparsely populated area that has historically been a source of border conflict and insurgency, is located in which of the following countries?",
@@ -4399,7 +4460,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 32
   },
   {
     "id": 1853,
@@ -4436,7 +4498,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_d4e5f6",
       "questionStem": "The Gulf of Aqaba, a strategically important water body in the Middle East, is bordered by which of the following countries? 1. Egypt 2. Israel 3. Jordan 4. Saudi Arabia Select the correct answer using the code given below:",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 63
   },
   {
     "id": 1854,
@@ -4507,7 +4570,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4516,7 +4579,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_b8c9d0",
       "questionStem": "A traveler wants to move overland from India to Vietnam, minimizing the number of international border crossings. What is the minimum number of border crossings required, assuming the traveler strictly travels via land?",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 64
   },
   {
     "id": 1855,
@@ -4578,7 +4642,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_1a2b3c",
       "questionStem": "If you travel exactly along the Tropic of Cancer from West to East, which of the following sequences of states will you encounter?",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 33
   },
   {
     "id": 1856,
@@ -4649,7 +4714,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred3_9s0t1u",
       "questionStem": "The accession of Finland to NATO has fundamentally altered the security architecture of Northern Europe. Approximately by what factor did the NATO-Russia land border increase due to Finland's entry?",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 34
   },
   {
     "id": 1857,
@@ -4720,7 +4786,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4729,7 +4795,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pin_04",
       "questionStem": "The Nagorno-Karabakh region, which frequently appears in the news due to conflict, is a landlocked mountainous area primarily situated within the internationally recognized borders of which country?",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 35
   },
   {
     "id": 1858,
@@ -4791,7 +4858,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4800,7 +4867,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dam_03",
       "questionStem": "With reference to the locations of major dams, consider the following pairs: 1. Bhakra Nangal Dam : Himachal Pradesh/Punjab border 2. Sardar Sarovar Dam : Gujarat 3. Polavaram Dam : Telangana How many of the above pairs are correctly matched?",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 83
   },
   {
     "id": 1859,
@@ -4862,7 +4930,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4871,7 +4939,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dam_07",
       "questionStem": "Consider the following pairs of Dams and the states sharing their borders or management: 1. Bhakra Nangal Dam : Himachal Pradesh and Punjab 2. Mullaperiyar Dam : Kerala and Tamil Nadu 3. Nagarjuna Sagar Dam : Telangana and Andhra Pradesh How many of the above pairs are correctly matched?",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 84
   },
   {
     "id": 1860,
@@ -4933,7 +5002,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4942,7 +5011,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_52a36088",
       "questionStem": "Consider the following statements regarding the international borders of India:\n1. Tripura is surrounded by Bangladesh on three sides.\n2. Assam shares its border with Bhutan and Bangladesh, but not with Myanmar.\n3. Meghalaya shares its border with both Bhutan and Myanmar.\nWhich of the statements given above are correct?",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 65
   },
   {
     "id": 1861,
@@ -5004,7 +5074,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5013,7 +5083,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7a4e6212",
       "questionStem": "Consider the following pairs:\nState : Countries sharing international border\n1. Arunachal Pradesh : China, Bhutan, and Myanmar\n2. West Bengal : Nepal, Bhutan, and Bangladesh\n3. Mizoram : Bangladesh and Myanmar only\nHow many of the above pairs are correctly matched?",
@@ -5038,7 +5108,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 66
   },
   {
     "id": 1862,
@@ -5075,7 +5146,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5084,7 +5155,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map_006",
       "questionStem": "How many of the following Indian states share a border with Bangladesh? 1. Assam 2. Manipur 3. Mizoram 4. Tripura Select the correct answer:",
@@ -5109,7 +5180,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 85
   },
   {
     "id": 1863,
@@ -5146,7 +5218,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5155,7 +5227,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_a1b2c3",
       "questionStem": "Consider the following statements regarding the political geography of South-East Asia: 1. Myanmar shares a land border with both India and China. 2. Laos is the only landlocked country in the region and shares a border with all other mainland South-East Asian countries. 3. Vietnam shares a border with Cambodia but does not share a land border with Thailand. How many of the above statements are correct?",
@@ -5180,7 +5252,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 86
   },
   {
     "id": 1864,
@@ -5217,7 +5290,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5226,7 +5299,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_y5z6a7",
       "questionStem": "Consider the following pairs of Middle Eastern Straits and their bordering countries: 1. Strait of Hormuz - Iran and Oman 2. Bab el-Mandeb - Yemen and Djibouti 3. Strait of Tiran - Egypt and Saudi Arabia How many of the pairs given above are correctly matched?",
@@ -5251,7 +5324,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 87
   },
   {
     "id": 1865,
@@ -5288,7 +5362,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5297,7 +5371,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_h4i5j6",
       "questionStem": "Consider the following statements regarding the borders of Iraq: 1. Iraq shares its longest land border with Iran. 2. Iraq does not share a border with Turkey. 3. Iraq is completely landlocked and relies on Kuwait for maritime access. How many of the above statements are correct?",
@@ -5322,7 +5396,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 88
   },
   {
     "id": 1866,
@@ -5359,7 +5434,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5368,7 +5443,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_q3r4s5",
       "questionStem": "Which of the following pairs of 'Country - Bordering Nations' is/are correctly matched? 1. Saudi Arabia - Jordan, Iraq, Kuwait, Qatar, UAE, Oman, Yemen 2. Syria - Turkey, Iraq, Jordan, Israel, Lebanon 3. Jordan - Syria, Iraq, Saudi Arabia, Israel, Egypt",
@@ -5393,7 +5468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 67
   },
   {
     "id": 1867,
@@ -5430,7 +5506,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5439,7 +5515,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_7g8h9i",
       "questionStem": "Consider the following countries: 1. Lebanon 2. Syria 3. Jordan 4. Egypt How many of the above countries share a land border with Israel?",
@@ -5464,7 +5540,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 89
   },
   {
     "id": 1868,
@@ -5501,7 +5578,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5510,7 +5587,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_4v5w6x",
       "questionStem": "Consider the following pairs of countries bordering Syria: 1. North : Turkey 2. East : Iraq 3. South : Saudi Arabia How many pairs given above are correctly matched?",
@@ -5535,7 +5612,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 90
   },
   {
     "id": 1869,
@@ -5572,7 +5650,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5581,7 +5659,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_7h8i9j",
       "questionStem": "Consider the following pairs of bordering countries: 1. Thailand : Cambodia 2. Vietnam : Laos 3. Myanmar : Vietnam How many pairs given above are correctly matched?",
@@ -5606,7 +5684,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 91
   },
   {
     "id": 1870,
@@ -5643,7 +5722,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5652,7 +5731,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_1k2l3m",
       "questionStem": "Consider the following countries bordering the Persian Gulf: 1. Kuwait 2. Bahrain 3. Oman 4. Qatar How many of the above countries share a land border with Saudi Arabia?",
@@ -5677,7 +5756,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 92
   },
   {
     "id": 1871,
@@ -5714,7 +5794,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5723,7 +5803,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_1t2u3v",
       "questionStem": "Consider the following pairs of geographical features and their locations: 1. Gulf of Aqaba : Between Egypt and Saudi Arabia 2. Gulf of Tonkin : Between Vietnam and China 3. Gulf of Thailand : Between Thailand, Cambodia, and Vietnam How many pairs given above are correctly matched?",
@@ -5748,7 +5828,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 93
   },
   {
     "id": 1872,
@@ -5785,7 +5866,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5794,7 +5875,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_4f5g6h",
       "questionStem": "Consider the following pairs of disputed regions and their associated borders: 1. Golan Heights : Israel and Syria 2. West Bank : Israel and Jordan 3. Gaza Strip : Israel and Egypt How many pairs given above are correctly matched?",
@@ -5819,7 +5900,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 94
   },
   {
     "id": 1873,
@@ -5856,7 +5938,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5865,7 +5947,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred3_4d5e6f",
       "questionStem": "Consider the following pairs of BRICS nations sharing a land border: 1. China and Russia 2. India and Iran 3. Brazil and South Africa 4. Egypt and Ethiopia How many of the above pairs are correctly matched?",
@@ -5890,7 +5972,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 95
   },
   {
     "id": 1874,
@@ -5927,7 +6010,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5936,7 +6019,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred3_8b9c0d",
       "questionStem": "Consider the following pairs of Finland's land borders and its neighboring countries: 1. West - Sweden 2. North - Norway 3. East - Russia 4. South - Estonia How many of the above pairs are correctly matched?",
@@ -5961,7 +6044,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 96
   },
   {
     "id": 1875,
@@ -5998,7 +6082,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6007,7 +6091,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_d4e5f6",
       "questionStem": "With reference to the phenomenon of 'Climate Gentrification', consider the following statements: 1. It refers to the displacement of lower-income communities as wealthier populations move to areas more resilient to climate impacts. 2. In coastal cities like Miami, this often involves a shift of real estate investment from low-lying coastal properties to higher elevation inland neighborhoods. 3. It universally leads to improved infrastructure for the original low-income residents of the inland areas. Which of the statements given above is/are correct?",
@@ -6032,7 +6116,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 97
   },
   {
     "id": 1876,
@@ -6069,7 +6154,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -6078,7 +6163,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Latitudinal Variation of Day Length",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f45d5a34",
       "questionStem": "Assertion (A): The maximum difference in the length of day and night is found at the Equator.\nReason (R): The circle of illumination bisects the Equator into equal halves throughout the entire annual cycle.",
@@ -6103,7 +6188,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 98
   },
   {
     "id": 1877,
@@ -6140,7 +6226,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6149,7 +6235,7 @@
     "originalTier": "Premium",
     "originalTopicId": 49,
     "originalTopicName": "Israel and Neighboring Territories",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2f8182ad",
       "questionStem": "With reference to the geopolitical boundaries of West Asia, consider the following statements:\n1. Israel shares land borders with Lebanon, Syria, Jordan, and Egypt.\n2. The West Bank is landlocked between Israel and Jordan.\n3. The Gaza Strip shares land borders with only Israel and Egypt.\n\nWhich of the statements given above are correct?",
@@ -6174,7 +6260,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 68
   },
   {
     "id": 1878,
@@ -6211,7 +6298,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6220,7 +6307,7 @@
     "originalTier": "Premium",
     "originalTopicId": 49,
     "originalTopicName": "Afghanistan Borders",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_666b34a9",
       "questionStem": "Consider the following countries of Central and South Asia:\n1. Turkmenistan\n2. Tajikistan\n3. Uzbekistan\n4. China\n\nWhich of the above countries share a land border with Afghanistan?",
@@ -6245,7 +6332,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 99
   },
   {
     "id": 1879,
@@ -6282,7 +6370,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6291,7 +6379,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "NHAI vs BRO",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_41f69bf5",
       "questionStem": "With reference to the Border Roads Organisation (BRO), consider the following statements:\n1. It constructs and maintains roads in strategically sensitive and border areas of the country.\n2. It functions directly under the administrative control of the Ministry of Road Transport and Highways.\n3. It has undertaken significant infrastructure projects in friendly neighboring countries like Bhutan and Afghanistan.\n\nHow many of the above statements are correct?",
@@ -6316,7 +6404,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 69
   },
   {
     "id": 1880,
@@ -6353,7 +6442,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6362,7 +6451,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "NHAI vs BRO",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c3dbbd7b",
       "questionStem": "Which of the following bodies is primarily responsible for the development, maintenance, and management of National Highways in India?",
@@ -6387,7 +6476,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 36
   },
   {
     "id": 1881,
@@ -6424,7 +6514,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6433,7 +6523,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4a9547f0",
       "questionStem": "Consider the following statements regarding the Tropic of Cancer in India:\n1. It passes through eight Indian states, traversing Rajasthan for the shortest stretch among them.\n2. The River Mahi is the only river in India that cuts across the Tropic of Cancer twice.\n3. Among all state capitals in India, Ranchi is located closest to the Tropic of Cancer.\nWhich of the statements given above are correct?",
@@ -6458,7 +6548,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 100
   },
   {
     "id": 1882,
@@ -6495,7 +6586,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6504,7 +6595,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_552b0d6a",
       "questionStem": "With reference to the Standard Meridian of India (82°30' E), consider the following statements:\n1. It passes through five Indian states: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh.\n2. It intersects the Tropic of Cancer in the state of Odisha.\n3. The longitude of 82°30' E was chosen because it is an exact multiple of 7°30', ensuring Indian Standard Time conforms to international convention by being offset from UTC by 5 hours and 30 minutes.\nWhich of the statements given above is/are correct?",
@@ -6529,7 +6620,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 101
   },
   {
     "id": 1883,
@@ -6566,7 +6658,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6575,7 +6667,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_faad1908",
       "questionStem": "Consider the following pairs of extreme geographic points of the Indian Republic:\n1. Northernmost point under Indian administration: Indira Col (Siachen Glacier, Ladakh)\n2. Westernmost inhabited point: Ghuar Mota (Kutch district, Gujarat)\n3. Easternmost point: Kibithu (Anjaw district, Arunachal Pradesh)\n4. Southernmost point of the Indian Union: Cape Comorin (Kanyakumari, Tamil Nadu)\nHow many of the pairs given above are correctly matched?",
@@ -6600,7 +6692,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 102
   },
   {
     "id": 1884,
@@ -6637,7 +6730,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6646,7 +6739,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_590ec867",
       "questionStem": "With reference to the longitudinal extent of India and its time implications, consider the following statements:\n1. The longitudinal span of India is approximately 30 degrees, resulting in an actual solar time difference of nearly two hours between Kibithu in Arunachal Pradesh and Ghuar Mota in Gujarat.\n2. 'Chaibagaan Time' was an informal daylight-saving schedule historically maintained by tea gardens in Assam that was set one hour ahead of Indian Standard Time (IST).\n3. The Government of India has officially notified the establishment of two separate administrative time zones (IST-1 and IST-2) separated by one hour, based on recommendations by CSIR-National Physical Laboratory.\nWhich of the statements given above is/are correct?",
@@ -6671,7 +6764,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 103
   },
   {
     "id": 1885,
@@ -6708,7 +6802,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6717,7 +6811,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_265513f4",
       "questionStem": "Statement-I: The difference between the duration of the longest day and the shortest night is barely 45 minutes at Kanyakumari, but exceeds four hours in Ladakh during solstices.\nStatement-II: As one moves poleward from the Equator, the seasonal variation in the inclination of the sun's incident rays and the circle of illumination causes the disparity in day length to increase with higher latitudes.\nWhich one of the following is correct in respect of the above statements?",
@@ -6742,7 +6836,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 104
   },
   {
     "id": 1886,
@@ -6779,7 +6874,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6788,7 +6883,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b17ebfb2",
       "questionStem": "Among the following Indian cities, which one lies on a longitude closest to that of the National Capital, New Delhi (approx. 77°12' E)?",
@@ -6813,7 +6908,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 105
   },
   {
     "id": 1887,
@@ -6850,7 +6946,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6859,7 +6955,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ab645839",
       "questionStem": "Consider the following state capitals and major cities of India:\n1. Gandhinagar\n2. Bhopal\n3. Raipur\n4. Jaipur\nHow many of the cities given above are located to the south of the Tropic of Cancer?",
@@ -6884,7 +6980,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 106
   },
   {
     "id": 1888,
@@ -6921,7 +7018,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6930,7 +7027,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_18ddbfa7",
       "questionStem": "Consider the following statements regarding the territorial dimensions and frontiers of India:\n1. India possesses a total land frontier of approximately 15,106.7 km and a total coastline of 7,516.6 km, including island territories.\n2. The north-south distance of India from Indira Col to Kanyakumari (approx. 3,214 km) is greater than its east-west distance from Sir Creek to Kibithu (approx. 2,933 km).\n3. Although both the latitudinal and longitudinal extents of mainland India are approximately 30 degrees, the actual linear distance between east and west is lesser because meridians converge toward the poles.\nWhich of the statements given above are correct?",
@@ -6955,7 +7052,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 107
   },
   {
     "id": 1889,
@@ -6992,7 +7090,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7001,7 +7099,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0c521fa0",
       "questionStem": "Consider the following statements regarding the international land boundary between India and Bangladesh:\n1. It constitutes the longest international land border that India shares with any neighboring country, spanning over 4,096 km.\n2. The state of Assam touches the Bangladesh border in two geographically separate segments.\n3. The state of Tripura is bounded by Bangladesh on three sides—north, south, and west.\nWhich of the statements given above are correct?",
@@ -7026,7 +7124,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 108
   },
   {
     "id": 1890,
@@ -7063,7 +7162,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7072,7 +7171,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e870e65f",
       "questionStem": "With reference to the historic India-Bangladesh Land Boundary Agreement (LBA) operationalized via the 100th Constitutional Amendment Act, 2015, consider the following statements:\n1. India transferred 111 enclaves to Bangladesh and received 51 enclaves from Bangladesh in return.\n2. The Tin Bigha Corridor was leased in perpetuity to Bangladesh to provide access to its Dahagram-Angarpota enclave.\n3. The territorial exchange resulted in India gaining a net land area of over 10,000 acres from Bangladesh.\nWhich of the statements given above is/are correct?",
@@ -7097,7 +7196,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 109
   },
   {
     "id": 1891,
@@ -7134,7 +7234,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7143,7 +7243,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ce79e803",
       "questionStem": "With reference to the Sino-Indian border and the Line of Actual Control (LAC), consider the following statements:\n1. The McMahon Line, agreed upon during the 1914 Simla Convention between British India and Tibet, represents the boundary along the Eastern Sector.\n2. In the Western Sector in Ladakh, India upholds the Johnson Line of 1865 which includes the Aksai Chin plateau within Jammu & Kashmir.\n3. The Middle Sector comprises the international borders of Himachal Pradesh and Uttarakhand with Tibet, which is the least disputed of the three sectors.\nWhich of the statements given above are correct?",
@@ -7168,7 +7268,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 110
   },
   {
     "id": 1892,
@@ -7205,7 +7306,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7214,7 +7315,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_526bc6ff",
       "questionStem": "Consider the following geographical areas along the Indo-Nepal international boundary:\n1. Kalapani: Located at the tri-junction of India, Nepal, and Tibet, administered under the Pithoragarh district of Uttarakhand.\n2. Lipulekh Pass: A high Himalayan pass connecting Uttarakhand's Kumaon region with Tibet, historically used for the Kailash Mansarovar Yatra.\n3. Limpiyadhura: Claimed by Nepal as the origin of the Kali River under the 1816 Treaty of Sugauli.\n4. Susta: A disputed territory in the West Champaran district of Bihar, created by historical southward shifting of the Gandak River.\nHow many of the above geographic areas are correctly described?",
@@ -7239,7 +7340,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 111
   },
   {
     "id": 1893,
@@ -7276,7 +7378,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7285,7 +7387,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_479990c6",
       "questionStem": "With reference to India's international land boundary with the Kingdom of Bhutan, consider the following statements:\n1. Four Indian states share a border with Bhutan: Assam, Arunachal Pradesh, West Bengal, and Sikkim.\n2. Among these four states, Assam shares the longest border with Bhutan, while Sikkim shares the shortest.\n3. The strategic Doklam plateau, which witnessed a military standoff in 2017, is located at the tri-junction of India (Sikkim), Bhutan, and China (Chumbi Valley).\n4. Project DANTAK is an overseas project of the Border Roads Organisation (BRO) established in 1961 to construct and maintain key road infrastructure in Bhutan.\nWhich of the statements given above are correct?",
@@ -7310,7 +7412,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 1894,
@@ -7347,7 +7450,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7356,7 +7459,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4015276b",
       "questionStem": "Consider the following segments of the border between India and Pakistan:\n1. Actual Ground Position Line (AGPL): Divides Indian and Pakistani military positions across the Saltoro Ridge from Point NJ9842 to Indira Col.\n2. Line of Control (LoC): Delineated under the 1972 Simla Agreement, replacing the 1949 Ceasefire Line in Jammu & Kashmir.\n3. Sir Creek: A 96-km tidal estuary in the Rann of Kutch where India advocates boundary delimitation based on the Thalweg Principle along the mid-navigable channel.\n4. International Border (IB): Extends from Gujarat through Rajasthan and Punjab up to the Madhopur/Jammu border.\nHow many of the above segments are correctly described?",
@@ -7381,7 +7484,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 1895,
@@ -7418,7 +7522,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7427,7 +7531,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fc5bf125",
       "questionStem": "Consider the following statements regarding the international border between India and Myanmar:\n1. It spans four northeastern Indian states: Arunachal Pradesh, Nagaland, Manipur, and Mizoram, with Arunachal Pradesh sharing the longest stretch.\n2. The border runs along the natural mountainous divide separating the Brahmaputra and Chindwin-Irrawaddy drainage basins.\n3. Under the Free Movement Regime (FMR) established in 2018, border residents were permitted to travel up to 50 km into each other's territory without visas.\nWhich of the statements given above is/are correct?",
@@ -7452,7 +7556,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 1896,
@@ -7489,7 +7594,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7498,7 +7603,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_22c620c3",
       "questionStem": "With reference to India's land boundary with Afghanistan, consider the following statements:\n1. It is the shortest international land boundary of India, measuring approximately 106 km along the Durand Line.\n2. Geographically, it borders the Wakhan Corridor of northeastern Afghanistan and is situated in the Gilgit-Baltistan region of the Union Territory of Ladakh.\n3. The Wakhan Corridor was established in the late 19th century as a geographic buffer strip separating the Russian Empire from the British Empire during the Great Game.\nWhich of the statements given above are correct?",
@@ -7523,7 +7628,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 1897,
@@ -7560,7 +7666,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7569,7 +7675,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4719ffcb",
       "questionStem": "Under the United Nations Convention on the Law of the Sea (UNCLOS) and India's Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976:\n1. Territorial Waters extend up to 12 nautical miles from the baseline, over which India exercises full sovereignty over the airspace, water column, seabed, and subsoil.\n2. Contiguous Zone extends up to 24 nautical miles from the baseline, giving India powers to exercise control for customs, fiscal, immigration, and sanitary regulations.\n3. Exclusive Economic Zone (EEZ) extends up to 200 nautical miles, conferring sovereign rights for exploration and exploitation of natural resources, but other nations retain freedom of navigation and overflight.\nWhich of the statements given above are correct?",
@@ -7594,7 +7700,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 116
   },
   {
     "id": 1898,
@@ -7631,7 +7738,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7640,7 +7747,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9d8e77d9",
       "questionStem": "Consider the following statements regarding the Ten Degree Channel:\n1. It is a major maritime channel that runs along the 10° N parallel of latitude in the Bay of Bengal.\n2. It physically separates the Little Andaman Island of the Andaman archipelago from the Car Nicobar Island of the Nicobar archipelago.\n3. It has a width of approximately 150 km and serves as a vital strategic waterway connecting the Bay of Bengal to the Andaman Sea.\nWhich of the statements given above are correct?",
@@ -7665,7 +7772,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 117
   },
   {
     "id": 1899,
@@ -7702,7 +7810,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7711,7 +7819,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e6b8b077",
       "questionStem": "Which of the following bodies of water separates Minicoy Island from the main Lakshadweep archipelago (specifically the islands of Kalpeni and Suheli Par)?",
@@ -7736,7 +7844,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 118
   },
   {
     "id": 1900,
@@ -7773,7 +7882,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7782,7 +7891,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_aa610bb0",
       "questionStem": "With reference to the Eight Degree Channel (8° N Latitude), consider the following statements:\n1. It forms the international maritime boundary separating India's southernmost Lakshadweep island, Minicoy, from the Republic of Maldives.\n2. It lies immediately north of the Ihavandhippolhu Atoll of the Maldives.\n3. It is traversed by key international sea lanes connecting the Persian Gulf and Red Sea with East Asia.\nWhich of the statements given above are correct?",
@@ -7807,7 +7916,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 119
   },
   {
     "id": 1901,
@@ -7844,7 +7954,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7853,7 +7963,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_70576eab",
       "questionStem": "Consider the following statements regarding the Great Channel (also designated as the Six Degree Channel):\n1. It is situated between Indira Point on Great Nicobar Island (India) and Rondo Island off the coast of Aceh, Sumatra (Indonesia).\n2. It represents India's southernmost maritime gateway to the Strait of Malacca and carries a massive proportion of global east-west container shipping.\n3. The maritime boundary between India and Indonesia in this channel was bilaterally settled by an agreement signed in 1974.\nWhich of the statements given above are correct?",
@@ -7878,7 +7988,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 120
   },
   {
     "id": 1902,
@@ -7915,7 +8026,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7924,7 +8035,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_aa1c2215",
       "questionStem": "With reference to the Duncan Passage in the Andaman Islands, consider the following statements:\n1. It is a navigable strait that separates Rutland Island (South Andaman) to the north and Little Andaman to the south.\n2. The Cinque Islands and Passage Island are located within this waterway.\n3. It connects the open Bay of Bengal in the west with the Andaman Sea in the east.\nWhich of the statements given above are correct?",
@@ -7949,7 +8060,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 121
   },
   {
     "id": 1903,
@@ -7986,7 +8098,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7995,7 +8107,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c9bfc92f",
       "questionStem": "Consider the following geographical features located along the maritime interface between India and Sri Lanka:\n1. Palk Strait: Connects the Bay of Bengal in the northeast with Palk Bay in the southwest.\n2. Adam's Bridge (Ram Setu): A 48-km chain of limestone shoals between Pamban Island (Dhanushkodi) and Mannar Island (Talaimannar).\n3. Katchatheevu: An uninhabited island in Palk Strait whose sovereignty was formally recognized as Sri Lankan under the 1974 bilateral maritime boundary agreement.\n4. Gulf of Mannar: A shallow marine inlet lying south of Adam's Bridge, hosting Southeast Asia's first marine biosphere reserve.\nHow many of the above features are correctly described?",
@@ -8020,7 +8132,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 122
   },
   {
     "id": 1904,
@@ -8057,7 +8170,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8066,7 +8179,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_08a7d39f",
       "questionStem": "With reference to India's rights over the deep seabed and extended continental shelf under UNCLOS:\n1. Under UNCLOS Article 76, a coastal state can claim an extended continental shelf up to 350 nautical miles from its baselines or 100 nautical miles beyond the 2,500-meter isobath.\n2. The International Seabed Authority (ISA) has allocated an exclusive pioneer investor area of 75,000 sq km in the Central Indian Ocean Basin (CIOB) to India for the exploration of polymetallic nodules.\n3. India's Deep Ocean Mission focuses on developing deep-sea mining systems, including the manned submersible 'Matsya 6000', to explore mineral resources in this allocated seabed.\nWhich of the statements given above are correct?",
@@ -8091,7 +8204,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 1905,
@@ -8128,7 +8242,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8137,7 +8251,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_309dbdff",
       "questionStem": "Consider the following statements regarding the Siliguri Corridor ('Chicken's Neck'):\n1. It is a narrow bottleneck of territory in West Bengal with a minimum width of approximately 20 to 22 kilometers.\n2. It represents the singular overland transport artery connecting mainland India with the eight states of Northeast India.\n3. To its north lies the Chumbi Valley of Tibet, where an adversarial offensive could potentially threaten land connectivity to Northeast India.\n4. It is bordered by Nepal to the west and Bangladesh to the south.\nWhich of the statements given above are correct?",
@@ -8162,7 +8276,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 1906,
@@ -8199,7 +8314,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8208,7 +8323,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f6e4f431",
       "questionStem": "With reference to the Kaladan Multi-Modal Transit Transport Project (KMTTP), consider the following statements:\n1. It connects Kolkata port in India with the newly built Sittwe deep-water port in Rakhine State, Myanmar, across the Bay of Bengal.\n2. From Sittwe, it incorporates an inland water transport segment along the Kaladan River up to Paletwa in Myanmar.\n3. From Paletwa, a road highway leads to the Indo-Myanmar border at Zorinpui, entering the Indian state of Mizoram.\n4. The project provides an alternative maritime-cum-land transport corridor to Northeast India, bypassing the Siliguri Corridor.\nWhich of the statements given above are correct?",
@@ -8233,7 +8348,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 1907,
@@ -8270,7 +8386,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8279,7 +8395,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8c9acddd",
       "questionStem": "Consider the following statements regarding the India-Myanmar-Thailand (IMT) Trilateral Highway:\n1. The highway originates at Moreh in Manipur (India) and terminates at Mae Sot in Tak Province (Thailand).\n2. Within Myanmar, it traverses key transit hubs including Tamu, Kalewa, Mandalay, Naypyidaw, and Bago.\n3. Under India's Act East Policy, active deliberations have taken place to extend this connectivity corridor eastward into Cambodia, Laos, and Vietnam.\nWhich of the statements given above are correct?",
@@ -8304,7 +8420,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 1908,
@@ -8341,7 +8458,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8350,7 +8467,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4beaa7da",
       "questionStem": "With reference to the strategic significance of Chabahar Port, consider the following statements:\n1. It is located on the Makran coast in the Sistan-Baluchestan province of southeastern Iran, opening directly onto the Gulf of Oman.\n2. India operates the Shahid Beheshti terminal at Chabahar Port through India Ports Global Limited (IPGL).\n3. The port connects via road to the Zaranj-Delaram highway, enabling direct Indian trade with Afghanistan without traversing Pakistani territory.\n4. Chabahar forms the southern maritime anchor of the International North-South Transport Corridor (INSTC) providing connectivity to Russia and Europe.\nWhich of the statements given above are correct?",
@@ -8375,7 +8492,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 1909,
@@ -8412,7 +8530,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8421,7 +8539,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4dcba4c5",
       "questionStem": "Consider the following statements regarding the Bangladesh, Bhutan, India, Nepal (BBIN) Motor Vehicles Agreement:\n1. It was conceived as a sub-regional transport pact following the stalling of the proposed SAARC Motor Vehicles Agreement at the 2014 Kathmandu Summit.\n2. The agreement aims to allow passenger, personal, and cargo vehicles to travel across the member nations without mandatory border transshipment delays.\n3. Bhutan has officially ratified and implemented the agreement, permitting free transit of heavy transport vehicles through its mountain corridors.\nWhich of the statements given above is/are correct?",
@@ -8446,7 +8564,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 1910,
@@ -8483,7 +8602,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8492,7 +8611,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1e04d5a5",
       "questionStem": "Consider the following connectivity initiatives between India and Bangladesh:\n1. Agartala-Akhaura Rail Link: Links the railway network of Tripura directly with eastern Bangladesh, slashing rail transit time from Agartala to Kolkata via Dhaka.\n2. Maitri Setu: A 1.9-km bridge constructed across the Feni River connecting Sabroom in South Tripura with Ramgarh in Bangladesh.\n3. Sabroom Integrated Check Post: Designed as the 'Gateway to Southeast Asia', situated less than 80 kilometers from Bangladesh's deep-sea port of Chittagong (Chattogram).\nHow many of the above connectivity projects are correctly matched with their strategic geographic significance?",
@@ -8517,7 +8636,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 1911,
@@ -8554,7 +8674,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8563,7 +8683,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fa356bbf",
       "questionStem": "With reference to the Great Nicobar Island Holistic Development Project, consider the following statements:\n1. It includes the establishment of an International Container Transshipment Port (ICTP) at Galathea Bay on Great Nicobar Island.\n2. Galathea Bay is geographically proximate to the international east-west shipping route traversing the Malacca Strait, lying within 40 nautical miles of the main channel.\n3. The project incorporates a dual-use military-civil international airport, an integrated township, and a gas/solar power plant.\nWhich of the statements given above are correct?",
@@ -8588,7 +8708,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 1912,
@@ -8625,7 +8746,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8634,7 +8755,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_901dcf7e",
       "questionStem": "Consider the following pairs of strategic mountain tunnels and their operational connectivity:\n1. Sela Tunnel: Provides all-weather connectivity across Sela Pass to Tawang in Arunachal Pradesh near the LAC.\n2. Atal Tunnel: Bypasses the snow-bound Rohtang Pass on the Manali-Leh highway in Himachal Pradesh.\n3. Zojila Tunnel: Designed to provide year-round connectivity between the Kashmir Valley and Ladakh across the Zojila Pass.\n4. Shinku La Tunnel: Planned across Shinku La to connect Himachal Pradesh's Lahaul valley with Zanskar in Ladakh, creating an alternative axis to Leh.\nHow many of the pairs given above are correctly matched?",
@@ -8659,7 +8780,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 1913,
@@ -8696,7 +8818,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8705,7 +8827,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d46757f4",
       "questionStem": "Which one of the following represents the correct descending sequence of Indian coastal states according to the length of their mainland coastline?",
@@ -8730,7 +8852,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 1914,
@@ -8767,7 +8890,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8776,7 +8899,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8d57afa6",
       "questionStem": "Consider the following statements regarding the coastline of India:\n1. India has 9 coastal states and 4 coastal Union Territories (Daman & Diu and Dadra & Nagar Haveli, Puducherry, Lakshadweep, and Andaman & Nicobar Islands).\n2. The Union Territory of Andaman and Nicobar Islands possesses a longer coastline (approx. 1,962 km) than Gujarat, the state with the longest mainland coastline.\n3. Among the 9 coastal states, Goa possesses the shortest coastline.\nWhich of the statements given above are correct?",
@@ -8801,7 +8924,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 1915,
@@ -8838,7 +8962,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8847,7 +8971,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2e760d70",
       "questionStem": "With reference to the volcanic islands of India, consider the following statements:\n1. Barren Island, located in the Andaman Sea, hosts the only confirmed active volcano in the entire Indian subcontinent and South Asia.\n2. Narcondam Island is a volcanic island of dormant nature located to the northeast of North Andaman.\n3. Both Barren and Narcondam islands are situated on the inner volcanic arc associated with the subduction of the Indian Plate beneath the Burma Microplate.\n4. Narcondam Island is the sole global habitat of the endangered Narcondam Hornbill (Rhyticeros narcondami).\nWhich of the statements given above are correct?",
@@ -8872,7 +8996,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 1916,
@@ -8909,7 +9034,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8918,7 +9043,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9d4301b2",
       "questionStem": "Consider the following statements regarding the Lakshadweep archipelago:\n1. It is entirely composed of coral atolls, reefs, and submerged banks developed over the volcanic basement of the Chagos-Laccadive submarine ridge.\n2. The northern group of islands is known as the Amindivi group, while the central/southern group is known as the Cannanore group, with Minicoy situated at the southernmost end.\n3. Pitti Island is an uninhabited atoll in Lakshadweep designated as a bird sanctuary, renowned as a breeding site for pelagic seabirds such as the Sooty Tern and Brown Noddy.\n4. Kavaratti functions as the administrative headquarters, while Agatti has the only domestic airport operating in the archipelago.\nWhich of the statements given above are correct?",
@@ -8943,7 +9068,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 1917,
@@ -8980,7 +9106,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8989,7 +9115,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b6de1908",
       "questionStem": "Consider the following pairs of geographic features in the Andaman and Nicobar Islands:\n1. Saddle Peak (732 m): Highest elevation in the Andaman and Nicobar archipelago, situated in North Andaman Island.\n2. Mount Thullier (642 m): Highest peak of the Nicobar group, situated on Great Nicobar Island.\n3. Middle Andaman: The single largest island by land area in India.\n4. Port Blair: Capital city located on South Andaman Island.\nHow many of the pairs given above are correctly matched?",
@@ -9014,7 +9140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 1918,
@@ -9051,7 +9178,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9060,7 +9187,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_120b339b",
       "questionStem": "With reference to the distribution of coral reef ecosystems in India, consider the following statements:\n1. Lakshadweep represents atoll reef systems, whereas the Andaman and Nicobar Islands are predominantly characterized by fringing reefs.\n2. Major reef formations in mainland India are found in the Gulf of Mannar and the Gulf of Kutch.\n3. Coral reefs are virtually absent along the eastern coast off West Bengal and Odisha due to massive freshwater discharges, reduced salinity, and heavy silt loads brought by rivers like the Ganga, Brahmaputra, and Mahanadi.\n4. Submerged patch reefs are present along the central-western coast, notably at Netrani Island in Karnataka and Angria Bank off Maharashtra.\nWhich of the statements given above are correct?",
@@ -9085,7 +9212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 1919,
@@ -9122,7 +9250,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9131,7 +9259,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dc19159d",
       "questionStem": "Consider the following statements regarding the coastal geomorphology of Gujarat:\n1. The Great Rann of Kutch is an extensive desiccated marine salt marsh created by the uplift of land and regression of the sea, accentuated by seismic events like the 1819 earthquake that formed the 'Allah Bund'.\n2. Sir Creek and Kori Creek are tidal creeks within the Indus deltaic periphery subject to dynamic erosion, shifting channels, and extensive mangrove swamps.\n3. The Gulf of Khambhat displays extreme macro-tidal conditions with tidal ranges exceeding 10 meters, driven by its shallow bathymetry and funnel-shaped configuration.\nWhich of the statements given above are correct?",
@@ -9156,7 +9284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 1920,
@@ -9193,7 +9322,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9202,7 +9331,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c8c7c346",
       "questionStem": "Consider the following pairs of Indian coastal/offshore islands and their strategic or physical significance:\n1. Sriharikota: A barrier island separating Pulicat Lake from the Bay of Bengal, housing the Satish Dhawan Space Centre.\n2. Dr. Abdul Kalam Island (Wheeler Island): An island off the coast of Odisha near Dhamra Port, utilized by DRDO as India's primary missile testing site.\n3. Pamban Island (Rameswaram Island): Connects to the Tamil Nadu mainland via the Pamban rail and road bridges and terminates at Dhanushkodi facing the Palk Strait.\n4. New Moore Island (South Talpatti): A temporary mudflat island in the Hariabhanga river estuary that triggered an Indo-Bangladesh maritime boundary dispute before submerging due to sea level rise.\nHow many of the above pairs are correctly matched?",
@@ -9227,7 +9356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 1921,
@@ -9295,7 +9425,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 70,
+    "subTopic": "India Location & Extent"
   },
   {
     "id": 1922,
@@ -9363,7 +9495,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 71,
+    "subTopic": "International Borders"
   },
   {
     "id": 1923,
@@ -9431,7 +9565,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 37,
+    "subTopic": "Maritime Boundaries"
   },
   {
     "id": 1924,
@@ -9499,7 +9635,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 72,
+    "subTopic": "Island Territories"
   },
   {
     "id": 1925,
@@ -9567,7 +9705,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 38,
+    "subTopic": "Strategic Corridors"
   },
   {
     "id": 1926,
@@ -9635,7 +9775,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 39,
+    "subTopic": "India Location & Extent"
   },
   {
     "id": 1927,
@@ -9703,7 +9845,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 40,
+    "subTopic": "International Borders"
   },
   {
     "id": 1928,
@@ -9771,7 +9915,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 41,
+    "subTopic": "Maritime Boundaries"
   },
   {
     "id": 1929,
@@ -9839,7 +9985,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 42,
+    "subTopic": "Island Territories"
   },
   {
     "id": 1930,
@@ -9876,7 +10024,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9885,7 +10033,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4a9547f0",
       "questionStem": "Consider the following statements regarding the Tropic of Cancer in India:\n1. It passes through eight Indian states, traversing Rajasthan for the shortest stretch among them.\n2. The River Mahi is the only river in India that cuts across the Tropic of Cancer twice.\n3. Among all state capitals in India, Ranchi is located closest to the Tropic of Cancer.\nWhich of the statements given above are correct?",
@@ -9910,7 +10058,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 1931,
@@ -9947,7 +10096,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9956,7 +10105,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_552b0d6a",
       "questionStem": "With reference to the Standard Meridian of India (82°30' E), consider the following statements:\n1. It passes through five Indian states: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh.\n2. It intersects the Tropic of Cancer in the state of Odisha.\n3. The longitude of 82°30' E was chosen because it is an exact multiple of 7°30', ensuring Indian Standard Time conforms to international convention by being offset from UTC by 5 hours and 30 minutes.\nWhich of the statements given above is/are correct?",
@@ -9981,7 +10130,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 1932,
@@ -10018,7 +10168,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10027,7 +10177,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_faad1908",
       "questionStem": "Consider the following pairs of extreme geographic points of the Indian Republic:\n1. Northernmost point under Indian administration: Indira Col (Siachen Glacier, Ladakh)\n2. Westernmost inhabited point: Ghuar Mota (Kutch district, Gujarat)\n3. Easternmost point: Kibithu (Anjaw district, Arunachal Pradesh)\n4. Southernmost point of the Indian Union: Cape Comorin (Kanyakumari, Tamil Nadu)\nHow many of the pairs given above are correctly matched?",
@@ -10052,7 +10202,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 1933,
@@ -10089,7 +10240,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10098,7 +10249,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_590ec867",
       "questionStem": "With reference to the longitudinal extent of India and its time implications, consider the following statements:\n1. The longitudinal span of India is approximately 30 degrees, resulting in an actual solar time difference of nearly two hours between Kibithu in Arunachal Pradesh and Ghuar Mota in Gujarat.\n2. 'Chaibagaan Time' was an informal daylight-saving schedule historically maintained by tea gardens in Assam that was set one hour ahead of Indian Standard Time (IST).\n3. The Government of India has officially notified the establishment of two separate administrative time zones (IST-1 and IST-2) separated by one hour, based on recommendations by CSIR-National Physical Laboratory.\nWhich of the statements given above is/are correct?",
@@ -10123,7 +10274,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 1934,
@@ -10160,7 +10312,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10169,7 +10321,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_265513f4",
       "questionStem": "Statement-I: The difference between the duration of the longest day and the shortest night is barely 45 minutes at Kanyakumari, but exceeds four hours in Ladakh during solstices.\nStatement-II: As one moves poleward from the Equator, the seasonal variation in the inclination of the sun's incident rays and the circle of illumination causes the disparity in day length to increase with higher latitudes.\nWhich one of the following is correct in respect of the above statements?",
@@ -10194,7 +10346,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 144
   },
   {
     "id": 1935,
@@ -10231,7 +10384,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10240,7 +10393,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b17ebfb2",
       "questionStem": "Among the following Indian cities, which one lies on a longitude closest to that of the National Capital, New Delhi (approx. 77°12' E)?",
@@ -10265,7 +10418,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 145
   },
   {
     "id": 1936,
@@ -10302,7 +10456,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10311,7 +10465,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ab645839",
       "questionStem": "Consider the following state capitals and major cities of India:\n1. Gandhinagar\n2. Bhopal\n3. Raipur\n4. Jaipur\nHow many of the cities given above are located to the south of the Tropic of Cancer?",
@@ -10336,7 +10490,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 146
   },
   {
     "id": 1937,
@@ -10373,7 +10528,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10382,7 +10537,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_18ddbfa7",
       "questionStem": "Consider the following statements regarding the territorial dimensions and frontiers of India:\n1. India possesses a total land frontier of approximately 15,106.7 km and a total coastline of 7,516.6 km, including island territories.\n2. The north-south distance of India from Indira Col to Kanyakumari (approx. 3,214 km) is greater than its east-west distance from Sir Creek to Kibithu (approx. 2,933 km).\n3. Although both the latitudinal and longitudinal extents of mainland India are approximately 30 degrees, the actual linear distance between east and west is lesser because meridians converge toward the poles.\nWhich of the statements given above are correct?",
@@ -10407,7 +10562,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 147
   },
   {
     "id": 1938,
@@ -10444,7 +10600,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10453,7 +10609,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0c521fa0",
       "questionStem": "Consider the following statements regarding the international land boundary between India and Bangladesh:\n1. It constitutes the longest international land border that India shares with any neighboring country, spanning over 4,096 km.\n2. The state of Assam touches the Bangladesh border in two geographically separate segments.\n3. The state of Tripura is bounded by Bangladesh on three sides—north, south, and west.\nWhich of the statements given above are correct?",
@@ -10478,7 +10634,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 148
   },
   {
     "id": 1939,
@@ -10515,7 +10672,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10524,7 +10681,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e870e65f",
       "questionStem": "With reference to the historic India-Bangladesh Land Boundary Agreement (LBA) operationalized via the 100th Constitutional Amendment Act, 2015, consider the following statements:\n1. India transferred 111 enclaves to Bangladesh and received 51 enclaves from Bangladesh in return.\n2. The Tin Bigha Corridor was leased in perpetuity to Bangladesh to provide access to its Dahagram-Angarpota enclave.\n3. The territorial exchange resulted in India gaining a net land area of over 10,000 acres from Bangladesh.\nWhich of the statements given above is/are correct?",
@@ -10549,7 +10706,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 149
   },
   {
     "id": 1940,
@@ -10586,7 +10744,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10595,7 +10753,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ce79e803",
       "questionStem": "With reference to the Sino-Indian border and the Line of Actual Control (LAC), consider the following statements:\n1. The McMahon Line, agreed upon during the 1914 Simla Convention between British India and Tibet, represents the boundary along the Eastern Sector.\n2. In the Western Sector in Ladakh, India upholds the Johnson Line of 1865 which includes the Aksai Chin plateau within Jammu & Kashmir.\n3. The Middle Sector comprises the international borders of Himachal Pradesh and Uttarakhand with Tibet, which is the least disputed of the three sectors.\nWhich of the statements given above are correct?",
@@ -10620,7 +10778,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 150
   },
   {
     "id": 1941,
@@ -10657,7 +10816,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10666,7 +10825,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_526bc6ff",
       "questionStem": "Consider the following geographical areas along the Indo-Nepal international boundary:\n1. Kalapani: Located at the tri-junction of India, Nepal, and Tibet, administered under the Pithoragarh district of Uttarakhand.\n2. Lipulekh Pass: A high Himalayan pass connecting Uttarakhand's Kumaon region with Tibet, historically used for the Kailash Mansarovar Yatra.\n3. Limpiyadhura: Claimed by Nepal as the origin of the Kali River under the 1816 Treaty of Sugauli.\n4. Susta: A disputed territory in the West Champaran district of Bihar, created by historical southward shifting of the Gandak River.\nHow many of the above geographic areas are correctly described?",
@@ -10691,7 +10850,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 151
   },
   {
     "id": 1942,
@@ -10728,7 +10888,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10737,7 +10897,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_479990c6",
       "questionStem": "With reference to India's international land boundary with the Kingdom of Bhutan, consider the following statements:\n1. Four Indian states share a border with Bhutan: Assam, Arunachal Pradesh, West Bengal, and Sikkim.\n2. Among these four states, Assam shares the longest border with Bhutan, while Sikkim shares the shortest.\n3. The strategic Doklam plateau, which witnessed a military standoff in 2017, is located at the tri-junction of India (Sikkim), Bhutan, and China (Chumbi Valley).\n4. Project DANTAK is an overseas project of the Border Roads Organisation (BRO) established in 1961 to construct and maintain key road infrastructure in Bhutan.\nWhich of the statements given above are correct?",
@@ -10762,7 +10922,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 152
   },
   {
     "id": 1943,
@@ -10799,7 +10960,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10808,7 +10969,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4015276b",
       "questionStem": "Consider the following segments of the border between India and Pakistan:\n1. Actual Ground Position Line (AGPL): Divides Indian and Pakistani military positions across the Saltoro Ridge from Point NJ9842 to Indira Col.\n2. Line of Control (LoC): Delineated under the 1972 Simla Agreement, replacing the 1949 Ceasefire Line in Jammu & Kashmir.\n3. Sir Creek: A 96-km tidal estuary in the Rann of Kutch where India advocates boundary delimitation based on the Thalweg Principle along the mid-navigable channel.\n4. International Border (IB): Extends from Gujarat through Rajasthan and Punjab up to the Madhopur/Jammu border.\nHow many of the above segments are correctly described?",
@@ -10833,7 +10994,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 153
   },
   {
     "id": 1944,
@@ -10870,7 +11032,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10879,7 +11041,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fc5bf125",
       "questionStem": "Consider the following statements regarding the international border between India and Myanmar:\n1. It spans four northeastern Indian states: Arunachal Pradesh, Nagaland, Manipur, and Mizoram, with Arunachal Pradesh sharing the longest stretch.\n2. The border runs along the natural mountainous divide separating the Brahmaputra and Chindwin-Irrawaddy drainage basins.\n3. Under the Free Movement Regime (FMR) established in 2018, border residents were permitted to travel up to 50 km into each other's territory without visas.\nWhich of the statements given above is/are correct?",
@@ -10904,7 +11066,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 154
   },
   {
     "id": 1945,
@@ -10941,7 +11104,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10950,7 +11113,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_22c620c3",
       "questionStem": "With reference to India's land boundary with Afghanistan, consider the following statements:\n1. It is the shortest international land boundary of India, measuring approximately 106 km along the Durand Line.\n2. Geographically, it borders the Wakhan Corridor of northeastern Afghanistan and is situated in the Gilgit-Baltistan region of the Union Territory of Ladakh.\n3. The Wakhan Corridor was established in the late 19th century as a geographic buffer strip separating the Russian Empire from the British Empire during the Great Game.\nWhich of the statements given above are correct?",
@@ -10975,7 +11138,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 155
   },
   {
     "id": 1946,
@@ -11012,7 +11176,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11021,7 +11185,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4719ffcb",
       "questionStem": "Under the United Nations Convention on the Law of the Sea (UNCLOS) and India's Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976:\n1. Territorial Waters extend up to 12 nautical miles from the baseline, over which India exercises full sovereignty over the airspace, water column, seabed, and subsoil.\n2. Contiguous Zone extends up to 24 nautical miles from the baseline, giving India powers to exercise control for customs, fiscal, immigration, and sanitary regulations.\n3. Exclusive Economic Zone (EEZ) extends up to 200 nautical miles, conferring sovereign rights for exploration and exploitation of natural resources, but other nations retain freedom of navigation and overflight.\nWhich of the statements given above are correct?",
@@ -11046,7 +11210,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 156
   },
   {
     "id": 1947,
@@ -11083,7 +11248,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11092,7 +11257,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9d8e77d9",
       "questionStem": "Consider the following statements regarding the Ten Degree Channel:\n1. It is a major maritime channel that runs along the 10° N parallel of latitude in the Bay of Bengal.\n2. It physically separates the Little Andaman Island of the Andaman archipelago from the Car Nicobar Island of the Nicobar archipelago.\n3. It has a width of approximately 150 km and serves as a vital strategic waterway connecting the Bay of Bengal to the Andaman Sea.\nWhich of the statements given above are correct?",
@@ -11117,7 +11282,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 157
   },
   {
     "id": 1948,
@@ -11154,7 +11320,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11163,7 +11329,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e6b8b077",
       "questionStem": "Which of the following bodies of water separates Minicoy Island from the main Lakshadweep archipelago (specifically the islands of Kalpeni and Suheli Par)?",
@@ -11188,7 +11354,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 158
   },
   {
     "id": 1949,
@@ -11225,7 +11392,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11234,7 +11401,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_aa610bb0",
       "questionStem": "With reference to the Eight Degree Channel (8° N Latitude), consider the following statements:\n1. It forms the international maritime boundary separating India's southernmost Lakshadweep island, Minicoy, from the Republic of Maldives.\n2. It lies immediately north of the Ihavandhippolhu Atoll of the Maldives.\n3. It is traversed by key international sea lanes connecting the Persian Gulf and Red Sea with East Asia.\nWhich of the statements given above are correct?",
@@ -11259,7 +11426,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 159
   },
   {
     "id": 1950,
@@ -11296,7 +11464,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11305,7 +11473,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_70576eab",
       "questionStem": "Consider the following statements regarding the Great Channel (also designated as the Six Degree Channel):\n1. It is situated between Indira Point on Great Nicobar Island (India) and Rondo Island off the coast of Aceh, Sumatra (Indonesia).\n2. It represents India's southernmost maritime gateway to the Strait of Malacca and carries a massive proportion of global east-west container shipping.\n3. The maritime boundary between India and Indonesia in this channel was bilaterally settled by an agreement signed in 1974.\nWhich of the statements given above are correct?",
@@ -11330,7 +11498,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 160
   },
   {
     "id": 1951,
@@ -11367,7 +11536,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11376,7 +11545,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_aa1c2215",
       "questionStem": "With reference to the Duncan Passage in the Andaman Islands, consider the following statements:\n1. It is a navigable strait that separates Rutland Island (South Andaman) to the north and Little Andaman to the south.\n2. The Cinque Islands and Passage Island are located within this waterway.\n3. It connects the open Bay of Bengal in the west with the Andaman Sea in the east.\nWhich of the statements given above are correct?",
@@ -11401,7 +11570,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 161
   },
   {
     "id": 1952,
@@ -11438,7 +11608,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11447,7 +11617,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c9bfc92f",
       "questionStem": "Consider the following geographical features located along the maritime interface between India and Sri Lanka:\n1. Palk Strait: Connects the Bay of Bengal in the northeast with Palk Bay in the southwest.\n2. Adam's Bridge (Ram Setu): A 48-km chain of limestone shoals between Pamban Island (Dhanushkodi) and Mannar Island (Talaimannar).\n3. Katchatheevu: An uninhabited island in Palk Strait whose sovereignty was formally recognized as Sri Lankan under the 1974 bilateral maritime boundary agreement.\n4. Gulf of Mannar: A shallow marine inlet lying south of Adam's Bridge, hosting Southeast Asia's first marine biosphere reserve.\nHow many of the above features are correctly described?",
@@ -11472,7 +11642,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 162
   },
   {
     "id": 1953,
@@ -11509,7 +11680,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11518,7 +11689,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_08a7d39f",
       "questionStem": "With reference to India's rights over the deep seabed and extended continental shelf under UNCLOS:\n1. Under UNCLOS Article 76, a coastal state can claim an extended continental shelf up to 350 nautical miles from its baselines or 100 nautical miles beyond the 2,500-meter isobath.\n2. The International Seabed Authority (ISA) has allocated an exclusive pioneer investor area of 75,000 sq km in the Central Indian Ocean Basin (CIOB) to India for the exploration of polymetallic nodules.\n3. India's Deep Ocean Mission focuses on developing deep-sea mining systems, including the manned submersible 'Matsya 6000', to explore mineral resources in this allocated seabed.\nWhich of the statements given above are correct?",
@@ -11543,7 +11714,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 163
   },
   {
     "id": 1954,
@@ -11580,7 +11752,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11589,7 +11761,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_309dbdff",
       "questionStem": "Consider the following statements regarding the Siliguri Corridor ('Chicken's Neck'):\n1. It is a narrow bottleneck of territory in West Bengal with a minimum width of approximately 20 to 22 kilometers.\n2. It represents the singular overland transport artery connecting mainland India with the eight states of Northeast India.\n3. To its north lies the Chumbi Valley of Tibet, where an adversarial offensive could potentially threaten land connectivity to Northeast India.\n4. It is bordered by Nepal to the west and Bangladesh to the south.\nWhich of the statements given above are correct?",
@@ -11614,7 +11786,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 164
   },
   {
     "id": 1955,
@@ -11651,7 +11824,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11660,7 +11833,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f6e4f431",
       "questionStem": "With reference to the Kaladan Multi-Modal Transit Transport Project (KMTTP), consider the following statements:\n1. It connects Kolkata port in India with the newly built Sittwe deep-water port in Rakhine State, Myanmar, across the Bay of Bengal.\n2. From Sittwe, it incorporates an inland water transport segment along the Kaladan River up to Paletwa in Myanmar.\n3. From Paletwa, a road highway leads to the Indo-Myanmar border at Zorinpui, entering the Indian state of Mizoram.\n4. The project provides an alternative maritime-cum-land transport corridor to Northeast India, bypassing the Siliguri Corridor.\nWhich of the statements given above are correct?",
@@ -11685,7 +11858,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 165
   },
   {
     "id": 1956,
@@ -11722,7 +11896,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11731,7 +11905,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8c9acddd",
       "questionStem": "Consider the following statements regarding the India-Myanmar-Thailand (IMT) Trilateral Highway:\n1. The highway originates at Moreh in Manipur (India) and terminates at Mae Sot in Tak Province (Thailand).\n2. Within Myanmar, it traverses key transit hubs including Tamu, Kalewa, Mandalay, Naypyidaw, and Bago.\n3. Under India's Act East Policy, active deliberations have taken place to extend this connectivity corridor eastward into Cambodia, Laos, and Vietnam.\nWhich of the statements given above are correct?",
@@ -11756,7 +11930,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 166
   },
   {
     "id": 1957,
@@ -11793,7 +11968,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11802,7 +11977,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4beaa7da",
       "questionStem": "With reference to the strategic significance of Chabahar Port, consider the following statements:\n1. It is located on the Makran coast in the Sistan-Baluchestan province of southeastern Iran, opening directly onto the Gulf of Oman.\n2. India operates the Shahid Beheshti terminal at Chabahar Port through India Ports Global Limited (IPGL).\n3. The port connects via road to the Zaranj-Delaram highway, enabling direct Indian trade with Afghanistan without traversing Pakistani territory.\n4. Chabahar forms the southern maritime anchor of the International North-South Transport Corridor (INSTC) providing connectivity to Russia and Europe.\nWhich of the statements given above are correct?",
@@ -11827,7 +12002,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 167
   },
   {
     "id": 1958,
@@ -11864,7 +12040,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11873,7 +12049,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4dcba4c5",
       "questionStem": "Consider the following statements regarding the Bangladesh, Bhutan, India, Nepal (BBIN) Motor Vehicles Agreement:\n1. It was conceived as a sub-regional transport pact following the stalling of the proposed SAARC Motor Vehicles Agreement at the 2014 Kathmandu Summit.\n2. The agreement aims to allow passenger, personal, and cargo vehicles to travel across the member nations without mandatory border transshipment delays.\n3. Bhutan has officially ratified and implemented the agreement, permitting free transit of heavy transport vehicles through its mountain corridors.\nWhich of the statements given above is/are correct?",
@@ -11898,7 +12074,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 168
   },
   {
     "id": 1959,
@@ -11935,7 +12112,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11944,7 +12121,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1e04d5a5",
       "questionStem": "Consider the following connectivity initiatives between India and Bangladesh:\n1. Agartala-Akhaura Rail Link: Links the railway network of Tripura directly with eastern Bangladesh, slashing rail transit time from Agartala to Kolkata via Dhaka.\n2. Maitri Setu: A 1.9-km bridge constructed across the Feni River connecting Sabroom in South Tripura with Ramgarh in Bangladesh.\n3. Sabroom Integrated Check Post: Designed as the 'Gateway to Southeast Asia', situated less than 80 kilometers from Bangladesh's deep-sea port of Chittagong (Chattogram).\nHow many of the above connectivity projects are correctly matched with their strategic geographic significance?",
@@ -11969,7 +12146,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 169
   },
   {
     "id": 1960,
@@ -12006,7 +12184,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12015,7 +12193,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fa356bbf",
       "questionStem": "With reference to the Great Nicobar Island Holistic Development Project, consider the following statements:\n1. It includes the establishment of an International Container Transshipment Port (ICTP) at Galathea Bay on Great Nicobar Island.\n2. Galathea Bay is geographically proximate to the international east-west shipping route traversing the Malacca Strait, lying within 40 nautical miles of the main channel.\n3. The project incorporates a dual-use military-civil international airport, an integrated township, and a gas/solar power plant.\nWhich of the statements given above are correct?",
@@ -12040,7 +12218,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 170
   },
   {
     "id": 1961,
@@ -12077,7 +12256,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12086,7 +12265,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_901dcf7e",
       "questionStem": "Consider the following pairs of strategic mountain tunnels and their operational connectivity:\n1. Sela Tunnel: Provides all-weather connectivity across Sela Pass to Tawang in Arunachal Pradesh near the LAC.\n2. Atal Tunnel: Bypasses the snow-bound Rohtang Pass on the Manali-Leh highway in Himachal Pradesh.\n3. Zojila Tunnel: Designed to provide year-round connectivity between the Kashmir Valley and Ladakh across the Zojila Pass.\n4. Shinku La Tunnel: Planned across Shinku La to connect Himachal Pradesh's Lahaul valley with Zanskar in Ladakh, creating an alternative axis to Leh.\nHow many of the pairs given above are correctly matched?",
@@ -12111,7 +12290,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 171
   },
   {
     "id": 1962,
@@ -12148,7 +12328,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12157,7 +12337,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d46757f4",
       "questionStem": "Which one of the following represents the correct descending sequence of Indian coastal states according to the length of their mainland coastline?",
@@ -12182,7 +12362,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 172
   },
   {
     "id": 1963,
@@ -12219,7 +12400,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12228,7 +12409,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8d57afa6",
       "questionStem": "Consider the following statements regarding the coastline of India:\n1. India has 9 coastal states and 4 coastal Union Territories (Daman & Diu and Dadra & Nagar Haveli, Puducherry, Lakshadweep, and Andaman & Nicobar Islands).\n2. The Union Territory of Andaman and Nicobar Islands possesses a longer coastline (approx. 1,962 km) than Gujarat, the state with the longest mainland coastline.\n3. Among the 9 coastal states, Goa possesses the shortest coastline.\nWhich of the statements given above are correct?",
@@ -12253,7 +12434,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 173
   },
   {
     "id": 1964,
@@ -12290,7 +12472,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12299,7 +12481,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2e760d70",
       "questionStem": "With reference to the volcanic islands of India, consider the following statements:\n1. Barren Island, located in the Andaman Sea, hosts the only confirmed active volcano in the entire Indian subcontinent and South Asia.\n2. Narcondam Island is a volcanic island of dormant nature located to the northeast of North Andaman.\n3. Both Barren and Narcondam islands are situated on the inner volcanic arc associated with the subduction of the Indian Plate beneath the Burma Microplate.\n4. Narcondam Island is the sole global habitat of the endangered Narcondam Hornbill (Rhyticeros narcondami).\nWhich of the statements given above are correct?",
@@ -12324,7 +12506,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 174
   },
   {
     "id": 1965,
@@ -12361,7 +12544,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12370,7 +12553,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9d4301b2",
       "questionStem": "Consider the following statements regarding the Lakshadweep archipelago:\n1. It is entirely composed of coral atolls, reefs, and submerged banks developed over the volcanic basement of the Chagos-Laccadive submarine ridge.\n2. The northern group of islands is known as the Amindivi group, while the central/southern group is known as the Cannanore group, with Minicoy situated at the southernmost end.\n3. Pitti Island is an uninhabited atoll in Lakshadweep designated as a bird sanctuary, renowned as a breeding site for pelagic seabirds such as the Sooty Tern and Brown Noddy.\n4. Kavaratti functions as the administrative headquarters, while Agatti has the only domestic airport operating in the archipelago.\nWhich of the statements given above are correct?",
@@ -12395,7 +12578,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 175
   },
   {
     "id": 1966,
@@ -12432,7 +12616,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12441,7 +12625,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b6de1908",
       "questionStem": "Consider the following pairs of geographic features in the Andaman and Nicobar Islands:\n1. Saddle Peak (732 m): Highest elevation in the Andaman and Nicobar archipelago, situated in North Andaman Island.\n2. Mount Thullier (642 m): Highest peak of the Nicobar group, situated on Great Nicobar Island.\n3. Middle Andaman: The single largest island by land area in India.\n4. Port Blair: Capital city located on South Andaman Island.\nHow many of the pairs given above are correctly matched?",
@@ -12466,7 +12650,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 176
   },
   {
     "id": 1967,
@@ -12503,7 +12688,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12512,7 +12697,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_120b339b",
       "questionStem": "With reference to the distribution of coral reef ecosystems in India, consider the following statements:\n1. Lakshadweep represents atoll reef systems, whereas the Andaman and Nicobar Islands are predominantly characterized by fringing reefs.\n2. Major reef formations in mainland India are found in the Gulf of Mannar and the Gulf of Kutch.\n3. Coral reefs are virtually absent along the eastern coast off West Bengal and Odisha due to massive freshwater discharges, reduced salinity, and heavy silt loads brought by rivers like the Ganga, Brahmaputra, and Mahanadi.\n4. Submerged patch reefs are present along the central-western coast, notably at Netrani Island in Karnataka and Angria Bank off Maharashtra.\nWhich of the statements given above are correct?",
@@ -12537,7 +12722,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 177
   },
   {
     "id": 1968,
@@ -12574,7 +12760,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12583,7 +12769,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dc19159d",
       "questionStem": "Consider the following statements regarding the coastal geomorphology of Gujarat:\n1. The Great Rann of Kutch is an extensive desiccated marine salt marsh created by the uplift of land and regression of the sea, accentuated by seismic events like the 1819 earthquake that formed the 'Allah Bund'.\n2. Sir Creek and Kori Creek are tidal creeks within the Indus deltaic periphery subject to dynamic erosion, shifting channels, and extensive mangrove swamps.\n3. The Gulf of Khambhat displays extreme macro-tidal conditions with tidal ranges exceeding 10 meters, driven by its shallow bathymetry and funnel-shaped configuration.\nWhich of the statements given above are correct?",
@@ -12608,7 +12794,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 178
   },
   {
     "id": 1969,
@@ -12645,7 +12832,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12654,7 +12841,7 @@
     "originalTier": "Standard",
     "originalTopicId": 7,
     "originalTopicName": "India - Location and Space Relations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c8c7c346",
       "questionStem": "Consider the following pairs of Indian coastal/offshore islands and their strategic or physical significance:\n1. Sriharikota: A barrier island separating Pulicat Lake from the Bay of Bengal, housing the Satish Dhawan Space Centre.\n2. Dr. Abdul Kalam Island (Wheeler Island): An island off the coast of Odisha near Dhamra Port, utilized by DRDO as India's primary missile testing site.\n3. Pamban Island (Rameswaram Island): Connects to the Tamil Nadu mainland via the Pamban rail and road bridges and terminates at Dhanushkodi facing the Palk Strait.\n4. New Moore Island (South Talpatti): A temporary mudflat island in the Hariabhanga river estuary that triggered an Indo-Bangladesh maritime boundary dispute before submerging due to sea level rise.\nHow many of the above pairs are correctly matched?",
@@ -12679,6 +12866,7 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 179
   }
 ]

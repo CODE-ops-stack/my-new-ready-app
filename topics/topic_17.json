@@ -34,7 +34,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ebd911a3",
       "questionStem": "Which of the following coalfields is NOT located in the Damodar river valley basin?",
@@ -68,7 +68,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 3896,
@@ -105,7 +106,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5241c1ad",
       "questionStem": "Which of the following coalfields contains the largest reserves of prime coking coal in India and is situated in the Damodar river valley?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 3897,
@@ -176,7 +178,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_74b1bdcd",
       "questionStem": "Consider the following pairs regarding nuclear power plants and their respective states:\n1. Kakrapara : Gujarat\n2. Kaiga : Karnataka\n3. Rawatbhata : Tamil Nadu\n4. Narora : Uttar Pradesh\nHow many of the above pairs are correctly matched?",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 211
   },
   {
     "id": 3898,
@@ -247,7 +250,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ce833bb2",
       "questionStem": "Which of the following regions in India is famous for large-scale lignite coal deposits, often referred to as 'brown coal', and supports major thermal power generation?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 3
   },
   {
     "id": 3899,
@@ -318,7 +322,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d6811045",
       "questionStem": "Which of the following coastal locations in India is associated with a major nuclear power station commissioned with Russian technical cooperation?",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 4
   },
   {
     "id": 3900,
@@ -389,7 +394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7fdb4617",
       "questionStem": "Consider the following pairs regarding mineral belts and their primary mineral wealth in India:\n1. Singhbhum belt: Copper and Iron ore\n2. Rajasthan (Khetri-Singhana): Lead and Zinc only\n3. Nellore belt: Mica\nHow many of the above pairs are correctly matched?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 3901,
@@ -460,7 +466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4fe6734a",
       "questionStem": "Consider the following statements regarding the Atomic Minerals Directorate for Exploration and Research (AMD) and India's nuclear fuel cycle:\n1. Monazite sands found along coastal tracts contain thorium, which India plans to utilize in the second stage of its three-stage nuclear power program.\n2. Uranium deposits in India are discovered not only in Singhbhum shear zone but also in the Proterozoic unconformity-related basins of Telangana and Andhra Pradesh.\nHow many of the above statements are correct?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 3902,
@@ -531,7 +538,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_149eeef2",
       "questionStem": "Consider the following statements regarding nuclear power generation in India:\n1. India's three-stage nuclear power program was formulated by Homi J. Bhabha to utilize indigenous thorium reserves.\n2. Rawatbhata nuclear power plant is located in the state of Rajasthan and uses Pressurised Heavy Water Reactors (PHWR).\n3. Kudankulam nuclear power plant, located in Tamil Nadu, is built with technical and financial cooperation from France.\nHow many of the above statements are correct?",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 3903,
@@ -602,7 +610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_279205ea",
       "questionStem": "Consider the following statements regarding the major iron ore belts of India:\n1. The Odisha-Jharkhand belt contains high-grade hematite ore mined extensively from Noamundi and Badampahar.\n2. The Durg-Bastar-Chandrapur belt sends super-high-grade hematite from Bailadila to Japan via the Visakhapatnam port.\n3. The Kudremukh deposits in the Western Ghats are known for export-grade lump ore shipped through the Mangalore port.\nHow many of the above statements are correct?",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 3904,
@@ -673,7 +682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_735e68f4",
       "questionStem": "With reference to India's non-conventional and renewable energy sector targets, consider the following statements:\n1. India aims to achieve 500 GW of non-fossil energy capacity by the year 2030.\n2. The National Green Hydrogen Mission targets a production capacity of at least 5 Million Metric Tonnes (MMT) per annum by 2030.\n3. Solar photovoltaic capacity constitutes the largest share among all renewable energy sources currently installed in India.\nHow many of the above statements are correct?",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 116
   },
   {
     "id": 3905,
@@ -744,7 +754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2cc96bbb",
       "questionStem": "Consider the following statements regarding the District Mineral Foundation (DMF) trusts established under the Mines and Minerals (Development and Regulation) Amendment Act:\n1. DMFs are statutory bodies established at the district level to work for the interest and benefit of persons and areas affected by mining-related operations.\n2. The funds for DMF come from a percentage of royalty payments made by the mineral license holders.\n3. The administration and utilization of DMF funds are governed strictly by central government guidelines without state intervention.\nHow many of the above statements are correct?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 117
   },
   {
     "id": 3906,
@@ -815,7 +826,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_037ee8c7",
       "questionStem": "Consider the following minerals and their primary producing states in India:\n1. Manganese : Madhya Pradesh\n2. Bauxite : Odisha\n3. Mica : Andhra Pradesh\n4. Copper : Rajasthan\nHow many of the above pairs are correctly matched?",
@@ -849,7 +860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 212
   },
   {
     "id": 3907,
@@ -886,7 +898,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_642499b5",
       "questionStem": "Consider the following statements regarding India's wind energy sector:\n1. India has the fourth-highest wind energy installed capacity in the world.\n2. The vast majority of India's wind energy potential is concentrated in the northern plains due to high continental pressure gradients.\n3. Offshore wind energy development in India is currently being explored primarily along the coasts of Gujarat and Tamil Nadu.\nHow many of the above statements are correct?",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 118
   },
   {
     "id": 3908,
@@ -957,7 +970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -966,7 +979,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1d8531c6",
       "questionStem": "Consider the following pairs of atomic minerals and their primary occurrences in India:\n1. Monazite: Kerala coast sands\n2. Uranium: Jaduguda mines in Jharkhand\n3. Lithium: Mandya district in Karnataka\nHow many of the above pairs are correctly matched?",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 119
   },
   {
     "id": 3909,
@@ -1028,7 +1042,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1037,7 +1051,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d5f5d6e5",
       "questionStem": "Consider the following pairs of mineral-rich regions and their states:\n1. Korba: Chhattisgarh (Coal)\n2. Bailadila: Odisha (Iron Ore)\n3. Koraput: Odisha (Bauxite)\nHow many of the above pairs are correctly matched?",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 120
   },
   {
     "id": 3910,
@@ -1099,7 +1114,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1108,7 +1123,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b26c94a2",
       "questionStem": "Consider the following pairs of petroleum refineries and their locations:\n1. Numaligarh : Assam\n2. Tatipaka : Andhra Pradesh\n3. Bongaigaon : West Bengal\n4. Bina : Madhya Pradesh\nHow many of the above pairs are correctly matched?",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 213
   },
   {
     "id": 3911,
@@ -1170,7 +1186,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1179,7 +1195,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_04bd14de",
       "questionStem": "Consider the following statements regarding the distribution of iron ore in India:\n1. Magnetite is the finest iron ore with a very high content of iron up to 70 percent.\n2. The Kudremukh mines in Karnataka are known for exporting iron ore primarily through the port of Mangaluru.\n3. Odisha accounts for the largest share of hematite ore production in India, largely concentrated in the Sundargarh and Mayurbhanj districts.\nHow many of the above statements are correct?",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 121
   },
   {
     "id": 3912,
@@ -1241,7 +1258,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1250,7 +1267,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d2eb4ca8",
       "questionStem": "Statement-I: Gondwana coalfields, which account for about 98 percent of India's total coal reserves, are primarily located in the river valleys of peninsular India.\nStatement-II: Tertiary coal deposits are predominantly found in the north-eastern states of India and possess a high moisture and sulphur content.",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 214
   },
   {
     "id": 3913,
@@ -1312,7 +1330,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1321,7 +1339,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_03a34bfb",
       "questionStem": "Which of the following statements is NOT correct regarding the non-conventional energy sources in India?",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 122
   },
   {
     "id": 3914,
@@ -1383,7 +1402,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1392,7 +1411,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_13950b28",
       "questionStem": "Consider the following minerals:\n1. Bauxite\n2. Copper\n3. Manganese\n4. Chromite\nWhich of the above are classified as non-ferrous metallic minerals?",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 215
   },
   {
     "id": 3915,
@@ -1454,7 +1474,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1463,7 +1483,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1ce39096",
       "questionStem": "Consider the following statements regarding petroleum and natural gas reserves in India:\n1. Mumbai High, discovered in 1974, accounts for the largest share of India's offshore crude oil production.\n2. The Krishna-Godavari (KG) basin has emerged as a prolific basin primarily for natural gas discoveries, notably the D-6 block.\n3. Digboi in Assam is the oldest continuously producing oil field in Asia.\nHow many of the above statements are correct?",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 3916,
@@ -1525,7 +1546,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1534,7 +1555,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7729b8c4",
       "questionStem": "Statement-I: Limestone is an essential raw material for the cement industry and is largely found in the sedimentary rocks of the Vindhyan series.\nStatement-II: Gypsum is a hydrated sulphate of calcium and is extensively used in the manufacture of ammonia sulphate fertilizer and plaster of Paris.",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 216
   },
   {
     "id": 3917,
@@ -1596,7 +1618,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1605,7 +1627,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_17633a91",
       "questionStem": "Statement-I: Mica is widely used in the electrical and electronic industries due to its excellent dielectric strength and low power loss factor.\nStatement-II: India is the world's leading exporter of sheet mica, with major deposits found in the mica belts of Jharkhand, Andhra Pradesh, and Rajasthan.",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 217
   },
   {
     "id": 3918,
@@ -1667,7 +1690,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1676,7 +1699,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_469bbd15",
       "questionStem": "Which of the following regions in India is most noted for harnessing geothermal energy through hot water springs?",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 5
   },
   {
     "id": 3919,
@@ -1738,7 +1762,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1747,7 +1771,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8b01e478",
       "questionStem": "Which of the following is NOT a correct measure for the conservation of mineral and energy resources in India?",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 3920,
@@ -1809,7 +1834,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1818,7 +1843,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7658e0ca",
       "questionStem": "Statement-I: Anthracite is the highest quality coal with carbon content exceeding 80-95%, but its distribution in India is extremely limited.\nStatement-II: In India, anthracite coal is predominantly found and commercially mined in the Gondwana sedimentary rock systems.",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 218
   },
   {
     "id": 3921,
@@ -1880,7 +1906,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1889,7 +1915,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1df0a3d7",
       "questionStem": "Which of the following statements is NOT correct regarding India's petroleum refinery distribution and crude oil pipeline network?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 3922,
@@ -1951,7 +1978,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1960,7 +1987,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_385e80e9",
       "questionStem": "Which one of the following laws or regulatory bodies is primarily empowered to regulate major mineral concessions and mining leases in India?",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 6
   },
   {
     "id": 3923,
@@ -2022,7 +2050,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2031,7 +2059,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_cd71ac71",
       "questionStem": "Statement-I: The Bellary-Hospet region in Karnataka has emerged as a major iron ore producing center, supplying high-demand ore to domestic steel plants like Vijayanagar Steel.\nStatement-II: Karnataka possesses rich magnetite ore reserves at Kudremukh, which account for a substantial share of total national iron ore reserves.",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 219
   },
   {
     "id": 3924,
@@ -2093,7 +2122,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2102,7 +2131,7 @@
     "originalTier": "Premium",
     "originalTopicId": 20,
     "originalTopicName": "Mineral and Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3048a0a0",
       "questionStem": "Which of the following statements is/are correct regarding the distribution of coal in India?\n1. Gondwana coal is free from moisture and contains sulphur in small proportions.\n2. Tertiary coal deposits are predominantly found in the extra-peninsular regions like Jammu and Kashmir, Assam, and Arunachal Pradesh.\nSelect the correct answer using the code given below:",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 3925,
@@ -2164,7 +2194,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2173,7 +2203,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_1a2b3c",
       "questionStem": "Consider the following countries: 1. Myanmar 2. Thailand 3. Vietnam Which of the above countries are part of the 'Golden Triangle', known for illicit opium production?",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 220
   },
   {
     "id": 3926,
@@ -2235,7 +2266,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2244,7 +2275,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_6p7q8r",
       "questionStem": "Consider the following regions in India: 1. Gulf of Khambhat 2. Gulf of Mannar 3. Sunderbans Which of the above are identified as having high potential for Offshore Wind Energy?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 221
   },
   {
     "id": 3927,
@@ -2306,7 +2338,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2315,7 +2347,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_3q4r5s",
       "questionStem": "The 'Salar de Hombre Muerto', recently in the news regarding strategic mineral acquisitions by India, is located in:",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 7
   },
   {
     "id": 3928,
@@ -2377,7 +2410,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2386,7 +2419,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_2z3a4b",
       "questionStem": "Which of the following elements is NOT typically classified as a Rare Earth Element (REE) despite being crucial for high-tech applications?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 8
   },
   {
     "id": 3929,
@@ -2448,7 +2482,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2457,7 +2491,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0270e51b",
       "questionStem": "Consider the following important cities situated along the Golden Quadrilateral highway network:\n1. Jaipur\n2. Udaipur\n3. Vadodara\n4. Surat\n\nWhich of the following is the correct arrangement of these cities from North to South?",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 3930,
@@ -2519,7 +2554,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2528,7 +2563,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_2v3w4x",
       "questionStem": "In the context of the Green Energy Corridor Project in India, which of the following statements is/are correct? 1. It aims at synchronizing electricity produced from renewable sources, such as solar and wind, with conventional power stations in the grid. 2. Phase II of the project specifically targets the evacuation of renewable energy from Ultra Mega Renewable Energy Power Parks (UMREPPs) in 7 states. Select the correct answer using the code given below:",
@@ -2553,7 +2588,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 3931,
@@ -2590,7 +2626,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2599,7 +2635,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_7k8l9m",
       "questionStem": "Which of the following nations forms the 'African Copperbelt', a region also immensely rich in Cobalt? 1. Democratic Republic of the Congo (DRC) 2. Zambia 3. Angola 4. Zimbabwe Select the correct answer using the code given below:",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 3932,
@@ -2661,7 +2698,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2670,7 +2707,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_7g8h9i",
       "questionStem": "Consider the following pairs of Uranium deposits in India and their respective States: 1. Tummalapalle : Andhra Pradesh 2. Rohil : Rajasthan 3. Gogi : Karnataka 4. Domiasiat : Meghalaya How many of the above pairs are correctly matched?",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 222
   },
   {
     "id": 3933,
@@ -2732,7 +2770,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2741,7 +2779,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_0j1k2l",
       "questionStem": "With reference to Monazite, a major source of Thorium, consider the following statements: 1. It is a naturally occurring radioactive mineral found primarily in the coastal sands of Kerala, Tamil Nadu, and Odisha. 2. In India, private companies are allowed to export monazite freely to promote nuclear commerce. 3. Indian Rare Earths Limited (IREL) is the sole entity permitted to process monazite in India. Which of the statements given above are correct?",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 223
   },
   {
     "id": 3934,
@@ -2803,7 +2842,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2812,7 +2851,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_9s0t1u",
       "questionStem": "Consider the following pairs of critical minerals and the African nations known for their significant reserves: 1. Cobalt : Democratic Republic of the Congo (DRC) 2. Platinum Group Metals (PGMs) : South Africa 3. Bauxite : Guinea 4. Tantalum : Rwanda How many of the above pairs are correctly matched?",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 224
   },
   {
     "id": 3935,
@@ -2874,7 +2914,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2883,7 +2923,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_8b9c0d",
       "questionStem": "Regarding India's critical mineral strategy, 'KABIL' (Khanij Bidesh India Ltd) has been focusing on which of the following minerals primarily for overseas acquisition? 1. Lithium 2. Cobalt 3. Iron Ore 4. Coal Select the correct answer using the code given below:",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 3936,
@@ -2945,7 +2986,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2954,7 +2995,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_4h5i6j",
       "questionStem": "Consider the following pairs of minerals and their primary end-use in green energy technologies: 1. Neodymium : Permanent magnets for wind turbines 2. Silver : Solar photovoltaic (PV) cells 3. Graphite : Anodes in Lithium-ion batteries 4. Tellurium : Cadmium Telluride (CdTe) thin-film solar panels How many of the above pairs are correctly matched?",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 225
   },
   {
     "id": 3937,
@@ -3016,7 +3058,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3025,7 +3067,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_0n1o2p",
       "questionStem": "Consider the following pairs of proposed/active Green Hydrogen hubs and their States in India: 1. Kochi : Kerala 2. Paradip : Odisha 3. Tuticorin : Tamil Nadu How many of the above pairs are correctly matched?",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 226
   },
   {
     "id": 3938,
@@ -3087,7 +3130,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3096,7 +3139,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred1_5c6d7e",
       "questionStem": "Consider the following pairs of regions and their associated critical minerals in India: 1. Reasi (Jammu & Kashmir) : Lithium 2. Degana (Rajasthan) : Tungsten 3. Tummalapalle (Andhra Pradesh) : Uranium How many of the above pairs are correctly matched?",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 227
   },
   {
     "id": 3939,
@@ -3158,7 +3202,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred2_n4o5p6q",
       "questionStem": "Consider the following pairs of resource-rich Arctic peninsulas and their associated sovereign countries: 1. Yamal Peninsula : Russia (Major site of LNG projects) 2. North Slope : United States (Prudhoe Bay oil fields) 3. Svalbard : Norway (Coal mining history and global seed vault) How many of the above pairs are correctly matched?",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 228
   },
   {
     "id": 3940,
@@ -3229,7 +3274,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3238,7 +3283,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr_12",
       "questionStem": "Lithium, recently found in Reasi, is dubbed 'white gold' due to its demand in EVs. Which group of countries forms the 'Lithium Triangle', holding the world's largest known reserves?",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 9
   },
   {
     "id": 3941,
@@ -3300,7 +3346,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3309,7 +3355,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr_20",
       "questionStem": "Coups in Sahel nations like Niger, Mali, and Burkina Faso have geopolitical implications, particularly concerning the export of critical minerals. Niger, for example, is a major global producer of:",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 10
   },
   {
     "id": 3942,
@@ -3371,7 +3418,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3380,7 +3427,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current1_a9f0b7c4",
       "questionStem": "In 2023, the Geological Survey of India established \"inferred\" resources of Lithium in the Salal-Haimana area of Reasi District. Consider the following statements: 1. Reasi district is located in the Pir Panjal range of Jammu and Kashmir. 2. Lithium globally is primarily extracted from hard rock bauxite deposits. 3. The Reasi deposits are unique in India as they are bauxite-hosted. Which of the statements given above is/are correct?",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 229
   },
   {
     "id": 3943,
@@ -3442,7 +3490,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3451,7 +3499,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current1_d5e1b9a4",
       "questionStem": "With the global push for electric vehicles, the 'Lithium Triangle' has gained immense strategic and economic importance. Which three South American nations comprise this resource-rich region?",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 11
   },
   {
     "id": 3944,
@@ -3513,7 +3562,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3522,7 +3571,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current2_7q8r9s0t",
       "questionStem": "The Geological Survey of India (GSI) recently discovered inferred resources of Lithium in the Salal-Haimana area of Reasi district. Geologically, this region is located in which of the following Himalayan tectonic zones?",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 3945,
@@ -3584,7 +3634,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3593,7 +3643,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current2_7e8f9g0h",
       "questionStem": "With reference to Critical Minerals, specifically Cobalt, which has seen massive geostrategic competition, consider the following statements: 1. The Democratic Republic of Congo (DRC) accounts for more than two-thirds of the world's cobalt production. 2. In India, primary cobalt ores are completely absent, and it is entirely recovered as a by-product of copper or nickel mining. Which of the statements given above is/are correct?",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 230
   },
   {
     "id": 3946,
@@ -3655,7 +3706,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3664,7 +3715,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_d4e5f6",
       "questionStem": "The recent discovery of Lithium in the Salal-Haimana area of Reasi District (J&K) is of strategic importance. Geologically, these inferred resources are hosted in:",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 12
   },
   {
     "id": 3947,
@@ -3726,7 +3778,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3735,7 +3787,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current4_g3h4i5j6",
       "questionStem": "A recent discovery in 2023 identified massive reserves of Lithium in the Salal-Haimana region. In which geological formation/region are these reserves located?",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 13
   },
   {
     "id": 3948,
@@ -3797,7 +3850,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -3806,7 +3859,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink2_7c9e2",
       "questionStem": "Consider the following pairs linking physical geology with economic geography: 1. Divergent boundaries : Porphyry copper deposits 2. Convergent boundaries : Placer gold deposits 3. Shield regions : Iron ore deposits How many of the above pairs are correctly matched?",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 231
   },
   {
     "id": 3949,
@@ -3868,7 +3922,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -3877,7 +3931,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink2_c8f4a",
       "questionStem": "Consider the following pairs linking physical coastal features to their economic utilization: 1. Ria coasts : Deep-water natural harbors (e.g., Sydney Harbour) 2. Dalmation coasts : Inland waterway transport parallel to the coast 3. Fjord coasts : Extensive tidal mudflat aquaculture How many of the above pairs are correctly matched?",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 232
   },
   {
     "id": 3950,
@@ -3939,7 +3994,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3948,7 +4003,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr8_z2a3b4",
       "questionStem": "NTPC recently commissioned India's first green hydrogen blending project in the piped natural gas (PNG) network at Kawas. Geographically, why are the coastal plains of Gujarat prime locations for such pilot projects?",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 3951,
@@ -4010,7 +4066,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -4019,7 +4075,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink6_j0k1l2",
       "questionStem": "Consider the following statements interlinking geology, resources, and industries in Peninsular India: 1. The presence of pegmatite intrusions in the Precambrian rocks of the Koderma-Gaya belt made it a historic hub for the electrical insulation industry prior to the advent of synthetic substitutes. 2. The Neyveli lignite deposits, belonging to the Tertiary period, catalyzed the industrialization of Tamil Nadu by providing a reliable energy base in a region devoid of Gondwana coal. 3. The Dharwar rock system is devoid of non-ferrous metals like copper and gold, restricting its industrial utility exclusively to the iron and steel sector. How many of the statements given above are correct?",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 233
   },
   {
     "id": 3952,
@@ -4081,7 +4138,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -4090,7 +4147,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink6_e1f2g3",
       "questionStem": "Assertion (A): The establishment of the Durgapur Steel Plant (DSP) in West Bengal deviated slightly from the pure 'raw material proximity' principle compared to Bhilai or Rourkela. Reason (R): Durgapur was located primarily on the Gondwana coalfields (Raniganj-Jharia) and relied on transporting iron ore from the distant Singhbhum-Keonjhar belt, optimizing the 'coal-return-freight' logistics.",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 234
   },
   {
     "id": 3953,
@@ -4152,7 +4210,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -4161,7 +4219,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink6_n0o1p2",
       "questionStem": "The geological 'Bombay High' structure is an offshore anticlinal trap formed during the Miocene epoch. Which of the following onshore industrial corridors was most heavily shaped by the resources extracted from this specific geological feature?",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 3954,
@@ -4223,7 +4282,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Premium",
     "originalTopicId": 24,
     "originalTopicName": "Mining Types",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_cee2d16e",
       "questionStem": "Consider the following pairs of mining terminology and their definitions:\n1. Open-cast mining: The method used when mineral deposits lie at a shallow depth, involving the removal of overburden.\n2. Shaft mining: Underground mining that requires vertical or inclined tunnels to reach deep-seated mineral reserves.\n3. Placer mining: Extraction of minerals from unconsolidated alluvial deposits using water separation techniques.\nHow many of the pairs given above are correctly matched?",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 3955,
@@ -4294,7 +4354,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Energy Flow and Nutrient Cycling",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_18ab1add",
       "questionStem": "Consider the following statements regarding the flow of energy and materials in ecosystems:\n1. Nutrient cycles are circular and closed, meaning nutrients are continually recycled within the biosphere.\n2. Energy flow through an ecosystem is non-cyclic and follows the laws of thermodynamics.\n3. The total amount of energy entering a trophic level is always completely converted into biomass for the next trophic level.\nHow many of the statements given above are correct?",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 3956,
@@ -4365,7 +4426,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4399,7 +4460,8 @@
         "specificExam": "SSC_CGL"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 3957,
@@ -4436,7 +4498,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Energy Flow and 10% Law",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bfba1913",
       "questionStem": "Assertion (A): The flow of energy in an ecosystem is unidirectional and non-cyclic.\nReason (R): According to the 10% law of energy transfer, energy is progressively lost as heat at each trophic level during metabolic activities and cannot be recycled back to the sun.",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 235
   },
   {
     "id": 3958,
@@ -4507,7 +4570,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4516,7 +4579,7 @@
     "originalTier": "Premium",
     "originalTopicId": 35,
     "originalTopicName": "Physical Properties of Minerals",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e8b9ccb5",
       "questionStem": "Mohs scale of mineral hardness is a qualitative ordinal scale. In this scale, which of the following minerals can scratch orthoclase feldspar but is itself scratched by corundum?",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 14
   },
   {
     "id": 3959,
@@ -4578,7 +4642,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Premium",
     "originalTopicId": 35,
     "originalTopicName": "Physical Properties of Minerals",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_29dc3c8a",
       "questionStem": "Consider the following pairs of mineral physical properties and their diagnostic descriptions:\n1. Cleavage: The tendency of a mineral to break along specific planes of internal atomic weakness.\n2. Fracture: The smooth, flat surface produced when a mineral breaks in a direction unrelated to crystal structure.\n3. Streak: The color of a mineral's powder when rubbed on an unglazed porcelain plate.\n\nHow many of the pairs given above are correctly matched?",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 3960,
@@ -4649,7 +4714,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Premium",
     "originalTopicId": 35,
     "originalTopicName": "Physical Properties of Minerals",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4be7fec1",
       "questionStem": "Which of the following physical properties correctly distinguishes mica from other common rock-forming minerals like olivine and pyroxene?",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 3961,
@@ -4720,7 +4786,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4729,7 +4795,7 @@
     "originalTier": "Premium",
     "originalTopicId": 45,
     "originalTopicName": "Classification of Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_956d8239",
       "questionStem": "Consider the following pairs regarding the classification of resources:\n1. Wind energy: Biotic and Ubiquitous\n2. Minerals: Non-renewable and Localized\n3. Fossil fuels: Non-renewable and Ubiquitous\nHow many of the pairs given above are correctly matched?",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 3962,
@@ -4791,7 +4858,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4800,7 +4867,7 @@
     "originalTier": "Premium",
     "originalTopicId": 45,
     "originalTopicName": "Resource Planning",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_09f10091",
       "questionStem": "Assertion (A): The availability of resources is not the only condition for the development of any region.\nReason (R): Appropriate technological development and institutional changes are equally crucial along with resource availability to accelerate economic development.",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 236
   },
   {
     "id": 3963,
@@ -4862,7 +4930,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4871,7 +4939,7 @@
     "originalTier": "Premium",
     "originalTopicId": 45,
     "originalTopicName": "Resource Planning in India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4fca6dc1",
       "questionStem": "Consider the following statements regarding resource planning in India:\n1. Identification and inventory of resources across the regions of the country involves surveying, mapping and qualitative and quantitative estimation of the resources.\n2. Evolving a planning structure endowed with appropriate technology, skill and institutional set up is the first step in the resource planning process.\n3. Matching the resource development plans with overall national development plans is the final phase.\nHow many of the statements given above are correct?",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 3964,
@@ -4933,7 +5002,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4942,7 +5011,7 @@
     "originalTier": "Premium",
     "originalTopicId": 45,
     "originalTopicName": "Classification of Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f96a6bdf",
       "questionStem": "Which of the following statements correctly differentiates between potential and developed resources?",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 3965,
@@ -5004,7 +5074,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5013,7 +5083,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Cosmic Distances",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4d4434c5",
       "questionStem": "Which of the following cosmic distance measurement units is defined as the distance that light travels in a vacuum in one Julian year?",
@@ -5038,7 +5108,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 15
   },
   {
     "id": 3966,
@@ -5075,7 +5146,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5084,7 +5155,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Tidal Ranges Globally",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_324f2250",
       "questionStem": "Consider the following pairs of seas/bays and their association with tidal range:\n1. Bay of Fundy - Highest tidal range in the world\n2. Mediterranean Sea - Extremely high semi-diurnal tidal range due to large oceanic connections\n\nWhich of the statements given above is/are correct?",
@@ -5109,7 +5180,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 3967,
@@ -5146,7 +5218,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5155,7 +5227,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Tidal Variations and Phenonema",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5779f173",
       "questionStem": "Consider the following phenomena associated with tidal cycles:\n1. Perigean Spring Tides\n2. Semi-diurnal tides\n3. Ebb tide\n4. Tidal bore\n\nHow many of the above are related to variations in the earth-moon-sun geometry or coastal topography?",
@@ -5180,7 +5252,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 237
   },
   {
     "id": 3968,
@@ -5217,7 +5290,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5226,7 +5299,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Basic Astronomical Terminology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4d647e49",
       "questionStem": "Consider the following pairs of celestial concepts and their definitions:\n1. Orbit: The elliptical path along which planets revolve around the Sun.\n2. Axis: An imaginary line running through the center of a planet on which it rotates.\n3. Light year: A measure of astronomical time used to measure planetary ages.\n\nHow many of the above pairs are correctly matched?",
@@ -5251,7 +5324,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 3969,
@@ -5288,7 +5362,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5297,7 +5371,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Tidal Mechanics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_07e475aa",
       "questionStem": "During which of the following astronomical configurations do spring tides achieve their absolute maximum amplitude (often called perigean spring tides)?",
@@ -5322,7 +5396,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 144
   },
   {
     "id": 3970,
@@ -5359,7 +5434,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5368,7 +5443,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Mining",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7e7052b0",
       "questionStem": "Mining is a critical primary activity whose profitability depends on various physical and economic factors. Consider the following statements:\n1. Access to modern transportation infrastructure is an economic determinant of mining viability.\n2. The demand for minerals is a major economic determinant influencing mining operations.\n3. The geological grade and size of the mineral deposit are physical determinants.\nHow many of the above statements are correct?",
@@ -5393,7 +5468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 145
   },
   {
     "id": 3971,
@@ -5430,7 +5506,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5439,7 +5515,7 @@
     "originalTier": "Premium",
     "originalTopicId": 51,
     "originalTopicName": "Types of mining (surface/open-cast vs underground/shaft)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_84efdb0e",
       "questionStem": "Consider the following statements regarding Underground Mining (Shaft Mining):\n1. It is resorted to when the mineral ore is located deep below the surface and cannot be extracted via open-cast methods.\n2. It requires specially designed vertical or inclined shafts, lifts, haulage ways, and sophisticated ventilation systems for safety.\n3. The cost of extraction per unit of mineral is typically lower in underground mining than in surface mining due to lesser overburden removal.\n\nHow many of the above statements are correct?",
@@ -5464,7 +5540,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 146
   },
   {
     "id": 3972,
@@ -5501,7 +5578,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5510,7 +5587,7 @@
     "originalTier": "Premium",
     "originalTopicId": 51,
     "originalTopicName": "Types of mining (surface/open-cast vs underground/shaft)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bea54344",
       "questionStem": "Assertion (A): Surface mining (open-cast mining) is generally safer and cheaper than underground mining.\nReason (R): Surface mining requires fewer safety precautions against toxic gases, cave-ins, and fire hazards compared to underground shafts, and utilizes large earth-moving machinery for high-volume extraction near the surface.",
@@ -5535,7 +5612,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 238
   },
   {
     "id": 3973,
@@ -5572,7 +5650,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5581,7 +5659,7 @@
     "originalTier": "Premium",
     "originalTopicId": 53,
     "originalTopicName": "Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_32f41425",
       "questionStem": "Assertion (A): Pipelines are the most convenient and efficient mode of transporting crude oil and petroleum products over both land and sub-sea routes.\nReason (R): Once laid, pipelines can operate continuously across difficult terrains and underwater environments with minimal operational losses and low variable transport costs.",
@@ -5606,7 +5684,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 239
   },
   {
     "id": 3974,
@@ -5643,7 +5722,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5652,7 +5731,7 @@
     "originalTier": "Premium",
     "originalTopicId": 53,
     "originalTopicName": "Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a07c0be3",
       "questionStem": "Consider the following pairs linking major pipelines to their respective geographic regions:\n1. Big Inch Pipeline: Transports natural gas from the Gulf of Mexico fields to the northeastern United States.\n2. Druzhba Pipeline: Supplies crude oil from Russia to Central and Eastern European refineries.\n3. Trans-Alaska Pipeline System: Moves crude oil from Prudhoe Bay on the northern coast to the ice-free port of Valdez in the south.\n\nHow many of the above pairs are correctly matched?",
@@ -5677,7 +5756,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 147
   },
   {
     "id": 3975,
@@ -5714,7 +5794,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5723,7 +5803,7 @@
     "originalTier": "Premium",
     "originalTopicId": 54,
     "originalTopicName": "Energy Resource Geography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b0f8f851",
       "questionStem": "Consider the following pairs regarding energy infrastructure and renewable energy corridors in India:\n1. Solar Energy Corporation of India (SECI) Ultra Mega Solar Power Parks: Pavagada (Karnataka) and Bhadla (Rajasthan)\n2. Offshore Wind Energy Development: Identified zones along the Gulf of Khambhat and Gulf of Kutch off the coast of Gujarat\n3. Pumped Storage Hydropower Projects: Exclusively restricted to the Himalayan terrain due to altitude differential requirements\nHow many of the above pairs are correctly matched?",
@@ -5748,7 +5828,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 148
   },
   {
     "id": 3976,
@@ -5785,7 +5866,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5794,7 +5875,7 @@
     "originalTier": "Premium",
     "originalTopicId": 54,
     "originalTopicName": "Resource Geography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6eb9e4c3",
       "questionStem": "Consider the following pairs regarding the spatial distribution of critical mineral resources and their primary industrial processing hubs in India:\n1. Lithium reserves: Reasi district (Jammu & Kashmir) — Primary processing at Mundra SEZ, Gujarat\n2. Rare Earth Elements (Monazite): Coastal tracts of Odisha — Separation and refining at Rare Earths Division, Aluva, Kerala\n3. Coking Coal: Jharia and Bokaro coalfields — Direct utilization in integrated steel plants without blending\nHow many of the above pairs are correctly matched?",
@@ -5819,7 +5900,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 149
   },
   {
     "id": 3977,
@@ -5856,7 +5938,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5865,7 +5947,7 @@
     "originalTier": "Premium",
     "originalTopicId": 55,
     "originalTopicName": "Resource Planning & Sustainable Development",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_62762dfb",
       "questionStem": "Consider the following features regarding resource planning in India:\n1. Identification and inventory of resources across regions.\n2. Evolving a planning structure endowed with appropriate technology, skill, and institutional set-up.\n3. Matching the resource development plans with overall national development plans.\n\nHow many of the above are recognized as essential stages of resource planning?",
@@ -5890,7 +5972,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 150
   },
   {
     "id": 3978,
@@ -5927,7 +6010,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5936,7 +6019,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Iron Ore Belts and Types",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c24e1e83",
       "questionStem": "Consider the following statements regarding the major iron ore reserves in India:\n1. Magnetite is superior to hematite in terms of total iron content, containing up to 70 percent metallic iron.\n2. The Kudremukh deposits in the Western Ghats are known for large-scale export of magnetite ore via the Mangalore port.\n3. The Bailadila range in the Bastar district contains superhigh-grade hematite deposits, primarily exported to Japan through Visakhapatnam.\nHow many of the above statements are correct?",
@@ -5961,7 +6044,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 151
   },
   {
     "id": 3979,
@@ -5998,7 +6082,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6007,7 +6091,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Ferrous vs Non-Ferrous Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f19f5d7a",
       "questionStem": "With respect to the classification of metallic minerals, which of the following pairs is correctly classified as 'Ferrous' and 'Non-Ferrous' respectively?",
@@ -6032,7 +6116,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 16
   },
   {
     "id": 3980,
@@ -6069,7 +6154,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6078,7 +6163,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Gondwana Coalfields",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_58d940a5",
       "questionStem": "Which of the following Indian coalfields accounts for the maximum production of prime coking coal used in metallurgical industries?",
@@ -6103,7 +6188,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 17
   },
   {
     "id": 3981,
@@ -6140,7 +6226,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6149,7 +6235,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Lignite Coal Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ce65cbca",
       "questionStem": "Which of the following regions contains the most important lignite deposits in India, supporting major thermal power and industrial complexes in the southern peninsula?",
@@ -6174,7 +6260,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 18
   },
   {
     "id": 3982,
@@ -6211,7 +6298,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6220,7 +6307,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Tidal Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5d735b86",
       "questionStem": "Which one of the following regions in India has been identified as having the highest potential for the generation of tidal energy?",
@@ -6245,7 +6332,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 19
   },
   {
     "id": 3983,
@@ -6282,7 +6370,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6291,7 +6379,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Wind Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b36d9b46",
       "questionStem": "Which of the following regions in India is characterized by significant wind energy installations linked to the Palakkad Gap effect?",
@@ -6316,7 +6404,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 20
   },
   {
     "id": 3984,
@@ -6353,7 +6442,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6362,7 +6451,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Ferrous Minerals - Iron Ore",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_74ab2182",
       "questionStem": "Consider the following statements regarding the distribution and reserves of iron ore in India:\n1. Magnetite is the finest iron ore with a very high iron content up to 72 percent and is primarily found in the Kudremukh deposits of Karnataka.\n2. The Bailadila mine in the Bastar district of Chhattisgarh is the largest mechanised iron ore mine in Asia, exporting high-grade hematite mainly to Japan.\n3. The Mayurbhanj and Kendujhar districts of Odisha form a contiguous belt containing India's largest reserves of low-grade siderite ores.\nHow many of the above statements are correct?",
@@ -6387,7 +6476,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 152
   },
   {
     "id": 3985,
@@ -6424,7 +6514,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6433,7 +6523,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Ferrous and Strategic Minerals",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f02ed30f",
       "questionStem": "Consider the following pairs of mineral resources and their principal producing state in India:\n1. Manganese: Odisha\n2. Copper: Rajasthan\n3. Chromite: Jharkhand\nHow many of the above pairs are correctly matched?",
@@ -6458,7 +6548,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 153
   },
   {
     "id": 3986,
@@ -6495,7 +6586,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6504,7 +6595,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Petroleum Geography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_21e6ae0a",
       "questionStem": "Match the following petroleum fields with their respective geographical regions:\n1. Mumbai High : Offshore Arabian Sea\n2. Lakwa : Brahmaputra Valley\n3. Sanand : Cambay Basin\nHow many pairs given above are correctly matched?",
@@ -6529,7 +6620,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 154
   },
   {
     "id": 3987,
@@ -6566,7 +6658,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6575,7 +6667,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Tidal Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5b6d25e9",
       "questionStem": "Consider the following pairs regarding tidal and wave energy potential zones in India:\n1. Gulf of Khambhat: High tidal range suitable for barrage construction\n2. Gulf of Kutch: Significant tidal energy potential along the western seaboard\n3. Sundarbans Delta: Estuarine tidal creek systems with energy harnessing prospects\nHow many of the above pairs are correctly matched?",
@@ -6600,7 +6692,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 155
   },
   {
     "id": 3988,
@@ -6637,7 +6730,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6646,7 +6739,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b4f1adb2",
       "questionStem": "With reference to the historical petroleum pipeline network in northeastern and eastern India, consider the following statements:\n1. The Naharkatia-Nunmati-Barauni pipeline was constructed primarily to transport crude oil from the upper Assam oilfields to refineries in Assam and Bihar.\n2. Nunmati refinery is located in Assam, while Barauni is located in West Bengal.\n3. This pipeline network represents India's first major long-distance crude oil pipeline infrastructure.\nHow many of the above statements are correct?",
@@ -6671,7 +6764,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 156
   },
   {
     "id": 3989,
@@ -6708,7 +6802,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6717,7 +6811,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Non-Ferrous Mineral Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c467b63c",
       "questionStem": "Consider the following pairs of non-ferrous mineral occurrences and their primary states:\n1. Balaghat : Manganese and Copper\n2. Koraput : Bauxite\n3. Jhunjhunu : Copper\nHow many of the above pairs are correctly matched?",
@@ -6742,7 +6836,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 157
   },
   {
     "id": 3990,
@@ -6779,7 +6874,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6788,7 +6883,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Non-Conventional Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_acda1eb6",
       "questionStem": "With reference to the renewable energy infrastructure in India, consider the following pairs:\n1. Madhapur: Solar Energy Hub\n2. Nagercoil to Madurai: Major Wind Energy Corridor\n3. Manikaran: Tidal Energy Harnessing Site\nHow many of the above pairs are correctly matched?",
@@ -6813,7 +6908,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 158
   },
   {
     "id": 3991,
@@ -6850,7 +6946,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6859,7 +6955,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Biomass and Biogas",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bb5766e9",
       "questionStem": "Consider the following statements regarding biogas and biomass energy production in India:\n1. Gobar gas plants utilize anaerobic digestion processes to convert cattle dung into combustible methane and carbon dioxide.\n2. The slurry discharged from biogas plants has reduced fertilizing value compared to raw cattle dung.\n3. Biogas technology helps in mitigating indoor air pollution in rural households.\nHow many of the above statements are correct?",
@@ -6884,7 +6980,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 159
   },
   {
     "id": 3992,
@@ -6921,7 +7018,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -6930,7 +7027,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Wind Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0661fb2f",
       "questionStem": "Assertion (A): Tamil Nadu accounts for one of the largest installed capacities of wind power in India.\nReason (R): The state benefits from strong seasonal winds channeled through major mountain passes such as the Palakkad Gap in the Western Ghats.",
@@ -6955,7 +7052,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 240
   },
   {
     "id": 3993,
@@ -6992,7 +7090,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7001,7 +7099,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_828eac80",
       "questionStem": "Regarding India's Strategic Petroleum Reserve (SPR) facilities managed by Indian Strategic Petroleum Reserves Limited (ISPRL), consider the following locations:\n1. Visakhapatnam\n2. Mangaluru\n3. Padur\n4. Chandikhol\nHow many of the above are currently operational underground crude oil storage facilities constituting Phase-I of the SPR program?",
@@ -7026,7 +7124,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 241
   },
   {
     "id": 3994,
@@ -7063,7 +7162,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7072,7 +7171,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Non-Ferrous Minerals",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c8e13131",
       "questionStem": "Consider the following pairs of non-ferrous mineral belts and their primary associated regions:\n1. Balaghat belt: Copper and Manganese\n2. Koraput-Bargarh belt: Bauxite\n3. Hazaribagh belt: Mica and Uranium\nHow many of the above pairs are correctly matched?",
@@ -7097,7 +7196,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 160
   },
   {
     "id": 3995,
@@ -7134,7 +7234,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7143,7 +7243,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Non-Metallic Minerals - Mica",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fb70d220",
       "questionStem": "Assertion (A): Mica, an important non-metallic mineral used extensively in the electrical and electronics industries, is predominantly found as pegmatite veins in metamorphic rocks.\nReason (R): Mica exhibits high dielectric strength, low power loss factor, and exceptional resistance to high voltages, making it irreplaceable in certain capacitor manufacturing.",
@@ -7168,7 +7268,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 242
   },
   {
     "id": 3996,
@@ -7205,7 +7306,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7214,7 +7315,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Iron Ore Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b8f22294",
       "questionStem": "Consider the following pairs regarding major iron ore belts and their associated mining areas:\n1. Odisha-Jharkhand Belt : Noamundi and Badampahar\n2. Bellary-Chitradurga-Chikkamagaluru-Tumakuru Belt : Kudremukh and Sandur\n3. Maharashtra-Goa Belt : Ratnagiri and Bicholim\nHow many of the above pairs are correctly matched?",
@@ -7239,7 +7340,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 161
   },
   {
     "id": 3997,
@@ -7276,7 +7378,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7285,7 +7387,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Bauxite Formation and Reserves",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e1070c8d",
       "questionStem": "Assertion (A): The Panchpatmali deposits in the Koraput district of Odisha are among the most significant bauxite reserves in India.\nReason (R): Bauxite is an oxide of aluminium formed mainly by the decomposition of a wide variety of rocks rich in silicate minerals under tropical and subtropical climatic conditions.",
@@ -7310,7 +7412,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 243
   },
   {
     "id": 3998,
@@ -7347,7 +7450,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7356,7 +7459,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Geological Distribution of Minerals",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ef893d16",
       "questionStem": "Consider the following statements regarding the structural distribution of metallic minerals in peninsular India:\n1. The Dharwar rock system hosts the majority of metallic mineral resources such as iron ore, manganese, and copper.\n2. The Gondwana rock system contains the highest reserves of non-ferrous metallic minerals in India.\n3. The Vindhyan rock system is primarily known for building stones and limestone rather than large metallic ore deposits.",
@@ -7381,7 +7484,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 162
   },
   {
     "id": 3999,
@@ -7418,7 +7522,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7427,7 +7531,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Mica Distribution in India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e586824a",
       "questionStem": "Consider the following statements regarding the geographical distribution of Mica in India:\n1. The Koderma-Gaya-Hazaribagh belt is situated along the northern edge of the Chota Nagpur plateau and produces high-grade ruby mica.\n2. In Andhra Pradesh, the Nellore mica belt is well-known for the production of green mica.\n3. The mica-bearing pegmatites of Rajasthan are predominantly distributed along the Aravalli range, with significant deposits in Ajmer.",
@@ -7452,7 +7556,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 163
   },
   {
     "id": 4000,
@@ -7489,7 +7594,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7498,7 +7603,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Bituminous Coal Properties",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c0453e7f",
       "questionStem": "Assertion (A): Bituminous coal is the most widely used coal in India for thermal power generation and industrial applications.\nReason (R): Bituminous coal possesses a high calorific value, low moisture content, and represents the bulk of Gondwana coal reserves.",
@@ -7523,7 +7628,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 244
   },
   {
     "id": 4001,
@@ -7560,7 +7666,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7569,7 +7675,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Nuclear Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5d0d4d35",
       "questionStem": "Consider the following statements regarding the distribution and reserves of atomic minerals in India:\n1. Singhbhum shear zone in Jharkhand is the primary repository for uranium mining operations.\n2. Monazite sands found along the coastal tracts of Kerala contain high concentrations of thorium.\n3. Significant commercial reserves of uranium are extensively mined from the sedimentary formations of the Aravalli range.\nHow many of the above statements are correct?",
@@ -7594,7 +7700,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 164
   },
   {
     "id": 4002,
@@ -7631,7 +7738,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7640,7 +7747,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_110e3090",
       "questionStem": "Consider the following pairs regarding strategic petroleum reserve locations and their managing or associated institutional setups:\n1. Visakhapatnam Reserve: Designed with a capacity to store approximately 1.33 million metric tonnes (MMT) of crude oil.\n2. Mangaluru Reserve: Constructed underneath hilly terrain using high-pressure tunneling technology.\n3. Padur Reserve: Located in Karnataka with four underground rock caverns.\nHow many of the above pairs are correctly matched?",
@@ -7665,7 +7772,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 165
   },
   {
     "id": 4003,
@@ -7702,7 +7810,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7711,7 +7819,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Resources - Coal",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e14fa096",
       "questionStem": "Assertion (A): Tertiary coalfields in India, despite having lower fixed carbon and higher moisture content, are strategically significant for thermal power generation in north-eastern and western states.\nReason (R): Tertiary coals are often associated with high sulfur content and occur in regions remote from the main Gondwana basin, necessitating specialized utilization.",
@@ -7736,7 +7844,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 245
   },
   {
     "id": 4004,
@@ -7773,7 +7882,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7782,7 +7891,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Resources - Petroleum",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0fd9bd9b",
       "questionStem": "Consider the following statements regarding India's petroleum and natural gas infrastructure:\n1. Digboi is India's oldest continuously producing oil field, situated in the alluvial tract of the Brahmaputra valley.\n2. Ankleshwar in the Cambay basin is an onshore oil field discovered in the post-independence era that significantly boosted western India's crude output.\n3. Bombay High is an offshore oilfield located on the continental shelf off the coast of Mumbai, trapped in Miocene limestone structures.\nHow many of the above statements are correct?",
@@ -7807,7 +7916,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 166
   },
   {
     "id": 4005,
@@ -7844,7 +7954,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7853,7 +7963,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Copper Mining Centers",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_db075df3",
       "questionStem": "Consider the following non-ferrous mineral mining centers:\n1. Malanjkhand : Madhya Pradesh\n2. Khetri : Rajasthan\n3. Ghatsila : Jharkhand\nWhat is the common metallic mineral associated with all three centers?",
@@ -7878,7 +7988,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 167
   },
   {
     "id": 4006,
@@ -7915,7 +8026,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7924,7 +8035,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Mineral Conservation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c9105cbe",
       "questionStem": "Assertion (A): Mineral conservation requires the systematic use and recycling of minerals to ensure intergenerational equity.\nReason (R): Minerals are non-renewable resources that take millions of years to be formed and concentrated into economically viable deposits.",
@@ -7949,7 +8060,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 246
   },
   {
     "id": 4007,
@@ -7986,7 +8098,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7995,7 +8107,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Properties of Mica",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_750b0702",
       "questionStem": "Consider the following statements regarding the physical and chemical properties of Mica:\n1. It has a hexagonal crystal system characterized by weak intermolecular bonding along the basal planes.\n2. It possesses high dielectric strength and excellent insulating properties, making it indispensable in electrical and electronics industries.\n3. It is thermally stable and can withstand high temperatures without losing its structural integrity.",
@@ -8020,7 +8132,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 168
   },
   {
     "id": 4008,
@@ -8057,7 +8170,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8066,7 +8179,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "State-wise Mineral Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1b4b245b",
       "questionStem": "Consider the following pairs regarding mineral-rich states and their prominent non-metallic mineral contributions:\n1. Rajasthan : Major producer of limestone, marble, and soapstone\n2. Jharkhand : Significant reserves of high-grade ruby mica in the Hazaribagh tract\n3. Meghalaya : Extensive commercial production of crystalline quartz and high-grade limestone for export\n\nHow many of the above pairs are correctly matched?",
@@ -8091,7 +8204,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 169
   },
   {
     "id": 4009,
@@ -8128,7 +8242,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8137,7 +8251,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Nuclear Energy Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d0d2ea32",
       "questionStem": "Consider the following pairs of atomic and mineral resource locations:\n1. Jaduguda: Uranium deposits in the Singhbhum shear zone of Jharkhand\n2. Tummalapalle: Large reserves of uranium found in carbonate rocks of Andhra Pradesh\n3. Chavara and Manavalakurichi: Monazite sands containing thorium along the coastal tracts\nHow many of the above pairs are correctly matched?",
@@ -8162,7 +8276,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 170
   },
   {
     "id": 4010,
@@ -8199,7 +8314,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8208,7 +8323,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Geothermal Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a89d3fda",
       "questionStem": "Geothermal energy exploitation in India is technically feasible in specific geological settings. Match the geothermal sites with their respective geographical regions:\n1. Manikaran: Himachal Pradesh\n2. Puga Valley: Ladakh\n3. Cambay Basin: Gujarat\nHow many of the above pairs are correctly matched?",
@@ -8233,7 +8348,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 171
   },
   {
     "id": 4011,
@@ -8270,7 +8386,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8279,7 +8395,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0e8d21ee",
       "questionStem": "Consider the following statements about the Hazira-Vijaipur-Jagdishpur (HVJ) pipeline network:\n1. It passes through the states of Gujarat, Madhya Pradesh, Rajasthan, and Uttar Pradesh.\n2. It acts as the backbone for supplying feedstock to several HBJ-linked fertilizer plants.\n3. It is managed and operated by Hindustan Petroleum Corporation Limited (HPCL).\nHow many of the above statements are correct?",
@@ -8304,7 +8420,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 172
   },
   {
     "id": 4012,
@@ -8341,7 +8458,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8350,7 +8467,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0e71524c",
       "questionStem": "With reference to the Naharkatia-Nunmati-Barauni crude pipeline, consider the following assertions:\n1. The discovery of oil in the Brahmaputra valley necessitated the establishment of refineries away from the oilfields.\n2. Barauni refinery was set up in Bihar to serve the petroleum product markets of northern and eastern India.\n3. This pipeline was India's first interstate pipeline project.\nHow many of the above assertions are correct?",
@@ -8375,7 +8492,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 173
   },
   {
     "id": 4013,
@@ -8412,7 +8530,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8421,7 +8539,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Bauxite Regional Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f5ea7266",
       "questionStem": "Consider the following pairs matching bauxite-producing regions with their respective states:\n1. Amarkantak plateau : Madhya Pradesh\n2. Maikal hills : Chhattisgarh\n3. Koraput district : Jharkhand\nHow many of the above pairs are correctly matched?",
@@ -8446,7 +8564,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 174
   },
   {
     "id": 4014,
@@ -8483,7 +8602,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -8492,7 +8611,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Bellary-Chitradurga Belt",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2339535d",
       "questionStem": "Assertion (A): The Bellary-Chitradurga-Chikkamagaluru-Tumakuru belt contains vast reserves of iron ore, and several mines in this belt supply ore to the steel plant at Vijayanagar.\nReason (R): The iron ore deposits in this region are primarily hosted within schist belts of the Dharwar craton.",
@@ -8517,7 +8636,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 247
   },
   {
     "id": 4015,
@@ -8554,7 +8674,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8563,7 +8683,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Coal Characteristics and Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_526d6cbd",
       "questionStem": "Consider the following statements regarding the structural and chemical characteristics of Indian coal:\n1. Gondwana coal is of carboniferous age and has a high moisture content along with negligible sulphur.\n2. Anthracite coal, found in commercial quantities in the Jammu and Kashmir region, contains more than 80-95% carbon.\n3. Lignite, often referred to as brown coal, is predominantly found in the Tertiary rock systems of southern and western India.\nHow many of the above statements are correct?",
@@ -8588,7 +8708,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 175
   },
   {
     "id": 4016,
@@ -8625,7 +8746,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -8634,7 +8755,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Tertiary Coal Properties",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4704ddbd",
       "questionStem": "Assertion (A): Tertiary coal deposits in northeastern India generally have a high sulphur content and low ash content compared to Gondwana coal.\nReason (R): Tertiary coal was formed in marine environment conditions during the deposition of vegetal matter in the Paleogene and Neogene periods.",
@@ -8659,7 +8780,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 248
   },
   {
     "id": 4017,
@@ -8696,7 +8818,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8705,7 +8827,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Onshore Petroleum Fields",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_443144a6",
       "questionStem": "Consider the following pairs of oilfields and their corresponding states:\n1. Naharkatiya: Assam\n2. Kalol: Gujarat\n3. Rudrasagar: Nagaland\nHow many of the above pairs are correctly matched?",
@@ -8730,7 +8852,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 176
   },
   {
     "id": 4018,
@@ -8767,7 +8890,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8776,7 +8899,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Natural Gas and CBM Infrastructure",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_84105c8b",
       "questionStem": "Consider the following statements regarding India's natural gas infrastructure and reserves:\n1. The Hazira-Bijaipur-Jagdishpur (HBJ) pipeline transports natural gas from western offshore and onshore fields to northern and western industrial units.\n2. Major natural gas reserves are concentrated in the offshore basins of the western coast (Mumbai High/Bassein) and eastern coast (KG Basin).\n3. Coal Bed Methane (CBM) extraction in India is primarily developed in the Gondwana coalfields of Jharkhand and Madhya Pradesh.\nHow many of the above statements are correct?",
@@ -8801,7 +8924,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 177
   },
   {
     "id": 4019,
@@ -8838,7 +8962,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8847,7 +8971,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Solar Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c30fb9b2",
       "questionStem": "Consider the following statements regarding India's solar energy infrastructure:\n1. Bhadla Solar Park in Rajasthan is one of the largest operational ultra-mega solar power parks in the world.\n2. The National Solar Mission aims to promote grid-connected solar power generation as well as off-grid applications.\n3. Photovoltaic cells convert solar radiation directly into electrical energy using semiconductor materials.\nHow many of the above statements are correct?",
@@ -8872,7 +8996,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 178
   },
   {
     "id": 4020,
@@ -8909,7 +9034,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -8918,7 +9043,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Nuclear Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c71db987",
       "questionStem": "Assertion (A): Thorium is considered a strategic nuclear fuel for India's long-term energy security.\nReason (R): India possesses vast reserves of monazite sand along its coastal tracts, which contain significantly higher domestic reserves of thorium compared to uranium.",
@@ -8943,7 +9068,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 249
   },
   {
     "id": 4021,
@@ -8980,7 +9106,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8989,7 +9115,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fad78a02",
       "questionStem": "Consider the following statements regarding the Jamnagar-Loni LPG pipeline:\n1. It is operated by the Gas Authority of India Limited (GAIL).\n2. It originates from the refinery complex in Gujarat and terminates in the National Capital Region of Uttar Pradesh.\n3. It is designed exclusively for the transportation of liquid petroleum gas, eliminating the road transport bottlenecks of pressurized tankers.\nHow many of the above statements are correct?",
@@ -9014,7 +9140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 179
   },
   {
     "id": 4022,
@@ -9051,7 +9178,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9060,7 +9187,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1251f2ad",
       "questionStem": "Consider the following objectives behind the expansion of the natural gas pipeline grid, including branches of the HVJ network:\n1. Transitioning India towards a gas-based economy to lower greenhouse gas emissions.\n2. Providing uninterrupted feedstock to power generation units and fertilizer manufacturing units.\n3. Completely eliminating the import dependence of crude oil by substituting it locally with pipeline gas.\nHow many of the above objectives are correct?",
@@ -9085,7 +9212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 180
   },
   {
     "id": 4023,
@@ -9122,7 +9250,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9131,7 +9259,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Resources - Coal Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_25f4b924",
       "questionStem": "Which of the following geographical characteristics best distinguishes Gondwana coal from Tertiary coal in India?",
@@ -9156,7 +9284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 181
   },
   {
     "id": 4024,
@@ -9193,7 +9322,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9202,7 +9331,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Non-conventional Energy - Geothermal",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8578524e",
       "questionStem": "Regarding India's non-conventional geothermal energy potential, consider the following statements:\n1. Manikaran in the Parvati valley of Himachal Pradesh utilizes hot springs driven by shallow crustal thermal anomalies.\n2. Puga valley in Ladakh represents one of India's most promising high-temperature geothermal resource sites, associated with the Indus-Tsangpo Suture Zone.\nWhich of the statements given above is/are correct?",
@@ -9227,7 +9356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 182
   },
   {
     "id": 4025,
@@ -9264,7 +9394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9273,7 +9403,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Non-conventional Energy - Wind",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b30b29d9",
       "questionStem": "Which of the following regions in India holds the highest potential and installed capacity for wind energy generation, primarily due to uninterrupted coastal and interior plateau wind regimes?",
@@ -9298,7 +9428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 183
   },
   {
     "id": 4026,
@@ -9335,7 +9466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9344,7 +9475,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Non-conventional Energy - Solar",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8206a03b",
       "questionStem": "Which of the following statements accurately describes the distribution and strategic significance of India's solar energy initiatives?",
@@ -9369,7 +9500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 184
   },
   {
     "id": 4027,
@@ -9406,7 +9538,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9415,7 +9547,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Manganese Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0edf3111",
       "questionStem": "Consider the following statements regarding the manganese deposits in India:\n1. India is one of the leading producers of manganese in the world, and the mineral is primarily used in the manufacturing of ferro-manganese alloys.\n2. The Nagpur-Bhandara belt in Maharashtra and the Balaghat belt in Madhya Pradesh together account for a major share of India's high-grade manganese production.\n3. Manganese is predominantly found in sedimentary rock formations of the Archean era.",
@@ -9440,7 +9572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 185
   },
   {
     "id": 4028,
@@ -9477,7 +9610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9486,7 +9619,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Copper Belts and Deficit",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_986ab514",
       "questionStem": "With reference to copper distribution and mining in India, consider the following statements:\n1. The Khetri copper belt is situated in the Aravalli hills of Rajasthan and is known for hydrothermal vein-type copper deposits.\n2. The Singhbhum copper belt in Jharkhand is one of the oldest and most extensively mined copper-bearing zones in the country.\n3. India is self-sufficient in copper ore production and exports refined copper to global markets.",
@@ -9511,7 +9644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 186
   },
   {
     "id": 4029,
@@ -9548,7 +9682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9557,7 +9691,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Mineral Belts and Regions",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f1b17308",
       "questionStem": "Consider the following pairs regarding major non-metallic mineral belts and their associated regions in India:\n1. Koderma-Gaya-Hazaribagh belt : Chota Nagpur Plateau\n2. Nellore mica belt : Eastern Ghats foothills\n3. Bhilwara-Ajmer belt : Malwa Plateau\n\nHow many of the above pairs are correctly matched?",
@@ -9582,7 +9716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 187
   },
   {
     "id": 4030,
@@ -9619,7 +9754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9628,7 +9763,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Mineral Conservation Strategies",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_42c5db47",
       "questionStem": "Which of the following strategies is considered a direct and effective measure for the long-term conservation of non-fuel non-metallic mineral resources like mica and limestone?",
@@ -9653,7 +9788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 188
   },
   {
     "id": 4031,
@@ -9690,7 +9826,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9699,7 +9835,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Mineral Policy and Governance",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1887f982",
       "questionStem": "Which of the following policy instruments is primarily utilized by the government to curb illegal mining and promote sustainable mineral extraction in India?",
@@ -9724,7 +9860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 189
   },
   {
     "id": 4032,
@@ -9761,7 +9898,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9770,7 +9907,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Tertiary Coalfields",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_19649d5d",
       "questionStem": "Consider the following pairs regarding Tertiary coalfields in India and their locations:\n1. Makum: Assam\n2. Namchik-Namphuk: Arunachal Pradesh\n3. Laitryngew: Meghalaya\nHow many of the above pairs are correctly matched?",
@@ -9795,7 +9932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 190
   },
   {
     "id": 4033,
@@ -9832,7 +9970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9841,7 +9979,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Gondwana Coal Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b8d1b77d",
       "questionStem": "Consider the following statements regarding the structural distribution of coal in India:\n1. More than 90% of India's coal reserves and production are attributed to the Gondwana formations.\n2. The Damodar valley accounts for the single largest concentration of Gondwana coal reserves in the country.\n3. Wardha Valley and Mahanadi Valley coalfields are part of the Extra-Peninsular coal deposits.\nHow many of the above statements are correct?",
@@ -9866,7 +10004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 191
   },
   {
     "id": 4034,
@@ -9903,7 +10042,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -9912,7 +10051,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Geothermal Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_38ffcb18",
       "questionStem": "Assertion (A): Puga Valley in Ladakh is recognized as one of the most promising locations for geothermal energy development in India.\nReason (R): The valley features active geothermal manifestations such as hot springs, borax deposits, and high sub-surface thermal gradients associated with the Himalayan tectonic collision zone.",
@@ -9937,7 +10076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 250
   },
   {
     "id": 4035,
@@ -9974,7 +10114,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9983,7 +10123,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Geothermal Energy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f9fae595",
       "questionStem": "Which of the following non-conventional energy sources relies fundamentally on the extraction of heat stored beneath the Earth's crust resulting from radioactive decay and primordial heat?",
@@ -10008,7 +10148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 21
   },
   {
     "id": 4036,
@@ -10045,7 +10186,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10054,7 +10195,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1d105bb7",
       "questionStem": "Consider the following pairs regarding the major cross-country natural gas pipelines in India:\n1. HVJ Pipeline: Connects Hazira in Gujarat to Jagdishpur in Uttar Pradesh via Vijaipur.\n2. HBJ Pipeline expansion: Supplies natural gas exclusively to the fertilizer plants along its route.\n3. Dahej-Uran-Mumbai Pipeline: Integrates western offshore gas fields with the southern grid of Gujarat.\nHow many of the above pairs are correctly matched?",
@@ -10079,7 +10220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 192
   },
   {
     "id": 4037,
@@ -10116,7 +10258,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10125,7 +10267,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ca7e94bf",
       "questionStem": "Consider the following pairs regarding strategic petroleum storage and their coastal geographical advantages:\n1. Visakhapatnam SPR: Situated on the east coast, facilitating direct unloading of Very Large Crude Carriers (VLCCs) from the Middle East via the Bay of Bengal.\n2. Mangaluru SPR: Situated on the west coast, strategically placed to tap crude shipments originating from African and European suppliers.\n3. Padur SPR: Located in Kerala, connected via dedicated pipelines to coastal single point mooring (SPM) facilities.\nHow many of the above pairs are correctly matched?",
@@ -10150,7 +10292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 193
   },
   {
     "id": 4038,
@@ -10187,7 +10330,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10196,7 +10339,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b55a9e16",
       "questionStem": "Why are underground rock caverns preferred over conventional above-ground steel tanks for maintaining India's Strategic Petroleum Reserves (SPR)?\n1. They offer inherent safety against external attacks, sabotage, and aerial bombardment.\n2. They require active active refrigeration systems to maintain low temperatures for heavy crude.\n3. The surrounding rock strata and natural water table pressure prevent the leakage of stored hydrocarbons.\nSelect the correct answer using the code given below:",
@@ -10221,7 +10364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 194
   },
   {
     "id": 4039,
@@ -10258,7 +10402,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10267,7 +10411,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fbea0fc9",
       "questionStem": "Consider the following statements regarding the evolution of India's pipeline transportation network:\n1. Pipelines are restricted only to the movement of natural gas and refined petroleum products.\n2. The laying of cross-country pipelines significantly lowers the carbon footprint and transit losses compared to rail and road tanker transport.\n3. The Petroleum and Natural Gas Regulatory Board (PNGRB) regulates the refining margins of private petroleum companies.\nHow many of the above statements are correct?",
@@ -10292,7 +10436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 195
   },
   {
     "id": 4040,
@@ -10329,7 +10474,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10338,7 +10483,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_138ccb6e",
       "questionStem": "Why does India maintain strategic petroleum reserves (SPRs) despite having domestic refining capacity and commercial crude inventories held by oil companies?\n1. To mitigate supply disruptions caused by geopolitical conflicts or supply shocks in international crude markets.\n2. To comply with the mandatory International Energy Agency (IEA) emergency stockholding obligation for member countries.\n3. To replace the regular crude import requirements of Indian public sector refineries during routine maintenance.\nSelect the correct answer using the code given below:",
@@ -10363,7 +10508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 196
   },
   {
     "id": 4041,
@@ -10400,7 +10546,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10409,7 +10555,7 @@
     "originalTier": "Premium",
     "originalTopicId": 58,
     "originalTopicName": "Energy Infrastructure & Pipelines",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e241e2bc",
       "questionStem": "Consider the following statements regarding the Jamnagar-Loni LPG pipeline infrastructure:\n1. It crosses multiple rivers and railway tracks, necessitating specialized engineering and safety valves.\n2. It is primarily designed to supply bulk LPG to domestic households directly without passing through bottling plants.\n3. It reduces the dependence on highway transport for hazardous flammable materials.\nHow many of the above statements are correct?",
@@ -10434,7 +10580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 197
   },
   {
     "id": 4042,
@@ -10502,7 +10649,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 22,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4043,
@@ -10570,7 +10719,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 23,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4044,
@@ -10638,7 +10789,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 24,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4045,
@@ -10706,7 +10859,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 25,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4046,
@@ -10774,7 +10929,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 198,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4047,
@@ -10842,7 +10999,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 26,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4048,
@@ -10910,7 +11069,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 27,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4049,
@@ -10978,7 +11139,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 28,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4050,
@@ -11046,7 +11209,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 29,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4051,
@@ -11114,7 +11279,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 30,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4052,
@@ -11182,7 +11349,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 31,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4053,
@@ -11250,7 +11419,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 32,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4054,
@@ -11318,7 +11489,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 33,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4055,
@@ -11386,7 +11559,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 34,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4056,
@@ -11454,7 +11629,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 35,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4057,
@@ -11522,7 +11699,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 36,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4058,
@@ -11590,7 +11769,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 37,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4059,
@@ -11658,7 +11839,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 38,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4060,
@@ -11726,7 +11909,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 39,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4061,
@@ -11794,7 +11979,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 40,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4062,
@@ -11862,7 +12049,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 41,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4063,
@@ -11930,7 +12119,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 42,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4064,
@@ -11998,7 +12189,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 43,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4065,
@@ -12066,7 +12259,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 44,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4066,
@@ -12134,7 +12329,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 199,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4067,
@@ -12202,7 +12399,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 45,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4068,
@@ -12270,7 +12469,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 46,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4069,
@@ -12338,7 +12539,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 47,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4070,
@@ -12406,7 +12609,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 48,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4071,
@@ -12474,7 +12679,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 49,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4072,
@@ -12542,7 +12749,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 50,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4073,
@@ -12610,7 +12819,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 51,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4074,
@@ -12678,7 +12889,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 52,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4075,
@@ -12746,7 +12959,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 53,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4076,
@@ -12814,7 +13029,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 54,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4077,
@@ -12882,7 +13099,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 55,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4078,
@@ -12950,7 +13169,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 56,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4079,
@@ -13018,7 +13239,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 57,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4080,
@@ -13086,7 +13309,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 58,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4081,
@@ -13154,7 +13379,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 59,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4082,
@@ -13222,7 +13449,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 200,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4083,
@@ -13290,7 +13519,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 60,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4084,
@@ -13358,7 +13589,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 61,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4085,
@@ -13426,7 +13659,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 62,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4086,
@@ -13494,7 +13729,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 63,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4087,
@@ -13562,7 +13799,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 201,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4088,
@@ -13630,7 +13869,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 64,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4089,
@@ -13698,7 +13939,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 202,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4090,
@@ -13766,7 +14009,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 65,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4091,
@@ -13834,7 +14079,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 203,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4092,
@@ -13902,7 +14149,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 66,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4093,
@@ -13970,7 +14219,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 67,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4094,
@@ -14038,7 +14289,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 68,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4095,
@@ -14106,7 +14359,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 69,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4096,
@@ -14174,7 +14429,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 70,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4097,
@@ -14242,7 +14499,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 71,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4098,
@@ -14310,7 +14569,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 72,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4099,
@@ -14378,7 +14639,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 73,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4100,
@@ -14446,7 +14709,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 74,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4101,
@@ -14514,7 +14779,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 75,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4102,
@@ -14582,7 +14849,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 76,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4103,
@@ -14650,7 +14919,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 77,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4104,
@@ -14718,7 +14989,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 78,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4105,
@@ -14786,7 +15059,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 79,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4106,
@@ -14854,7 +15129,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 80,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4107,
@@ -14922,7 +15199,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 81,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4108,
@@ -14990,7 +15269,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 204,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4109,
@@ -15058,7 +15339,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 82,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4110,
@@ -15126,7 +15409,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 83,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4111,
@@ -15194,7 +15479,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 205,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4112,
@@ -15262,7 +15549,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 206,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4113,
@@ -15330,7 +15619,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 84,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4114,
@@ -15398,7 +15689,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 85,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4115,
@@ -15466,7 +15759,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 86,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4116,
@@ -15534,7 +15829,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 87,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4117,
@@ -15602,7 +15899,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 88,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4118,
@@ -15670,7 +15969,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 89,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4119,
@@ -15738,7 +16039,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 90,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4120,
@@ -15806,7 +16109,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 91,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4121,
@@ -15874,7 +16179,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 92,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4122,
@@ -15942,7 +16249,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 93,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4123,
@@ -16010,7 +16319,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 94,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4124,
@@ -16078,7 +16389,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 207,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4125,
@@ -16146,7 +16459,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 95,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4126,
@@ -16214,7 +16529,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 208,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4127,
@@ -16282,7 +16599,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 96,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4128,
@@ -16350,7 +16669,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 97,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4129,
@@ -16418,7 +16739,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 98,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4130,
@@ -16486,7 +16809,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 99,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4131,
@@ -16554,7 +16879,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 209,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4132,
@@ -16622,7 +16949,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 100,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4133,
@@ -16690,7 +17019,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 101,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4134,
@@ -16758,7 +17089,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 102,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4135,
@@ -16826,7 +17159,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 103,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4136,
@@ -16894,7 +17229,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 104,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4137,
@@ -16962,7 +17299,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 105,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4138,
@@ -17030,7 +17369,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 106,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4139,
@@ -17098,7 +17439,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 210,
+    "subTopic": "Energy Policy"
   },
   {
     "id": 4140,
@@ -17166,7 +17509,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 107,
+    "subTopic": "Coal & Petroleum"
   },
   {
     "id": 4141,
@@ -17234,7 +17579,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 108,
+    "subTopic": "Nuclear Energy"
   },
   {
     "id": 4142,
@@ -17302,7 +17649,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 109,
+    "subTopic": "Minerals Distribution"
   },
   {
     "id": 4143,
@@ -17370,7 +17719,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 110,
+    "subTopic": "Renewable Energy"
   },
   {
     "id": 4144,
@@ -17438,6 +17789,8 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 111,
+    "subTopic": "Energy Policy"
   }
 ]

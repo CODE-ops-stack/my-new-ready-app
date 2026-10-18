@@ -34,7 +34,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "Standard",
     "originalTopicId": 2,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c7cc8541",
       "questionStem": "Which of the following imaginary lines on the globe represents the parallel of latitude situated at approximately 23.5° South?",
@@ -68,7 +68,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 152,
@@ -105,7 +106,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Standard",
     "originalTopicId": 2,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_98058d27",
       "questionStem": "A cricket match begins in London (0° longitude) at 10:00 AM GMT. A viewer is watching the live broadcast from a location situated at 82°30' East longitude. What is the local time of the viewer?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 153,
@@ -176,7 +178,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Standard",
     "originalTopicId": 2,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6b130e66",
       "questionStem": "Consider the following statements regarding the International Date Line (IDL):\n1. It generally follows the 180° meridian, but deviates from it to pass through the Bering Strait.\n2. When crossing the IDL from west to east, a traveler gains one full calendar day.\n3. The IDL passes entirely through oceanic waters and does not touch any landmass to avoid confusion in local time.\nHow many of the statements given above are correct?",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 41
   },
   {
     "id": 154,
@@ -247,7 +250,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Standard",
     "originalTopicId": 2,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e9a357e0",
       "questionStem": "Consider the following pairs regarding Heat Zones of the Earth:\n1. Torrid Zone: Area between Tropic of Cancer and Tropic of Capricorn\n2. Temperate Zone: Area between Arctic Circle and North Pole\n3. Frigid Zone: Area between Antarctic Circle and South Pole\nWhich of the pairs given above are correctly matched?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 42
   },
   {
     "id": 155,
@@ -318,7 +322,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Standard",
     "originalTopicId": 2,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_410d3b79",
       "questionStem": "Statement-I: The distance between two consecutive meridians of longitude remains uniform from the Equator to the Poles.\nStatement-II: Unlike parallels of latitude, all meridians of longitude converge at the poles and are of equal length.",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 156,
@@ -389,7 +394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Standard",
     "originalTopicId": 2,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a777cb42",
       "questionStem": "Which of the following is NOT a correct characteristic of parallels of latitude?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 43
   },
   {
     "id": 157,
@@ -460,7 +466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3fef2018",
       "questionStem": "Consider the following statements regarding the Earth's Heat Budget:\n1. Albedo accounts for roughly 35 units of the incoming shortwave radiation being reflected directly back to space.\n2. The Earth's surface receives energy not only from direct insolation but also via terrestrial radiation through the greenhouse effect.\n3. The surplus of net radiation at tropical latitudes is balanced by the poleward transport of heat via ocean currents and winds.\nHow many of the above statements are correct?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 44
   },
   {
     "id": 158,
@@ -531,7 +538,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_37a87b40",
       "questionStem": "Statement-I: Tropical cyclones do not form within 5 degrees of the equator.\nStatement-II: The Coriolis force is zero at the equator, which is essential for imparting the rotational spin to the storm.",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 159,
@@ -602,7 +610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_506dbf60",
       "questionStem": "Which of the following is NOT a characteristic feature of the Inter Tropical Convergence Zone (ITCZ)?",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 45
   },
   {
     "id": 160,
@@ -673,7 +682,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_08655fd3",
       "questionStem": "Statement-I: The Earth's surface receives maximum insolation at the equator rather than the poles throughout the year.\nStatement-II: The angle of incidence of sun rays decreases from the equator towards the poles, distributing solar energy over a larger surface area at higher latitudes.",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 161,
@@ -744,7 +754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_492bb0cc",
       "questionStem": "In the context of planetary pressure belts and wind systems, why are the subtropical high-pressure belts (Horse Latitudes) generally associated with arid and desert conditions on the western margins of continents?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 46
   },
   {
     "id": 162,
@@ -815,7 +826,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9221daf3",
       "questionStem": "Which of the following atmospheric mechanisms is the primary driving force behind the sudden onset of the Indian Summer Monsoon (the 'burst' of the monsoon)?",
@@ -849,7 +860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 47
   },
   {
     "id": 163,
@@ -886,7 +898,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4041c5c0",
       "questionStem": "Statement-I: Tropical cyclones dissipate rapidly upon making landfall.\nStatement-II: The Coriolis force is zero at the equator, preventing the initial rotational vortex required for cyclone formation.",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 164,
@@ -957,7 +970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -966,7 +979,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_13e0328e",
       "questionStem": "Which of the following is NOT correct regarding the Subtropical High-Pressure Belts (Horse Latitudes)?",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 48
   },
   {
     "id": 165,
@@ -1028,7 +1042,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1037,7 +1051,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1d156102",
       "questionStem": "Why does the annual range of temperature in the interior of Eurasian landmasses significantly exceed that of coastal locations at the same latitude?",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 49
   },
   {
     "id": 166,
@@ -1099,7 +1114,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1108,7 +1123,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c2295aaf",
       "questionStem": "Statement-I: The southwest monsoon winds experience a complete directional reversal as they cross the equator from the Southern Hemisphere to the Indian subcontinent.\nStatement-II: The apparent northward movement of the sun during summer shifts the Inter-Tropical Convergence Zone (ITCZ) significantly northwards across the Indian plains.",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 116
   },
   {
     "id": 167,
@@ -1170,7 +1186,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1179,7 +1195,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e7bc3875",
       "questionStem": "Which of the following National Parks is geographically closest to the Tropic of Cancer?",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 3
   },
   {
     "id": 168,
@@ -1241,7 +1258,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1250,7 +1267,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map_004",
       "questionStem": "Which of the following capital cities is closest to the Tropic of Cancer?",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 4
   },
   {
     "id": 169,
@@ -1312,7 +1330,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1321,7 +1339,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map_013",
       "questionStem": "Consider the following straits: 1. Strait of Malacca 2. Sunda Strait 3. Lombok Strait 4. Makassar Strait Which of them cross the equator?",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 117
   },
   {
     "id": 170,
@@ -1383,7 +1402,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1392,7 +1411,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map2_i1j2k3l4",
       "questionStem": "Through which of the following South American countries does the Equator pass? 1. Ecuador 2. Colombia 3. Brazil 4. Peru",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 5
   },
   {
     "id": 171,
@@ -1454,7 +1474,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1463,7 +1483,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map3_k7l8m9",
       "questionStem": "Which of these African countries are crossed by the Equator? 1. Kenya, 2. Uganda, 3. Rwanda, 4. Democratic Republic of Congo.",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 6
   },
   {
     "id": 172,
@@ -1525,7 +1546,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1534,7 +1555,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_y5z6a7",
       "questionStem": "Which northeastern state lies entirely to the north of the Tropic of Cancer?",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 7
   },
   {
     "id": 173,
@@ -1596,7 +1618,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1605,7 +1627,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_7g8h9i",
       "questionStem": "Which of the following state capitals is situated closest to the Tropic of Cancer?",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 8
   },
   {
     "id": 174,
@@ -1667,7 +1690,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1676,7 +1699,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map6_e1f2g3",
       "questionStem": "Which of the following South-East Asian countries are crossed by the Equator? 1. Indonesia 2. Malaysia 3. Singapore Select the correct answer using the code given below:",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 9
   },
   {
     "id": 175,
@@ -1738,7 +1762,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1747,7 +1771,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map8_9m0n",
       "questionStem": "Which significant African river is notable for crossing the Tropic of Capricorn twice during its course?",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 10
   },
   {
     "id": 176,
@@ -1809,7 +1834,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1818,7 +1843,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_4d5e6f",
       "questionStem": "The Standard Meridian of India (82°30'E) and the Tropic of Cancer intersect in which of the following states?",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 11
   },
   {
     "id": 177,
@@ -1880,7 +1906,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1889,7 +1915,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_d4e5f6",
       "questionStem": "If a line of longitude is drawn at 80° E, which of the following major cities would lie closest to it?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 12
   },
   {
     "id": 178,
@@ -1951,7 +1978,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1960,7 +1987,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_g7h8i9",
       "questionStem": "Consider the latitudes of the northernmost point of India and the southernmost point of the Indian mainland. The approximate latitudinal extent is:",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 13
   },
   {
     "id": 179,
@@ -2022,7 +2050,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2031,7 +2059,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_j0k1l2",
       "questionStem": "Which of the following lines of latitude passes through the maximum number of Indian states?",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 14
   },
   {
     "id": 180,
@@ -2093,7 +2122,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2102,7 +2131,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_p6q7r8",
       "questionStem": "Which of the following states is NOT crossed by the 80° East longitude?",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 15
   },
   {
     "id": 181,
@@ -2164,7 +2194,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2173,7 +2203,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_e1f2g3",
       "questionStem": "Which latitude roughly divides India into two equal halves?",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 16
   },
   {
     "id": 182,
@@ -2235,7 +2266,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2244,7 +2275,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_h4i5j6",
       "questionStem": "Which among the following states has its capital located South of the Tropic of Cancer?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 17
   },
   {
     "id": 183,
@@ -2306,7 +2338,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2315,7 +2347,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_n0o1p2",
       "questionStem": "If you are sailing along the 8°4' N latitude near the Indian mainland, you are closest to which geographical landmark?",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 18
   },
   {
     "id": 184,
@@ -2377,7 +2410,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2386,7 +2419,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_q3r4s5",
       "questionStem": "Which line of longitude serves as the standard meridian for India?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 19
   },
   {
     "id": 185,
@@ -2448,7 +2482,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2457,7 +2491,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_t6u7v8",
       "questionStem": "Which of these island groups lies closest to the Equator?",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 20
   },
   {
     "id": 186,
@@ -2519,7 +2554,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2528,7 +2563,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_i1j2k3",
       "questionStem": "Which of the following states does not have the Tropic of Cancer passing through it?",
@@ -2553,7 +2588,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 21
   },
   {
     "id": 187,
@@ -2590,7 +2626,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2599,7 +2635,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_5c6d7e",
       "questionStem": "The Great Victoria Desert in Australia is associated with the desiccating influence of which ocean current?",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 22
   },
   {
     "id": 188,
@@ -2661,7 +2698,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2670,7 +2707,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_8f9g0h",
       "questionStem": "Which country holds the unique geographical distinction of having both the Equator and the Tropic of Capricorn passing through its continental territory?",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 23
   },
   {
     "id": 189,
@@ -2732,7 +2770,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2741,7 +2779,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford4_1c2d3e",
       "questionStem": "The equator passes through which of the following South-East Asian countries? 1. Indonesia 2. Malaysia 3. Philippines Select the correct answer using the code given below:",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 24
   },
   {
     "id": 190,
@@ -2803,7 +2842,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2812,7 +2851,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e8529c90",
       "questionStem": "Consider the following major Indian cities located close to the Tropic of Cancer (23.5° N):\n1. Gandhinagar\n2. Bhopal\n3. Ranchi\n4. Agartala\n\nWhich of the following is the correct arrangement of these cities from West to East?",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 50
   },
   {
     "id": 191,
@@ -2874,7 +2914,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2883,7 +2923,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map1_c5d6e7",
       "questionStem": "If you move from the west coast to the east coast in Peninsular India roughly along the 15°N latitude, the sequence of physical features you will cross is:",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 51
   },
   {
     "id": 192,
@@ -2945,7 +2986,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2954,7 +2995,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map3_b8c9d0",
       "questionStem": "If you follow the Indian Standard Time (IST) meridian (82°30'E) from North to South, which of these states is NOT crossed?",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 25
   },
   {
     "id": 193,
@@ -3016,7 +3058,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3025,7 +3067,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map4_c9d0e1f2",
       "questionStem": "Which of the following sequences of African countries does the Equator pass through, arranged from West to East?",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 52
   },
   {
     "id": 194,
@@ -3087,7 +3130,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3096,7 +3139,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map4_s5t6u7v8",
       "questionStem": "Which sequence correctly represents the states the Tropic of Cancer passes through in India from West to East?",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 53
   },
   {
     "id": 195,
@@ -3158,7 +3202,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map7_h4i5j6",
       "questionStem": "Arrange the following National Parks crossing the Tropic of Cancer from North to South: 1. Madhav 2. Ranthambore 3. Pench 4. Sariska",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 26
   },
   {
     "id": 196,
@@ -3229,7 +3274,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3238,7 +3283,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_4h5i6j",
       "questionStem": "Based on the Oxford Student Atlas, which of the following South American countries does the Equator pass through? 1. Ecuador 2. Colombia 3. Brazil 4. Peru Select the correct answer using the code given below:",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 197,
@@ -3300,7 +3346,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3309,7 +3355,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_7k8l9m",
       "questionStem": "Through which of the following sequences of African countries does the Tropic of Capricorn pass, from West to East?",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 27
   },
   {
     "id": 198,
@@ -3371,7 +3418,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3380,7 +3427,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_2z3a4b",
       "questionStem": "Which of the following major water bodies are crossed by the Tropic of Cancer? 1. Gulf of Mexico 2. Red Sea 3. Taiwan Strait 4. Mediterranean Sea Select the correct answer using the code given below:",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 28
   },
   {
     "id": 199,
@@ -3442,7 +3490,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3451,7 +3499,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred2_s9t0u1v",
       "questionStem": "Climate change in the Arctic induces complex positive feedback loops. In the context of shrinking high-latitude lakes in sub-Arctic permafrost regions (thermokarst lakes), what is the primary global consequence of their rapid formation, expansion, and subsequent drainage?",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 55
   },
   {
     "id": 200,
@@ -3513,7 +3562,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3522,7 +3571,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_8",
       "questionStem": "With reference to the Indian Ocean Dipole (IOD), consider the following statements: 1. A positive IOD is characterized by warmer than normal sea surface temperatures in the western equatorial Indian Ocean. 2. A positive IOD generally brings above-average rainfall to India. 3. A negative IOD is associated with drought conditions in East Africa and floods in Indonesia. How many of the above statements are correct?",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 118
   },
   {
     "id": 201,
@@ -3584,7 +3634,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3593,7 +3643,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_12",
       "questionStem": "Consider the following climatic features: 1. Mean monthly temperature remains above 18°C throughout the year. 2. Pronounced dry season in winter. 3. Found largely in Peninsular India south of the Tropic of Cancer. Which of Koppen's climate types exhibits these characteristics?",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 119
   },
   {
     "id": 202,
@@ -3655,7 +3706,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3664,7 +3715,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5fa1114e",
       "questionStem": "Consider the following statements regarding the spatial and temporal variations of insolation:\n1. The maximum insolation is received over the tropical deserts rather than the equator.\n2. Earth receives maximum insolation during the month of July when it is closest to the sun.\n3. High-latitude regions experience extreme seasonal variations in day length compared to equatorial regions.\nHow many of the above statements are correct?",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 56
   },
   {
     "id": 203,
@@ -3726,7 +3778,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3735,7 +3787,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2c3a73cc",
       "questionStem": "Consider the following statements regarding the Tropic of Cancer in India:\n1. It passes through exactly eight Indian states.\n2. Ranchi, the capital of Jharkhand, is situated very close to the Tropic of Cancer.\n3. Among the capitals of the states through which it passes, Gandhinagar lies furthest to the north.\nWhich of the statements given above are correct?",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 57
   },
   {
     "id": 204,
@@ -3797,7 +3850,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3806,7 +3859,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b5d1edc9",
       "questionStem": "Consider the following statements:\n1. The Indian Standard Meridian (82°30' E) passes through five states.\n2. The Tropic of Cancer and the Indian Standard Meridian intersect each other in the state of Madhya Pradesh.\nWhich of the statements given above is/are correct?",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 58
   },
   {
     "id": 205,
@@ -3868,7 +3922,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3877,7 +3931,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map_015",
       "questionStem": "If you follow the Prime Meridian (0 degrees longitude) from North to South starting from Europe, how many of the following African countries will you cross? 1. Algeria 2. Mali 3. Niger 4. Ghana",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 120
   },
   {
     "id": 206,
@@ -3939,7 +3994,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3948,7 +4003,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map2_y7z8a9b0",
       "questionStem": "Which among the following states is NOT bisected by the Tropic of Cancer?",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 29
   },
   {
     "id": 207,
@@ -4010,7 +4066,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4019,7 +4075,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map9_s9t0u1",
       "questionStem": "If you are standing at the intersection of 82.5° E longitude and 23.5° N latitude, you are in the state of:",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 30
   },
   {
     "id": 208,
@@ -4081,7 +4138,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4090,7 +4147,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_4d5e6f",
       "questionStem": "Consider the following pairs of Latitudinal Lines and the Countries they cross: 1. Tropic of Cancer : Oman 2. Equator : Maldives 3. Tropic of Capricorn : Bolivia How many pairs given above are correctly matched?",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 121
   },
   {
     "id": 209,
@@ -4152,7 +4210,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4161,7 +4219,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_3m4n5o",
       "questionStem": "Consider the following pairs of African Countries and the Equator: 1. Gabon : Crossed by Equator 2. Rwanda : Crossed by Equator 3. Uganda : Crossed by Equator How many pairs given above are correctly matched?",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 122
   },
   {
     "id": 210,
@@ -4223,7 +4282,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_9s0t1u",
       "questionStem": "Consider the following pairs of Geographical lines and Continents/Islands they pass through: 1. Tropic of Capricorn : Madagascar 2. Tropic of Cancer : Taiwan 3. Equator : Kiribati How many pairs given above are correctly matched?",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 211,
@@ -4294,7 +4354,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_5y6z7a",
       "questionStem": "Consider the following pairs of Ocean Currents and their general flow direction relative to the Equator: 1. California Current : Flows equatorward (southward) 2. Peru Current : Flows equatorward (northward) 3. East Australian Current : Flows poleward (southward) How many pairs given above are correctly matched?",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 212,
@@ -4365,7 +4426,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4374,7 +4435,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_8b9c0d",
       "questionStem": "Consider the following pairs of Latitudinal lines and major water bodies they cross: 1. Equator : Lake Victoria 2. Tropic of Cancer : Red Sea 3. Tropic of Capricorn : Lake Tanganyika How many pairs given above are correctly matched?",
@@ -4399,7 +4460,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 213,
@@ -4436,7 +4498,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_oxford3_9w0x1y",
       "questionStem": "Arrange the following African countries from West to East based on their intersection with the Equator: 1. Uganda 2. Gabon 3. Kenya 4. Democratic Republic of the Congo Select the correct answer using the code given below:",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 59
   },
   {
     "id": 214,
@@ -4507,7 +4570,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4516,7 +4579,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred2_b2c3d4e",
       "questionStem": "Consider the following pairs of Pacific Island nations and their dominant geographic characteristics rendering them vulnerable to climate change: 1. Tuvalu : High volcanic islands with narrow coastal plains 2. Kiribati : Comprises mostly low-lying coral atolls and reef islands dispersed across the equator 3. Marshall Islands : Primarily raised coral limestone islands with steep cliffs How many of the above pairs are correctly matched?",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 215,
@@ -4578,7 +4642,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred5_3m4n5o6p",
       "questionStem": "Which of the following National Parks is characterized by the intersection of the Tropic of Cancer, the presence of the Betwa river basin, and a dense population of the Barasingha (swamp deer) in its adjoining areas?",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 60
   },
   {
     "id": 216,
@@ -4649,7 +4714,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred5_1u2v3w4x",
       "questionStem": "The Indian Standard Meridian (82°30'E) and the Tropic of Cancer (23°30'N) intersect each other in which of the following states, and which major river basin forms the dominant drainage of this intersection zone?",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 61
   },
   {
     "id": 217,
@@ -4720,7 +4786,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -4729,7 +4795,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr_09",
       "questionStem": "With reference to the El Niño-Southern Oscillation (ENSO) cycle, what is the characteristic feature of the 'Modoki' variant of El Niño?",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 62
   },
   {
     "id": 218,
@@ -4791,7 +4858,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -4800,7 +4867,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr_17",
       "questionStem": "During an El Niño year, the impact on global marine ecosystems is profound. Specifically, what happens to the upwelling off the coast of South America?",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 63
   },
   {
     "id": 219,
@@ -4862,7 +4930,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -4871,7 +4939,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current2_3m4n5o6p",
       "questionStem": "Marine Heatwaves (MHWs) have been increasingly observed in the Indian Ocean. How do MHWs in the western Indian Ocean primarily influence the Indian Summer Monsoon (ISM)?",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 64
   },
   {
     "id": 220,
@@ -4933,7 +5002,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -4942,7 +5011,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current2_5y6z7a8b",
       "questionStem": "The Atlantic Meridional Overturning Circulation (AMOC), a crucial component of global climate, has shown signs of slowing down. What is the primary geographical driver causing this weakening according to recent IPCC reports?",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 65
   },
   {
     "id": 221,
@@ -5004,7 +5074,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -5013,7 +5083,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current2_3u4v5w6x",
       "questionStem": "The 'El Nino Modoki', often observed in recent years, differs from a canonical El Nino in its geographical manifestation. Which of the following best describes El Nino Modoki?",
@@ -5038,7 +5108,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 66
   },
   {
     "id": 222,
@@ -5075,7 +5146,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -5084,7 +5155,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_b8c9d0",
       "questionStem": "The phenomenon of 'Arctic Amplification' is occurring at a rate nearly four times the global average. How is this linked to extreme weather events in mid-latitudes, including India?",
@@ -5109,7 +5180,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 67
   },
   {
     "id": 223,
@@ -5146,7 +5218,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -5155,7 +5227,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_c5d6e7",
       "questionStem": "The phenomenon of 'Marine Heatwaves' (MHWs) is increasingly observed in the Indian Ocean. What is the primary indicator used to classify an event as a MHW?",
@@ -5180,7 +5252,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 68
   },
   {
     "id": 224,
@@ -5217,7 +5290,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -5226,7 +5299,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_inter_07",
       "questionStem": "Consider the following links between climatology and Indian agriculture: 1. El Nino Modoki : Drought-like conditions in Northwest India. 2. Madden-Julian Oscillation (MJO) in Phase 2/3 : Suppressed monsoon rainfall over India. 3. Somali Jet : Strong cross-equatorial flow enhancing Southwest Monsoon. How many of the above are correctly matched?",
@@ -5251,7 +5324,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 225,
@@ -5288,7 +5362,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -5297,7 +5371,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink1_g3h4i5j6",
       "questionStem": "Assertion (A): The western coast of continents in the tropical and sub-tropical latitudes generally lacks significant mangrove ecosystems compared to their eastern counterparts. Reason (R): The presence of cold ocean currents on the western margins lowers the sea surface temperature and reduces the tidal amplitude, conditions which are unfavorable for mangrove propagation. Select the correct code:",
@@ -5322,7 +5396,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 226,
@@ -5359,7 +5434,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -5368,7 +5443,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink2_3f8e1",
       "questionStem": "Assertion (A): The absence of the Coriolis force at the equator is the primary reason why countries like Ecuador and Kenya do not face the economic devastation caused by tropical cyclones. Reason (R): The Coriolis force is essential for initiating the cyclonic circulation required to sustain the low-pressure center of a tropical cyclone.",
@@ -5393,7 +5468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 227,
@@ -5430,7 +5506,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -5439,7 +5515,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink2_c2e4b",
       "questionStem": "Consider the following pairs linking atmospheric circulation with human economic activities: 1. Subtropical High-Pressure Belts : Extensive pastoralism in hot deserts 2. Subpolar Low-Pressure Belts : Commercial softwood lumbering (Taiga) 3. Equatorial Low-Pressure Trough : Intensive commercial grain farming How many of the above pairs are correctly matched?",
@@ -5464,7 +5540,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 228,
@@ -5501,7 +5578,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -5510,7 +5587,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink3_d4e5f6",
       "questionStem": "Consider the following pairs of climatic regions and their associated agricultural dominance: 1. Mediterranean Climate : Viticulture and orchard farming 2. Equatorial Climate : Commercial grain farming 3. Monsoon Climate : Intensive subsistence agriculture How many of the above pairs are correctly matched?",
@@ -5535,7 +5612,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 229,
@@ -5572,7 +5650,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -5581,7 +5659,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink3_s9t0u1",
       "questionStem": "Assertion (A): Most of the world's major hot deserts are located on the western margins of continents between 15° and 30° latitudes. Reason (R): These regions are dominated by the subsiding air of the Hadley cell (subtropical high) and the desiccating effect of cold offshore ocean currents.",
@@ -5606,7 +5684,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 230,
@@ -5643,7 +5722,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -5652,7 +5731,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink3_k7l8m9",
       "questionStem": "Assertion (A): Population density in the Gangetic plain is significantly higher than in the Amazon basin, despite both being major river systems. Reason (R): The Gangetic plain features a monsoon climate with fertile alluvial soils conducive to intensive agriculture, whereas the Amazon basin has a harsh equatorial climate with nutrient-poor lateritic soils.",
@@ -5677,7 +5756,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 231,
@@ -5714,7 +5794,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -5723,7 +5803,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink4_7b8c9d",
       "questionStem": "Consider the following statements linking paleoclimatology, continental drift, and economic geography: 1. The occurrence of extensive coal fields in present-day middle-to-high latitudes (like Appalachia and Europe) indicates that these landmasses were once located near the equator during the Carboniferous period. 2. The exact matching of gold-bearing vein deposits in West Africa with the corresponding coast of Brazil serves as economic evidence for the existence of Pangaea. Which of the statements given above is/are correct?",
@@ -5748,7 +5828,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 232,
@@ -5785,7 +5866,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -5794,7 +5875,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink4_2q3r4s",
       "questionStem": "Which of the following is the most scientifically accurate causal chain linking physical geography to the location of the world's major coffee plantations?",
@@ -5819,7 +5900,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 69
   },
   {
     "id": 233,
@@ -5856,7 +5938,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -5865,7 +5947,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr5_a1b2c3",
       "questionStem": "Which of the following is considered the most reliable early warning indicator of an approaching AMOC (Atlantic Meridional Overturning Circulation) tipping point, as recently highlighted in 2024 studies?",
@@ -5890,7 +5972,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 70
   },
   {
     "id": 234,
@@ -5927,7 +6010,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -5936,7 +6019,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr5_c5d6e7",
       "questionStem": "A slow-down in the AMOC is projected to affect the Indian monsoon system. What is the most likely mechanism?",
@@ -5961,7 +6044,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 71
   },
   {
     "id": 235,
@@ -5998,7 +6082,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6007,7 +6091,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr9_t6u7v8",
       "questionStem": "Cyclone Hamoon and Cyclone Tej formed almost simultaneously in October 2023 in the Bay of Bengal and the Arabian Sea, respectively. Such simultaneous cyclones in the North Indian Ocean are rare but possible due to:",
@@ -6032,7 +6116,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 72
   },
   {
     "id": 236,
@@ -6069,7 +6154,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6078,7 +6163,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr9_c5d6e7",
       "questionStem": "The interaction of 'Western Disturbances' with the 'Monsoon Trough' led to devastating Himalayan floods in 2023. Which of the following conditions is necessary for this interaction to result in catastrophic rainfall?",
@@ -6103,7 +6188,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 73
   },
   {
     "id": 237,
@@ -6140,7 +6226,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6149,7 +6235,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_v2w3x4",
       "questionStem": "How does the shifting of the Inter Tropical Convergence Zone (ITCZ) directly influence the agricultural calendar of India?",
@@ -6174,7 +6260,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 74
   },
   {
     "id": 238,
@@ -6211,7 +6298,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6220,7 +6307,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_e1f2g3",
       "questionStem": "The 'Somali Jet' is a crucial component of the monsoon climatology. How does its strengthening affect Indian agriculture?",
@@ -6245,7 +6332,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 75
   },
   {
     "id": 239,
@@ -6282,7 +6370,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6291,7 +6379,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink7_4n5o6p7q",
       "questionStem": "Urban planning in high-latitude environments must manage the geomorphology of permafrost. The construction of heated buildings directly on permafrost without proper insulation primarily leads to which disaster?",
@@ -6316,7 +6404,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 76
   },
   {
     "id": 240,
@@ -6353,7 +6442,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6362,7 +6451,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_n0o1p2",
       "questionStem": "Consider the impact of shifting agricultural zones due to global warming: 1. As the climate warms, the 'wheat belt' in the Northern Hemisphere is projected to shift southward toward the equator. 2. This shift may open up new areas for agricultural settlement in sub-Arctic regions like Siberia and northern Canada. 3. This changing geography of agriculture will likely induce international migration as agricultural labor follows the shifting crop zones. Which of the statements given above are correct?",
@@ -6387,7 +6476,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 77
   },
   {
     "id": 241,
@@ -6424,7 +6514,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6433,7 +6523,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_f8g9h0",
       "questionStem": "How might climate change impact the global distribution of human settlements in the long term, according to spatial modeling studies? 1. A massive concentration of the global population into the current equatorial zone due to improved agricultural yields there. 2. A potential large-scale migration towards higher latitudes (e.g., Northern Europe, Canada, Russia) as they become more climatically suitable for agriculture and habitation. 3. The complete depopulation of all coastal cities globally by the year 2050. Which of the statements given above is/are correct?",
@@ -6458,7 +6548,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 78
   },
   {
     "id": 242,
@@ -6495,7 +6586,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6504,7 +6595,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink9_j0k1l2",
       "questionStem": "How do the oceanographic characteristics of the Strait of Malacca contribute to its status as a critical maritime chokepoint?",
@@ -6529,7 +6620,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 79
   },
   {
     "id": 243,
@@ -6566,7 +6658,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6575,7 +6667,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink9_y5z6a7",
       "questionStem": "Analyze the role of the Antarctic Circumpolar Current (ACC) in global maritime trade.",
@@ -6600,7 +6692,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 80
   },
   {
     "id": 244,
@@ -6637,7 +6730,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6646,7 +6739,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink9_k7l8m9",
       "questionStem": "What is the primary oceanographic reason that the Drake Passage, a crucial route before the Panama Canal, is considered one of the most treacherous bodies of water for shipping?",
@@ -6671,7 +6764,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 81
   },
   {
     "id": 245,
@@ -6708,7 +6802,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6717,7 +6811,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink9_t6u7v8",
       "questionStem": "Which combination of ocean surface circulation and atmospheric winds created the optimal conditions for the historical 'Triangular Trade' in the North Atlantic?",
@@ -6742,7 +6836,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 82
   },
   {
     "id": 246,
@@ -6779,7 +6874,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -6788,7 +6883,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink9_f8g9h0",
       "questionStem": "How did the discovery and understanding of the Equatorial Counter Current improve 19th-century maritime trade between the Americas and Asia?",
@@ -6813,7 +6908,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 83
   },
   {
     "id": 247,
@@ -6850,7 +6946,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -6859,7 +6955,7 @@
     "originalTier": "Premium",
     "originalTopicId": 24,
     "originalTopicName": "Lumbering",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_cb06a92b",
       "questionStem": "Statement-I: Lumbering is well-developed in the coniferous forest belt of the higher latitudes in the Northern Hemisphere.\nStatement-II: Coniferous forests contain dense stands of numerous intertwined, hard-wood tree species that make selective commercial felling difficult.",
@@ -6884,7 +6980,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 248,
@@ -6921,7 +7018,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6930,7 +7027,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Thermal and Dynamic Concepts",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bda0b1ca",
       "questionStem": "Consider the following statements regarding the thermal and dynamic concepts of the Indian monsoon:\n1. Edmund Halley attributed the monsoon to the thermal contrast between the Indian Ocean and the vast landmass of Asia during summer and winter.\n2. According to Herbert Flohn's dynamic concept, the monsoon is essentially a secondary consequence of the thermal equator and the Intertropical Convergence Zone (ITCZ) shifting seasonally.\n3. The northward shift of the ITCZ to about 20°N-25°N in July creates a low-pressure trough over the Indo-Gangetic plain, often referred to as the monsoon trough.\n\nHow many of the above statements are correct?",
@@ -6955,7 +7052,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 84
   },
   {
     "id": 249,
@@ -6992,7 +7090,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7001,7 +7099,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Mascarene High",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_30f6bfe7",
       "questionStem": "Consider the following interactions between the Mascarene High and the Indian Summer Monsoon:\n1. The Mascarene High is a high-pressure system that develops over the southern Indian Ocean near Madagascar during the southern hemisphere's winter.\n2. The intensity of the Mascarene High directly influences the pressure gradient force driving cross-equatorial monsoon winds towards the Indian subcontinent.\n3. A weaker-than-normal Mascarene High generally promotes stronger monsoon rainfall over India.\n\nWhich of the above statements are correct?",
@@ -7026,7 +7124,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 85
   },
   {
     "id": 250,
@@ -7063,7 +7162,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7072,7 +7171,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Westerlies",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bbbc5fe5",
       "questionStem": "Consider the following statements regarding the Westerlies:\n1. They blow from the Subtropical High Pressure belts to the Subpolar Low Pressure belts.\n2. Their velocity is generally much higher in the Southern Hemisphere compared to the Northern Hemisphere due to the vast expanse of oceans.\n3. They are responsible for bringing rainfall to the western coasts of continents in the middle latitudes.\n\nHow many of the above statements are correct?",
@@ -7097,7 +7196,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 86
   },
   {
     "id": 251,
@@ -7134,7 +7234,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7143,7 +7243,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Thermocline",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6c7ac405",
       "questionStem": "Consider the following statements concerning the seasonal variation of the thermocline:\n1. The thermocline is generally thicker and deeper during the summer months due to intense solar heating and wind mixing.\n2. In tropical regions, seasonal fluctuations in the depth of the thermocline are much more pronounced than in mid-latitudes.\n3. The base of the thermocline marks the beginning of the deep ocean zone where temperatures remain uniformly low.\nHow many of the statements given above are correct?",
@@ -7168,7 +7268,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 87
   },
   {
     "id": 252,
@@ -7205,7 +7306,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7214,7 +7315,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Earth's Axial Tilt & Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_31b1cdce",
       "questionStem": "If the axial tilt of the Earth were to miraculously increase from 23.5 degrees to 45 degrees while maintaining its current orbital eccentricity and period of revolution, which of the following would be the most profound climatic consequence?",
@@ -7239,7 +7340,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 88
   },
   {
     "id": 253,
@@ -7276,7 +7378,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7285,7 +7387,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Earth Motions & Precession",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_22be93c9",
       "questionStem": "Which of the following best describes the mechanical cause and climatic significance of Earth's axial precession (the Precession of the Equinoxes)?",
@@ -7310,7 +7412,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 89
   },
   {
     "id": 254,
@@ -7347,7 +7450,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7356,7 +7459,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Subtropical High / Horse Latitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f942002c",
       "questionStem": "Why are the Subtropical High Pressure belts historically referred to as the 'Horse Latitudes'?",
@@ -7381,7 +7484,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 90
   },
   {
     "id": 255,
@@ -7418,7 +7522,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7427,7 +7531,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Equatorial Low & ITCZ",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_05b1569c",
       "questionStem": "Which of the following best describes the Intertropical Convergence Zone (ITCZ)?",
@@ -7452,7 +7556,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 91
   },
   {
     "id": 256,
@@ -7489,7 +7594,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7498,7 +7603,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "North Atlantic Circulation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7e7b7212",
       "questionStem": "With reference to the North Atlantic Ocean circulation, consider the following statements:\n1. The Gulf Stream enhances the warmth of Western Europe's climate compared to corresponding latitudes in North America.\n2. The Labrador Current is a warm current that meets the Gulf Stream off the coast of Newfoundland.\n\nWhich of the statements given above is/are correct?",
@@ -7523,7 +7628,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 92
   },
   {
     "id": 257,
@@ -7560,7 +7666,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7569,7 +7675,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ca14da6f",
       "questionStem": "If it is 12:00 noon at Greenwich (0°), what will be the local time at a place located at 75° East longitude?",
@@ -7594,7 +7700,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 31
   },
   {
     "id": 258,
@@ -7631,7 +7738,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7640,7 +7747,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_93a23b86",
       "questionStem": "A ship is located at 30° W longitude. If the local time at Greenwich is 10:00 AM, what is the local time at the ship's position?",
@@ -7665,7 +7772,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 32
   },
   {
     "id": 259,
@@ -7702,7 +7810,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7711,7 +7819,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Indian Standard Time",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0c649685",
       "questionStem": "Consider the following statements regarding the Indian Standard Time (IST):\n1. The standard meridian of India passes through Mirzapur near Prayagraj.\n2. IST is exactly 5 hours and 30 minutes behind Greenwich Mean Time (GMT).\n3. The standard meridian passes through five Indian states.\nHow many of the statements given above are correct?",
@@ -7736,7 +7844,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 93
   },
   {
     "id": 260,
@@ -7773,7 +7882,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7782,7 +7891,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Indian Standard Time",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d1bd0794",
       "questionStem": "Assertion (A): The Indian Standard Time (IST) meridian of 82.5° E creates a time lag of nearly two hours between the easternmost and westernmost borders of India.\nReason (R): The longitudinal extent of India is approximately 30 degrees, and the earth takes 4 minutes to rotate through 1 degree of longitude.",
@@ -7807,7 +7916,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 261,
@@ -7844,7 +7954,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7853,7 +7963,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_180b3681",
       "questionStem": "Consider the following statements:\n1. The Torrid Zone experiences tropical conditions because the midday sun is exactly overhead on at least one day a year across all latitudes within this zone.\n2. The Temperate Zones experience moderate temperatures because the sun rays within these zones are never directly overhead.",
@@ -7878,7 +7988,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 94
   },
   {
     "id": 262,
@@ -7915,7 +8026,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7924,7 +8035,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_19692cea",
       "questionStem": "Assertion (A): Places situated on the same meridian of longitude have the same local time.\nReason (R): All places on a given meridian face the sun at the same angle at any given instant during the Earth's rotation.",
@@ -7949,7 +8060,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 263,
@@ -7986,7 +8098,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7995,7 +8107,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_93550d53",
       "questionStem": "Consider the following statements regarding the International Date Line and longitudes:\n1. Longitudes are used to determine local time relative to the Prime Meridian.\n2. The total number of integer meridians drawn on a standard globe at 1-degree intervals is 360.\n3. The distance between two longitudes remains constant from the Equator to the poles.",
@@ -8020,7 +8132,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 95
   },
   {
     "id": 264,
@@ -8057,7 +8170,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8066,7 +8179,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Time Zones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a9c868bc",
       "questionStem": "Consider the following pairs regarding time zone calculations:\n1. Crossing the International Date Line from west to east : Gaining a day\n2. Moving 15 degrees east of the Prime Meridian : 1 hour ahead of GMT\n3. Standard meridian of India (82.5° E) : 5 hours 30 minutes ahead of GMT\nHow many pairs given above are correctly matched?",
@@ -8091,7 +8204,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 96
   },
   {
     "id": 265,
@@ -8128,7 +8242,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8137,7 +8251,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fbe8e024",
       "questionStem": "Consider the following statements regarding the parallels of latitude:\n1. The distance between any two consecutive parallels of latitude is approximately 111 km everywhere on the Earth's surface.\n2. All parallels of latitude are great circles that divide the Earth into two equal halves.\n3. The size of the parallels of latitude decreases progressively as we move from the Equator towards the poles.",
@@ -8162,7 +8276,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 97
   },
   {
     "id": 266,
@@ -8199,7 +8314,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8208,7 +8323,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_eb0ea264",
       "questionStem": "Consider the following statements regarding the Prime Meridian:\n1. It passes through Greenwich, near London, and is designated as 0° longitude.\n2. It divides the Earth into the Northern and Southern hemispheres.\n3. Local time at the Prime Meridian is adopted as the Standard Meridian time for all countries globally.",
@@ -8233,7 +8348,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 98
   },
   {
     "id": 267,
@@ -8270,7 +8386,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8279,7 +8395,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8f13ee65",
       "questionStem": "Consider the following statements:\n1. All meridians of longitude are equal in length and form great circles.\n2. Parallels of latitude decrease in length progressively from the equator toward the poles.\n3. The distance between two longitudes remains constant from the equator to the poles.\nHow many of the statements given above are correct?",
@@ -8304,7 +8420,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 99
   },
   {
     "id": 268,
@@ -8341,7 +8458,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8350,7 +8467,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Great Circles and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ea07ee69",
       "questionStem": "Consider the following statements regarding the properties of longitudes:\n1. The distance between longitudes is maximum at the equator and minimum at the poles.\n2. Longitudes converge at the poles.\n3. The Prime Meridian and the 180° meridian together form a complete great circle.\nHow many of the statements given above are correct?",
@@ -8375,7 +8492,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 100
   },
   {
     "id": 269,
@@ -8412,7 +8530,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8421,7 +8539,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_66b8b51a",
       "questionStem": "Consider the following pairs of heat zones and their defining latitudinal boundaries:\n1. Torrid Zone: Between Tropic of Cancer and Tropic of Capricorn\n2. North Temperate Zone: Between Tropic of Cancer and Arctic Circle\n3. North Frigid Zone: Between Arctic Circle and North Pole\n\nHow many of the above pairs are correctly matched?",
@@ -8446,7 +8564,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 101
   },
   {
     "id": 270,
@@ -8483,7 +8602,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -8492,7 +8611,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "International Date Line",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dd1d39a6",
       "questionStem": "Assertion (A): The International Date Line passes through the Bering Strait between Alaska and Siberia.\nReason (R): The Bering Strait offers a narrow oceanic corridor where the date line can pass without bisecting any major continental landmass.",
@@ -8517,7 +8636,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 271,
@@ -8554,7 +8674,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8563,7 +8683,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Time Zones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6b74dbb2",
       "questionStem": "Consider the following statements regarding local time and standard time:\n1. The local time of a place is determined by the midday sun.\n2. Countries with a vast east-west extent often adopt multiple standard time zones.\n3. The Prime Meridian passes through Greenwich near London and serves as the reference point for all world time zones.\nHow many of the statements given above are correct?",
@@ -8588,7 +8708,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 102
   },
   {
     "id": 272,
@@ -8625,7 +8746,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8634,7 +8755,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Great Circles",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_234baf92",
       "questionStem": "Consider the following pairs regarding geographical features and their structural classification:\n1. Equator : Great Circle\n2. 60° North Latitude : Great Circle\n3. 180° Meridian : Great Circle\nHow many pairs given above are correctly matched?",
@@ -8659,7 +8780,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 103
   },
   {
     "id": 273,
@@ -8696,7 +8818,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -8705,7 +8827,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a3e950f4",
       "questionStem": "Assertion (A): The sun does not rise much above the horizon in the Frigid Zones.\nReason (R): The sun's rays are always slanting and provide less heat in the regions lying between the polar circles and the poles.",
@@ -8730,7 +8852,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 274,
@@ -8767,7 +8890,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8776,7 +8899,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1a7f14c2",
       "questionStem": "Which of the following statements correctly describes the properties of meridians of longitude?",
@@ -8801,7 +8924,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 104
   },
   {
     "id": 275,
@@ -8838,7 +8962,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8847,7 +8971,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_10c54338",
       "questionStem": "Match the following latitude lines with their corresponding angular values:\n1. Arctic Circle: 66.5° N\n2. Antarctic Circle: 66.5° S\n3. Tropic of Cancer: 23.5° S\n4. Tropic of Capricorn: 23.5° N\n\nHow many of the above pairs are correctly matched?",
@@ -8872,7 +8996,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 276,
@@ -8909,7 +9034,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8918,7 +9043,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Globe: Latitudes and Longitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5b861e0c",
       "questionStem": "Why do places east of Greenwich see the sun earlier than those west of Greenwich?",
@@ -8943,7 +9068,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 105
   },
   {
     "id": 277,
@@ -8980,7 +9106,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8989,7 +9115,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Great Circles and Small Circles",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f736e69b",
       "questionStem": "Consider the following pairs regarding geographical circles:\n1. Equator : Great Circle\n2. Tropic of Cancer : Small Circle\n3. Prime Meridian : Great Circle\n4. Arctic Circle : Great Circle\nHow many of the pairs given above are correctly matched?",
@@ -9014,7 +9140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 278,
@@ -9051,7 +9178,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9060,7 +9187,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "International Date Line",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_77f97b51",
       "questionStem": "Which of the following statements best describes the path and deviation of the International Date Line (IDL)?",
@@ -9085,7 +9212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 106
   },
   {
     "id": 279,
@@ -9122,7 +9250,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9131,7 +9259,7 @@
     "originalTier": "Premium",
     "originalTopicId": 47,
     "originalTopicName": "Great Circles",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_cdab3c70",
       "questionStem": "Which one of the following statements correctly distinguishes between a great circle and a small circle?",
@@ -9156,7 +9284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 107
   },
   {
     "id": 280,
@@ -9193,7 +9322,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -9202,7 +9331,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Circle of Illumination and High Latitudes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5f2313ba",
       "questionStem": "Assertion (A): Areas lying beyond the Arctic Circle experience continuous daylight for several weeks in mid-summer.\nReason (R): During the northern summer solstice, the Northern Hemisphere is tilted towards the Sun, placing the entire region poleward of the Arctic Circle within the circle of illumination throughout the complete rotational cycle.",
@@ -9227,7 +9356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 281,
@@ -9264,7 +9394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9273,7 +9403,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Consequences of Axial Tilt",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f31c3dd4",
       "questionStem": "If the Earth's axis were completely perpendicular to the orbital plane instead of being tilted at 23.5 degrees, which of the following long-term climatic consequences would most likely ensue?",
@@ -9298,7 +9428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 108
   },
   {
     "id": 282,
@@ -9335,7 +9466,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9344,7 +9475,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Causes of Varying Day Length",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_028329fd",
       "questionStem": "Which one of the following factors is primarily responsible for the varying length of day and night from season to season at mid-latitudes?",
@@ -9369,7 +9500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 33
   },
   {
     "id": 283,
@@ -9406,7 +9538,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9415,7 +9547,7 @@
     "originalTier": "Premium",
     "originalTopicId": 49,
     "originalTopicName": "Tropic of Capricorn",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8cd0c290",
       "questionStem": "Consider the following countries:\n1. Brazil\n2. Paraguay\n3. Bolivia\n4. Argentina\n\nWhich of the above countries are intersected by the Tropic of Capricorn?",
@@ -9440,7 +9572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 284,
@@ -9477,7 +9610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9486,7 +9619,7 @@
     "originalTier": "Premium",
     "originalTopicId": 49,
     "originalTopicName": "Equator Crossing Countries",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dd276cec",
       "questionStem": "Consider the following countries through which the Equator passes:\n1. Democratic Republic of the Congo\n2. Kenya\n3. Somalia\n4. Uganda\n\nWhich of the above are arranged in correct geographical sequence from West to East?",
@@ -9511,7 +9644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 109
   },
   {
     "id": 285,
@@ -9548,7 +9682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9557,7 +9691,7 @@
     "originalTier": "Premium",
     "originalTopicId": 56,
     "originalTopicName": "Rubber Cultivation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a7a5e52f",
       "questionStem": "Which of the following geographical conditions are ideally suited for the commercial cultivation of natural rubber (Hevea brasiliensis)?",
@@ -9582,7 +9716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 110
   },
   {
     "id": 286,
@@ -9650,7 +9785,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 34,
+    "subTopic": "Earth's Interior"
   },
   {
     "id": 287,
@@ -9718,7 +9855,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 111,
+    "subTopic": "Rocks & Minerals"
   },
   {
     "id": 288,
@@ -9786,7 +9925,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 35,
+    "subTopic": "Seismic Waves"
   },
   {
     "id": 289,
@@ -9854,7 +9995,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 36,
+    "subTopic": "Rock Cycle"
   },
   {
     "id": 290,
@@ -9922,7 +10065,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 37,
+    "subTopic": "Discontinuities"
   },
   {
     "id": 291,
@@ -9990,7 +10135,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 38,
+    "subTopic": "Earth's Interior"
   },
   {
     "id": 292,
@@ -10058,7 +10205,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 39,
+    "subTopic": "Rocks & Minerals"
   },
   {
     "id": 293,
@@ -10126,6 +10275,8 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 40,
+    "subTopic": "Seismic Waves"
   }
 ]

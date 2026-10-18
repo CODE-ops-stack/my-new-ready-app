@@ -31,7 +31,11 @@
         "trapType": "French School Trap",
         "dissection": "Vidal de la Blache was the father of French human geography and possibilism, coming a generation after Ratzel."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 1,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5133,
@@ -65,7 +69,11 @@
         "trapType": "Radical Geography Trap",
         "dissection": "David Harvey led the shift into Marxist/radical geography in the 1970s."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 2,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5134,
@@ -99,7 +107,11 @@
         "trapType": "British School Trap",
         "dissection": "The British school was primarily focused on regional geography (Mackinder, Herbertson)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 3,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5135,
@@ -133,7 +145,11 @@
         "trapType": "Geopolitics Trap",
         "dissection": "Mackinder developed the Heartland theory of global geopolitics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 4,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5136,
@@ -167,7 +183,11 @@
         "trapType": "Classical Antiquity Trap",
         "dissection": "Ptolemy separated Geography from Chorography in the 2nd century AD, but Varenius codified modern General vs Special geography."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 5,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5137,
@@ -201,7 +221,11 @@
         "trapType": "Chorology Trap",
         "dissection": "Hartshorne focused on areal differentiation and rejected landscape as the primary unit of geography."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 6,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5138,
@@ -235,7 +259,11 @@
         "trapType": "Placelessness Trap",
         "dissection": "Edward Relph authored 'Place and Placelessness' (1976), examining how modern commercialism destroys unique sense of place."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 7,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5139,
@@ -269,7 +297,11 @@
         "trapType": "Late 20th Century Trap",
         "dissection": "Postmodern deconstruction emerged in the late 1980s and 1990s."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 8,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5140,
@@ -303,7 +335,11 @@
         "trapType": "Spatial Analysis Trap",
         "dissection": "Peter Haggett was a leading spatial analyst in the quantitative revolution (*Locational Analysis in Human Geography*)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 9,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5141,
@@ -337,7 +373,11 @@
         "trapType": "Natural Hazards Trap",
         "dissection": "Gilbert White pioneered behavioral natural hazard research and floodplain management."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 10,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5142,
@@ -371,7 +411,11 @@
         "trapType": "Father of History Trap",
         "dissection": "Herodotus famously stated 'All history must be treated geographically, and all geography historically'."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 11,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5143,
@@ -405,7 +449,11 @@
         "trapType": "Spatial Science Trap",
         "dissection": "Schaefer treated space geometrically, ignoring cultural lifestyles."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 12,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5144,
@@ -439,7 +487,11 @@
         "trapType": "Cambridge Physical Trap",
         "dissection": "Chorley brought quantitative systems theory to geomorphology with Peter Haggett."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 13,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5145,
@@ -473,7 +525,11 @@
         "trapType": "Determinism Trap",
         "dissection": "Environmental determinism asserts the physical environment directly dictates human physiology and behavior."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 14,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5146,
@@ -507,7 +563,11 @@
         "trapType": "Epistemological Trap",
         "dissection": "Kant regarded both as empirical sciences grounded in experience."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 15,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5147,
@@ -541,7 +601,11 @@
         "trapType": "Total Elimination Trap",
         "dissection": "Both statements are classic, verified textbook definitions of the 1953 debate."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 16,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5148,
@@ -575,7 +639,11 @@
         "trapType": "Febvre Attribution Trap",
         "dissection": "Vidal championed the ideas of possibilism, but Febvre formally coined the word."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 17,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5149,
@@ -609,7 +677,11 @@
         "trapType": "A Falsification Trap",
         "dissection": "Assertion A is a standard historical critique documented by Ley, Samuels, and Harvey."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 18,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5150,
@@ -643,7 +715,11 @@
         "trapType": "Organic Analogy Trap",
         "dissection": "Statement 2 is the core thesis of the organic state theory."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 19,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5151,
@@ -677,7 +753,11 @@
         "trapType": "Postmodern Trap",
         "dissection": "Edward Soja wrote 'Postmodern Geographies' (1989) and 'Thirdspace' (1996)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 20,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5152,
@@ -711,7 +791,11 @@
         "trapType": "Socio-economic Trap",
         "dissection": "Kirk specifically focused on perception and cognition versus physical reality."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 21,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5153,
@@ -745,7 +829,11 @@
         "trapType": "Progressive Sense of Place Trap",
         "dissection": "Doreen Massey formulated the concept of a 'global, progressive sense of place'."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 22,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5154,
@@ -779,7 +867,11 @@
         "trapType": "Universal Acceptance Trap",
         "dissection": "Statement 3 contains a glaring anachronism regarding modern quantitative spatial models."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 23,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5155,
@@ -813,7 +905,11 @@
         "trapType": "Valid Pair",
         "dissection": "Ratzel's founding text was 'Anthropogeographie' (1882, 1891)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 24,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5156,
@@ -847,7 +943,11 @@
         "trapType": "Assertion Denial",
         "dissection": "Ritter is universally labeled the teleological geographer in contrast to Humboldt's secular cosmology."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 25,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5157,
@@ -881,7 +981,11 @@
         "trapType": "Determinism Trap",
         "dissection": "Sauer's core mission was dismantling deterministic dogma."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 26,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5158,
@@ -915,7 +1019,11 @@
         "trapType": "Marxist Spatio-temporal Trap",
         "dissection": "David Harvey analyzed 'time-space compression' and spatial fixes."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 27,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5159,
@@ -949,7 +1057,11 @@
         "trapType": "Indology Trap",
         "dissection": "Al-Biruni wrote 'Kitab al-Hind' analyzing Indian geography, culture, and astronomy in 1030 AD."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 28,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5160,
@@ -983,7 +1095,11 @@
         "trapType": "Climatic Zones Trap",
         "dissection": "Aristotle formulated the theory of five climatic zones (Torrid, Temperate, Frigid)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 29,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5161,
@@ -1017,7 +1133,11 @@
         "trapType": "Urban Ecology Trap",
         "dissection": "University of Chicago was famous for the Chicago School of urban sociology (Park, Burgess)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 30,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5162,
@@ -1025,7 +1145,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding historical schools of geographic thought:\n1. Environmental determinism gained ideological traction in 19th-century Europe partly by misapplying Darwin's evolutionary concepts of natural selection to human societies.\n2. Paul Vidal de la Blache rejected determinism, arguing that human lifestyles ('genre de vie') represent cultural choices crafted from nature's possibilities.\n3. Griffith Taylor's 'Stop-and-Go Determinism' asserted that human technology can entirely overcome natural environmental boundaries in desert and polar realms.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1051,7 +1171,11 @@
         "trapType": "Over-elimination Trap",
         "dissection": "Statements 1 and 2 are authentic core tenets of geographic epistemology."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 36,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5163,
@@ -1059,7 +1183,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following pairs of epistemological approaches and their philosophical anchors:\n1. Quantitative Revolution — Logical Positivism\n2. Behavioural Geography — Phenomenological and Cognitive Psychology\n3. Radical Geography — Historical Materialism and Marxism\n4. Humanistic Geography — Existentialism and Hermeneutics\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1085,7 +1209,11 @@
         "trapType": "Humanistic Doubt Trap",
         "dissection": "Humanistic geography is explicitly grounded in existentialism and phenomenological inquiry."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 37,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5164,
@@ -1119,7 +1247,11 @@
         "trapType": "Vidal Omission",
         "dissection": "Vidal's 'pays' analysis is central to French classical regional monographs."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 38,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5165,
@@ -1127,7 +1259,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements about early cartographic and geodetic milestones in Greek and Roman geography:\n1. Claudius Ptolemy adopted Marinus of Tyre's inaccurate smaller estimate of Earth's circumference, which later misled Christopher Columbus.\n2. Strabo considered geography to be an essential practical guide for administrative statesmen, military commanders, and emperors.\n3. Hecataeus of Miletus was the first scholar to use latitude and longitude coordinates to pinpoint places on a world grid.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1153,7 +1285,11 @@
         "trapType": "Total Elimination Trap",
         "dissection": "Statements 1 and 2 are undisputed textbook historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 39,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5166,
@@ -1187,7 +1323,11 @@
         "trapType": "Assertion Invalidation",
         "dissection": "The social failure of quantitative geography in 1968–1970 is the central narrative of modern disciplinary history."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 40,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5167,
@@ -1221,7 +1361,11 @@
         "trapType": "Harvey Radical Trap",
         "dissection": "Harvey wrote Social Justice and the City (1973)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 31,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5168,
@@ -1255,7 +1399,11 @@
         "trapType": "Harvey Radical Trap",
         "dissection": "Harvey wrote Social Justice and the City (1973)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 32,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5169,
@@ -1289,7 +1437,11 @@
         "trapType": "Harvey Radical Trap",
         "dissection": "Harvey wrote Social Justice and the City (1973)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 33,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5170,
@@ -1323,7 +1475,11 @@
         "trapType": "Harvey Radical Trap",
         "dissection": "Harvey wrote Social Justice and the City (1973)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 34,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5171,
@@ -1357,7 +1513,11 @@
         "trapType": "Harvey Radical Trap",
         "dissection": "Harvey wrote Social Justice and the City (1973)."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 35,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5172,
@@ -1365,7 +1525,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the German School of Geography in the 19th Century:\n1. Alexander von Humboldt emphasized physical geography, inductive empirical observation, and ecological plant associations.\n2. Carl Ritter was deeply teleological, viewing the Earth as a divine schoolhouse designed for human spiritual and moral advancement.\n3. Friedrich Ratzel integrated Darwinian biology to formulate the concept of the state as a spatial living organism (Lebensraum).\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1391,7 +1551,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 41,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5173,
@@ -1399,7 +1563,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the French School of Possibilism:\n1. Paul Vidal de la Blache maintained that nature is not an unyielding tyrant, but an advisor providing multiple possibilities.\n2. The term 'Possibilism' was coined by geographer Jean Brunhes in his work 'La Géographie Humaine'.\n3. Vidal's regional monographs utilized the 'pays' as a harmonious micro-region shaped by traditional human 'genre de vie'.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1425,7 +1589,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 42,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5174,
@@ -1433,7 +1601,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Quantitative Revolution in Geography:\n1. It sought to transform geography from an idiographic descriptive subject into a nomothetic law-seeking spatial science.\n2. It drew its epistemological justification from Logical Positivism and statistical model building.\n3. It was warmly embraced by humanistic geographers for highlighting emotional place-attachment.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1459,7 +1627,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 43,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5175,
@@ -1467,7 +1639,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Radical and Marxist Geography:\n1. It emerged in the late 1960s in response to poverty, the Vietnam War, civil rights movements, and racial ghettoization.\n2. David Harvey argued that urban spatial patterns under capitalism reflect the circulation of capital and class exploitation.\n3. The radical journal 'Antipode' was established to provide an academic outlet for socialist and anarchist spatial theories.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1493,7 +1665,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 44,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5176,
@@ -1501,7 +1677,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Humanistic Geography:\n1. It relies primarily on quantitative multi-regression equations to predict human spatial movements.\n2. Yi-Fu Tuan differentiated between 'Space' (undifferentiated freedom and movement) and 'Place' (pause, meaning, and security).\n3. It is philosophically anchored in phenomenology and existentialism.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1527,7 +1703,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 45,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5177,
@@ -1535,7 +1715,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the history of cartography and spatial coordinates:\n1. Eratosthenes accurately measured the circumference of the Earth using sun angles at Syene and Alexandria.\n2. Hipparchus introduced the division of the circle into 360 degrees and applied parallels of latitude and meridians of longitude.\n3. Ptolemy's 'Geographia' contained map projections including conical and modified spherical projections.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1561,7 +1741,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 46,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5178,
@@ -1569,7 +1753,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Behavioural Geography:\n1. It substitutes the classical 'Economic Man' (optimizing behavior) with Herbert Simon's concept of the 'Satisficer' (satisficing behavior).\n2. Julian Wolpert demonstrated that human decisions are constrained by incomplete information and personal risk perception.\n3. It asserts that human action in space is governed entirely by environmental determinism without cognitive mediation.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1595,7 +1779,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 47,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5179,
@@ -1603,7 +1791,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Feminist and Postmodern Geography:\n1. Feminist geography critiques traditional spatial analysis for treating public space as gender-neutral while ignoring the spatial entrapment of women in private domestic spheres.\n2. Edward Soja formulated the concept of 'Thirdspace' as a combination of Firstspace (real material world) and Secondspace (conceived mental world).\n3. David Harvey embraced postmodernism as the final and permanent intellectual end of Marxist political economy.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1629,7 +1817,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 48,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5180,
@@ -1637,7 +1829,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Islamic contributions to medieval geography:\n1. Muslim scholars translated and preserved Ptolemy's 'Almagest' and Greek geographic works during Europe's Dark Ages.\n2. Al-Idrisi created the silver world planisphere and the 'Tabula Rogeriana' map in the court of King Roger II of Sicily.\n3. Ibn Khaldun's 'Muqaddimah' analyzed the cyclical rise and fall of nomadic vs sedentary societies based on environmental and social cohesion.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1663,7 +1855,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 49,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5181,
@@ -1671,7 +1867,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the concept of Dichotomy and Dualism in Geography:\n1. Dualism between Physical Geography and Human Geography was introduced by Bernhardus Varenius in 1650.\n2. The dichotomy between Determinism and Possibilism represents an ontological debate over human agency vs nature's supremacy.\n3. The debate between Idiographic and Nomothetic approaches was resolved with the total extinction of regional geography by 1960.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1697,7 +1893,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 50,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5182,
@@ -1705,7 +1905,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Time Geography:\n1. Developed by Torsten Hägerstrand, it traces human trajectories as continuous lines through space and time.\n2. 'Coupling constraints' define the requirement to be at a specific place with other individuals or tools for a specified duration.\n3. 'Capability constraints' refer exclusively to legal barriers and police laws prohibiting entry into a territory.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1731,7 +1931,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 51,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5183,
@@ -1739,7 +1943,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Welfare Geography:\n1. It was formalized by David M. Smith as an inquiry into 'Who gets What, Where, and How'.\n2. It prioritizes spatial efficiency and corporate profit maximization over social justice and equity.\n3. It uses social indicators (infant mortality, health access, literacy) to map spatial deprivation across regions.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1765,7 +1969,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 52,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5184,
@@ -1773,7 +1981,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Cultural Geography:\n1. Carl Sauer's 1925 manifesto 'The Morphology of Landscape' established that cultural landscape is shaped from natural landscape by a cultural group.\n2. The concept of 'sequent occupance', denoting successive stages of human occupation leaving visible imprints on a landscape, was coined by Derwent Whittlesey.\n3. Environmental determinists viewed culture as an autonomous force completely disconnected from physical surroundings.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1799,7 +2007,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 53,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5185,
@@ -1807,7 +2019,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Halford Mackinder's Heartland Theory:\n1. In 1904, Mackinder designated the interior of Eurasia as the 'Pivot Area', protected from sea power by Arctic ice and inland drainage.\n2. In 1919, he renamed it the 'Heartland' and warned: 'Who rules East Europe commands the Heartland'.\n3. In 1943, he replaced the Heartland concept by arguing that South America would become the new geopolitical center of the world.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1833,7 +2045,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 54,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5186,
@@ -1841,7 +2057,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Quantitative Revolution's key models:\n1. William Bunge's 'Theoretical Geography' utilized mathematical geometry to solve spatial optimization problems.\n2. Peter Haggett and Richard Chorley introduced network analysis and systems theory into human and physical geography.\n3. The gravity model in geography was derived by analogy from Isaac Newton's law of universal gravitation.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1867,7 +2083,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical historical facts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 55,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5187,
@@ -1875,7 +2095,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Los Angeles School of Urbanism in Postmodern Geography:\n1. It asserts that peripheral sprawl and polycentric fragments, rather than the monocentric Chicago concentric rings, characterize late 20th-century urban geography.\n2. Michael Dear and Steven Flusty proposed concepts such as 'Keno Capitalism' to describe postmodern urban spatial organization.\n3. It completely rejects any role of global capital flows in shaping urban real estate.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1901,7 +2121,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate valid postmodern urban geographical concepts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 56,
+    "subTopic": "Physical Geography Theory",
+    "provenance": "expert_authored"
   },
   {
     "id": 5188,
@@ -1935,7 +2159,11 @@
         "trapType": "Universal Acceptance Trap",
         "dissection": "Always scrutinize categorical claims of total scientific obsolescence."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 57,
+    "subTopic": "Geomorphology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5189,
@@ -1943,7 +2171,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the concept of 'Sequent Occupance':\n1. It was coined by Derwent Whittlesey in 1929 to describe successive stages of human cultural occupance on a single geographic area.\n2. Each successive occupant group leaves its cultural imprint on the landscape, creating a composite historical palimpsest.\n3. It was formulated to prove that natural environments unilaterally dictate cultural architecture across all historical epochs.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1969,7 +2197,11 @@
         "trapType": "Over-elimination Trap",
         "dissection": "Statements 1 and 2 are standard UPSC Optional concepts."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 58,
+    "subTopic": "Climatology Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5190,
@@ -2003,7 +2235,11 @@
         "trapType": "Assertion Invalidation",
         "dissection": "The historical divergence of French geography is a recognized chapter in European geographic thought."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 59,
+    "subTopic": "Oceanography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5191,
@@ -2011,7 +2247,7 @@
     "topicName": "Perspectives in Human Geography (Geographical Thought)",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the methodological concepts of 'Idiographic' and 'Nomothetic' approaches in Geography:\n1. The terms were coined by German Neo-Kantian philosopher Wilhelm Windelband in 1894.\n2. The idiographic approach seeks unique particularities, whereas the nomothetic approach seeks general universal laws.\n3. Richard Hartshorne classified geography strictly as a nomothetic science, whereas Fred K. Schaefer classified it as idiographic.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -2037,6 +2273,10 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not eliminate Statements 1 and 2."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 60,
+    "subTopic": "Biogeography Advanced",
+    "provenance": "expert_authored"
   }
 ]

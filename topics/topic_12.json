@@ -34,7 +34,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_repl_002",
       "questionStem": "",
@@ -68,7 +68,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 32
   },
   {
     "id": 2784,
@@ -105,7 +106,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c1ea8f59",
       "questionStem": "Which of the following climatic regions of India, according to Koeppen's scheme, covers the largest territorial expanse?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 2785,
@@ -176,7 +178,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4e1fb46a",
       "questionStem": "Consider the following statements regarding the Inter Tropical Convergence Zone (ITCZ) in the context of the Indian subcontinent:\n1. It is a low-pressure zone located at the equator throughout the year.\n2. In July, the ITCZ shifts northwards to the Indo-Gangetic plain, often referred to as the monsoon trough.\n3. The shift of the ITCZ is the sole factor responsible for the reversal of winds during the Indian summer monsoon.\nHow many of the above statements are correct?",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 33
   },
   {
     "id": 2786,
@@ -247,7 +250,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ab5a4d45",
       "questionStem": "Consider the following pairs regarding Jet Streams and Indian Climate:\n1. Sub-tropical Westerly Jet Stream: Blows south of the Himalayas during winter and brings western disturbances.\n2. Tropical Easterly Jet Stream: Flows over the Indian Peninsula during summer and aids in the rapid onset of the monsoon.\n3. Somali Jet: A low-level jet that crosses the equator and strengthens the south-west monsoon winds over the Arabian Sea.\nHow many of the above pairs are correctly matched?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 34
   },
   {
     "id": 2787,
@@ -318,7 +322,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e459fae7",
       "questionStem": "Assertion (A): The onset of the Indian summer monsoon is sudden and explosive.\nReason (R): The reversal of upper-air circulation is accompanied by the withdrawal of the sub-tropical westerly jet stream north of the Himalayas and the establishment of the easterly jet stream.",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 2788,
@@ -389,7 +394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ce4c15e1",
       "questionStem": "Consider the following pairs of local storms and their associated regions in India:\n1. Nor'westers: West Bengal and Assam\n2. Mango Showers: Kerala and coastal Karnataka\n3. Cherry Blossoms: Punjab and Haryana\nHow many pairs given above are correctly matched?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 35
   },
   {
     "id": 2789,
@@ -460,7 +466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b9f084b0",
       "questionStem": "Consider the following statements regarding the 'break' in the Indian monsoon:\n1. It refers to the continuous and uniform rainfall experienced across the entire country during July and August.\n2. During a monsoon break, wet spells are interspersed with dry intervals lasting for a few days to weeks.\n3. In the northern plains, these breaks are often caused by the northward shift of the monsoon trough towards the foothills of the Himalayas.\nHow many of the above statements are correct?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 36
   },
   {
     "id": 2790,
@@ -531,7 +538,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8d8026c4",
       "questionStem": "Match the following climatic phenomena with their primary regional impacts in the Indian subcontinent:\n1. Western Disturbances: Winter rainfall in North-West India\n2. Mango Showers: Pre-monsoon showers helpful for tea crops in Assam\n3. Nor'westers: Localized thunderstorms associated with rainfall in West Bengal\n\nHow many pairs given above are correctly matched?",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 37
   },
   {
     "id": 2791,
@@ -602,7 +610,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3c645790",
       "questionStem": "Assertion (A): The Tamil Nadu coast receives a major portion of its annual rainfall during the winter season (North-East Monsoon).\nReason (R): The South-West monsoon winds blow parallel to the Coromandel Coast and are blocked by the Eastern Ghats, causing rain shadow effect.",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 2792,
@@ -673,7 +682,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_93918642",
       "questionStem": "Consider the following factors that influence the climate of India:\n1. Presence of the Himalayas\n2. Latitude\n3. Distance from the sea\n4. Ocean currents surrounding the peninsula\nWhich of the above are primarily responsible for the monsoon type of climate in India?",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 2793,
@@ -744,7 +754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_63d1c564",
       "questionStem": "Consider the following statements regarding the spatial distribution of rainfall in India:\n1. The highest rainfall is recorded along the Western Coast and the North-Eastern states.\n2. The interior of the Deccan plateau and parts of Leh receive precipitation below 60 cm.\n3. The Tamil Nadu coast receives maximum rainfall during the South-West monsoon season.\nHow many of the above statements are correct?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 38
   },
   {
     "id": 2794,
@@ -815,7 +826,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1d720b31",
       "questionStem": "Consider the following statements regarding the mechanism of the Indian Monsoon:\n1. The northward shift of the Inter Tropical Convergence Zone (ITCZ) in summer brings about the withdrawal of the westerly jet stream from the Indian region.\n2. The presence of the high-pressure area east of Madagascar in the Indian Ocean strongly influences the intensity of the incoming south-west monsoon.\n3. During an El Nino year, there is a anomalous cooling of the central and eastern Pacific Ocean off the coast of Peru.\n\nHow many of the above statements are correct?",
@@ -849,7 +860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 39
   },
   {
     "id": 2795,
@@ -886,7 +898,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d8c37f60",
       "questionStem": "Consider the following statements regarding the El Nino-Southern Oscillation (ENSO) phenomenon:\n1. El Nino is characterized by the abnormal warming of surface waters in the central and eastern tropical Pacific Ocean.\n2. A negative Southern Oscillation Index (SOI) implies higher than normal air pressure over Darwin, Australia, and lower than normal pressure over Tahiti.\n3. El Nino events invariably result in above-average monsoon rainfall across the entire Indian subcontinent.\nHow many of the above statements are correct?",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 40
   },
   {
     "id": 2796,
@@ -957,7 +970,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -966,7 +979,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d00fe54a",
       "questionStem": "Which of the following phenomena is primarily responsible for bringing winter rainfall to the North-Western plains of India?",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 2797,
@@ -1028,7 +1042,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1037,7 +1051,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_92947aaa",
       "questionStem": "Which of the following statements best describes the phenomenon known as 'La Nina'?",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 41
   },
   {
     "id": 2798,
@@ -1099,7 +1114,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1108,7 +1123,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_33d4f38b",
       "questionStem": "What is the primary reason why the North-East trade winds do not produce rain over the Indian landmass during winter?",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 42
   },
   {
     "id": 2799,
@@ -1170,7 +1186,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1179,7 +1195,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2b4d98c0",
       "questionStem": "Assertion (A): The Tibetan Plateau plays a critical role in the strengthening and maintenance of the Indian summer monsoon.\nReason (R): Intense differential heating of the Tibetan Plateau during summer creates a high-pressure zone in the upper troposphere, establishing an easterly jet stream.",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 2800,
@@ -1241,7 +1258,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1250,7 +1267,7 @@
     "originalTier": "Premium",
     "originalTopicId": 10,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_75bf28b3",
       "questionStem": "According to Koeppen's climatic classification scheme, which of the following climatic types is appropriately designated for the Coromandel Coast of Tamil Nadu?",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 3
   },
   {
     "id": 2801,
@@ -1312,7 +1330,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1321,7 +1339,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e57cabc6",
       "questionStem": "Which of the following problems of Indian agriculture is primarily attributed to the laws of inheritance and population pressure?",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 4
   },
   {
     "id": 2802,
@@ -1383,7 +1402,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1392,7 +1411,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_wf_15",
       "questionStem": "Among the following waterfalls, which one is located near Cherrapunji and is known as one of the tallest plunge waterfalls in India?",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 5
   },
   {
     "id": 2803,
@@ -1454,7 +1474,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1463,7 +1483,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_13",
       "questionStem": "The term 'Break in the Monsoon' refers to:",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 43
   },
   {
     "id": 2804,
@@ -1525,7 +1546,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "matching",
+    "format": "Match the Following",
     "qstyle": "matching",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1534,7 +1555,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_2",
       "questionStem": "Match the following local pre-monsoon showers with their respective regions: List I (Shower) A. Mango Showers B. Cherry Blossoms C. Kalbaisakhi List II (Region) 1. Kerala 2. Karnataka 3. West Bengal Choose the correct code:",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 44
   },
   {
     "id": 2805,
@@ -1596,7 +1618,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1605,7 +1627,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_wf_4",
       "questionStem": "Consider the following pairs of Waterfalls and their Locations/Rivers: 1. Ethipothala Falls : Chandravanka River 2. Talakona Falls : Godavari River 3. Nohkalikai Falls : Near Cherrapunji How many of the above pairs are correctly matched?",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 2806,
@@ -1667,7 +1690,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1676,7 +1699,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_5",
       "questionStem": "Regarding the retreat of the Southwest Monsoon in India, consider the following sequence of regions from where the monsoon withdraws: 1. North-Western India 2. Gangetic Plains 3. Peninsular India What is the correct chronological order of the withdrawal?",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 2807,
@@ -1738,7 +1762,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1747,7 +1771,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_15",
       "questionStem": "Consider the following states and the primary reason for their scanty rainfall: 1. Ladakh: Located in the rain shadow of the Himalayas and Karakoram. 2. Western Rajasthan: Lack of orographic barriers perpendicular to monsoon winds. 3. Interior Maharashtra: Located in the rain shadow of the Western Ghats. How many of the above pairs are correctly matched?",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 2808,
@@ -1809,7 +1834,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -1818,7 +1843,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink1_m3n4o5p6",
       "questionStem": "Assertion (A): The retreating monsoon (Northeast monsoon) is crucial for the agricultural economy of coastal Tamil Nadu. Reason (R): The Northeast trade winds pick up moisture from the Bay of Bengal and deliver heavy rainfall to the Coromandel coast, which is otherwise largely bypassed by the Southwest monsoon due to its location in the rain shadow of the Western Ghats. Select the correct code:",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 2809,
@@ -1880,7 +1906,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -1889,7 +1915,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr9_q3r4s5",
       "questionStem": "In recent years (2023-24), forest fires have ravaged the Himalayan states, especially Uttarakhand, even during the winter months. Which of the following factors contribute to the high combustibility of these forests? 1. The widespread monoculture plantations of Chir Pine, whose needles are highly resinous and slow to decompose. 2. Prolonged winter dry spells associated with a lack of Western Disturbances. 3. The practice of controlled burning by the forest department during the peak summer months to clear the undergrowth. How many of the above statements are correct?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 2810,
@@ -1951,7 +1978,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1960,7 +1987,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr8_g7h8i9",
       "questionStem": "The Muppandal Wind Farm in Tamil Nadu is one of the largest onshore wind farms in the world. Which specific topographical feature is primarily responsible for the exceptional wind potential in this area?",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 45
   },
   {
     "id": 2811,
@@ -2022,7 +2050,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2031,7 +2059,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr8_q3r4s5",
       "questionStem": "The Kamuthi Solar Power Project in Tamil Nadu is one of the largest single-location solar plants. It is strategically placed in the Ramanathapuram district. What climatic-topographic condition dictates this location?",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 46
   },
   {
     "id": 2812,
@@ -2093,7 +2122,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2102,7 +2131,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_1a2b3c",
       "questionStem": "The 'Break in Monsoon' phenomenon impacts agricultural patterns differently across India. Consider the following statements: 1. During a prolonged break, the rain-fed rice crop in the Gangetic plains is severely stressed. 2. The break periods often bring beneficial rainfall to the sub-Himalayan regions, aiding specific localized cropping. 3. A delayed retreat of the monsoon benefits the rabi sowing of wheat in Northwestern India by increasing soil moisture. Which of the statements given above is/are correct?",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 2813,
@@ -2164,7 +2194,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2173,7 +2203,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_y5z6a7",
       "questionStem": "Analyze the impact of late monsoon withdrawal on the cropping system in central India: 1. It delays the harvesting of Kharif crops like soybean, leading to potential grain damage. 2. It leaves higher residual soil moisture, which can be beneficial for the subsequent Rabi crops like chana (chickpea). 3. It guarantees a frost-free winter, benefiting all horticultural crops. Select the correct answer using the code below:",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 47
   },
   {
     "id": 2814,
@@ -2235,7 +2266,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2244,7 +2275,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_h4i5j6",
       "questionStem": "In the context of Indian agriculture, 'Dryland farming' is mainly practiced in regions characterized by specific climatic constraints. Which of the following correctly interlinks the climate and cropping pattern of these regions?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 48
   },
   {
     "id": 2815,
@@ -2306,7 +2338,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2315,7 +2347,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_n0o1p2",
       "questionStem": "Consider the relationship between soil types, monsoon patterns, and predominant crops: 1. Black soils of the Deccan trap retain moisture well, allowing for cotton cultivation even with variable southwest monsoon rainfall. 2. Alluvial soils of the Gangetic plain require intense irrigation for wheat during the Rabi season because the southwest monsoon has retreated. 3. Laterite soils of the Western Ghats support tea and rubber due to the heavy and sustained rainfall of the advancing monsoon. Which of the statements given above are correct?",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 49
   },
   {
     "id": 2816,
@@ -2377,7 +2410,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2386,7 +2419,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_t6u7v8",
       "questionStem": "The cultivation of 'Boro' rice in West Bengal and Assam is an interesting agricultural adaptation to local climatology. Which statement best explains this?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 50
   },
   {
     "id": 2817,
@@ -2448,7 +2482,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2457,7 +2491,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_f8g9h0",
       "questionStem": "How does inter-annual variability in monsoon onset dates impact specific agricultural operations?",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 51
   },
   {
     "id": 2818,
@@ -2519,7 +2554,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2528,7 +2563,7 @@
     "originalTier": "1",
     "originalTopicId": 25,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "SSC CGL",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d787b0bf",
       "questionStem": "Consider the following statements regarding mass movement activation:\n1. Removal of support from below, an increase in slope gradient, and heavy rainfall can act as activating causes for mass movements.\n2. Mass movements occur exclusively on unweathered materials and are hindered by weathered slopes.\nWhich of the statements given above is/are correct?",
@@ -2553,7 +2588,8 @@
         "specificExam": "SSC CGL"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 52
   },
   {
     "id": 2819,
@@ -2590,7 +2626,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2599,7 +2635,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Winter Rainfall and Western Disturbances",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0baebe6b",
       "questionStem": "Assertion (A): Northwestern India receives winter rainfall from temperate cyclones originating in the Mediterranean region.\nReason (R): The sub-tropical westerly jet stream shifts south of the Himalayas during the winter season, steering these western disturbances towards the Indian subcontinent.",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 2820,
@@ -2661,7 +2698,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2670,7 +2707,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Tropical Easterly Jet",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f9303708",
       "questionStem": "Assertion (A): The establishment of the Tropical Easterly Jet (TEJ) over the Indian subcontinent is a crucial prerequisite for the active phase of the southwest monsoon.\nReason (R): The TEJ causes upper-air divergence over the Indian landmass, which enhances the surface low-pressure system and accelerates the inflow of moisture-laden maritime winds.",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 2821,
@@ -2732,7 +2770,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2741,7 +2779,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Monsoon Terminology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9132e53b",
       "questionStem": "Match the following monsoon terms with their correct definitions:\n1. Monsoon Burst: Sudden increase in rainfall accompanied by thunder and lightning marking the arrival of the monsoon.\n2. Monsoon Break: Temporary cessation of rain during the rainy season lasting for a few days to weeks.\n3. Nor'westers: Localized convective thunderstorms occurring in northwestern India during winter.\n\nHow many of the pairs given above are correctly matched?",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 53
   },
   {
     "id": 2822,
@@ -2803,7 +2842,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2812,7 +2851,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5d3a1f46",
       "questionStem": "Consider the following statements regarding the distribution of rainfall in India:\n1. The highest rainfall zones receive over 200 cm of annual rainfall, covering the western slopes of the Western Ghats and parts of Meghalaya.\n2. The medium rainfall zones receive between 100 to 200 cm of annual rainfall, encompassing the middle Ganga valley and the Chota Nagpur plateau.\n3. The desert and semi-arid regions of western Rajasthan and Ladakh receive less than 50 cm of annual rainfall.\nHow many of the above statements are correct?",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 2823,
@@ -2874,7 +2914,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2883,7 +2923,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3b4b8787",
       "questionStem": "Assertion (A): The leeward side of the Western Ghats (such as parts of interior Karnataka and Maharashtra) receives scanty rainfall during the southwest monsoon.\nReason (R): These regions lie in the rain shadow zone where descending air currents inhibit cloud formation and precipitation.",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 144
   },
   {
     "id": 2824,
@@ -2945,7 +2986,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2954,7 +2995,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Withdrawal of Monsoon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bae3661d",
       "questionStem": "Consider the following statements regarding the withdrawal pattern of the southwest monsoon:\n1. The withdrawal of the monsoon is much more rapid and abrupt compared to its slow and progressive onset.\n2. The withdrawal begins from the extreme northwestern parts of India by early September.\n3. As the monsoon withdraws, the low-pressure trough over the northern plains is gradually replaced by a high-pressure system.\n\nHow many of the above statements are correct?",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 55
   },
   {
     "id": 2825,
@@ -3016,7 +3058,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3025,7 +3067,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Northeast Monsoon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_76dd87ae",
       "questionStem": "Assertion (A): The winter monsoon (northeast monsoon) brings significant rainfall to the Coromandel coast of Southern India.\nReason (R): As the northeast trade winds blow from land to sea across the Bay of Bengal, they pick up moisture and drop it on the windward slopes of the Eastern Ghats and the coastal plains.",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 145
   },
   {
     "id": 2826,
@@ -3087,7 +3130,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3096,7 +3139,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Retreating Monsoon and Winter Rainfall",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2a58a973",
       "questionStem": "Consider the following statements about the 'Retreating Monsoon' season in India:\n1. It lasts from October to November, marked by clear skies and a rise in temperature known as 'October heat'.\n2. The low-pressure conditions shift from the northwest of the Indian subcontinent to the Bay of Bengal during this period.\n3. Tamil Nadu receives the bulk of its annual rainfall during this season due to the northeast monsoon winds picking up moisture from the Bay of Bengal.\nHow many of the above statements are correct?",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 56
   },
   {
     "id": 2827,
@@ -3158,7 +3202,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Winter Rainfall and Western Disturbances",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9e2776f2",
       "questionStem": "Assertion (A): The Punjab and Haryana plains experience higher winter rainfall compared to the central parts of the Indo-Gangetic plain.\nReason (R): The western disturbances track primarily across northern latitudes, entering the Indian subcontinent from the western and northwestern borders.",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 146
   },
   {
     "id": 2828,
@@ -3229,7 +3274,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3238,7 +3283,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Pre-monsoon Showers",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_86e91a7a",
       "questionStem": "Consider the following statements regarding Nor'westers in India:\n1. They are dreaded local thunderstorms associated with cumulonimbus clouds occurring in the evening over West Bengal and Assam.\n2. They are locally known as 'Bardoli Chheerha' in Assam where they are helpful for early tea crop.\nHow many of the above statements are correct?",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 57
   },
   {
     "id": 2829,
@@ -3300,7 +3346,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3309,7 +3355,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Break in Monsoon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e7cb2ca1",
       "questionStem": "Consider the following factors contributing to the 'break' in the Indian monsoon:\n1. The northward shift of the monsoon trough up to the foothills of the Himalayas.\n2. The strengthening of typhoons and tropical storms in the western North Pacific Ocean.\n3. The establishment of an anticyclonic circulation anomaly over central India.\n\nHow many of the above factors are associated with a monsoon break?",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 58
   },
   {
     "id": 2830,
@@ -3371,7 +3418,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3380,7 +3427,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Onset of Monsoon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1986806f",
       "questionStem": "Which of the following best describes the physical mechanism behind the sudden onset of the southwest monsoon over the southern tip of the Indian peninsula?",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 59
   },
   {
     "id": 2831,
@@ -3442,7 +3490,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3451,7 +3499,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Pre-monsoon Showers",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ac09ce25",
       "questionStem": "Which of the following local pre-monsoon phenomena are correctly matched with their primary regional occurrence and associated agricultural benefit?\n1. Kalbaisakhi - West Bengal - Tea cultivation\n2. Mango Showers - Kerala and Karnataka - Early ripening of mangoes\n3. Blossom Showers - Tamil Nadu and Andhra Pradesh - Coffee flowering\nHow many of the pairs given above are correct?",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 60
   },
   {
     "id": 2832,
@@ -3513,7 +3562,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3522,7 +3571,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Rainfall Distribution and Monsoon Mechanics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_30a12b99",
       "questionStem": "Why does the Coromandel Coast remain relatively dry during the southwest monsoon season?",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 61
   },
   {
     "id": 2833,
@@ -3584,7 +3634,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3593,7 +3643,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fb0d9ead",
       "questionStem": "Consider the following regions of India:\n1. Ladakh region\n2. Western Rajasthan\n3. Leeward side of the Western Ghats\nWhich of the above are classified under low-rainfall or scanty-rainfall zones receiving less than 50 cm of annual precipitation?",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 62
   },
   {
     "id": 2834,
@@ -3655,7 +3706,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3664,7 +3715,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Climate & Drainage - Retreating Monsoon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1bf1f3d7",
       "questionStem": "Which of the following river basins in India experiences the maximum concentration of runoff during the retreating monsoon (Northeast Monsoon) season?",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 6
   },
   {
     "id": 2835,
@@ -3726,7 +3778,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3735,7 +3787,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9b6b7843",
       "questionStem": "Consider the following factors influencing the variability and mechanism of the Indian monsoon:\n1. Latitudinal shift of the Subtropical Westerly Jet\n2. Intensity of the Mascarene High near Madagascar\n3. Walker circulation anomalies in the Pacific Ocean\n4. Arctic Oscillation and Eurasian snow cover\nHow many of the above are recognized teleconnections or driving mechanisms for the Indian monsoon?",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 147
   },
   {
     "id": 2836,
@@ -3797,7 +3850,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3806,7 +3859,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Climate - Monsoons and Topography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b9a27ec9",
       "questionStem": "Assertion (A): The Western Ghats experience heavier orographic rainfall than the Eastern Ghats during the South-West monsoon season.\nReason (R): The Western Ghats present a continuous, high, and steep barrier directly across the path of the moisture-laden Arabian Sea branch winds, whereas the Eastern Ghats are more discontinuous and lie roughly parallel to the Bay of Bengal branch winds.",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 148
   },
   {
     "id": 2837,
@@ -3868,7 +3922,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3877,7 +3931,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e91dc636",
       "questionStem": "Regarding El Nino and its teleconnection with the Indian monsoon, consider the following statements:\n1. El Nino is characterized by the abnormal warming of surface waters in the central and eastern equatorial Pacific Ocean.\n2. It weakens the Walker circulation, leading to sinking air motion over the Indian Ocean and reduced monsoon rainfall.\n3. Every El Nino year invariably results in a severe drought over the entire Indian subcontinent.\nHow many of the above statements are correct?",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 63
   },
   {
     "id": 2838,
@@ -3939,7 +3994,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3948,7 +4003,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1519e02e",
       "questionStem": "With respect to the retreat or withdrawal of the Indian monsoon, consider the following statements:\n1. The withdrawal of the monsoon is more abrupt and faster compared to its onset.\n2. It begins from northwestern India in September and withdraws completely from the country by early December.\n3. The withdrawal is marked by clear skies, a rise in surface temperature, and high humidity, commonly known as 'October heat'.\nHow many of the above statements are correct?",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 64
   },
   {
     "id": 2839,
@@ -4010,7 +4066,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4019,7 +4075,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3caca9d3",
       "questionStem": "Consider the following statements regarding the thermal and dynamic concepts of the Indian monsoon:\n1. Halley's thermal concept attributes the South-West monsoon to the differential heating and cooling of land and sea.\n2. Flohn's dynamic concept explains the monsoon as a secondary result of the seasonal migration of the planetary pressure and wind belts, including the ITCZ.\n3. The thermal concept satisfactorily explains the sudden onset and burst of the monsoon along the Indian coast.\nHow many of the above statements are correct?",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 65
   },
   {
     "id": 2840,
@@ -4081,7 +4138,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4090,7 +4147,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a398a759",
       "questionStem": "Consider the following upper-air circulation phenomena associated with the Indian summer monsoon:\n1. Subtropical Westerly Jet Stream (STWJ)\n2. Tropical Easterly Jet (TEJ)\n3. Somali Jet\nWhich of the above jets flow over the Indian subcontinent during the peak summer monsoon season (July)?",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 66
   },
   {
     "id": 2841,
@@ -4152,7 +4210,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4161,7 +4219,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5934c69f",
       "questionStem": "Consider the following pairs regarding Jet Streams and their impact on the Indian monsoon:\n1. Subtropical Westerly Jet: Flows to the south of the Himalayas in winter, bringing western disturbances to Northwest India.\n2. Tropical Easterly Jet: Origination linked to the Tibetan Plateau heating, helps in maintaining the low-pressure surface conditions over North India.\n3. Somali Jet: A cross-equatorial low-level jet that intensifies the moisture-laden south-west monsoon winds over the Arabian Sea.\nHow many of the above pairs are correctly matched?",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 67
   },
   {
     "id": 2842,
@@ -4223,7 +4282,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_744bc7fc",
       "questionStem": "Consider the following statements regarding the 'break' in the Indian monsoon:\n1. Monsoon breaks refer to wet spells interspersed with dry days during the core rainy season (July-August).\n2. They are often caused by the northward shift of the monsoon trough towards the foothills of the Himalayas.\n3. During a monsoon break, rainfall increases significantly along the Western Ghats and Northeast India while decreasing elsewhere.\nHow many of the above statements are correct?",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 68
   },
   {
     "id": 2843,
@@ -4294,7 +4354,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Climate - Monsoon Dynamics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_98dd6a5c",
       "questionStem": "Which of the following describes the geographical phenomenon known as 'Break in the Monsoon'?",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 69
   },
   {
     "id": 2844,
@@ -4365,7 +4426,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4374,7 +4435,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Climate - Monsoon Onset Mechanisms",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d7e37287",
       "questionStem": "Consider the following atmospheric conditions over the Indian subcontinent during the month of May:\n1. Intense heating of the landmass creates a low-pressure trough over the northwestern plains.\n2. High pressure develops over the southern Indian Ocean, driving cross-equatorial winds.\n3. The subtropical westerly jet stream shifts completely to the north of the Himalayas.\n\nHow many of the above conditions drive the onset of the Southwest Monsoon?",
@@ -4399,7 +4460,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 70
   },
   {
     "id": 2845,
@@ -4436,7 +4498,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_51727e8e",
       "questionStem": "With reference to the Inter Tropical Convergence Zone (ITCZ) and its role in the Indian monsoon, consider the following statements:\n1. In July, the ITCZ shifts northwards over the Indo-Gangetic plain, often referred to as the monsoon trough.\n2. The southward shift of the ITCZ during winter brings the North-East trade winds to the Indian subcontinent.\n3. The position of the ITCZ over the Ganga plain attracts the South-East trade winds of the southern hemisphere, which cross the equator and deflect to the right due to Coriolis force.\nHow many of the above statements are correct?",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 71
   },
   {
     "id": 2846,
@@ -4507,7 +4570,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4516,7 +4579,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d7a05449",
       "questionStem": "Consider the following statements regarding the Indian Ocean Dipole (IOD):\n1. Positive IOD is characterized by anomalous cooling of the western tropical Indian Ocean and warming of the eastern tropical Indian Ocean.\n2. A positive phase of IOD can negate the adverse impacts of an El Nino event on the Indian summer monsoon.\n3. IOD phases are typically locked during the boreal summer and decay by the end of autumn.\nHow many of the above statements are correct?",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 72
   },
   {
     "id": 2847,
@@ -4578,7 +4642,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7b40a653",
       "questionStem": "Which of the following atmospheric conditions over the Tibetan Plateau during late spring directly facilitates the onset of the Indian summer monsoon?",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 73
   },
   {
     "id": 2848,
@@ -4649,7 +4714,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b2ad5bf2",
       "questionStem": "In the context of the South-West monsoon, what is the primary significance of the 'Mascarene High'?",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 74
   },
   {
     "id": 2849,
@@ -4720,7 +4786,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4729,7 +4795,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e4c4f351",
       "questionStem": "Which of the following best describes the role of the Coriolis force in the dynamics of the Indian monsoon?",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 75
   },
   {
     "id": 2850,
@@ -4791,7 +4858,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4800,7 +4867,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Monsoon Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5fc280a3",
       "questionStem": "Consider the following pairs linking climatic phenomena to their primary geographical theater:\n1. Walker Circulation: Equatorial Pacific Ocean\n2. Somali Jet: Western Indian Ocean and East African Coast\n3. Mascarene High: South-Eastern Atlantic Ocean\n4. Tibetan Anticyclone: Upper Troposphere over Central Asia\nHow many of the above pairs are correctly matched?",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 149
   },
   {
     "id": 2851,
@@ -4862,7 +4930,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4871,7 +4939,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Global Winds & Monsoon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bbbf2b8a",
       "questionStem": "How does the seasonal shift of the pressure belts and wind systems impact the climate of the Indian subcontinent?",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 76
   },
   {
     "id": 2852,
@@ -4933,7 +5002,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4942,7 +5011,7 @@
     "originalTier": "Premium",
     "originalTopicId": 56,
     "originalTopicName": "Pulses Agro-climatic Features",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_648efc92",
       "questionStem": "Consider the following statements regarding the agro-climatic requirements of pulses:\n1. Pulses need relatively less moisture and can survive even in dry conditions.\n2. Except for arhar, all other pulses help in restoring soil fertility by fixing nitrogen.\n3. Major pulse-producing states in India generally have high dependence on monsoon rainfall.\nHow many of the above statements are correct?",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 77
   },
   {
     "id": 2853,
@@ -5004,7 +5074,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5013,7 +5083,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_071",
       "intentType": "concept_validation",
@@ -5024,7 +5094,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Mechanism"
       }
-    }
+    },
+    "sequenceOrder": 78
   },
   {
     "id": 2854,
@@ -5061,7 +5132,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5070,7 +5141,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_072",
       "intentType": "concept_validation",
@@ -5081,7 +5152,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Tibetan Plateau and Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 150
   },
   {
     "id": 2855,
@@ -5118,7 +5190,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5127,7 +5199,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_073",
       "intentType": "concept_validation",
@@ -5138,7 +5210,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Somali Jet"
       }
-    }
+    },
+    "sequenceOrder": 151
   },
   {
     "id": 2856,
@@ -5175,7 +5248,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5184,7 +5257,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_074",
       "intentType": "concept_validation",
@@ -5195,7 +5268,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Tropical Easterly Jet"
       }
-    }
+    },
+    "sequenceOrder": 152
   },
   {
     "id": 2857,
@@ -5232,7 +5306,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5241,7 +5315,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_075",
       "intentType": "causal_reasoning",
@@ -5252,7 +5326,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Mascarene High"
       }
-    }
+    },
+    "sequenceOrder": 79
   },
   {
     "id": 2858,
@@ -5289,7 +5364,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5298,7 +5373,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_076",
       "intentType": "concept_validation",
@@ -5309,7 +5384,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Jet Streams and Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 153
   },
   {
     "id": 2859,
@@ -5346,7 +5422,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5355,7 +5431,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_077",
       "intentType": "concept_validation",
@@ -5366,7 +5442,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Trough"
       }
-    }
+    },
+    "sequenceOrder": 80
   },
   {
     "id": 2860,
@@ -5403,7 +5480,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5412,7 +5489,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_078",
       "intentType": "concept_validation",
@@ -5423,7 +5500,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Coriolis Force"
       }
-    }
+    },
+    "sequenceOrder": 81
   },
   {
     "id": 2861,
@@ -5460,7 +5538,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5469,7 +5547,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_079",
       "intentType": "concept_validation",
@@ -5480,7 +5558,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Depressions"
       }
-    }
+    },
+    "sequenceOrder": 154
   },
   {
     "id": 2862,
@@ -5517,7 +5596,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5526,7 +5605,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_080",
       "intentType": "causal_reasoning",
@@ -5537,7 +5616,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "MTC Dynamics"
       }
-    }
+    },
+    "sequenceOrder": 155
   },
   {
     "id": 2863,
@@ -5574,7 +5654,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5583,7 +5663,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_081",
       "intentType": "concept_validation",
@@ -5594,7 +5674,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "ENSO and Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 156
   },
   {
     "id": 2864,
@@ -5631,7 +5712,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5640,7 +5721,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_082",
       "intentType": "concept_validation",
@@ -5651,7 +5732,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "El Nino Modoki"
       }
-    }
+    },
+    "sequenceOrder": 157
   },
   {
     "id": 2865,
@@ -5688,7 +5770,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5697,7 +5779,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_083",
       "intentType": "concept_validation",
@@ -5708,7 +5790,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Southern Oscillation Index"
       }
-    }
+    },
+    "sequenceOrder": 82
   },
   {
     "id": 2866,
@@ -5745,7 +5828,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5754,7 +5837,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_084",
       "intentType": "concept_validation",
@@ -5765,7 +5848,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Indian Ocean Dipole"
       }
-    }
+    },
+    "sequenceOrder": 158
   },
   {
     "id": 2867,
@@ -5802,7 +5886,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5811,7 +5895,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_085",
       "intentType": "causal_reasoning",
@@ -5822,7 +5906,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "IOD and El Nino Coupling"
       }
-    }
+    },
+    "sequenceOrder": 83
   },
   {
     "id": 2868,
@@ -5859,7 +5944,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5868,7 +5953,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_086",
       "intentType": "concept_validation",
@@ -5879,7 +5964,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Madden-Julian Oscillation"
       }
-    }
+    },
+    "sequenceOrder": 84
   },
   {
     "id": 2869,
@@ -5916,7 +6002,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5925,7 +6011,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_087",
       "intentType": "concept_validation",
@@ -5936,7 +6022,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "BSISO Dynamics"
       }
-    }
+    },
+    "sequenceOrder": 159
   },
   {
     "id": 2870,
@@ -5973,7 +6060,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5982,7 +6069,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_088",
       "intentType": "concept_validation",
@@ -5993,7 +6080,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "PDO Teleconnection"
       }
-    }
+    },
+    "sequenceOrder": 160
   },
   {
     "id": 2871,
@@ -6030,7 +6118,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6039,7 +6127,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_089",
       "intentType": "concept_validation",
@@ -6050,7 +6138,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "EQUINOO Dynamics"
       }
-    }
+    },
+    "sequenceOrder": 161
   },
   {
     "id": 2872,
@@ -6087,7 +6176,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6096,7 +6185,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_090",
       "intentType": "causal_reasoning",
@@ -6107,7 +6196,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Atlantic Nino Teleconnection"
       }
-    }
+    },
+    "sequenceOrder": 162
   },
   {
     "id": 2873,
@@ -6144,7 +6234,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6153,7 +6243,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_091",
       "intentType": "concept_validation",
@@ -6164,7 +6254,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Western Ghats Rainfall"
       }
-    }
+    },
+    "sequenceOrder": 85
   },
   {
     "id": 2874,
@@ -6201,7 +6292,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6210,7 +6301,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_092",
       "intentType": "concept_validation",
@@ -6221,7 +6312,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Branches"
       }
-    }
+    },
+    "sequenceOrder": 86
   },
   {
     "id": 2875,
@@ -6258,7 +6350,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6267,7 +6359,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_093",
       "intentType": "concept_validation",
@@ -6278,7 +6370,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Meghalaya Orography"
       }
-    }
+    },
+    "sequenceOrder": 87
   },
   {
     "id": 2876,
@@ -6315,7 +6408,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6324,7 +6417,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_094",
       "intentType": "causal_reasoning",
@@ -6335,7 +6428,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Indo-Gangetic Rainfall Gradient"
       }
-    }
+    },
+    "sequenceOrder": 88
   },
   {
     "id": 2877,
@@ -6372,7 +6466,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6381,7 +6475,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_095",
       "intentType": "concept_validation",
@@ -6392,7 +6486,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Rajasthan Aridity"
       }
-    }
+    },
+    "sequenceOrder": 163
   },
   {
     "id": 2878,
@@ -6429,7 +6524,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6438,7 +6533,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_096",
       "intentType": "concept_validation",
@@ -6449,7 +6544,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Coromandel Rainfall"
       }
-    }
+    },
+    "sequenceOrder": 89
   },
   {
     "id": 2879,
@@ -6486,7 +6582,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6495,7 +6591,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_097",
       "intentType": "concept_validation",
@@ -6506,7 +6602,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Rainfall Variability"
       }
-    }
+    },
+    "sequenceOrder": 164
   },
   {
     "id": 2880,
@@ -6543,7 +6640,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6552,7 +6649,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_098",
       "intentType": "concept_validation",
@@ -6563,7 +6660,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Deccan Rain Shadow"
       }
-    }
+    },
+    "sequenceOrder": 90
   },
   {
     "id": 2881,
@@ -6600,7 +6698,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6609,7 +6707,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_099",
       "intentType": "concept_validation",
@@ -6620,7 +6718,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Branch Convergence"
       }
-    }
+    },
+    "sequenceOrder": 91
   },
   {
     "id": 2882,
@@ -6657,7 +6756,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6666,7 +6765,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_100",
       "intentType": "causal_reasoning",
@@ -6677,7 +6776,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Island Monsoon Regimes"
       }
-    }
+    },
+    "sequenceOrder": 165
   },
   {
     "id": 2883,
@@ -6714,7 +6814,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6723,7 +6823,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_101",
       "intentType": "concept_validation",
@@ -6734,7 +6834,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Western Disturbances"
       }
-    }
+    },
+    "sequenceOrder": 92
   },
   {
     "id": 2884,
@@ -6771,7 +6872,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6780,7 +6881,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_102",
       "intentType": "concept_validation",
@@ -6791,7 +6892,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "WD Weather Signatures"
       }
-    }
+    },
+    "sequenceOrder": 166
   },
   {
     "id": 2885,
@@ -6828,7 +6930,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6837,7 +6939,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_103",
       "intentType": "concept_validation",
@@ -6848,7 +6950,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Retreating Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 93
   },
   {
     "id": 2886,
@@ -6885,7 +6988,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6894,7 +6997,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_104",
       "intentType": "concept_validation",
@@ -6905,7 +7008,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Post-Monsoon Cyclones"
       }
-    }
+    },
+    "sequenceOrder": 94
   },
   {
     "id": 2887,
@@ -6942,7 +7046,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6951,7 +7055,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_105",
       "intentType": "concept_validation",
@@ -6962,7 +7066,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Northeast Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 95
   },
   {
     "id": 2888,
@@ -6999,7 +7104,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7008,7 +7113,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_106",
       "intentType": "concept_validation",
@@ -7019,7 +7124,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Pre-monsoon Storms"
       }
-    }
+    },
+    "sequenceOrder": 96
   },
   {
     "id": 2889,
@@ -7056,7 +7162,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7065,7 +7171,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_107",
       "intentType": "concept_validation",
@@ -7076,7 +7182,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Pre-monsoon Showers"
       }
-    }
+    },
+    "sequenceOrder": 97
   },
   {
     "id": 2890,
@@ -7113,7 +7220,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7122,7 +7229,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_108",
       "intentType": "concept_validation",
@@ -7133,7 +7240,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Cold Waves"
       }
-    }
+    },
+    "sequenceOrder": 167
   },
   {
     "id": 2891,
@@ -7170,7 +7278,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7179,7 +7287,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_109",
       "intentType": "causal_reasoning",
@@ -7190,7 +7298,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Temperature Inversion"
       }
-    }
+    },
+    "sequenceOrder": 98
   },
   {
     "id": 2892,
@@ -7227,7 +7336,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7236,7 +7345,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_110",
       "intentType": "concept_validation",
@@ -7247,7 +7356,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Jet Stream Bifurcation"
       }
-    }
+    },
+    "sequenceOrder": 168
   },
   {
     "id": 2893,
@@ -7284,7 +7394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7293,7 +7403,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_111",
       "intentType": "concept_validation",
@@ -7304,7 +7414,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Koeppen Classification Scheme"
       }
-    }
+    },
+    "sequenceOrder": 99
   },
   {
     "id": 2894,
@@ -7341,7 +7452,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7350,7 +7461,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_112",
       "intentType": "concept_validation",
@@ -7361,7 +7472,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Amw Climate"
       }
-    }
+    },
+    "sequenceOrder": 100
   },
   {
     "id": 2895,
@@ -7398,7 +7510,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7407,7 +7519,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_113",
       "intentType": "causal_reasoning",
@@ -7418,7 +7530,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "As Climate"
       }
-    }
+    },
+    "sequenceOrder": 101
   },
   {
     "id": 2896,
@@ -7455,7 +7568,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7464,7 +7577,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_114",
       "intentType": "concept_validation",
@@ -7475,7 +7588,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Aw Climate"
       }
-    }
+    },
+    "sequenceOrder": 102
   },
   {
     "id": 2897,
@@ -7512,7 +7626,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7521,7 +7635,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_115",
       "intentType": "concept_validation",
@@ -7532,7 +7646,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "BShw Climate"
       }
-    }
+    },
+    "sequenceOrder": 103
   },
   {
     "id": 2898,
@@ -7569,7 +7684,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7578,7 +7693,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_116",
       "intentType": "concept_validation",
@@ -7589,7 +7704,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Desert Climates"
       }
-    }
+    },
+    "sequenceOrder": 169
   },
   {
     "id": 2899,
@@ -7626,7 +7742,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7635,7 +7751,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_117",
       "intentType": "concept_validation",
@@ -7646,7 +7762,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Cwg Climate"
       }
-    }
+    },
+    "sequenceOrder": 104
   },
   {
     "id": 2900,
@@ -7683,7 +7800,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7692,7 +7809,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_118",
       "intentType": "concept_validation",
@@ -7703,7 +7820,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Dfc Climate"
       }
-    }
+    },
+    "sequenceOrder": 170
   },
   {
     "id": 2901,
@@ -7740,7 +7858,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7749,7 +7867,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_119",
       "intentType": "concept_validation",
@@ -7760,7 +7878,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Polar Climates"
       }
-    }
+    },
+    "sequenceOrder": 171
   },
   {
     "id": 2902,
@@ -7797,7 +7916,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7806,7 +7925,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_120",
       "intentType": "concept_validation",
@@ -7817,7 +7936,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Agro-Climatic Synthesis"
       }
-    }
+    },
+    "sequenceOrder": 172
   },
   {
     "id": 2903,
@@ -7885,7 +8005,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 7,
+    "subTopic": "Monsoon Mechanism"
   },
   {
     "id": 2904,
@@ -7953,7 +8075,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 8,
+    "subTopic": "ENSO & Teleconnections"
   },
   {
     "id": 2905,
@@ -8021,7 +8145,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 9,
+    "subTopic": "Rainfall Distribution"
   },
   {
     "id": 2906,
@@ -8089,7 +8215,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 10,
+    "subTopic": "Western Disturbances"
   },
   {
     "id": 2907,
@@ -8157,7 +8285,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 11,
+    "subTopic": "Koppen Classification"
   },
   {
     "id": 2908,
@@ -8225,7 +8355,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 12,
+    "subTopic": "Monsoon Mechanism"
   },
   {
     "id": 2909,
@@ -8293,7 +8425,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 13,
+    "subTopic": "ENSO & Teleconnections"
   },
   {
     "id": 2910,
@@ -8361,7 +8495,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 14,
+    "subTopic": "Rainfall Distribution"
   },
   {
     "id": 2911,
@@ -8429,7 +8565,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 15,
+    "subTopic": "Western Disturbances"
   },
   {
     "id": 2912,
@@ -8497,7 +8635,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 16,
+    "subTopic": "Koppen Classification"
   },
   {
     "id": 2913,
@@ -8565,7 +8705,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 17,
+    "subTopic": "Monsoon Mechanism"
   },
   {
     "id": 2914,
@@ -8633,7 +8775,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 18,
+    "subTopic": "ENSO & Teleconnections"
   },
   {
     "id": 2915,
@@ -8701,7 +8845,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 19,
+    "subTopic": "Rainfall Distribution"
   },
   {
     "id": 2916,
@@ -8769,7 +8915,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 20,
+    "subTopic": "Western Disturbances"
   },
   {
     "id": 2917,
@@ -8837,7 +8985,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 21,
+    "subTopic": "Koppen Classification"
   },
   {
     "id": 2918,
@@ -8905,7 +9055,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 22,
+    "subTopic": "Monsoon Mechanism"
   },
   {
     "id": 2919,
@@ -8973,7 +9125,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 23,
+    "subTopic": "ENSO & Teleconnections"
   },
   {
     "id": 2920,
@@ -9041,7 +9195,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 24,
+    "subTopic": "Rainfall Distribution"
   },
   {
     "id": 2921,
@@ -9109,7 +9265,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 25,
+    "subTopic": "Western Disturbances"
   },
   {
     "id": 2922,
@@ -9177,7 +9335,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 26,
+    "subTopic": "Koppen Classification"
   },
   {
     "id": 2923,
@@ -9245,7 +9405,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 27,
+    "subTopic": "Monsoon Mechanism"
   },
   {
     "id": 2924,
@@ -9313,7 +9475,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 28,
+    "subTopic": "ENSO & Teleconnections"
   },
   {
     "id": 2925,
@@ -9381,7 +9545,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 29,
+    "subTopic": "Rainfall Distribution"
   },
   {
     "id": 2926,
@@ -9449,7 +9615,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 30,
+    "subTopic": "Western Disturbances"
   },
   {
     "id": 2927,
@@ -9517,7 +9685,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 31,
+    "subTopic": "Koppen Classification"
   },
   {
     "id": 2928,
@@ -9554,7 +9724,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9563,7 +9733,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_071",
       "intentType": "concept_validation",
@@ -9574,7 +9744,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Mechanism"
       }
-    }
+    },
+    "sequenceOrder": 105
   },
   {
     "id": 2929,
@@ -9611,7 +9782,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9620,7 +9791,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_072",
       "intentType": "concept_validation",
@@ -9631,7 +9802,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Tibetan Plateau and Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 173
   },
   {
     "id": 2930,
@@ -9668,7 +9840,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9677,7 +9849,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_073",
       "intentType": "concept_validation",
@@ -9688,7 +9860,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Somali Jet"
       }
-    }
+    },
+    "sequenceOrder": 174
   },
   {
     "id": 2931,
@@ -9725,7 +9898,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9734,7 +9907,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_074",
       "intentType": "concept_validation",
@@ -9745,7 +9918,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Tropical Easterly Jet"
       }
-    }
+    },
+    "sequenceOrder": 175
   },
   {
     "id": 2932,
@@ -9782,7 +9956,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9791,7 +9965,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_075",
       "intentType": "causal_reasoning",
@@ -9802,7 +9976,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Mascarene High"
       }
-    }
+    },
+    "sequenceOrder": 106
   },
   {
     "id": 2933,
@@ -9839,7 +10014,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9848,7 +10023,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_076",
       "intentType": "concept_validation",
@@ -9859,7 +10034,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Jet Streams and Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 176
   },
   {
     "id": 2934,
@@ -9896,7 +10072,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9905,7 +10081,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_077",
       "intentType": "concept_validation",
@@ -9916,7 +10092,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Trough"
       }
-    }
+    },
+    "sequenceOrder": 107
   },
   {
     "id": 2935,
@@ -9953,7 +10130,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -9962,7 +10139,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_078",
       "intentType": "concept_validation",
@@ -9973,7 +10150,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Coriolis Force"
       }
-    }
+    },
+    "sequenceOrder": 108
   },
   {
     "id": 2936,
@@ -10010,7 +10188,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10019,7 +10197,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_079",
       "intentType": "concept_validation",
@@ -10030,7 +10208,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Depressions"
       }
-    }
+    },
+    "sequenceOrder": 177
   },
   {
     "id": 2937,
@@ -10067,7 +10246,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10076,7 +10255,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_080",
       "intentType": "causal_reasoning",
@@ -10087,7 +10266,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "MTC Dynamics"
       }
-    }
+    },
+    "sequenceOrder": 178
   },
   {
     "id": 2938,
@@ -10124,7 +10304,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10133,7 +10313,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_081",
       "intentType": "concept_validation",
@@ -10144,7 +10324,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "ENSO and Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 179
   },
   {
     "id": 2939,
@@ -10181,7 +10362,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10190,7 +10371,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_082",
       "intentType": "concept_validation",
@@ -10201,7 +10382,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "El Nino Modoki"
       }
-    }
+    },
+    "sequenceOrder": 180
   },
   {
     "id": 2940,
@@ -10238,7 +10420,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10247,7 +10429,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_083",
       "intentType": "concept_validation",
@@ -10258,7 +10440,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Southern Oscillation Index"
       }
-    }
+    },
+    "sequenceOrder": 109
   },
   {
     "id": 2941,
@@ -10295,7 +10478,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10304,7 +10487,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_084",
       "intentType": "concept_validation",
@@ -10315,7 +10498,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Indian Ocean Dipole"
       }
-    }
+    },
+    "sequenceOrder": 181
   },
   {
     "id": 2942,
@@ -10352,7 +10536,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10361,7 +10545,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_085",
       "intentType": "causal_reasoning",
@@ -10372,7 +10556,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "IOD and El Nino Coupling"
       }
-    }
+    },
+    "sequenceOrder": 110
   },
   {
     "id": 2943,
@@ -10409,7 +10594,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10418,7 +10603,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_086",
       "intentType": "concept_validation",
@@ -10429,7 +10614,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Madden-Julian Oscillation"
       }
-    }
+    },
+    "sequenceOrder": 111
   },
   {
     "id": 2944,
@@ -10466,7 +10652,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10475,7 +10661,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_087",
       "intentType": "concept_validation",
@@ -10486,7 +10672,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "BSISO Dynamics"
       }
-    }
+    },
+    "sequenceOrder": 182
   },
   {
     "id": 2945,
@@ -10523,7 +10710,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10532,7 +10719,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_088",
       "intentType": "concept_validation",
@@ -10543,7 +10730,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "PDO Teleconnection"
       }
-    }
+    },
+    "sequenceOrder": 183
   },
   {
     "id": 2946,
@@ -10580,7 +10768,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10589,7 +10777,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_089",
       "intentType": "concept_validation",
@@ -10600,7 +10788,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "EQUINOO Dynamics"
       }
-    }
+    },
+    "sequenceOrder": 184
   },
   {
     "id": 2947,
@@ -10637,7 +10826,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10646,7 +10835,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_090",
       "intentType": "causal_reasoning",
@@ -10657,7 +10846,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Atlantic Nino Teleconnection"
       }
-    }
+    },
+    "sequenceOrder": 185
   },
   {
     "id": 2948,
@@ -10694,7 +10884,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10703,7 +10893,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_091",
       "intentType": "concept_validation",
@@ -10714,7 +10904,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Western Ghats Rainfall"
       }
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 2949,
@@ -10751,7 +10942,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10760,7 +10951,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_092",
       "intentType": "concept_validation",
@@ -10771,7 +10962,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Monsoon Branches"
       }
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 2950,
@@ -10808,7 +11000,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10817,7 +11009,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_093",
       "intentType": "concept_validation",
@@ -10828,7 +11020,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Meghalaya Orography"
       }
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 2951,
@@ -10865,7 +11058,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10874,7 +11067,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_094",
       "intentType": "causal_reasoning",
@@ -10885,7 +11078,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Indo-Gangetic Rainfall Gradient"
       }
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 2952,
@@ -10922,7 +11116,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10931,7 +11125,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_095",
       "intentType": "concept_validation",
@@ -10942,7 +11136,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Rajasthan Aridity"
       }
-    }
+    },
+    "sequenceOrder": 186
   },
   {
     "id": 2953,
@@ -10979,7 +11174,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -10988,7 +11183,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_096",
       "intentType": "concept_validation",
@@ -10999,7 +11194,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Coromandel Rainfall"
       }
-    }
+    },
+    "sequenceOrder": 116
   },
   {
     "id": 2954,
@@ -11036,7 +11232,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11045,7 +11241,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_097",
       "intentType": "concept_validation",
@@ -11056,7 +11252,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Rainfall Variability"
       }
-    }
+    },
+    "sequenceOrder": 187
   },
   {
     "id": 2955,
@@ -11093,7 +11290,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11102,7 +11299,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_098",
       "intentType": "concept_validation",
@@ -11113,7 +11310,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Deccan Rain Shadow"
       }
-    }
+    },
+    "sequenceOrder": 117
   },
   {
     "id": 2956,
@@ -11150,7 +11348,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11159,7 +11357,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_099",
       "intentType": "concept_validation",
@@ -11170,7 +11368,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Branch Convergence"
       }
-    }
+    },
+    "sequenceOrder": 118
   },
   {
     "id": 2957,
@@ -11207,7 +11406,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11216,7 +11415,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_100",
       "intentType": "causal_reasoning",
@@ -11227,7 +11426,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Island Monsoon Regimes"
       }
-    }
+    },
+    "sequenceOrder": 188
   },
   {
     "id": 2958,
@@ -11264,7 +11464,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11273,7 +11473,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_101",
       "intentType": "concept_validation",
@@ -11284,7 +11484,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Western Disturbances"
       }
-    }
+    },
+    "sequenceOrder": 119
   },
   {
     "id": 2959,
@@ -11321,7 +11522,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11330,7 +11531,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_102",
       "intentType": "concept_validation",
@@ -11341,7 +11542,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "WD Weather Signatures"
       }
-    }
+    },
+    "sequenceOrder": 189
   },
   {
     "id": 2960,
@@ -11378,7 +11580,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11387,7 +11589,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_103",
       "intentType": "concept_validation",
@@ -11398,7 +11600,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Retreating Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 120
   },
   {
     "id": 2961,
@@ -11435,7 +11638,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11444,7 +11647,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_104",
       "intentType": "concept_validation",
@@ -11455,7 +11658,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Post-Monsoon Cyclones"
       }
-    }
+    },
+    "sequenceOrder": 121
   },
   {
     "id": 2962,
@@ -11492,7 +11696,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11501,7 +11705,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_105",
       "intentType": "concept_validation",
@@ -11512,7 +11716,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Northeast Monsoon"
       }
-    }
+    },
+    "sequenceOrder": 122
   },
   {
     "id": 2963,
@@ -11549,7 +11754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11558,7 +11763,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_106",
       "intentType": "concept_validation",
@@ -11569,7 +11774,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Pre-monsoon Storms"
       }
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 2964,
@@ -11606,7 +11812,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11615,7 +11821,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_107",
       "intentType": "concept_validation",
@@ -11626,7 +11832,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Pre-monsoon Showers"
       }
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 2965,
@@ -11663,7 +11870,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11672,7 +11879,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_108",
       "intentType": "concept_validation",
@@ -11683,7 +11890,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Cold Waves"
       }
-    }
+    },
+    "sequenceOrder": 190
   },
   {
     "id": 2966,
@@ -11720,7 +11928,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11729,7 +11937,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_109",
       "intentType": "causal_reasoning",
@@ -11740,7 +11948,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Temperature Inversion"
       }
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 2967,
@@ -11777,7 +11986,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11786,7 +11995,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_110",
       "intentType": "concept_validation",
@@ -11797,7 +12006,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Jet Stream Bifurcation"
       }
-    }
+    },
+    "sequenceOrder": 191
   },
   {
     "id": 2968,
@@ -11834,7 +12044,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11843,7 +12053,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_111",
       "intentType": "concept_validation",
@@ -11854,7 +12064,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Koeppen Classification Scheme"
       }
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 2969,
@@ -11891,7 +12102,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11900,7 +12111,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_112",
       "intentType": "concept_validation",
@@ -11911,7 +12122,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Amw Climate"
       }
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 2970,
@@ -11948,7 +12160,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -11957,7 +12169,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_113",
       "intentType": "causal_reasoning",
@@ -11968,7 +12180,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "As Climate"
       }
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 2971,
@@ -12005,7 +12218,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12014,7 +12227,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_114",
       "intentType": "concept_validation",
@@ -12025,7 +12238,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Aw Climate"
       }
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 2972,
@@ -12062,7 +12276,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12071,7 +12285,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_115",
       "intentType": "concept_validation",
@@ -12082,7 +12296,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "BShw Climate"
       }
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 2973,
@@ -12119,7 +12334,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12128,7 +12343,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_116",
       "intentType": "concept_validation",
@@ -12139,7 +12354,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Desert Climates"
       }
-    }
+    },
+    "sequenceOrder": 192
   },
   {
     "id": 2974,
@@ -12176,7 +12392,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12185,7 +12401,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_117",
       "intentType": "concept_validation",
@@ -12196,7 +12412,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Cwg Climate"
       }
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 2975,
@@ -12233,7 +12450,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12242,7 +12459,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_118",
       "intentType": "concept_validation",
@@ -12253,7 +12470,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Dfc Climate"
       }
-    }
+    },
+    "sequenceOrder": 193
   },
   {
     "id": 2976,
@@ -12290,7 +12508,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12299,7 +12517,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_119",
       "intentType": "concept_validation",
@@ -12310,7 +12528,8 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Polar Climates"
       }
-    }
+    },
+    "sequenceOrder": 194
   },
   {
     "id": 2977,
@@ -12347,7 +12566,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -12356,7 +12575,7 @@
     "originalTier": "Premium",
     "originalTopicId": 12,
     "originalTopicName": "Indian Monsoon and Climate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_t12_120",
       "intentType": "concept_validation",
@@ -12367,6 +12586,7 @@
         "sourceId": "ncert_xi_india_env.txt",
         "concept": "Agro-Climatic Synthesis"
       }
-    }
+    },
+    "sequenceOrder": 195
   }
 ]

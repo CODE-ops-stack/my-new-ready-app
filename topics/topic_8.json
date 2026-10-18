@@ -34,7 +34,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_30fec4a3",
       "questionStem": "Consider the following statements:\n1. Biodiversity generally tends to decrease as one moves from the poles towards the equator.\n2. Endemic species are those plants and animals that are exclusively confined to a particular geographic region and are not found anywhere else.\n3. Hotspots of biodiversity are identified based on the absolute concentration of endemic vascular plants and the degree of habitat threat.\n\nHow many of the statements given above are correct?",
@@ -68,7 +68,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 8
   },
   {
     "id": 1608,
@@ -105,7 +106,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a8f25288",
       "questionStem": "Consider the following pairs of Biomes and their characteristic dominant floral adaptations:\n1. Taiga: Needle-like leaves and thick bark to minimize transpirational water loss and withstand heavy snow.\n2. Tropical Deciduous Forest: Broad leaves dropped during the dry season to conserve moisture.\n3. Desert: Sclerophyllous foliage with deep root systems and absence of stomatal modifications.\nHow many of the above pairs are correctly matched?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 9
   },
   {
     "id": 1609,
@@ -176,7 +178,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_da7a6a6b",
       "questionStem": "Assertion (A): Ecological pyramids of biomass in aquatic ecosystems are generally inverted.\nReason (R): The biomass of primary producers (phytoplankton) is significantly lower at any given time compared to the biomass of primary consumers (zooplankton) due to their extremely high reproductive rates and rapid turnover.",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 80
   },
   {
     "id": 1610,
@@ -247,7 +250,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0f09af72",
       "questionStem": "Consider the following statements regarding ecological pyramids in a typical aquatic ecosystem:\n1. The pyramid of number is upright as producers outnumber herbivores.\n2. The pyramid of biomass is inverted because the standing crop of phytoplankton is less than that of zooplankton at any given time.\n3. The pyramid of energy is always upright in all ecosystems without exception.\nHow many of the above statements are correct?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 10
   },
   {
     "id": 1611,
@@ -318,7 +322,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5e76e66b",
       "questionStem": "Consider the following pairs regarding major world biomes and their characteristic features:\n1. Taiga: Characterized by coniferous forests with evergreen needle-leaf trees and acidic, nutrient-poor podzol soils.\n2. Tundra: Permanently frozen subsoil known as permafrost with deep-rooting canopy trees adapted to extreme cold.\n3. Savanna: Transitional biome between tropical rainforests and deserts, featuring scattered trees and grasses with distinct wet and dry seasons.\n\nHow many of the above pairs are correctly matched?",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 11
   },
   {
     "id": 1612,
@@ -389,7 +394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_39da678f",
       "questionStem": "Which of the following statements regarding energy flow and ecological pyramids in an ecosystem is INCORRECT?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 12
   },
   {
     "id": 1613,
@@ -460,7 +466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8ce17ceb",
       "questionStem": "Which of the following biogeographical regions of India possesses the maximum endemism of amphibian and reptilian fauna due to its unique tropical wet evergreen forests and high topographical heterogeneity?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 13
   },
   {
     "id": 1614,
@@ -531,7 +538,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_204c9948",
       "questionStem": "Statement-I: Tundra biome soils are characterized by permafrost, which restricts deep root penetration and limits the vegetation primarily to dwarf shrubs, mosses, and lichens.\nStatement-II: The extremely low rates of decomposition in Tundra regions are caused by frigid temperatures and waterlogged soil conditions that inhibit microbial activity.",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 81
   },
   {
     "id": 1615,
@@ -602,7 +610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_18e3bb93",
       "questionStem": "Which of the following is NOT correct regarding the flow of energy and nutrients in the biosphere?",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 14
   },
   {
     "id": 1616,
@@ -673,7 +682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_48e4b732",
       "questionStem": "Which of the following statements best describes the ecological concept of a 'Niche'?",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 15
   },
   {
     "id": 1617,
@@ -744,7 +754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_af233145",
       "questionStem": "Consider the following statements regarding the Savanna biome (Tropical Grassland):\n1. It is characterized by an extensive continuous canopy of tall trees interspersed with grasses.\n2. The climate features distinct alternate wet and dry seasons, often subjected to periodic wildfires.\n3. Acacias and baobabs are typical drought-resistant flora adapted to this ecosystem.\nHow many of the above statements are correct?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 16
   },
   {
     "id": 1618,
@@ -815,7 +826,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_58b9ebbb",
       "questionStem": "Statement-I: Biodiversity generally tends to decrease as one moves from the equator towards the polar regions.\nStatement-II: Tropical regions have remained relatively undisturbed by glaciations over millions of years, providing a long evolutionary time for species diversification.",
@@ -849,7 +860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 82
   },
   {
     "id": 1619,
@@ -886,7 +898,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a42239e9",
       "questionStem": "Consider the following pairs of Protected Areas and their flagship threatened species:\n1. Dachigam National Park: Hangul (Kashmir Stag)\n2. Kaziranga National Park: One-horned Rhinoceros\n3. Eaglenest Wildlife Sanctuary: Nilgiri Tahr\nHow many pairs are correctly matched?",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 17
   },
   {
     "id": 1620,
@@ -957,7 +970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -966,7 +979,7 @@
     "originalTier": "Standard",
     "originalTopicId": 19,
     "originalTopicName": "Biogeography",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d7da511a",
       "questionStem": "Which of the following best explains why net primary productivity (NPP) is highest in tropical rain forests and shallow estuarine waters, despite covering a fraction of the Earth's surface?",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 18
   },
   {
     "id": 1621,
@@ -1028,7 +1042,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1037,7 +1051,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_Q3R4S5",
       "questionStem": "With reference to the recently notified Ramsar Site, 'Ankasamudra Bird Conservation Reserve', which of the following statements makes it ecologically unique?",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 19
   },
   {
     "id": 1622,
@@ -1099,7 +1114,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1108,7 +1123,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_map7_p6q7r8",
       "questionStem": "Arrange the following ecological hotspots along the Eastern Coast from North to South: 1. Chilika Lake 2. Simlipal National Park 3. Coringa Wildlife Sanctuary 4. Bhitarkanika National Park",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 1623,
@@ -1170,7 +1186,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1179,7 +1195,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_Y5Z6A7",
       "questionStem": "Which of the following recently designated Ramsar Sites in Tamil Nadu is located on the banks of the Noyyal River (a tributary of the Cauvery) and has been traditionally maintained by local communities for agriculture and biodiversity?",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 20
   },
   {
     "id": 1624,
@@ -1241,7 +1258,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1250,7 +1267,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_G7H8I9",
       "questionStem": "With reference to the Longwood Shola Reserve Forest, recently added to the Ramsar list in 2024, consider the following statements: 1. It is situated within the Nilgiris Biosphere Reserve. 2. It provides critical habitat for the globally endangered Nilgiri laughingthrush. 3. The forest type is primarily characterized as a low-altitude tropical wet evergreen forest. Which of the statements given above are correct?",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 83
   },
   {
     "id": 1625,
@@ -1312,7 +1330,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1321,7 +1339,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_M3N4O5",
       "questionStem": "Consider the following pairs of PVTGs of the Andaman & Nicobar Islands and their specific geographical habitats: 1. Sentinelese : North Sentinel Island 2. Jarawa : Middle and South Andaman 3. Onge : Little Andaman 4. Great Andamanese : Strait Island How many pairs given above are correctly matched?",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 84
   },
   {
     "id": 1626,
@@ -1383,7 +1402,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1392,7 +1411,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_P6Q7R8",
       "questionStem": "Consider the following statements regarding the Tawa Reservoir, a recently designated Ramsar Site: 1. It is formed by a dam at the confluence of the Tawa and Denwa rivers. 2. It forms the western boundary of the Satpura National Park. 3. The Korku tribe is a prominent indigenous community residing in its peripheral micro-ecology. Which of the statements given above are correct?",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 85
   },
   {
     "id": 1627,
@@ -1454,7 +1474,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1463,7 +1483,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_S9T0U1",
       "questionStem": "Consider the following pairs of micro-ecological Ramsar Sites and their flagship fauna: 1. Ranganathittu Bird Sanctuary : Mugger Crocodile 2. Sirpur Wetland : Sarus Crane 3. Vembannur Wetland Complex : Spot-billed Pelican How many pairs given above are correctly matched?",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 86
   },
   {
     "id": 1628,
@@ -1525,7 +1546,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1534,7 +1555,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_T6U7V8",
       "questionStem": "Consider the following pairs of Ramsar Sites and the prominent micro-ecological threats they are currently facing: 1. Ashtamudi Wetland : Land subsidence and sinking of Munroe Island 2. East Calcutta Wetlands : Encroachment by unregulated real estate and solid waste 3. Wular Lake : Siltation and extensive Willow plantations How many pairs given above are correctly matched?",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 87
   },
   {
     "id": 1629,
@@ -1596,7 +1618,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1605,7 +1627,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred4_W9X0Y1",
       "questionStem": "Consider the following pairs of PVTGs of the Nilgiris and their traditional ecological occupations: 1. Toda : Pastoralism (primarily Buffalo rearing) 2. Kota : Pottery and artisan crafts 3. Kurumba : Foraging and magic/sorcery traditions 4. Irula : Snake catching and honey collection How many pairs given above are correctly matched?",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 88
   },
   {
     "id": 1630,
@@ -1667,7 +1690,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1676,7 +1699,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred5_9c0d1e2f",
       "questionStem": "Which of the following Biosphere Reserves is characterized by the presence of the Shola forest ecosystem, encompasses the Mukurthi National Park, and serves as the catchment area for the Bhavani and Moyar rivers?",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 21
   },
   {
     "id": 1631,
@@ -1738,7 +1762,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1747,7 +1771,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current2_3a4b5c6d",
       "questionStem": "Deepor Beel, recently facing ecological degradation from adjacent solid waste dumps, is a permanent freshwater lake, in a former channel of the Brahmaputra River. It holds which of the following conservation statuses? 1. Ramsar Site 2. Important Bird Area (IBA) 3. Tiger Reserve. Select the correct answer using the code given below:",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 22
   },
   {
     "id": 1632,
@@ -1809,7 +1834,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1818,7 +1843,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_v2w3x4",
       "questionStem": "The 'Aravalli Green Wall Project' was recently launched. Which of the following is NOT an ecological objective of this initiative?",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 23
   },
   {
     "id": 1633,
@@ -1880,7 +1906,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1889,7 +1915,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_n0o1p2",
       "questionStem": "The Ken-Betwa River Interlinking Project is set to alter the hydrology of the Bundelkhand region. A major ecological concern is the submergence of critical habitat in which protected area?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 1634,
@@ -1951,7 +1978,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1960,7 +1987,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current4_w9x0y1z2",
       "questionStem": "The catastrophic destruction of the Kakhovka Dam in June 2023 caused massive flooding and ecological disaster. On which river was this dam located?",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 3
   },
   {
     "id": 1635,
@@ -2022,7 +2050,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -2031,7 +2059,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_inter_20",
       "questionStem": "Assertion (A): Mangrove ecosystems along the eastern coast of India are more extensive and biodiversity-rich than those on the western coast. Reason (R): The eastern coast has a continuous supply of freshwater and silt from major river deltas, creating ideal estuarine conditions.",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 89
   },
   {
     "id": 1636,
@@ -2093,7 +2122,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2102,7 +2131,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink6_h4i5j6",
       "questionStem": "Which of the following interlinkages between minor minerals, their geological origin, and specific niche industries in India is INCORRECT?",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 24
   },
   {
     "id": 1637,
@@ -2164,7 +2194,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2173,7 +2203,7 @@
     "originalTier": "Premium",
     "originalTopicId": 26,
     "originalTopicName": "Tourism Sector",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7d5e009a",
       "questionStem": "Match the following types of tourism with their primary characteristics:\n1. Medical Tourism: Traveling abroad for specialized medical treatment combined with tourism activities.\n2. Ecotourism: Focusing on the natural environment and sustainable travel that minimizes ecological footprint.\n3. Heritage Tourism: Visiting historical monuments, museums, and exploring indigenous cultures.\n\nHow many of the pairs given above are correctly matched?",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 25
   },
   {
     "id": 1638,
@@ -2235,7 +2266,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2244,7 +2275,7 @@
     "originalTier": "Premium",
     "originalTopicId": 28,
     "originalTopicName": "Age-sex pyramid",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f8fc8b7d",
       "questionStem": "Which of the following best describes the implications of an expansive age-sex pyramid characterized by a broad base and a tapering top?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 26
   },
   {
     "id": 1639,
@@ -2306,7 +2338,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2315,7 +2347,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Ecosystem Structure",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c3dcd289",
       "questionStem": "Which term describes a transition zone between two distinct ecological communities or biomes containing high species diversity and edge effects?",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 4
   },
   {
     "id": 1640,
@@ -2377,7 +2410,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2386,7 +2419,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Biogeochemical Cycles",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8fff7357",
       "questionStem": "Consider the following biogeochemical cycles:\n1. Carbon cycle\n2. Nitrogen cycle\n3. Phosphorus cycle\nWhich of the cycles given above is/are sedimentary in nature, lacking a significant atmospheric phase?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 27
   },
   {
     "id": 1641,
@@ -2448,7 +2482,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2457,7 +2491,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Biodiversity Hotspots",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3f993500",
       "questionStem": "Consider the following statements regarding Biodiversity Hotspots:\n1. To qualify as a biodiversity hotspot, a region must contain at least 1,500 species of vascular plants as endemics.\n2. The region must have lost at least 70 percent of its original primary vegetation.\n3. All four biodiversity hotspots located entirely or partially within India are globally recognized for their endemic marine fauna.\nWhich of the statements given above are correct?",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 28
   },
   {
     "id": 1642,
@@ -2519,7 +2554,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2528,7 +2563,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Taiga)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_14c5a03f",
       "questionStem": "Consider the following statements regarding the Taiga (Boreal) biome:\n1. The dominant vegetation comprises broad-leaved deciduous trees adapted to long, warm summers.\n2. Podzol soils are characteristic of this biome, being typically acidic and poor in nutrients due to slow litter decomposition.\n3. Precipitation occurs primarily in the form of heavy convectional rainfall during the brief summer season.\nHow many of the above statements are correct?",
@@ -2553,7 +2588,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 29
   },
   {
     "id": 1643,
@@ -2590,7 +2626,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2599,7 +2635,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Nitrogen Cycle",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d9b320ad",
       "questionStem": "Assertion (A): Nitrogen fixation by lightning and biological agents converts inert atmospheric nitrogen into compounds usable by primary producers.\nReason (R): Atmospheric nitrogen constitutes nearly 78 percent of air, but plants can absorb it directly through their stomata in gaseous form without undergoing fixation.",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 90
   },
   {
     "id": 1644,
@@ -2661,7 +2698,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2670,7 +2707,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Savanna)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8eafc59d",
       "questionStem": "Assertion (A): The Savanna biome exhibits a distinct seasonality in vegetation growth, with lush green grasses during the wet season and dry, brown landscapes during the prolonged dry season.\nReason (R): The Savanna climate is controlled by the shifting of the Intertropical Convergence Zone (ITCZ) bringing rainfall, alternating with the subtropical high-pressure belt bringing drought.",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 91
   },
   {
     "id": 1645,
@@ -2732,7 +2770,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2741,7 +2779,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Causes of biodiversity loss",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_09096067",
       "questionStem": "Consider the following statements regarding causes of biodiversity loss:\n1. Habitat fragmentation increases the perimeter-to-area ratio of natural habitats, amplifying edge effects.\n2. Invasive alien species often outcompete native flora and fauna due to the absence of natural predators in their introduced range.\n3. Overexploitation affects marine ecosystems more severely than terrestrial ecosystems due to the indiscriminate nature of modern industrial fishing.\nHow many of the above statements are correct?",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 30
   },
   {
     "id": 1646,
@@ -2803,7 +2842,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2812,7 +2851,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Tundra)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e87eee47",
       "questionStem": "Consider the following statements regarding the Tundra biome:\n1. The soil experiences continuous cryoturbation (frost churning) which disrupts soil horizon development.\n2. Decomposition rates of organic matter are extremely rapid during the 24-hour daylight of the summer months.\n3. The vegetation lacks deep-root systems due to the presence of a permanently frozen subsurface layer.\nHow many of the above statements are correct?",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 31
   },
   {
     "id": 1647,
@@ -2874,7 +2914,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2883,7 +2923,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Climate-vegetation linkages)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d942ede7",
       "questionStem": "Consider the following pairs matching climatic regions with their characteristic vegetation types:\n1. Mediterranean: Sclerophyllous forests with thick-barked, drought-resistant evergreen trees and shrubs.\n2. Tropical Monsoon: Deciduous forests that shed their leaves during the dry summer season to conserve moisture.\n3. Tropical Desert: Dense thorn forests with closed canopies and luxuriant undergrowth.\nHow many of the given pairs are correctly matched?",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 32
   },
   {
     "id": 1648,
@@ -2945,7 +2986,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2954,7 +2995,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Tropical Rainforest Biome",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7331d760",
       "questionStem": "Assertion (A): Tropical rainforests possess exceptionally high net primary productivity despite having nutrient-poor, highly leached oxisols.\nReason (R): Rapid nutrient cycling through efficient mycorrhizal networks and closed-loop decomposition prevents nutrient loss in tropical rainforests.",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 92
   },
   {
     "id": 1649,
@@ -3016,7 +3058,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3025,7 +3067,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Ecosystem Components and Energy Flow",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dc1a710b",
       "questionStem": "Consider the following statements regarding ecosystem energetics and nutrient flow:\n1. Gross Primary Productivity (GPP) minus plant respiration losses equals Net Primary Productivity (NPP).\n2. Ecological efficiency, representing the ratio of energy transferred from one trophic level to the next, typically follows Lindeman's 10 percent rule.\n3. The flow of energy through an ecosystem is cyclical, whereas the movement of chemical nutrients is unidirectional.\nWhich of the statements given above are correct?",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 33
   },
   {
     "id": 1650,
@@ -3087,7 +3130,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3096,7 +3139,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Desert Biome",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_02048e8f",
       "questionStem": "Consider the following pairs regarding Desert Biome characteristics:\n1. Hot Deserts: High diurnal temperature ranges with xerophytic vegetation possessing succulent tissues and CAM photosynthesis.\n2. Cold Deserts: Dominated by drought-tolerant evergreen shrubs with extensive canopy closure and high annual precipitation.\n3. Semiarid Deserts: Dominated by short grasses, thorny shrubs, and ephemeral annuals that complete their lifecycle rapidly after rains.\nHow many of the pairs given above are correctly matched?",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 34
   },
   {
     "id": 1651,
@@ -3158,7 +3202,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Biodiversity Hotspots in India",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a1ad59ec",
       "questionStem": "With reference to the biodiversity hotspots recognized in India, consider the following regions:\n1. The Western Ghats\n2. The Himalayas\n3. Indo-Burma region\n4. Sundaland\nHow many of the regions given above are fully or partially located within the territory of India?",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 93
   },
   {
     "id": 1652,
@@ -3229,7 +3274,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3238,7 +3283,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Forest Ecosystems and Biomes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_08cb4ac7",
       "questionStem": "Consider the following pairs of forest biomes and their characteristic climatic parameters:\n1. Boreal Forest (Taiga): Characterized by short, moist summers and long, extremely cold winters with needle-leaf coniferous trees.\n2. Tropical Rainforest: Characterized by high temperatures and abundant rainfall distributed fairly evenly throughout the year.\n3. Temperate Deciduous Forest: Characterized by distinct seasonal changes and trees that shed their leaves annually during the dry summer months.\nHow many pairs given above are correctly matched?",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 35
   },
   {
     "id": 1653,
@@ -3300,7 +3346,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3309,7 +3355,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Niche vs Habitat",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bb21037a",
       "questionStem": "Consider the following pairs regarding ecological terms:\n1. Habitat: The functional role and position of a species in its environment\n2. Ecological Niche: The physical place or locality where an organism lives\n3. Keystone species: A species that has a disproportionately large effect on its natural environment relative to its abundance\nHow many of the pairs given above are correctly matched?",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 36
   },
   {
     "id": 1654,
@@ -3371,7 +3418,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3380,7 +3427,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Aquatic Ecosystems",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1ce14e03",
       "questionStem": "Consider the following pairs of marine and aquatic ecosystems with their primary characteristic features:\n1. Estuary: Area where freshwater from rivers meets and mixes with saltwater from the ocean, showing high productivity.\n2. Coral reef: Shallow tropical marine ecosystems sustained by a mutualistic relationship between polyps and zooxanthellae.\n3. Mangroves: Salt-tolerant forest ecosystems found in high-latitude rocky intertidal zones.\nHow many pairs given above are correctly matched?",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 37
   },
   {
     "id": 1655,
@@ -3442,7 +3490,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3451,7 +3499,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Tropical evergreen)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_02ecf5d7",
       "questionStem": "Assertion (A): Tropical evergreen forests exhibit high species diversity and a complex multi-layered canopy structure.\nReason (R): High and continuous annual insolation combined with abundant year-round precipitation supports uninterrupted primary productivity and reduces seasonal environmental stress.",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 94
   },
   {
     "id": 1656,
@@ -3513,7 +3562,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3522,7 +3571,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Causes of biodiversity loss (Invasive species)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_60711efd",
       "questionStem": "Assertion (A): Invasive alien species are recognized as one of the leading direct drivers of global biodiversity loss.\nReason (R): They often possess high reproductive rates, rapid growth, and broad environmental tolerances, allowing them to outcompete native species for limited resources.",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 95
   },
   {
     "id": 1657,
@@ -3584,7 +3634,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3593,7 +3643,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Biogeochemical Cycles",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_01f0e2f5",
       "questionStem": "Consider the following pairs regarding Biogeochemical Cycles:\n1. Carbon Cycle: Sedimentary cycle with the largest reservoir found in marine limestone rocks.\n2. Nitrogen Cycle: Gaseous cycle where atmospheric nitrogen is fixed into nitrates primarily by lightning and specialized microbes.\n3. Phosphorus Cycle: Sedimentary cycle lacking a significant atmospheric phase, with weathering of rocks as the primary input.\nHow many of the pairs given above are correctly matched?",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 38
   },
   {
     "id": 1658,
@@ -3655,7 +3706,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3664,7 +3715,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Bioaccumulation and Biomagnification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_26ae302f",
       "questionStem": "Consider the following statements regarding bioaccumulation and biomagnification:\n1. Bioaccumulation refers to the gradual buildup of pollutants in an individual organism over its lifetime from food, water, and air.\n2. Biomagnification describes the increase in concentration of a toxic substance down the food chain from lower to higher trophic levels.\nWhich of the statements given above is/are correct?",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 39
   },
   {
     "id": 1659,
@@ -3726,7 +3778,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3735,7 +3787,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Climate-vegetation linkages)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_cf8f9660",
       "questionStem": "Consider the following pairs regarding global biomes and their primary climatic-vegetational characteristics:\n1. Tropical Rainforest: High diurnal temperature range with multi-layered canopy and epiphytic flora.\n2. Tundra: Absence of trees due to permafrost, dominated by dwarf shrubs, lichens, and mosses.\n3. Steppe: Semi-arid continental climate supporting short and tall grasses with deep root systems.\nHow many of the given pairs are correctly matched?",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 40
   },
   {
     "id": 1660,
@@ -3797,7 +3850,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3806,7 +3859,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Causes of biodiversity loss",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_44b99412",
       "questionStem": "Consider the following pairs regarding drivers of biodiversity degradation:\n1. Overexploitation: Unregulated hunting, poaching, and commercial harvesting exceeding the maximum sustainable yield.\n2. Habitat Destruction: Conversion of complex natural forests into monoculture plantations or urban settlements.\n3. Climate Change: Alteration of temperature and precipitation regimes leading to the mismatch of ecological phenology.\nHow many of the above pairs are correctly matched?",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 41
   },
   {
     "id": 1661,
@@ -3868,7 +3922,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3877,7 +3931,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Ecological Pyramids",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2b5b363e",
       "questionStem": "Consider the following statements regarding ecological pyramids in aquatic and terrestrial ecosystems:\n1. The pyramid of biomass in a typical open ocean ecosystem is generally inverted due to the high turnover rate of phytoplankton.\n2. The pyramid of energy is always upright in all types of ecosystems as energy dissipation follows the second law of thermodynamics.\n3. The pyramid of numbers in a tree-based ecosystem is always upright because a single large producer supports multiple herbivores.\nWhich of the statements given above are correct?",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 42
   },
   {
     "id": 1662,
@@ -3939,7 +3994,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3948,7 +4003,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Trophic Levels and Food Webs",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2a3e6181",
       "questionStem": "Which of the following best describes the ecological phenomenon known as 'Biological Magnification'?",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 43
   },
   {
     "id": 1663,
@@ -4010,7 +4066,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4019,7 +4075,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Biomes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_64496d19",
       "questionStem": "Consider the following pairs of Biomes and their characteristic adaptations:\n1. Taiga: Needle-leaf evergreen conifers with sunken stomata to minimize transpirational water loss.\n2. Savanna: Presence of deep taproots, thick bark, and deciduous foliage to withstand prolonged seasonal droughts and fire.\n3. Tundra: Deep subterranean root systems and broad deciduous leaves to maximize absorption during long growing seasons.\nHow many of the pairs given above are correctly matched?",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 44
   },
   {
     "id": 1664,
@@ -4081,7 +4138,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4090,7 +4147,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Temperate Grassland Biome",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bd1c7f78",
       "questionStem": "Assertion (A): The temperate grassland biome typically features deep, nutrient-rich chernozem soils supporting extensive herbaceous vegetation.\nReason (R): Moderate annual precipitation combined with seasonal moisture deficits inhibits the growth of large trees while favoring deep-rooted perennial grasses.",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 96
   },
   {
     "id": 1665,
@@ -4152,7 +4210,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4161,7 +4219,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Nitrogen Cycle",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_11742142",
       "questionStem": "Assertion (A): Nitrogen-fixing bacteria such as Rhizobium form a mutualistic association with the root nodules of leguminous plants.\nReason (R): Plants provide fixed carbon compounds and a protected micro-environment, while bacteria convert atmospheric nitrogen into ammonia usable by the host plant.",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 97
   },
   {
     "id": 1666,
@@ -4223,7 +4282,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Aquatic Ecosystems",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b9d02f02",
       "questionStem": "Consider the following statements regarding Aquatic Ecosystems and Zonation:\n1. The photic zone in a deep lake or ocean receives sufficient sunlight for photosynthesis and contains both phytoplankton and zooplankton.\n2. The benthic zone refers exclusively to the open-surface pelagic waters far from the coastal shoreline.\n3. The littoral zone of a freshwater lake is shallow, near the shore, and typically supports rooted emergent aquatic plants.\nWhich of the statements given above are correct?",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 45
   },
   {
     "id": 1667,
@@ -4294,7 +4354,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Ecological Succession",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_40c6ee25",
       "questionStem": "Consider the following statements regarding ecological succession:\n1. Primary succession takes significantly less time to reach a climax community compared to secondary succession.\n2. Pioneer species in a primary hydrosere succession are typically floating angiosperms.\n3. Secondary succession begins in areas where natural biotic communities have been destroyed but the soil remains intact.\nHow many of the statements given above are correct?",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 46
   },
   {
     "id": 1668,
@@ -4365,7 +4426,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4374,7 +4435,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Ecotone and Edge Effect",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_086f03c9",
       "questionStem": "With reference to the ecological concepts of ecotone and edge effect, consider the following statements:\n1. An ecotone is a transition zone between two diverse ecosystems and generally contains species from both adjacent communities.\n2. The edge effect refers to the tendency of the density and diversity of organisms to be greater in the ecotone than in the adjacent communities.\nWhich of the statements given above is/are correct?",
@@ -4399,7 +4460,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 47
   },
   {
     "id": 1669,
@@ -4436,7 +4498,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Desert Ecosystems and Adaptations",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_18ab3a17",
       "questionStem": "Which of the following adaptations are commonly found in desert (xerophytic) vegetation?\n1. Reduction of leaf surface area into spines or scales\n2. Presence of a thick, waxy cuticle on the epidermis\n3. Deep taproot systems to access groundwater tables\nSelect the correct answer using the code given below:",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 48
   },
   {
     "id": 1670,
@@ -4507,7 +4570,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4516,7 +4579,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Food Webs and Ecosystem Stability",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5de0a29a",
       "questionStem": "Assertion (A): Food webs provide greater ecosystem stability compared to simple linear food chains.\nReason (R): Food webs offer multiple alternative pathways for energy flow, enabling predators to switch prey if one population declines due to environmental stress.",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 98
   },
   {
     "id": 1671,
@@ -4578,7 +4642,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Biogeography Concepts",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_44821271",
       "questionStem": "In the context of biogeography, which of the following best defines an endemic species?",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 5
   },
   {
     "id": 1672,
@@ -4649,7 +4714,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Carbon Cycle",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_18903355",
       "questionStem": "Consider the following statements regarding the carbon cycle in terrestrial and marine ecosystems:\n1. Photosynthesis acts as a major biological sink that removes carbon dioxide from the atmosphere.\n2. Oceanic uptake of carbon dioxide increases ocean alkalinity and promotes coral calcification.\n3. Combustion of fossil fuels releases sequestered carbon back into the atmospheric carbon pool.\nHow many of the statements given above are correct?",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 49
   },
   {
     "id": 1673,
@@ -4720,7 +4786,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4729,7 +4795,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Steppe)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a2d25fa7",
       "questionStem": "Which of the following best explains the xerophytic adaptations commonly observed in the vegetation of the Steppe biome?",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 50
   },
   {
     "id": 1674,
@@ -4791,7 +4858,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4800,7 +4867,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Causes of biodiversity loss (Habitat fragmentation)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_cc961587",
       "questionStem": "Which of the following best describes the ecological phenomenon known as 'Edge Effect' in fragmented landscapes?",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 51
   },
   {
     "id": 1675,
@@ -4862,7 +4930,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4871,7 +4939,7 @@
     "originalTier": "Premium",
     "originalTopicId": 33,
     "originalTopicName": "Major biomes of the world (Climate-vegetation linkages)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b4cfaf8f",
       "questionStem": "Which of the following factors primarily determines the altitudinal zonation of vegetation in mountainous regions (such as the Himalayas)?",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 52
   },
   {
     "id": 1676,
@@ -4933,7 +5002,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4942,7 +5011,7 @@
     "originalTier": "Premium",
     "originalTopicId": 39,
     "originalTopicName": "Tropical Dry Deciduous Forests",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3851b05a",
       "questionStem": "Which of the following sets of tree species is most characteristic of the Dry Deciduous Forest ecosystem in India?",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 6
   },
   {
     "id": 1677,
@@ -5004,7 +5074,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5013,7 +5083,7 @@
     "originalTier": "Premium",
     "originalTopicId": 39,
     "originalTopicName": "Biogeographic Classification of Biosphere Reserves",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_17592ba1",
       "questionStem": "Consider the following Biosphere Reserves:\n1. Pachmarhi\n2. Achanakmar-Amarkantak\n3. Simlipal\n4. Great Nicobar\nWhich of the above are located in the biogeographic zone of the Deccan Peninsula?",
@@ -5038,7 +5108,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 99
   },
   {
     "id": 1678,
@@ -5075,7 +5146,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5084,7 +5155,7 @@
     "originalTier": "Premium",
     "originalTopicId": 39,
     "originalTopicName": "Plant Adaptations and Biomes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_efee1e47",
       "questionStem": "Consider the following pairs of plant adaptations and forest biomes:\n1. Stilt roots and buttresses : Mangrove and Littoral forests\n2. Succulent stems and thorns : Tropical Thorn forests\n3. Waxy leaf surfaces and drip tips : Tropical Evergreen forests\nHow many of the given pairs are correctly matched?",
@@ -5109,7 +5180,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 53
   },
   {
     "id": 1679,
@@ -5146,7 +5218,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5155,7 +5227,7 @@
     "originalTier": "Premium",
     "originalTopicId": 39,
     "originalTopicName": "Ecosystems and Biosphere Reserves",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_40f9719a",
       "questionStem": "Assertion (A): The Sunderbans Biosphere Reserve contains the world's largest single tract of mangrove forests.\nReason (R): The region experiences high tidal fluctuations and receives heavy freshwater discharge from the Ganga-Brahmaputra river system, creating an optimal estuarine environment for halophytic mangrove species.",
@@ -5180,7 +5252,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 100
   },
   {
     "id": 1680,
@@ -5217,7 +5290,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5226,7 +5299,7 @@
     "originalTier": "Premium",
     "originalTopicId": 39,
     "originalTopicName": "National Parks and Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_940bc393",
       "questionStem": "Consider the following statements regarding the Manas National Park:\n1. It is a UNESCO Natural World Heritage site located in the foothills of the Himalayas.\n2. It is contiguous with the Royal National Park in Bhutan.\n3. It is renowned for endemic species such as the pygmy hog, hispid hare, and golden langur.\nHow many of the statements given above are correct?",
@@ -5251,7 +5324,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 1681,
@@ -5288,7 +5362,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5297,7 +5371,7 @@
     "originalTier": "Premium",
     "originalTopicId": 42,
     "originalTopicName": "Timber and Ecology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6b00c68d",
       "questionStem": "Consider the following pairs of timber trees and their ecological affinity:\n1. Ebony : Tropical Evergreen Forests\n2. Khair : Tropical Thorn Forests\n3. Deodar : Alpine Tundra Zone\nHow many pairs given above are correctly matched?",
@@ -5322,7 +5396,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 55
   },
   {
     "id": 1682,
@@ -5359,7 +5434,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5368,7 +5443,7 @@
     "originalTier": "Premium",
     "originalTopicId": 42,
     "originalTopicName": "Littoral and Swamp Ecology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_615ab0a5",
       "questionStem": "Consider the following statements regarding Littoral and Swamp forests in India:\n1. They represent wet coastal ecosystems and include mangrove forests that occupy about 7% of the world's mangroves.\n2. The delta of the Ganga-Brahmaputra is renowned for the dominance of the 'Sundari' tree, which provides durable hard timber.\n3. Swamp forests are exclusively restricted to coastal marine zones and never occur in freshwater inland river basins.\nWhich of the statements given above are correct?",
@@ -5393,7 +5468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 56
   },
   {
     "id": 1683,
@@ -5430,7 +5506,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5439,7 +5515,7 @@
     "originalTier": "Premium",
     "originalTopicId": 44,
     "originalTopicName": "Biogeographic Regions and Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e41383bb",
       "questionStem": "Assertion (A): The northeastern region of India exhibits a higher diversity of bamboo and orchid species compared to the western Himalayan zone.\nReason (R): The northeastern states experience higher year-round humidity, heavy monsoon rainfall, and tropical to subtropical climatic continuity without prolonged severe winter frost.",
@@ -5464,7 +5540,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 101
   },
   {
     "id": 1684,
@@ -5501,7 +5578,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5510,7 +5587,7 @@
     "originalTier": "Premium",
     "originalTopicId": 44,
     "originalTopicName": "Mangrove Ecosystems",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_431fd3ec",
       "questionStem": "Consider the following statements regarding the mangrove ecosystems of India:\n1. The Sundarbans represent the world's largest single tract of mangrove forests dominated by Sundri trees.\n2. Bhitarkanika mangroves, located in Odisha, are primarily deltaic formations associated with the Brahmani and Baitarani river systems.\n3. Pichavaram mangrove forest, known for its extensive backwater and dense mangrove canopy, is situated along the Kerala coast.\nHow many of the above statements are correct?",
@@ -5535,7 +5612,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 57
   },
   {
     "id": 1685,
@@ -5572,7 +5650,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5581,7 +5659,7 @@
     "originalTier": "Premium",
     "originalTopicId": 44,
     "originalTopicName": "Biogeographic Endemism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f5027ab8",
       "questionStem": "Assertion (A): The Western Ghats exhibit high levels of floral and faunal endemism.\nReason (R): The Ghats have remained geographically isolated by the sea on one side and arid Deccan plateau rainshadows on the other, acting as an evolutionary refuge during past climatic oscillations.",
@@ -5606,7 +5684,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 102
   },
   {
     "id": 1686,
@@ -5643,7 +5722,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5652,7 +5731,7 @@
     "originalTier": "Premium",
     "originalTopicId": 50,
     "originalTopicName": "Population pyramids",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_60a9be57",
       "questionStem": "Consider the following characteristics of population pyramids:\n1. Bell-shaped pyramid: Indicative of a stable population where birth and death rates are nearly equal.\n2. Narrow base pyramid: Indicative of high birth rates and a young dependent population.\n3. Pyramid with concave sides: Reflects high infant and childhood mortality alongside low life expectancy.\n\nHow many of the above statements are correct?",
@@ -5677,7 +5756,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 58
   },
   {
     "id": 1687,
@@ -5714,7 +5794,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5723,7 +5803,7 @@
     "originalTier": "Premium",
     "originalTopicId": 50,
     "originalTopicName": "Population pyramids",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_12f8dbdb",
       "questionStem": "Consider the following pairs linking population concepts to their demographic indicators:\n1. Expanding Population Pyramid: Broad base with concave slopes\n2. Stage I of Demographic Transition: High birth rate and high death rate\n3. Constant Population Pyramid: Bell-shaped with narrow base\n\nHow many of the above pairs are correctly matched?",
@@ -5748,7 +5828,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 59
   },
   {
     "id": 1688,
@@ -5785,7 +5866,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5794,7 +5875,7 @@
     "originalTier": "Premium",
     "originalTopicId": 50,
     "originalTopicName": "Population pyramids",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c91ba398",
       "questionStem": "A population pyramid with a very wide base and a tapering top is indicative of which of the following demographic profiles?",
@@ -5819,7 +5900,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 7
   },
   {
     "id": 1689,
@@ -5856,7 +5938,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5865,7 +5947,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_001",
       "questionStem": "With reference to the Master Horizons of a mature soil profile, consider the following statements...",
@@ -5889,7 +5971,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 103
   },
   {
     "id": 1690,
@@ -5926,7 +6009,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5935,7 +6018,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_002",
       "questionStem": "Consider the following statements regarding the pedogenic processes of Podzolization and Laterization...",
@@ -5959,7 +6042,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 104
   },
   {
     "id": 1691,
@@ -5996,7 +6080,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6005,7 +6089,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_003",
       "questionStem": "Assertion (A): Mollisols and Chernozem soils of temperate continental grasslands maintain a high base saturation...",
@@ -6029,7 +6113,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 105
   },
   {
     "id": 1692,
@@ -6066,7 +6151,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6075,7 +6160,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_004",
       "questionStem": "With reference to hydromorphic soils and the pedogenic process of Gleization, consider the following statements...",
@@ -6099,7 +6184,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 106
   },
   {
     "id": 1693,
@@ -6136,7 +6222,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6145,7 +6231,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_005",
       "questionStem": "Consider the following statements regarding Salinization (Solonchak) and Alkalization (Solonetz)...",
@@ -6169,7 +6255,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 107
   },
   {
     "id": 1694,
@@ -6206,7 +6293,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6215,7 +6302,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_006",
       "questionStem": "In a fully developed, virgin temperate forest soil profile, what is the correct vertical sequence of master horizons...",
@@ -6239,7 +6326,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 60
   },
   {
     "id": 1695,
@@ -6276,7 +6364,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6285,7 +6373,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_007",
       "questionStem": "With reference to pedogenic factors and the concept of a 'Soil Catena', consider the following statements...",
@@ -6309,7 +6397,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 108
   },
   {
     "id": 1696,
@@ -6346,7 +6435,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6355,7 +6444,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_008",
       "questionStem": "Consider the following statements regarding soil clay minerals and Cation Exchange Capacity (CEC)...",
@@ -6379,7 +6468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 109
   },
   {
     "id": 1697,
@@ -6416,7 +6506,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6425,7 +6515,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_009",
       "questionStem": "Assertion (A): Incorporating raw crop residues with a very wide Carbon-to-Nitrogen (C:N) ratio...",
@@ -6449,7 +6539,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 110
   },
   {
     "id": 1698,
@@ -6486,7 +6577,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6495,7 +6586,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_010",
       "questionStem": "Which of the following Soil Orders in the USDA Soil Taxonomy is defined by a thick, dark, base-rich surface horizon...",
@@ -6519,7 +6610,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 61
   },
   {
     "id": 1699,
@@ -6556,7 +6648,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6565,7 +6657,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_011",
       "questionStem": "Consider the following statements regarding the ecological adaptations and nutrient dynamics of Tropical Wet Evergreen Rainforests...",
@@ -6589,7 +6681,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 111
   },
   {
     "id": 1700,
@@ -6626,7 +6719,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6635,7 +6728,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_012",
       "questionStem": "Consider the following statements regarding the Tropical Savanna biome...",
@@ -6659,7 +6752,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 1701,
@@ -6696,7 +6790,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6705,7 +6799,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_013",
       "questionStem": "Assertion (A): Coniferous trees of the Taiga (Boreal forest) biome possess needle-shaped leaves...",
@@ -6729,7 +6823,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 1702,
@@ -6766,7 +6861,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6775,7 +6870,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_014",
       "questionStem": "With reference to the Arctic Tundra biome, consider the following statements...",
@@ -6799,7 +6894,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 1703,
@@ -6836,7 +6932,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6845,7 +6941,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_015",
       "questionStem": "Consider the following pairs of Mediterranean sclerophyllous shrubland formations and their geographic regions...",
@@ -6869,7 +6965,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 62
   },
   {
     "id": 1704,
@@ -6906,7 +7003,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6915,7 +7012,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_016",
       "questionStem": "With reference to the Temperate Broadleaf Deciduous Forest biome, consider the following statements...",
@@ -6939,7 +7036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 1705,
@@ -6976,7 +7074,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6985,7 +7083,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_017",
       "questionStem": "Which of the following adaptations is characteristic of 'Phreatophytes' in arid and semi-arid desert biomes?",
@@ -7009,7 +7107,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 63
   },
   {
     "id": 1706,
@@ -7046,7 +7145,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7055,7 +7154,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_018",
       "questionStem": "Assertion (A): Many mangrove species, such as Rhizophora mucronata, exhibit viviparous reproduction...",
@@ -7079,7 +7178,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 116
   },
   {
     "id": 1707,
@@ -7116,7 +7216,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7125,7 +7225,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_019",
       "questionStem": "Consider the following ecological adaptations found in xerophytic desert vegetation...",
@@ -7149,7 +7249,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 117
   },
   {
     "id": 1708,
@@ -7186,7 +7287,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7195,7 +7296,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_020",
       "questionStem": "According to Alexander von Humboldt's principles of phytogeography...",
@@ -7219,7 +7320,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 64
   },
   {
     "id": 1709,
@@ -7256,7 +7358,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7265,7 +7367,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_021",
       "questionStem": "Consider the following statements regarding ecological pyramids in different ecosystems...",
@@ -7289,7 +7391,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 118
   },
   {
     "id": 1710,
@@ -7326,7 +7429,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7335,7 +7438,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_022",
       "questionStem": "Assertion (A): Food chains in terrestrial ecosystems rarely consist of more than four to five trophic levels...",
@@ -7359,7 +7462,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 119
   },
   {
     "id": 1711,
@@ -7396,7 +7500,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7405,7 +7509,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_023",
       "questionStem": "Consider the following statements regarding Grazing Food Chains (GFC) and Detritus Food Chains (DFC)...",
@@ -7429,7 +7533,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 120
   },
   {
     "id": 1712,
@@ -7466,7 +7571,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7475,7 +7580,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_024",
       "questionStem": "With reference to food webs and ecosystem stability, consider the following statements...",
@@ -7499,7 +7604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 121
   },
   {
     "id": 1713,
@@ -7536,7 +7642,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7545,7 +7651,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_025",
       "questionStem": "Assertion (A): The eradication of an apex predator like the sea otter (Enhydra lutris)...",
@@ -7569,7 +7675,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 122
   },
   {
     "id": 1714,
@@ -7606,7 +7713,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7615,7 +7722,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_026",
       "questionStem": "Consider the following statements regarding the movement of chemical pollutants in ecosystems...",
@@ -7639,7 +7746,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 1715,
@@ -7676,7 +7784,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7685,7 +7793,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_027",
       "questionStem": "With reference to ecosystem primary productivity, consider the following statements...",
@@ -7709,7 +7817,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 1716,
@@ -7746,7 +7855,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7755,7 +7864,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_028",
       "questionStem": "In G. Evelyn Hutchinson's multidimensional niche concept, what constitutes the fundamental difference...",
@@ -7779,7 +7888,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 65
   },
   {
     "id": 1717,
@@ -7816,7 +7926,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7825,7 +7935,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_029",
       "questionStem": "Assertion (A): Standing crop and standing state are distinctly different measures...",
@@ -7849,7 +7959,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 1718,
@@ -7886,7 +7997,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7895,7 +8006,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_030",
       "questionStem": "With reference to the 'Green World Hypothesis' (Hairston, Smith, and Slobodkin - HSS hypothesis)...",
@@ -7919,7 +8030,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 1719,
@@ -7956,7 +8068,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7965,7 +8077,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_031",
       "questionStem": "Consider the following statements comparing Primary and Secondary Ecological Succession...",
@@ -7989,7 +8101,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 66
   },
   {
     "id": 1720,
@@ -8026,7 +8139,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8035,7 +8148,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_032",
       "questionStem": "Consider the following pairs of seral stages in a Hydrarch (Hydrosere) succession...",
@@ -8059,7 +8172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 1721,
@@ -8096,7 +8210,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8105,7 +8219,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_033",
       "questionStem": "Assertion (A): In mature ecological climax communities, the Production-to-Respiration ratio...",
@@ -8129,7 +8243,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 1722,
@@ -8166,7 +8281,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8175,7 +8290,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_034",
       "questionStem": "With reference to the Nitrogen Cycle and biological transformations of nitrogen...",
@@ -8199,7 +8314,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 1723,
@@ -8236,7 +8352,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8245,7 +8361,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_035",
       "questionStem": "Consider the following statements regarding the Phosphorus Cycle...",
@@ -8269,7 +8385,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 1724,
@@ -8306,7 +8423,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8315,7 +8432,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_036",
       "questionStem": "Assertion (A): The oceanic 'biological pump' plays a critical role in drawing down atmospheric carbon dioxide...",
@@ -8339,7 +8456,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 1725,
@@ -8376,7 +8494,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8385,7 +8503,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_037",
       "questionStem": "With reference to the biogeochemical sulfur cycle, consider the following statements...",
@@ -8409,7 +8527,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 1726,
@@ -8446,7 +8565,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8455,7 +8574,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_038",
       "questionStem": "In a classic Lithosere (primary ecological succession initiated on bare rock)...",
@@ -8479,7 +8598,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 67
   },
   {
     "id": 1727,
@@ -8516,7 +8636,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8525,7 +8645,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_039",
       "questionStem": "Which of the following ecological theories of succession posits that within a given climatic region...",
@@ -8549,7 +8669,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 1728,
@@ -8586,7 +8707,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8595,7 +8716,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_040",
       "questionStem": "With reference to deep-sea hydrothermal vent ecosystems, consider the following statements...",
@@ -8619,7 +8740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 1729,
@@ -8656,7 +8778,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8665,7 +8787,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_041",
       "questionStem": "According to the criteria established by Norman Myers and Conservation International...",
@@ -8689,7 +8811,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 1730,
@@ -8726,7 +8849,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8735,7 +8858,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_042",
       "questionStem": "Consider the following statements regarding the geographic delineation of Biodiversity Hotspots in India...",
@@ -8759,7 +8882,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 1731,
@@ -8796,7 +8920,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8805,7 +8929,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_043",
       "questionStem": "Assertion (A): The Western Ghats exhibit extraordinarily high levels of endemism among amphibians...",
@@ -8829,7 +8953,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 1732,
@@ -8866,7 +8991,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8875,7 +9000,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_044",
       "questionStem": "With reference to the Indo-Burma Biodiversity Hotspot, consider the following statements...",
@@ -8899,7 +9024,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 1733,
@@ -8936,7 +9062,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8945,7 +9071,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_045",
       "questionStem": "Consider the following statements regarding the Sundaland Biodiversity Hotspot in the Indian context...",
@@ -8969,7 +9095,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 1734,
@@ -9006,7 +9133,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9015,7 +9142,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_046",
       "questionStem": "Assertion (A): The Eastern Himalayas possess a significantly richer diversity of vascular plants...",
@@ -9039,7 +9166,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 1735,
@@ -9076,7 +9204,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9085,7 +9213,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_047",
       "questionStem": "Conservation International identified eight 'Hottest Hotspots'...",
@@ -9109,7 +9237,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 1736,
@@ -9146,7 +9275,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9155,7 +9284,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_048",
       "questionStem": "Consider the following pairs of endemic flagship fauna and their respective Indian Biodiversity Hotspots...",
@@ -9179,7 +9308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 1737,
@@ -9216,7 +9346,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9225,7 +9355,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_049",
       "questionStem": "In global conservation biogeography, how does an IUCN/Mission Blue 'Hope Spot' fundamentally differ...",
@@ -9249,7 +9379,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 68
   },
   {
     "id": 1738,
@@ -9286,7 +9417,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9295,7 +9426,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_050",
       "questionStem": "With reference to anthropogenic threats and conservation policy in the Western Ghats...",
@@ -9319,7 +9450,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 1739,
@@ -9387,7 +9519,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 69,
+    "subTopic": "Biodiversity Hotspots"
   },
   {
     "id": 1740,
@@ -9455,7 +9589,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 70,
+    "subTopic": "Ecological Succession"
   },
   {
     "id": 1741,
@@ -9492,7 +9628,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9501,7 +9637,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_001",
       "questionStem": "With reference to the Master Horizons of a mature soil profile, consider the following statements...",
@@ -9525,7 +9661,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 144
   },
   {
     "id": 1742,
@@ -9562,7 +9699,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9571,7 +9708,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_002",
       "questionStem": "Consider the following statements regarding the pedogenic processes of Podzolization and Laterization...",
@@ -9595,7 +9732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 145
   },
   {
     "id": 1743,
@@ -9632,7 +9770,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9641,7 +9779,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_003",
       "questionStem": "Assertion (A): Mollisols and Chernozem soils of temperate continental grasslands maintain a high base saturation...",
@@ -9665,7 +9803,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 146
   },
   {
     "id": 1744,
@@ -9702,7 +9841,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9711,7 +9850,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_004",
       "questionStem": "With reference to hydromorphic soils and the pedogenic process of Gleization, consider the following statements...",
@@ -9735,7 +9874,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 147
   },
   {
     "id": 1745,
@@ -9772,7 +9912,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9781,7 +9921,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_005",
       "questionStem": "Consider the following statements regarding Salinization (Solonchak) and Alkalization (Solonetz)...",
@@ -9805,7 +9945,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 148
   },
   {
     "id": 1746,
@@ -9842,7 +9983,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9851,7 +9992,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_006",
       "questionStem": "In a fully developed, virgin temperate forest soil profile, what is the correct vertical sequence of master horizons...",
@@ -9875,7 +10016,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 71
   },
   {
     "id": 1747,
@@ -9912,7 +10054,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9921,7 +10063,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_007",
       "questionStem": "With reference to pedogenic factors and the concept of a 'Soil Catena', consider the following statements...",
@@ -9945,7 +10087,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 149
   },
   {
     "id": 1748,
@@ -9982,7 +10125,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9991,7 +10134,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_008",
       "questionStem": "Consider the following statements regarding soil clay minerals and Cation Exchange Capacity (CEC)...",
@@ -10015,7 +10158,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 150
   },
   {
     "id": 1749,
@@ -10052,7 +10196,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10061,7 +10205,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_009",
       "questionStem": "Assertion (A): Incorporating raw crop residues with a very wide Carbon-to-Nitrogen (C:N) ratio...",
@@ -10085,7 +10229,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 151
   },
   {
     "id": 1750,
@@ -10122,7 +10267,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10131,7 +10276,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_010",
       "questionStem": "Which of the following Soil Orders in the USDA Soil Taxonomy is defined by a thick, dark, base-rich surface horizon...",
@@ -10155,7 +10300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 72
   },
   {
     "id": 1751,
@@ -10192,7 +10338,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10201,7 +10347,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_011",
       "questionStem": "Consider the following statements regarding the ecological adaptations and nutrient dynamics of Tropical Wet Evergreen Rainforests...",
@@ -10225,7 +10371,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 152
   },
   {
     "id": 1752,
@@ -10262,7 +10409,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10271,7 +10418,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_012",
       "questionStem": "Consider the following statements regarding the Tropical Savanna biome...",
@@ -10295,7 +10442,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 153
   },
   {
     "id": 1753,
@@ -10332,7 +10480,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10341,7 +10489,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_013",
       "questionStem": "Assertion (A): Coniferous trees of the Taiga (Boreal forest) biome possess needle-shaped leaves...",
@@ -10365,7 +10513,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 154
   },
   {
     "id": 1754,
@@ -10402,7 +10551,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10411,7 +10560,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_014",
       "questionStem": "With reference to the Arctic Tundra biome, consider the following statements...",
@@ -10435,7 +10584,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 155
   },
   {
     "id": 1755,
@@ -10472,7 +10622,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10481,7 +10631,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_015",
       "questionStem": "Consider the following pairs of Mediterranean sclerophyllous shrubland formations and their geographic regions...",
@@ -10505,7 +10655,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 73
   },
   {
     "id": 1756,
@@ -10542,7 +10693,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10551,7 +10702,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_016",
       "questionStem": "With reference to the Temperate Broadleaf Deciduous Forest biome, consider the following statements...",
@@ -10575,7 +10726,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 156
   },
   {
     "id": 1757,
@@ -10612,7 +10764,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10621,7 +10773,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_017",
       "questionStem": "Which of the following adaptations is characteristic of 'Phreatophytes' in arid and semi-arid desert biomes?",
@@ -10645,7 +10797,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 74
   },
   {
     "id": 1758,
@@ -10682,7 +10835,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10691,7 +10844,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_018",
       "questionStem": "Assertion (A): Many mangrove species, such as Rhizophora mucronata, exhibit viviparous reproduction...",
@@ -10715,7 +10868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 157
   },
   {
     "id": 1759,
@@ -10752,7 +10906,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10761,7 +10915,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_019",
       "questionStem": "Consider the following ecological adaptations found in xerophytic desert vegetation...",
@@ -10785,7 +10939,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 158
   },
   {
     "id": 1760,
@@ -10822,7 +10977,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10831,7 +10986,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_020",
       "questionStem": "According to Alexander von Humboldt's principles of phytogeography...",
@@ -10855,7 +11010,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 75
   },
   {
     "id": 1761,
@@ -10892,7 +11048,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10901,7 +11057,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_021",
       "questionStem": "Consider the following statements regarding ecological pyramids in different ecosystems...",
@@ -10925,7 +11081,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 159
   },
   {
     "id": 1762,
@@ -10962,7 +11119,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10971,7 +11128,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_022",
       "questionStem": "Assertion (A): Food chains in terrestrial ecosystems rarely consist of more than four to five trophic levels...",
@@ -10995,7 +11152,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 160
   },
   {
     "id": 1763,
@@ -11032,7 +11190,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11041,7 +11199,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_023",
       "questionStem": "Consider the following statements regarding Grazing Food Chains (GFC) and Detritus Food Chains (DFC)...",
@@ -11065,7 +11223,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 161
   },
   {
     "id": 1764,
@@ -11102,7 +11261,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11111,7 +11270,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_024",
       "questionStem": "With reference to food webs and ecosystem stability, consider the following statements...",
@@ -11135,7 +11294,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 162
   },
   {
     "id": 1765,
@@ -11172,7 +11332,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11181,7 +11341,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_025",
       "questionStem": "Assertion (A): The eradication of an apex predator like the sea otter (Enhydra lutris)...",
@@ -11205,7 +11365,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 163
   },
   {
     "id": 1766,
@@ -11242,7 +11403,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11251,7 +11412,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_026",
       "questionStem": "Consider the following statements regarding the movement of chemical pollutants in ecosystems...",
@@ -11275,7 +11436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 164
   },
   {
     "id": 1767,
@@ -11312,7 +11474,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11321,7 +11483,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_027",
       "questionStem": "With reference to ecosystem primary productivity, consider the following statements...",
@@ -11345,7 +11507,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 165
   },
   {
     "id": 1768,
@@ -11382,7 +11545,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11391,7 +11554,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_028",
       "questionStem": "In G. Evelyn Hutchinson's multidimensional niche concept, what constitutes the fundamental difference...",
@@ -11415,7 +11578,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 76
   },
   {
     "id": 1769,
@@ -11452,7 +11616,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11461,7 +11625,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_029",
       "questionStem": "Assertion (A): Standing crop and standing state are distinctly different measures...",
@@ -11485,7 +11649,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 166
   },
   {
     "id": 1770,
@@ -11522,7 +11687,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11531,7 +11696,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_030",
       "questionStem": "With reference to the 'Green World Hypothesis' (Hairston, Smith, and Slobodkin - HSS hypothesis)...",
@@ -11555,7 +11720,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 167
   },
   {
     "id": 1771,
@@ -11592,7 +11758,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11601,7 +11767,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_031",
       "questionStem": "Consider the following statements comparing Primary and Secondary Ecological Succession...",
@@ -11625,7 +11791,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 77
   },
   {
     "id": 1772,
@@ -11662,7 +11829,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11671,7 +11838,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_032",
       "questionStem": "Consider the following pairs of seral stages in a Hydrarch (Hydrosere) succession...",
@@ -11695,7 +11862,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 168
   },
   {
     "id": 1773,
@@ -11732,7 +11900,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11741,7 +11909,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_033",
       "questionStem": "Assertion (A): In mature ecological climax communities, the Production-to-Respiration ratio...",
@@ -11765,7 +11933,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 169
   },
   {
     "id": 1774,
@@ -11802,7 +11971,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11811,7 +11980,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_034",
       "questionStem": "With reference to the Nitrogen Cycle and biological transformations of nitrogen...",
@@ -11835,7 +12004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 170
   },
   {
     "id": 1775,
@@ -11872,7 +12042,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11881,7 +12051,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_035",
       "questionStem": "Consider the following statements regarding the Phosphorus Cycle...",
@@ -11905,7 +12075,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 171
   },
   {
     "id": 1776,
@@ -11942,7 +12113,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11951,7 +12122,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_036",
       "questionStem": "Assertion (A): The oceanic 'biological pump' plays a critical role in drawing down atmospheric carbon dioxide...",
@@ -11975,7 +12146,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 172
   },
   {
     "id": 1777,
@@ -12012,7 +12184,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12021,7 +12193,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_037",
       "questionStem": "With reference to the biogeochemical sulfur cycle, consider the following statements...",
@@ -12045,7 +12217,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 173
   },
   {
     "id": 1778,
@@ -12082,7 +12255,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12091,7 +12264,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_038",
       "questionStem": "In a classic Lithosere (primary ecological succession initiated on bare rock)...",
@@ -12115,7 +12288,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 78
   },
   {
     "id": 1779,
@@ -12152,7 +12326,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12161,7 +12335,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_039",
       "questionStem": "Which of the following ecological theories of succession posits that within a given climatic region...",
@@ -12185,7 +12359,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 174
   },
   {
     "id": 1780,
@@ -12222,7 +12397,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12231,7 +12406,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_040",
       "questionStem": "With reference to deep-sea hydrothermal vent ecosystems, consider the following statements...",
@@ -12255,7 +12430,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 175
   },
   {
     "id": 1781,
@@ -12292,7 +12468,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12301,7 +12477,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_041",
       "questionStem": "According to the criteria established by Norman Myers and Conservation International...",
@@ -12325,7 +12501,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 176
   },
   {
     "id": 1782,
@@ -12362,7 +12539,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12371,7 +12548,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_042",
       "questionStem": "Consider the following statements regarding the geographic delineation of Biodiversity Hotspots in India...",
@@ -12395,7 +12572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 177
   },
   {
     "id": 1783,
@@ -12432,7 +12610,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12441,7 +12619,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_043",
       "questionStem": "Assertion (A): The Western Ghats exhibit extraordinarily high levels of endemism among amphibians...",
@@ -12465,7 +12643,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 178
   },
   {
     "id": 1784,
@@ -12502,7 +12681,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12511,7 +12690,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_044",
       "questionStem": "With reference to the Indo-Burma Biodiversity Hotspot, consider the following statements...",
@@ -12535,7 +12714,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 179
   },
   {
     "id": 1785,
@@ -12572,7 +12752,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12581,7 +12761,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_045",
       "questionStem": "Consider the following statements regarding the Sundaland Biodiversity Hotspot in the Indian context...",
@@ -12605,7 +12785,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 180
   },
   {
     "id": 1786,
@@ -12642,7 +12823,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12651,7 +12832,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_046",
       "questionStem": "Assertion (A): The Eastern Himalayas possess a significantly richer diversity of vascular plants...",
@@ -12675,7 +12856,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 181
   },
   {
     "id": 1787,
@@ -12712,7 +12894,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12721,7 +12903,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_047",
       "questionStem": "Conservation International identified eight 'Hottest Hotspots'...",
@@ -12745,7 +12927,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 182
   },
   {
     "id": 1788,
@@ -12782,7 +12965,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12791,7 +12974,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_048",
       "questionStem": "Consider the following pairs of endemic flagship fauna and their respective Indian Biodiversity Hotspots...",
@@ -12815,7 +12998,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 183
   },
   {
     "id": 1789,
@@ -12852,7 +13036,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12861,7 +13045,7 @@
     "originalTier": "Standard",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_049",
       "questionStem": "In global conservation biogeography, how does an IUCN/Mission Blue 'Hope Spot' fundamentally differ...",
@@ -12885,7 +13069,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 79
   },
   {
     "id": 1790,
@@ -12922,7 +13107,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12931,7 +13116,7 @@
     "originalTier": "Advanced",
     "originalTopicId": 8,
     "originalTopicName": "Biogeography, Ecosystems & Biodiversity",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_topic8_new_050",
       "questionStem": "With reference to anthropogenic threats and conservation policy in the Western Ghats...",
@@ -12955,6 +13140,7 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 184
   }
 ]

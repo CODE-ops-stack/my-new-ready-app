@@ -34,7 +34,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dam_09",
       "questionStem": "Which of the following dams is geographically located in the state of Kerala but is operated and maintained by the government of Tamil Nadu, often leading to inter-state disputes?",
@@ -68,7 +68,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 3721,
@@ -105,7 +106,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dam_02",
       "questionStem": "Consider the following pairs of Multipurpose Projects and their associated States: 1. Rihand Dam : Uttar Pradesh 2. Idukki Dam : Kerala 3. Koyna Dam : Maharashtra 4. Tungabhadra Dam : Andhra Pradesh How many of the above pairs are correctly matched?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 46
   },
   {
     "id": 3722,
@@ -176,7 +178,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dam_08",
       "questionStem": "Consider the following pairs mapping Dams to the State they are located in: 1. Hirakud Dam : Odisha 2. Mettur Dam : Tamil Nadu 3. Farakka Barrage : Bihar 4. Sardar Sarovar Dam : Gujarat How many of the above pairs are correctly matched?",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 47
   },
   {
     "id": 3723,
@@ -247,7 +250,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_256ed3d7",
       "questionStem": "Consider the following pairs of traditional water harvesting structures and their respective states:\n1. Johads : Maharashtra\n2. Zing : Ladakh\n3. Eri : Tamil Nadu\nHow many of the pairs given above are correctly matched?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 15
   },
   {
     "id": 3724,
@@ -318,7 +322,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c983f378",
       "questionStem": "Consider the following statements regarding major multipurpose river valley projects in India:\n1. The Bhakra Nangal project is constructed on the Sutlej-Beas river system and provides water primarily to Punjab, Haryana, and Rajasthan.\n2. The Hirakud Dam, built across the Mahanadi River, is the longest earthen dam in the world.\n3. The Nagarjuna Sagar project is constructed on the Godavari River to irrigate the drought-prone regions of Telangana and Andhra Pradesh.\nHow many of the above statements are correct?",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 16
   },
   {
     "id": 3725,
@@ -389,7 +394,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ac0125cb",
       "questionStem": "Consider the following pairs regarding multi-purpose river valley projects and the rivers they are built upon:\n1. Bhakra Nangal Project: Sutlej River\n2. Hirakud Dam: Mahanadi River\n3. Nagarjuna Sagar Project: Godavari River\n4. Tehri Dam: Bhagirathi River\nHow many of the above pairs are correctly matched?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 48
   },
   {
     "id": 3726,
@@ -460,7 +466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_24796e5b",
       "questionStem": "Consider the following statements regarding Watershed Management in India:\n1. The primary objective of watershed management is the efficient storage and conservation of surface and groundwater.\n2. Haryali is a watershed development project sponsored by the Central Government which is executed by Gram Panchayats.\n3. Neeru-Meeru program in Andhra Pradesh and Arvary Pani Sansad in Rajasthan are notable traditional and participatory water conservation initiatives.\nHow many of the above statements are correct?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 17
   },
   {
     "id": 3727,
@@ -531,7 +538,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b7bf0ca4",
       "questionStem": "Consider the following statements regarding the Damodar Valley Corporation (DVC):\n1. It was India's first multipurpose river valley project, modeled on the Tennessee Valley Authority (TVA) of the United States.\n2. The project area spans across the states of Jharkhand and West Bengal.\n3. Its primary original objective was flood control, followed by irrigation, power generation, and navigation.\nHow many of the above statements are correct?",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 18
   },
   {
     "id": 3728,
@@ -602,7 +610,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7df9dab1",
       "questionStem": "Consider the following traditional rainwater harvesting structures and their respective states:\n1. Zing: Ladakh\n2. Johad: Rajasthan\n3. Kulam: Tamil Nadu\n4. Tankas: Kerala\nHow many pairs given above are correctly matched?",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 49
   },
   {
     "id": 3729,
@@ -673,7 +682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6c62afb3",
       "questionStem": "With reference to traditional water harvesting systems in India, consider the following statements:\n1. 'Kuls' are traditional channel irrigation systems found in the mountainous regions of the Western Himalayas.\n2. 'Tankas' are underground cisterns traditionally used for rainwater harvesting in the arid and semi-arid regions of Rajasthan.\n3. Bamboo drip irrigation is an age-old system prevalent in the State of Meghalaya for transporting water from hill streams.\nHow many of the statements given above are correct?",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 19
   },
   {
     "id": 3730,
@@ -744,7 +754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_34b217b3",
       "questionStem": "Consider the following statements regarding the National Water Policy of India:\n1. It prioritizes the allocation of water resources for drinking purposes over irrigation, hydro-power, and industrial needs.\n2. It emphasizes the need for treating wastewater as a resource for recycling and reuse.\nWhich of the statements given above is/are correct?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 20
   },
   {
     "id": 3731,
@@ -815,7 +826,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_55b59a02",
       "questionStem": "Consider the following pairs of Inter-Linking of Rivers (ILR) projects and the rivers they connect:\n1. Ken-Betwa Link: Connects Ken river to Betwa river\n2. Damanganga-Pinjal Link: Connects Damanganga river to Pinjal river\n3. Par-Tapi-Narmada Link: Connects Par, Tapi, and Narmada rivers\nHow many of the above pairs are correctly matched?",
@@ -849,7 +860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 21
   },
   {
     "id": 3732,
@@ -886,7 +898,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0608c398",
       "questionStem": "Statement-I: Northwestern India and parts of Western India exhibit a high degree of groundwater depletion and over-exploitation.\nStatement-II: These regions rely heavily on tube-well irrigation for intensive cultivation of water-guzzling crops like paddy and wheat despite receiving low annual rainfall.",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 50
   },
   {
     "id": 3733,
@@ -957,7 +970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -966,7 +979,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_14965233",
       "questionStem": "Which of the following irrigation statistics and trends in India is NOT correct according to official agricultural census data?",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 22
   },
   {
     "id": 3734,
@@ -1028,7 +1042,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1037,7 +1051,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2d0f44bd",
       "questionStem": "With reference to the Sardar Sarovar Project, consider the following statements:\n1. It is built on the Narmada River and benefits the states of Madhya Pradesh, Maharashtra, Gujarat, and Rajasthan.\n2. The Narmada Control Authority was established to monitor the implementation of the Sardar Sarovar and other interstate projects on the Narmada.\nWhich of the statements given above is/are correct?",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 23
   },
   {
     "id": 3735,
@@ -1099,7 +1114,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1108,7 +1123,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d15f213c",
       "questionStem": "Which of the following factors contributes most significantly to India being categorized as a 'water-stressed' nation despite having major perennial river systems?",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 24
   },
   {
     "id": 3736,
@@ -1170,7 +1186,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1179,7 +1195,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_abb60464",
       "questionStem": "Statement-I: The Tehri Dam, constructed on the Bhagirathi River, is India's highest earth and rock-fill dam.\nStatement-II: The dam is located in the seismic zone V and has faced considerable environmental scrutiny regarding ecological safety and local displacement.",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 51
   },
   {
     "id": 3737,
@@ -1241,7 +1258,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1250,7 +1267,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a54c4a3f",
       "questionStem": "Which of the following statements best describes the Sardar Sarovar Project?",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 25
   },
   {
     "id": 3738,
@@ -1312,7 +1330,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1321,7 +1339,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_987e1bc2",
       "questionStem": "Consider the following statements regarding water pollution and its management in India:\nStatement-I: Biochemical Oxygen Demand (BOD) is a reliable standard for measuring organic pollution in aquatic ecosystems.\nStatement-II: High levels of dissolved oxygen in a water body indicate high levels of microbial decomposition of organic waste.",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 52
   },
   {
     "id": 3739,
@@ -1383,7 +1402,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1392,7 +1411,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9862a853",
       "questionStem": "Which of the following is NOT a recognized strategy for water conservation and management in India?",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 26
   },
   {
     "id": 3740,
@@ -1454,7 +1474,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1463,7 +1483,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_19a32737",
       "questionStem": "With reference to groundwater utilization in India, which of the following statements is correct?",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 27
   },
   {
     "id": 3741,
@@ -1525,7 +1546,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1534,7 +1555,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2ce13d5b",
       "questionStem": "Statement-I: The peninsular river basins experience lower storage capacity relative to their annual water flow compared to the Himalayan river basins.\nStatement-II: Himalayan rivers are snow-fed and perennial, whereas peninsular rivers are mainly rain-fed and subject to seasonal fluctuations.",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 53
   },
   {
     "id": 3742,
@@ -1596,7 +1618,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1605,7 +1627,7 @@
     "originalTier": "Premium",
     "originalTopicId": 22,
     "originalTopicName": "Water Resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f99eb3a3",
       "questionStem": "Which of the following measures contributes most directly to watershed development and management at the micro-level?",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 28
   },
   {
     "id": 3743,
@@ -1667,7 +1690,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1676,7 +1699,7 @@
     "originalTier": "Premium",
     "originalTopicId": 55,
     "originalTopicName": "Indira Gandhi Canal Command Area",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0c0cb0c3",
       "questionStem": "Consider the following measures undertaken under the Indira Gandhi Canal Command Area development:\n1. Afforestation and pasture development in Stage-I of the canal.\n2. Construction of watercourses (field channels) to reduce conveyance losses.\n\nWhich of the above measures specifically aim at countering environmental degradation in the region?",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 29
   },
   {
     "id": 3744,
@@ -1738,7 +1762,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1747,7 +1771,7 @@
     "originalTier": "Premium",
     "originalTopicId": 55,
     "originalTopicName": "Indira Gandhi Canal Command Area",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d69f81e2",
       "questionStem": "With reference to the Indira Gandhi Canal (formerly Rajasthan Canal) command area, consider the following statements:\n1. The introduction of canal irrigation has transformed the ecological landscape of the region from desert scrub to intensive agricultural cultivation.\n2. Excessive irrigation in the initial stages of the canal project led to the twin problems of waterlogging and soil salinity.\n3. The CADP (Command Area Development Programme) in the region primarily focuses on the promotion of energy-intensive heavy industries.\n\nHow many of the statements given above are correct?",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 30
   },
   {
     "id": 3745,
@@ -1809,7 +1834,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1818,7 +1843,7 @@
     "originalTier": "Premium",
     "originalTopicId": 55,
     "originalTopicName": "Indira Gandhi Canal Command Area",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_db4b13be",
       "questionStem": "In the context of the Indira Gandhi Canal, what was the primary environmental rationale behind implementing 'Stage-II' with strict protective measures?",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 31
   },
   {
     "id": 3746,
@@ -1880,7 +1906,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1889,7 +1915,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Surface vs Groundwater resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6cca3c11",
       "questionStem": "Which one of the following river basins in India has the highest percentage of its surface water potential utilized due to topographical and hydrological conditions?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 3747,
@@ -1951,7 +1978,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1960,7 +1987,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Surface vs Groundwater resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2df53c0f",
       "questionStem": "Consider the following statements regarding the water resources of India:\n1. India accounts for about 16 percent of the world's water resources and supports about 4 percent of the world's population.\n2. The total replenishable groundwater resource in the country is highest in the Ganga and Brahmaputra basins.\n3. The utilization of groundwater is very high in the river basins situated in north-western and parts of southern India.\n\nHow many of the above statements are correct?",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 32
   },
   {
     "id": 3748,
@@ -2022,7 +2050,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2031,7 +2059,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "National Water Policy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3aa1df0d",
       "questionStem": "Consider the following statements regarding the National Water Mission, launched under the National Action Plan on Climate Change (NAPCC):\n1. It aims to increase water use efficiency by 20 percent through pricing and other regulatory mechanisms.\n2. It emphasizes comprehensive water data collection in the public domain and assessment of the impact of climate change on water resources.\n\nWhich of the statements given above is/are correct?",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 33
   },
   {
     "id": 3749,
@@ -2093,7 +2122,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2102,7 +2131,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Watershed management",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0689be68",
       "questionStem": "Consider the following watershed development and management programs implemented in India:\n1. Haryali Guidelines\n2. Neeru-Meeru program\n3. Arvary Pani Sansad\n\nWhich of the above initiatives involve community participation for water conservation and management?",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 34
   },
   {
     "id": 3750,
@@ -2164,7 +2194,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2173,7 +2203,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Watershed management",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6c91eff4",
       "questionStem": "Consider the following statements regarding check dams and percolation tanks:\n1. They are constructed primarily to intercept surface runoff and enhance groundwater recharge.\n2. They reduce the velocity of flowing rainwater, thereby checking soil erosion in upper catchments.\n\nWhich of the statements given above is/are correct?",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 35
   },
   {
     "id": 3751,
@@ -2235,7 +2266,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2244,7 +2275,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Watershed management",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_56c7dabd",
       "questionStem": "Consider the following pairs regarding state-specific watershed and water conservation initiatives:\n1. Jal Jeevan Hariyali : Bihar\n2. Jalyukt Shivar Abhiyan : Maharashtra\n3. Mission Kakatiya : Telangana\n\nHow many of the pairs given above are correctly matched?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 36
   },
   {
     "id": 3752,
@@ -2306,7 +2338,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2315,7 +2347,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Rainwater harvesting",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_93474983",
       "questionStem": "Consider the following traditional rainwater harvesting structures and their respective regions:\n1. Tankas : Western Rajasthan\n2. Kunds : Bundelkhand region\n3. Zing : Ladakh region\n\nHow many of the pairs given above are correctly matched?",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 37
   },
   {
     "id": 3753,
@@ -2377,7 +2410,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2386,7 +2419,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "National Water Policy",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2afeb15b",
       "questionStem": "With reference to the National Water Policy of India, consider the following provisions:\n1. It gives priority to drinking water as the first charge on available water.\n2. It emphasizes the need for inter-basin water transfers to alleviate water scarcity in deficit basins.\n3. It mandates that water pricing should be completely abolished to support marginal farmers across all states.\n\nWhich of the statements given above are correct?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 38
   },
   {
     "id": 3754,
@@ -2448,7 +2482,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2457,7 +2491,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Surface vs Groundwater resources",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f8c706ee",
       "questionStem": "Assertion (A): The peninsular river basins of India generally have lower annual replenishable groundwater resources compared to the northern plain river basins.\nReason (R): Peninsular India is characterized by hard rock terrain with low porosity and permeability, restricting deep percolation of rainwater.",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 3755,
@@ -2519,7 +2554,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2528,7 +2563,7 @@
     "originalTier": "Premium",
     "originalTopicId": 57,
     "originalTopicName": "Rainwater harvesting",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1dda1e4f",
       "questionStem": "In the context of urban water management in India, what is the primary objective of mandating rooftop rainwater harvesting in building bye-laws?",
@@ -2553,7 +2588,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 39
   },
   {
     "id": 3756,
@@ -2590,7 +2626,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2599,7 +2635,7 @@
     "originalTier": "Premium",
     "originalTopicId": 60,
     "originalTopicName": "Indira Gandhi Canal Command Area",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_de9adfd2",
       "questionStem": "Assertion (A): The introduction of the Indira Gandhi Canal (Rajasthan Canal) transformed the ecological landscape of the Thar desert from dry scrubland to intensive agricultural production.\nReason (R): Introduction of canal irrigation in arid tracts leads to a significant rise in the groundwater table, which, coupled with high evaporation, triggers problems of soil salinization and waterlogging.",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 55
   },
   {
     "id": 3757,
@@ -2661,7 +2698,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2670,7 +2707,7 @@
     "originalTier": "Premium",
     "originalTopicId": 60,
     "originalTopicName": "Indira Gandhi Canal Command Area",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_519dd597",
       "questionStem": "Which of the following environmental strategies is considered the most critical for mitigating the ecological degradation associated with Stage-II of the Indira Gandhi Canal Command Area?",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 40
   },
   {
     "id": 3758,
@@ -2732,7 +2770,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2741,7 +2779,7 @@
     "originalTier": "Premium",
     "originalTopicId": 60,
     "originalTopicName": "Indira Gandhi Canal Command Area",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a301c2cf",
       "questionStem": "Consider the following impacts of the Indira Gandhi Canal project on the socio-economic profile of the region:\n1. Substantial increase in the production of crops such as wheat and cotton due to assured irrigation.\n2. Transformation of the traditional nomadic pastoral economy towards sedentary commercial agriculture.\n3. In-migration of agricultural laborers and farmers from neighboring states like Punjab and Haryana.",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 41
   },
   {
     "id": 3759,
@@ -2803,7 +2842,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2812,7 +2851,7 @@
     "originalTier": "Premium",
     "originalTopicId": 60,
     "originalTopicName": "Indira Gandhi Canal Command Area",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_580f28df",
       "questionStem": "Which of the following measures forms the core of the 'sustainability strategy' recommended for canal command areas suffering from severe waterlogging and soil salinization?",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 42
   },
   {
     "id": 3760,
@@ -2874,7 +2914,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -2883,7 +2923,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_041",
       "questionStem": "With reference to the Ken-Betwa Link Project (KBLP), consider the following statements:\n1. It is the first river interlinking project implemented under the National Perspective Plan for interlinking o...",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 56
   },
   {
     "id": 3761,
@@ -2945,7 +2986,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -2954,7 +2995,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_042",
       "questionStem": "The construction of the Daudhan Dam under the Ken-Betwa Link Project directly causes ecological submergence and disruption to which of the following protected entities?\n1. Core habitat of Panna Tiger ...",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 57
   },
   {
     "id": 3762,
@@ -3016,7 +3058,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3025,7 +3067,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_043",
       "questionStem": "Consider the following statements regarding the institutional framework of river interlinking in India:\n1. The National Perspective Plan (NPP) for water resources development was prepared in 1980 by t...",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 58
   },
   {
     "id": 3763,
@@ -3087,7 +3130,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -3096,7 +3139,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_044",
       "questionStem": "With reference to the Par-Tapi-Narmada Link Project, consider the following statements:\n1. It aims to transfer surplus water from west-flowing rivers of the Western Ghats to water-deficit regions of S...",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 59
   },
   {
     "id": 3764,
@@ -3158,7 +3202,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_045",
       "questionStem": "Consider the following statements regarding the proposed Godavari-Krishna-Pennar-Cauvery interlinking scheme:\n1. It is designed to transfer unutilized surplus waters of the Godavari basin to the water...",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 60
   },
   {
     "id": 3765,
@@ -3229,7 +3274,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -3238,7 +3283,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_046",
       "questionStem": "With reference to the Kosi-Mechi Interlinking Project in Bihar, consider the following statements:\n1. It is approved as India's second major river interlinking project to receive central funding after...",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 61
   },
   {
     "id": 3766,
@@ -3300,7 +3346,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3309,7 +3355,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_047",
       "questionStem": "Consider the following statements regarding the Damanganga-Pinjal Link Project:\n1. It is an inter-state river link project conceived between the states of Gujarat and Maharashtra.\n2. It aims to divert...",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 62
   },
   {
     "id": 3767,
@@ -3371,7 +3418,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -3380,7 +3427,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_048",
       "questionStem": "Consider the following pairs of Interlinking of Rivers (ILR) projects and the States involved:\n1. Bedti-Varada Link : Karnataka\n2. Parbati-Kalisindh-Chambal Link : Madhya Pradesh and Rajasthan\n3. Pamb...",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 63
   },
   {
     "id": 3768,
@@ -3442,7 +3490,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3451,7 +3499,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_049",
       "questionStem": "With reference to the Bedti-Varada River Interlinking Project, which has faced severe opposition from local communities and environmentalists, consider the following statements:\n1. It proposes to dive...",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 64
   },
   {
     "id": 3769,
@@ -3513,7 +3562,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3522,7 +3571,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_050",
       "questionStem": "Hydrologists and ecological scientists have raised critical scientific objections against the concept of large-scale inter-basin river transfers in India. Which of the following arguments reflect scie...",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 65
   },
   {
     "id": 3770,
@@ -3584,7 +3634,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3593,7 +3643,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_051",
       "questionStem": "The Mahanadi-Godavari Link is considered the critical 'mother link' of the Peninsular Rivers Development Component. With reference to this link, consider the following statements:\n1. It envisages the ...",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 66
   },
   {
     "id": 3771,
@@ -3655,7 +3706,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3664,7 +3715,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_052",
       "questionStem": "With reference to the constitutional and legal distribution of powers governing water resources and inter-state river linking in India, consider the following statements:\n1. Under Entry 17 of the Stat...",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 67
   },
   {
     "id": 3772,
@@ -3726,7 +3778,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3735,7 +3787,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_053",
       "questionStem": "With reference to the Bhakra-Nangal Multipurpose River Valley Project, consider the following statements:\n1. Bhakra Dam is a concrete gravity dam constructed on the Sutlej River in Bilaspur district o...",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 68
   },
   {
     "id": 3773,
@@ -3797,7 +3850,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3806,7 +3859,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_054",
       "questionStem": "Consider the following statements regarding the Hirakud Dam Project:\n1. It is built across the Mahanadi River near Sambalpur in Odisha and is recognized as the longest earthen dam in the world.\n2. It ...",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 69
   },
   {
     "id": 3774,
@@ -3868,7 +3922,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3877,7 +3931,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_055",
       "questionStem": "With reference to the Tehri Dam Project, consider the following statements:\n1. It is constructed at the confluence of the Bhagirathi and Bhilangana rivers in Uttarakhand.\n2. It is the highest dam in I...",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 70
   },
   {
     "id": 3775,
@@ -3939,7 +3994,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -3948,7 +4003,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_056",
       "questionStem": "With reference to the Sardar Sarovar Project on the Narmada River, consider the following statements:\n1. It is a concrete gravity dam located at Kevadia in Gujarat, serving as the terminal reservoir o...",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 71
   },
   {
     "id": 3776,
@@ -4010,7 +4066,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -4019,7 +4075,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_057",
       "questionStem": "With reference to the Polavaram Multipurpose National Irrigation Project (Indira Sagar), consider the following statements:\n1. It is an earth-cum-rockfill dam under construction across the Godavari Ri...",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 72
   },
   {
     "id": 3777,
@@ -4081,7 +4138,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4090,7 +4147,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_058",
       "questionStem": "Consider the following statements regarding the Nagarjuna Sagar Multipurpose Project:\n1. It is built across the Krishna River straddling the border between Telangana and Andhra Pradesh.\n2. It is const...",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 73
   },
   {
     "id": 3778,
@@ -4152,7 +4210,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4161,7 +4219,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_059",
       "questionStem": "With reference to the Mullaperiyar Dam, consider the following statements:\n1. It is a masonry gravity dam constructed across the confluence of the Mullayar and Periyar rivers in the Idukki district of...",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 74
   },
   {
     "id": 3779,
@@ -4223,7 +4282,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_060",
       "questionStem": "Consider the following statements regarding the Damodar Valley Corporation (DVC):\n1. It was established in 1948 by an Act of the Constituent Assembly (Legislative) as independent India's first multipu...",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 75
   },
   {
     "id": 3780,
@@ -4294,7 +4354,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_061",
       "questionStem": "Consider the following statements regarding the major dams on the Krishna River:\n1. Srisailam Dam is constructed in a deep gorge of the Nallamala Hills on the border between Andhra Pradesh and Telanga...",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 76
   },
   {
     "id": 3781,
@@ -4365,7 +4426,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4374,7 +4435,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_062",
       "questionStem": "With reference to the Idukki Hydroelectric Project in Kerala, consider the following statements:\n1. The Idukki Dam is a concrete double-curvature arch dam constructed across the gorge between Kuravan ...",
@@ -4399,7 +4460,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 77
   },
   {
     "id": 3782,
@@ -4436,7 +4498,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_063",
       "questionStem": "With reference to India's hydropower projects on the Western Rivers under the Indus Waters Treaty (IWT), 1960, consider the following statements:\n1. India is permitted to construct run-of-the-river hy...",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 78
   },
   {
     "id": 3783,
@@ -4507,7 +4570,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -4516,7 +4579,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_064",
       "questionStem": "Consider the following statements regarding the Indira Sagar and Omkareshwar Multipurpose Projects in the Narmada Basin:\n1. The Indira Sagar Project, located at Punasa in Khandwa district of Madhya Pr...",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 79
   },
   {
     "id": 3784,
@@ -4578,7 +4642,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_065",
       "questionStem": "Regarding the structural transformation of irrigation sources in India since independence, consider the following statements:\n1. Groundwater extraction through tubewells and other open wells currently...",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 80
   },
   {
     "id": 3785,
@@ -4649,7 +4714,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_066",
       "questionStem": "With reference to canal irrigation systems in India, consider the following statements:\n1. 'Protective canals' were primarily designed during colonial rule to spread water thinly over famine-prone tra...",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 81
   },
   {
     "id": 3786,
@@ -4720,7 +4786,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4729,7 +4795,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_067",
       "questionStem": "Canal irrigation in arid and semi-arid tracts of India has frequently induced soil degradation. In this context, consider the following statements:\n1. Seepage from unlined earthen canals and excessive...",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 82
   },
   {
     "id": 3787,
@@ -4791,7 +4858,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4800,7 +4867,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_068",
       "questionStem": "Tank irrigation has historically been the predominant traditional irrigation system across the Peninsular Plateau. Which of the following geographic factors explain this predominance?\n1. The hard, imp...",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 83
   },
   {
     "id": 3788,
@@ -4862,7 +4930,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4871,7 +4939,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_069",
       "questionStem": "With reference to micro-irrigation systems in India, consider the following statements:\n1. Drip irrigation delivers water directly to the plant root zone drop-by-drop, achieving a water use efficiency...",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 84
   },
   {
     "id": 3789,
@@ -4933,7 +5002,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -4942,7 +5011,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_070",
       "questionStem": "Consider the following statements regarding the practice of 'Fertigation' in modern Indian agriculture:\n1. Fertigation enables the synchronized application of water and water-soluble fertilizers direc...",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 85
   },
   {
     "id": 3790,
@@ -5004,7 +5074,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -5013,7 +5083,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_071",
       "questionStem": "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched with the vision of 'Har Khet Ko Pani' and 'More Crop Per Drop'. Consider the following pairs of PMKSY components and their implementing ...",
@@ -5038,7 +5108,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 86
   },
   {
     "id": 3791,
@@ -5075,7 +5146,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5084,7 +5155,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_072",
       "questionStem": "With reference to the Command Area Development and Water Management (CADWM) programme and Participatory Irrigation Management (PIM) in India, consider the following statements:\n1. The primary objectiv...",
@@ -5109,7 +5180,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 87
   },
   {
     "id": 3792,
@@ -5146,7 +5218,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5155,7 +5227,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_073",
       "questionStem": "In the context of India's water crisis and agricultural trade policy, consider the following statements regarding 'Virtual Water':\n1. Virtual water refers to the total volume of freshwater consumed di...",
@@ -5180,7 +5252,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 88
   },
   {
     "id": 3793,
@@ -5217,7 +5290,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -5226,7 +5299,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_074",
       "questionStem": "With reference to the Micro Irrigation Fund (MIF) operational in India, consider the following statements:\n1. The fund was established under the aegis of the National Bank for Agriculture and Rural De...",
@@ -5251,7 +5324,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 89
   },
   {
     "id": 3794,
@@ -5288,7 +5362,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5297,7 +5371,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_075",
       "questionStem": "Consider the following statements regarding water-saving agronomic innovations in rice cultivation:\n1. Alternate Wetting and Drying (AWD) uses a perforated field water tube to monitor water levels, re...",
@@ -5322,7 +5396,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 90
   },
   {
     "id": 3795,
@@ -5359,7 +5434,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5368,7 +5443,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_076",
       "questionStem": "In India, irrigation projects are officially classified by the Central Water Commission and Ministry of Jal Shakti based on Culturable Command Area (CCA). Consider the following pairs:\n1. Major Irriga...",
@@ -5393,7 +5468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 91
   },
   {
     "id": 3796,
@@ -5430,7 +5506,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -5439,7 +5515,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_077",
       "questionStem": "In the 'Dynamic Ground Water Resources Assessment of India' published by the Central Ground Water Board (CGWB), assessment units are classified based on the 'Stage of Ground Water Extraction' (SOE). C...",
@@ -5464,7 +5540,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 92
   },
   {
     "id": 3797,
@@ -5501,7 +5578,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -5510,7 +5587,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_078",
       "questionStem": "With reference to the spatial patterns and status of groundwater utilization in India, consider the following statements:\n1. India is the largest extractor of groundwater in the world, accounting for ...",
@@ -5535,7 +5612,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 93
   },
   {
     "id": 3798,
@@ -5572,7 +5650,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -5581,7 +5659,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_079",
       "questionStem": "With reference to the Atal Bhujal Yojana (ATAL JAL), consider the following statements:\n1. It is a Central Sector Scheme implemented by the Ministry of Jal Shakti with 50% financial assistance from th...",
@@ -5606,7 +5684,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 94
   },
   {
     "id": 3799,
@@ -5643,7 +5722,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5652,7 +5731,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_080",
       "questionStem": "Regarding Arsenic contamination of groundwater in India, consider the following statements:\n1. The origin of arsenic in the alluvial aquifers of the Ganga-Brahmaputra plain is predominantly geogenic r...",
@@ -5677,7 +5756,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 95
   },
   {
     "id": 3800,
@@ -5714,7 +5794,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5723,7 +5803,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_081",
       "questionStem": "With reference to Fluoride contamination in groundwater across India, consider the following statements:\n1. It is primarily geogenic in nature, originating from the dissolution of minerals like fluori...",
@@ -5748,7 +5828,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 96
   },
   {
     "id": 3801,
@@ -5785,7 +5866,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5794,7 +5875,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_082",
       "questionStem": "Saline water intrusion into coastal aquifers is an escalating ecological threat along India's peninsular coastline. In this context, consider the following statements:\n1. Under natural conditions, the...",
@@ -5819,7 +5900,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 97
   },
   {
     "id": 3802,
@@ -5856,7 +5938,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -5865,7 +5947,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_083",
       "questionStem": "Regarding the legal and regulatory framework governing groundwater rights in India, consider the following statements:\n1. Under Section 7(g) of the Indian Easements Act, 1882, groundwater ownership is...",
@@ -5890,7 +5972,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 98
   },
   {
     "id": 3803,
@@ -5927,7 +6010,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -5936,7 +6019,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_084",
       "questionStem": "With reference to the Central Ground Water Authority (CGWA), consider the following statements:\n1. It was constituted under Section 3(3) of the Environment (Protection) Act, 1986 following directions ...",
@@ -5961,7 +6044,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 99
   },
   {
     "id": 3804,
@@ -5998,7 +6082,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -6007,7 +6091,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_085",
       "questionStem": "Consider the following statements regarding the National Aquifer Mapping and Management Programme (NAQUIM):\n1. It is implemented by the Central Ground Water Board (CGWB) under the Ground Water Managem...",
@@ -6032,7 +6116,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 100
   },
   {
     "id": 3805,
@@ -6069,7 +6154,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -6078,7 +6163,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_086",
       "questionStem": "With reference to emerging chemical contaminants in Indian groundwater, consider the following statements:\n1. High concentrations of nitrate (>45 mg/L) in groundwater are predominantly anthropogenic, ...",
@@ -6103,7 +6188,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 101
   },
   {
     "id": 3806,
@@ -6140,7 +6226,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6149,7 +6235,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_087",
       "questionStem": "Regarding the comparative hydrogeology of aquifers in India, consider the following statements:\n1. Hard-rock aquifers (granites, basalts, gneisses) underlie nearly 65% of India's landmass, primarily c...",
@@ -6174,7 +6260,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 102
   },
   {
     "id": 3807,
@@ -6211,7 +6298,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -6220,7 +6307,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_088",
       "questionStem": "With reference to national water conservation missions launched by the Government of India, consider the following statements:\n1. The Jal Shakti Abhiyan operates under the core participatory motto 'Ca...",
@@ -6245,7 +6332,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 103
   },
   {
     "id": 3808,
@@ -6282,7 +6370,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -6291,7 +6379,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_089",
       "questionStem": "With reference to National Waterway 1 (NW-1) and the Jal Marg Vikas Project (JMVP), consider the following statements:\n1. NW-1 covers the Ganga-Bhagirathi-Hooghly river system stretching 1,620 km from...",
@@ -6316,7 +6404,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 104
   },
   {
     "id": 3809,
@@ -6353,7 +6442,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6362,7 +6451,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_090",
       "questionStem": "Consider the following statements regarding National Waterway 2 (NW-2):\n1. It is declared on the Brahmaputra River stretching 891 km from Dhubri (near the Bangladesh border) to Sadiya in Assam.\n2. Wat...",
@@ -6387,7 +6476,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 105
   },
   {
     "id": 3810,
@@ -6424,7 +6514,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6433,7 +6523,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_091",
       "questionStem": "With reference to National Waterway 3 (NW-3) in Kerala, consider the following statements:\n1. It comprises the West Coast Canal from Kottapuram to Kollam, along with the Udyogmandal and Champakkara ca...",
@@ -6458,7 +6548,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 106
   },
   {
     "id": 3811,
@@ -6495,7 +6586,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6504,7 +6595,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_092",
       "questionStem": "Consider the following statements regarding National Waterway 4 (NW-4):\n1. It encompasses stretches of the Krishna and Godavari rivers integrated with the canal network connecting Kakinada to Puducher...",
@@ -6529,7 +6620,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 107
   },
   {
     "id": 3812,
@@ -6566,7 +6658,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6575,7 +6667,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_093",
       "questionStem": "With reference to National Waterway 5 (NW-5), consider the following statements:\n1. It encompasses stretches of the Brahmani River, East Coast Canal, Matai River, and the Mahanadi Delta river system.\n...",
@@ -6600,7 +6692,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 108
   },
   {
     "id": 3813,
@@ -6637,7 +6730,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6646,7 +6739,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_094",
       "questionStem": "Regarding the National Waterways Act, 2016, consider the following statements:\n1. It was enacted under Entry 24 of the Union List (List I) of the Seventh Schedule of the Constitution.\n2. The Act repea...",
@@ -6671,7 +6764,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 109
   },
   {
     "id": 3814,
@@ -6708,7 +6802,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -6717,7 +6811,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_095",
       "questionStem": "The Indo-Bangladesh Protocol (IBP) on Inland Water Transit and Trade plays a vital role in India's multimodal domestic logistics. In this context, consider the following statements:\n1. It was first si...",
@@ -6742,7 +6836,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 110
   },
   {
     "id": 3815,
@@ -6779,7 +6874,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -6788,7 +6883,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_096",
       "questionStem": "With reference to the Kaladan Multi-Modal Transit Transport Project, consider the following statements:\n1. It connects the seaport of Kolkata with the seaport of Sittwe in Rakhine State, Myanmar, via ...",
@@ -6813,7 +6908,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 111
   },
   {
     "id": 3816,
@@ -6850,7 +6946,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6859,7 +6955,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_097",
       "questionStem": "The expansion of commercial inland waterways has raised serious ecological concerns regarding riverine biodiversity. In this context, consider the following statements:\n1. Capital and maintenance dred...",
@@ -6884,7 +6980,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 3817,
@@ -6921,7 +7018,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -6930,7 +7027,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_098",
       "questionStem": "With reference to National Waterway 16 (NW-16), consider the following statements:\n1. It is declared on the Barak River stretching 121 km from Tipaimukh to Bhanga in southern Assam.\n2. It serves as an...",
@@ -6955,7 +7052,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 3818,
@@ -6992,7 +7090,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -7001,7 +7099,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_099",
       "questionStem": "Regarding the comparative economics and logistics profile of Inland Water Transport (IWT) in India, consider the following statements:\n1. One liter of fuel can move approximately 105 tonne-kilometers ...",
@@ -7026,7 +7124,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 3819,
@@ -7063,7 +7162,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -7072,7 +7171,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_100",
       "questionStem": "With reference to modern navigation technologies deployed on India's National Waterways, consider the following statements:\n1. The River Information System (RIS) is an advanced electronic telecommunic...",
@@ -7097,7 +7196,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 3820,
@@ -7165,7 +7265,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 3,
+    "subTopic": "River Linking Projects"
   },
   {
     "id": 3821,
@@ -7233,7 +7335,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 43,
+    "subTopic": "Major Dams"
   },
   {
     "id": 3822,
@@ -7301,7 +7405,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 44,
+    "subTopic": "Irrigation Systems"
   },
   {
     "id": 3823,
@@ -7369,7 +7475,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 45,
+    "subTopic": "Groundwater"
   },
   {
     "id": 3824,
@@ -7437,7 +7545,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 4,
+    "subTopic": "National Waterways"
   },
   {
     "id": 3825,
@@ -7505,7 +7615,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 5,
+    "subTopic": "River Linking Projects"
   },
   {
     "id": 3826,
@@ -7573,7 +7685,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 6,
+    "subTopic": "Major Dams"
   },
   {
     "id": 3827,
@@ -7641,7 +7755,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 7,
+    "subTopic": "Irrigation Systems"
   },
   {
     "id": 3828,
@@ -7709,7 +7825,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 8,
+    "subTopic": "Groundwater"
   },
   {
     "id": 3829,
@@ -7777,7 +7895,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 9,
+    "subTopic": "National Waterways"
   },
   {
     "id": 3830,
@@ -7845,7 +7965,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 10,
+    "subTopic": "River Linking Projects"
   },
   {
     "id": 3831,
@@ -7913,7 +8035,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 11,
+    "subTopic": "Major Dams"
   },
   {
     "id": 3832,
@@ -7981,7 +8105,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 12,
+    "subTopic": "Irrigation Systems"
   },
   {
     "id": 3833,
@@ -8049,7 +8175,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 13,
+    "subTopic": "Groundwater"
   },
   {
     "id": 3834,
@@ -8117,7 +8245,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 14,
+    "subTopic": "National Waterways"
   },
   {
     "id": 3835,
@@ -8154,7 +8284,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -8163,7 +8293,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_041",
       "questionStem": "With reference to the Ken-Betwa Link Project (KBLP), consider the following statements:\n1. It is the first river interlinking project implemented under the National Perspective Plan for interlinking o...",
@@ -8188,7 +8318,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 116
   },
   {
     "id": 3836,
@@ -8225,7 +8356,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -8234,7 +8365,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_042",
       "questionStem": "The construction of the Daudhan Dam under the Ken-Betwa Link Project directly causes ecological submergence and disruption to which of the following protected entities?\n1. Core habitat of Panna Tiger ...",
@@ -8259,7 +8390,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 117
   },
   {
     "id": 3837,
@@ -8296,7 +8428,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8305,7 +8437,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_043",
       "questionStem": "Consider the following statements regarding the institutional framework of river interlinking in India:\n1. The National Perspective Plan (NPP) for water resources development was prepared in 1980 by t...",
@@ -8330,7 +8462,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 118
   },
   {
     "id": 3838,
@@ -8367,7 +8500,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -8376,7 +8509,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_044",
       "questionStem": "With reference to the Par-Tapi-Narmada Link Project, consider the following statements:\n1. It aims to transfer surplus water from west-flowing rivers of the Western Ghats to water-deficit regions of S...",
@@ -8401,7 +8534,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 119
   },
   {
     "id": 3839,
@@ -8438,7 +8572,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8447,7 +8581,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_045",
       "questionStem": "Consider the following statements regarding the proposed Godavari-Krishna-Pennar-Cauvery interlinking scheme:\n1. It is designed to transfer unutilized surplus waters of the Godavari basin to the water...",
@@ -8472,7 +8606,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 120
   },
   {
     "id": 3840,
@@ -8509,7 +8644,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -8518,7 +8653,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_046",
       "questionStem": "With reference to the Kosi-Mechi Interlinking Project in Bihar, consider the following statements:\n1. It is approved as India's second major river interlinking project to receive central funding after...",
@@ -8543,7 +8678,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 121
   },
   {
     "id": 3841,
@@ -8580,7 +8716,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8589,7 +8725,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_047",
       "questionStem": "Consider the following statements regarding the Damanganga-Pinjal Link Project:\n1. It is an inter-state river link project conceived between the states of Gujarat and Maharashtra.\n2. It aims to divert...",
@@ -8614,7 +8750,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 122
   },
   {
     "id": 3842,
@@ -8651,7 +8788,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -8660,7 +8797,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_048",
       "questionStem": "Consider the following pairs of Interlinking of Rivers (ILR) projects and the States involved:\n1. Bedti-Varada Link : Karnataka\n2. Parbati-Kalisindh-Chambal Link : Madhya Pradesh and Rajasthan\n3. Pamb...",
@@ -8685,7 +8822,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 3843,
@@ -8722,7 +8860,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8731,7 +8869,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_049",
       "questionStem": "With reference to the Bedti-Varada River Interlinking Project, which has faced severe opposition from local communities and environmentalists, consider the following statements:\n1. It proposes to dive...",
@@ -8756,7 +8894,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 3844,
@@ -8793,7 +8932,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8802,7 +8941,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_050",
       "questionStem": "Hydrologists and ecological scientists have raised critical scientific objections against the concept of large-scale inter-basin river transfers in India. Which of the following arguments reflect scie...",
@@ -8827,7 +8966,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 3845,
@@ -8864,7 +9004,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8873,7 +9013,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_051",
       "questionStem": "The Mahanadi-Godavari Link is considered the critical 'mother link' of the Peninsular Rivers Development Component. With reference to this link, consider the following statements:\n1. It envisages the ...",
@@ -8898,7 +9038,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 3846,
@@ -8935,7 +9076,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -8944,7 +9085,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_052",
       "questionStem": "With reference to the constitutional and legal distribution of powers governing water resources and inter-state river linking in India, consider the following statements:\n1. Under Entry 17 of the Stat...",
@@ -8969,7 +9110,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 3847,
@@ -9006,7 +9148,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9015,7 +9157,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_053",
       "questionStem": "With reference to the Bhakra-Nangal Multipurpose River Valley Project, consider the following statements:\n1. Bhakra Dam is a concrete gravity dam constructed on the Sutlej River in Bilaspur district o...",
@@ -9040,7 +9182,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 3848,
@@ -9077,7 +9220,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9086,7 +9229,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_054",
       "questionStem": "Consider the following statements regarding the Hirakud Dam Project:\n1. It is built across the Mahanadi River near Sambalpur in Odisha and is recognized as the longest earthen dam in the world.\n2. It ...",
@@ -9111,7 +9254,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 3849,
@@ -9148,7 +9292,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9157,7 +9301,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_055",
       "questionStem": "With reference to the Tehri Dam Project, consider the following statements:\n1. It is constructed at the confluence of the Bhagirathi and Bhilangana rivers in Uttarakhand.\n2. It is the highest dam in I...",
@@ -9182,7 +9326,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 3850,
@@ -9219,7 +9364,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9228,7 +9373,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_056",
       "questionStem": "With reference to the Sardar Sarovar Project on the Narmada River, consider the following statements:\n1. It is a concrete gravity dam located at Kevadia in Gujarat, serving as the terminal reservoir o...",
@@ -9253,7 +9398,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 3851,
@@ -9290,7 +9436,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -9299,7 +9445,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_057",
       "questionStem": "With reference to the Polavaram Multipurpose National Irrigation Project (Indira Sagar), consider the following statements:\n1. It is an earth-cum-rockfill dam under construction across the Godavari Ri...",
@@ -9324,7 +9470,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 3852,
@@ -9361,7 +9508,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9370,7 +9517,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_058",
       "questionStem": "Consider the following statements regarding the Nagarjuna Sagar Multipurpose Project:\n1. It is built across the Krishna River straddling the border between Telangana and Andhra Pradesh.\n2. It is const...",
@@ -9395,7 +9542,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 3853,
@@ -9432,7 +9580,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9441,7 +9589,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_059",
       "questionStem": "With reference to the Mullaperiyar Dam, consider the following statements:\n1. It is a masonry gravity dam constructed across the confluence of the Mullayar and Periyar rivers in the Idukki district of...",
@@ -9466,7 +9614,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 3854,
@@ -9503,7 +9652,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9512,7 +9661,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_060",
       "questionStem": "Consider the following statements regarding the Damodar Valley Corporation (DVC):\n1. It was established in 1948 by an Act of the Constituent Assembly (Legislative) as independent India's first multipu...",
@@ -9537,7 +9686,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 3855,
@@ -9574,7 +9724,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9583,7 +9733,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_061",
       "questionStem": "Consider the following statements regarding the major dams on the Krishna River:\n1. Srisailam Dam is constructed in a deep gorge of the Nallamala Hills on the border between Andhra Pradesh and Telanga...",
@@ -9608,7 +9758,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 3856,
@@ -9645,7 +9796,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9654,7 +9805,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_062",
       "questionStem": "With reference to the Idukki Hydroelectric Project in Kerala, consider the following statements:\n1. The Idukki Dam is a concrete double-curvature arch dam constructed across the gorge between Kuravan ...",
@@ -9679,7 +9830,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 3857,
@@ -9716,7 +9868,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9725,7 +9877,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_063",
       "questionStem": "With reference to India's hydropower projects on the Western Rivers under the Indus Waters Treaty (IWT), 1960, consider the following statements:\n1. India is permitted to construct run-of-the-river hy...",
@@ -9750,7 +9902,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 3858,
@@ -9787,7 +9940,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -9796,7 +9949,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_064",
       "questionStem": "Consider the following statements regarding the Indira Sagar and Omkareshwar Multipurpose Projects in the Narmada Basin:\n1. The Indira Sagar Project, located at Punasa in Khandwa district of Madhya Pr...",
@@ -9821,7 +9974,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 3859,
@@ -9858,7 +10012,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9867,7 +10021,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_065",
       "questionStem": "Regarding the structural transformation of irrigation sources in India since independence, consider the following statements:\n1. Groundwater extraction through tubewells and other open wells currently...",
@@ -9892,7 +10046,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 3860,
@@ -9929,7 +10084,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -9938,7 +10093,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_066",
       "questionStem": "With reference to canal irrigation systems in India, consider the following statements:\n1. 'Protective canals' were primarily designed during colonial rule to spread water thinly over famine-prone tra...",
@@ -9963,7 +10118,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 3861,
@@ -10000,7 +10156,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10009,7 +10165,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_067",
       "questionStem": "Canal irrigation in arid and semi-arid tracts of India has frequently induced soil degradation. In this context, consider the following statements:\n1. Seepage from unlined earthen canals and excessive...",
@@ -10034,7 +10190,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 3862,
@@ -10071,7 +10228,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10080,7 +10237,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_068",
       "questionStem": "Tank irrigation has historically been the predominant traditional irrigation system across the Peninsular Plateau. Which of the following geographic factors explain this predominance?\n1. The hard, imp...",
@@ -10105,7 +10262,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 3863,
@@ -10142,7 +10300,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10151,7 +10309,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_069",
       "questionStem": "With reference to micro-irrigation systems in India, consider the following statements:\n1. Drip irrigation delivers water directly to the plant root zone drop-by-drop, achieving a water use efficiency...",
@@ -10176,7 +10334,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 144
   },
   {
     "id": 3864,
@@ -10213,7 +10372,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10222,7 +10381,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_070",
       "questionStem": "Consider the following statements regarding the practice of 'Fertigation' in modern Indian agriculture:\n1. Fertigation enables the synchronized application of water and water-soluble fertilizers direc...",
@@ -10247,7 +10406,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 145
   },
   {
     "id": 3865,
@@ -10284,7 +10444,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -10293,7 +10453,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_071",
       "questionStem": "The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched with the vision of 'Har Khet Ko Pani' and 'More Crop Per Drop'. Consider the following pairs of PMKSY components and their implementing ...",
@@ -10318,7 +10478,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 146
   },
   {
     "id": 3866,
@@ -10355,7 +10516,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10364,7 +10525,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_072",
       "questionStem": "With reference to the Command Area Development and Water Management (CADWM) programme and Participatory Irrigation Management (PIM) in India, consider the following statements:\n1. The primary objectiv...",
@@ -10389,7 +10550,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 147
   },
   {
     "id": 3867,
@@ -10426,7 +10588,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10435,7 +10597,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_073",
       "questionStem": "In the context of India's water crisis and agricultural trade policy, consider the following statements regarding 'Virtual Water':\n1. Virtual water refers to the total volume of freshwater consumed di...",
@@ -10460,7 +10622,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 148
   },
   {
     "id": 3868,
@@ -10497,7 +10660,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -10506,7 +10669,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_074",
       "questionStem": "With reference to the Micro Irrigation Fund (MIF) operational in India, consider the following statements:\n1. The fund was established under the aegis of the National Bank for Agriculture and Rural De...",
@@ -10531,7 +10694,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 149
   },
   {
     "id": 3869,
@@ -10568,7 +10732,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10577,7 +10741,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_075",
       "questionStem": "Consider the following statements regarding water-saving agronomic innovations in rice cultivation:\n1. Alternate Wetting and Drying (AWD) uses a perforated field water tube to monitor water levels, re...",
@@ -10602,7 +10766,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 150
   },
   {
     "id": 3870,
@@ -10639,7 +10804,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10648,7 +10813,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_076",
       "questionStem": "In India, irrigation projects are officially classified by the Central Water Commission and Ministry of Jal Shakti based on Culturable Command Area (CCA). Consider the following pairs:\n1. Major Irriga...",
@@ -10673,7 +10838,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 151
   },
   {
     "id": 3871,
@@ -10710,7 +10876,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -10719,7 +10885,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_077",
       "questionStem": "In the 'Dynamic Ground Water Resources Assessment of India' published by the Central Ground Water Board (CGWB), assessment units are classified based on the 'Stage of Ground Water Extraction' (SOE). C...",
@@ -10744,7 +10910,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 152
   },
   {
     "id": 3872,
@@ -10781,7 +10948,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -10790,7 +10957,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_078",
       "questionStem": "With reference to the spatial patterns and status of groundwater utilization in India, consider the following statements:\n1. India is the largest extractor of groundwater in the world, accounting for ...",
@@ -10815,7 +10982,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 153
   },
   {
     "id": 3873,
@@ -10852,7 +11020,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -10861,7 +11029,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_079",
       "questionStem": "With reference to the Atal Bhujal Yojana (ATAL JAL), consider the following statements:\n1. It is a Central Sector Scheme implemented by the Ministry of Jal Shakti with 50% financial assistance from th...",
@@ -10886,7 +11054,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 154
   },
   {
     "id": 3874,
@@ -10923,7 +11092,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -10932,7 +11101,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_080",
       "questionStem": "Regarding Arsenic contamination of groundwater in India, consider the following statements:\n1. The origin of arsenic in the alluvial aquifers of the Ganga-Brahmaputra plain is predominantly geogenic r...",
@@ -10957,7 +11126,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 155
   },
   {
     "id": 3875,
@@ -10994,7 +11164,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11003,7 +11173,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_081",
       "questionStem": "With reference to Fluoride contamination in groundwater across India, consider the following statements:\n1. It is primarily geogenic in nature, originating from the dissolution of minerals like fluori...",
@@ -11028,7 +11198,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 156
   },
   {
     "id": 3876,
@@ -11065,7 +11236,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11074,7 +11245,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_082",
       "questionStem": "Saline water intrusion into coastal aquifers is an escalating ecological threat along India's peninsular coastline. In this context, consider the following statements:\n1. Under natural conditions, the...",
@@ -11099,7 +11270,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 157
   },
   {
     "id": 3877,
@@ -11136,7 +11308,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11145,7 +11317,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_083",
       "questionStem": "Regarding the legal and regulatory framework governing groundwater rights in India, consider the following statements:\n1. Under Section 7(g) of the Indian Easements Act, 1882, groundwater ownership is...",
@@ -11170,7 +11342,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 158
   },
   {
     "id": 3878,
@@ -11207,7 +11380,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -11216,7 +11389,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_084",
       "questionStem": "With reference to the Central Ground Water Authority (CGWA), consider the following statements:\n1. It was constituted under Section 3(3) of the Environment (Protection) Act, 1986 following directions ...",
@@ -11241,7 +11414,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 159
   },
   {
     "id": 3879,
@@ -11278,7 +11452,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -11287,7 +11461,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_085",
       "questionStem": "Consider the following statements regarding the National Aquifer Mapping and Management Programme (NAQUIM):\n1. It is implemented by the Central Ground Water Board (CGWB) under the Ground Water Managem...",
@@ -11312,7 +11486,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 160
   },
   {
     "id": 3880,
@@ -11349,7 +11524,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -11358,7 +11533,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_086",
       "questionStem": "With reference to emerging chemical contaminants in Indian groundwater, consider the following statements:\n1. High concentrations of nitrate (>45 mg/L) in groundwater are predominantly anthropogenic, ...",
@@ -11383,7 +11558,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 161
   },
   {
     "id": 3881,
@@ -11420,7 +11596,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11429,7 +11605,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_087",
       "questionStem": "Regarding the comparative hydrogeology of aquifers in India, consider the following statements:\n1. Hard-rock aquifers (granites, basalts, gneisses) underlie nearly 65% of India's landmass, primarily c...",
@@ -11454,7 +11630,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 162
   },
   {
     "id": 3882,
@@ -11491,7 +11668,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -11500,7 +11677,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_088",
       "questionStem": "With reference to national water conservation missions launched by the Government of India, consider the following statements:\n1. The Jal Shakti Abhiyan operates under the core participatory motto 'Ca...",
@@ -11525,7 +11702,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 163
   },
   {
     "id": 3883,
@@ -11562,7 +11740,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -11571,7 +11749,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_089",
       "questionStem": "With reference to National Waterway 1 (NW-1) and the Jal Marg Vikas Project (JMVP), consider the following statements:\n1. NW-1 covers the Ganga-Bhagirathi-Hooghly river system stretching 1,620 km from...",
@@ -11596,7 +11774,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 164
   },
   {
     "id": 3884,
@@ -11633,7 +11812,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11642,7 +11821,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_090",
       "questionStem": "Consider the following statements regarding National Waterway 2 (NW-2):\n1. It is declared on the Brahmaputra River stretching 891 km from Dhubri (near the Bangladesh border) to Sadiya in Assam.\n2. Wat...",
@@ -11667,7 +11846,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 165
   },
   {
     "id": 3885,
@@ -11704,7 +11884,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11713,7 +11893,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_091",
       "questionStem": "With reference to National Waterway 3 (NW-3) in Kerala, consider the following statements:\n1. It comprises the West Coast Canal from Kottapuram to Kollam, along with the Udyogmandal and Champakkara ca...",
@@ -11738,7 +11918,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 166
   },
   {
     "id": 3886,
@@ -11775,7 +11956,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11784,7 +11965,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_092",
       "questionStem": "Consider the following statements regarding National Waterway 4 (NW-4):\n1. It encompasses stretches of the Krishna and Godavari rivers integrated with the canal network connecting Kakinada to Puducher...",
@@ -11809,7 +11990,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 167
   },
   {
     "id": 3887,
@@ -11846,7 +12028,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11855,7 +12037,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_093",
       "questionStem": "With reference to National Waterway 5 (NW-5), consider the following statements:\n1. It encompasses stretches of the Brahmani River, East Coast Canal, Matai River, and the Mahanadi Delta river system.\n...",
@@ -11880,7 +12062,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 168
   },
   {
     "id": 3888,
@@ -11917,7 +12100,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -11926,7 +12109,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_094",
       "questionStem": "Regarding the National Waterways Act, 2016, consider the following statements:\n1. It was enacted under Entry 24 of the Union List (List I) of the Seventh Schedule of the Constitution.\n2. The Act repea...",
@@ -11951,7 +12134,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 169
   },
   {
     "id": 3889,
@@ -11988,7 +12172,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -11997,7 +12181,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_095",
       "questionStem": "The Indo-Bangladesh Protocol (IBP) on Inland Water Transit and Trade plays a vital role in India's multimodal domestic logistics. In this context, consider the following statements:\n1. It was first si...",
@@ -12022,7 +12206,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 170
   },
   {
     "id": 3890,
@@ -12059,7 +12244,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -12068,7 +12253,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_096",
       "questionStem": "With reference to the Kaladan Multi-Modal Transit Transport Project, consider the following statements:\n1. It connects the seaport of Kolkata with the seaport of Sittwe in Rakhine State, Myanmar, via ...",
@@ -12093,7 +12278,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 171
   },
   {
     "id": 3891,
@@ -12130,7 +12316,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12139,7 +12325,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_097",
       "questionStem": "The expansion of commercial inland waterways has raised serious ecological concerns regarding riverine biodiversity. In this context, consider the following statements:\n1. Capital and maintenance dred...",
@@ -12164,7 +12350,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 172
   },
   {
     "id": 3892,
@@ -12201,7 +12388,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12210,7 +12397,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_098",
       "questionStem": "With reference to National Waterway 16 (NW-16), consider the following statements:\n1. It is declared on the Barak River stretching 121 km from Tipaimukh to Bhanga in southern Assam.\n2. It serves as an...",
@@ -12235,7 +12422,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 173
   },
   {
     "id": 3893,
@@ -12272,7 +12460,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": false,
@@ -12281,7 +12469,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_099",
       "questionStem": "Regarding the comparative economics and logistics profile of Inland Water Transport (IWT) in India, consider the following statements:\n1. One liter of fuel can move approximately 105 tonne-kilometers ...",
@@ -12306,7 +12494,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 174
   },
   {
     "id": 3894,
@@ -12343,7 +12532,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "statement_analysis",
+    "format": "Statement Based",
     "qstyle": "statement",
     "exams": "UPSC,State_PSC",
     "isCurrentAffairs": true,
@@ -12352,7 +12541,7 @@
     "originalTier": "Elite",
     "originalTopicId": 16,
     "originalTopicName": "Water Resources, Irrigation & Dams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_top16_100",
       "questionStem": "With reference to modern navigation technologies deployed on India's National Waterways, consider the following statements:\n1. The River Information System (RIS) is an advanced electronic telecommunic...",
@@ -12377,6 +12566,7 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 175
   }
 ]

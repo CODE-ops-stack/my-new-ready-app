@@ -34,7 +34,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "q_pred4_J0K1L2",
       "questionStem": "Consider the following pairs of newly designated Ramsar Sites and their locations: 1. Nagi Bird Sanctuary : Bihar 2. Nakti Bird Sanctuary : Bihar 3. Nandur Madhameshwar : Maharashtra 4. Yashwant Sagar : Madhya Pradesh How many pairs given above are correctly matched?",
@@ -68,7 +68,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 5011,
@@ -105,7 +106,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -114,7 +115,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "q_curr7_2b3c4d",
       "questionStem": "The 'Marcha Rice', known for its aroma and palatability, recently earned a GI tag. It is traditionally cultivated in which of the following regions?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 5012,
@@ -184,7 +186,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "3",
       "questionStem": "Consider the following pairs of geological formations in Bihar and their spatial distribution:\n1. Dharwar Rocks : South-eastern fringe (Munger, Jamui, Nawada, Rajgir)\n2. Vindhyan Rocks : South-western",
@@ -210,7 +212,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 55
   },
   {
     "id": 5013,
@@ -255,7 +258,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "4",
       "questionStem": "With reference to the sub-Himalayan Shiwalik formations located in the north-western corner of Bihar, consider the following statements:\n1. The Someshwar Range forms the international border between B",
@@ -281,7 +284,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 56
   },
   {
     "id": 5014,
@@ -326,7 +330,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "5",
       "questionStem": "In the physical geography of northern Bihar, the historic transverse passes (nallas) cutting across the Someshwar Range—such as Someshwar Pass, Bhikna Thori Pass, and Marwat Pass—were geomorphological",
@@ -352,7 +356,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 2
   },
   {
     "id": 5015,
@@ -397,7 +402,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "6",
       "questionStem": "Consider the following statements regarding the micro-relief landforms of the North Gangetic Plain in Bihar:\n1. 'Chaur' refers to a low-lying, saucer-shaped natural depression that remains seasonally ",
@@ -423,7 +428,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 3
   },
   {
     "id": 5016,
@@ -468,7 +474,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "7",
       "questionStem": "Consider the following statements:\nStatement-I: The major southern tributaries of the Ganga in Bihar (such as the Punpun and Harohar) flow parallel to the Ganga in a north-easterly direction for consi",
@@ -494,7 +500,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 57
   },
   {
     "id": 5017,
@@ -539,7 +546,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "8",
       "questionStem": "With reference to the Kaimur Plateau in south-western Bihar, consider the following statements:\n1. Geologically, it forms the easternmost terminus of the Vindhyan Supergroup, dominated by horizontally",
@@ -565,7 +572,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 58
   },
   {
     "id": 5018,
@@ -610,7 +618,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "9",
       "questionStem": "Match List-I (Prominent Hill / Inselberg Group of Bihar) with List-II (Administrative District): \nList-I:\nA. Kharagpur Hills\nB. Barabar and Nagarjuni Hills\nC. Rajgir Hills\nD. Pretshila and Brahmayoni ",
@@ -636,7 +644,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 4
   },
   {
     "id": 5019,
@@ -681,7 +690,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "10",
       "questionStem": "In the riverine morphology of the Middle Ganga Plain in Bihar, the geomorphic term 'Diara' specifically denotes:",
@@ -707,7 +716,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 5
   },
   {
     "id": 5020,
@@ -752,7 +762,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "11",
       "questionStem": "Consider the following statements regarding the regional slope and topographic gradient of the plains of Bihar:\n1. The North Gangetic Plain exhibits an overarching regional slope from north-west to so",
@@ -778,7 +788,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 59
   },
   {
     "id": 5021,
@@ -823,7 +834,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "12",
       "questionStem": "Consider the following statements regarding the structural evolution and depth of alluvium in the Gangetic trough of Bihar:\n1. The Gangetic depression in Bihar originated as a foreland sag formed by t",
@@ -849,7 +860,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 60
   },
   {
     "id": 5022,
@@ -894,7 +906,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "13",
       "questionStem": "With reference to the course and drainage basin of the River Ganga in Bihar, consider the following statements:\n1. The river enters the territory of Bihar near Chausa in Buxar district and departs nea",
@@ -920,7 +932,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 61
   },
   {
     "id": 5023,
@@ -965,7 +978,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "14",
       "questionStem": "Consider the following statements regarding the Gandak River system in Bihar:\n1. It enters the plains of Bihar at Valmikinagar in West Champaran, debouching from the Nepal Himalayas at the historic Tr",
@@ -991,7 +1004,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 6
   },
   {
     "id": 5024,
@@ -1036,7 +1050,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "15",
       "questionStem": "The Kosi River is historically notorious as the 'Sorrow of Bihar'. With reference to its geomorphology, sediment transport, and avulsion dynamics, consider the following statements:\n1. It is formed by",
@@ -1062,7 +1076,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 62
   },
   {
     "id": 5025,
@@ -1107,7 +1122,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "16",
       "questionStem": "Consider the following statements regarding the Burhi Gandak (Sikrahana) River in Bihar:\n1. Unlike the Gandak, it does not originate in the snow-clad Greater Himalayas but emerges from the Someshwar R",
@@ -1133,7 +1148,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 63
   },
   {
     "id": 5026,
@@ -1178,7 +1194,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "17",
       "questionStem": "Consider the following statements:\nStatement-I: The Bagmati and Kamla-Balan river basins in North Bihar are notoriously vulnerable to sudden, severe flash-flood surges during peak monsoons.\nStatement-",
@@ -1204,7 +1220,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 64
   },
   {
     "id": 5027,
@@ -1249,7 +1266,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "18",
       "questionStem": "The Ghaghara River (known as Karnali in Nepal and Saryu in Uttar Pradesh) terminates its course by joining the River Ganga in Bihar at which of the following geographic locations?",
@@ -1275,7 +1292,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 7
   },
   {
     "id": 5028,
@@ -1320,7 +1338,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "19",
       "questionStem": "Consider the following statements regarding the Mahananda River system in Bihar:\n1. It is the easternmost left-bank Himalayan tributary of the River Ganga within the territory of Bihar.\n2. It originat",
@@ -1346,7 +1364,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 8
   },
   {
     "id": 5029,
@@ -1391,7 +1410,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "20",
       "questionStem": "With reference to the Son River and its water resource infrastructure in Bihar, consider the following statements:\n1. Originating on the Amarkantak Plateau, it serves as the principal right-bank south",
@@ -1417,7 +1436,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 65
   },
   {
     "id": 5030,
@@ -1462,7 +1482,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "21",
       "questionStem": "Consider the following statements regarding the Punpun River system:\n1. It originates on the northern slopes of the Chota Nagpur Plateau in Palamu district of Jharkhand.\n2. It flows in a north-easterl",
@@ -1488,7 +1508,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 9
   },
   {
     "id": 5031,
@@ -1533,7 +1554,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "22",
       "questionStem": "With reference to the Falgu River and its hydro-cultural landscape in Bihar, consider the following statements:\n1. The Falgu is formed near Bodh Gaya by the confluence of two streams, namely the Lilaj",
@@ -1559,7 +1580,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 66
   },
   {
     "id": 5032,
@@ -1604,7 +1626,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "23",
       "questionStem": "Consider the following statements regarding the Karmanasa River:\n1. It originates in the Kaimur Range and flows north-westward to form the natural boundary between Bihar and Uttar Pradesh.\n2. It disch",
@@ -1630,7 +1652,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 10
   },
   {
     "id": 5033,
@@ -1675,7 +1698,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "24",
       "questionStem": "Consider the following statements:\nStatement-I: The Harohar River system functions as the master collector channel for the low-lying Tal depressions of South Bihar.\nStatement-II: The natural levees al",
@@ -1701,7 +1724,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 67
   },
   {
     "id": 5034,
@@ -1746,7 +1770,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "25",
       "questionStem": "Match List-I (Agro-Climatic Zone of Bihar) with List-II (Distinguishing Agro-Ecological Characteristics): \nList-I:\nA. Zone I (North-West Alluvial Plain)\nB. Zone II (North-East Alluvial Plain)\nC. Zone ",
@@ -1772,7 +1796,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 11
   },
   {
     "id": 5035,
@@ -1817,7 +1842,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "26",
       "questionStem": "Consider the following statements regarding Agro-Climatic Zone I (North-West Alluvial Plain) of Bihar:\n1. It encompasses 13 administrative districts situated north of the River Ganga and west of the K",
@@ -1843,7 +1868,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 68
   },
   {
     "id": 5036,
@@ -1888,7 +1914,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "27",
       "questionStem": "With reference to Agro-Climatic Zone II (North-East Alluvial Plain) of Bihar, consider the following statements:\n1. It experiences the highest annual precipitation among all agro-climatic zones of Bih",
@@ -1914,7 +1940,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 69
   },
   {
     "id": 5037,
@@ -1959,7 +1986,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "28",
       "questionStem": "Consider the following statements regarding the agro-climatic profile of South Bihar (Zones IIIA and IIIB):\n1. Both zones receive lower average annual rainfall and face significantly higher vulnerabil",
@@ -1985,7 +2012,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 12
   },
   {
     "id": 5038,
@@ -2030,7 +2058,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "29",
       "questionStem": "In standard climatological classifications of India, how is the prevailing macro-climate of the Gangetic plain in Bihar categorized according to Vladimir Koeppen's and Glenn Trewartha's climate classi",
@@ -2056,7 +2084,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 13
   },
   {
     "id": 5039,
@@ -2101,7 +2130,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "30",
       "questionStem": "Consider the following statements regarding the spatial distribution and monsoon dynamics of precipitation in Bihar:\n1. The state exhibits a pronounced spatial rainfall gradient decreasing progressive",
@@ -2127,7 +2156,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 70
   },
   {
     "id": 5040,
@@ -2172,7 +2202,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "31",
       "questionStem": "Consider the following statements:\nStatement-I: Gaya district routinely records both the highest summer temperatures (>45°C) and among the lowest winter temperatures (<4°C) in the state of Bihar.\nStat",
@@ -2198,7 +2228,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 71
   },
   {
     "id": 5041,
@@ -2243,7 +2274,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "32",
       "questionStem": "With reference to pre-monsoon and summer atmospheric phenomena in Bihar, consider the following statements:\n1. 'Loo' refers to desiccating, intensely hot, and dust-laden westerly winds blowing across ",
@@ -2269,7 +2300,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 14
   },
   {
     "id": 5042,
@@ -2314,7 +2346,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "33",
       "questionStem": "The light to moderate winter rainfall occasionally received in Bihar during December and January is primarily attributable to which of the following atmospheric mechanisms?",
@@ -2340,7 +2372,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 15
   },
   {
     "id": 5043,
@@ -2385,7 +2418,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "34",
       "questionStem": "Match List-I (Soil Classification of Bihar) with List-II (Spatial Distribution & Dominant Pedological Attributes): \nList-I:\nA. Piedmont Swamp Soil\nB. Terai Soil\nC. Balasundar Soil\nD. Karail-Kewal Soil",
@@ -2411,7 +2444,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 72
   },
   {
     "id": 5044,
@@ -2456,7 +2490,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "35",
       "questionStem": "Consider the following statements regarding the Piedmont Swamp Soil of Bihar:\n1. It is geographically confined to the sub-Himalayan foothill tract of the Someshwar Range in West Champaran district.\n2.",
@@ -2482,7 +2516,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 16
   },
   {
     "id": 5045,
@@ -2527,7 +2562,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "36",
       "questionStem": "With reference to the Terai Soil occurring along the northern frontier of Bihar, consider the following statements:\n1. It forms a continuous narrow strip of approximately 5 to 8 kilometers width exten",
@@ -2553,7 +2588,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 73
   },
   {
     "id": 5046,
@@ -2598,7 +2634,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "37",
       "questionStem": "Consider the following statements regarding 'Balasundar' soil in North Bihar:\n1. It represents an older alluvial soil (Bangar) widely distributed across Saharsa, Darbhanga, Samastipur, Muzaffarpur, an",
@@ -2624,7 +2660,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 74
   },
   {
     "id": 5047,
@@ -2669,7 +2706,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "38",
       "questionStem": "With reference to the comparative characteristics of Khadar and Bangar soils in the Gangetic plains of Bihar, consider the following statements:\n1. Khadar soils occupy active floodplains and low-lying",
@@ -2695,7 +2732,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 17
   },
   {
     "id": 5048,
@@ -2740,7 +2778,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "39",
       "questionStem": "Consider the following statements regarding the 'Karail-Kewal' soil of the South Gangetic Plain in Bihar:\n1. 'Karail' denotes dark, heavy, montmorillonite-rich clay that develops deep shrinkage fissur",
@@ -2766,7 +2804,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 75
   },
   {
     "id": 5049,
@@ -2811,7 +2850,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "40",
       "questionStem": "Consider the following statements:\nStatement-I: The low-lying Tal soils of the Mokama tract in South Bihar are rarely sown for Kharif crops but produce exceptional, record harvests of Rabi pulses.\nSta",
@@ -2837,7 +2876,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 76
   },
   {
     "id": 5050,
@@ -2882,7 +2922,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "41",
       "questionStem": "Consider the following statements regarding the Red and Yellow Soils occurring along the southern plateau fringe in Banka, Jamui, Nawada, and Gaya districts:\n1. They are residual soils developed throu",
@@ -2908,7 +2948,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 18
   },
   {
     "id": 5051,
@@ -2953,7 +2994,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "42",
       "questionStem": "In the pedological mapping of Bihar, 'Lal Balui Mitti' (Red Sandy Soil) is predominantly distributed across which of the following physiographic regions?",
@@ -2979,7 +3020,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 19
   },
   {
     "id": 5052,
@@ -3024,7 +3066,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "43",
       "questionStem": "According to the official data of the India State of Forest Report (ISFR) 2021, consider the following statements regarding the forest cover of Bihar:\n1. The recorded forest cover of Bihar stands at a",
@@ -3050,7 +3092,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 77
   },
   {
     "id": 5053,
@@ -3095,7 +3138,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "44",
       "questionStem": "With reference to Valmiki Tiger Reserve (VTR) in Bihar, consider the following statements:\n1. It is the sole National Park and Tiger Reserve currently established within the state of Bihar.\n2. It form",
@@ -3121,7 +3164,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 78
   },
   {
     "id": 5054,
@@ -3166,7 +3210,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "45",
       "questionStem": "Consider the following statements regarding Kanwar Lake (Kabartal):\n1. It is situated in the Begusarai district and represents Asia's largest freshwater oxbow lake.\n2. It originated from the natural m",
@@ -3192,7 +3236,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 79
   },
   {
     "id": 5055,
@@ -3237,7 +3282,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "46",
       "questionStem": "In 2024, two wetlands from Bihar were designated as Ramsar Sites: Nagi Bird Sanctuary and Nakti Bird Sanctuary. In this context, consider the following statements:\n1. Both sanctuaries are situated in ",
@@ -3263,7 +3308,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 80
   },
   {
     "id": 5056,
@@ -3308,7 +3354,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "47",
       "questionStem": "Consider the following statements regarding the Vikramshila Gangetic Dolphin Sanctuary:\n1. It encompasses an approximately 60-kilometer stretch of the River Ganga located in Bhagalpur district, extend",
@@ -3334,7 +3380,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 20
   },
   {
     "id": 5057,
@@ -3379,7 +3426,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "48",
       "questionStem": "Which of the following environmental and geomorphological features uniquely characterizes the Bhimbandh Wildlife Sanctuary located in Munger district of Bihar?",
@@ -3405,7 +3452,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 21
   },
   {
     "id": 5058,
@@ -3450,7 +3498,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "49",
       "questionStem": "Consider the following statements regarding the Kaimur Wildlife Sanctuary in Bihar:\n1. It is geographically the largest wildlife sanctuary by protected surface area in the state of Bihar.\n2. It is sit",
@@ -3476,7 +3524,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 81
   },
   {
     "id": 5059,
@@ -3521,7 +3570,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "50",
       "questionStem": "Match List-I (Protected Wetland / Sanctuary of Bihar) with List-II (Administrative District): \nList-I:\nA. Kusheshwar Asthan Bird Sanctuary\nB. Barela Salim Ali Zubba Sahni Bird Sanctuary\nC. Udaypur Wil",
@@ -3547,7 +3596,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 22
   },
   {
     "id": 5060,
@@ -3592,7 +3642,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "51",
       "questionStem": "With reference to the geothermal hot springs of Bihar, consider the following statements:\n1. The thermal springs of Rajgir (such as Brahmakund and Saptadhara) emerge along tectonic fractures within Pr",
@@ -3618,7 +3668,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 82
   },
   {
     "id": 5061,
@@ -3663,7 +3714,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "52",
       "questionStem": "Consider the following statements:\nStatement-I: The notification of Kaimur Wildlife Sanctuary as Bihar's second Tiger Reserve will establish a strategic trans-state ecological corridor connecting the ",
@@ -3689,7 +3740,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 83
   },
   {
     "id": 5062,
@@ -3734,7 +3786,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "53",
       "questionStem": "Consider the following statements regarding the post-bifurcation mineral profile of Bihar following the reorganization of the state in November 2000:\n1. The bifurcation and creation of Jharkhand trans",
@@ -3760,7 +3812,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 23
   },
   {
     "id": 5063,
@@ -3805,7 +3858,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "54",
       "questionStem": "With reference to the geological occurrence and industrial significance of Pyrite deposits at Amjhor in Rohtas district, consider the following statements:\n1. The pyrite seam is stratigraphically embe",
@@ -3831,7 +3884,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 84
   },
   {
     "id": 5064,
@@ -3876,7 +3930,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "55",
       "questionStem": "With reference to the limestone reserves and cement manufacturing belt of south-western Bihar, consider the following statements:\n1. High-grade cement-quality limestone in Bihar is geographically conc",
@@ -3902,7 +3956,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 85
   },
   {
     "id": 5065,
@@ -3947,7 +4002,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "56",
       "questionStem": "Consider the following statements regarding the mica belt in Bihar:\n1. The mica occurrences in Nawada, Jamui, and Gaya districts represent the northern continuation of the famous Bihar-Jharkhand Mica ",
@@ -3973,7 +4028,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 24
   },
   {
     "id": 5066,
@@ -4018,7 +4074,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "57",
       "questionStem": "In recent geological resource assessments conducted by the Geological Survey of India (GSI), the Sono area in Jamui district of Bihar attracted intense national attention because:",
@@ -4044,7 +4100,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 25
   },
   {
     "id": 5067,
@@ -4089,7 +4146,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "58",
       "questionStem": "Match List-I (Mineral Commodity Found in Bihar) with List-II (Principal Geographical Occurrence): \nList-I:\nA. Bauxite\nB. China Clay (Kaolin)\nC. Steatite / Soapstone\nD. Quartzite / Silica Sand\n\nList-II",
@@ -4115,7 +4172,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 86
   },
   {
     "id": 5068,
@@ -4160,7 +4218,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "59",
       "questionStem": "Consider the following statements regarding the Barauni Oil Refinery in Begusarai district of Bihar:\n1. It was commissioned in 1964 with technical and financial collaboration from the USSR and Romania",
@@ -4186,7 +4244,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 26
   },
   {
     "id": 5069,
@@ -4231,7 +4290,7 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "60",
       "questionStem": "Match List-I (Major Thermal Power Station in Bihar) with List-II (District Location): \nList-I:\nA. Kahalgaon Super Thermal Power Station\nB. Barh Super Thermal Power Station\nC. Nabinagar Super Thermal P",
@@ -4257,7 +4316,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 27
   },
   {
     "id": 5070,
@@ -4302,7 +4362,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "61",
       "questionStem": "With reference to hydroelectric power development in Bihar, consider the following statements:\n1. Due to the predominantly flat alluvial topography, hydro potential in Bihar is harnessed primarily thr",
@@ -4328,7 +4388,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 87
   },
   {
     "id": 5071,
@@ -4373,7 +4434,7 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": {
       "questionId": "62",
       "questionStem": "Consider the following statements regarding emerging renewable and future energy projects in Bihar:\n1. Bihar's first floating solar power plant was commissioned on a pond reservoir at Kadirabad in Dar",
@@ -4399,7 +4460,8 @@
       },
       "linkHashes": {}
     },
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 88
   },
   {
     "id": 5072,
@@ -4444,9 +4506,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 89
   },
   {
     "id": 5073,
@@ -4491,9 +4554,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 90
   },
   {
     "id": 5074,
@@ -4538,9 +4602,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 28
   },
   {
     "id": 5075,
@@ -4585,9 +4650,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 29
   },
   {
     "id": 5076,
@@ -4632,9 +4698,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 91
   },
   {
     "id": 5077,
@@ -4679,9 +4746,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 92
   },
   {
     "id": 5078,
@@ -4726,9 +4794,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 30
   },
   {
     "id": 5079,
@@ -4773,9 +4842,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 31
   },
   {
     "id": 5080,
@@ -4820,9 +4890,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 93
   },
   {
     "id": 5081,
@@ -4867,9 +4938,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 94
   },
   {
     "id": 5082,
@@ -4914,9 +4986,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 95
   },
   {
     "id": 5083,
@@ -4961,9 +5034,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 32
   },
   {
     "id": 5084,
@@ -5008,9 +5082,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 96
   },
   {
     "id": 5085,
@@ -5055,9 +5130,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 97
   },
   {
     "id": 5086,
@@ -5102,9 +5178,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 98
   },
   {
     "id": 5087,
@@ -5149,9 +5226,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 33
   },
   {
     "id": 5088,
@@ -5196,9 +5274,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 34
   },
   {
     "id": 5089,
@@ -5243,9 +5322,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 99
   },
   {
     "id": 5090,
@@ -5290,9 +5370,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 35
   },
   {
     "id": 5091,
@@ -5337,9 +5418,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 100
   },
   {
     "id": 5092,
@@ -5384,9 +5466,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 36
   },
   {
     "id": 5093,
@@ -5431,9 +5514,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 101
   },
   {
     "id": 5094,
@@ -5478,9 +5562,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 37
   },
   {
     "id": 5095,
@@ -5525,9 +5610,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 102
   },
   {
     "id": 5096,
@@ -5572,9 +5658,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 103
   },
   {
     "id": 5097,
@@ -5619,9 +5706,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 38
   },
   {
     "id": 5098,
@@ -5666,9 +5754,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 39
   },
   {
     "id": 5099,
@@ -5713,9 +5802,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 104
   },
   {
     "id": 5100,
@@ -5760,9 +5850,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 105
   },
   {
     "id": 5101,
@@ -5807,9 +5898,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 40
   },
   {
     "id": 5102,
@@ -5854,9 +5946,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 41
   },
   {
     "id": 5103,
@@ -5901,9 +5994,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 106
   },
   {
     "id": 5104,
@@ -5948,9 +6042,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 42
   },
   {
     "id": 5105,
@@ -5995,9 +6090,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 107
   },
   {
     "id": 5106,
@@ -6042,9 +6138,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 108
   },
   {
     "id": 5107,
@@ -6089,9 +6186,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 43
   },
   {
     "id": 5108,
@@ -6136,9 +6234,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 109
   },
   {
     "id": 5109,
@@ -6183,9 +6282,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 110
   },
   {
     "id": 5110,
@@ -6230,9 +6330,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 44
   },
   {
     "id": 5111,
@@ -6277,9 +6378,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 45
   },
   {
     "id": 5112,
@@ -6324,9 +6426,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 111
   },
   {
     "id": 5113,
@@ -6371,9 +6474,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 112
   },
   {
     "id": 5114,
@@ -6418,9 +6522,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 113
   },
   {
     "id": 5115,
@@ -6465,9 +6570,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 114
   },
   {
     "id": 5116,
@@ -6512,9 +6618,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 46
   },
   {
     "id": 5117,
@@ -6559,9 +6666,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 47
   },
   {
     "id": 5118,
@@ -6606,9 +6714,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 115
   },
   {
     "id": 5119,
@@ -6653,9 +6762,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 48
   },
   {
     "id": 5120,
@@ -6700,9 +6810,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 116
   },
   {
     "id": 5121,
@@ -6747,9 +6858,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Assertion-Reason"
+    "qstyle": "Assertion-Reason",
+    "sequenceOrder": 117
   },
   {
     "id": 5122,
@@ -6794,9 +6906,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 49
   },
   {
     "id": 5123,
@@ -6841,9 +6954,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 118
   },
   {
     "id": 5124,
@@ -6888,9 +7002,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 119
   },
   {
     "id": 5125,
@@ -6935,9 +7050,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 50
   },
   {
     "id": 5126,
@@ -6982,9 +7098,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Direct Fact"
+    "qstyle": "Direct Fact",
+    "sequenceOrder": 51
   },
   {
     "id": 5127,
@@ -7029,9 +7146,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 120
   },
   {
     "id": 5128,
@@ -7076,9 +7194,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 52
   },
   {
     "id": 5129,
@@ -7123,9 +7242,10 @@
     "originalTier": "Medium",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Match the Following"
+    "qstyle": "Match the Following",
+    "sequenceOrder": 53
   },
   {
     "id": 5130,
@@ -7170,9 +7290,10 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 121
   },
   {
     "id": 5131,
@@ -7217,8 +7338,9 @@
     "originalTier": "Hard",
     "originalTopicId": 23,
     "originalTopicName": "Bihar Geography",
-    "examTarget": "UPSC_CSE_PRELIMS",
+    "examTarget": "BPSC_CCE",
     "provenance": "UPSC_EXPERT_PREDICTIVE",
-    "qstyle": "Statement Based"
+    "qstyle": "Statement Based",
+    "sequenceOrder": 122
   }
 ]

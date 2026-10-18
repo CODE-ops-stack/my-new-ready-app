@@ -31,7 +31,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 1,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5493,
@@ -65,7 +69,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 2,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5494,
@@ -99,7 +107,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 3,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5495,
@@ -133,7 +145,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 4,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5496,
@@ -167,7 +183,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 5,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5497,
@@ -201,7 +221,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 6,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5498,
@@ -235,7 +259,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 7,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5499,
@@ -269,7 +297,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 8,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5500,
@@ -303,7 +335,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 9,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5501,
@@ -337,7 +373,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 10,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5502,
@@ -371,7 +411,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 11,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5503,
@@ -405,7 +449,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 12,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5504,
@@ -439,7 +487,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 13,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5505,
@@ -473,7 +525,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 14,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5506,
@@ -507,7 +563,11 @@
         "trapType": "Geomorphic Inversion Trap",
         "dissection": "Avoid confusing calcareous vs siliceous ooze distribution."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 15,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5507,
@@ -541,7 +601,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 16,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5508,
@@ -575,7 +639,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 17,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5509,
@@ -609,7 +677,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 18,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5510,
@@ -643,7 +715,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 19,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5511,
@@ -677,7 +753,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 20,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5512,
@@ -711,7 +791,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 21,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5513,
@@ -745,7 +829,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 22,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5514,
@@ -779,7 +867,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 23,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5515,
@@ -813,7 +905,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 24,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5516,
@@ -847,7 +943,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 25,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5517,
@@ -881,7 +981,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 26,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5518,
@@ -915,7 +1019,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 27,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5519,
@@ -949,7 +1057,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 28,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5520,
@@ -983,7 +1095,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 29,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5521,
@@ -1017,7 +1133,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 30,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5522,
@@ -1051,7 +1171,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 31,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5523,
@@ -1085,7 +1209,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 32,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5524,
@@ -1119,7 +1247,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 33,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5525,
@@ -1153,7 +1285,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 34,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5526,
@@ -1187,7 +1323,11 @@
         "trapType": "Physical Inversion Trap",
         "dissection": "Avoid confusing high index with low index jet stream dynamics."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 35,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5527,
@@ -1195,7 +1335,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Bottom Relief of the Atlantic Ocean:\n1. The Mid-Atlantic Ridge divides the Atlantic into two deep parallel basins (Western and Eastern troughs).\n2. The Walvis Ridge branches off the Mid-Atlantic Ridge toward southwest Africa, blocking cold Antarctic bottom water from entering the Angola Basin.\n3. The Romanche Fracture Zone permits cold Antarctic deep water to cross from the western to eastern Atlantic across the equator.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1221,7 +1361,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 36,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5528,
@@ -1229,7 +1373,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Bottom Relief of the Indian Ocean:\n1. The Carlsberg Ridge extends northwestward from the Chagos archipelago toward the Gulf of Aden.\n2. The Ninety East Ridge is a 5,000-km continuous aseismic volcanic ridge running along the 90°E meridian.\n3. The Kerguelen Plateau in the southern Indian Ocean represents a massive submarine Large Igneous Province (LIP).\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1255,7 +1399,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 37,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5529,
@@ -1263,7 +1411,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Pelagic Ocean Deposits:\n1. Calcareous oozes (Globigerina, Pteropod) dissolve completely below the Carbonate Compensation Depth (CCD, ~4,500m).\n2. Siliceous oozes (Diatom, Radiolarian) are insoluble in cold deep water and accumulate in high-latitude circumpolar belts and equatorial upwelling zones.\n3. Red Clay (Pelagic clay) covers the deepest abyssal floor (below 5,000m), composed of insoluble windblown dust, volcanic ash, and meteorite dust.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1289,7 +1437,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 38,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5530,
@@ -1297,7 +1449,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Atmospheric Stability and Lapse Rates:\n1. An air parcel is in 'Absolute Stability' when the Environmental Lapse Rate (ELR) is less than the Saturated Adiabatic Lapse Rate (SALR).\n2. An air parcel is in 'Absolute Instability' when the ELR is greater than the Dry Adiabatic Lapse Rate (DALR).\n3. 'Conditional Instability' occurs when the ELR lies between the SALR and the DALR.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1323,7 +1475,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 39,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5531,
@@ -1331,7 +1487,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Jacob Bjerknes's Polar Front Theory of Extratropical Cyclones:\n1. The incipient wave forms along the polar front separating warm subtropical maritime air from cold polar continental air.\n2. In the mature stage, a distinct warm sector exists between the advancing cold front and the retreating warm front.\n3. Occlusion occurs when the faster-moving cold front overtakes the warm front, lifting the warm air completely off the ground.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1357,7 +1513,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 40,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5532,
@@ -1365,7 +1525,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Walker Circulation and ENSO:\n1. Under normal conditions, trade winds maintain a deep thermocline in the Western Pacific and a shallow thermocline with vigorous upwelling off Peru.\n2. During an El Niño event, the Southern Oscillation Index (SOI) is strongly negative, accompanied by positive SST anomalies in the central-eastern Pacific.\n3. During a La Niña event, trade winds intensify, pushing cold upwelling water far westward across the equatorial Pacific.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1391,7 +1551,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 41,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5533,
@@ -1399,7 +1563,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Indian Ocean Dipole (IOD):\n1. A Positive IOD features cooler-than-normal SSTs in the eastern equatorial Indian Ocean and warmer-than-normal SSTs in the western equatorial Indian Ocean.\n2. A Positive IOD typically enhances summer monsoon rainfall over India and often counteracts the drying effects of a concurrent El Niño.\n3. A Negative IOD brings unseasonably severe droughts and forest fires to eastern Australia and Indonesia.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1425,7 +1589,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 42,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5534,
@@ -1433,7 +1601,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding C.W. Thornthwaite's 1948 Rational Classification of Climate:\n1. It calculates Potential Evapotranspiration (PET) using monthly mean temperatures and day-length latitude adjustments.\n2. The Moisture Index (Im) integrates both moisture surplus and moisture deficiency relative to water need (PET).\n3. When precipitation exceeds PET, soil moisture storage is recharged until field capacity is reached, after which water surplus generates river runoff.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1459,7 +1627,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 43,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5535,
@@ -1467,7 +1639,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Glenn Trewartha's World Climatic Classification:\n1. It is a modified, simplified empirical classification based on W.M. Koppen's system.\n2. It recognizes 6 major climatic groups: A (Tropical), B (Dry), C (Subtropical), D (Temperate), E (Boreal), and F (Polar).\n3. It requires that at least 8 months have mean temperatures of 10°C or above for a climate to be classified as Subtropical (C).\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1493,7 +1665,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 44,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5536,
@@ -1501,7 +1677,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Coral Reef Theories:\n1. Charles Darwin's Subsidence Theory requires continuous, slow tectonic subsidence of the oceanic volcanic foundation.\n2. Reginald Daly's Glacial Control Theory emphasizes sea-level fluctuations during the Pleistocene ice ages without requiring crustal subsidence.\n3. W.M. Davis supported Darwin's theory by demonstrating that embayed drowned valleys behind barrier reefs prove tectonic subsidence of the central island.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1527,7 +1703,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 45,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5537,
@@ -1535,7 +1715,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Urban Heat Island (UHI) and Urban Microclimate:\n1. High thermal admittance and heat capacity of construction materials (concrete, brick, asphalt) store daytime insolation and release sensible heat slowly at night.\n2. Building geometry creates 'Urban Canyons' that reduce the sky view factor (SVF), trapping multiple-reflected longwave radiation.\n3. Urban vegetation increases the Bowen Ratio, causing urban temperatures to drop 10°C below surrounding forests.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1561,7 +1741,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 46,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5538,
@@ -1569,7 +1753,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Thermohaline Circulation (THC):\n1. The sinking of dense, cold, saline surface waters in the Norwegian, Greenland, and Labrador Seas forms North Atlantic Deep Water (NADW).\n2. The sinking of dense brine-enriched water in the Weddell and Ross Seas forms Antarctic Bottom Water (AABW).\n3. Influx of massive freshwater from melting Greenland glaciers could weaken or collapse the Atlantic Meridional Overturning Circulation (AMOC) by lowering surface salinity and inhibiting sinking.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1595,7 +1779,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 47,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5539,
@@ -1603,7 +1791,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Madden-Julian Oscillation (MJO):\n1. It is an eastward-propagating tropical planetary wave of convective rainfall and winds with an intra-seasonal periodicity of 30 to 60 days.\n2. When the convective active phase of the MJO traverses the Indian Ocean, it triggers enhanced active spells of the Indian summer monsoon.\n3. When the suppressed dry phase of the MJO sits over the Indian Ocean, it can induce severe monsoon break spells.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1629,7 +1817,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 48,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5540,
@@ -1637,7 +1829,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Deep-Sea Polymetallic Nodules:\n1. They are found predominantly on abyssal plains between 4,000 and 6,000 meters depth in areas of extremely low sedimentation rates.\n2. They contain high concentrations of strategic critical minerals: Manganese, Nickel, Copper, and Cobalt.\n3. India has been allocated a pioneer exploration area in the Central Indian Ocean Basin (CIOB) by the International Seabed Authority (ISA).\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1663,7 +1855,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 49,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5541,
@@ -1671,7 +1867,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Maritime Baseline and Delimitation under UNCLOS:\n1. The 'Normal Baseline' is the low-water line along the coast as marked on large-scale charts officially recognized by the coastal state.\n2. 'Straight Baselines' may be drawn connecting appropriate points where the coastline is deeply indented or has a fringe of islands along its immediate vicinity.\n3. Waters on the landward side of the baseline are designated as 'Internal Waters', where foreign ships possess an automatic right of innocent passage without permission.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1697,7 +1893,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 50,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5542,
@@ -1705,7 +1905,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Ocean Water Masses and Stratification:\n1. The ocean water column is generally divided into three layers: Surface Mixed Layer, Pycnocline (density gradient) / Thermocline (temperature gradient), and Deep Cold Layer.\n2. In tropical and subtropical oceans, a permanent thermocline exists year-round between 200m and 1,000m depth.\n3. In polar oceans, surface water is almost as cold as deep water, meaning the permanent thermocline is absent.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1731,7 +1931,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 51,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5543,
@@ -1739,7 +1943,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Jet Streams and the Index Cycle:\n1. Polar Front Jet Streams occur in the upper troposphere near the tropopause at altitudes of 9 to 12 km.\n2. In a 'Low Index' circulation pattern, wide-amplitude Rossby waves meander strongly north and south, transferring massive sensible heat and creating cut-off cyclones and anticyclones.\n3. In a 'High Index' circulation pattern, jet stream winds blow in a straight west-to-east zonal track, restricting north-south heat exchange.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1765,7 +1969,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 52,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5544,
@@ -1773,7 +1981,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Tropical Cyclones and Wave Fronts:\n1. Tropical cyclones require warm ocean sea surface temperatures of at least 26.5°C to a depth of ~50 meters to supply latent heat of condensation.\n2. Unlike mid-latitude temperate cyclones, tropical cyclones are thermal engines that possess NO frontogenetic air mass fronts or occluded boundaries.\n3. Tropical cyclones can readily form directly on the equator (0°) because the Coriolis force is at its absolute maximum there.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1799,7 +2007,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 53,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5545,
@@ -1807,7 +2019,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Ocean Water Salinity Distribution:\n1. The highest open-ocean surface salinities are found in the subtropical high-pressure belts (horse latitudes around 20° to 35° N/S) where high evaporation exceeds low precipitation.\n2. In the equatorial doldrums, surface salinity is lower despite warm temperatures due to heavy cloud cover, daily convective rainfall, and high humidity.\n3. The Baltic Sea exhibits extremely high surface salinity (>40 psu) due to permanent freezing.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1833,7 +2045,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 54,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5546,
@@ -1841,7 +2057,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Thornthwaite's 1931 vs 1948 Climatic Classifications:\n1. The 1931 classification was empirical and utilized Precipitation Effectiveness (P/E) and Temperature Efficiency (T/E) indices.\n2. The 1948 classification was based on the rational concept of water balance, introducing Potential Evapotranspiration (PET) as the primary index of thermal efficiency.\n3. Both the 1931 and 1948 systems classify the world into identical boundaries that never differ from W.M. Koppen's map.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1867,7 +2083,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 55,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   },
   {
     "id": 5547,
@@ -1875,7 +2095,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding the Earth's Planetary Heat Budget and Radiative Balance:\n1. The Earth's planetary albedo is approximately 30-31%, meaning nearly one-third of incoming solar insolation is reflected back to space without heating the earth.\n2. Low latitudes between 38°N and 38°S exhibit a net radiative surplus, while high polar latitudes exhibit a net radiative deficit.\n3. If atmospheric winds and oceanic currents did not transport heat poleward, the tropics would become progressively hotter and the poles progressively colder.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1901,7 +2121,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 56,
+    "subTopic": "Geographical Thought",
+    "provenance": "expert_authored"
   },
   {
     "id": 5548,
@@ -1909,7 +2133,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Ekman Transport and Coastal Upwelling:\n1. Wind blowing across the ocean surface drives surface water 45° to the right of the wind in the Northern Hemisphere due to Coriolis deflection.\n2. The net water column transport (Ekman transport) moves at 90° to the right of the wind direction in the Northern Hemisphere.\n3. Along the coast of Peru, equatorward winds drive Ekman transport offshore (westward), forcing cold, nutrient-rich deep water to upwell along the coast.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1935,7 +2159,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 57,
+    "subTopic": "Models & Theories",
+    "provenance": "expert_authored"
   },
   {
     "id": 5549,
@@ -1943,7 +2171,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Coral Bleaching and Marine Heatwaves:\n1. Coral bleaching occurs when heat-stressed corals expel their symbiotic endosymbiotic dinoflagellates (zooxanthellae).\n2. Corals derive up to 90% of their metabolic energy requirements from photosynthetic products provided by zooxanthellae.\n3. Ocean acidification enhances calcification rates, allowing bleached corals to rebuild calcium carbonate skeletons twice as fast.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1969,7 +2197,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 58,
+    "subTopic": "Research Methods",
+    "provenance": "expert_authored"
   },
   {
     "id": 5550,
@@ -1977,7 +2209,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Atmospheric Frontogenesis and Frontolysis:\n1. Frontogenesis is the process of creating or intensifying a horizontal temperature gradient in the atmosphere.\n2. Kinematic deformation fields (stretching and shearing of air parcels) with confluence along the axis of dilatation are primary dynamic drivers of frontogenesis.\n3. Frontolysis occurs when divergent wind fields or turbulent mixing destroy the horizontal temperature gradient across a frontal zone.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -2003,7 +2235,11 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 59,
+    "subTopic": "Cartography Advanced",
+    "provenance": "expert_authored"
   },
   {
     "id": 5551,
@@ -2011,7 +2247,7 @@
     "topicName": "Advanced Ocean Topography & Climatology Models",
     "section": "🎓 UPSC Geography Optional",
     "tier": "Hard",
-    "format": "Modern Count",
+    "format": "Statement Based",
     "stem": "Consider the following statements regarding Global Climate Change and Ocean-Atmosphere Feedbacks in the Anthropocene:\n1. Over 90% of the excess heat accumulated in the Earth system due to anthropogenic greenhouse gas emissions has been absorbed by the global oceans.\n2. Thermal expansion of warming ocean water and continental glacier/ice-sheet melt are the two dominant contributors to global mean sea-level rise.\n3. Ocean deoxygenation occurs as warmer surface waters hold less dissolved oxygen and increased stratification reduces vertical ocean ventilation.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -2037,6 +2273,10 @@
         "trapType": "Total Rejection Trap",
         "dissection": "Do not over-eliminate authentic canonical oceanographic and climatological laws."
       }
-    ]
+    ],
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 60,
+    "subTopic": "GIS Applications",
+    "provenance": "expert_authored"
   }
 ]

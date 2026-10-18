@@ -34,7 +34,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -43,7 +43,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e55ab518",
       "questionStem": "Which of the following atmospheric layers experiences a steady decrease in temperature with altitude, contains about 90% of the atmosphere's mass, and marks its upper boundary with the tropopause?",
@@ -68,7 +68,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 1141,
@@ -105,7 +106,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_949e6bc8",
       "questionStem": "Which of the following gases constitutes the highest percentage by volume in the Earth's dry atmosphere after Nitrogen and Oxygen, and plays a crucial biological role despite its relatively low concentration?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 46
   },
   {
     "id": 1142,
@@ -176,7 +178,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d4085e85",
       "questionStem": "Which of the following layers of the atmosphere is characterized by a steady decrease in temperature with increasing altitude, and contains roughly 85% of the total mass of the atmospheric air?",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 1143,
@@ -247,7 +250,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c2025793",
       "questionStem": "Which of the following atmospheric layers houses the ozone layer responsible for absorbing harmful ultraviolet radiation, and features a temperature profile that increases with altitude?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 3
   },
   {
     "id": 1144,
@@ -318,7 +322,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e73312e4",
       "questionStem": "Consider the following statements regarding the vertical structure of the atmosphere:\n1. The tropopause is characterized by isothermal conditions where temperature ceases to decrease with height.\n2. The stratosphere contains the ozone layer which absorbs ultraviolet radiation, causing temperatures to decrease with altitude in this layer.\n3. The ionosphere is a sub-layer within the mesosphere that reflects radio waves back to the Earth's surface.\nHow many of the above statements are correct?",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 47
   },
   {
     "id": 1145,
@@ -389,7 +394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_99195c36",
       "questionStem": "Consider the following pairs of cloud types and their typical physical characteristics:\n1. Cirrus: High-altitude, detached clouds formed of ice crystals, presenting a fibrous or silky appearance.\n2. Cumulus: Low-altitude vertical clouds with flat bases and dome-shaped cauliflower tops.\n3. Nimbostratus: Dark, gray, layered rain clouds that cover the entire sky and produce continuous precipitation.\nHow many pairs are correctly matched?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 48
   },
   {
     "id": 1146,
@@ -460,7 +466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_df97d544",
       "questionStem": "Consider the following statements regarding the Earth's Heat Budget:\n1. Albedo of the Earth is approximately 30%, which means 30 units of incoming shortwave radiation are reflected directly back to space without altering the terrestrial heating.\n2. The atmosphere is heated more by terrestrial radiation from below than by incoming solar radiation from above.\n3. Conduction is the primary mechanism for transferring heat through the entire depth of the troposphere.\nHow many of the above statements are correct?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 49
   },
   {
     "id": 1147,
@@ -531,7 +538,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4a1ad23e",
       "questionStem": "Consider the following statements regarding cloud types and precipitation:\n1. Cumulonimbus clouds are vertically extended clouds associated with heavy downpours, lightning, and occasional hail.\n2. Nimbostratus clouds form dark, low-level grey layers that produce continuous, steady precipitation over wide areas.\n3. Cirrus clouds are composed of ice crystals and frequently generate prolonged periods of moderate rain.\nHow many of the above statements are correct?",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 50
   },
   {
     "id": 1148,
@@ -602,7 +610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Standard",
     "originalTopicId": 17,
     "originalTopicName": "Climatology",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3fc77f41",
       "questionStem": "Which of the following is NOT correct regarding the Earth's Heat Budget?",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 51
   },
   {
     "id": 1149,
@@ -673,7 +682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred2_q7r8s9t",
       "questionStem": "The opening of the Northwest Passage (NWP) due to climate change has intensified a jurisdictional dispute between Canada and the United States. Canada considers the waters of the NWP as its 'internal waters', whereas the United States claims they are:",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 52
   },
   {
     "id": 1150,
@@ -744,7 +754,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_7",
       "questionStem": "Consider the following pairs of Jet Streams and their characteristics over India: 1. Subtropical Westerly Jet: Present over the northern Indian plains during winter. 2. Tropical Easterly Jet: Develops over peninsular India during the southwest monsoon season. 3. Somali Jet: A low-level jet stream that weakens the Indian monsoon. How many of the above pairs are correctly matched?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 1151,
@@ -815,7 +826,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_clim_14",
       "questionStem": "Consider the following pairs of phenomena and their primary drivers: 1. Mango Showers: Pre-monsoon thunderstorms 2. Winter Rain in Punjab: Subtropical Westerly Jet Stream 3. Tamil Nadu Winter Rain: South-West Monsoon Winds How many of the above pairs are correctly matched?",
@@ -849,7 +860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 1152,
@@ -886,7 +898,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "sequence",
+    "format": "Sequence Ordering",
     "qstyle": "sequence",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9118996e",
       "questionStem": "Consider the following phenomena associated with different layers of the atmosphere:\n1. Aurora Borealis and Aurora Australis\n2. Formation of cirrus and cumulonimbus clouds\n3. Shooting stars (meteors disintegrating)\n4. Concentration of the maximum density of ozone molecules\nMatch the above phenomena with their respective atmospheric layers in the correct sequence:\n- Mesosphere\n- Thermosphere\n- Troposphere\n- Stratosphere",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 53
   },
   {
     "id": 1153,
@@ -957,7 +970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -966,7 +979,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr_01",
       "questionStem": "The recent strong El Niño event of 2023-2024 significantly impacted global weather patterns. In the context of the Indian monsoon, an El Niño event typically causes:",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 1154,
@@ -1028,7 +1042,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1037,7 +1051,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr_16",
       "questionStem": "The Sukapaika river's drying up was primarily attributed to:",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 55
   },
   {
     "id": 1155,
@@ -1099,7 +1114,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1108,7 +1123,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current1_7f8a9b2c",
       "questionStem": "The 2023-24 El Niño event significantly impacted global weather. In the context of ENSO, consider the following statements regarding the Walker Circulation during a strong El Niño: 1. The trade winds weaken or even reverse direction. 2. The thermocline in the eastern Pacific becomes shallower. 3. High pressure anomalies develop over the western Pacific (Indonesia/Australia). Which of the statements given above is/are correct?",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 1156,
@@ -1170,7 +1186,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1179,7 +1195,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current1_9a5b3d6c",
       "questionStem": "Devastating wildfires in places like Maui (Hawaii) and central Chile (2023-2024) were significantly exacerbated by strong downslope winds. These warm, dry winds, characteristic of the leeward side of a mountain range due to adiabatic compression, are generically known as:",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 56
   },
   {
     "id": 1157,
@@ -1241,7 +1258,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1250,7 +1267,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current2_9q0r1s2t",
       "questionStem": "Global discussions on Geoengineering often mention 'Stratospheric Aerosol Injection' (SAI). Geographically, what is the intended mechanism of this intervention?",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 57
   },
   {
     "id": 1158,
@@ -1312,7 +1330,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1321,7 +1339,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_p6q7r8",
       "questionStem": "The prolonged 'Triple-Dip' La Niña (2020-2023) exhibited atypical impacts on the Indian subcontinent. Which anomaly was prominently observed during this period?",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 58
   },
   {
     "id": 1159,
@@ -1383,7 +1402,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1392,7 +1411,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_f8g9h0",
       "questionStem": "In 2024, the IMD revised its criteria for declaring a heatwave in India. A heatwave in the plains is declared when the maximum temperature reaches at least 40°C and:",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 4
   },
   {
     "id": 1160,
@@ -1454,7 +1474,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1463,7 +1483,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current4_c9d0e1f2",
       "questionStem": "Consider the following statements regarding the rare 'triple-dip' La Niña that ended in early 2023: 1. It refers to three consecutive Northern Hemisphere winters of La Niña conditions. 2. It generally leads to suppressed monsoon rainfall in the Indian subcontinent. Which of the statements given above is/are correct?",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 1161,
@@ -1525,7 +1546,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -1534,7 +1555,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_inter_15",
       "questionStem": "Match the atmospheric phenomenon with its resultant impact on the Indian economy: 1. Tropical Easterly Jet (TEJ) : Triggers the sudden burst of the Southwest Monsoon. 2. Sub-Tropical Westerly Jet (STWJ) : Steers tropical cyclones away from the eastern coast. 3. ENSO warm phase : Reduces hydroelectricity generation capacity in Peninsular India. How many pairs are correct?",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 1162,
@@ -1596,7 +1618,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -1605,7 +1627,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink2_4d7a1",
       "questionStem": "Assertion (A): The phenomenon of 'Urban Heat Island' (UHI) can lead to localized increases in precipitation downwind of large cities. Reason (R): The increased thermal energy in urban centers creates strong convection currents, while urban aerosols act as cloud condensation nuclei.",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 1163,
@@ -1667,7 +1690,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -1676,7 +1699,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink2_9e6d4",
       "questionStem": "Assertion (A): The Coromandel coast of India is highly vulnerable to devastating agricultural losses during the months of October and November. Reason (R): During these months, the retreating southwest monsoon winds pick up moisture from the Bay of Bengal and strike the coast as violent tropical cyclones.",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 1164,
@@ -1738,7 +1762,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -1747,7 +1771,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink3_f8g9h0",
       "questionStem": "Consider the following pairs of atmospheric features and their aviation impacts: 1. Subtropical Jet Stream : Utilized by eastbound intercontinental flights to reduce travel time and fuel consumption 2. Tropopause : Commercial jets cruise near this boundary to avoid turbulent tropospheric weather and maximize engine efficiency 3. Doldrums (ITCZ) : Characterized by frequent clear skies and stable air, ideal for aviation routes How many of the above pairs are correctly matched?",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 1165,
@@ -1809,7 +1834,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1818,7 +1843,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink4_8s9t0u",
       "questionStem": "With reference to the phenomenon of Urban Heat Islands (UHI), consider the following impacts on urban hydrology: 1. UHI can alter local wind patterns and increase convective instability, often leading to a localized increase in precipitation downwind of the city. 2. The widespread presence of impervious surfaces exacerbates UHI but also increases baseflow in urban streams during dry periods. Which of the statements given above is/are correct?",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 1166,
@@ -1880,7 +1906,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1889,7 +1915,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink4_4c5d6e",
       "questionStem": "Consider the following interlinkages between atmospheric phenomena and aviation economics: 1. The presence of the Subtropical Jet Stream forces commercial aircraft flying from North America to Europe to take significantly longer routes, increasing fuel costs. 2. Increased atmospheric temperatures due to climate change reduce air density, which can restrict the maximum takeoff weight of cargo aircraft at low-altitude tropical airports. Which of the statements given above is/are correct?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 1167,
@@ -1951,7 +1978,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -1960,7 +1987,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_q3r4s5",
       "questionStem": "How does the 'Tropical Easterly Jet' (TEJ) correlate with agricultural prospects in India?",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 59
   },
   {
     "id": 1168,
@@ -2022,7 +2050,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2031,7 +2059,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr8_p6q7r8",
       "questionStem": "Under the National Green Hydrogen Mission, major ports like Kandla, Paradip, and Tuticorin are being developed as Green Hydrogen hubs. What is the primary geographic rationale for choosing these specific coastal topographies?",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 60
   },
   {
     "id": 1169,
@@ -2093,7 +2122,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2102,7 +2131,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr8_t6u7v8",
       "questionStem": "The Jaisalmer Wind Park is situated in the Thar Desert. While the flat desert topography allows for unimpeded wind flow, what micro-climatic phenomenon significantly boosts wind speeds in this region during the pre-monsoon summer months?",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 61
   },
   {
     "id": 1170,
@@ -2164,7 +2194,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2173,7 +2203,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr9_v2w3x4",
       "questionStem": "With reference to the recent severe heatwaves across India in 2024, consider the term 'Wet-Bulb Temperature'. Which of the following statements is/are correct? 1. It is a measure that combines dry air temperature with humidity to indicate heat stress on the human body. 2. A wet-bulb temperature of 35 degrees Celsius is considered the theoretical upper limit of human adaptability. 3. High wet-bulb temperatures are more common in the dry, arid regions of Rajasthan compared to the coastal regions of Odisha. Select the correct answer:",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 62
   },
   {
     "id": 1171,
@@ -2235,7 +2266,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -2244,7 +2275,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr9_b8c9d0",
       "questionStem": "Cyclone Remal (May 2024) struck the Sundarbans region. How do mangrove ecosystems like the Sundarbans act as bio-shields against such severe cyclonic storms? 1. Their complex pneumatophore root systems effectively reduce the speed and height of storm surges. 2. They prevent the ingress of saltwater into inland freshwater aquifers during cyclones. 3. They reduce the wind energy of the cyclone through canopy friction. How many of the above statements are correct?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 1172,
@@ -2306,7 +2338,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -2315,7 +2347,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr9_f8g9h0",
       "questionStem": "Regarding the phenomena of 'Atmospheric Rivers', which have been increasingly linked to extreme rainfall events globally and studied in the context of recent Indian coastal floods, consider the following statements: 1. They are narrow, elongated corridors of concentrated moisture transport in the atmosphere. 2. In India, they are solely responsible for the winter rainfall along the Coromandel coast. 3. Climate change increases the moisture-carrying capacity of these rivers, making storm landfalls more devastating. How many of the above statements are correct?",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 1173,
@@ -2377,7 +2410,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2386,7 +2419,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_m3n4o5",
       "questionStem": "Western Disturbances are a key climatic feature for Indian agriculture. How do they interlink with cropping patterns?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 63
   },
   {
     "id": 1174,
@@ -2448,7 +2482,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2457,7 +2491,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_s9t0u1",
       "questionStem": "The phenomenon of 'Mango Showers' is an example of pre-monsoon precipitation. What is its agricultural significance?",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 5
   },
   {
     "id": 1175,
@@ -2519,7 +2554,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2528,7 +2563,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_b8c9d0",
       "questionStem": "Consider the following pairs of climatic phenomena and their primary agricultural impact: 1. Nor'westers (Kal Baisakhi) : Helpful for Jute and Aus rice in Bengal 2. Blossom Showers : Helpful for Coffee plantations in Kerala/Karnataka 3. Loo : Beneficial for the ripening of Rabi crops in North India Which of the pairs given above is/are correctly matched?",
@@ -2553,7 +2588,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 1176,
@@ -2590,7 +2626,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2599,7 +2635,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink5_k7l8m9",
       "questionStem": "The Madden-Julian Oscillation (MJO) affects tropical weather systems, including the Indian monsoon. What is the impact of a favorable MJO phase on Indian agriculture?",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 64
   },
   {
     "id": 1177,
@@ -2661,7 +2698,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2670,7 +2707,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_a1b2c3",
       "questionStem": "Consider the following statements regarding the 'Dry Corridor' of Central America and climate-induced migration: 1. It is a region characterized by severe droughts exacerbated by the El Niño Southern Oscillation (ENSO). 2. The primary driver of out-migration from this region is the loss of manufacturing jobs due to extreme heat. 3. Climate stress in this region often leads to complex migration patterns, including large-scale movements towards North America. Which of the statements given above is/are correct?",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 1178,
@@ -2732,7 +2770,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2741,7 +2779,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_y5z6a7",
       "questionStem": "With reference to the 'Urban Heat Island' (UHI) effect and climate change, consider the following statements: 1. The UHI effect exacerbates the impact of global heatwaves, making densely built informal settlements particularly uninhabitable. 2. This exacerbated heat stress is increasingly acting as a push factor, driving 'reverse migration' from urban slums back to rural areas during peak summer. 3. The UHI effect uniformly impacts all socio-economic groups within a city, leading to a coordinated out-migration pattern. Which of the statements given above is/are correct?",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 1179,
@@ -2803,7 +2842,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2812,7 +2851,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_h4i5j6",
       "questionStem": "Small Island Developing States (SIDS) face existential threats from climate change. In this context, which of the following best defines 'Trapped Populations'? 1. Communities that have successfully relocated to higher ground within their island nations. 2. Vulnerable populations who lack the financial or social resources to migrate away from severe climate risks. 3. Populations that are legally prohibited from emigrating to neighboring developed countries. Select the correct answer using the code given below:",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 65
   },
   {
     "id": 1180,
@@ -2874,7 +2914,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2883,7 +2923,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_q3r4s5",
       "questionStem": "In international law, how are individuals who cross international borders due to climate change-induced disasters currently classified? 1. They are officially recognized as 'Climate Refugees' under the 1951 UN Refugee Convention. 2. They possess the same legal rights to non-refoulement as those fleeing political persecution. 3. There is currently no binding international legal framework specifically protecting people displaced across borders primarily by climate change. Select the correct answer using the code given below:",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 66
   },
   {
     "id": 1181,
@@ -2945,7 +2986,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2954,7 +2995,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_w9x0y1",
       "questionStem": "How does the intensification of tropical cyclones interact with coastal settlement geography in South Asia? 1. The increasing frequency of 'super cyclones' is causing temporary displacement to evolve into permanent abandonment of highly exposed coastal fringes. 2. Cyclone-resistant housing programs have completely halted climate-induced out-migration from the Bay of Bengal coast. 3. The loss of coastal mangroves exacerbates the vulnerability of these settlements to storm surges. Which of the statements given above are correct?",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 67
   },
   {
     "id": 1182,
@@ -3016,7 +3058,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3025,7 +3067,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_z2a3b4",
       "questionStem": "The concept of 'Solastalgia' is increasingly relevant in the context of climate change. What does it refer to in relation to human settlements? 1. The physical process of soil salinization in coastal settlements. 2. The distress and psychological trauma caused by the environmental degradation of one's home environment. 3. A specific legal framework for granting asylum to climate migrants. Select the correct answer using the code given below:",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 68
   },
   {
     "id": 1183,
@@ -3087,7 +3130,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -3096,7 +3139,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink8_c5d6e7",
       "questionStem": "Consider the following statements regarding the migration patterns resulting from the Amazon rainforest deforestation and associated micro-climate changes: 1. Deforestation disrupts the local hydrological cycle, leading to agricultural failure for smallholder farmers. 2. This failure often triggers a rural-to-urban migration, swelling the populations of informal settlements (favelas) in Amazonian cities like Manaus. 3. The primary migrants are large-scale cattle ranchers relocating their operations. Which of the statements given above is/are correct?",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 1184,
@@ -3158,7 +3202,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Coriolis Force and Geostrophic Wind",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b8a5fa7c",
       "questionStem": "Consider the following statements regarding the Coriolis force and upper-tropospheric winds:\n1. The magnitude of the Coriolis force is directly proportional to the wind speed and the sine of the latitude.\n2. When the pressure gradient force is balanced completely by the Coriolis force, the resultant wind blows parallel to the curved isobars and is termed as geostrophic wind.\n3. The Coriolis force acts at a right angle to the direction of wind motion, deflecting it to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.\nHow many of the above statements are correct?",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 69
   },
   {
     "id": 1185,
@@ -3229,7 +3274,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3238,7 +3283,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Air Masses",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_819ca8d2",
       "questionStem": "Which of the following air mass types is characterized by cold, dry conditions in its source region and is typically found over high-latitude continental areas?",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 6
   },
   {
     "id": 1186,
@@ -3300,7 +3346,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3309,7 +3355,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_424a6d6d",
       "questionStem": "Which of the following climatic groups in Koeppen's classification is primarily characterized by a lack of moisture rather than thermal attributes, and spans both tropical and temperate latitudes?",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 7
   },
   {
     "id": 1187,
@@ -3371,7 +3418,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3380,7 +3427,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Upper-Tropospheric Circulation and Jet Streams",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c108c1f1",
       "questionStem": "Assertion (A): The upper-level tropospheric jet streams flow from west to east in both hemispheres regardless of seasonal shifts.\nReason (R): Jet streams are driven by the strong horizontal pressure gradient force resulting from the steep temperature contrast between the tropics and the polar regions, combined with the Earth's rotation.",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 1188,
@@ -3442,7 +3490,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3451,7 +3499,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Atmospheric Pressure Belts",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5f8c977b",
       "questionStem": "Consider the following statements regarding the subtropical high-pressure belts (Horse Latitudes):\n1. They are located approximately between 30° and 35° north and south latitudes.\n2. They are characterized by descending air currents, clear skies, and calm or light variable winds.\n3. The air descending in these belts originates from the upper-tropospheric poleward movement of air from the equatorial low-pressure zone.\nHow many of the above statements are correct?",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 70
   },
   {
     "id": 1189,
@@ -3513,7 +3562,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3522,7 +3571,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Types of Precipitation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f18e97e8",
       "questionStem": "Consider the following pairs regarding types of precipitation and their associated mechanisms:\n1. Convectional precipitation: Rapid heating of the Earth's surface leading to strong updrafts and heavy afternoon showers.\n2. Orographic precipitation: Moist air forced to ascend a mountain barrier, resulting in heavy precipitation on the windward side and a rain shadow on the leeward side.\n3. Cyclonic precipitation: Warm and cold air masses converging along a front, forcing the less dense warm air to rise over the cold air wedge.\nHow many of the above pairs are correctly matched?",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 71
   },
   {
     "id": 1190,
@@ -3584,7 +3634,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3593,7 +3643,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Air Masses and Source Regions",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f8edabad",
       "questionStem": "Consider the following pairs of air mass source regions and their corresponding classifications:\n1. North American Arctic : Continental Arctic (cA)\n2. Subtropical Oceans : Maritime Tropical (mT)\n3. Northern Siberia in winter : Continental Polar (cP)\n4. Equatorial Oceans : Maritime Equatorial (mE)\nHow many of the given pairs are correctly matched?",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 1191,
@@ -3655,7 +3706,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3664,7 +3715,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Fronts and Frontal Systems",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5a877478",
       "questionStem": "Consider the following statements regarding atmospheric fronts:\n1. A cold front forms when a cold air mass actively advances and wedges beneath a warm air mass, causing abrupt uplift and cumulonimbus cloud development.\n2. A warm front develops when a warm air mass slides gently over a retreating cold air mass, producing widespread stratiform clouds and continuous precipitation.\n3. An occluded front occurs when a cold front overtakes a warm front, lifting the warm air mass completely off the ground.\nHow many of the above statements are correct?",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 72
   },
   {
     "id": 1192,
@@ -3726,7 +3778,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3735,7 +3787,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Temperature Inversion",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9bbb912c",
       "questionStem": "Assertion (A): Surface temperature inversions are most commonly observed during long winter nights under clear skies and calm wind conditions.\nReason (R): Clear skies allow rapid terrestrial longwave radiation to escape into space, while calm winds prevent the vertical mixing of cold surface air with warmer air aloft.",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 1193,
@@ -3797,7 +3850,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3806,7 +3859,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Local Winds",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3f01d8f8",
       "questionStem": "Consider the following pairs of local winds and their characteristic regions:\n1. Chinook : Eastern slopes of the Rocky Mountains\n2. Sirocco : Northward blowing wind from the Sahara into the Mediterranean basin\n3. Mistral : Cold, dry wind blowing down the Rhone valley into the Mediterranean\n4. Foehn : Northern slopes of the Alps\nHow many of the given pairs are correctly matched?",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 1194,
@@ -3868,7 +3922,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3877,7 +3931,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Atmospheric Pressure Belts",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d49413c0",
       "questionStem": "Assertion (A): The subpolar low-pressure belt is thermally induced near the poles, while the polar high-pressure belt is dynamically induced.\nReason (R): Surface convergence of planetary winds creates areas of high pressure, whereas surface divergence associated with rising air masses creates areas of low pressure.",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 1195,
@@ -3939,7 +3994,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3948,7 +4003,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_82f55d8b",
       "questionStem": "Consider the following pairs regarding Koeppen's classification of Indian climates:\n1. Aw: Tropical Savanna covering most of the peninsular plateau.\n2. BShw: Semi-arid steppe climate covering parts of Punjab, Haryana, and western Rajasthan.\n3. Cwg: Monsoon type with dry winters found in the Ganga plain.\nHow many of the above pairs are correctly matched?",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 73
   },
   {
     "id": 1196,
@@ -4010,7 +4066,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4019,7 +4075,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Atmospheric Pressure Belts and ITCZ",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6949c61f",
       "questionStem": "Consider the following statements regarding the Intertropical Convergence Zone (ITCZ):\n1. It is a discontinuous zone of low pressure near the equator where the trade winds converge.\n2. The position of the ITCZ migrates seasonally, shifting further north in the Northern Hemisphere summer and further south in the Southern Hemisphere summer.\n3. The convergence of winds along the ITCZ promotes large-scale subsidence and clear, cloudless skies throughout the year.\nHow many of the above statements are correct?",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 74
   },
   {
     "id": 1197,
@@ -4081,7 +4138,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4090,7 +4147,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Tropical vs Extratropical Cyclones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2f66498f",
       "questionStem": "Assertion (A): Extratropical cyclones typically exhibit distinct warm, cold, and occluded fronts, whereas tropical cyclones are generally frontless systems.\nReason (R): Tropical cyclones develop within a single homogenous maritime tropical air mass over warm ocean waters, precluding the thermal contrasts necessary for frontogenesis.",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 144
   },
   {
     "id": 1198,
@@ -4152,7 +4210,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4161,7 +4219,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Thornthwaite Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0cac2433",
       "questionStem": "Assertion (A): Thornthwaite's 1948 climate classification is considered more rational than Koeppen's system for ecological and hydrological studies.\nReason (R): Thornthwaite introduced the concept of potential evapotranspiration (PET) and moisture index, linking plant water need directly to thermal efficiency.",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 145
   },
   {
     "id": 1199,
@@ -4223,7 +4282,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Urban Heat Island Effect",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a33efd3f",
       "questionStem": "Consider the following factors contributing to the Urban Heat Island (UHI) effect:\n1. High thermal admittance and heat capacity of construction materials like concrete and asphalt.\n2. Increased surface runoff due to widespread paving, which limits latent heat flux from evapotranspiration.\n3. Anthropogenic heat emissions from vehicular traffic, air conditioning, and industrial processes.\nHow many of the above factors are correct?",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 75
   },
   {
     "id": 1200,
@@ -4294,7 +4354,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "El Nino Southern Oscillation (ENSO)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a65ebae4",
       "questionStem": "During an El Nino event, which of the following atmospheric and oceanic changes typically occur across the tropical Pacific Ocean?\n1. Weakening of the Walker Circulation.\n2. Unusually warm sea surface temperatures off the coast of Peru and Ecuador.\n3. Increased rainfall and flooding over Indonesia and Northern Australia.\nHow many of the above statements are correct?",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 76
   },
   {
     "id": 1201,
@@ -4365,7 +4426,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4374,7 +4435,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Tropical vs Extratropical Cyclones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_09a55c5b",
       "questionStem": "Which of the following structural and environmental factors distinguishes tropical cyclones from extratropical cyclones?",
@@ -4399,7 +4460,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 77
   },
   {
     "id": 1202,
@@ -4436,7 +4498,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Fronts",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_539cbfe8",
       "questionStem": "Which one of the following best describes a stationary front?",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 78
   },
   {
     "id": 1203,
@@ -4507,7 +4570,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4516,7 +4579,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_86b053c3",
       "questionStem": "Consider the following statements regarding Koeppen's Climate Classification:\n1. The capital letters 'A', 'C', and 'D' represent megathermal, mesothermal, and microthermal climates respectively.\n2. The second letter 'w' indicates a dry winter season, which is a characteristic feature of the tropical savanna (Aw) climate.\n3. The 'B' group of climates is primarily defined on the basis of seasonal temperature variations rather than precipitation thresholds.\nHow many of the above statements are correct?",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 79
   },
   {
     "id": 1204,
@@ -4578,7 +4642,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "La Nina",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0e2f8b6b",
       "questionStem": "Consider the following phenomena:\n1. Enhanced upwelling of cold, nutrient-rich waters along the western coast of South America.\n2. Strengthening of the Walker Circulation beyond normal intensity.\n3. Above-average monsoon rainfall over the Indian subcontinent.\nWhich of the above are direct consequences of a La Nina event?",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 80
   },
   {
     "id": 1205,
@@ -4649,7 +4714,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Madden-Julian Oscillation (MJO)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_075ce1e8",
       "questionStem": "The Madden-Julian Oscillation (MJO) is best described as:",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 81
   },
   {
     "id": 1206,
@@ -4720,7 +4786,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4729,7 +4795,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "El Nino Southern Oscillation (ENSO)",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ad14cb94",
       "questionStem": "Consider the following statements regarding the behavior of the atmosphere during a strong El Nino Southern Oscillation (ENSO) neutral-to-warm transition:\n1. Atmospheric pressure at Darwin (Australia) tends to be higher than at Tahiti.\n2. The trade winds blowing across the tropical Pacific reverse their direction completely from east-to-west to west-to-east.\nHow many of the above statements are correct?",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 82
   },
   {
     "id": 1207,
@@ -4791,7 +4858,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4800,7 +4867,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Temperature Inversion",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f393a04d",
       "questionStem": "Why are temperature inversions in mountain valleys particularly conducive to the accumulation of high concentrations of air pollutants and smog?",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 83
   },
   {
     "id": 1208,
@@ -4862,7 +4930,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4871,7 +4939,7 @@
     "originalTier": "Premium",
     "originalTopicId": 32,
     "originalTopicName": "Current convergence and fisheries",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_92a97ccc",
       "questionStem": "Assertion (A): The Kuroshio Current and the Oyashio Current convergence zone off the coast of Japan creates one of the richest fishing grounds in the world.\nReason (R): The mixing of warm subtropical waters and cold subarctic waters creates thermal fronts and high nutrient availability that support abundant plankton growth.",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 146
   },
   {
     "id": 1209,
@@ -4933,7 +5002,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4942,7 +5011,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9c89de2f",
       "questionStem": "Which of the following climatic subtypes of Koeppen is most appropriately associated with the Malabar Coast of India?",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 8
   },
   {
     "id": 1210,
@@ -5004,7 +5074,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5013,7 +5083,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5ad99ae5",
       "questionStem": "The Dfc climate in Koeppen's classification system for India is applicable to which of the following regions?",
@@ -5038,7 +5108,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 9
   },
   {
     "id": 1211,
@@ -5075,7 +5146,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5084,7 +5155,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_59ffefd8",
       "questionStem": "Consider the following pairs of Koeppen climatic zones and their characteristic locations in India:\n1. BShw - Semi-arid steppe climate in parts of Punjab, Haryana, and interior peninsular India\n2. Amw - Tropical rainforest climate along the west coast south of Goa\n3. Aw - Tropical wet and dry climate covering the northern plains of Uttar Pradesh and Bihar\nHow many pairs given above are correctly matched?",
@@ -5109,7 +5180,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 84
   },
   {
     "id": 1212,
@@ -5146,7 +5218,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5155,7 +5227,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Jet Streams and Western Disturbances",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_25aaab31",
       "questionStem": "Match the following atmospheric mechanisms with their primary impact on the Indian Monsoon:\n1. Subtropical Westerly Jet Stream: Bifurcation around the Tibetan Plateau during winter, stabilizing the upper atmosphere over India.\n2. Tropical Easterly Jet Stream: Flowing from east to west over the southern peninsula during summer, intensifying low-level monsoon winds.\n3. Western Disturbances: Originating in the Mediterranean region, bringing heavy monsoon rainfall to the western coast of India during July.\n\nHow many of the pairs given above are correctly matched?",
@@ -5180,7 +5252,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 85
   },
   {
     "id": 1213,
@@ -5217,7 +5290,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5226,7 +5299,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Negative IOD",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5e06813b",
       "questionStem": "Assertion (A): A negative Indian Ocean Dipole (IOD) event tends to suppress summer monsoon rainfall over the Indian subcontinent.\nReason (R): A negative IOD is associated with anomalously cold sea surface temperatures in the western equatorial Indian Ocean, which reduces moisture supply to the onshore monsoon winds.",
@@ -5251,7 +5324,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 147
   },
   {
     "id": 1214,
@@ -5288,7 +5362,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5297,7 +5371,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d6c6f948",
       "questionStem": "Consider the following statements regarding the Koeppen climatic classification of India:\n1. The Coromandel Coast of India experiences a Tropical Savannah (Aw) type of climate due to winter rainfall dominance.\n2. The Thar Desert region is classified under Hot Desert (BWhw) climate.\n3. Arunachal Pradesh and Sikkim exhibit Tundra (E) and Polar types of climate due to high altitude.\nHow many of the above statements are correct?",
@@ -5322,7 +5396,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 86
   },
   {
     "id": 1215,
@@ -5359,7 +5434,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5368,7 +5443,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "ENSO and El Nino",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_207b2d2d",
       "questionStem": "Consider the following phenomena associated with the El Nino-Southern Oscillation (ENSO) cycle:\n1. A sustained weakening or reversal of the trade winds across the equatorial Pacific Ocean.\n2. Unusually warm sea surface temperatures developing off the coast of Peru and Ecuador.\n3. Enhanced convective activity and heavy rainfall over the western equatorial Pacific near Indonesia and Northern Australia.\n\nWhich of the above are characteristic features of an El Nino event?",
@@ -5393,7 +5468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 87
   },
   {
     "id": 1216,
@@ -5430,7 +5506,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5439,7 +5515,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "La Nina Impacts",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e46b3b82",
       "questionStem": "Consider the following statements regarding La Nina and its impact on the Indian subcontinent:\n1. La Nina is characterized by abnormally cold sea surface temperatures across the central and eastern equatorial Pacific Ocean.\n2. During a La Nina year, the Walker Circulation is intensified, leading to stronger-than-normal low-level trade winds.\n3. La Nina events are generally correlated with above-average summer monsoon rainfall over India.\n\nHow many of the above statements are correct?",
@@ -5464,7 +5540,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 88
   },
   {
     "id": 1217,
@@ -5501,7 +5578,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5510,7 +5587,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "MJO and Monsoon Modulation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_713c07a5",
       "questionStem": "Which of the following best describes the Madden-Julian Oscillation (MJO) and its modulation of the Indian monsoon?",
@@ -5535,7 +5612,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 89
   },
   {
     "id": 1218,
@@ -5572,7 +5650,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5581,7 +5659,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Koeppen's Climate Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_59f4db4a",
       "questionStem": "In the context of Koeppen's climatic regions in India, what does the climatic code 'Cwg' primarily signify?",
@@ -5606,7 +5684,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 10
   },
   {
     "id": 1219,
@@ -5643,7 +5722,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5652,7 +5731,7 @@
     "originalTier": "Premium",
     "originalTopicId": 38,
     "originalTopicName": "Pre-monsoon Showers and Local Winds",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7c3fed50",
       "questionStem": "Which of the following statements best describes the 'Loo' winds of the Indian summer season?",
@@ -5677,7 +5756,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 90
   },
   {
     "id": 1220,
@@ -5714,7 +5794,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5723,7 +5803,7 @@
     "originalTier": "Premium",
     "originalTopicId": 39,
     "originalTopicName": "Climatic Regimes of Forests",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4e655e5f",
       "questionStem": "Consider the following pairs linking Indian forest types with their characteristic temperature and moisture regimes:\n1. Tropical Wet Evergreen : Annual rainfall > 200 cm, mean annual temperature 24°C - 27°C\n2. Tropical Moist Deciduous : Annual rainfall 100 cm - 200 cm, prominent dry season\n3. Montane Temperate : Mean annual temperature 11°C - 14°C, moderate to high precipitation often as snow\nHow many of the given pairs are correctly matched?",
@@ -5748,7 +5828,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 91
   },
   {
     "id": 1221,
@@ -5785,7 +5866,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5794,7 +5875,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Climate - Koppen Classification",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5bb7daa3",
       "questionStem": "Consider the following climatic regions according to Koppen's classification and their characteristic natural vegetation:\n1. Amw : Tropical rainforest with short dry winter\n2. BShw : Semi-arid steppe climate with thorny scrub vegetation\n3. Cwg : Monsoon type with dry winter and subtropical deciduous forest\n4. Dfc : Cold snow forest climate with coniferous taiga vegetation\n\nHow many of the above pairs are correctly matched?",
@@ -5819,7 +5900,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 148
   },
   {
     "id": 1222,
@@ -5856,7 +5938,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5865,7 +5947,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Local Winds",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2f9bb2f5",
       "questionStem": "Consider the following pairs of local winds and their country/region of occurrence:\n1. Karaburan: Tarim Basin, Central Asia\n2. Brickfielder: Southern Australia\n3. Harmattan: West Africa\n4. Norther: United States and Mexico\n\nHow many of the above pairs are correctly matched?",
@@ -5890,7 +5972,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 149
   },
   {
     "id": 1223,
@@ -5927,7 +6010,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5936,7 +6019,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Frontogenesis",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_156337b0",
       "questionStem": "Consider the following characteristics of a Warm Front:\n1. It has a gentle slope compared to a cold front, allowing warm air to slide gradually over the wedge of colder surface air.\n2. Clouds form far ahead of the surface warm front in a predictable sequence: cirrus, cirrostratus, altostratus, and finally nimbostratus.\n3. The passage of a warm front typically brings abrupt weather changes with squall lines and severe drop in moisture.\nHow many of the above statements are correct?",
@@ -5961,7 +6044,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 92
   },
   {
     "id": 1224,
@@ -5998,7 +6082,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6007,7 +6091,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Pressure Belts",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7811f63c",
       "questionStem": "Consider the following characteristics regarding global pressure belts:\n1. The Equatorial Low Pressure Belt is thermally induced and characterized by ascending warm air and calm conditions known as Doldrums.\n2. The Subtropical High Pressure Belt is dynamically induced due to the sinking of air cooled aloft coming from the equatorial region.\n3. The Subpolar Low Pressure Belt experiences sub-zero temperatures year-round, rendering it entirely thermally induced.\n\nHow many of the above statements are correct?",
@@ -6032,7 +6116,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 93
   },
   {
     "id": 1225,
@@ -6069,7 +6154,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6078,7 +6163,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Tropical vs Temperate Cyclones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_142eb157",
       "questionStem": "Consider the following statements regarding the structural differences between Tropical Cyclones and Temperate Cyclones:\n1. Tropical cyclones have a warm core, whereas temperate cyclones are characterized by a cold core.\n2. The frontal system is an integral part of a tropical cyclone, while temperate cyclones develop independently of any frontal boundaries.\n3. The energy source of a tropical cyclone is the release of latent heat of condensation, while temperate cyclones derive their energy from baroclinic instability and thermal contrasts.\nHow many of the above statements are correct?",
@@ -6103,7 +6188,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 94
   },
   {
     "id": 1226,
@@ -6140,7 +6226,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6149,7 +6235,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Air Masses",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_32ce65b2",
       "questionStem": "Consider the following pairs of Air Masses and their primary source regions:\n1. Maritime Tropical (mT) : Warm, moist oceans in subtropical latitudes\n2. Continental Polar (cP) : Ice-covered surfaces of high-latitude landmasses\n3. Maritime Polar (mP) : Warm equatorial landmasses\nHow many of the above pairs are correctly matched?",
@@ -6174,7 +6260,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 95
   },
   {
     "id": 1227,
@@ -6211,7 +6298,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6220,7 +6307,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Conditions for Tropical Cyclone Formation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_79488b00",
       "questionStem": "Consider the following conditions necessary for the genesis of tropical cyclones:\n1. Sea surface temperatures must exceed 27°C.\n2. Presence of a strong Coriolis force, which is why they frequently form within 5 degrees of the equator.\n3. Small variations in the vertical wind speed (low vertical wind shear).\n4. A pre-existing weak low-pressure area or low-level cyclonic circulation.\nHow many of the above statements are correct?",
@@ -6245,7 +6332,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 150
   },
   {
     "id": 1228,
@@ -6282,7 +6370,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6291,7 +6379,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Heat Budget Mechanism",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e5ef0756",
       "questionStem": "Consider the following processes involved in the Earth's atmospheric heat budget:\n1. Albedo reflection of incoming solar radiation\n2. Direct absorption of solar radiation by atmospheric gases, dust, and clouds\n3. Terrestrial radiation escaping directly to space through the atmospheric window\n4. Latent heat transfer and sensible heat flux from the Earth's surface to the atmosphere\nHow many of the above processes contribute directly to the 30% loss of incoming solar radiation back to space (Earth's albedo effect)?",
@@ -6316,7 +6404,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 151
   },
   {
     "id": 1229,
@@ -6353,7 +6442,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6362,7 +6451,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Coriolis Force",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ee906151",
       "questionStem": "Consider the following statements regarding the Coriolis force:\n1. It is directly proportional to the angle of latitude and is maximum at the poles.\n2. It acts perpendicular to the pressure gradient force but does not affect the speed of the wind directly.\n3. It deflects the wind to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.\n\nHow many of the above statements are correct?",
@@ -6387,7 +6476,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 96
   },
   {
     "id": 1230,
@@ -6424,7 +6514,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6433,7 +6523,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Trade Winds",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3413a63b",
       "questionStem": "Consider the following statements about Trade Winds:\n1. They blow from the Subtropical High Pressure belts towards the Equatorial Low Pressure Belt.\n2. Due to the Coriolis force, they blow as North-East Trades in the Northern Hemisphere and South-East Trades in the Southern Hemisphere.\n3. They are exceptionally reliable in their direction, which historically facilitated maritime trade across tropical oceans.\n\nHow many of the above statements are correct?",
@@ -6458,7 +6548,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 97
   },
   {
     "id": 1231,
@@ -6495,7 +6586,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6504,7 +6595,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Frontogenesis",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ee8065b3",
       "questionStem": "When a cold front catches up with a warm front, an occluded front is formed. In this context, consider the following statements:\n1. In a cold occlusion, the air behind the advancing cold front is colder and denser than the air ahead of the warm front.\n2. In a warm occlusion, the air behind the advancing cold front is warmer than the cold air ahead of the warm front.\n3. Occluded fronts typically mark the mature stage of a mid-latitude cyclone's life cycle.\nHow many of the above statements are correct?",
@@ -6529,7 +6620,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 98
   },
   {
     "id": 1232,
@@ -6566,7 +6658,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6575,7 +6667,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Atmospheric Boundaries and Pauses",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bffdab4d",
       "questionStem": "Consider the following pairs regarding the layers of the atmosphere and their distinguishing features:\n1. Tropopause: Isothermal layer acting as a thermal ceiling separating the troposphere from the stratosphere.\n2. Stratopause: Boundary where temperature reaches its maximum value before dropping in the mesosphere.\n3. Mesopause: The warmest layer of the entire atmospheric profile due to direct solar proton impacts.\nHow many of the above pairs are correctly matched?",
@@ -6600,7 +6692,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 99
   },
   {
     "id": 1233,
@@ -6637,7 +6730,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6646,7 +6739,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Structure of Atmosphere and Temperature Lapse Rate",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d3956551",
       "questionStem": "Consider the following statements regarding the vertical distribution of temperature in the atmosphere:\n1. The normal lapse rate is uniform throughout the troposphere, stratosphere, and mesosphere.\n2. Temperature inversion is a condition where temperature increases with increasing altitude.\n3. Radiation inversion occurs commonly during long winter nights with clear skies and calm air.\nHow many of the above statements are correct?",
@@ -6671,7 +6764,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 100
   },
   {
     "id": 1234,
@@ -6708,7 +6802,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6717,7 +6811,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Layers of the Atmosphere",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1e9e0bda",
       "questionStem": "Consider the following pairs regarding atmospheric layers and their unique characteristics:\n1. Troposphere: Contains 90% of atmospheric mass and is the site of all weather phenomena.\n2. Stratosphere: Contains the ozonosphere which absorbs harmful UV radiation, resulting in temperature decrease with height.\n3. Mesosphere: Coldest atmospheric layer where meteors burn up upon entering from space.\n4. Thermosphere: Contains electrically charged particles known as ions that reflect radio waves back to Earth.\nHow many of the given pairs are correctly matched?",
@@ -6742,7 +6836,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 152
   },
   {
     "id": 1235,
@@ -6779,7 +6874,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6788,7 +6883,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Local Winds",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_828d6ae4",
       "questionStem": "Consider the following local winds:\n1. Loo\n2. Pampero\n3. Bora\n4. Blizzard\n\nHow many of the above are classified as cold local winds?",
@@ -6813,7 +6908,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 153
   },
   {
     "id": 1236,
@@ -6850,7 +6946,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6859,7 +6955,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Frontogenesis",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d46e88c5",
       "questionStem": "With reference to the weather patterns associated with a classic cold front, consider the following:\n1. Sharp pressure drop followed by a continuous rise after the front passes.\n2. Wind shift, often from a southerly or southwesterly direction to a westerly or northwesterly direction.\n3. Narrow band of violent precipitation, thunderstorms, and cumulonimbus clouds along the frontal boundary.\nHow many of the above statements are correct?",
@@ -6884,7 +6980,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 101
   },
   {
     "id": 1237,
@@ -6921,7 +7018,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6930,7 +7027,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Conditions for Tropical Cyclone Formation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2e874c8f",
       "questionStem": "Consider the following statements regarding the planetary distribution and seasonal timing of tropical cyclones:\n1. They occur over all tropical oceans except the South Atlantic and the eastern South Pacific.\n2. In the Northern Hemisphere, tropical cyclone activity peaks in late summer and early autumn (August-October) when ocean heat content reaches its maximum.\n3. In the North Indian Ocean (Arabian Sea and Bay of Bengal), tropical cyclones exhibit a double peak in frequency during the transition periods (pre-monsoon and post-monsoon).\nHow many of the above statements are correct?",
@@ -6955,7 +7052,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 102
   },
   {
     "id": 1238,
@@ -6992,7 +7090,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7001,7 +7099,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Meteoroids, Meteors, and Meteorites",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5eaf8206",
       "questionStem": "Consider the following statements regarding meteors and meteorites:\n1. A meteor is the flash of light seen when a meteoroid burns up upon entering the Earth's atmosphere.\n2. All meteoroids completely burn up in the upper atmosphere and never reach the Earth's surface.\n3. A meteorite is the remnant of a meteoroid that survives its passage through the atmosphere and hits the ground.\n\nHow many of the above statements are correct?",
@@ -7026,7 +7124,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 103
   },
   {
     "id": 1239,
@@ -7063,7 +7162,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7072,7 +7171,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Heat Budget of the Earth",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_92a54a8e",
       "questionStem": "With reference to the Earth's Heat Budget, consider the following statements:\n1. Shortwave solar radiation entering the top of the atmosphere is entirely absorbed by the Earth's surface without any reflection.\n2. Albedo is the percentage of reflected radiation compared to the total incident radiation upon a surface.\n3. The Earth maintains its thermal equilibrium because the amount of heat received in the form of insolation equals the amount radiated back into space as terrestrial radiation.\nHow many of the above statements are correct?",
@@ -7097,7 +7196,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 104
   },
   {
     "id": 1240,
@@ -7134,7 +7234,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7143,7 +7243,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Atmosphere Composition",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9d19b0ef",
       "questionStem": "With reference to the composition of the Earth's atmosphere, consider the following statements:\n1. Nitrogen constitutes the highest percentage by volume, followed by Oxygen and Argon.\n2. Carbon dioxide is transparent to incoming shortwave solar radiation but opaque to outgoing longwave terrestrial radiation.\n3. Water vapor concentration decreases uniformly from the equator to the poles and from the surface to higher altitudes.\nHow many of the above statements are correct?",
@@ -7168,7 +7268,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 105
   },
   {
     "id": 1241,
@@ -7205,7 +7306,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7214,7 +7315,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Local Winds",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_936d5823",
       "questionStem": "Consider the following local winds and their characteristic regions:\n1. Chinook: Warm, dry wind descending the eastern slopes of the Rocky Mountains.\n2. Foehn: Cold, dense wind cascading down the northern slopes of the Alps.\n3. Mistral: Cold and dry wind blowing down the Rhone valley into the Mediterranean Sea.\n4. Sirocco: Hot, dry, dusty wind originating in the Sahara and blowing over the Mediterranean.\n\nHow many of the above pairs are correctly matched?",
@@ -7239,7 +7340,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 154
   },
   {
     "id": 1242,
@@ -7276,7 +7378,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7285,7 +7387,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Polar Easterlies",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c3605550",
       "questionStem": "Consider the following statements regarding Polar Easterlies:\n1. They originate from the Polar High Pressure belts and blow towards the Subpolar Low Pressure belts.\n2. They are deflected by the Coriolis force to become northeastly winds in the Northern Hemisphere and southeastly winds in the Southern Hemisphere.\n3. They are warm, moisture-laden winds that cause heavy convective precipitation along polar fronts.\n\nHow many of the above statements are correct?",
@@ -7310,7 +7412,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 106
   },
   {
     "id": 1243,
@@ -7347,7 +7450,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7356,7 +7459,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Frontogenesis",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_742cdcdc",
       "questionStem": "Consider the following features associated with fronts:\n1. A cold front moves faster than a warm front, often catching up and overtaking it to form an occluded front.\n2. The passage of a warm front is typically marked by a sharp drop in temperature and clearing skies.\n3. A stationary front occurs when two air masses lack sufficient buoyancy or steering winds to displace one another, resulting in prolonged cloudiness and steady precipitation.\nHow many of the above statements are correct?",
@@ -7381,7 +7484,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 107
   },
   {
     "id": 1244,
@@ -7418,7 +7522,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7427,7 +7531,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Eye of the Cyclone",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7c59f8d8",
       "questionStem": "Regarding the 'Eye' of a mature tropical cyclone, consider the following statements:\n1. It is a region of high atmospheric pressure accompanied by strong downward motion (subsidence).\n2. Surface winds within the eye are exceptionally calm, though the surrounding eyewall features maximum wind velocities.\n3. Air within the eye undergoes adiabatic compression and warming, which evaporates clouds and creates clear skies.\nHow many of the above statements are correct?",
@@ -7452,7 +7556,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 108
   },
   {
     "id": 1245,
@@ -7489,7 +7594,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7498,7 +7603,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Conditions for Tropical Cyclone Formation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_21935a0d",
       "questionStem": "Why are tropical cyclones virtually absent in the South Atlantic Ocean and the eastern South Pacific Ocean?\n1. Consistently lower sea surface temperatures remaining well below the 27°C threshold.\n2. Strong persistent vertical wind shear that disrupts the vertical development of convective storms.\n3. The absence of a pre-existing low-level convergence disturbance or ITCZ activity.\nHow many of the above reasons are correct?",
@@ -7523,7 +7628,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 109
   },
   {
     "id": 1246,
@@ -7560,7 +7666,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7569,7 +7675,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Tropical vs Temperate Cyclones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_372d4f68",
       "questionStem": "Consider the following statements regarding the differences in spatial extent and precipitation patterns between Tropical and Temperate cyclones:\n1. Temperate cyclones have a much larger horizontal spatial scale (diameter often exceeding 1,000–2,000 km) compared to tropical cyclones.\n2. Precipitation in a tropical cyclone is heavy and concentrated in spiral rainbands around the center, whereas temperate cyclone precipitation is generally more widespread, continuous, and light-to-moderate.\n3. Tropical cyclones produce storm surges primarily driven by low central pressure and strong onshore winds, a phenomenon entirely absent in temperate cyclones.\nHow many of the above statements are correct?",
@@ -7594,7 +7700,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 110
   },
   {
     "id": 1247,
@@ -7631,7 +7738,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7640,7 +7747,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Insolation Factors",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f624f686",
       "questionStem": "Consider the following factors that influence the distribution of insolation at the Earth's surface:\n1. Angle of the sun's rays\n2. Duration of day\n3. Transparency of the atmosphere\n4. Distance of the earth from the sun (Aphelion and Perihelion)\nHow many of the above factors directly affect the amount of insolation received at a specific location?",
@@ -7665,7 +7772,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 155
   },
   {
     "id": 1248,
@@ -7702,7 +7810,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7711,7 +7819,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Stratosphere Thermodynamics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d1620fe2",
       "questionStem": "Why does the stratosphere experience an increase in temperature with altitude, contrary to the troposphere?\n1. Presence of high concentrations of ozone that absorb solar ultraviolet radiation.\n2. Direct proximity to the thermosphere where solar winds deposit thermal energy.\n3. Absence of convection currents which prevents heat dispersal.\nWhich of the statements given above is/are correct?",
@@ -7736,7 +7844,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 111
   },
   {
     "id": 1249,
@@ -7773,7 +7882,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7782,7 +7891,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Ionosphere and Thermosphere",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dcbed6d5",
       "questionStem": "Consider the following characteristics regarding the Ionosphere:\n1. It is a sub-layer located within the thermosphere.\n2. It contains ionized atoms and molecules that facilitate long-distance radio communication.\n3. The concentration of ions remains constant throughout day and night cycles.\nHow many of the above statements are correct?",
@@ -7807,7 +7916,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 1250,
@@ -7844,7 +7954,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7853,7 +7963,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Atmospheric Heating Mechanisms",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a8c0e324",
       "questionStem": "With reference to the greenhouse effect and atmospheric heating, consider the following statements:\n1. The atmosphere is heated more by conduction and convection from the Earth's surface than by direct absorption of incoming solar radiation.\n2. Greenhouse gases absorb longwave terrestrial radiation and re-emit it back toward the surface, maintaining habitable temperatures on Earth.\n3. Water vapor is a negligible greenhouse gas compared to anthropogenic carbon dioxide.\nHow many of the above statements are correct?",
@@ -7878,7 +7988,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 1251,
@@ -7915,7 +8026,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7924,7 +8035,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Tropical vs Temperate Cyclones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d601400f",
       "questionStem": "Consider the following characteristics regarding the tracks and dissipation of tropical cyclones:\n1. Tropical cyclones in the Northern Hemisphere typically curve northward and then northeastward due to steering by the mid-latitude westerlies.\n2. Tropical cyclones maintain their structural intensity and wind speeds indefinitely after making landfall as long as they remain over flat terrain.\n3. The recurvature of a tropical cyclone marks its transition into an extra-tropical system as it interacts with baroclinic zones.\nHow many of the above statements are correct?",
@@ -7949,7 +8060,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 1252,
@@ -7986,7 +8098,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7995,7 +8107,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Eye of the Cyclone",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_71628b1a",
       "questionStem": "Consider the following factors influencing the formation and intensity of the 'Eye' in a tropical cyclone:\n1. As air spirals inward towards the center, conservation of angular momentum causes wind speeds to increase until centrifugal force balances the pressure gradient force.\n2. The air that sinks into the eye originates from the outflow region in the upper troposphere.\n3. The size of the eye remains constant throughout the entire life cycle of a tropical cyclone, regardless of changes in the storm's intensity.\nHow many of the above statements are correct?",
@@ -8020,7 +8132,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 1253,
@@ -8088,7 +8201,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 11,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1254,
@@ -8156,7 +8271,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 116,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1255,
@@ -8224,7 +8341,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 12,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1256,
@@ -8292,7 +8411,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 13,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1257,
@@ -8360,7 +8481,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 14,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1258,
@@ -8428,7 +8551,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 15,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1259,
@@ -8496,7 +8621,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 16,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1260,
@@ -8564,7 +8691,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 117,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1261,
@@ -8632,7 +8761,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 17,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1262,
@@ -8700,7 +8831,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 118,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1263,
@@ -8768,7 +8901,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 18,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1264,
@@ -8836,7 +8971,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 19,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1265,
@@ -8904,7 +9041,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 20,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1266,
@@ -8972,7 +9111,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 21,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1267,
@@ -9040,7 +9181,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 22,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1268,
@@ -9108,7 +9251,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 23,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1269,
@@ -9176,7 +9321,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 24,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1270,
@@ -9244,7 +9391,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 25,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1271,
@@ -9312,7 +9461,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 26,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1272,
@@ -9380,7 +9531,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 27,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1273,
@@ -9448,7 +9601,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 28,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1274,
@@ -9516,7 +9671,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 29,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1275,
@@ -9584,7 +9741,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 30,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1276,
@@ -9652,7 +9811,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 31,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1277,
@@ -9720,7 +9881,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 119,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1278,
@@ -9788,7 +9951,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 32,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1279,
@@ -9856,7 +10021,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 33,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1280,
@@ -9924,7 +10091,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 120,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1281,
@@ -9992,7 +10161,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 121,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1282,
@@ -10060,7 +10231,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 34,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1283,
@@ -10128,7 +10301,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 35,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1284,
@@ -10196,7 +10371,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 122,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1285,
@@ -10264,7 +10441,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 36,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1286,
@@ -10332,7 +10511,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 37,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1287,
@@ -10400,7 +10581,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 38,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1288,
@@ -10468,7 +10651,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 39,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1289,
@@ -10536,7 +10721,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 40,
+    "subTopic": "Weather Systems"
   },
   {
     "id": 1290,
@@ -10604,7 +10791,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 41,
+    "subTopic": "Atmosphere Layers"
   },
   {
     "id": 1291,
@@ -10672,7 +10861,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 42,
+    "subTopic": "Pressure Belts"
   },
   {
     "id": 1292,
@@ -10740,7 +10931,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 43,
+    "subTopic": "Winds & Jet Streams"
   },
   {
     "id": 1293,
@@ -10808,7 +11001,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 44,
+    "subTopic": "Humidity & Precipitation"
   },
   {
     "id": 1294,
@@ -10876,6 +11071,8 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 45,
+    "subTopic": "Weather Systems"
   }
 ]

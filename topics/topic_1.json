@@ -34,7 +34,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -68,7 +68,8 @@
         "specificExam": "SSC_CGL"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 45
   },
   {
     "id": 2,
@@ -105,7 +106,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -114,7 +115,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d91d7b3e",
       "questionStem": "Which of the following celestial bodies are tiny bodies that revolve around the sun and are found between the orbits of Mars and Jupiter?",
@@ -139,7 +140,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 1
   },
   {
     "id": 3,
@@ -176,7 +178,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -185,7 +187,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_35dd2926",
       "questionStem": "Which of the following celestial bodies orbits the Sun primarily between the orbits of Mars and Jupiter, and is composed of rock and metal?",
@@ -210,7 +212,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 2
   },
   {
     "id": 4,
@@ -247,7 +250,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -256,7 +259,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b2c0ab80",
       "questionStem": "Which of the following celestial bodies are explicitly classified as 'dwarf planets' by the International Astronomical Union (IAU), apart from Pluto?",
@@ -281,7 +284,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 3
   },
   {
     "id": 5,
@@ -318,7 +322,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -327,7 +331,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_09cc4296",
       "questionStem": "Consider the following statements regarding the inner and outer planets of our Solar System:\n1. Inner planets are very far from the Sun and are made up of huge gases.\n2. All outer planets have numerous rings around them.\n3. Venus is known as Earth's twin because its size and shape are very much similar to that of the earth.\nHow many of the above statements are correct?",
@@ -352,7 +356,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 46
   },
   {
     "id": 6,
@@ -389,7 +394,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -398,7 +403,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_652ed145",
       "questionStem": "Consider the following pairs regarding celestial concepts and their standard geographic definitions:\n1. Light Year: The distance light travels in one Earth year at a speed of 300,000 km/s.\n2. Pole Star: A celestial body that indicates the north direction and changes its position relative to the observer every season.\n3. Galaxy: A huge system of billions of stars, and clouds of dust and gases.\nHow many pairs are correctly matched?",
@@ -423,7 +428,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 47
   },
   {
     "id": 7,
@@ -460,7 +466,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -469,7 +475,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_9314dfce",
       "questionStem": "Consider the following pairs:\n1. Full Moon Night: Occurs when the entire illuminated side of the moon faces the earth (Purnima).\n2. New Moon Night: Occurs when the dark side of the moon faces the earth (Amavasya).\n3. Celestial Bodies: The sun, the moon, and all those objects shining in the night sky.\nHow many pairs given above are correctly matched?",
@@ -494,7 +500,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 48
   },
   {
     "id": 8,
@@ -531,7 +538,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -540,7 +547,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_64b479e3",
       "questionStem": "Consider the following statements about the Milky Way Galaxy:\n1. It is a vast system of billions of stars, clouds of dust, and gases.\n2. Our solar system is a part of this galaxy.\n3. In ancient India, it was named Akash Ganga because it was imagined as a river of light flowing in the sky.\nHow many of the above statements are correct?",
@@ -565,7 +572,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 49
   },
   {
     "id": 9,
@@ -602,7 +610,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -611,7 +619,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dabfa5f1",
       "questionStem": "Consider the following pairs of astronomical terms and their primary definitions:\n1. Orbit: The elliptical path along which planets move around the Sun.\n2. Constellation: A vast system of billions of stars and clouds of dust and gases.\n3. Meteor: A small piece of rock from space that burns up brightly due to friction upon entering Earth's atmosphere.\nHow many pairs are correctly matched?",
@@ -636,7 +644,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 50
   },
   {
     "id": 10,
@@ -673,7 +682,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -682,7 +691,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_28561267",
       "questionStem": "Consider the following statements concerning the Milky Way galaxy and our solar system's location within it:\n1. The Milky Way is a spiral galaxy containing millions of stars, dust, and gas clouds.\n2. Our solar system is situated near the dense central core of the Milky Way galaxy, experiencing extreme gravitational stress.\n3. Ancient Indians named the Milky Way 'Akash Ganga' because it was envisioned as a river of light flowing across the sky.\nHow many of the above statements are correct?",
@@ -707,7 +716,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 51
   },
   {
     "id": 11,
@@ -744,7 +754,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -753,7 +763,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_29034e37",
       "questionStem": "Consider the following statements regarding inner (terrestrial) and outer (gas giant) planets in our solar system:\n1. Inner planets are made up of rocks and are much smaller in size compared to outer planets.\n2. Outer planets are very far from the sun and are enormous planets made up of gases and liquids.\n3. All outer planets possess prominent ring systems, while inner planets never have any moons.\nHow many of the above statements are correct?",
@@ -778,7 +788,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 52
   },
   {
     "id": 12,
@@ -815,7 +826,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -824,7 +835,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8485bc25",
       "questionStem": "Statement-I: The Pole Star indicates the north direction and always remains at the same point in the night sky.\nStatement-II: The Earth's rotational axis, if extended infinitely into the northern celestial hemisphere, points almost directly towards the Pole Star.",
@@ -849,7 +860,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 120
   },
   {
     "id": 13,
@@ -886,7 +898,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -895,7 +907,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_189fd312",
       "questionStem": "Which of the following statements is NOT correct regarding Constellations?",
@@ -920,7 +932,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 53
   },
   {
     "id": 14,
@@ -957,7 +970,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -966,7 +979,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e610097b",
       "questionStem": "An observer on a spaceship travelling far beyond the solar system notices that stars twinkle intensely while planets shine with a steady light. If the observer asks you to evaluate this observation based on principles of astronomy, what would your conclusion be?",
@@ -991,7 +1004,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 54
   },
   {
     "id": 15,
@@ -1028,7 +1042,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1037,7 +1051,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_8fedd6a2",
       "questionStem": "Statement-I: Light year is a unit used to measure astronomical distances.\nStatement-II: Light year is the distance that light travels in one Earth year at a speed of approximately 300,000 km/s.",
@@ -1062,7 +1076,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 121
   },
   {
     "id": 16,
@@ -1099,7 +1114,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1108,7 +1123,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_041a08f0",
       "questionStem": "Consider the following statements regarding the Earth's satellite and celestial movements:\n1. The Moon shows only one side to the Earth because its period of revolution around the Earth is exactly equal to its period of rotation on its axis.\n2. The Pole Star indicates the position of the South Pole and can be easily located with the help of the constellation Cassiopeia.\n3. The distance light travels in one Earth year is known as a light-year, which is a standard unit of stellar distance rather than time.\nHow many of the above statements are correct?",
@@ -1133,7 +1148,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 55
   },
   {
     "id": 17,
@@ -1170,7 +1186,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1179,7 +1195,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e7048553",
       "questionStem": "Statement-I: Venus is often called Earth's 'twin' because its size, shape, and mass are very much similar to that of the Earth.\nStatement-II: Venus has a dense atmosphere rich in carbon dioxide, which creates a runaway greenhouse effect making it the hottest planet in the solar system.",
@@ -1204,7 +1220,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 122
   },
   {
     "id": 18,
@@ -1241,7 +1258,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1250,7 +1267,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_509ff175",
       "questionStem": "Which of the following is NOT correct regarding the inner and outer planets of our solar system?",
@@ -1275,7 +1292,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 56
   },
   {
     "id": 19,
@@ -1312,7 +1330,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1321,7 +1339,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_04d73e04",
       "questionStem": "An observant student notices that the full moon night (Purnima) occurs approximately once every month. What is the fundamental astronomical configuration that causes this phenomenon?",
@@ -1346,7 +1364,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 57
   },
   {
     "id": 20,
@@ -1383,7 +1402,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1392,7 +1411,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3659d103",
       "questionStem": "Consider the following statements:\n1. The asteroid belt is situated between the orbits of Mars and Jupiter, consisting of numerous rocky bodies.\n2. Meteoroids are small pieces of rocks that move around the sun and occasionally enter the Earth's atmosphere, burning up due to friction.\n3. All planets in our solar system revolve around the sun in perfectly circular orbits.\nHow many of the above statements are correct?",
@@ -1417,7 +1436,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 58
   },
   {
     "id": 21,
@@ -1454,7 +1474,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1463,7 +1483,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3876df29",
       "questionStem": "Statement-I: Venus is the hottest planet in our solar system despite Mercury being closest to the sun.\nStatement-II: Venus has a very thick atmosphere rich in carbon dioxide, which creates a runaway greenhouse effect.\nWhich one of the following is correct in respect of the above statements?",
@@ -1488,7 +1508,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 123
   },
   {
     "id": 22,
@@ -1525,7 +1546,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1534,7 +1555,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_cb79c269",
       "questionStem": "Which of the following is NOT correct regarding the Moon and its orbital characteristics relative to the Earth?",
@@ -1559,7 +1580,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 59
   },
   {
     "id": 23,
@@ -1596,7 +1618,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1605,7 +1627,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_961e540d",
       "questionStem": "An amateur astronomer observes the night sky from a location in the Northern Hemisphere. She notices that the constellation 'Saptarishi' (Ursa Major) always points towards a specific bright celestial body that helps navigators. What is this celestial body and its structural property?",
@@ -1630,7 +1652,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 60
   },
   {
     "id": 24,
@@ -1667,7 +1690,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -1676,7 +1699,7 @@
     "originalTier": "Standard",
     "originalTopicId": 1,
     "originalTopicName": "The Earth in the Solar System",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_49d8d466",
       "questionStem": "Statement-I: We can never see the backside (far side) of the Moon from the surface of the Earth.\nStatement-II: The rotational period of the Moon on its own axis is equal to its revolutionary period around the Earth.\nWhich one of the following is correct in respect of the above statements?",
@@ -1701,7 +1724,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 124
   },
   {
     "id": 25,
@@ -1738,7 +1762,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1747,7 +1771,7 @@
     "originalTier": "Standard",
     "originalTopicId": 3,
     "originalTopicName": "Motions of the Earth",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_32c66aab",
       "questionStem": "Which of the following is NOT a direct result of the Earth's revolution around the Sun?",
@@ -1772,7 +1796,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 4
   },
   {
     "id": 26,
@@ -1809,7 +1834,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1818,7 +1843,7 @@
     "originalTier": "Standard",
     "originalTopicId": 3,
     "originalTopicName": "Motions of the Earth",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ed730187",
       "questionStem": "Consider the following pairs regarding astronomical events and their standard dates:\n1. Summer Solstice in Northern Hemisphere: June 21\n2. Winter Solstice in Southern Hemisphere: December 22\n3. Vernal Equinox in Northern Hemisphere: September 23\nHow many of the above pairs are correctly matched?",
@@ -1843,7 +1868,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 61
   },
   {
     "id": 27,
@@ -1880,7 +1906,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1889,7 +1915,7 @@
     "originalTier": "Standard",
     "originalTopicId": 3,
     "originalTopicName": "Motions of the Earth",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6ebc4635",
       "questionStem": "Consider the following statements regarding the orbital motions and positions of the Earth:\n1. The Earth is farthest from the Sun, a position known as aphelion, during the month of July.\n2. The circle of illumination divides the surface of the Earth into day and night, perfectly coinciding with the meridians of longitude during the solstices.\n3. The equinoxes experience direct rays of the sun falling vertically on the Tropic of Cancer.\nHow many of the above statements are correct?",
@@ -1914,7 +1940,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 62
   },
   {
     "id": 28,
@@ -1951,7 +1978,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -1960,7 +1987,7 @@
     "originalTier": "Standard",
     "originalTopicId": 3,
     "originalTopicName": "Motions of the Earth",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_fce4afbc",
       "questionStem": "Which of the following phenomena is a direct consequence of the Earth's inclination of its axis at an angle of 66.5 degrees to its orbital plane (or 23.5 degrees to the perpendicular)?",
@@ -1985,7 +2012,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 5
   },
   {
     "id": 29,
@@ -2022,7 +2050,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -2031,7 +2059,7 @@
     "originalTier": "Standard",
     "originalTopicId": 3,
     "originalTopicName": "Motions of the Earth",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_341d90b3",
       "questionStem": "Statement-I: Days and nights are of equal duration everywhere on Earth on the 21st of March and 23rd of September.\nStatement-II: On these dates, the Earth's axis is tilted neither toward nor away from the Sun, and the sunrays fall vertically on the Equator.",
@@ -2056,7 +2084,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 125
   },
   {
     "id": 30,
@@ -2093,7 +2122,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2102,7 +2131,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_585389c0",
       "questionStem": "Consider the following statements regarding the 'Golden Revolution' in India:\n1. It relates to the phenomenal rise in the production of horticulture, honey, and horticulture crops including fruits and vegetables.\n2. Nirpakh Tuteja is widely recognized as the Father of the Golden Revolution in India.\nWhich of the statements given above is/are correct?",
@@ -2127,7 +2156,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 63
   },
   {
     "id": 31,
@@ -2164,7 +2194,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2173,7 +2203,7 @@
     "originalTier": "Elite",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_pred2_r8s9t0u",
       "questionStem": "The phenomenon of 'King Tides' causes severe coastal flooding, seawater intrusion into freshwater aquifers, and crop destruction in low-lying atoll nations like Tuvalu. King Tides occur primarily due to:",
@@ -2198,7 +2228,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 64
   },
   {
     "id": 32,
@@ -2235,7 +2266,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2244,7 +2275,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_97d8921b",
       "questionStem": "Consider the following pairs of agricultural revolution types and their associated fields:\n1. Blue Revolution: Fish production\n2. Grey Revolution: Fertilizer production\n3. Pink Revolution: Meat and poultry production\n4. Red Revolution: Tomato and meat production\nHow many of the above pairs are correctly matched?",
@@ -2269,7 +2300,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 126
   },
   {
     "id": 33,
@@ -2306,7 +2338,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -2315,7 +2347,7 @@
     "originalTier": "Premium",
     "originalTopicId": 21,
     "originalTopicName": "21. Map Practice & Spatial Visualisation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d5ab6055",
       "questionStem": "Consider the following statements regarding the White Revolution (Operation Flood) in India:\n1. It transformed India from a milk-deficient nation into one of the world's largest milk producers.\n2. The institutional model of the White Revolution was anchored by dairy cooperative movements, most notably pioneered in Anand, Gujarat.\n3. It relied entirely on large-scale corporate dairy farming rather than smallholder dairy producers.\nHow many of the statements given above are correct?",
@@ -2340,7 +2372,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 65
   },
   {
     "id": 34,
@@ -2377,7 +2410,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2386,7 +2419,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr_18",
       "questionStem": "To mitigate GLOF hazards in areas like Sikkim, early warning systems often rely on monitoring lake water levels and integrating data with meteorological forecasts. Which satellite technology is most frequently used to monitor the areal expansion of high-altitude glacial lakes?",
@@ -2411,7 +2444,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 66
   },
   {
     "id": 35,
@@ -2448,7 +2482,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2457,7 +2491,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current1_1b7c4e9f",
       "questionStem": "NASA announced plans to deorbit the International Space Station (ISS) and crash it into 'Point Nemo' around 2031. Which of the following best geographically defines Point Nemo?",
@@ -2482,7 +2516,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 6
   },
   {
     "id": 36,
@@ -2519,7 +2554,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2528,7 +2563,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_current3_k7l8m9",
       "questionStem": "A recent study indicated that massive groundwater extraction has actually caused the Earth's axis of rotation to shift. In which region has this anthropogenic mass redistribution been most pronounced?",
@@ -2553,7 +2588,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 7
   },
   {
     "id": 37,
@@ -2590,7 +2626,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -2599,7 +2635,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink1_u1v2w3x4",
       "questionStem": "Consider the following pairs regarding global biomes and their primary economic utilization: 1. Taiga (Boreal Forest) : Commercial lumbering and paper-pulp industry due to homogenous softwood stands. 2. Mediterranean Biome : Viticulture and orchard farming due to winter rainfall and dry, sunny summers. 3. Tropical Rainforest : Large-scale commercial grain farming due to year-round high temperatures and rainfall. 4. Savanna : Extensive livestock ranching and pastoralism due to distinct wet and dry seasons promoting tall grasses. How many pairs given above are correctly matched?",
@@ -2624,7 +2660,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 127
   },
   {
     "id": 38,
@@ -2661,7 +2698,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -2670,7 +2707,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink1_a3b4c5d6",
       "questionStem": "Consider the following pairs linking soil types with commercial crops: 1. Regur Soil (Black Cotton Soil) : High moisture retention capacity ideally suited for non-irrigated cotton. 2. Laterite Soil : Rich in organic matter and highly fertile for commercial sugarcane farming. 3. Peaty Soil : High salinity and submergence, ideal for mangrove-based aquaculture. 4. Alluvial Soil (Khadar) : Annual renewal of nutrients, supporting intensive wheat and rice rotation. How many pairs given above are correctly matched?",
@@ -2695,7 +2732,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 128
   },
   {
     "id": 39,
@@ -2732,7 +2770,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": true,
@@ -2741,7 +2779,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink4_3d4e5f",
       "questionStem": "Assertion (A): The Deccan Trap region of India is one of the most prominent cotton-producing belts in the world. Reason (R): Basaltic lava weathering produces vertisols (black soils) which have high moisture-retentive capacity and undergo self-ploughing during dry seasons. In the context of the above, which of the following is correct?",
@@ -2766,7 +2804,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 129
   },
   {
     "id": 40,
@@ -2803,7 +2842,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2812,7 +2851,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr5_v2w3x4",
       "questionStem": "How does the melting of the Greenland Ice Sheet specifically contribute to the weakening of the AMOC?",
@@ -2837,7 +2876,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 67
   },
   {
     "id": 41,
@@ -2874,7 +2914,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2883,7 +2923,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Current Affairs",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_curr9_7g8h9i",
       "questionStem": "In the context of the devastating floods in Himachal Pradesh during the 2023 monsoon, the term 'Fujiwhara Effect' was occasionally mentioned in meteorological debates. Which of the following accurately describes the 'Fujiwhara Effect'?",
@@ -2908,7 +2948,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 68
   },
   {
     "id": 42,
@@ -2945,7 +2986,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": true,
@@ -2954,7 +2995,7 @@
     "originalTier": "Elite",
     "originalTopicId": 22,
     "originalTopicName": "Interdisciplinary",
-    "examTarget": null,
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_interlink7_2l3m4n5o",
       "questionStem": "Urban sprawl onto steep mountainous terrain often removes stabilizing vegetation. During intense monsoon rains, a thick layer of weathered regolith overlying intact bedrock on a steep slope is most prone to which type of catastrophic mass movement?",
@@ -2979,7 +3020,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 69
   },
   {
     "id": 43,
@@ -3016,7 +3058,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3025,7 +3067,7 @@
     "originalTier": "Premium",
     "originalTopicId": 31,
     "originalTopicName": "Planetary Winds",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a6ea5d6d",
       "questionStem": "Consider the following pairs regarding global planetary wind systems and their characteristics:\n1. Trade Winds : Blow from subtropical highs to equatorial lows, deflected westward by the Coriolis force\n2. Westerlies : Blow from subtropical highs to subpolar lows, deflected eastward\n3. Polar Easterlies : Blow from polar highs to subpolar lows, deflected eastward\nHow many of the given pairs are correctly matched?",
@@ -3050,7 +3092,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 70
   },
   {
     "id": 44,
@@ -3087,7 +3130,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3096,7 +3139,7 @@
     "originalTier": "Premium",
     "originalTopicId": 34,
     "originalTopicName": "Planetary Winds and Ocean Currents",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4127cb12",
       "questionStem": "Assertion (A): The trade winds drive the equatorial surface currents from east to west, piling up warm surface water in the western tropical basins.\nReason (R): The Coriolis force deflects moving air and water masses to the right in the Northern Hemisphere and to the left in the Southern Hemisphere, establishing the primary gyre circulation.",
@@ -3121,7 +3164,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 130
   },
   {
     "id": 45,
@@ -3158,7 +3202,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3167,7 +3211,7 @@
     "originalTier": "Premium",
     "originalTopicId": 37,
     "originalTopicName": "Earth's Magnetic Field Origin",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_96b99dca",
       "questionStem": "Consider the following statements regarding the Earth's magnetic field:\n1. The geodynamo theory attributes the generation of the Earth's main magnetic field to convective currents of liquid iron in the outer core.\n2. The rotation of the Earth on its axis provides the Coriolis force necessary to organize the fluid motions in the outer core into helical columns.\n3. Paleomagnetic studies indicate that the Earth's magnetic poles have remained fixed in their geographic positions throughout geological history.",
@@ -3192,7 +3236,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 71
   },
   {
     "id": 46,
@@ -3229,7 +3274,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -3238,7 +3283,7 @@
     "originalTier": "Premium",
     "originalTopicId": 37,
     "originalTopicName": "Earth's Magnetic Field Origin",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0e8782ad",
       "questionStem": "Assertion (A): The Earth's magnetic field shields the planet's atmosphere and surface from the erosive effects of the solar wind.\nReason (R): The interaction between the solar wind and the Earth's magnetosphere creates permanent magnetic monopoles near the polar regions.",
@@ -3263,7 +3308,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 131
   },
   {
     "id": 47,
@@ -3300,7 +3346,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3309,7 +3355,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4f8d2f46",
       "questionStem": "Consider the following phenomena associated with pre-monsoon rainfall in India:\n1. Kal Baisakhi - Assam\n2. Bardoli Chheerha - Kerala\n3. Cherry Blossoms - Karnataka\n4. Mango Showers - Kerala and Tamil Nadu\nHow many of the above pairs are correctly matched?",
@@ -3334,7 +3380,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 132
   },
   {
     "id": 48,
@@ -3371,7 +3418,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3380,7 +3427,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f4601c74",
       "questionStem": "Which of the following geographical regions in India typically records an annual rainfall of less than 50 cm?",
@@ -3405,7 +3452,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 8
   },
   {
     "id": 49,
@@ -3442,7 +3490,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3451,7 +3499,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2dfba96a",
       "questionStem": "Consider the following regions in India:\n1. Thar Desert\n2. Ladakh cold desert\n3. Leeward side of Aravalli range\n4. Coromandel coast\nHow many of the above regions experience low annual rainfall (<50 cm)?",
@@ -3476,7 +3524,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 133
   },
   {
     "id": 50,
@@ -3513,7 +3562,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3522,7 +3571,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_27a48a8a",
       "questionStem": "Consider the following statements regarding the onset and progression of the Southwest Monsoon in India:\n1. The monsoon arrives at the southern tip of the Indian peninsula by the first week of June.\n2. The Arabian Sea branch of the monsoon is much stronger than the Bay of Bengal branch.\n3. The withdrawal of the monsoon is a more rapid process compared to its advance.\nHow many of the statements given above are correct?",
@@ -3547,7 +3596,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 72
   },
   {
     "id": 51,
@@ -3584,7 +3634,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3593,7 +3643,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e10bef15",
       "questionStem": "Consider the following statements regarding the Indian Monsoon:\n1. The rain shadow effect on the eastern side of the Western Ghats is caused by the Bay of Bengal branch of the monsoon.\n2. The Tamil Nadu coast remains relatively dry during the southwest monsoon season.\nHow many of the statements given above are correct?",
@@ -3618,7 +3668,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 73
   },
   {
     "id": 52,
@@ -3655,7 +3706,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3664,7 +3715,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_2d4000ff",
       "questionStem": "Consider the following factors influencing the Indian climate:\n1. El Nino Southern Oscillation (ENSO)\n2. Indian Ocean Dipole (IOD)\n3. Position of the Intertropical Convergence Zone (ITCZ)\n4. Jet streams in the upper troposphere\nHow many of the above are considered macro-climatic factors affecting the intensity and distribution of the Indian Summer Monsoon?",
@@ -3689,7 +3740,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 134
   },
   {
     "id": 53,
@@ -3726,7 +3778,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3735,7 +3787,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5a3f3030",
       "questionStem": "Consider the following pairs regarding local convective storms during the hot weather season (summer) and their associated regions:\n1. Loo - Punjab and Haryana\n2. Andhi - Uttar Pradesh and Bihar\n3. Mango Showers - Kerala\nHow many of the above pairs are correctly matched?",
@@ -3760,7 +3812,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 74
   },
   {
     "id": 54,
@@ -3797,7 +3850,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3806,7 +3859,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ceebbbb6",
       "questionStem": "Consider the following statements regarding the spatial distribution of rainfall in India:\n1. The highest annual rainfall in India is recorded at Mawsynram in the Khasi hills of Meghalaya.\n2. Parts of western Rajasthan receive less than 20 cm of rainfall annually.\n3. The variability of rainfall is inversely proportional to the average rainfall received by an area.\nHow many of the statements given above are correct?",
@@ -3831,7 +3884,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 75
   },
   {
     "id": 55,
@@ -3868,7 +3922,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3877,7 +3931,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_39edb2f9",
       "questionStem": "Consider the following statements regarding the winter rainfall in India:\n1. The Northeast monsoon picks up moisture while crossing the Bay of Bengal.\n2. The Coromandel coast receives the bulk of its annual rainfall during the winter season.\n3. Western Disturbances originate over the Mediterranean Sea and bring winter precipitation to Northwest India.\nHow many of the statements given above are correct?",
@@ -3902,7 +3956,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 76
   },
   {
     "id": 56,
@@ -3939,7 +3994,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -3948,7 +4003,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e90dcf8b",
       "questionStem": "With reference to the distribution of rainfall in India, consider the following regions:\n1. Western slopes of the Western Ghats\n2. Meghalaya plateau (Khasi and Jaintia hills)\n3. Leeward side of the Western Ghats\n4. Western Rajasthan and Kutch\nWhich of the above regions receive an annual rainfall of more than 200 cm?",
@@ -3973,7 +4028,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 135
   },
   {
     "id": 57,
@@ -4010,7 +4066,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4019,7 +4075,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3595a2ae",
       "questionStem": "Why does the Western Ghats region experience high orographic rainfall while the Deccan Plateau situated immediately to its east receives comparatively scanty rainfall?",
@@ -4044,7 +4100,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 77
   },
   {
     "id": 58,
@@ -4081,7 +4138,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4090,7 +4147,7 @@
     "originalTier": "Premium",
     "originalTopicId": 41,
     "originalTopicName": "Indian Climate: Seasons & Rainfall Distribution",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_595cb3d3",
       "questionStem": "Which one of the following climatic characteristics best describes the retreating monsoon season (October-November) in India?",
@@ -4115,7 +4172,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 78
   },
   {
     "id": 59,
@@ -4152,7 +4210,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4161,7 +4219,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Pole Star",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4d6409c5",
       "questionStem": "With reference to the Pole Star (Polaris), consider the following statements:\n1. It always remains in the same position in the night sky, pointing towards the true north.\n2. Its altitude above the horizon depends on the longitude of the observer.\n3. It can be easily located with the help of the Saptarishi constellation.\n\nHow many of the above statements are correct?",
@@ -4186,7 +4244,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 79
   },
   {
     "id": 60,
@@ -4223,7 +4282,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4232,7 +4291,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Solar System Composition",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_bc7bad2f",
       "questionStem": "Consider the following pairs regarding celestial objects and their defining characteristics:\n1. Asteroids: Small rocky bodies revolving around the Sun, found mostly between Mars and Jupiter.\n2. Meteoroids: Small pieces of rocks moving around the Sun that occasionally enter the Earth's atmosphere.\n3. Comets: Icy celestial bodies that develop a tail when passing close to the Sun due to solar radiation.\n\nHow many of the above pairs are correctly matched?",
@@ -4257,7 +4316,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 80
   },
   {
     "id": 61,
@@ -4294,7 +4354,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4303,7 +4363,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Outer Planets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a52b5dae",
       "questionStem": "Which of the following planets in our solar system has the maximum number of confirmed natural satellites (moons) as per recent astronomical discoveries?",
@@ -4328,7 +4388,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 9
   },
   {
     "id": 62,
@@ -4365,7 +4426,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4374,7 +4435,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Outer Planets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_68c3b8a9",
       "questionStem": "Which of the following planets features the Great Dark Spot, extreme supersonic winds, and an internal heat source that radiates more energy than it receives from the Sun?",
@@ -4399,7 +4460,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 10
   },
   {
     "id": 63,
@@ -4436,7 +4498,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4445,7 +4507,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Planetary Characteristics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7587f908",
       "questionStem": "Assertion (A): The planet Uranus appears to roll along its orbit on its side.\nReason (R): Uranus has a highly tilted rotational axis which is almost parallel to the plane of its orbit.",
@@ -4470,7 +4532,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 136
   },
   {
     "id": 64,
@@ -4507,7 +4570,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4516,7 +4579,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Planetary Atmospheres",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d0f369c3",
       "questionStem": "Consider the following statements regarding planetary atmospheres and surface conditions:\n1. Mars has a very thin atmosphere composed predominantly of carbon dioxide, resulting in extreme diurnal temperature ranges.\n2. Mercury experiences the highest surface temperature variations in the Solar System due to its lack of a moderating atmosphere.\n3. Venus has a runaway greenhouse effect driven by its dense carbon dioxide atmosphere and thick clouds of sulfuric acid.\nHow many of the statements given above are correct?",
@@ -4541,7 +4604,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 81
   },
   {
     "id": 65,
@@ -4578,7 +4642,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4587,7 +4651,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "The Sun",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4e9f812a",
       "questionStem": "Consider the following statements regarding the structural zones of the Sun:\n1. The core is the region where nuclear fusion of hydrogen into helium generates the Sun's energy.\n2. The radiative zone transfers energy outward primarily through convective mass motion of plasma.\n3. The photosphere is the visible surface of the Sun from which light is radiated into space.\nHow many of the statements given above are correct?",
@@ -4612,7 +4676,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 82
   },
   {
     "id": 66,
@@ -4649,7 +4714,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4658,7 +4723,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Planetary Characteristics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b4fc113d",
       "questionStem": "Consider the following statements regarding the rotation and revolution characteristics of planets in the Solar System:\n1. Venus and Uranus exhibit retrograde rotation, rotating from east to west on their axes.\n2. Mercury has the shortest period of revolution around the Sun, while Neptune has the longest.\n3. The axial tilt of Uranus is so extreme that it appears to roll along its orbit on its side.\nHow many of the statements given above are correct?",
@@ -4683,7 +4748,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 83
   },
   {
     "id": 67,
@@ -4720,7 +4786,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4729,7 +4795,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Terrestrial Planets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c6f4501d",
       "questionStem": "Assertion (A): Venus is frequently described as 'Earth's twin' in terms of its physical dimensions, mass, and density.\nReason (R): Venus possesses a substantial intrinsic magnetic field comparable to Earth's, which protects its dense carbon dioxide atmosphere from stellar wind erosion.",
@@ -4754,7 +4820,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 137
   },
   {
     "id": 68,
@@ -4791,7 +4858,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4800,7 +4867,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Eclipse Mechanics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_98b50a54",
       "questionStem": "Consider the following statements regarding solar and lunar eclipses:\n1. An eclipse does not occur at every new moon and full moon primarily because the Moon's orbital plane intersects the ecliptic at two specific nodes that regress westward over time.\n2. Total solar eclipses are visible only along a narrow path on Earth's surface because the umbral shadow cone of the Moon tapers to a point that barely reaches or falls short of the Earth's surface.\n3. Hybrid solar eclipses occur exclusively when the Moon is at aphelion, causing the Earth's curvature to transition the eclipse from annular to total.",
@@ -4825,7 +4892,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 84
   },
   {
     "id": 69,
@@ -4862,7 +4930,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -4871,7 +4939,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "The Earth",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_60d72327",
       "questionStem": "Assertion (A): Life as we know it is unique to the Earth.\nReason (R): Earth is the only planet in the solar system situated at the exact center of the Sun's gravitational field.",
@@ -4896,7 +4964,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 138
   },
   {
     "id": 70,
@@ -4933,7 +5002,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -4942,7 +5011,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Natural Satellites",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3e3317a0",
       "questionStem": "Consider the following pairs regarding natural satellites in the Solar System:\n1. Ganymede : Largest moon in the Solar System, orbiting Saturn\n2. Titan : Only moon known to possess a dense atmosphere and stable surface liquid bodies, orbiting Jupiter\n3. Europa : Possesses a subsurface liquid water ocean beneath an ice shell, orbiting Jupiter\nHow many of the pairs given above are correctly matched?",
@@ -4967,7 +5036,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 85
   },
   {
     "id": 71,
@@ -5004,7 +5074,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5013,7 +5083,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Solar System & Earth Motions",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_ab5929a6",
       "questionStem": "Consider the following phenomena related to Earth's orbital geometry:\n1. Variation in the apparent size of the solar disc as viewed from Earth.\n2. Greater total annual insolation received by the Southern Hemisphere compared to the Northern Hemisphere.\n3. Asymmetry in the duration of astronomical seasons between the Northern and Southern Hemispheres.\n\nHow many of the above phenomena are direct consequences of Earth's orbital eccentricity combined with the timing of perihelion?",
@@ -5038,7 +5108,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 86
   },
   {
     "id": 72,
@@ -5075,7 +5146,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5084,7 +5155,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Solar System Mechanics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dff0cb06",
       "questionStem": "Consider the following characteristics of planetary orbits within our solar system:\n1. All planets revolve around the Sun in the exact same direction, which matches the direction of the Sun's axial rotation.\n2. The orbital planes of all major planets are perfectly coplanar with the Sun's equatorial plane, exhibiting zero inclination.\n3. The eccentricity of planetary orbits is uniform across both terrestrial and Jovian planets, remaining near-zero.\n\nHow many of the above statements are correct?",
@@ -5109,7 +5180,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 87
   },
   {
     "id": 73,
@@ -5146,7 +5218,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5155,7 +5227,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Asteroid Belt",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_76df432f",
       "questionStem": "Consider the following statements regarding the asteroid belt:\n1. It is located between the orbits of Mars and Jupiter.\n2. It consists of numerous small solid bodies that are remnants of the planet-formation process.\n3. Ceres, the largest object in the asteroid belt, is classified as a dwarf planet.\n\nHow many of the above statements are correct?",
@@ -5180,7 +5252,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 88
   },
   {
     "id": 74,
@@ -5217,7 +5290,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5226,7 +5299,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Moons and Satellites",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_893666b2",
       "questionStem": "Consider the following pairs of Solar System bodies and their unique distinguishing features:\n1. Io : Volcanically the most active body in the Solar System, driven by tidal heating from Jupiter\n2. Enceladus : Features active ice-volcanism (cryovolcanism) spewing water vapor and organic molecules from a subsurface ocean\n3. Triton : Retrograde orbit around Saturn, featuring nitrogen geysers\nHow many of the pairs given above are correctly matched?",
@@ -5251,7 +5324,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 89
   },
   {
     "id": 75,
@@ -5288,7 +5362,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5297,7 +5371,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Jovian Planets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e5eba15b",
       "questionStem": "Assertion (A): Jovian planets have much lower densities compared to terrestrial planets.\nReason (R): Jovian planets are composed predominantly of heavy silicate rocks and metallic iron throughout their entire volume.",
@@ -5322,7 +5396,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 139
   },
   {
     "id": 76,
@@ -5359,7 +5434,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5368,7 +5443,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Earth Rotation & Coriolis Force",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_af7ec61a",
       "questionStem": "Consider the following statements regarding the Coriolis force and its relationship to Earth's rotational dynamics:\n1. The magnitude of the Coriolis force acting on a moving parcel of air is directly proportional to the sine of the latitude and the speed of the moving object.\n2. The Coriolis force does work on moving air parcels, changing their kinetic energy as they are deflected toward the right in the Northern Hemisphere.\n3. The apparent deflection caused by the Coriolis force is absent at the equator because the vector of Earth's rotational axis is parallel to the horizontal plane at that location.",
@@ -5393,7 +5468,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 90
   },
   {
     "id": 77,
@@ -5430,7 +5506,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5439,7 +5515,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Celestial Bodies and Stars",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_57cb4d00",
       "questionStem": "Consider the following statements regarding celestial bodies and stars:\n1. Stars are celestial bodies made up of gases, which have their own heat and light emitted in large amounts.\n2. The Sun is considered a star because it is composed of plasma and generates energy primarily through nuclear fission.\n3. Planets do not have their own heat and light and are lit by the light of the stars.\n\nHow many of the above statements are correct?",
@@ -5464,7 +5540,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 91
   },
   {
     "id": 78,
@@ -5501,7 +5578,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5510,7 +5587,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Inner vs Outer Planets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f2fdbd1b",
       "questionStem": "Consider the following characteristics of Inner (Terrestrial) and Outer (Jovian) planets:\n1. Inner planets are made up of rocks and metals, whereas outer planets are primarily composed of gases and liquids.\n2. Inner planets are very large in size compared to outer planets, which are relatively smaller.\n3. Inner planets have a high density, while outer planets have a low density.\n\nHow many of the above statements are correct?",
@@ -5535,7 +5612,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 92
   },
   {
     "id": 79,
@@ -5572,7 +5650,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -5581,7 +5659,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "The Moon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6099946e",
       "questionStem": "Assertion (A): We always see only one side of the Moon from the Earth.\nReason (R): The period of the Moon's rotation on its own axis is equal to the period of its revolution around the Earth.",
@@ -5606,7 +5684,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 140
   },
   {
     "id": 80,
@@ -5643,7 +5722,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5652,7 +5731,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Dwarf Planets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c73eeb10",
       "questionStem": "Consider the following statements regarding dwarf planets:\n1. Pluto was reclassified as a dwarf planet by the International Astronomical Union (IAU) in 2006 because it has not cleared its neighborhood of other orbiting bodies.\n2. Ceres is the largest object in the asteroid belt and is classified as a dwarf planet.\n3. Eris is located in the asteroid belt and is larger in mass than Pluto.\nHow many of the statements given above are correct?",
@@ -5677,7 +5756,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 93
   },
   {
     "id": 81,
@@ -5714,7 +5794,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5723,7 +5803,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Galaxies and Universe",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_99e427a8",
       "questionStem": "Consider the following pairs regarding galactic morphology and structures:\n1. Milky Way : A barred spiral galaxy containing the Solar System\n2. Andromeda : The nearest large spiral galaxy to the Milky Way, currently on a collision course with it\n3. Local Group : A single giant elliptical galaxy that encompasses both the Milky Way and Andromeda\nHow many of the pairs given above are correctly matched?",
@@ -5748,7 +5828,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 94
   },
   {
     "id": 82,
@@ -5785,7 +5866,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5794,7 +5875,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Milankovitch Cycles",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_292d3138",
       "questionStem": "Consider the following statements regarding the Milankovitch cycles and their impact on Earth's climate:\n1. Precession of the equinoxes alters the timing of perihelion relative to the seasons, modulating the amplitude of seasonal temperature contrasts in both hemispheres.\n2. Changes in the obliquity of the Earth directly alter the total annual volume of solar radiation reaching the entire planet at the top of the atmosphere.\n3. Orbital eccentricity changes the absolute distance between the Earth and the Sun, thereby altering the total global annual insolation received by Earth by up to 20 percent.",
@@ -5819,7 +5900,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 95
   },
   {
     "id": 83,
@@ -5856,7 +5938,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5865,7 +5947,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Constellations and Pole Star",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_029738b3",
       "questionStem": "Consider the following constellations and their components:\n1. Ursa Major: A prominent constellation easily recognizable in the northern sky.\n2. Saptarishi: A group of seven stars forming a part of the Ursa Minor constellation.\n3. Pointer stars: The two end stars of the Saptarishi that always point towards the Pole Star.\n\nHow many of the above statements are correct?",
@@ -5890,7 +5972,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 96
   },
   {
     "id": 84,
@@ -5927,7 +6010,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -5936,7 +6019,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Inner Planets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1594b207",
       "questionStem": "Consider the following statements regarding the inner planets:\n1. Mercury is the closest planet to the Sun and has numerous natural satellites (moons).\n2. Venus is often called Earth's twin because of its similar size and density to Earth.\n3. Mars is known as the red planet due to the presence of iron oxide on its surface.\n\nHow many of the above statements are correct?",
@@ -5961,7 +6044,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 97
   },
   {
     "id": 85,
@@ -5998,7 +6082,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6007,7 +6091,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Solar System Composition",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_77488f48",
       "questionStem": "Consider the following celestial bodies:\n1. Comets\n2. Asteroids\n3. Meteoroids\n4. Dwarf planets\n\nWhich of the above are considered members of our Solar System?",
@@ -6032,7 +6116,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 141
   },
   {
     "id": 86,
@@ -6069,7 +6154,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -6078,7 +6163,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Kuiper Belt",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_7d07aca2",
       "questionStem": "Assertion (A): The Kuiper Belt extends beyond the orbit of Neptune and contains numerous icy bodies and short-period comet sources.\nReason (R): Neptune's gravitational influence stabilizes the orbits of all objects within the Kuiper Belt, preventing them from scattering into the inner solar system.",
@@ -6103,7 +6188,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 142
   },
   {
     "id": 87,
@@ -6140,7 +6226,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6149,7 +6235,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Orbital Mechanics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_650168fb",
       "questionStem": "Consider the following statements regarding the line of apsides and line of nodes of the Earth-Moon system:\n1. The line of apsides of Earth's orbit is stationary in space, anchoring the timing of perihelion to the calendar year indefinitely.\n2. The line of nodes of the Moon's orbit undergoes retrograde precession, completing a full 360-degree rotation approximately every 18.6 years.\n3. Eclipser seasons (saros cycles) are directly regulated by the periodic alignment of the solar position with the moving line of nodes.",
@@ -6174,7 +6260,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 98
   },
   {
     "id": 88,
@@ -6211,7 +6298,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6220,7 +6307,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Solar System Measurements",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c4e767a4",
       "questionStem": "Which of the following best describes the term 'Astronomical Unit' (AU)?",
@@ -6245,7 +6332,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 11
   },
   {
     "id": 89,
@@ -6282,7 +6370,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6291,7 +6379,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Comets and Small Bodies",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_0ccc6c7f",
       "questionStem": "Which of the following celestial bodies originates primarily from the Oort Cloud and is characterized by highly elliptical orbits with orbital periods extending into millions of years?",
@@ -6316,7 +6404,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 12
   },
   {
     "id": 90,
@@ -6353,7 +6442,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -6362,7 +6451,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Comets",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5bbc175e",
       "questionStem": "Assertion (A): The tail of a comet always points away from the Sun, regardless of the direction in which the comet is traveling along its orbit.\nReason (R): Solar wind and radiation pressure exert a force on the ionized gases and dust particles of the coma, pushing them in the anti-solar direction.",
@@ -6387,7 +6476,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 143
   },
   {
     "id": 91,
@@ -6424,7 +6514,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6433,7 +6523,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Origin of the Moon",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4a99858a",
       "questionStem": "Which of the following hypotheses/theories is currently the most widely accepted scientific explanation for the formation of the Moon?",
@@ -6458,7 +6548,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 99
   },
   {
     "id": 92,
@@ -6495,7 +6586,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6504,7 +6595,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Lunar Mechanics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_e661b3a5",
       "questionStem": "In the context of lunar mechanics, why does a sidereal month differ in duration from a synodic month?",
@@ -6529,7 +6620,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 100
   },
   {
     "id": 93,
@@ -6566,7 +6658,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6575,7 +6667,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Lunar Dynamics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_dd4e1af9",
       "questionStem": "Why does the Moon always show the same face (near side) to the Earth, a phenomenon known as synchronous rotation?",
@@ -6600,7 +6692,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 101
   },
   {
     "id": 94,
@@ -6637,7 +6730,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6646,7 +6739,7 @@
     "originalTier": "Premium",
     "originalTopicId": 46,
     "originalTopicName": "Earth Rotational Dynamics",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6a04364b",
       "questionStem": "What is the primary physical reason why the solar day (24 hours) is roughly 4 minutes longer than the sidereal day (23 hours 56 minutes)?",
@@ -6671,7 +6764,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 102
   },
   {
     "id": 95,
@@ -6708,7 +6802,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6717,7 +6811,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Solstices and Equinoxes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_64418faf",
       "questionStem": "Consider the following statements regarding the apparent movement of the Sun:\n1. The Sun is directly overhead at the Tropic of Cancer twice a year.\n2. The equinoxes represent the points in the Earth's orbit where the circle of illumination passes through both geographical poles.\n\nWhich of the statements given above is/are correct?",
@@ -6742,7 +6836,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 103
   },
   {
     "id": 96,
@@ -6779,7 +6874,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6788,7 +6883,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Kepler's Laws and Seasons",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_39a3b8b1",
       "questionStem": "Consider the following statements:\n1. The Earth moves fastest in its orbit when it is closest to the Sun (Perihelion).\n2. The variation in Earth's orbital speed due to its elliptical orbit is the primary cause of seasonal temperature changes.\n3. Perihelion occurs during the month of January in the Northern Hemisphere winter.\n\nHow many of the above statements are correct?",
@@ -6813,7 +6908,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 104
   },
   {
     "id": 97,
@@ -6850,7 +6946,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -6859,7 +6955,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Perihelion and Seasons",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_3831bb0e",
       "questionStem": "Assertion (A): Places located in the Southern Hemisphere experience winter when the Earth is at perihelion.\nReason (R): Perihelion is the point in Earth's elliptical orbit where it is nearest to the Sun, resulting in maximum global receipt of solar energy.",
@@ -6884,7 +6980,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 144
   },
   {
     "id": 98,
@@ -6921,7 +7018,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -6930,7 +7027,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Lunar Eclipses",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d450cad2",
       "questionStem": "Consider the following statements regarding lunar eclipses:\n1. A lunar eclipse always occurs on a Full Moon day.\n2. The Earth comes directly between the Sun and the Moon.\n3. A lunar eclipse is visible from every place on the night side of the Earth simultaneously.\n\nWhich of the statements given above are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
@@ -6955,7 +7052,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 105
   },
   {
     "id": 99,
@@ -6992,7 +7090,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7001,7 +7099,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Effects of Earth's Rotation",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_1bb387fd",
       "questionStem": "Consider the following phenomena:\n1. Deflection of winds and ocean currents\n2. Apparent daily east-to-west movement of celestial bodies\n3. Occurrence of spring and neap tides on a daily basis\n4. Apparent shift in the path of the midday Sun over a year\n\nHow many of the above phenomena are primarily the direct consequence of the Earth's rotation?",
@@ -7026,7 +7124,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 145
   },
   {
     "id": 100,
@@ -7063,7 +7162,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7072,7 +7171,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Solstices, Equinoxes, and Apsides",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_5b2b300b",
       "questionStem": "Consider the following pairs:\n\n1. Vernal Equinox : September 23\n2. Perihelion : January 3\n3. Aphelion : July 4\n4. Winter Solstice (Northern Hemisphere) : December 22\n\nHow many of the above pairs are correctly matched?\n\n(a) Only one pair\n(b) Only two pairs\n(c) Only three pairs\n(d) All four pairs",
@@ -7097,7 +7196,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 146
   },
   {
     "id": 101,
@@ -7134,7 +7234,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7143,7 +7243,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Solar Eclipses",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_f6b1b47f",
       "questionStem": "Assertion (A): During an annular solar eclipse, the Sun is not completely obscured even when the alignment is exact.\nReason (R): The Moon's orbit is elliptical, and when the eclipse occurs near apogee, the apparent size of the Moon is smaller than that of the Sun, failing to cover the solar disc entirely.",
@@ -7168,7 +7268,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 147
   },
   {
     "id": 102,
@@ -7205,7 +7306,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7214,7 +7315,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Winter Solstice",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6584f535",
       "questionStem": "Consider the following features:\n1. Sun rays are vertical on the Tropic of Capricorn.\n2. Length of the night is longer than the day in the Northern Hemisphere.\n3. The South Pole experiences 24 hours of darkness.\n\nWhich of the following dates corresponds to the features described above?\n\n(a) June 21\n(b) December 22\n(c) March 21\n(d) September 23",
@@ -7239,7 +7340,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 106
   },
   {
     "id": 103,
@@ -7276,7 +7378,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "assertion",
+    "format": "Assertion-Reason",
     "qstyle": "assertion",
     "exams": "UPSC",
     "isCurrentAffairs": false,
@@ -7285,7 +7387,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Solar Eclipses and Orbital Planes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_24a150bf",
       "questionStem": "Assertion (A): Solar eclipses do not occur during every New Moon phase.\nReason (R): The orbital plane of the Moon is inclined at an angle of approximately 5° to the plane of the Earth's orbit around the Sun.",
@@ -7310,7 +7412,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 148
   },
   {
     "id": 104,
@@ -7347,7 +7450,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7356,7 +7459,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Earth's Orbital Geometry and Axis",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_6c3542a6",
       "questionStem": "Consider the following pairs regarding the spatial geometry of the Earth:\n1. Plane of the Earth's orbit : Formed by the elliptical path the Earth takes around the Sun\n2. Inclination of the Earth's axis : 23.5 degrees measured from the orbital plane\n3. Circle of illumination : The imaginary line that separates the illuminated daylight hemisphere from the dark night hemisphere\n\nHow many of the pairs given above are correctly matched?",
@@ -7381,7 +7484,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 107
   },
   {
     "id": 105,
@@ -7418,7 +7522,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7427,7 +7531,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Motions of the Earth: Seasons",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_644f49f4",
       "questionStem": "Consider the following phenomena related to the Earth's revolution around the Sun:\n1. Variation in the apparent size of the Sun\n2. Shift of the thermal equator towards the north and south\n3. Annual cycle of seasons\n4. Changes in the duration of daytime and nighttime\n\nHow many of the above phenomena are direct consequences of the Earth's inclination of its axis at an angle of 66½° to its orbital plane?\n\n(a) Only one\n(b) Only two\n(c) Only three\n(d) All four",
@@ -7452,7 +7556,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 149
   },
   {
     "id": 106,
@@ -7489,7 +7594,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7498,7 +7603,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Summer and Winter Solstices",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_c1ccdf15",
       "questionStem": "Consider the following statements regarding the Summer Solstice in the Northern Hemisphere:\n1. The vertical rays of the Sun fall directly on the Tropic of Cancer.\n2. The Arctic Circle experiences 24 hours of continuous daylight.\n3. The Southern Hemisphere experiences its longest night of the year.\n\nWhich of the statements given above are correct?\n\n(a) 1 and 2 only\n(b) 2 and 3 only\n(c) 1 and 3 only\n(d) 1, 2 and 3",
@@ -7523,7 +7628,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 108
   },
   {
     "id": 107,
@@ -7560,7 +7666,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "multi_statement",
+    "format": "Statement Based",
     "qstyle": "multi_statement",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7569,7 +7675,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Circle of Illumination Properties",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_b6046ae2",
       "questionStem": "With reference to the circle of illumination, consider the following statements:\n1. It divides the Earth into two equal halves at all times.\n2. It remains fixed relative to the background stars throughout the year.\n\nWhich of the statements given above is/are correct?",
@@ -7594,7 +7700,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 109
   },
   {
     "id": 108,
@@ -7631,7 +7738,7 @@
     "tier": "Basic",
     "level": "Basic",
     "difficulty_level": 1,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_GROUP_D,SSC_CHSL,RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7640,7 +7747,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Axis Inclination Geometry",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_d35d343e",
       "questionStem": "Which of the following describes the correct orientation of the Earth's axis relative to the plane of the Earth's orbit?",
@@ -7665,7 +7772,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 13
   },
   {
     "id": 109,
@@ -7702,7 +7810,7 @@
     "tier": "Hard",
     "level": "Hard",
     "difficulty_level": 3,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7711,7 +7819,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Rotation vs Revolution Outcomes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4e55ec86",
       "questionStem": "Consider the following outcomes associated with Earth's movements:\n1. Daily cycle of sunrise and sunset\n2. Shift of the wind belts and pressure belts latitudinally over the year\n3. Variation in the duration of daylight between summer and winter\n4. Apparent motion of the sun from Tropic of Cancer to Tropic of Capricorn\n\nHow many of the above are direct consequences of Earth's REVOLUTION?",
@@ -7736,7 +7844,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 150
   },
   {
     "id": 110,
@@ -7773,7 +7882,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7782,7 +7891,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Definition of Equinox",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_54c50c54",
       "questionStem": "Which of the following best defines the term 'Equinox'?",
@@ -7807,7 +7916,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 110
   },
   {
     "id": 111,
@@ -7844,7 +7954,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7853,7 +7963,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Equinoxes",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_13cd6b12",
       "questionStem": "Consider the following statements regarding equinoxes:\n1. Direct rays of the sun fall on the equator, making days and nights of equal length globally.\n2. Both poles are tilted towards the sun during the equinox.\n3. The equinoxes mark the reversal of seasons between the Northern and Southern Hemispheres.\n\nHow many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
@@ -7878,7 +7988,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 111
   },
   {
     "id": 112,
@@ -7915,7 +8026,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7924,7 +8035,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Perihelion and Aphelion",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_a1a891f8",
       "questionStem": "Why does the Earth receive a greater amount of solar radiation on January 3 (Perihelion) compared to July 4 (Aphelion), despite January being winter in the Northern Hemisphere?",
@@ -7949,7 +8060,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 112
   },
   {
     "id": 113,
@@ -7986,7 +8098,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "matching",
+    "format": "Match the Following",
     "qstyle": "matching",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -7995,7 +8107,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Motions of the Earth and Eclipses",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4497e794",
       "questionStem": "Match List-I (Astronomical Event) with List-II (Position/Geometry):\n\nList-I\nA. Summer Solstice\nB. Vernal Equinox\nC. Perihelion\nD. Lunar Eclipse\n\nList-II\n1. Earth is closest to the Sun\n2. Sun's vertical rays on Tropic of Cancer\n3. Earth between Sun and Moon\n4. Sun's vertical rays on the Equator\n\nSelect the correct answer using the codes given below:\n\nCodes:\n(a) A-2, B-4, C-1, D-3\n(b) A-4, B-2, C-3, D-1\n(c) A-2, B-1, C-4, D-3\n(d) A-4, B-3, C-2, D-1",
@@ -8020,7 +8132,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 113
   },
   {
     "id": 114,
@@ -8057,7 +8170,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8066,7 +8179,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Seasons and Aphelion",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_4c842426",
       "questionStem": "Why does the Southern Hemisphere experience summer when the Earth is at its farthest point from the Sun (Aphelion in early July)?",
@@ -8091,7 +8204,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 114
   },
   {
     "id": 115,
@@ -8128,7 +8242,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "count",
+    "format": "Statement Based",
     "qstyle": "count",
     "exams": "RRB_NTPC,SSC_CGL,BPSC,UPSC",
     "isCurrentAffairs": false,
@@ -8137,7 +8251,7 @@
     "originalTier": "Premium",
     "originalTopicId": 48,
     "originalTopicName": "Eclipses and Shadow Zones",
-    "examTarget": "UPSC-Prelims",
+    "examTarget": "UPSC_CSE",
     "provenance": {
       "questionId": "q_23354149",
       "questionStem": "Consider the following statements regarding the shadow zones during eclipses:\n1. The umbra is the central, darkest part of a shadow where light is completely blocked by the occluding body.\n2. The penumbra is the lighter outer part of a shadow where only a partial blockage of the light source occurs.\n3. Total solar eclipses are visible exclusively from locations within the penumbral shadow path.\n\nHow many of the above statements are correct?\n\n(a) Only one\n(b) Only two\n(c) All three\n(d) None",
@@ -8162,7 +8276,8 @@
         "specificExam": "UPSC-Prelims"
       },
       "linkHashes": {}
-    }
+    },
+    "sequenceOrder": 115
   },
   {
     "id": 116,
@@ -8199,7 +8314,7 @@
     "tier": "Medium",
     "level": "Medium",
     "difficulty_level": 2,
-    "format": "direct",
+    "format": "Direct Fact",
     "qstyle": "direct",
     "exams": "UPSC,BPSC,SSC_CGL",
     "isCurrentAffairs": true,
@@ -8214,7 +8329,9 @@
       "sourceFile": "Cloud-Repository-OTA-v9",
       "createdAt": "2026-10-11T21:55:00Z",
       "schemaVersion": "v8"
-    }
+    },
+    "examTarget": "UPSC_CSE",
+    "sequenceOrder": 116
   },
   {
     "id": 117,
@@ -8282,7 +8399,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 14,
+    "subTopic": "Earth-Moon System"
   },
   {
     "id": 118,
@@ -8350,7 +8469,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 15,
+    "subTopic": "Universe & Galaxies"
   },
   {
     "id": 119,
@@ -8418,7 +8539,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 16,
+    "subTopic": "Time Zones & IST"
   },
   {
     "id": 120,
@@ -8486,7 +8609,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 17,
+    "subTopic": "Earth's Motions"
   },
   {
     "id": 121,
@@ -8554,7 +8679,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 117,
+    "subTopic": "Solar System"
   },
   {
     "id": 122,
@@ -8622,7 +8749,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 18,
+    "subTopic": "Earth-Moon System"
   },
   {
     "id": 123,
@@ -8690,7 +8819,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 118,
+    "subTopic": "Universe & Galaxies"
   },
   {
     "id": 124,
@@ -8758,7 +8889,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 19,
+    "subTopic": "Time Zones & IST"
   },
   {
     "id": 125,
@@ -8826,7 +8959,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 20,
+    "subTopic": "Earth's Motions"
   },
   {
     "id": 126,
@@ -8894,7 +9029,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 21,
+    "subTopic": "Solar System"
   },
   {
     "id": 127,
@@ -8962,7 +9099,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 22,
+    "subTopic": "Earth-Moon System"
   },
   {
     "id": 128,
@@ -9030,7 +9169,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 23,
+    "subTopic": "Universe & Galaxies"
   },
   {
     "id": 129,
@@ -9098,7 +9239,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 24,
+    "subTopic": "Time Zones & IST"
   },
   {
     "id": 130,
@@ -9166,7 +9309,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 25,
+    "subTopic": "Earth's Motions"
   },
   {
     "id": 131,
@@ -9234,7 +9379,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 26,
+    "subTopic": "Solar System"
   },
   {
     "id": 132,
@@ -9302,7 +9449,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 119,
+    "subTopic": "Earth-Moon System"
   },
   {
     "id": 133,
@@ -9370,7 +9519,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 27,
+    "subTopic": "Universe & Galaxies"
   },
   {
     "id": 134,
@@ -9438,7 +9589,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 28,
+    "subTopic": "Time Zones & IST"
   },
   {
     "id": 135,
@@ -9506,7 +9659,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 29,
+    "subTopic": "Earth's Motions"
   },
   {
     "id": 136,
@@ -9574,7 +9729,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 30,
+    "subTopic": "Solar System"
   },
   {
     "id": 137,
@@ -9642,7 +9799,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 31,
+    "subTopic": "Earth-Moon System"
   },
   {
     "id": 138,
@@ -9710,7 +9869,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 32,
+    "subTopic": "Universe & Galaxies"
   },
   {
     "id": 139,
@@ -9778,7 +9939,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 33,
+    "subTopic": "Time Zones & IST"
   },
   {
     "id": 140,
@@ -9846,7 +10009,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 34,
+    "subTopic": "Earth's Motions"
   },
   {
     "id": 141,
@@ -9914,7 +10079,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 35,
+    "subTopic": "Solar System"
   },
   {
     "id": 142,
@@ -9982,7 +10149,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 36,
+    "subTopic": "Earth-Moon System"
   },
   {
     "id": 143,
@@ -10050,7 +10219,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 37,
+    "subTopic": "Universe & Galaxies"
   },
   {
     "id": 144,
@@ -10118,7 +10289,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 38,
+    "subTopic": "Time Zones & IST"
   },
   {
     "id": 145,
@@ -10186,7 +10359,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 39,
+    "subTopic": "Earth's Motions"
   },
   {
     "id": 146,
@@ -10254,7 +10429,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 40,
+    "subTopic": "Solar System"
   },
   {
     "id": 147,
@@ -10322,7 +10499,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 41,
+    "subTopic": "Earth-Moon System"
   },
   {
     "id": 148,
@@ -10390,7 +10569,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 42,
+    "subTopic": "Universe & Galaxies"
   },
   {
     "id": 149,
@@ -10458,7 +10639,9 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 43,
+    "subTopic": "Time Zones & IST"
   },
   {
     "id": 150,
@@ -10526,6 +10709,8 @@
       "SSC_CHSL",
       "RRB_NTPC",
       "RRB_GROUP_D"
-    ]
+    ],
+    "sequenceOrder": 44,
+    "subTopic": "Earth's Motions"
   }
 ]
