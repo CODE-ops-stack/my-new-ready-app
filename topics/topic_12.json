@@ -8719,7 +8719,7 @@
       "opt_d": "A is false, but R is true"
     },
     "correctAnswer": "opt_a",
-    "explanation": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Both A and R are true, and R is the correct explanation of A. This is a key concept in Indian Climate & Monsoon that frequently appears in competitive examinations. Understanding this helps differentiate between similar-sounding options.",
     "distractorDissections": [
       {
         "optionId": "opt_b",
@@ -9209,7 +9209,7 @@
       "opt_d": "stacks"
     },
     "correctAnswer": "opt_a",
-    "explanation": "Loess. It is a clastic, predominantly silt-sized sediment that is formed by the accumulation of wind - blown dust.",
+    "explanation": "The correct answer is: loess. Loess. It is a clastic, predominantly silt-sized sediment that is formed by the accumulation of wind - blown dust.",
     "distractorDissections": [
       {
         "optionId": "opt_b",
