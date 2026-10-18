@@ -1,8 +1,8 @@
 {
-  "version": "v29.0",
+  "version": "v30.0",
   "totalQuestions": 5551,
-  "apkSha256": "302FFE4A35D6E6476E74F39800482C57945114466FD2B9550CF5742AC161A0AE",
-  "apkSizeBytes": 34509744,
+  "apkSha256": "C23CD862CB36D49EE5581E509517A47C44DDBD950228F5A26DF6821592F10893",
+  "apkSizeBytes": 34572355,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
