@@ -1,8 +1,8 @@
 {
-  "version": "v31.0",
+  "version": "v32.0",
   "totalQuestions": 5551,
-  "apkSha256": "D161F011D42A78AE51ECE0F09E2F0A26836FCA82F0DE2E29F180706895039445",
-  "apkSizeBytes": 34647764,
+  "apkSha256": "51A424A8872B18DAB2B02AE5102B093E3202B061EF05E79C80F24752A49068F0",
+  "apkSizeBytes": 34671290,
   "apkDownloadUrl": "https://raw.githubusercontent.com/CODE-ops-stack/my-new-ready-app/main/app-debug.apk",
   "cdnImageBaseUrl": "https://cdn.jsdelivr.net/gh/CODE-ops-stack/my-new-ready-app@main/images/",
   "endpoints": {
@@ -166,6 +166,6 @@
     }
   },
   "updatedAt": "2026-10-18",
-  "releaseNotes": "Version 31.0: Visual & Interactive Exploration Release. Added interactive Ocean Currents & Monsoon Teleconnections sandboxes (post-answer, anti-spoiler compliant), vector-drawn interactive India Physiography Relief Map with tap hit-testing and geomorphic zone inspector, and Spaced Revision Geodetic Memory Vault featuring the Ebbinghaus forgetting curve, 60-second compass warmup drill, and synaptic retention health gauge.",
+  "releaseNotes": "Version 32.0: Interactive Trap Defusal & Cadre Hall of Fame Release. Upgraded TrapDashboardScreen with real-time 360° Sonar Trap Radar, interactive Examiner Trap Defusal Simulator (+15 GP score drills for Extreme Qualifier, Spatial Inversion, and Causality traps), and Cadre Merit Trophy Room (LBSNAA, Bihar SDM, CSS ASO, Railway Apex Crest). Anti-spoiler pre-attempt isolation preserved across all question engines.",
   "totalTopics": 30
 }
