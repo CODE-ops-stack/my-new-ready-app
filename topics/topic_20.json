@@ -1,6 +1,6 @@
 [
   {
-    "id": "q_1223839d",
+    "id": 4470,
     "stem": "Statement-I: Orographic rainfall results in a distinct 'rain-shadow' zone on the leeward side of mountain ranges.\nStatement-II: As air descends the leeward slope of a mountain, it undergoes adiabatic compression, leading to a decrease in its moisture-holding capacity and subsequent cloud evaporation.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "id": "q_950acbe2",
+    "id": 4471,
     "stem": "Which of the following cartographic techniques is best suited to represent population density gradients across administrative regions of a country?",
     "options": {
       "opt_a": "Isopleth mapping",
@@ -142,7 +142,7 @@
     }
   },
   {
-    "id": "q_map9_v2w3x4",
+    "id": 4472,
     "stem": "Among the following, which city is located furthest East?",
     "options": {
       "opt_a": "Lucknow",
@@ -213,7 +213,7 @@
     }
   },
   {
-    "id": "q_pred4_B8C9D0",
+    "id": 4473,
     "stem": "Consider the following pairs of vulnerable tribal groups and the states where they are primarily located:\n1. Hakki Pikki : Karnataka\n2. Kutiya Kondh : Odisha\n3. Reang (Bru) : Tripura\n4. Mankidia : Odisha\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -284,7 +284,7 @@
     }
   },
   {
-    "id": "q_pred4_H4I5J6",
+    "id": 4474,
     "stem": "Consider the following statements regarding the Hakki Pikki tribe:\n1. They are a semi-nomadic community residing primarily in the forest fringes of Karnataka.\n2. They are traditionally bird catchers and hunters.\n3. Their language, 'Vaagri', is classified under the Dravidian linguistic family.\n\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -355,7 +355,7 @@
     }
   },
   {
-    "id": "q_5af4611d",
+    "id": 4475,
     "stem": "With reference to India's population growth trajectory, which of the following periods is correctly referred to as the period of 'population explosion' due to a rapid mortality decline with persisting high fertility?",
     "options": {
       "opt_a": "1901–1921",
@@ -426,7 +426,7 @@
     }
   },
   {
-    "id": "q_cbf603bc",
+    "id": 4476,
     "stem": "Consider the following pairs matching demographic indicators with their spatial patterns or definitions:\n1. Sex Ratio: Number of females per thousand males in a population.\n2. Doubling Time: The number of years required for a population to double its size at its current annual natural growth rate.\n3. Human Development Index (HDI): A composite metric incorporating life expectancy, education, and gross national income per capita.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair is correctly matched",
@@ -497,7 +497,7 @@
     }
   },
   {
-    "id": "q_38035576",
+    "id": 4477,
     "stem": "Consider the following statements regarding the calculation and interpretation of the Dependency Ratio:\n1. The total dependency ratio is the sum of the youth dependency ratio and the old-age dependency ratio.\n2. A declining dependency ratio universally guarantees an immediate economic boom without corresponding investments in human capital.\n3. Nations with high human immunodeficiency virus (HIV) burdens often experience distorted dependency structures with missing middle-aged working cohorts.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
@@ -568,7 +568,7 @@
     }
   },
   {
-    "id": "q_ce74fd26",
+    "id": 4478,
     "stem": "Consider the following statements regarding the factors influencing population distribution:\n1. The availability of perennial water sources is a more critical determinant of rural settlement density in arid regions than flat topography.\n2. Mineral-rich regions invariably support high population densities regardless of climatic adversities.\n3. Industrial belts draw large populations, transforming sparsely populated agrarian landscapes into densely populated urban-industrial regions.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
@@ -639,7 +639,7 @@
     }
   },
   {
-    "id": "q_6583bccb",
+    "id": 4479,
     "stem": "Consider the following pairs regarding Demographic Transition Theory stages and their characteristics:\n1. Stage 1: High birth rate and high death rate; population growth is slow.\n2. Stage 2: Declining death rate while birth rate remains high; rapid population growth.\n3. Stage 3: Declining birth rate and low death rate; population size stabilizes.\n4. Stage 4: Low birth rate and low death rate; population growth approaches zero or becomes negative.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only two pairs are correctly matched",
@@ -710,7 +710,7 @@
     }
   },
   {
-    "id": "q_78f0690e",
+    "id": 4480,
     "stem": "Statement-I: The Malthusian theory posits that population increases in geometric progression while food supply increases in arithmetic progression.\nStatement-II: Preventive checks like moral restraint are natural calamities that restore the balance between population and food supply.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -781,7 +781,7 @@
     }
   },
   {
-    "id": "q_4be4e6a0",
+    "id": 4481,
     "stem": "Regarding global demographic trends and population density, which of the following statements is NOT correct?",
     "options": {
       "opt_a": "Arithmetic density measures the total population per unit of total land area, masking internal spatial variations.",
@@ -852,7 +852,7 @@
     }
   },
   {
-    "id": "q_a2f75878",
+    "id": 4482,
     "stem": "Statement-I: China's long-standing One-Child Policy successfully prevented overpopulation but has resulted in a rapidly aging demographic profile and a shrinking labor force.\nStatement-II: The total fertility rate (TFR) across most developed and transitional economies has dropped below the replacement level of approximately 2.1 children per woman.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -923,7 +923,7 @@
     }
   },
   {
-    "id": "q_6092975b",
+    "id": 4483,
     "stem": "Which of the following factors best explains why the Gangetic plains in India support exceptionally high population densities compared to the Himalayan region?",
     "options": {
       "opt_a": "Undulating terrain facilitating terraced farming and hydroelectric generation",
@@ -994,7 +994,7 @@
     }
   },
   {
-    "id": "q_afe56ac7",
+    "id": 4484,
     "stem": "Consider the following statements regarding literacy rates and their socio-economic correlations:\n1. Regional disparities in literacy rates in India are heavily influenced by historical access to missionary and state-sponsored vernacular schooling.\n2. Female literacy exhibits a strong inverse correlation with infant mortality rates and total fertility rates.\n3. The Census of India defines the literacy rate for the entire total population including infants.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "id": "q_757e2948",
+    "id": 4485,
     "stem": "Which of the following policy shifts marks India's official transition from coercive family planning measures to a target-free, rights-based approach?",
     "options": {
       "opt_a": "The launch of the National Population Policy (NPP) 2000 following the International Conference on Population and Development (ICPD) in Cairo",
@@ -1136,7 +1136,7 @@
     }
   },
   {
-    "id": "q_4223d748",
+    "id": 4486,
     "stem": "Consider the following statements regarding rural settlements:\n1. Wet point settlements are located near water sources such as springs, rivers, or lakes in water-scarce arid regions.\n2. Dry point settlements are deliberately sited on elevated grounds or levees to protect inhabitants from seasonal floods.\n3. The layout of clustered settlements in traditional Indian villages often mirrored caste and occupational stratification.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1207,7 +1207,7 @@
     }
   },
   {
-    "id": "q_c5934911",
+    "id": 4487,
     "stem": "Consider the following pairs of urban centers and their primary functional specialization:\n1. Visakhapatnam: Port and Manufacturing town\n2. Chandigarh: Administrative and Planned city\n3. Mathura: Religious and Cultural town\n4. Ankleshwar: Industrial and Petroleum town\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1278,7 +1278,7 @@
     }
   },
   {
-    "id": "q_0b6ec591",
+    "id": 4488,
     "stem": "Match the following settlement patterns with their typical geographical settings:\n1. Linear pattern: Along roads, railway lines, rivers, or canal banks\n2. Circular pattern: Around a lake, tank, or a planned central nucleus\n3. Star-shaped pattern: Where several roads converge at a common point\n4. T-shaped pattern: Along the coastline where fishermen settle\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1349,7 +1349,7 @@
     }
   },
   {
-    "id": "q_c6adf0fd",
+    "id": 4489,
     "stem": "Consider the following statements regarding the types of rural settlements in India:\n1. Clustered settlements are generally found in fertile alluvial plains and northeastern valleys due to social security and security reasons.\n2. Semi-clustered settlements may result from fragmentation of a large compact village or through the segregation of a major community.\n3. Dispersed settlements are predominantly observed in the humid and extensive paddy fields of the Ganga plains.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1420,7 +1420,7 @@
     }
   },
   {
-    "id": "q_bdc202d2",
+    "id": 4490,
     "stem": "Consider the following statements:\nStatement-I: A conurbation is a continuous urban spread resulting from the coalescence of originally separate towns or cities.\nStatement-II: The term 'Megalopolis' was coined by Jean Gottmann to describe the super-metropolitan region stretching along the northeastern seaboard of the United States.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1491,7 +1491,7 @@
     }
   },
   {
-    "id": "q_8233015c",
+    "id": 4491,
     "stem": "Match the following urban types according to Indian Census criteria with their population thresholds (or specific defining features):\n1. Town: Minimum population of 5,000 with 75% male workforce in non-agricultural pursuits\n2. City: Urban centers with a population exceeding 100,000 (Class I towns)\n3. Metropolis: Cities with a population ranging between 1 million and 5 million\n4. Megacity: Urban agglomerations with a population exceeding 10 million\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1562,7 +1562,7 @@
     }
   },
   {
-    "id": "q_52b7ea05",
+    "id": 4492,
     "stem": "Which of the following statements is NOT correct regarding the Rank-Size Rule in urban geography?",
     "options": {
       "opt_a": "It was propounded by G.K. Zipf to explain the size distribution of cities within a given country or region.",
@@ -1633,7 +1633,7 @@
     }
   },
   {
-    "id": "q_a5e19771",
+    "id": 4493,
     "stem": "Consider the following statements regarding the Primate City concept:\n1. The concept was originally formulated by geographer Mark Jefferson.\n2. A primate city is disproportionately larger and exerts overwhelming political, economic, and cultural dominance over all other cities in the country.\n3. Primate city distributions are universally found in all large federal nations with decentralized governance structures.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "id": "q_ece94408",
+    "id": 4494,
     "stem": "Consider the following statements:\nStatement-I: Smart Cities Mission in India emphasizes area-based development, which includes retrofitting, redevelopment, and greenfield development.\nStatement-II: The core objective of the Smart Cities Mission is to rely solely on central government budgetary allocation without engaging private sector participation or municipal bonds.\nWhich one of the following is correct in respect of the above statements?",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1775,7 +1775,7 @@
     }
   },
   {
-    "id": "q_352ada35",
+    "id": 4495,
     "stem": "Which of the following factors is primarily responsible for the development of Y-shaped rural settlement patterns?",
     "options": {
       "opt_a": "Convergence of two rivers meeting a third river or trunk stream",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "id": "q_f81d7376",
+    "id": 4496,
     "stem": "Which of the following is NOT a recognized characteristic feature of suburbanization in developing countries like India?",
     "options": {
       "opt_a": "Movement of population from inner city slums to peripheral residential colonies",
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "id": "q_23f02d7f",
+    "id": 4497,
     "stem": "Consider the following statements regarding mineral wealth and population distribution:\n1. The discovery of mineral resources invariably leads to permanent high-density agricultural settlements surrounding the mines.\n2. Mining towns often experience boom-and-bust demographic cycles depending on resource depletion.\n3. The mineral-rich Katanga region of the Democratic Republic of Congo is an example of localized high population clustering in otherwise sparsely populated terrain.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -1988,7 +1988,7 @@
     }
   },
   {
-    "id": "q_d7fda12e",
+    "id": 4498,
     "stem": "Consider the following demographic scenarios:\n1. Country A has an arithmetic density of 400 persons/sq km and a physiological density of 4,000 persons/sq km.\n2. Country B has an arithmetic density of 400 persons/sq km and a physiological density of 410 persons/sq km.\nHow many of the following inferences can be validly drawn from the above data?\nI. Country A has a very small proportion of arable land relative to its total area.\nII. Country B is predominantly an agricultural economy with almost all its land under cultivation.\nIII. Country A experiences extreme pressure on its food-producing land despite moderate overall density.\nHow many of the above inferences are correct?",
     "options": {
       "opt_a": "Only one",
@@ -2059,7 +2059,7 @@
     }
   },
   {
-    "id": "q_4c918f72",
+    "id": 4499,
     "stem": "Consider the following factors influencing population distribution:\n1. Ruggedness of terrain and altitude\n2. Presence of alluvial soils in river valleys\n3. Availability of continental shelf resources\n4. Distance from major tectonic plate boundaries\nHow many of the above are direct geographical determinants for high population concentration?",
     "options": {
       "opt_a": "Only one",
@@ -2130,7 +2130,7 @@
     }
   },
   {
-    "id": "q_3cf2a9b8",
+    "id": 4500,
     "stem": "Consider the following pairs regarding the digital divide:\n1. Intra-country digital divide: Disparity in internet penetration and ICT access between urban and rural populations.\n2. Inter-country digital divide: Disparity in digital infrastructure and bandwidth availability between developed and developing nations.\n3. Gender digital divide: Unequal access to digital devices and internet connectivity solely caused by geographical remoteness.\n\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -2201,7 +2201,7 @@
     }
   },
   {
-    "id": "q_e7b55091",
+    "id": 4501,
     "stem": "Consider the following statements regarding the Demographic Transition Theory:\n1. In the first stage, high birth rates and high death rates compensate for each other, keeping the population growth low.\n2. In the second stage, fertility remains high initially, but declines rapidly as urbanization increases.\n3. The third stage is characterized by a rapid fall in both birth rates and death rates, leading to a stabilization of population growth.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 only",
@@ -2272,7 +2272,7 @@
     }
   },
   {
-    "id": "q_3334710b",
+    "id": 4502,
     "stem": "Consider the following statements regarding the transition from Stage 2 to Stage 3 in the Demographic Transition Model:\n1. Crude Death Rate (CDR) falls drastically while Crude Birth Rate (CBR) remains stagnant or rises slightly.\n2. Urbanization and industrialization increase the economic cost of raising children, contributing to a decline in fertility.\n3. Female literacy and empowerment play a crucial role in lowering the total fertility rate during this phase.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -2343,7 +2343,7 @@
     }
   },
   {
-    "id": "q_68e35a69",
+    "id": 4503,
     "stem": "Consider the following statements regarding the critiques and evolution of the Malthusian Theory:\n1. Ester Boserup argued against Malthus by suggesting that population growth stimulates agricultural intensification rather than causing starvation.\n2. Karl Marx contended that overpopulation is an absolute natural law independent of the socioeconomic mode of production.\n3. Technological advancements in the Green Revolution temporarily disproved immediate Malthusian catastrophe predictions.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 3 only",
@@ -2414,7 +2414,7 @@
     }
   },
   {
-    "id": "q_1e44c945",
+    "id": 4504,
     "stem": "Consider the following demographic regions and their corresponding stages in the Demographic Transition Theory:\n1. Sub-Saharan Africa: Stage 1\n2. India: Stage 3\n3. Western Europe: Stage 4\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -2485,7 +2485,7 @@
     }
   },
   {
-    "id": "q_7e195700",
+    "id": 4505,
     "stem": "Consider the following pairs regarding demographic concepts and their implications:\n1. Stage 4 of Demographic Transition: Low dependency ratio transitioning to an aging society\n2. Physiological Density significantly higher than Arithmetic Density: High percentage of mountainous or desert terrain\n3. Neo-Malthusian perspective: Emphasis strictly on moral restraint without advocating for artificial birth control technology\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -2556,7 +2556,7 @@
     }
   },
   {
-    "id": "q_0d03fbeb",
+    "id": 4506,
     "stem": "Consider the following regions:\n1. Atacama Desert\n2. Scandinavian Highlands\n3. Amazon Basin\n4. North China Plain\nWhich of the above regions exhibit low population density primarily due to climatic extremes and ecological constraints?",
     "options": {
       "opt_a": "1 and 4 only",
@@ -2627,7 +2627,7 @@
     }
   },
   {
-    "id": "q_7f0753eb",
+    "id": 4507,
     "stem": "With reference to the Malthusian Theory of Population, consider the following statements:\n1. Population increases in a geometric ratio (exponentially), whereas food supply increases in an arithmetic ratio (linearly).\n2. Malthus argued that preventive checks like moral restraint are natural measures that cannot be influenced by human agency.\n3. Positive checks, according to Malthus, include natural calamities like famine, disease, and war which operate when population exceeds food supply.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 3 only",
@@ -2698,7 +2698,7 @@
     }
   },
   {
-    "id": "q_e4f69d86",
+    "id": 4508,
     "stem": "In the context of population geography, what does 'physiological density' signify in comparison to 'arithmetic density'?",
     "options": {
       "opt_a": "Physiological density measures total population per unit of total land area, whereas arithmetic density measures urban population per unit of built-up area.",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "id": "q_9671e0dd",
+    "id": 4509,
     "stem": "Why do interior continental locations in middle latitudes often exhibit lower population densities compared to coastal regions of the same latitudes?",
     "options": {
       "opt_a": "Continental interiors experience extreme continental climates with low precipitation, limiting agrarian productivity.",
@@ -2840,7 +2840,7 @@
     }
   },
   {
-    "id": "q_cc859508",
+    "id": 4510,
     "stem": "Which of the following best explains why the 'arid and semi-arid interiors of Australia' remain sparsely populated despite substantial mineral wealth?",
     "options": {
       "opt_a": "Severe shortage of potable water and extreme thermal conditions prevent large-scale permanent settlement.",
@@ -2911,7 +2911,7 @@
     }
   },
   {
-    "id": "q_a8919d46",
+    "id": 4511,
     "stem": "Assertion (A): Thomas Malthus argued that population increases at a geometric rate while food supply increases at an arithmetic rate.\nReason (R): Human reproductive capacity outstrips the earth's carrying capacity to produce resources, leading to inevitable checks such as famine and disease.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -2982,7 +2982,7 @@
     }
   },
   {
-    "id": "q_e6d7dc4d",
+    "id": 4512,
     "stem": "Consider the following statements regarding the global distribution of population:\n1. Over 90 percent of the world's population lives in about 10 percent of its land area.\n2. The concentration of population is skewed heavily towards the Southern Hemisphere.\n3. Nearly three-quarters of the world's population lives on two continents: Asia and Africa.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3053,7 +3053,7 @@
     }
   },
   {
-    "id": "q_53548936",
+    "id": 4513,
     "stem": "With reference to the evolution and morphology of Indian urban settlements, consider the following statements:\n1. Garnett's classification divides Indian towns into ancient, medieval, and modern based on their historical periods of origin and development.\n2. Towns like Varanasi, Prayagraj, and Madurai are classic examples of administrative headquarters established during the British colonial period.\n3. Jamshedpur and Bhilai represent industrial towns deliberately developed around heavy manufacturing units.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3124,7 +3124,7 @@
     }
   },
   {
-    "id": "q_b297c1a1",
+    "id": 4514,
     "stem": "Consider the following statements regarding Stage III of the Demographic Transition Theory:\n1. Both fertility and mortality rates decline significantly.\n2. Population growth becomes zero or negative.\n3. The society becomes urbanized, literate, and technologically advanced.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3195,7 +3195,7 @@
     }
   },
   {
-    "id": "q_22e53fe4",
+    "id": 4515,
     "stem": "Consider the following pairs concerning migration streams in India:\n1. Rural to Urban: Driven largely by employment opportunities and rural distress\n2. Urban to Rural: Comprises reverse migration during economic shocks and retirement migration\n3. Urban to Urban: Dominated by migration of female populations due to regional matrimonial alliances\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -3266,7 +3266,7 @@
     }
   },
   {
-    "id": "q_cae2b274",
+    "id": 4516,
     "stem": "Consider the following statements regarding rural settlement patterns:\n1. Linear patterns are typically found along roads, railway lines, and river valleys due to accessibility and resource availability.\n2. Circular villages develop around lakes or tanks to maximize water access for all inhabitants.\n3. Star-like settlements emerge where several roads meet, allowing radial expansion in multiple directions.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3337,7 +3337,7 @@
     }
   },
   {
-    "id": "q_c8f5165b",
+    "id": 4517,
     "stem": "Consider the following pairs regarding urban settlement classification based on size and functions:\n1. Conurbation: A region comprising a network of towns and cities that have merged through continuous urban sprawl, such as Greater London.\n2. Million-plus city: An urban center with a population ranging between 100,000 and 1 million inhabitants.\n3. Megalopolis: A massive super-metropolitan region formed by the coalescence of multiple conurbations, famously termed 'Bosswash' by Jean Gottmann.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -3408,7 +3408,7 @@
     }
   },
   {
-    "id": "q_8f22a0fa",
+    "id": 4518,
     "stem": "Assertion (A): Brain drain results in a significant net loss of human capital from developing nations to developed economies.\nReason (R): Highly skilled professionals such as doctors, engineers, and scientists migrate in search of better research facilities, higher compensation, and improved living standards.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -3479,7 +3479,7 @@
     }
   },
   {
-    "id": "q_ab2506e5",
+    "id": 4519,
     "stem": "Consider the following statements regarding urban morphology and classification in India:\n1. Satellite towns are autonomous urban settlements physically detached from the mother city, relying solely on independent agrarian economies.\n2. Garrison towns (cantonments) were established by the British primarily for strategic military defense and administrative control.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -3550,7 +3550,7 @@
     }
   },
   {
-    "id": "q_5a93f341",
+    "id": 4520,
     "stem": "Consider the following statements regarding the causes of rapid urbanization in developing countries like India:\n1. Rural-urban migration is primarily driven by push factors such as rural poverty, agricultural land fragmentation, and unemployment, alongside pull factors like better employment and educational opportunities in cities.\n2. Natural population growth within urban areas accounts for zero percentage contribution to urban expansion.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -3621,7 +3621,7 @@
     }
   },
   {
-    "id": "q_66a685d8",
+    "id": 4521,
     "stem": "Consider the following statements regarding India's demographic dividend:\n1. The demographic dividend is an automatic economic benefit that materializes purely due to a high youth population.\n2. Realizing the demographic dividend requires targeted investments in health, education, and skill development.\n3. The demographic dividend phase in India is uniform across all states and union territories simultaneously.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3692,7 +3692,7 @@
     }
   },
   {
-    "id": "q_40ff27cd",
+    "id": 4522,
     "stem": "Consider the following statements regarding internal migration patterns in India based on Census data:\n1. Rural to rural migration constitutes the largest share of internal migration streams in India.\n2. Marriage is the dominant reason for migration among females, whereas work and employment are the primary reasons for migration among males.\n3. Female migration streams in India are predominantly rural-to-urban due to the expansion of industrial corridors.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one statement is correct",
@@ -3763,7 +3763,7 @@
     }
   },
   {
-    "id": "q_f2853c85",
+    "id": 4523,
     "stem": "Consider the following pairs of migration factors:\n1. Push factor: Lack of educational and healthcare infrastructure in rural areas\n2. Pull factor: Better job opportunities and higher wages in urban areas\n3. Push factor: Political stability and security in destination regions\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -3834,7 +3834,7 @@
     }
   },
   {
-    "id": "q_9714429a",
+    "id": 4524,
     "stem": "Consider the following pairs matching settlement patterns with their physical or cultural layout:\n1. Rectangular pattern: Frequently develops in plain areas where agricultural fields are demarcated by straight property boundaries and intersecting grid roads.\n2. Star-like pattern: Develops along coastal lines where fishermen build homes facing the sea.\n3. T-shaped pattern: Appears at the junction of two roads where one road terminates into another.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -3905,7 +3905,7 @@
     }
   },
   {
-    "id": "q_d2ce42f6",
+    "id": 4525,
     "stem": "Which of the following geographical factors is primarily responsible for the extremely low population density in the Amazon basin and the Sahara desert respectively?",
     "options": {
       "opt_a": "Excessive rainfall and perpetual aridity",
@@ -3976,7 +3976,7 @@
     }
   },
   {
-    "id": "q_1f95324d",
+    "id": 4526,
     "stem": "Consider the following pairs regarding economic and social factors influencing population distribution:\n1. Damodar Valley region: Mineral wealth and industrialization\n2. Chotanagpur plateau: Rugged terrain and agricultural surplus\n3. Kyoto-Osaka-Tokyo belt: Flat terrain and advanced technological infrastructure\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -4047,7 +4047,7 @@
     }
   },
   {
-    "id": "q_e83bb249",
+    "id": 4527,
     "stem": "In the context of the Demographic Transition Theory, which of the following best characterizes the transition from Stage I to Stage II?",
     "options": {
       "opt_a": "Both fertility rates and mortality rates decline sharply due to urbanization.",
@@ -4118,7 +4118,7 @@
     }
   },
   {
-    "id": "q_a7bd1e6e",
+    "id": 4528,
     "stem": "Which of the following best describes the core premise of Thomas Malthus regarding 'preventive checks'?",
     "options": {
       "opt_a": "Natural calamities like earthquakes and floods that reduce surplus population",
@@ -4189,7 +4189,7 @@
     }
   },
   {
-    "id": "q_fa1827ca",
+    "id": 4529,
     "stem": "India's current demographic phase is primarily characterized by which of the following?",
     "options": {
       "opt_a": "High birth rate and high death rate resulting in stagnant population growth",
@@ -4260,7 +4260,7 @@
     }
   },
   {
-    "id": "q_45e5723f",
+    "id": 4530,
     "stem": "Assertion (A): Economic development is often considered the best contraceptive in the context of demographic transition.\nReason (R): Rising levels of education, urbanization, and standard of living inherently shift societal values toward smaller family sizes.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -4331,7 +4331,7 @@
     }
   },
   {
-    "id": "q_3456b47b",
+    "id": 4531,
     "stem": "Consider the following statements regarding the Dharavi slum in Mumbai:\n1. It is Asia's largest informal settlement, characterized by high population density and a thriving informal micro-economy spanning recycling, leather goods, and pottery.\n2. Dharavi originated during the late 19th century as a fishing village that transformed into an industrial-residential slum due to the displacement of polluting industries from South Mumbai.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -4402,7 +4402,7 @@
     }
   },
   {
-    "id": "q_527b5415",
+    "id": 4532,
     "stem": "Consider the following features regarding the Smart Cities Mission in India:\n1. It is a Centrally Sponsored Scheme designed to promote cities that provide core infrastructure and give a decent quality of life to citizens through a clean and sustainable environment.\n2. The strategic components of the mission include area-based development, which incorporates retrofitting, redevelopment, and greenfield development, along with a pan-city initiative.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -4473,7 +4473,7 @@
     }
   },
   {
-    "id": "q_2b1f5e49",
+    "id": 4533,
     "stem": "Consider the following pairs of rural settlement types and their primary geographic determinants:\n1. Dispersed settlements: Commonly found in remote hilly tracts, deserts, and extensive grasslands where agricultural land holdings are vast and fragmented.\n2. Nucleated settlements: Typically found in fertile alluvial plains and river valleys where community farming, social security, and shared water sources encourage clustered living.\n3. Transhumance-based settlements: Temporary settlements established by pastoral nomadic communities shifting between seasonal pastures in mountainous regions like the Himalayas.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -4544,7 +4544,7 @@
     }
   },
   {
-    "id": "q_abd5c06f",
+    "id": 4534,
     "stem": "Consider the following statements regarding urban agglomerations and metropolitan regions in India:\n1. According to the Census of India, an Urban Agglomeration must consist of a statutory town and its adjoining outgrowths, or two or more contiguous statutory towns with their outgrowths, with a total population of at least 20,000.\n2. A Metropolitan City, as per the Constitution of India (Article 243P), means an area having a population of ten lakhs or more, comprised in one or more districts and consisting of two or more municipalities or panchayats.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4615,7 +4615,7 @@
     }
   },
   {
-    "id": "q_4f003275",
+    "id": 4535,
     "stem": "With regard to urban housing and slum rehabilitation policies in India, consider the following statements:\n1. In-situ slum rehabilitation utilizes land as a resource to provide formal housing to eligible slum dwellers through private developer participation.\n2. Pradhan Mantri Awas Yojana (Urban) aims to provide housing for all in urban areas with components including credit-linked subsidy, affordable housing in partnership, and beneficiary-led construction.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -4686,7 +4686,7 @@
     }
   },
   {
-    "id": "q_78282c04",
+    "id": 4536,
     "stem": "Consider the following statements regarding the hierarchy of world urban centers and global cities:\n1. Global cities (such as London, New York, and Tokyo) derive their pre-eminence not merely from population size, but from functioning as command and control centers of the global economy.\n2. Prudent urban planning principles under the Smart Cities Mission advocate for urban sprawl over compact city development to reduce commuting distances.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -4757,7 +4757,7 @@
     }
   },
   {
-    "id": "q_3b003212",
+    "id": 4537,
     "stem": "Which of the following states recorded the absolute highest decadal growth rate of population during the period 2001-2011?",
     "options": {
       "opt_a": "Bihar",
@@ -4828,7 +4828,7 @@
     }
   },
   {
-    "id": "q_258e3d55",
+    "id": 4538,
     "stem": "Consider the following demographic features related to Census 2011 data:\n1. The national sex ratio (females per 1000 males) showed an increase compared to Census 2001.\n2. The child sex ratio (0-6 years) registered a decline compared to Census 2001.\n3. Literacy rate for females grew at a slower pace than that of males during the 2001-2011 decade.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4899,7 +4899,7 @@
     }
   },
   {
-    "id": "q_5c1e6a6b",
+    "id": 4539,
     "stem": "With reference to the rural-urban composition of India's population according to Census 2011, consider the following statements:\n1. More than two-thirds of India's total population still resides in rural areas.\n2. Goa and Mizoram are among the states with the highest percentage of urban population.\n3. Himachal Pradesh has one of the lowest proportions of urban population in the country.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4970,7 +4970,7 @@
     }
   },
   {
-    "id": "q_e1f62a55",
+    "id": 4540,
     "stem": "Consider the following statements regarding the spatial distribution of population in India:\nThe Northern Plains and the coastal plains exhibit high population concentrations.\nReason (R): High fertility of alluvial soils, flat terrain facilitating transport development, and abundant water resources support intensive agriculture and dense human settlement.\n\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -5041,7 +5041,7 @@
     }
   },
   {
-    "id": "q_9660965b",
+    "id": 4541,
     "stem": "Consider the following factors influencing population migration and distribution in India:\n1. Industrialization and urban expansion in the National Capital Region (NCR)\n2. Agricultural modernization and Green Revolution in Punjab and Haryana\n3. Mining and industrial development in the Chotanagpur Plateau region\n\nHow many of the above act as 'pull factors' driving interstate migration towards these regions?",
     "options": {
       "opt_a": "Only one",
@@ -5112,7 +5112,7 @@
     }
   },
   {
-    "id": "q_8fcadc2e",
+    "id": 4542,
     "stem": "Consider the following statements regarding the population distribution and density in India as per Census 2011:\n1. The population density of India crossed 400 persons per square kilometer.\n2. Bihar recorded the highest population density among all states, surpassing West Bengal.\n3. Union Territories generally exhibit a much higher population density compared to major states, with NCT of Delhi ranking the highest overall.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5183,7 +5183,7 @@
     }
   },
   {
-    "id": "q_375d0989",
+    "id": 4543,
     "stem": "Which of the following geographical and socio-economic factors primarily explain the extremely low population density of Arunachal Pradesh (17 persons per sq km) as per Census 2011?\n1. Rugged terrain and extensive mountainous topography\n2. Dense tropical evergreen rainforest cover limiting habitability\n3. Restricted land ownership laws preventing in-migration from other states\n\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 only",
@@ -5254,7 +5254,7 @@
     }
   },
   {
-    "id": "q_e0179172",
+    "id": 4544,
     "stem": "Consider the following pairs regarding the demographic indicators of Indian states as per Census 2011:\n1. Highest Literacy Rate: Kerala\n2. Lowest Literacy Rate: Bihar\n3. Highest Sex Ratio: Puducherry\n4. Lowest Sex Ratio among States: Haryana\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -5325,7 +5325,7 @@
     }
   },
   {
-    "id": "q_080e3bf2",
+    "id": 4545,
     "stem": "With reference to the population density pattern in India, consider the following regions:\n1. Rain-shadow zones of the Western Ghats\n2. Arid tracts of western Rajasthan\n3. Hilly districts of Uttarakhand and Himachal Pradesh\n\nHow many of the above regions are characterized by sparse population density (below national average)?",
     "options": {
       "opt_a": "Only one",
@@ -5396,7 +5396,7 @@
     }
   },
   {
-    "id": "q_05765113",
+    "id": 4546,
     "stem": "Consider the following statements regarding density definitions in demographic studies:\n1. Arithmetic density measures the total population per unit of total land area.\n2. Physiological density measures the total population per unit of arable land area.\n3. Agricultural density measures the total rural population per unit of cultivable land.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5467,7 +5467,7 @@
     }
   },
   {
-    "id": "q_fac6da12",
+    "id": 4547,
     "stem": "Which of the following demographic attributes best characterizes India's population structure during the Census 2011 enumeration?",
     "options": {
       "opt_a": "A declining absolute working-age population requiring immediate labor import",
@@ -5538,7 +5538,7 @@
     }
   },
   {
-    "id": "q_b0a8285b",
+    "id": 4548,
     "stem": "Consider the following pairs of Indian states and their prominent demographic characteristics as per Census 2011:\n1. Kerala: Lowest population growth rate among major states\n2. Sikkim: Least populous state in the country\n3. Uttar Pradesh: Highest absolute decadal population increase\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "q_2ad52d22",
+    "id": 4549,
     "stem": "Consider the following pairs regarding the classification of migration determinants:\n1. Land tenure insecurity: Push Factor\n2. Robust social networks at destination: Pull Factor\n3. Strict national border controls: Intervening Obstacle\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -5680,7 +5680,7 @@
     }
   },
   {
-    "id": "q_44796776",
+    "id": 4550,
     "stem": "Consider the following statements regarding seasonal and circular migration in rural economies:\n1. It is primarily driven by agrarian seasonality and the lack of year-round employment opportunities in rain-fed agricultural zones.\n2. It permanently alters the rural settlement hierarchy by converting temporary labor camps into census towns.\n3. It allows rural households to diversify income sources and hedge against localized crop failures.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5751,7 +5751,7 @@
     }
   },
   {
-    "id": "q_b76f3101",
+    "id": 4551,
     "stem": "Consider the following factors that influence migration decisions:\n1. Differential wage rates between origin and destination\n2. Availability of social security and public healthcare systems\n3. Frequency of natural disasters and climate variability\nHow many of the above operate primarily as pull factors?",
     "options": {
       "opt_a": "Only one",
@@ -5822,7 +5822,7 @@
     }
   },
   {
-    "id": "q_c09da97b",
+    "id": 4552,
     "stem": "Consider the following statements regarding the phenomenon of 'Brain Drain':\n1. It represents a net transfer of human capital from developing source countries to developed destination countries.\n2. It exclusively generates negative economic consequences for the source country with no compensatory feedback mechanisms.\n3. Policies focusing on return migration and diaspora bonds are utilized by developing nations to mitigate its adverse effects.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5893,7 +5893,7 @@
     }
   },
   {
-    "id": "q_26d4a910",
+    "id": 4553,
     "stem": "Consider the following demographic and economic consequences of male-selective rural-urban migration in developing nations like India:\n1. Skewing of the age-sex pyramid in source regions with a high concentration of elderly and dependents.\n2. Acceleration of agricultural mechanization in the origin areas due to persistent labor shortages.\n3. Immediate narrowing of the rural-urban wage differential through rapid capitalization of the farm sector.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5964,7 +5964,7 @@
     }
   },
   {
-    "id": "q_421c76de",
+    "id": 4554,
     "stem": "Consider the following statements regarding internal migration streams in India as per Census data:\n1. Rural-to-rural migration constitutes the largest stream of internal migration for both males and females combined.\n2. Marriage is the predominant reason cited by females for migration, heavily influencing the rural-to-rural stream.\n3. Employment is the single largest reason reported by males for migration across all internal streams combined.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6035,7 +6035,7 @@
     }
   },
   {
-    "id": "q_073d1027",
+    "id": 4555,
     "stem": "In the context of Lee's Migration Theory, which of the following best exemplifies a 'pull factor' that actively neutralizes intervening obstacles for a migrant?",
     "options": {
       "opt_a": "Severe agrarian distress and land degradation in the native district",
@@ -6106,7 +6106,7 @@
     }
   },
   {
-    "id": "q_b9c1a0d7",
+    "id": 4556,
     "stem": "The massive influx of internal migrants into metropolitan peripheries in developing countries frequently results in which of the following structural urban consequences?",
     "options": {
       "opt_a": "Immediate formalization of the urban land market and eradication of informal settlements",
@@ -6177,7 +6177,7 @@
     }
   },
   {
-    "id": "q_62fc8eac",
+    "id": 4557,
     "stem": "Consider the following statements regarding international remittances:\n1. Remittances sent by international migrants often exceed the volume of Foreign Direct Investment (FDI) received by many developing countries.\n2. At the household level, remittances are predominantly utilized for conspicuous consumption rather than investments in human capital like health and education.\n3. They act as a counter-cyclical financial cushion during domestic economic downturns in the origin country.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6248,7 +6248,7 @@
     }
   },
   {
-    "id": "q_793983fa",
+    "id": 4558,
     "stem": "Which of the following best describes the structural demographic impact known as the 'demographic dividend' in relation to migration patterns?",
     "options": {
       "opt_a": "The aging of rural populations caused by high rates of youth out-migration",
@@ -6319,7 +6319,7 @@
     }
   },
   {
-    "id": "q_d7c4ee08",
+    "id": 4559,
     "stem": "The concept of 'Cumulative Causation' in migration geography, as propounded by Gunnar Myrdal, implies that:",
     "options": {
       "opt_a": "Migration flows once initiated tend to sustain and amplify themselves over time by reducing the costs and risks for subsequent migrants through established social networks.",
@@ -6390,7 +6390,7 @@
     }
   },
   {
-    "id": "q_d4f431bc",
+    "id": 4560,
     "stem": "Consider the following socio-economic consequences for source regions experiencing high rates of out-migration:\n1. Disruption of traditional community support structures and elderly care systems.\n2. Increased work burden and changing gender roles for women left behind ('feminization of agriculture').\n3. Guaranteed long-term investments in local industrial infrastructure funded by migrant savings.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6461,7 +6461,7 @@
     }
   },
   {
-    "id": "q_a8f47eb8",
+    "id": 4561,
     "stem": "Which of the following spatial patterns characterizes the 'Step Migration' model proposed by geographers?",
     "options": {
       "opt_a": "Direct migration from isolated rural hamlets to mega-cities bypassing all intermediate urban centers",
@@ -6532,7 +6532,7 @@
     }
   },
   {
-    "id": "q_5f984c5f",
+    "id": 4562,
     "stem": "Consider the following parameters used in computing the Multidimensional Poverty Index (MPI) for India:\n1. Years of schooling and school attendance\n2. Child mortality and nutrition\n3. Access to electricity, flooring, and cooking fuel\nHow many of the above parameters are utilized in the MPI framework?",
     "options": {
       "opt_a": "Only one",
@@ -6603,7 +6603,7 @@
     }
   },
   {
-    "id": "q_7217d8cc",
+    "id": 4563,
     "stem": "Which of the following best explains the underlying reasons for the demographic shifts and migration patterns observed from low-HDI states (like Bihar and Uttar Pradesh) to high-HDI or industrialized states (like Kerala, Maharashtra, and Punjab)?",
     "options": {
       "opt_a": "Uniform availability of agricultural subsidies across all states",
@@ -6674,7 +6674,7 @@
     }
   },
   {
-    "id": "q_985864d1",
+    "id": 4564,
     "stem": "In the context of human development and settlement types in India, how do rural-urban disparities influence the access to HDI components?",
     "options": {
       "opt_a": "Urban areas uniformly exhibit lower literacy rates due to overcrowding.",
@@ -6745,7 +6745,7 @@
     }
   },
   {
-    "id": "q_4dce95ae",
+    "id": 4565,
     "stem": "Consider the following statements regarding the demographic dividend and workforce participation in India:\n1. The window of demographic dividend is uniform across all states in India, peaking simultaneously nationwide.\n2. The female labour force participation rate (FLFPR) in India exhibits a U-shaped relationship with household income levels and educational attainment.\n3. Structural transformation in India has witnessed a direct shift of surplus agricultural labour into high-productivity modern manufacturing sectors without an intermediate expansion of the informal services sector.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -6816,7 +6816,7 @@
     }
   },
   {
-    "id": "q_bc4162f9",
+    "id": 4566,
     "stem": "With reference to the demographic transition and labour migration patterns in India, consider the following statements:\n1. The phenomenon of feminisation of agriculture in certain states is primarily driven by male out-migration for non-farm employment in urban informal sectors.\n2. Net out-migration rates from southern states like Kerala are inversely correlated with their demographic ageing indices.\n3. Circular migration in India predominantly occurs between rural source regions and urban manufacturing clusters due to permanent housing security in destination cities.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 only",
@@ -6887,7 +6887,7 @@
     }
   },
   {
-    "id": "q_2854f2f1",
+    "id": 4567,
     "stem": "In the context of settlement geography and urbanization trends in India, consider the following statements:\n1. Census Towns are classified as urban units exclusively based on their statutory municipal governance status.\n2. The emergence of 'Corridor Urbanization' along major expressways reflects the transition from monocentric urban nodes to polycentric regional networks.\n3. Peri-urban interfaces characteristically exhibit dual economic systems, marked by agrarian land conversion alongside informal manufacturing and logistics hubs.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -6958,7 +6958,7 @@
     }
   },
   {
-    "id": "q_17b97a23",
+    "id": 4568,
     "stem": "With reference to rural settlement patterns in India, consider the following statements:\n1. Clustered or nucleated settlements are predominantly found in the fertile alluvial plains of the Ganga and Brahmaputra, driven by social cohesion and shared water resources.\n2. Dispersed or isolated settlements are characteristic of remote hilly tracts, plateaus with poor soils, and regions dominated by shifting cultivation or extensive commercial farming.\n3. Semi-clustered or fragmented settlements (Pana, Hamlets) often reflect historical socio-spatial segregation based on caste or landownership patterns.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -7029,7 +7029,7 @@
     }
   },
   {
-    "id": "q_4c9290d4",
+    "id": 4569,
     "stem": "Consider the following statements regarding the morphology and evolution of urban settlements:\n1. Satellite towns are independent urban centers that develop entirely autonomously without any functional linkage to a primary metropolitan city.\n2. Garrison towns function primarily for defense purposes and are historically associated with strategic military presence.\n3. The process of urbanization involves not only demographic growth of urban populations but also occupational transformation from primary to secondary and tertiary activities.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7100,7 +7100,7 @@
     }
   },
   {
-    "id": "q_bc05a0e3",
+    "id": 4570,
     "stem": "Consider the following statements regarding rural settlement typology:\n1. Hamleted settlements result from the social or caste segregation of a larger main village into several smaller units known as pnas or paras.\n2. Transhumance is a permanent rural settlement type where pastoralists reside year-round without seasonal migration.\n3. Wet point settlements are located near water bodies in arid areas, whereas dry point settlements are located on elevated ground to avoid flooding in water-abundant regions.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7171,7 +7171,7 @@
     }
   },
   {
-    "id": "q_77e82d0b",
+    "id": 4571,
     "stem": "Assertion (A): Rural-urban migration in developing countries is predominantly driven by 'push' factors in rural areas and 'pull' factors in urban centers.\nReason (R): Rural push factors include agricultural mechanization, landlessness, and rural poverty, while urban pull factors include perceived employment opportunities and better access to education and healthcare.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -7242,7 +7242,7 @@
     }
   },
   {
-    "id": "q_26b4f96b",
+    "id": 4572,
     "stem": "Which of the following rural settlement types is characterized by houses closely packed along a river dyke, a road, or a canal?",
     "options": {
       "opt_a": "Dispersed settlement",
@@ -7313,7 +7313,7 @@
     }
   },
   {
-    "id": "q_1bb6cc80",
+    "id": 4573,
     "stem": "Consider the following pairs linking Indian urban centers with their functional specializations:\n1. Ankleshwar : Industrial-Petrochemical town\n2. Khetri : Mining town\n3. Aligarh : Educational town\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7384,7 +7384,7 @@
     }
   },
   {
-    "id": "q_c0b706da",
+    "id": 4574,
     "stem": "Consider the following statements regarding the types of rural settlements:\n1. Clustered settlements are generally found in fertile alluvial plains where security and social cooperation are major governing factors.\n2. Dispersed settlement patterns are predominantly observed in regions with extremely fragmented land-holding systems and high population pressure.\n3. Star-shaped settlements develop along major roads and railway lines where multiple transport routes converge.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7455,7 +7455,7 @@
     }
   },
   {
-    "id": "q_14e351d0",
+    "id": 4575,
     "stem": "Assertion (A): Circular rural settlements frequently develop around lakes, tanks, or a central religious structure in semi-arid and arid regions.\nReason (R): Water scarcity and defense requirements necessitate the grouping of dwellings around a single central resource or fortification.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -7526,7 +7526,7 @@
     }
   },
   {
-    "id": "q_818a33c2",
+    "id": 4576,
     "stem": "Match the urban centers with their predominant functional classification:\n1. Bhilai: Industrial town\n2. Oxford: Educational/Cultural town\n3. Washington D.C.: Administrative town\n4. Visakhapatnam: Port/Commercial town\nHow many of the given pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7597,7 +7597,7 @@
     }
   },
   {
-    "id": "q_e2777541",
+    "id": 4577,
     "stem": "Consider the following characteristics regarding the Dharavi slum in Mumbai:\n1. It is entirely residential with no significant economic or manufacturing activity within its boundaries.\n2. It demonstrates a high degree of informal recycling, leather processing, and small-scale manufacturing units.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -7668,7 +7668,7 @@
     }
   },
   {
-    "id": "q_96f0bbef",
+    "id": 4578,
     "stem": "Match the following functional classifications of towns with their representative examples:\n1. Administrative town: Canberra\n2. Defensive town: Portsmouth\n3. Cultural town: Jerusalem\n4. Industrial town: Pittsburgh\nHow many of the given pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7739,7 +7739,7 @@
     }
   },
   {
-    "id": "q_8a9bb821",
+    "id": 4579,
     "stem": "Assertion (A): Hamleted settlements (Panna, Para, Nagla, Pali) are typically found in the lower Ganga plain, Chhattisgarh, and the lower valleys of the Himalayas.\nReason (R): This fragmentation into multiple physical units occurs due to social and ethnic factors where the original main settlement is abandoned due to floods.",
     "options": {
       "opt_a": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
@@ -7810,7 +7810,7 @@
     }
   },
   {
-    "id": "q_08cf9a0d",
+    "id": 4580,
     "stem": "Consider the following statements regarding urban development schemes in India:\n1. The Smart Cities Mission operates as a Centrally Sponsored Scheme where financial support is provided by the central government to states and urban local bodies.\n2. Retrofitting under the Smart Cities Mission involves introducing planning interventions to make an existing built-up area more efficient and livable.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -7881,7 +7881,7 @@
     }
   },
   {
-    "id": "q_a0600142",
+    "id": 4581,
     "stem": "Match the following rural settlement patterns with their primary physical or social determinants:\n1. Linear pattern: Along transport routes, coastlines, or levees\n2. Dispersed pattern: Extreme fragmentation of arable land in high-density river valleys\n3. Y-shaped pattern: Confluence of two rivers or roads\n4. Nucleated pattern: Fertile plains with communal agrarian practices\nHow many of the given pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7952,7 +7952,7 @@
     }
   },
   {
-    "id": "q_5ffda882",
+    "id": 4582,
     "stem": "Consider the following pairs of Indian towns and their functional classification:\n1. Singrauli : Mining town\n2. Bhilai : Industrial town\n3. Guwahati : Transport town\n4. Chandigarh : Administrative town\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8023,7 +8023,7 @@
     }
   },
   {
-    "id": "q_a3d120b3",
+    "id": 4583,
     "stem": "Assertion (A): Semi-clustered or fragmented rural settlements in India often result from tendency of segregation or fragmentation of a large compact village.\nReason (R): One of the major socio-cultural reasons for such patterns is caste and tribal fragmentation or landowner dominance where a section of society is forced to live away from the main cluster.",
     "options": {
       "opt_a": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
@@ -8094,7 +8094,7 @@
     }
   },
   {
-    "id": "q_dee2c254",
+    "id": 4584,
     "stem": "Consider the following statements regarding the functional classification of towns:\n1. Administrative towns are those whose primary function is to conduct governmental administration, such as state capitals and national capitals.\n2. Religious and cultural towns draw their primary significance from places of pilgrimage, historical significance, or spiritual centers.\n3. Tourist towns function primarily to serve leisure, recreation, and hospitality needs.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8165,7 +8165,7 @@
     }
   },
   {
-    "id": "q_619918d1",
+    "id": 4585,
     "stem": "Consider the following statements regarding the evolution and historical classification of Indian towns:\n1. Towns that developed as administrative headquarters during the British period are categorized as modern towns.\n2. Madurai and Varanasi are prominent examples of ancient towns in India that evolved as religious and cultural centers.\n3. Masulipatnam and Surat emerged primarily as trade and commercial centers during the medieval period.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8236,7 +8236,7 @@
     }
   },
   {
-    "id": "q_438879f6",
+    "id": 4586,
     "stem": "Consider the following statements regarding the Smart Cities Mission in India:\n1. The core infrastructure elements in a Smart City include adequate water supply, assured electricity supply, and sustainable environment.\n2. The strategic components of the mission include area-based development, which encompasses retrofitting, redevelopment, and greenfield development.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -8307,7 +8307,7 @@
     }
   },
   {
-    "id": "q_22693a41",
+    "id": 4587,
     "stem": "Consider the following statements regarding slums in Indian metropolitan cities:\n1. Slums are predominantly characterized by substandard housing, overcrowding, lack of piped water supply, and inadequate sanitation facilities.\n2. According to Census data, the proportion of slum population to total urban population is highest in metropolitan cities with a population of over 5 million.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -8378,7 +8378,7 @@
     }
   },
   {
-    "id": "q_1ff92c6c",
+    "id": 4588,
     "stem": "Which one of the following terms best describes a region of continuous urban growth consisting of multiple metropolis areas that have merged through suburban expansion, as originally coined by Patrick Geddes?",
     "options": {
       "opt_a": "Million-plus city",
@@ -8449,7 +8449,7 @@
     }
   },
   {
-    "id": "q_2e7a8941",
+    "id": 4589,
     "stem": "Assertion (A): Dharavi, located in Mumbai, exhibits a high density of informal economic enterprises alongside residential clusters.\nReason (R): Informal settlements in developing megacities lack integration into municipal governance and financial credit systems, forcing residents into micro-enterprises within the residential fabric.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -8520,7 +8520,7 @@
     }
   },
   {
-    "id": "q_67f676f0",
+    "id": 4590,
     "stem": "Which of the following demographic thresholds distinguishes a 'Million-plus city' from a 'Megacity' according to standard United Nations definitions?",
     "options": {
       "opt_a": "Million-plus cities have 1 to 5 million people, whereas megacities have 10 million or more inhabitants.",
@@ -8591,7 +8591,7 @@
     }
   },
   {
-    "id": "q_69668c6c",
+    "id": 4591,
     "stem": "Which of the following characteristics best distinguish rural settlements from urban settlements in geographic literature?",
     "options": {
       "opt_a": "Rural settlements depend primarily on primary economic activities such as agriculture, whereas urban settlements are dominated by secondary and tertiary activities.",
@@ -8662,7 +8662,7 @@
     }
   },
   {
-    "id": "q_bef3b0ed",
+    "id": 4592,
     "stem": "Consider the following statements regarding rural settlement patterns in India:\n1. Clustered rural settlements are frequently found in the fertile alluvial plains of northern India and the deltaic regions.\n2. Dispersed settlement patterns are typically characterized by isolated huts or hamlets scattered over remote hills or fragmented agricultural land.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -8733,7 +8733,7 @@
     }
   },
   {
-    "id": "q_f6311fd6",
+    "id": 4593,
     "stem": "Which of the following factors best explains the persistence and growth of slums in Indian cities despite various governmental urban renewal and housing initiatives?",
     "options": {
       "opt_a": "Mismatch between the rapid influx of rural migrants and the availability of affordable formal housing and formal employment in cities",
@@ -8804,7 +8804,7 @@
     }
   },
   {
-    "id": "ssc_pyq_0544",
+    "id": 4594,
     "stem": "Consider the following statements regarding Biosphere Reserves in India: I. Gulf of Mannar Biosphere Reserve is located in Kerala. II. Dugong, the largest endangered marine mammal, is found in the Gulf of Mannar. III. Seshachalam Biosphere Reserve is situated in Andhra Pradesh. Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "Only I",
@@ -8872,7 +8872,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0653",
+    "id": 4595,
     "stem": "What is the term for the shift of workers from agriculture to industry and services?",
     "options": {
       "opt_a": "Industrialization",
@@ -8940,7 +8940,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0657",
+    "id": 4596,
     "stem": "Which of the following statements best explains why certain regions exhibit high population density?",
     "options": {
       "opt_a": "Regions offering fertile land, favorable climates, abundant natural resources, and robust economic opportunities are more likely to have high population densities.",
@@ -9008,7 +9008,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0663",
+    "id": 4597,
     "stem": "Which of the following correctly matches the population growth phase in India with its key characteristics?",
     "options": {
       "opt_a": "Phase IV (Post-1981) - Sudden increase in fertility rate due to migration",
@@ -9076,7 +9076,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0664",
+    "id": 4598,
     "stem": "In each of the following questions, a statement labeled Assertion (A) is given, followed by a statement labeled Reason (R). Assertion (A): Migration can be driven by negative and positive circumstances. Reason (R): Push factors make individuals migrate away from a region, whereas pull factors draw individuals to a region.",
     "options": {
       "opt_a": "A is false, but R is true.",
@@ -9144,7 +9144,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0666",
+    "id": 4599,
     "stem": "Which state has the lowest population in India?",
     "options": {
       "opt_a": "Manipur",
@@ -9212,7 +9212,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0667",
+    "id": 4600,
     "stem": "According to Census 2011 which Indian State/UT has no Scheduled Tribe?",
     "options": {
       "opt_a": "Kerala",
@@ -9280,7 +9280,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0669",
+    "id": 4601,
     "stem": "Which of the following statements is/are correct according to the Census of India-2011? a. A person aged seven years or above, who can both read and write with understanding in any language, is treated as literate. b. A person who can only read but cannot write is not literate.",
     "options": {
       "opt_a": "Both",
@@ -9348,7 +9348,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0670",
+    "id": 4602,
     "stem": "As per Census 2011, which of the following states recorded negative growth in child sex ratio?",
     "options": {
       "opt_a": "Maharashtra",
@@ -9416,7 +9416,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0672",
+    "id": 4603,
     "stem": "According to Census of India 2011, in rural India, which state has the maximum female workforce participation rate?",
     "options": {
       "opt_a": "Arunachal Pradesh",
@@ -9484,7 +9484,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0673",
+    "id": 4604,
     "stem": "As per the definition of Census of India, a ‘marginal worker’ is a person who works for:",
     "options": {
       "opt_a": "less than 183 days (or six months) in a year",
@@ -9552,7 +9552,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0674",
+    "id": 4605,
     "stem": "The Accelerated Female Literacy Programme was initiated in districts where the female literacy rate, based on the 2001 census, was _______.",
     "options": {
       "opt_a": "below 35%",
@@ -9620,7 +9620,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0675",
+    "id": 4606,
     "stem": "According to Census of India 2011, what is the gap between male and female literacy rate in India?",
     "options": {
       "opt_a": "21.59 %",
@@ -9688,7 +9688,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0676",
+    "id": 4607,
     "stem": "According to the Census of India 2011, the percentage of adolescent population (10-19 years) from the total population is how much?",
     "options": {
       "opt_a": "22.9%",
@@ -9756,7 +9756,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0677",
+    "id": 4608,
     "stem": "According to the Census of India 2011, which group of Union Territories recorded the highest sex ratio?",
     "options": {
       "opt_a": "Puducherry, Delhi, Andaman and Nicobar Islands",
@@ -9824,7 +9824,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0679",
+    "id": 4609,
     "stem": "According to the Census of India 2011, ‘Other Religions and Persuasions (ORP)’ comprise how much of the population?",
     "options": {
       "opt_a": "3.9 million",
@@ -9892,7 +9892,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0683",
+    "id": 4610,
     "stem": "Consider the following statements: 1. India’s annual exponential growth rate as per Census 2011 was 0.64%. 2. The slogan of Census 2011 was “Our Census, Our Right”. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -9960,7 +9960,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0684",
+    "id": 4611,
     "stem": "According to Census of India 2011, female adolescents in the age group of 10-19 years had a share of:",
     "options": {
       "opt_a": "52.7%",
@@ -10028,7 +10028,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0686",
+    "id": 4612,
     "stem": "The growth rate of India's population has been declining since ____.",
     "options": {
       "opt_a": "1991",
@@ -10096,7 +10096,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0687",
+    "id": 4613,
     "stem": "Consider the following statements regarding Census in India: I. The Census Act was enacted in India in 1947. II. The first census of Independent India was conducted in 1950. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -10164,7 +10164,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0689",
+    "id": 4614,
     "stem": "According to Census of India 2011, how many districts are there in India?",
     "options": {
       "opt_a": "630",
@@ -10232,7 +10232,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0690",
+    "id": 4615,
     "stem": "According to the Census of India 2011, which group of states has the least urban population?",
     "options": {
       "opt_a": "Madhya Pradesh and Bihar",
@@ -10300,7 +10300,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0691",
+    "id": 4616,
     "stem": "According to Census of India 2011, what was the sex ratio recorded in the Union Territory of Puducherry?",
     "options": {
       "opt_a": "890 females/1000 males",
@@ -10368,7 +10368,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0692",
+    "id": 4617,
     "stem": "As per the Census-2011, the population growth during the decade remained ________.",
     "options": {
       "opt_a": "15.30%",
@@ -10436,7 +10436,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0693",
+    "id": 4618,
     "stem": "On the basis of highest population growth rate (Census, 2011), select the option that arranges the following states in descending order. (A) Bihar (B) Arunachal Pradesh (C) Meghalaya",
     "options": {
       "opt_a": "A, B, C",
@@ -10504,7 +10504,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0694",
+    "id": 4619,
     "stem": "According to Census of India 2011, which district in India has the lowest literacy rate in India?",
     "options": {
       "opt_a": "Aizawl",
@@ -10572,7 +10572,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0695",
+    "id": 4620,
     "stem": "Consider the following statements regarding Census 2011: 1. Kerala is the most urbanised state in India with 62.2% urban population. 2. Himachal Pradesh has the lowest urban population (10%) among Indian states. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -10640,7 +10640,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0696",
+    "id": 4621,
     "stem": "As per the Census of India-2011, the density of population per km 2 was ________ persons.",
     "options": {
       "opt_a": "382",
@@ -10708,7 +10708,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0697",
+    "id": 4622,
     "stem": "According to the Census 2011 of India, which metropolitan has the second highest population?",
     "options": {
       "opt_a": "Chennai",
@@ -10776,7 +10776,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0699",
+    "id": 4623,
     "stem": "What was the Child Sex Ratio in the country as per the Census of India 2011?",
     "options": {
       "opt_a": "189",
@@ -10844,7 +10844,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0700",
+    "id": 4624,
     "stem": "As per Census of India 2011, in which of the following states was the total population less than 10 lakh?",
     "options": {
       "opt_a": "Telangana",
@@ -10912,7 +10912,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0701",
+    "id": 4625,
     "stem": "As per the Census-2011, the total absolute increase in population during the decade is ________.",
     "options": {
       "opt_a": "18.19 crore",
@@ -10980,7 +10980,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0702",
+    "id": 4626,
     "stem": "Match the following States/UTs with their Sex Ratio (Census 2011): A. Kerala → (i) 996 B. Puducherry → (ii) 877 C. Tamil Nadu → (iii) 1084 D. Haryana → (iv) 1037 E. Daman & Diu → (v) 618",
     "options": {
       "opt_a": "A–i, B–ii, C–iii, D–iv, E–v",
@@ -11048,7 +11048,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0703",
+    "id": 4627,
     "stem": "Consider the following: Which of the following reasons may be considered as India’s pull factors for migration? 1. Labour demand 2. Natural disaster 3. Protection of human and civil rights 4. High consumption and living standards",
     "options": {
       "opt_a": "Both 1 and 4",
@@ -11116,7 +11116,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0704",
+    "id": 4628,
     "stem": "What is the literacy rate of males in India as per the report published in the National Survey of India-2022?",
     "options": {
       "opt_a": "81.2%",
@@ -11184,7 +11184,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0705",
+    "id": 4629,
     "stem": "The __________ results from an increase in the proportion of workers relative to nonworkers in the population.",
     "options": {
       "opt_a": "age structure of population",
@@ -11252,7 +11252,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0706",
+    "id": 4630,
     "stem": "According to the Census of India 2011, which of the following states has the largest Buddhist population?",
     "options": {
       "opt_a": "Madhya Pradesh",
@@ -11320,7 +11320,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0707",
+    "id": 4631,
     "stem": "With regard to the component of population density, which state is the odd one out of the following?",
     "options": {
       "opt_a": "Tamil Nadu",
@@ -11388,7 +11388,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0709",
+    "id": 4632,
     "stem": "According to Census 2011, which of the following languages is spoken by the least population in India?",
     "options": {
       "opt_a": "Sanskrit",
@@ -11456,7 +11456,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0711",
+    "id": 4633,
     "stem": "As per Census 2011, what is the percentage of rural population in India?",
     "options": {
       "opt_a": "52.4%",
@@ -11524,7 +11524,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0713",
+    "id": 4634,
     "stem": "As per the 2011 census, what is the density of population in Arunachal Pradesh?",
     "options": {
       "opt_a": "19 persons/km²",
@@ -11592,7 +11592,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0714",
+    "id": 4635,
     "stem": "What is the density of population in NCT of Delhi as per the 2011 Census?",
     "options": {
       "opt_a": "11320",
@@ -11660,7 +11660,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0719",
+    "id": 4636,
     "stem": "What is the percentage share of the population working in the agricultural sector as per Census of India 2011?",
     "options": {
       "opt_a": "0.567",
@@ -11728,7 +11728,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0720",
+    "id": 4637,
     "stem": "According to the Census of India-2011, which of the following options represents a group of the most urbanized union territories in India?",
     "options": {
       "opt_a": "Chandigarh and Lakshadweep",
@@ -11796,7 +11796,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0721",
+    "id": 4638,
     "stem": "According to the census of India 2011, which group of Union Territories of India has the highest literacy rate?",
     "options": {
       "opt_a": "Lakshadweep and Daman and Diu",
@@ -11864,7 +11864,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0722",
+    "id": 4639,
     "stem": "Match the following states with the percentage of population below the poverty line. According to the Planning Commission of India (2011-12). States % of population below poverty line 1. Gujarat a. 8.06 2. Haryana b. 11.16 3. Himachal Pradesh c. 16.63",
     "options": {
       "opt_a": "1- c, 2- a, 3- b",
@@ -11932,7 +11932,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0724",
+    "id": 4640,
     "stem": "Consider the following statements regarding Census 2011 sex ratio: I. Lakshadweep recorded the lowest sex ratio in the Union Territory in India. II. Punjab had the highest sex ratio among Indian states. Which of the above statement(s) is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -12000,7 +12000,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0725",
+    "id": 4641,
     "stem": "As per the Census of India 2011, which Union Territory recorded the lowest population growth rate?",
     "options": {
       "opt_a": "Lakshadweep",
@@ -12068,7 +12068,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0727",
+    "id": 4642,
     "stem": "According to Census of India 2011, what was the total population of India (approx)?",
     "options": {
       "opt_a": "131 Crore",
@@ -12136,7 +12136,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0728",
+    "id": 4643,
     "stem": "Which of the following states had the highest percentage of Scheduled Tribes in the country as per census 2011?",
     "options": {
       "opt_a": "Rajasthan",
@@ -12204,7 +12204,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0729",
+    "id": 4644,
     "stem": "According to Census of India 2011, which state in India has the highest female literacy rate?",
     "options": {
       "opt_a": "Himachal Pradesh",
@@ -12272,7 +12272,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0730",
+    "id": 4645,
     "stem": "The population density of India as per the Census of 1951 is _______.",
     "options": {
       "opt_a": "117 per sq km",
@@ -12340,7 +12340,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0731",
+    "id": 4646,
     "stem": "What is the Crude Death Rate of India as per Census 2011?",
     "options": {
       "opt_a": "10%",
@@ -12408,7 +12408,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0732",
+    "id": 4647,
     "stem": "What was the percentage of India's population that belonged to the Muslim religion in 2011?",
     "options": {
       "opt_a": "14.2%",
@@ -12476,7 +12476,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0733",
+    "id": 4648,
     "stem": "On the basis of tribal population (2011), identify the option that arranges the following states in ascending order. A. Madhya Pradesh B. Maharashtra C. Odisha",
     "options": {
       "opt_a": "(C), (B), (A)",
@@ -12544,7 +12544,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0735",
+    "id": 4649,
     "stem": "India can be considered to be a country with Demographic Dividend due to _______.",
     "options": {
       "opt_a": "high population above 70 years",
@@ -12612,7 +12612,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0736",
+    "id": 4650,
     "stem": "Consider the following statements: 1. The period 1951–1981 is called the period of population explosion in India. 2. During this period, India’s population grew from 261 million to 683 million. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -12680,7 +12680,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0737",
+    "id": 4651,
     "stem": "What does the Lincoln index measure?",
     "options": {
       "opt_a": "Population Size",
@@ -12748,7 +12748,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0738",
+    "id": 4652,
     "stem": "Consider the following statements: www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography 1. As per Census classification, the working age group is taken as 18–60 years. 2. The National Youth Policy 2014 defines youth as persons in the age group of 15–29 years. Which of the above is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -12816,7 +12816,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0739",
+    "id": 4653,
     "stem": "In which of the following decades, there was a negative growth rate in the Indian population?",
     "options": {
       "opt_a": "1911-1921",
@@ -12884,7 +12884,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0740",
+    "id": 4654,
     "stem": "According to census 2011, which is the second largest religious minority of India?",
     "options": {
       "opt_a": "Christians",
@@ -12952,7 +12952,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0741",
+    "id": 4655,
     "stem": "According to the Union Home Ministry, the census 2021 (which got postponed due to COVID 19) was supposed to collect data for _________ for the first time.",
     "options": {
       "opt_a": "Schedule Tribes",
@@ -13020,7 +13020,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0744",
+    "id": 4656,
     "stem": "Consider the following statements: 1. If the birth rate equals the death rate, the population remains constant. 2. If the birth rate is higher than the death rate, the population decreases. Which of the above is/are incorrect?",
     "options": {
       "opt_a": "Only 1",
@@ -13088,7 +13088,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0745",
+    "id": 4657,
     "stem": "Which of the following factors can affect distribution of population? I. Geographical factors II. Social factors III. Cultural factors IV. Economic factors",
     "options": {
       "opt_a": "I, II, III only",
@@ -13156,7 +13156,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0747",
+    "id": 4658,
     "stem": "Officially, the first recorded data on transgenders in India was collected in which census?",
     "options": {
       "opt_a": "2011",
@@ -13224,7 +13224,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0750",
+    "id": 4659,
     "stem": "Which of the following states has the highest fertility rate in India according to the 2011 census?",
     "options": {
       "opt_a": "Kerala",
@@ -13292,7 +13292,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0751",
+    "id": 4660,
     "stem": "Why is there low population growth in a society that is underdeveloped and technologically backward?",
     "options": {
       "opt_a": "Because both death rate and birth rate are high",
@@ -13360,7 +13360,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0752",
+    "id": 4661,
     "stem": "According to the Socio-Economic Census 2015, which state has the largest population of households with ‘destitute / living on alms’?",
     "options": {
       "opt_a": "Chhattisgarh",
@@ -13428,7 +13428,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0753",
+    "id": 4662,
     "stem": "Growth rate of population refers to the:",
     "options": {
       "opt_a": "difference between birth rate and GDP",
@@ -13496,7 +13496,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0756",
+    "id": 4663,
     "stem": "What is the percentage of rural child population to the total child population of the country in India as per Provisional Population Totals of Census 2011?",
     "options": {
       "opt_a": "74.05 %",
@@ -13564,7 +13564,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0887",
+    "id": 4664,
     "stem": "Which of the following is NOT considered a method of conservation of natural resources?",
     "options": {
       "opt_a": "Extraction",
@@ -13632,7 +13632,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0912",
+    "id": 4665,
     "stem": "Identify the southernmost range of the Himalaya from the following.",
     "options": {
       "opt_a": "Shiwaliks Range",
@@ -13700,7 +13700,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0920",
+    "id": 4666,
     "stem": "Which of the following mountains is formed as a result of the compression of tectonic plates, leading to the formation of large fold-like structures on the Earth's crust?",
     "options": {
       "opt_a": "Ural mountain in Russia",

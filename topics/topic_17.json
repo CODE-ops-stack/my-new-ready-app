@@ -1,6 +1,6 @@
 [
   {
-    "id": "q_ebd911a3",
+    "id": 3895,
     "stem": "Which of the following coalfields is NOT located in the Damodar river valley basin?",
     "options": {
       "opt_a": "Jharia",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "id": "q_5241c1ad",
+    "id": 3896,
     "stem": "Which of the following coalfields contains the largest reserves of prime coking coal in India and is situated in the Damodar river valley?",
     "options": {
       "opt_a": "Talcher",
@@ -142,7 +142,7 @@
     }
   },
   {
-    "id": "q_74b1bdcd",
+    "id": 3897,
     "stem": "Consider the following pairs regarding nuclear power plants and their respective states:\n1. Kakrapara : Gujarat\n2. Kaiga : Karnataka\n3. Rawatbhata : Tamil Nadu\n4. Narora : Uttar Pradesh\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -213,7 +213,7 @@
     }
   },
   {
-    "id": "q_ce833bb2",
+    "id": 3898,
     "stem": "Which of the following regions in India is famous for large-scale lignite coal deposits, often referred to as 'brown coal', and supports major thermal power generation?",
     "options": {
       "opt_a": "Jharia in Jharkhand",
@@ -284,7 +284,7 @@
     }
   },
   {
-    "id": "q_d6811045",
+    "id": 3899,
     "stem": "Which of the following coastal locations in India is associated with a major nuclear power station commissioned with Russian technical cooperation?",
     "options": {
       "opt_a": "Tarapur",
@@ -355,7 +355,7 @@
     }
   },
   {
-    "id": "q_7fdb4617",
+    "id": 3900,
     "stem": "Consider the following pairs regarding mineral belts and their primary mineral wealth in India:\n1. Singhbhum belt: Copper and Iron ore\n2. Rajasthan (Khetri-Singhana): Lead and Zinc only\n3. Nellore belt: Mica\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -426,7 +426,7 @@
     }
   },
   {
-    "id": "q_4fe6734a",
+    "id": 3901,
     "stem": "Consider the following statements regarding the Atomic Minerals Directorate for Exploration and Research (AMD) and India's nuclear fuel cycle:\n1. Monazite sands found along coastal tracts contain thorium, which India plans to utilize in the second stage of its three-stage nuclear power program.\n2. Uranium deposits in India are discovered not only in Singhbhum shear zone but also in the Proterozoic unconformity-related basins of Telangana and Andhra Pradesh.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -497,7 +497,7 @@
     }
   },
   {
-    "id": "q_149eeef2",
+    "id": 3902,
     "stem": "Consider the following statements regarding nuclear power generation in India:\n1. India's three-stage nuclear power program was formulated by Homi J. Bhabha to utilize indigenous thorium reserves.\n2. Rawatbhata nuclear power plant is located in the state of Rajasthan and uses Pressurised Heavy Water Reactors (PHWR).\n3. Kudankulam nuclear power plant, located in Tamil Nadu, is built with technical and financial cooperation from France.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -568,7 +568,7 @@
     }
   },
   {
-    "id": "q_279205ea",
+    "id": 3903,
     "stem": "Consider the following statements regarding the major iron ore belts of India:\n1. The Odisha-Jharkhand belt contains high-grade hematite ore mined extensively from Noamundi and Badampahar.\n2. The Durg-Bastar-Chandrapur belt sends super-high-grade hematite from Bailadila to Japan via the Visakhapatnam port.\n3. The Kudremukh deposits in the Western Ghats are known for export-grade lump ore shipped through the Mangalore port.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -639,7 +639,7 @@
     }
   },
   {
-    "id": "q_735e68f4",
+    "id": 3904,
     "stem": "With reference to India's non-conventional and renewable energy sector targets, consider the following statements:\n1. India aims to achieve 500 GW of non-fossil energy capacity by the year 2030.\n2. The National Green Hydrogen Mission targets a production capacity of at least 5 Million Metric Tonnes (MMT) per annum by 2030.\n3. Solar photovoltaic capacity constitutes the largest share among all renewable energy sources currently installed in India.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -710,7 +710,7 @@
     }
   },
   {
-    "id": "q_2cc96bbb",
+    "id": 3905,
     "stem": "Consider the following statements regarding the District Mineral Foundation (DMF) trusts established under the Mines and Minerals (Development and Regulation) Amendment Act:\n1. DMFs are statutory bodies established at the district level to work for the interest and benefit of persons and areas affected by mining-related operations.\n2. The funds for DMF come from a percentage of royalty payments made by the mineral license holders.\n3. The administration and utilization of DMF funds are governed strictly by central government guidelines without state intervention.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -781,7 +781,7 @@
     }
   },
   {
-    "id": "q_037ee8c7",
+    "id": 3906,
     "stem": "Consider the following minerals and their primary producing states in India:\n1. Manganese : Madhya Pradesh\n2. Bauxite : Odisha\n3. Mica : Andhra Pradesh\n4. Copper : Rajasthan\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only two",
@@ -852,7 +852,7 @@
     }
   },
   {
-    "id": "q_642499b5",
+    "id": 3907,
     "stem": "Consider the following statements regarding India's wind energy sector:\n1. India has the fourth-highest wind energy installed capacity in the world.\n2. The vast majority of India's wind energy potential is concentrated in the northern plains due to high continental pressure gradients.\n3. Offshore wind energy development in India is currently being explored primarily along the coasts of Gujarat and Tamil Nadu.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -923,7 +923,7 @@
     }
   },
   {
-    "id": "q_1d8531c6",
+    "id": 3908,
     "stem": "Consider the following pairs of atomic minerals and their primary occurrences in India:\n1. Monazite: Kerala coast sands\n2. Uranium: Jaduguda mines in Jharkhand\n3. Lithium: Mandya district in Karnataka\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -994,7 +994,7 @@
     }
   },
   {
-    "id": "q_d5f5d6e5",
+    "id": 3909,
     "stem": "Consider the following pairs of mineral-rich regions and their states:\n1. Korba: Chhattisgarh (Coal)\n2. Bailadila: Odisha (Iron Ore)\n3. Koraput: Odisha (Bauxite)\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "id": "q_b26c94a2",
+    "id": 3910,
     "stem": "Consider the following pairs of petroleum refineries and their locations:\n1. Numaligarh : Assam\n2. Tatipaka : Andhra Pradesh\n3. Bongaigaon : West Bengal\n4. Bina : Madhya Pradesh\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1136,7 +1136,7 @@
     }
   },
   {
-    "id": "q_04bd14de",
+    "id": 3911,
     "stem": "Consider the following statements regarding the distribution of iron ore in India:\n1. Magnetite is the finest iron ore with a very high content of iron up to 70 percent.\n2. The Kudremukh mines in Karnataka are known for exporting iron ore primarily through the port of Mangaluru.\n3. Odisha accounts for the largest share of hematite ore production in India, largely concentrated in the Sundargarh and Mayurbhanj districts.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1207,7 +1207,7 @@
     }
   },
   {
-    "id": "q_d2eb4ca8",
+    "id": 3912,
     "stem": "Statement-I: Gondwana coalfields, which account for about 98 percent of India's total coal reserves, are primarily located in the river valleys of peninsular India.\nStatement-II: Tertiary coal deposits are predominantly found in the north-eastern states of India and possess a high moisture and sulphur content.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1278,7 +1278,7 @@
     }
   },
   {
-    "id": "q_03a34bfb",
+    "id": 3913,
     "stem": "Which of the following statements is NOT correct regarding the non-conventional energy sources in India?",
     "options": {
       "opt_a": "The National Solar Mission aims to achieve grid-connected solar power capacity with a heavy emphasis on domestic manufacturing through PLI schemes.",
@@ -1349,7 +1349,7 @@
     }
   },
   {
-    "id": "q_13950b28",
+    "id": 3914,
     "stem": "Consider the following minerals:\n1. Bauxite\n2. Copper\n3. Manganese\n4. Chromite\nWhich of the above are classified as non-ferrous metallic minerals?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -1420,7 +1420,7 @@
     }
   },
   {
-    "id": "q_1ce39096",
+    "id": 3915,
     "stem": "Consider the following statements regarding petroleum and natural gas reserves in India:\n1. Mumbai High, discovered in 1974, accounts for the largest share of India's offshore crude oil production.\n2. The Krishna-Godavari (KG) basin has emerged as a prolific basin primarily for natural gas discoveries, notably the D-6 block.\n3. Digboi in Assam is the oldest continuously producing oil field in Asia.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1491,7 +1491,7 @@
     }
   },
   {
-    "id": "q_7729b8c4",
+    "id": 3916,
     "stem": "Statement-I: Limestone is an essential raw material for the cement industry and is largely found in the sedimentary rocks of the Vindhyan series.\nStatement-II: Gypsum is a hydrated sulphate of calcium and is extensively used in the manufacture of ammonia sulphate fertilizer and plaster of Paris.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1562,7 +1562,7 @@
     }
   },
   {
-    "id": "q_17633a91",
+    "id": 3917,
     "stem": "Statement-I: Mica is widely used in the electrical and electronic industries due to its excellent dielectric strength and low power loss factor.\nStatement-II: India is the world's leading exporter of sheet mica, with major deposits found in the mica belts of Jharkhand, Andhra Pradesh, and Rajasthan.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1633,7 +1633,7 @@
     }
   },
   {
-    "id": "q_469bbd15",
+    "id": 3918,
     "stem": "Which of the following regions in India is most noted for harnessing geothermal energy through hot water springs?",
     "options": {
       "opt_a": "Manikaran in Himachal Pradesh and Puga in Ladakh",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "id": "q_8b01e478",
+    "id": 3919,
     "stem": "Which of the following is NOT a correct measure for the conservation of mineral and energy resources in India?",
     "options": {
       "opt_a": "Promoting the recycling of metals like aluminum, copper, and steel to reduce pressure on primary ore extraction.",
@@ -1775,7 +1775,7 @@
     }
   },
   {
-    "id": "q_7658e0ca",
+    "id": 3920,
     "stem": "Statement-I: Anthracite is the highest quality coal with carbon content exceeding 80-95%, but its distribution in India is extremely limited.\nStatement-II: In India, anthracite coal is predominantly found and commercially mined in the Gondwana sedimentary rock systems.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "id": "q_1df0a3d7",
+    "id": 3921,
     "stem": "Which of the following statements is NOT correct regarding India's petroleum refinery distribution and crude oil pipeline network?",
     "options": {
       "opt_a": "The Naharkatiya-Nunmati-Barauni pipeline was the first major crude oil pipeline constructed in India.",
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "id": "q_385e80e9",
+    "id": 3922,
     "stem": "Which one of the following laws or regulatory bodies is primarily empowered to regulate major mineral concessions and mining leases in India?",
     "options": {
       "opt_a": "The Forest Conservation Act, 1980",
@@ -1988,7 +1988,7 @@
     }
   },
   {
-    "id": "q_cd71ac71",
+    "id": 3923,
     "stem": "Statement-I: The Bellary-Hospet region in Karnataka has emerged as a major iron ore producing center, supplying high-demand ore to domestic steel plants like Vijayanagar Steel.\nStatement-II: Karnataka possesses rich magnetite ore reserves at Kudremukh, which account for a substantial share of total national iron ore reserves.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -2059,7 +2059,7 @@
     }
   },
   {
-    "id": "q_3048a0a0",
+    "id": 3924,
     "stem": "Which of the following statements is/are correct regarding the distribution of coal in India?\n1. Gondwana coal is free from moisture and contains sulphur in small proportions.\n2. Tertiary coal deposits are predominantly found in the extra-peninsular regions like Jammu and Kashmir, Assam, and Arunachal Pradesh.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 only",
@@ -2130,7 +2130,7 @@
     }
   },
   {
-    "id": "q_oxford4_1a2b3c",
+    "id": 3925,
     "stem": "Consider the following countries:\n1. Myanmar\n2. Thailand\n3. Vietnam\nWhich of the above countries are part of the 'Golden Triangle', known for illicit opium production?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -2201,7 +2201,7 @@
     }
   },
   {
-    "id": "q_pred1_6p7q8r",
+    "id": 3926,
     "stem": "Consider the following regions in India:\n1. Gulf of Khambhat\n2. Gulf of Mannar\n3. Sunderbans\nWhich of the above are identified as having high potential for Offshore Wind Energy?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -2272,7 +2272,7 @@
     }
   },
   {
-    "id": "q_pred1_3q4r5s",
+    "id": 3927,
     "stem": "The 'Salar de Hombre Muerto', recently in the news regarding strategic mineral acquisitions by India, is located in:\n",
     "options": {
       "opt_a": "Chile",
@@ -2343,7 +2343,7 @@
     }
   },
   {
-    "id": "q_pred1_2z3a4b",
+    "id": 3928,
     "stem": "Which of the following elements is NOT typically classified as a Rare Earth Element (REE) despite being crucial for high-tech applications?\n",
     "options": {
       "opt_a": "Promethium",
@@ -2414,7 +2414,7 @@
     }
   },
   {
-    "id": "q_0270e51b",
+    "id": 3929,
     "stem": "Consider the following important cities situated along the Golden Quadrilateral highway network:\n1. Jaipur\n2. Udaipur\n3. Vadodara\n4. Surat\n\nWhich of the following is the correct arrangement of these cities from North to South?",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -2485,7 +2485,7 @@
     }
   },
   {
-    "id": "q_pred1_2v3w4x",
+    "id": 3930,
     "stem": "In the context of the Green Energy Corridor Project in India, which of the following statements is/are correct?\n1. It aims at synchronizing electricity produced from renewable sources, such as solar and wind, with conventional power stations in the grid.\n2. Phase II of the project specifically targets the evacuation of renewable energy from Ultra Mega Renewable Energy Power Parks (UMREPPs) in 7 states.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 only",
@@ -2556,7 +2556,7 @@
     }
   },
   {
-    "id": "q_pred1_7k8l9m",
+    "id": 3931,
     "stem": "Which of the following nations forms the 'African Copperbelt', a region also immensely rich in Cobalt?\n1. Democratic Republic of the Congo (DRC)\n2. Zambia\n3. Angola\n4. Zimbabwe\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 2 only",
@@ -2627,7 +2627,7 @@
     }
   },
   {
-    "id": "q_pred1_7g8h9i",
+    "id": 3932,
     "stem": "Consider the following pairs of Uranium deposits in India and their respective States:\n1. Tummalapalle : Andhra Pradesh\n2. Rohil : Rajasthan\n3. Gogi : Karnataka\n4. Domiasiat : Meghalaya\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -2698,7 +2698,7 @@
     }
   },
   {
-    "id": "q_pred1_0j1k2l",
+    "id": 3933,
     "stem": "With reference to Monazite, a major source of Thorium, consider the following statements:\n1. It is a naturally occurring radioactive mineral found primarily in the coastal sands of Kerala, Tamil Nadu, and Odisha.\n2. In India, private companies are allowed to export monazite freely to promote nuclear commerce.\n3. Indian Rare Earths Limited (IREL) is the sole entity permitted to process monazite in India.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "id": "q_pred1_9s0t1u",
+    "id": 3934,
     "stem": "Consider the following pairs of critical minerals and the African nations known for their significant reserves:\n1. Cobalt : Democratic Republic of the Congo (DRC)\n2. Platinum Group Metals (PGMs) : South Africa\n3. Bauxite : Guinea\n4. Tantalum : Rwanda\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -2840,7 +2840,7 @@
     }
   },
   {
-    "id": "q_pred1_8b9c0d",
+    "id": 3935,
     "stem": "Regarding India's critical mineral strategy, 'KABIL' (Khanij Bidesh India Ltd) has been focusing on which of the following minerals primarily for overseas acquisition?\n1. Lithium\n2. Cobalt\n3. Iron Ore\n4. Coal\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 2 only",
@@ -2911,7 +2911,7 @@
     }
   },
   {
-    "id": "q_pred1_4h5i6j",
+    "id": 3936,
     "stem": "Consider the following pairs of minerals and their primary end-use in green energy technologies:\n1. Neodymium : Permanent magnets for wind turbines\n2. Silver : Solar photovoltaic (PV) cells\n3. Graphite : Anodes in Lithium-ion batteries\n4. Tellurium : Cadmium Telluride (CdTe) thin-film solar panels\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -2982,7 +2982,7 @@
     }
   },
   {
-    "id": "q_pred1_0n1o2p",
+    "id": 3937,
     "stem": "Consider the following pairs of proposed/active Green Hydrogen hubs and their States in India:\n1. Kochi : Kerala\n2. Paradip : Odisha\n3. Tuticorin : Tamil Nadu\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "None of the pairs",
@@ -3053,7 +3053,7 @@
     }
   },
   {
-    "id": "q_pred1_5c6d7e",
+    "id": 3938,
     "stem": "Consider the following pairs of regions and their associated critical minerals in India:\n1. Reasi (Jammu & Kashmir) : Lithium\n2. Degana (Rajasthan) : Tungsten\n3. Tummalapalle (Andhra Pradesh) : Uranium\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -3124,7 +3124,7 @@
     }
   },
   {
-    "id": "q_pred2_n4o5p6q",
+    "id": 3939,
     "stem": "Consider the following pairs of resource-rich Arctic peninsulas and their associated sovereign countries:\n1. Yamal Peninsula : Russia (Major site of LNG projects)\n2. North Slope : United States (Prudhoe Bay oil fields)\n3. Svalbard : Norway (Coal mining history and global seed vault)\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -3195,7 +3195,7 @@
     }
   },
   {
-    "id": "q_curr_12",
+    "id": 3940,
     "stem": "Lithium, recently found in Reasi, is dubbed 'white gold' due to its demand in EVs. Which group of countries forms the 'Lithium Triangle', holding the world's largest known reserves?",
     "options": {
       "opt_a": "Australia, China, Chile",
@@ -3266,7 +3266,7 @@
     }
   },
   {
-    "id": "q_curr_20",
+    "id": 3941,
     "stem": "Coups in Sahel nations like Niger, Mali, and Burkina Faso have geopolitical implications, particularly concerning the export of critical minerals. Niger, for example, is a major global producer of:",
     "options": {
       "opt_a": "Cobalt",
@@ -3337,7 +3337,7 @@
     }
   },
   {
-    "id": "q_current1_a9f0b7c4",
+    "id": 3942,
     "stem": "In 2023, the Geological Survey of India established \"inferred\" resources of Lithium in the Salal-Haimana area of Reasi District. Consider the following statements:\n1. Reasi district is located in the Pir Panjal range of Jammu and Kashmir.\n2. Lithium globally is primarily extracted from hard rock bauxite deposits.\n3. The Reasi deposits are unique in India as they are bauxite-hosted.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 3 only",
@@ -3408,7 +3408,7 @@
     }
   },
   {
-    "id": "q_current1_d5e1b9a4",
+    "id": 3943,
     "stem": "With the global push for electric vehicles, the 'Lithium Triangle' has gained immense strategic and economic importance. Which three South American nations comprise this resource-rich region?",
     "options": {
       "opt_a": "Argentina, Bolivia, and Chile",
@@ -3479,7 +3479,7 @@
     }
   },
   {
-    "id": "q_current2_7q8r9s0t",
+    "id": 3944,
     "stem": "The Geological Survey of India (GSI) recently discovered inferred resources of Lithium in the Salal-Haimana area of Reasi district. Geologically, this region is located in which of the following Himalayan tectonic zones?",
     "options": {
       "opt_a": "Tethys Himalayas",
@@ -3550,7 +3550,7 @@
     }
   },
   {
-    "id": "q_current2_7e8f9g0h",
+    "id": 3945,
     "stem": "With reference to Critical Minerals, specifically Cobalt, which has seen massive geostrategic competition, consider the following statements: 1. The Democratic Republic of Congo (DRC) accounts for more than two-thirds of the world's cobalt production. 2. In India, primary cobalt ores are completely absent, and it is entirely recovered as a by-product of copper or nickel mining. Which of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -3621,7 +3621,7 @@
     }
   },
   {
-    "id": "q_current3_d4e5f6",
+    "id": 3946,
     "stem": "The recent discovery of Lithium in the Salal-Haimana area of Reasi District (J&K) is of strategic importance. Geologically, these inferred resources are hosted in:",
     "options": {
       "opt_a": "Bauxite columns formed during the Paleocene-Eocene thermal maximum.",
@@ -3692,7 +3692,7 @@
     }
   },
   {
-    "id": "q_current4_g3h4i5j6",
+    "id": 3947,
     "stem": "A recent discovery in 2023 identified massive reserves of Lithium in the Salal-Haimana region. In which geological formation/region are these reserves located?",
     "options": {
       "opt_a": "Dharwar Craton of Karnataka",
@@ -3763,7 +3763,7 @@
     }
   },
   {
-    "id": "q_interlink2_7c9e2",
+    "id": 3948,
     "stem": "Consider the following pairs linking physical geology with economic geography:\n1. Divergent boundaries : Porphyry copper deposits\n2. Convergent boundaries : Placer gold deposits\n3. Shield regions : Iron ore deposits\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -3834,7 +3834,7 @@
     }
   },
   {
-    "id": "q_interlink2_c8f4a",
+    "id": 3949,
     "stem": "Consider the following pairs linking physical coastal features to their economic utilization:\n1. Ria coasts : Deep-water natural harbors (e.g., Sydney Harbour)\n2. Dalmation coasts : Inland waterway transport parallel to the coast\n3. Fjord coasts : Extensive tidal mudflat aquaculture\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -3905,7 +3905,7 @@
     }
   },
   {
-    "id": "q_curr8_z2a3b4",
+    "id": 3950,
     "stem": "NTPC recently commissioned India's first green hydrogen blending project in the piped natural gas (PNG) network at Kawas. Geographically, why are the coastal plains of Gujarat prime locations for such pilot projects?",
     "options": {
       "opt_a": "They possess extensive subterranean salt caverns ideal for the geological storage of hydrogen.",
@@ -3976,7 +3976,7 @@
     }
   },
   {
-    "id": "q_interlink6_j0k1l2",
+    "id": 3951,
     "stem": "Consider the following statements interlinking geology, resources, and industries in Peninsular India:\n1. The presence of pegmatite intrusions in the Precambrian rocks of the Koderma-Gaya belt made it a historic hub for the electrical insulation industry prior to the advent of synthetic substitutes.\n2. The Neyveli lignite deposits, belonging to the Tertiary period, catalyzed the industrialization of Tamil Nadu by providing a reliable energy base in a region devoid of Gondwana coal.\n3. The Dharwar rock system is devoid of non-ferrous metals like copper and gold, restricting its industrial utility exclusively to the iron and steel sector.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4047,7 +4047,7 @@
     }
   },
   {
-    "id": "q_interlink6_e1f2g3",
+    "id": 3952,
     "stem": "Assertion (A): The establishment of the Durgapur Steel Plant (DSP) in West Bengal deviated slightly from the pure 'raw material proximity' principle compared to Bhilai or Rourkela.\nReason (R): Durgapur was located primarily on the Gondwana coalfields (Raniganj-Jharia) and relied on transporting iron ore from the distant Singhbhum-Keonjhar belt, optimizing the 'coal-return-freight' logistics.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -4118,7 +4118,7 @@
     }
   },
   {
-    "id": "q_interlink6_n0o1p2",
+    "id": 3953,
     "stem": "The geological 'Bombay High' structure is an offshore anticlinal trap formed during the Miocene epoch. Which of the following onshore industrial corridors was most heavily shaped by the resources extracted from this specific geological feature?",
     "options": {
       "opt_a": "The Hooghly Industrial Belt",
@@ -4189,7 +4189,7 @@
     }
   },
   {
-    "id": "q_cee2d16e",
+    "id": 3954,
     "stem": "Consider the following pairs of mining terminology and their definitions:\n1. Open-cast mining: The method used when mineral deposits lie at a shallow depth, involving the removal of overburden.\n2. Shaft mining: Underground mining that requires vertical or inclined tunnels to reach deep-seated mineral reserves.\n3. Placer mining: Extraction of minerals from unconsolidated alluvial deposits using water separation techniques.\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -4260,7 +4260,7 @@
     }
   },
   {
-    "id": "q_18ab1add",
+    "id": 3955,
     "stem": "Consider the following statements regarding the flow of energy and materials in ecosystems:\n1. Nutrient cycles are circular and closed, meaning nutrients are continually recycled within the biosphere.\n2. Energy flow through an ecosystem is non-cyclic and follows the laws of thermodynamics.\n3. The total amount of energy entering a trophic level is always completely converted into biomass for the next trophic level.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4331,7 +4331,7 @@
     }
   },
   {
-    "id": "q_3d91ba65",
+    "id": 3956,
     "stem": "Consider the following statements about exogenic processes: \n1. Exogenic processes derive their ultimate energy from the sun and the gradients created by tectonic factors.\n2. Shear stresses, which result in angular displacement or slippage of rocks, are exclusively produced by internal geothermal heat.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -4402,7 +4402,7 @@
     }
   },
   {
-    "id": "q_bfba1913",
+    "id": 3957,
     "stem": "Assertion (A): The flow of energy in an ecosystem is unidirectional and non-cyclic.\nReason (R): According to the 10% law of energy transfer, energy is progressively lost as heat at each trophic level during metabolic activities and cannot be recycled back to the sun.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -4473,7 +4473,7 @@
     }
   },
   {
-    "id": "q_e8b9ccb5",
+    "id": 3958,
     "stem": "Mohs scale of mineral hardness is a qualitative ordinal scale. In this scale, which of the following minerals can scratch orthoclase feldspar but is itself scratched by corundum?",
     "options": {
       "opt_a": "Calcite",
@@ -4544,7 +4544,7 @@
     }
   },
   {
-    "id": "q_29dc3c8a",
+    "id": 3959,
     "stem": "Consider the following pairs of mineral physical properties and their diagnostic descriptions:\n1. Cleavage: The tendency of a mineral to break along specific planes of internal atomic weakness.\n2. Fracture: The smooth, flat surface produced when a mineral breaks in a direction unrelated to crystal structure.\n3. Streak: The color of a mineral's powder when rubbed on an unglazed porcelain plate.\n\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -4615,7 +4615,7 @@
     }
   },
   {
-    "id": "q_4be7fec1",
+    "id": 3960,
     "stem": "Which of the following physical properties correctly distinguishes mica from other common rock-forming minerals like olivine and pyroxene?",
     "options": {
       "opt_a": "Mica exhibits perfect basal cleavage allowing it to split into extremely thin, elastic sheets, unlike the distinct prismatic or poor cleavage of olivine and pyroxenes.",
@@ -4686,7 +4686,7 @@
     }
   },
   {
-    "id": "q_956d8239",
+    "id": 3961,
     "stem": "Consider the following pairs regarding the classification of resources:\n1. Wind energy: Biotic and Ubiquitous\n2. Minerals: Non-renewable and Localized\n3. Fossil fuels: Non-renewable and Ubiquitous\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -4757,7 +4757,7 @@
     }
   },
   {
-    "id": "q_09f10091",
+    "id": 3962,
     "stem": "Assertion (A): The availability of resources is not the only condition for the development of any region.\nReason (R): Appropriate technological development and institutional changes are equally crucial along with resource availability to accelerate economic development.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -4828,7 +4828,7 @@
     }
   },
   {
-    "id": "q_4fca6dc1",
+    "id": 3963,
     "stem": "Consider the following statements regarding resource planning in India:\n1. Identification and inventory of resources across the regions of the country involves surveying, mapping and qualitative and quantitative estimation of the resources.\n2. Evolving a planning structure endowed with appropriate technology, skill and institutional set up is the first step in the resource planning process.\n3. Matching the resource development plans with overall national development plans is the final phase.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4899,7 +4899,7 @@
     }
   },
   {
-    "id": "q_f96a6bdf",
+    "id": 3964,
     "stem": "Which of the following statements correctly differentiates between potential and developed resources?",
     "options": {
       "opt_a": "Potential resources are those found in a region which have been surveyed and utilized for current consumption.",
@@ -4970,7 +4970,7 @@
     }
   },
   {
-    "id": "q_4d4434c5",
+    "id": 3965,
     "stem": "Which of the following cosmic distance measurement units is defined as the distance that light travels in a vacuum in one Julian year?",
     "options": {
       "opt_a": "Astronomical Unit",
@@ -5041,7 +5041,7 @@
     }
   },
   {
-    "id": "q_324f2250",
+    "id": 3966,
     "stem": "Consider the following pairs of seas/bays and their association with tidal range:\n1. Bay of Fundy - Highest tidal range in the world\n2. Mediterranean Sea - Extremely high semi-diurnal tidal range due to large oceanic connections\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5112,7 +5112,7 @@
     }
   },
   {
-    "id": "q_5779f173",
+    "id": 3967,
     "stem": "Consider the following phenomena associated with tidal cycles:\n1. Perigean Spring Tides\n2. Semi-diurnal tides\n3. Ebb tide\n4. Tidal bore\n\nHow many of the above are related to variations in the earth-moon-sun geometry or coastal topography?",
     "options": {
       "opt_a": "Only two",
@@ -5183,7 +5183,7 @@
     }
   },
   {
-    "id": "q_4d647e49",
+    "id": 3968,
     "stem": "Consider the following pairs of celestial concepts and their definitions:\n1. Orbit: The elliptical path along which planets revolve around the Sun.\n2. Axis: An imaginary line running through the center of a planet on which it rotates.\n3. Light year: A measure of astronomical time used to measure planetary ages.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -5254,7 +5254,7 @@
     }
   },
   {
-    "id": "q_07e475aa",
+    "id": 3969,
     "stem": "During which of the following astronomical configurations do spring tides achieve their absolute maximum amplitude (often called extreme perigean or proxigean spring tides)?",
     "options": {
       "opt_a": "When the Moon is at apogee during the first and third quarters of the lunar cycle.",
@@ -5325,7 +5325,7 @@
     }
   },
   {
-    "id": "q_7e7052b0",
+    "id": 3970,
     "stem": "Mining is a critical primary activity whose profitability depends on various physical and economic factors. Consider the following statements:\n1. Access to modern transportation infrastructure is an economic determinant of mining viability.\n2. The demand for minerals is a major economic determinant influencing mining operations.\n3. The geological grade and size of the mineral deposit are physical determinants.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5396,7 +5396,7 @@
     }
   },
   {
-    "id": "q_84efdb0e",
+    "id": 3971,
     "stem": "Consider the following statements regarding Underground Mining (Shaft Mining):\n1. It is resorted to when the mineral ore is located deep below the surface and cannot be extracted via open-cast methods.\n2. It requires specially designed vertical or inclined shafts, lifts, haulage ways, and sophisticated ventilation systems for safety.\n3. The cost of extraction per unit of mineral is typically lower in underground mining than in surface mining due to lesser overburden removal.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5467,7 +5467,7 @@
     }
   },
   {
-    "id": "q_bea54344",
+    "id": 3972,
     "stem": "Assertion (A): Surface mining (open-cast mining) is generally safer and cheaper than underground mining.\nReason (R): Surface mining requires fewer safety precautions against toxic gases, cave-ins, and fire hazards compared to underground shafts, and utilizes large earth-moving machinery for high-volume extraction near the surface.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -5538,7 +5538,7 @@
     }
   },
   {
-    "id": "q_32f41425",
+    "id": 3973,
     "stem": "Assertion (A): Pipelines are the most convenient and efficient mode of transporting crude oil and petroleum products over both land and sub-sea routes.\nReason (R): Once laid, pipelines can operate continuously across difficult terrains and underwater environments with minimal operational losses and low variable transport costs.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "q_a07c0be3",
+    "id": 3974,
     "stem": "Consider the following pairs linking major pipelines to their respective geographic regions:\n1. Big Inch Pipeline: Transports natural gas from the Gulf of Mexico fields to the northeastern United States.\n2. Druzhba Pipeline: Supplies crude oil from Russia to Central and Eastern European refineries.\n3. Trans-Alaska Pipeline System: Moves crude oil from Prudhoe Bay on the northern coast to the ice-free port of Valdez in the south.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -5680,7 +5680,7 @@
     }
   },
   {
-    "id": "q_b0f8f851",
+    "id": 3975,
     "stem": "Consider the following pairs regarding energy infrastructure and renewable energy corridors in India:\n1. Solar Energy Corporation of India (SECI) Ultra Mega Solar Power Parks: Pavagada (Karnataka) and Bhadla (Rajasthan)\n2. Offshore Wind Energy Development: Identified zones along the Gulf of Khambhat and Gulf of Kutch off the coast of Gujarat\n3. Pumped Storage Hydropower Projects: Exclusively restricted to the Himalayan terrain due to altitude differential requirements\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -5751,7 +5751,7 @@
     }
   },
   {
-    "id": "q_6eb9e4c3",
+    "id": 3976,
     "stem": "Consider the following pairs regarding the spatial distribution of critical mineral resources and their primary industrial processing hubs in India:\n1. Lithium reserves: Reasi district (Jammu & Kashmir) — Primary processing at Mundra SEZ, Gujarat\n2. Rare Earth Elements (Monazite): Coastal tracts of Odisha — Separation and refining at Rare Earths Division, Aluva, Kerala\n3. Coking Coal: Jharia and Bokaro coalfields — Direct utilization in integrated steel plants without blending\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -5822,7 +5822,7 @@
     }
   },
   {
-    "id": "q_62762dfb",
+    "id": 3977,
     "stem": "Consider the following features regarding resource planning in India:\n1. Identification and inventory of resources across regions.\n2. Evolving a planning structure endowed with appropriate technology, skill, and institutional set-up.\n3. Matching the resource development plans with overall national development plans.\n\nHow many of the above are recognized as essential stages of resource planning?",
     "options": {
       "opt_a": "Only one",
@@ -5893,7 +5893,7 @@
     }
   },
   {
-    "id": "q_c24e1e83",
+    "id": 3978,
     "stem": "Consider the following statements regarding the major iron ore reserves in India:\n1. Magnetite is superior to hematite in terms of total iron content, containing up to 70 percent metallic iron.\n2. The Kudremukh deposits in the Western Ghats are known for large-scale export of magnetite ore via the Mangalore port.\n3. The Bailadila range in the Bastar district contains superhigh-grade hematite deposits, primarily exported to Japan through Visakhapatnam.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5964,7 +5964,7 @@
     }
   },
   {
-    "id": "q_f19f5d7a",
+    "id": 3979,
     "stem": "With respect to the classification of metallic minerals, which of the following pairs is correctly classified as 'Ferrous' and 'Non-Ferrous' respectively?",
     "options": {
       "opt_a": "Iron ore and Manganese",
@@ -6035,7 +6035,7 @@
     }
   },
   {
-    "id": "q_58d940a5",
+    "id": 3980,
     "stem": "Which of the following Indian coalfields accounts for the maximum production of prime coking coal used in metallurgical industries?",
     "options": {
       "opt_a": "Raniganj",
@@ -6106,7 +6106,7 @@
     }
   },
   {
-    "id": "q_ce65cbca",
+    "id": 3981,
     "stem": "Which of the following regions contains the most important lignite deposits in India, supporting major thermal power and industrial complexes in the southern peninsula?",
     "options": {
       "opt_a": "Singrauli (Madhya Pradesh)",
@@ -6177,7 +6177,7 @@
     }
   },
   {
-    "id": "q_5d735b86",
+    "id": 3982,
     "stem": "Which one of the following regions in India has been identified as having the highest potential for the generation of tidal energy?",
     "options": {
       "opt_a": "Gulf of Khambhat",
@@ -6248,7 +6248,7 @@
     }
   },
   {
-    "id": "q_b36d9b46",
+    "id": 3983,
     "stem": "Which of the following regions in India is characterized by significant wind energy installations linked to the Palakkad Gap effect?",
     "options": {
       "opt_a": "Coastal Odisha and West Bengal",
@@ -6319,7 +6319,7 @@
     }
   },
   {
-    "id": "q_74ab2182",
+    "id": 3984,
     "stem": "Consider the following statements regarding the distribution and reserves of iron ore in India:\n1. Magnetite is the finest iron ore with a very high iron content up to 72 percent and is primarily found in the Kudremukh deposits of Karnataka.\n2. The Bailadila mine in the Bastar district of Chhattisgarh is the largest mechanised iron ore mine in Asia, exporting high-grade hematite mainly to Japan.\n3. The Mayurbhanj and Kendujhar districts of Odisha form a contiguous belt containing India's largest reserves of low-grade siderite ores.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6390,7 +6390,7 @@
     }
   },
   {
-    "id": "q_f02ed30f",
+    "id": 3985,
     "stem": "Consider the following pairs of mineral resources and their principal producing state in India:\n1. Manganese: Odisha\n2. Copper: Rajasthan\n3. Chromite: Jharkhand\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -6461,7 +6461,7 @@
     }
   },
   {
-    "id": "q_21e6ae0a",
+    "id": 3986,
     "stem": "Match the following petroleum fields with their respective geographical regions:\n1. Mumbai High : Offshore Arabian Sea\n2. Lakwa : Brahmaputra Valley\n3. Sanand : Cambay Basin\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -6532,7 +6532,7 @@
     }
   },
   {
-    "id": "q_5b6d25e9",
+    "id": 3987,
     "stem": "Consider the following pairs regarding tidal and wave energy potential zones in India:\n1. Gulf of Khambhat: High tidal range suitable for barrage construction\n2. Gulf of Kutch: Significant tidal energy potential along the western seaboard\n3. Sundarbans Delta: Estuarine tidal creek systems with energy harnessing prospects\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6603,7 +6603,7 @@
     }
   },
   {
-    "id": "q_b4f1adb2",
+    "id": 3988,
     "stem": "With reference to the historical petroleum pipeline network in northeastern and eastern India, consider the following statements:\n1. The Naharkatia-Nunmati-Barauni pipeline was constructed primarily to transport crude oil from the upper Assam oilfields to refineries in Assam and Bihar.\n2. Nunmati refinery is located in Assam, while Barauni is located in West Bengal.\n3. This pipeline network represents India's first major long-distance crude oil pipeline infrastructure.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6674,7 +6674,7 @@
     }
   },
   {
-    "id": "q_c467b63c",
+    "id": 3989,
     "stem": "Consider the following pairs of mineral mining districts and their primary minerals:\n1. Balaghat : Manganese and Copper\n2. Koraput : Bauxite\n3. Jhunjhunu : Copper\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6745,7 +6745,7 @@
     }
   },
   {
-    "id": "q_acda1eb6",
+    "id": 3990,
     "stem": "With reference to the renewable energy infrastructure in India, consider the following pairs:\n1. Madhapur: Solar Energy Hub\n2. Nagercoil to Madurai: Major Wind Energy Corridor\n3. Manikaran: Tidal Energy Harnessing Site\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6816,7 +6816,7 @@
     }
   },
   {
-    "id": "q_bb5766e9",
+    "id": 3991,
     "stem": "Consider the following statements regarding biogas and biomass energy production in India:\n1. Gobar gas plants utilize anaerobic digestion processes to convert cattle dung into combustible methane and carbon dioxide.\n2. The slurry discharged from biogas plants has reduced fertilizing value compared to raw cattle dung.\n3. Biogas technology helps in mitigating indoor air pollution in rural households.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6887,7 +6887,7 @@
     }
   },
   {
-    "id": "q_0661fb2f",
+    "id": 3992,
     "stem": "Assertion (A): Tamil Nadu accounts for one of the largest installed capacities of wind power in India.\nReason (R): The state benefits from strong seasonal winds channeled through major mountain passes such as the Palakkad Gap in the Western Ghats.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -6958,7 +6958,7 @@
     }
   },
   {
-    "id": "q_828eac80",
+    "id": 3993,
     "stem": "Regarding India's Strategic Petroleum Reserve (SPR) facilities managed by Indian Strategic Petroleum Reserves Limited (ISPRL), consider the following locations:\n1. Visakhapatnam\n2. Mangaluru\n3. Padur\n4. Chandikhol\nHow many of the above are currently operational underground crude oil storage facilities constituting Phase-I of the SPR program?",
     "options": {
       "opt_a": "Only one",
@@ -7029,7 +7029,7 @@
     }
   },
   {
-    "id": "q_c8e13131",
+    "id": 3994,
     "stem": "Consider the following pairs of oilseed crops and their geographical conditions:\n1. Groundnut : A kharif crop accounting for about half of major oilseeds, thriving in Gujarat\n2. Mustard : A rabi crop sensitive to frost, primarily grown in northern and western India\n3. Soyabean : Cultivated extensively on well-drained loams and black cotton soils (Vertisols), with Madhya Pradesh as the leading producer\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -7100,7 +7100,7 @@
     }
   },
   {
-    "id": "q_fb70d220",
+    "id": 3995,
     "stem": "Assertion (A): Mica, an important non-metallic mineral used extensively in the electrical and electronics industries, is predominantly found as pegmatite veins in metamorphic rocks.\nReason (R): Mica exhibits high dielectric strength, low power loss factor, and exceptional resistance to high voltages, making it irreplaceable in certain capacitor manufacturing.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -7171,7 +7171,7 @@
     }
   },
   {
-    "id": "q_b8f22294",
+    "id": 3996,
     "stem": "Consider the following pairs regarding major iron ore belts and their associated mining areas:\n1. Odisha-Jharkhand Belt : Noamundi and Badampahar\n2. Bellary-Chitradurga-Chikkamagaluru-Tumakuru Belt : Kudremukh and Sandur\n3. Maharashtra-Goa Belt : Ratnagiri and Bicholim\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7242,7 +7242,7 @@
     }
   },
   {
-    "id": "q_e1070c8d",
+    "id": 3997,
     "stem": "Assertion (A): The Panchpatmali deposits in the Koraput district of Odisha are among the most significant bauxite reserves in India.\nReason (R): Bauxite is an oxide of aluminium formed mainly by the decomposition of a wide variety of rocks rich in silicate minerals under tropical and subtropical climatic conditions.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -7313,7 +7313,7 @@
     }
   },
   {
-    "id": "q_ef893d16",
+    "id": 3998,
     "stem": "Consider the following statements regarding the structural distribution of metallic minerals in peninsular India:\n1. The Dharwar rock system hosts the majority of metallic mineral resources such as iron ore, manganese, and copper.\n2. The Gondwana rock system contains the highest reserves of non-ferrous metallic minerals in India.\n3. The Vindhyan rock system is primarily known for building stones and limestone rather than large metallic ore deposits.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -7384,7 +7384,7 @@
     }
   },
   {
-    "id": "q_e586824a",
+    "id": 3999,
     "stem": "Consider the following statements regarding the geographical distribution of Mica in India:\n1. The Koderma-Gaya-Hazaribagh belt is situated along the northern edge of the Chota Nagpur plateau and produces high-grade ruby mica.\n2. In Andhra Pradesh, the Nellore mica belt is well-known for the production of green mica.\n3. The mica-bearing pegmatites of Rajasthan are predominantly distributed along the Aravalli range, with significant deposits in Ajmer.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7455,7 +7455,7 @@
     }
   },
   {
-    "id": "q_c0453e7f",
+    "id": 4000,
     "stem": "Assertion (A): Bituminous coal is the most widely used coal in India for thermal power generation and industrial applications.\nReason (R): Bituminous coal possesses a high calorific value, low moisture content, and represents the bulk of Gondwana coal reserves.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -7526,7 +7526,7 @@
     }
   },
   {
-    "id": "q_5d0d4d35",
+    "id": 4001,
     "stem": "Consider the following statements regarding the distribution and reserves of atomic minerals in India:\n1. Singhbhum shear zone in Jharkhand is the primary repository for uranium mining operations.\n2. Monazite sands found along the coastal tracts of Kerala contain high concentrations of thorium.\n3. Significant commercial reserves of uranium are extensively mined from the sedimentary formations of the Aravalli range.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7597,7 +7597,7 @@
     }
   },
   {
-    "id": "q_110e3090",
+    "id": 4002,
     "stem": "Consider the following pairs regarding strategic petroleum reserve locations and their managing or associated institutional setups:\n1. Visakhapatnam Reserve: Designed with a capacity to store approximately 1.33 million metric tonnes (MMT) of crude oil.\n2. Mangaluru Reserve: Constructed underneath hilly terrain using high-pressure tunneling technology.\n3. Padur Reserve: Located in Karnataka with four underground rock caverns.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7668,7 +7668,7 @@
     }
   },
   {
-    "id": "q_e14fa096",
+    "id": 4003,
     "stem": "Assertion (A): Tertiary coalfields in India, despite having lower fixed carbon and higher moisture content, are strategically significant for thermal power generation in north-eastern and western states.\nReason (R): Tertiary coals are often associated with high sulfur content and occur in regions remote from the main Gondwana basin, necessitating specialized utilization.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -7739,7 +7739,7 @@
     }
   },
   {
-    "id": "q_0fd9bd9b",
+    "id": 4004,
     "stem": "Consider the following statements regarding India's petroleum and natural gas infrastructure:\n1. Digboi is India's oldest continuously producing oil field, situated in the alluvial tract of the Brahmaputra valley.\n2. Ankleshwar in the Cambay basin is an onshore oil field discovered in the post-independence era that significantly boosted western India's crude output.\n3. Bombay High is an offshore oilfield located on the continental shelf off the coast of Mumbai, trapped in Miocene limestone structures.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7810,7 +7810,7 @@
     }
   },
   {
-    "id": "q_db075df3",
+    "id": 4005,
     "stem": "Consider the following non-ferrous mineral mining centers:\n1. Malanjkhand : Madhya Pradesh\n2. Khetri : Rajasthan\n3. Ghatsila : Jharkhand\nWhat is the common metallic mineral associated with all three centers?",
     "options": {
       "opt_a": "Bauxite",
@@ -7881,7 +7881,7 @@
     }
   },
   {
-    "id": "q_c9105cbe",
+    "id": 4006,
     "stem": "Assertion (A): Mineral conservation requires the systematic use and recycling of minerals to ensure intergenerational equity.\nReason (R): Minerals are non-renewable resources that take millions of years to be formed and concentrated into economically viable deposits.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -7952,7 +7952,7 @@
     }
   },
   {
-    "id": "q_750b0702",
+    "id": 4007,
     "stem": "Consider the following statements regarding the physical and chemical properties of Mica:\n1. It has a hexagonal crystal system characterized by weak intermolecular bonding along the basal planes.\n2. It possesses high dielectric strength and excellent insulating properties, making it indispensable in electrical and electronics industries.\n3. It is thermally stable and can withstand high temperatures without losing its structural integrity.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8023,7 +8023,7 @@
     }
   },
   {
-    "id": "q_1b4b245b",
+    "id": 4008,
     "stem": "Consider the following pairs regarding mineral-rich states and their prominent non-metallic mineral contributions:\n1. Rajasthan : Major producer of limestone, marble, and soapstone\n2. Jharkhand : Significant reserves of high-grade ruby mica in the Hazaribagh tract\n3. Meghalaya : Extensive commercial production of crystalline quartz and high-grade limestone for export\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8094,7 +8094,7 @@
     }
   },
   {
-    "id": "q_d0d2ea32",
+    "id": 4009,
     "stem": "Consider the following pairs of atomic and mineral resource locations:\n1. Jaduguda: Uranium deposits in the Singhbhum shear zone of Jharkhand\n2. Tummalapalle: Large reserves of uranium found in carbonate rocks of Andhra Pradesh\n3. Chavara and Manavalakurichi: Monazite sands containing thorium along the coastal tracts\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -8165,7 +8165,7 @@
     }
   },
   {
-    "id": "q_a89d3fda",
+    "id": 4010,
     "stem": "Geothermal energy exploitation in India is technically feasible in specific geological settings. Match the geothermal sites with their respective geographical regions:\n1. Manikaran: Himachal Pradesh\n2. Puga Valley: Ladakh\n3. Cambay Basin: Gujarat\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8236,7 +8236,7 @@
     }
   },
   {
-    "id": "q_0e8d21ee",
+    "id": 4011,
     "stem": "Consider the following statements about the Hazira-Vijaipur-Jagdishpur (HVJ) pipeline network:\n1. It passes through the states of Gujarat, Madhya Pradesh, Rajasthan, and Uttar Pradesh.\n2. It acts as the backbone for supplying feedstock to several HBJ-linked fertilizer plants.\n3. It is managed and operated by Hindustan Petroleum Corporation Limited (HPCL).\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8307,7 +8307,7 @@
     }
   },
   {
-    "id": "q_0e71524c",
+    "id": 4012,
     "stem": "With reference to the Naharkatia-Nunmati-Barauni crude pipeline, consider the following assertions:\n1. The discovery of oil in the Brahmaputra valley necessitated the establishment of refineries away from the oilfields.\n2. Barauni refinery was set up in Bihar to serve the petroleum product markets of northern and eastern India.\n3. This pipeline was India's first interstate pipeline project.\nHow many of the above assertions are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8378,7 +8378,7 @@
     }
   },
   {
-    "id": "q_f5ea7266",
+    "id": 4013,
     "stem": "Consider the following pairs matching bauxite-producing regions with their respective states:\n1. Amarkantak plateau : Madhya Pradesh\n2. Maikal hills : Chhattisgarh\n3. Koraput district : Jharkhand\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8449,7 +8449,7 @@
     }
   },
   {
-    "id": "q_2339535d",
+    "id": 4014,
     "stem": "Assertion (A): The Bellary-Chitradurga-Chikkamagaluru-Tumakuru belt contains vast reserves of iron ore, and several mines in this belt supply ore to the steel plant at Vijayanagar.\nReason (R): The iron ore deposits in this region are primarily hosted within schist belts of the Dharwar craton.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -8520,7 +8520,7 @@
     }
   },
   {
-    "id": "q_526d6cbd",
+    "id": 4015,
     "stem": "Consider the following statements regarding the structural and chemical characteristics of Indian coal:\n1. Gondwana coal is of carboniferous age and has a high moisture content along with negligible sulphur.\n2. Anthracite coal, found in commercial quantities in the Jammu and Kashmir region, contains more than 80-95% carbon.\n3. Lignite, often referred to as brown coal, is predominantly found in the Tertiary rock systems of southern and western India.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8591,7 +8591,7 @@
     }
   },
   {
-    "id": "q_4704ddbd",
+    "id": 4016,
     "stem": "Assertion (A): Tertiary coal deposits in northeastern India generally have a high sulphur content and low ash content compared to Gondwana coal.\nReason (R): Tertiary coal was formed in marine environment conditions during the deposition of vegetal matter in the Paleogene and Neogene periods.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -8662,7 +8662,7 @@
     }
   },
   {
-    "id": "q_443144a6",
+    "id": 4017,
     "stem": "Consider the following pairs of oilfields and their corresponding states:\n1. Naharkatiya: Assam\n2. Kalol: Gujarat\n3. Rudrasagar: Nagaland\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -8733,7 +8733,7 @@
     }
   },
   {
-    "id": "q_84105c8b",
+    "id": 4018,
     "stem": "Consider the following statements regarding India's natural gas infrastructure and reserves:\n1. The Hazira-Bijaipur-Jagdishpur (HBJ) pipeline transports natural gas from western offshore and onshore fields to northern and western industrial units.\n2. Major natural gas reserves are concentrated in the offshore basins of the western coast (Mumbai High/Bassein) and eastern coast (KG Basin).\n3. Coal Bed Methane (CBM) extraction in India is primarily developed in the Gondwana coalfields of Jharkhand and Madhya Pradesh.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8804,7 +8804,7 @@
     }
   },
   {
-    "id": "q_c30fb9b2",
+    "id": 4019,
     "stem": "Consider the following statements regarding India's solar energy infrastructure:\n1. Bhadla Solar Park in Rajasthan is one of the largest operational ultra-mega solar power parks in the world.\n2. The National Solar Mission aims to promote grid-connected solar power generation as well as off-grid applications.\n3. Photovoltaic cells convert solar radiation directly into electrical energy using semiconductor materials.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8875,7 +8875,7 @@
     }
   },
   {
-    "id": "q_c71db987",
+    "id": 4020,
     "stem": "Assertion (A): Thorium is considered a strategic nuclear fuel for India's long-term energy security.\nReason (R): India possesses vast reserves of monazite sand along its coastal tracts, which contain significantly higher domestic reserves of thorium compared to uranium.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -8946,7 +8946,7 @@
     }
   },
   {
-    "id": "q_fad78a02",
+    "id": 4021,
     "stem": "Consider the following statements regarding the Jamnagar-Loni LPG pipeline:\n1. It is operated by the Gas Authority of India Limited (GAIL).\n2. It originates from the refinery complex in Gujarat and terminates in the National Capital Region of Uttar Pradesh.\n3. It is designed exclusively for the transportation of liquid petroleum gas, eliminating the road transport bottlenecks of pressurized tankers.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9017,7 +9017,7 @@
     }
   },
   {
-    "id": "q_1251f2ad",
+    "id": 4022,
     "stem": "Consider the following objectives behind the expansion of the natural gas pipeline grid, including branches of the HVJ network:\n1. Transitioning India towards a gas-based economy to lower greenhouse gas emissions.\n2. Providing uninterrupted feedstock to power generation units and fertilizer manufacturing units.\n3. Completely eliminating the import dependence of crude oil by substituting it locally with pipeline gas.\nHow many of the above objectives are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9088,7 +9088,7 @@
     }
   },
   {
-    "id": "q_25f4b924",
+    "id": 4023,
     "stem": "Which of the following geographical characteristics best distinguishes Gondwana coal from Tertiary coal in India?",
     "options": {
       "opt_a": "Gondwana coal is formed during the Carboniferous period and possesses high ash content with low moisture.",
@@ -9159,7 +9159,7 @@
     }
   },
   {
-    "id": "q_8578524e",
+    "id": 4024,
     "stem": "Regarding India's non-conventional geothermal energy potential, consider the following statements:\n1. Manikaran in the Parvati valley of Himachal Pradesh utilizes hot springs driven by shallow crustal thermal anomalies.\n2. Puga valley in Ladakh represents one of India's most promising high-temperature geothermal resource sites, associated with the Indus-Tsangpo Suture Zone.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -9230,7 +9230,7 @@
     }
   },
   {
-    "id": "q_b30b29d9",
+    "id": 4025,
     "stem": "Which of the following regions in India holds the highest potential and installed capacity for wind energy generation, primarily due to uninterrupted coastal and interior plateau wind regimes?",
     "options": {
       "opt_a": "Gangetic plains of Uttar Pradesh and Bihar",
@@ -9301,7 +9301,7 @@
     }
   },
   {
-    "id": "q_8206a03b",
+    "id": 4026,
     "stem": "Which of the following statements accurately describes the distribution and strategic significance of India's solar energy initiatives?",
     "options": {
       "opt_a": "India's highest solar photovoltaic potential is concentrated along the high-altitude cold desert of Ladakh and the arid tracts of western Rajasthan due to high clear-sky insolation days.",
@@ -9372,7 +9372,7 @@
     }
   },
   {
-    "id": "q_0edf3111",
+    "id": 4027,
     "stem": "Consider the following statements regarding the manganese deposits in India:\n1. India is one of the leading producers of manganese in the world, and the mineral is primarily used in the manufacturing of ferro-manganese alloys.\n2. The Nagpur-Bhandara belt in Maharashtra and the Balaghat belt in Madhya Pradesh together account for a major share of India's high-grade manganese production.\n3. Manganese is predominantly found in sedimentary rock formations of the Archean era.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -9443,7 +9443,7 @@
     }
   },
   {
-    "id": "q_986ab514",
+    "id": 4028,
     "stem": "With reference to copper distribution and mining in India, consider the following statements:\n1. The Khetri copper belt is situated in the Aravalli hills of Rajasthan and is known for hydrothermal vein-type copper deposits.\n2. The Singhbhum copper belt in Jharkhand is one of the oldest and most extensively mined copper-bearing zones in the country.\n3. India is self-sufficient in copper ore production and exports refined copper to global markets.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -9514,7 +9514,7 @@
     }
   },
   {
-    "id": "q_f1b17308",
+    "id": 4029,
     "stem": "Consider the following pairs regarding major non-metallic mineral belts and their associated regions in India:\n1. Koderma-Gaya-Hazaribagh belt : Chota Nagpur Plateau\n2. Nellore mica belt : Eastern Ghats foothills\n3. Bhilwara-Ajmer belt : Malwa Plateau\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -9585,7 +9585,7 @@
     }
   },
   {
-    "id": "q_42c5db47",
+    "id": 4030,
     "stem": "Which of the following strategies is considered a direct and effective measure for the long-term conservation of non-fuel non-metallic mineral resources like mica and limestone?",
     "options": {
       "opt_a": "Imposing an absolute export ban on all raw mineral ores without exception",
@@ -9656,7 +9656,7 @@
     }
   },
   {
-    "id": "q_1887f982",
+    "id": 4031,
     "stem": "Which of the following policy instruments is primarily utilized by the government to curb illegal mining and promote sustainable mineral extraction in India?",
     "options": {
       "opt_a": "National Mineral Policy and amendment of the Mines and Minerals (Development and Regulation) Act",
@@ -9727,7 +9727,7 @@
     }
   },
   {
-    "id": "q_19649d5d",
+    "id": 4032,
     "stem": "Consider the following pairs regarding Tertiary coalfields in India and their locations:\n1. Makum: Assam\n2. Namchik-Namphuk: Arunachal Pradesh\n3. Laitryngew: Meghalaya\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -9798,7 +9798,7 @@
     }
   },
   {
-    "id": "q_b8d1b77d",
+    "id": 4033,
     "stem": "Consider the following statements regarding the structural distribution of coal in India:\n1. More than 90% of India's coal reserves and production are attributed to the Gondwana formations.\n2. The Damodar valley accounts for the single largest concentration of Gondwana coal reserves in the country.\n3. Wardha Valley and Mahanadi Valley coalfields are part of the Extra-Peninsular coal deposits.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9869,7 +9869,7 @@
     }
   },
   {
-    "id": "q_38ffcb18",
+    "id": 4034,
     "stem": "Assertion (A): Puga Valley in Ladakh is recognized as one of the most promising locations for geothermal energy development in India.\nReason (R): The valley features active geothermal manifestations such as hot springs, borax deposits, and high sub-surface thermal gradients associated with the Himalayan tectonic collision zone.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -9940,7 +9940,7 @@
     }
   },
   {
-    "id": "q_f9fae595",
+    "id": 4035,
     "stem": "Which of the following non-conventional energy sources relies fundamentally on the extraction of heat stored beneath the Earth's crust resulting from radioactive decay and primordial heat?",
     "options": {
       "opt_a": "Ocean Thermal Energy Conversion (OTEC)",
@@ -10011,7 +10011,7 @@
     }
   },
   {
-    "id": "q_1d105bb7",
+    "id": 4036,
     "stem": "Consider the following pairs regarding the major cross-country natural gas pipelines in India:\n1. HVJ Pipeline: Connects Hazira in Gujarat to Jagdishpur in Uttar Pradesh via Vijaipur.\n2. HBJ Pipeline expansion: Supplies natural gas exclusively to the fertilizer plants along its route.\n3. Dahej-Uran-Mumbai Pipeline: Integrates western offshore gas fields with the southern grid of Gujarat.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -10082,7 +10082,7 @@
     }
   },
   {
-    "id": "q_ca7e94bf",
+    "id": 4037,
     "stem": "Consider the following pairs regarding strategic petroleum storage and their coastal geographical advantages:\n1. Visakhapatnam SPR: Situated on the east coast, facilitating direct unloading of Very Large Crude Carriers (VLCCs) from the Middle East via the Bay of Bengal.\n2. Mangaluru SPR: Situated on the west coast, strategically placed to tap crude shipments originating from African and European suppliers.\n3. Padur SPR: Located in Kerala, connected via dedicated pipelines to coastal single point mooring (SPM) facilities.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -10153,7 +10153,7 @@
     }
   },
   {
-    "id": "q_b55a9e16",
+    "id": 4038,
     "stem": "Why are underground rock caverns preferred over conventional above-ground steel tanks for maintaining India's Strategic Petroleum Reserves (SPR)?\n1. They offer inherent safety against external attacks, sabotage, and aerial bombardment.\n2. They require active active refrigeration systems to maintain low temperatures for heavy crude.\n3. The surrounding rock strata and natural water table pressure prevent the leakage of stored hydrocarbons.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 3 only",
@@ -10224,7 +10224,7 @@
     }
   },
   {
-    "id": "q_fbea0fc9",
+    "id": 4039,
     "stem": "Consider the following statements regarding the evolution of India's pipeline transportation network:\n1. Pipelines are restricted only to the movement of natural gas and refined petroleum products.\n2. The laying of cross-country pipelines significantly lowers the carbon footprint and transit losses compared to rail and road tanker transport.\n3. The Petroleum and Natural Gas Regulatory Board (PNGRB) regulates the refining margins of private petroleum companies.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10295,7 +10295,7 @@
     }
   },
   {
-    "id": "q_138ccb6e",
+    "id": 4040,
     "stem": "Why does India maintain strategic petroleum reserves (SPRs) despite having domestic refining capacity and commercial crude inventories held by oil companies?\n1. To mitigate supply disruptions caused by geopolitical conflicts or supply shocks in international crude markets.\n2. To comply with the mandatory International Energy Agency (IEA) emergency stockholding obligation for member countries.\n3. To replace the regular crude import requirements of Indian public sector refineries during routine maintenance.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 only",
@@ -10366,7 +10366,7 @@
     }
   },
   {
-    "id": "q_e241e2bc",
+    "id": 4041,
     "stem": "Consider the following statements regarding the Jamnagar-Loni LPG pipeline infrastructure:\n1. It crosses multiple rivers and railway tracks, necessitating specialized engineering and safety valves.\n2. It is primarily designed to supply bulk LPG to domestic households directly without passing through bottling plants.\n3. It reduces the dependence on highway transport for hazardous flammable materials.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10437,7 +10437,7 @@
     }
   },
   {
-    "id": "ssc_pyq_0003",
+    "id": 4042,
     "stem": "Consider the following statements: 1. A solar eclipse- The Moon casts a shadow on Earth when it comes between the Sun and Earth. 2. A lunar eclipse- During the new moon phase, the Moon passes through the Earth's shadow. Which of the statements given above is/are correct?",
     "options": {
       "opt_a": "Both 1 and 2",
@@ -10505,7 +10505,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0005",
+    "id": 4043,
     "stem": "How does the Faint Young Sun paradox challenge our understanding of early Earth's climate?",
     "options": {
       "opt_a": "It implies there was no liquid water on early Earth.",
@@ -10573,7 +10573,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0052",
+    "id": 4044,
     "stem": "Which of the following statements is INCORRECT regarding the Coriolis force?",
     "options": {
       "opt_a": "It deflects the wind to the right in the north and left in the south.",
@@ -10641,7 +10641,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0250",
+    "id": 4045,
     "stem": "What is the total number of rivers including tributaries in Bangladesh?",
     "options": {
       "opt_a": "About 1000",
@@ -10709,7 +10709,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0252",
+    "id": 4046,
     "stem": "Consider the following statements regarding important straits and channels: 1. The Grand Channel lies between Great Nicobar Island and Indonesia’s Sumatra Island. 2. The Coco Strait lies between Sumatra and Java islands. Which of the above statement(s) is/are incorrect?",
     "options": {
       "opt_a": "1 only",
@@ -10777,7 +10777,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0253",
+    "id": 4047,
     "stem": "The city of _________ is located at the mouth of the Yangtze River.",
     "options": {
       "opt_a": "Shanghai",
@@ -10845,7 +10845,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0254",
+    "id": 4048,
     "stem": "Which is the correct sequence of lakes according to depth (from maximum to minimum)?",
     "options": {
       "opt_a": "Caspian Sea > Tanganyika > Vostok > Baikal",
@@ -10913,7 +10913,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0255",
+    "id": 4049,
     "stem": "Name the state which is the largest producer of lignite coal?",
     "options": {
       "opt_a": "Maharashtra",
@@ -10981,7 +10981,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0256",
+    "id": 4050,
     "stem": "Name the major coal producing region located in Telangana state?",
     "options": {
       "opt_a": "Singareni Coalfield",
@@ -11049,7 +11049,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0257",
+    "id": 4051,
     "stem": "Which of the following river valleys is NOT known for coal deposits in India?",
     "options": {
       "opt_a": "Mahanadi",
@@ -11117,7 +11117,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0259",
+    "id": 4052,
     "stem": "Which of the following is a precious mineral?",
     "options": {
       "opt_a": "Hematite",
@@ -11185,7 +11185,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0260",
+    "id": 4053,
     "stem": "Which type of coal is found in Damodar valley?",
     "options": {
       "opt_a": "Anthracite",
@@ -11253,7 +11253,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0261",
+    "id": 4054,
     "stem": "Which of the following is an inosilicate amphibole mineral used in highway construction and as railroad ballast?",
     "options": {
       "opt_a": "Shale",
@@ -11321,7 +11321,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0262",
+    "id": 4055,
     "stem": "Which coal is low-grade, brown and soft with high moisture content?",
     "options": {
       "opt_a": "Metallurgical",
@@ -11389,7 +11389,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0264",
+    "id": 4056,
     "stem": "The district of Shivamogga that is famous for its Iron-Ore and Manganese mineral is located in which state of India?",
     "options": {
       "opt_a": "Karnataka",
@@ -11457,7 +11457,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0265",
+    "id": 4057,
     "stem": "Match the following Nuclear Power Plants with their respective states: List – I (Nuclear Power Plant) List – II (State)",
     "options": {
       "opt_a": "Narora 1. Karnataka",
@@ -11525,7 +11525,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0266",
+    "id": 4058,
     "stem": "Jharkhand and Chhattisgarh states are rich with ____________ material deposits.",
     "options": {
       "opt_a": "gold",
@@ -11593,7 +11593,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0267",
+    "id": 4059,
     "stem": "The Salal Project, also called the Salal Hydroelectric Power Station, is on which river?",
     "options": {
       "opt_a": "Chenab",
@@ -11661,7 +11661,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0269",
+    "id": 4060,
     "stem": "The Durg-Bastar-Chandrapur iron ore belt lies in _____ states.",
     "options": {
       "opt_a": "Maharashtra and Karnataka",
@@ -11729,7 +11729,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0270",
+    "id": 4061,
     "stem": "Which of the following agencies is responsible for the operation and maintenance of the Hazira- Vijaypur- Jagdishpur pipeline?",
     "options": {
       "opt_a": "Hindustan Petroleum Corporation Limited",
@@ -11797,7 +11797,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0271",
+    "id": 4062,
     "stem": "According to the Indian Mineral Yearbook 2018, which state alone accounts for 72% of the magnetite deposits in India?",
     "options": {
       "opt_a": "West Bengal",
@@ -11865,7 +11865,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0272",
+    "id": 4063,
     "stem": "NALCO is an Indian government enterprise, dealing with which of the following minerals?",
     "options": {
       "opt_a": "Bauxite",
@@ -11933,7 +11933,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0273",
+    "id": 4064,
     "stem": "Which of the following are major coal fields in India?",
     "options": {
       "opt_a": "Jharia and Raniganj",
@@ -12001,7 +12001,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0274",
+    "id": 4065,
     "stem": "Which is the world’s largest PV Solar Park located in one of the Indian states?",
     "options": {
       "opt_a": "Pavagada Solar Park",
@@ -12069,7 +12069,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0275",
+    "id": 4066,
     "stem": "Consider the following statements regarding coal deposits in India: 1. Tertiary coal deposits are mainly found in Bihar and Haryana. 2. Lignite occurs in the Himalayan states of Himachal Pradesh and Uttarakhand. Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "Only 1",
@@ -12137,7 +12137,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0276",
+    "id": 4067,
     "stem": "Koderma Gaya Hazaribagh belt is known for the production of which of the following minerals?",
     "options": {
       "opt_a": "Bauxite",
@@ -12205,7 +12205,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0277",
+    "id": 4068,
     "stem": "Which of the following is NOT among the commercial sources of energy?",
     "options": {
       "opt_a": "Petroleum",
@@ -12273,7 +12273,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0278",
+    "id": 4069,
     "stem": "The Mumbai High region in the Arabian Sea is known for mining _______ .",
     "options": {
       "opt_a": "uranium",
@@ -12341,7 +12341,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0279",
+    "id": 4070,
     "stem": "Match List I (Iron ore mines) with List II (States) and select the correct answer using the codes given below: List I (Mines) List II (States)",
     "options": {
       "opt_a": "Joda (i) Andhra Pradesh",
@@ -12409,7 +12409,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0280",
+    "id": 4071,
     "stem": "According to the Indian Minerals Yearbook 2020, which state has the highest production of manganese in India?",
     "options": {
       "opt_a": "Karnataka",
@@ -12477,7 +12477,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0281",
+    "id": 4072,
     "stem": "Which district of Madhya Pradesh is a leading producer of copper?",
     "options": {
       "opt_a": "Balaghat",
@@ -12545,7 +12545,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0282",
+    "id": 4073,
     "stem": "Which of the following is an open pit copper mine?",
     "options": {
       "opt_a": "Malanjkhand",
@@ -12613,7 +12613,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0284",
+    "id": 4074,
     "stem": "What are the main energy sources for earth's internal heat engine?",
     "options": {
       "opt_a": "Radiogenic heat and oceanic tide heat",
@@ -12681,7 +12681,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0286",
+    "id": 4075,
     "stem": "The Bailadila range of Chhattisgarh is famous for which of the following minerals?",
     "options": {
       "opt_a": "Copper",
@@ -12749,7 +12749,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0287",
+    "id": 4076,
     "stem": "The approximate amount of silica present in cement is:",
     "options": {
       "opt_a": "between 27% and 35%",
@@ -12817,7 +12817,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0290",
+    "id": 4077,
     "stem": "The main mineral constituents of the continental mass are ____ and _____ .",
     "options": {
       "opt_a": "silica, magnesium",
@@ -12885,7 +12885,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0292",
+    "id": 4078,
     "stem": "Which of the following statements regarding coal is NOT correct?",
     "options": {
       "opt_a": "Anthracite is the highest quality hard coal.",
@@ -12953,7 +12953,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0293",
+    "id": 4079,
     "stem": "Which of the following is NOT a major iron ore belt in India?",
     "options": {
       "opt_a": "Maharashtra - Goa belt",
@@ -13021,7 +13021,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0294",
+    "id": 4080,
     "stem": "The largest wind farm cluster of India is located in ______.",
     "options": {
       "opt_a": "Gujarat",
@@ -13089,7 +13089,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0297",
+    "id": 4081,
     "stem": "Which of the following minerals is NOT found in rivers (alluvial placers) and on the coast, especially beaches (beach placers)?",
     "options": {
       "opt_a": "Tin",
@@ -13157,7 +13157,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0298",
+    "id": 4082,
     "stem": "Consider the following statements regarding Export Processing Zones (EPZs) in India: 1. Falta Export Processing Zone is located in West Bengal. 2. An Export Processing Zone (EPZ) is a customs area that allows import of machinery and raw materials for manufacturing export goods without payment of duty. 3. Farakka is also an Export Processing Zone in West Bengal. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -13225,7 +13225,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0301",
+    "id": 4083,
     "stem": "Match the columns: Column A (Cropping Season) Column B (Major Crops - Shuffled) A. Kharif (June-September) 1. Vegetables, Fruits , Fodder B. Rabi (October-March) 2. Rice, Cotton, Bajra, Maize, Jowar, Tur C. Zaid (April-June) 3. Wheat, Gram, Rapeseeds and Mustard, Barley",
     "options": {
       "opt_a": "A-3, B-2, C-1",
@@ -13293,7 +13293,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0302",
+    "id": 4084,
     "stem": "Match the local names of shifting agriculture with the states where they are practiced: List I (Local Name) List II (State/Region) a. Penda 1. Odisha b. Bringa 2. Andhra Pradesh c. Dahiya 3. Madhya Pradesh d. Jhumming 4. North-Eastern region",
     "options": {
       "opt_a": "a-2, b-1, c-3, d-4",
@@ -13361,7 +13361,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0303",
+    "id": 4085,
     "stem": "The term 'Aus', 'Aman' and 'Boro' are associated with which crop in India?",
     "options": {
       "opt_a": "Maize",
@@ -13429,7 +13429,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0325",
+    "id": 4086,
     "stem": "Which of the following types of crops are sown at the beginning of the monsoon season?",
     "options": {
       "opt_a": "Rabi crops",
@@ -13497,7 +13497,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0351",
+    "id": 4087,
     "stem": "Consider the following statements regarding Census of India 2011: 1. 4.6% of the total workforce was engaged in manufacturing and allied sector activities. 2. The total number of agricultural workers was 263.1 million as per Census 2011 Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "1 only",
@@ -13565,7 +13565,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0369",
+    "id": 4088,
     "stem": "Assertion (A): Taramira is a variety of oilseed cultivated mainly in the drier regions of north-western India. Reason (R): Arabica, Robusta, and Liberica are major varieties of oilseed crops in India.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -13633,7 +13633,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0370",
+    "id": 4089,
     "stem": "Consider the following characteristics: 1. High moisture-retaining capacity, often developing deep cracks during dry hot weather. 2. Ideal for tea and apple cultivation due to high fertility and cold climate preference. 3. Rich in lime, iron, magnesia, and alumina, but poor in phosphoric contents. Which of the above characteristics are primarily associated with Black Soils?",
     "options": {
       "opt_a": "Only 1",
@@ -13701,7 +13701,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0371",
+    "id": 4090,
     "stem": "Which of the following statements correctly differentiates Alluvial soils from Red and Yellow soils?",
     "options": {
       "opt_a": "Alluvial: from rocks; Red/Yellow: river-transported",
@@ -13769,7 +13769,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0373",
+    "id": 4091,
     "stem": "Consider the following statements about plateaus: 1. The Deccan Lava Plateau in India is very fertile because it is rich in black soil, which is highly suitable for farming. 2. The African Plateau is famous for its fertile black soil, whereas the Katanga Plateau is primarily known for agriculture. Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "Only 1",
@@ -13837,7 +13837,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0376",
+    "id": 4092,
     "stem": "Which of the following is the main cause of land degradation in Jharkhand and Chhattisgarh?",
     "options": {
       "opt_a": "Intensive use of manure",
@@ -13905,7 +13905,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0377",
+    "id": 4093,
     "stem": "Which is the largest part of the northern plains and is formed of older alluvium?",
     "options": {
       "opt_a": "Terai",
@@ -13973,7 +13973,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0388",
+    "id": 4094,
     "stem": "Which of the following statements is NOT correct regarding fertilizers?",
     "options": {
       "opt_a": "They are prepared in factories",
@@ -14041,7 +14041,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0399",
+    "id": 4095,
     "stem": "_____ are thick deposits of glacial www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography clay and other materials embedded with moraines.",
     "options": {
       "opt_a": "Karewas",
@@ -14109,7 +14109,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0444",
+    "id": 4096,
     "stem": "Which state lies in the rain shadow region of the Arabian Sea branch of the southwest monsoon?",
     "options": {
       "opt_a": "Tamil Nadu",
@@ -14177,7 +14177,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0465",
+    "id": 4097,
     "stem": "Who is best known for his testimony on climate change to congressional committees in the 1980s, which helped raise wider awareness of the global warming issue?",
     "options": {
       "opt_a": "James Hansen",
@@ -14245,7 +14245,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0505",
+    "id": 4098,
     "stem": "According to the Department of Industrial Policy and Promotion, which of the following is NOT a core industry?",
     "options": {
       "opt_a": "Jute",
@@ -14313,7 +14313,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0506",
+    "id": 4099,
     "stem": "Select the INCORRECT pair of the location of the refinery and its state from the following",
     "options": {
       "opt_a": "Bina Refinery - Madhya Pradesh",
@@ -14381,7 +14381,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0517",
+    "id": 4100,
     "stem": "In which of the following regions in India are there high-grade iron ore deposits?",
     "options": {
       "opt_a": "Western Rajasthan",
@@ -14449,7 +14449,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0518",
+    "id": 4101,
     "stem": "Which is the first integrated steel plant in the public sector in India?",
     "options": {
       "opt_a": "The Visvesvaraya Iron and Steel Limited",
@@ -14517,7 +14517,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0521",
+    "id": 4102,
     "stem": "Which of the following is dark reddish coloured stone used as raw material in aluminum smelting?",
     "options": {
       "opt_a": "Mica",
@@ -14585,7 +14585,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0522",
+    "id": 4103,
     "stem": "The Paithani saree weaving industry is in which state?",
     "options": {
       "opt_a": "Rajasthan",
@@ -14653,7 +14653,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0524",
+    "id": 4104,
     "stem": "What is the role of National Parks under the Wildlife Protection Act, 1972?",
     "options": {
       "opt_a": "To promote tourism",
@@ -14721,7 +14721,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0525",
+    "id": 4105,
     "stem": "Which of the following Biosphere Reserves is correctly matched with its state?",
     "options": {
       "opt_a": "Seshachalam Hills - Andhra Pradesh",
@@ -14789,7 +14789,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0555",
+    "id": 4106,
     "stem": "The wetland of Ashtamudi is located in:",
     "options": {
       "opt_a": "Assam",
@@ -14857,7 +14857,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0601",
+    "id": 4107,
     "stem": "Which of the following mountain is situated in the state of Uttarakhand?",
     "options": {
       "opt_a": "Nathu La Pass",
@@ -14925,7 +14925,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0606",
+    "id": 4108,
     "stem": "Which of the below statements is/are correct? Statement 1: India supports connectivity through the North-South Transport Corridor. Statement 2: The corridor strengthens India's trade with the Pacific Islands.",
     "options": {
       "opt_a": "Only Statement 2 is correct",
@@ -14993,7 +14993,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0608",
+    "id": 4109,
     "stem": "What is the length of the Indian Railways network, according to the Railway Yearbook 2019-20?",
     "options": {
       "opt_a": "67,956 km",
@@ -15061,7 +15061,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0609",
+    "id": 4110,
     "stem": "According to the Indian Railways (2019-2020), which state has the largest railway track in India?",
     "options": {
       "opt_a": "Punjab",
@@ -15129,7 +15129,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0614",
+    "id": 4111,
     "stem": "Consider the following statements: I. The delta channels of Mahanadi and Brahmani rivers along with the East Coast Canal are connected by National Waterway-5. II. National Waterway-3 connects Prayagraj in Uttar Pradesh to Haldia in West Bengal through the Ganga-Bhagirathi-Hooghly system. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -15197,7 +15197,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0623",
+    "id": 4112,
     "stem": "Consider the following statements: I. The Howrah Bridge was officially opened in 1943. II. It was renamed Rabindra Setu in 1965 in honour of Rabindranath Tagore. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -15265,7 +15265,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0624",
+    "id": 4113,
     "stem": "What is the total length of the Golden Quadrilateral, built by the National Highways Authority of India (NHAI)?",
     "options": {
       "opt_a": "5978 km",
@@ -15333,7 +15333,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0626",
+    "id": 4114,
     "stem": "As of 2022, which of the following is the longest national waterway in India?",
     "options": {
       "opt_a": "Allahabad-Haldia stretch",
@@ -15401,7 +15401,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0643",
+    "id": 4115,
     "stem": "The Vadhavan Port is located in _____.",
     "options": {
       "opt_a": "Kerala",
@@ -15469,7 +15469,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0742",
+    "id": 4116,
     "stem": "As per census 2011, What is the Total Fertility Rate in India? (provide an approximate range)",
     "options": {
       "opt_a": "3.1 - 3.9",
@@ -15537,7 +15537,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0773",
+    "id": 4117,
     "stem": "In which layer of atmosphere does the meteorites burn up on entering from space?",
     "options": {
       "opt_a": "Stratosphere",
@@ -15605,7 +15605,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0775",
+    "id": 4118,
     "stem": "At what height do the Jet Streams blow in India during winter months?",
     "options": {
       "opt_a": "9-15 km",
@@ -15673,7 +15673,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0778",
+    "id": 4119,
     "stem": "The term ‘monsoon’ is derived from a/an:",
     "options": {
       "opt_a": "Italian word",
@@ -15741,7 +15741,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0783",
+    "id": 4120,
     "stem": "Exfoliation is a form of _________.",
     "options": {
       "opt_a": "physical weathering",
@@ -15809,7 +15809,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0785",
+    "id": 4121,
     "stem": "Which of the following is the correct match between column-A and column-B? Column-A (Type of rock) Column-B (Method of formation) i. Sedimentary Rock a. Transformed its chemical qualities from other type of rocks ii. Metamorphic Rock b. Derived from magma that was poured out or ejected at the Earth's Surface iii. Igneous Rock c. Formed from fragments of other rocks or the remains of plants or animals",
     "options": {
       "opt_a": "i-a, ii-b, iii-c",
@@ -15877,7 +15877,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0787",
+    "id": 4122,
     "stem": "Which of the following is a yellowish green to green coloured gemstone often found in mafic and ultramafic igneous rocks such as basalt, gabbro, dunite, diabase and peridotite?",
     "options": {
       "opt_a": "Bornite",
@@ -15945,7 +15945,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0788",
+    "id": 4123,
     "stem": "The steep rocky coast rising almost vertically above sea water is called ______.",
     "options": {
       "opt_a": "sea caves",
@@ -16013,7 +16013,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0797",
+    "id": 4124,
     "stem": "Consider the following statements: I. K2 is the highest peak of the Karakoram Range. II. Nanda Devi lies in the Zanskar Range. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -16081,7 +16081,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0799",
+    "id": 4125,
     "stem": "What is the name of the highest peak of Indian Garhwal Himalayas located in Chamoli district of Uttarakhand state with a height of 7,816 metres?",
     "options": {
       "opt_a": "Trisul",
@@ -16149,7 +16149,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0803",
+    "id": 4126,
     "stem": "Consider the following statements regarding famous hills in India: I. The Shevaroy Hills are located in Tamil Nadu. II. Guru Shikhar is the highest peak in Rajasthan. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -16217,7 +16217,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0804",
+    "id": 4127,
     "stem": "Which among the following is the highest peak of West Bengal?",
     "options": {
       "opt_a": "Sandakphu",
@@ -16285,7 +16285,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0843",
+    "id": 4128,
     "stem": "A long, winding ridge of stratified sand and gravel is known as:",
     "options": {
       "opt_a": "Moraine",
@@ -16353,7 +16353,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0847",
+    "id": 4129,
     "stem": "Mid-latitude deserts (BWK) are found between 35° and _________N and S, which are poleward of subtropical high- pressure areas.",
     "options": {
       "opt_a": "70°",
@@ -16421,7 +16421,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0851",
+    "id": 4130,
     "stem": "\"Eskimos\" are associated with which geographical region?",
     "options": {
       "opt_a": "Arid Region",
@@ -16489,7 +16489,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0867",
+    "id": 4131,
     "stem": "Consider the following statements: I. Project Tiger was launched in 1973 at Corbett Tiger Reserve. II. The Wildlife Protection Act was passed in 1975. Which of the above statement(s) is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -16557,7 +16557,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0869",
+    "id": 4132,
     "stem": "Which of the following is a man-made ecosystem?",
     "options": {
       "opt_a": "Aquarium",
@@ -16625,7 +16625,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0870",
+    "id": 4133,
     "stem": "Which of the following are the two basic categories of an ecosystem?",
     "options": {
       "opt_a": "Forest and Aquatic",
@@ -16693,7 +16693,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0872",
+    "id": 4134,
     "stem": "Which of the following is the best definition of ecological efficiency?",
     "options": {
       "opt_a": "The amount of energy utilised at different trophic levels in a food chain",
@@ -16761,7 +16761,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0873",
+    "id": 4135,
     "stem": "The record obtained by the measurement of earthquake is called a:",
     "options": {
       "opt_a": "seismograph",
@@ -16829,7 +16829,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0876",
+    "id": 4136,
     "stem": "In which of the following regions of India is the Mundari language spoken?",
     "options": {
       "opt_a": "Chota-Nagpur plateau",
@@ -16897,7 +16897,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0879",
+    "id": 4137,
     "stem": "The depositional pattern of CaCO 3 and other materials that extend upwards from the floor of a limestone cavern is known as:",
     "options": {
       "opt_a": "Stalactite",
@@ -16965,7 +16965,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0881",
+    "id": 4138,
     "stem": "In which of the following schedules of the Wildlife (Protection) Act, 1972 is the most common wild cat in India 'Felis chaus' listed?",
     "options": {
       "opt_a": "Schedule I",
@@ -17033,7 +17033,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0886",
+    "id": 4139,
     "stem": "Consider the following statements: I. Hydrology is the study of distribution and movement of water on and below the Earth’s surface. II. Ecology is the study of inter-relationship between living organisms and their environment. Which of the above statement(s) is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -17101,7 +17101,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0888",
+    "id": 4140,
     "stem": "The Vienna Convention is related to ____________.",
     "options": {
       "opt_a": "protection of wild life",
@@ -17169,7 +17169,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0890",
+    "id": 4141,
     "stem": "Select the correct statement about climax community.",
     "options": {
       "opt_a": "It is an ecological community in which populations of plants or animals, which are very unstable and exist for very few time.",
@@ -17237,7 +17237,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0894",
+    "id": 4142,
     "stem": "Who was the first ecologist to describe the specific shape of eco-trophic interactions, which he called the pyramid of numbers, in the 1920s?",
     "options": {
       "opt_a": "Ernst Haeckel",
@@ -17305,7 +17305,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0916",
+    "id": 4143,
     "stem": "Which of the following is a vulnerable species?",
     "options": {
       "opt_a": "Himalayan brown bear",
@@ -17373,7 +17373,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0925",
+    "id": 4144,
     "stem": "Which of the following mountain ranges is home to the second highest peak of the world, K2?",
     "options": {
       "opt_a": "Karakoram Range",

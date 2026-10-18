@@ -1,6 +1,6 @@
 [
   {
-    "id": "q_9999e209",
+    "id": 1970,
     "stem": "Consider the following statements regarding the formation of the Himalayas:\n1. India collided with Asia approximately 40-50 million years ago, initiating the rapid uplift of the Himalayas.\n2. The process of Himalayan upliftment ceased completely around 10 million years ago.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "id": "q_ad2f020a",
+    "id": 1971,
     "stem": "Which of the following mountain ranges is situated between the Great Himalayas and the Shiwaliks?",
     "options": {
       "opt_a": "Zaskar Range",
@@ -142,7 +142,7 @@
     }
   },
   {
-    "id": "q_fc5ab083",
+    "id": 1972,
     "stem": "Which of the following islands are separated by the Ten Degree Channel?",
     "options": {
       "opt_a": "Andaman Islands and Nicobar Islands",
@@ -213,7 +213,7 @@
     }
   },
   {
-    "id": "q_23e3da48",
+    "id": 1973,
     "stem": "Which of the following geological formations is the oldest in the context of the structure of India?",
     "options": {
       "opt_a": "The Indo-Gangetic Alluvial Plains",
@@ -284,7 +284,7 @@
     }
   },
   {
-    "id": "q_8014d7a5",
+    "id": 1974,
     "stem": "Which of the following geographic features marks the western boundary of the Indo-Gangetic Plains, separating it from the Thar Desert?",
     "options": {
       "opt_a": "The Aravalli Range",
@@ -355,7 +355,7 @@
     }
   },
   {
-    "id": "q_2c269086",
+    "id": 1975,
     "stem": "Which of the following physiographic divisions of India is geologically considered the oldest stable landmass, forming a part of the ancient Gondwana land?",
     "options": {
       "opt_a": "The Himalayas",
@@ -426,7 +426,7 @@
     }
   },
   {
-    "id": "q_80d1017b",
+    "id": 1976,
     "stem": "Which of the following island groups of India is of coral origin (atoll structure) and separated from the Maldives by the Eight Degree Channel?",
     "options": {
       "opt_a": "Andaman Islands",
@@ -497,7 +497,7 @@
     }
   },
   {
-    "id": "q_a17eb196",
+    "id": 1977,
     "stem": "Which of the following passes connects the Srinagar in the Kashmir Valley with Leh in Ladakh?",
     "options": {
       "opt_a": "Rohtang Pass",
@@ -568,7 +568,7 @@
     }
   },
   {
-    "id": "q_01554490",
+    "id": 1978,
     "stem": "Consider the following statements regarding the Lakshadweep Islands:\n1. They are entirely coral islands built up by the growth of polyps.\n2. Minicoy is the southernmost island of this group.\n3. The entire island group is separated from the Maldives by the Eight Degree Channel.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -639,7 +639,7 @@
     }
   },
   {
-    "id": "q_b9e94114",
+    "id": 1979,
     "stem": "Consider the following pairs of Mountain Passes and their corresponding States:\n1. Shipki La : Uttarakhand\n2. Bomdi La : Arunachal Pradesh\n3. Zoji La : Himachal Pradesh\n4. Nathu La : Sikkim\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -710,7 +710,7 @@
     }
   },
   {
-    "id": "q_bc1f134c",
+    "id": 1980,
     "stem": "Consider the following rivers:\n1. Chambal\n2. Betwa\n3. Son\n4. Damodar\n\nHow many of the above are right-bank tributaries of the Yamuna River?",
     "options": {
       "opt_a": "Only one",
@@ -781,7 +781,7 @@
     }
   },
   {
-    "id": "q_69714c2f",
+    "id": 1981,
     "stem": "Assertion (A): The Western Ghats act as a true water divide for peninsular India, with most major peninsular rivers draining eastward into the Bay of Bengal.\nReason (R): The Western Ghats experience heavy orographic rainfall during the southwest monsoon, supplying perennial water to the eastward-flowing river systems.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -852,7 +852,7 @@
     }
   },
   {
-    "id": "q_495b39c5",
+    "id": 1982,
     "stem": "Consider the following statements regarding the Meghalaya Plateau:\n1. It is an extension of the main Peninsular Plateau separated from it by the Malda Fault.\n2. It comprises three prominent hill ranges: the Garo, Khasi, and Jaintia hills.\n3. The region receives high rainfall primarily due to the funneling effect of the local topography trapping the Bay of Bengal branch of the monsoon.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -923,7 +923,7 @@
     }
   },
   {
-    "id": "q_51255397",
+    "id": 1983,
     "stem": "Consider the following statements regarding the Eastern Coastal Plains of India:\n1. It is a broader and level plain compared to the Western Coastal Plain, formed by the alluvial deposits of east-flowing rivers.\n2. The northern part of this plain is known as the Coromandel Coast, while the southern part is referred to as the Northern Circars.\n3. Lake Chilika is an important brackish water lagoon located in this coastal region.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -994,7 +994,7 @@
     }
   },
   {
-    "id": "q_5779d25c",
+    "id": 1984,
     "stem": "Consider the following mountain passes:\n1. Zoji La - Zaskar Range\n2. Bara Lachla La - Pir Panjal Range\n3. Shipki La - Great Himalayas\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "id": "q_61948249",
+    "id": 1985,
     "stem": "Consider the following statements regarding the Peninsular Plateau:\n1. The general elevation of the plateau is from west to east, as indicated by the flow of major rivers like Mahanadi, Godavari, and Krishna.\n2. The Western Ghats are comparatively higher in elevation and more continuous than the Eastern Ghats.\n3. The Nilgiri hills form the traditional linkage point where the Eastern and Western Ghats meet.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1136,7 +1136,7 @@
     }
   },
   {
-    "id": "q_445f305b",
+    "id": 1986,
     "stem": "Consider the following regions:\n1. Chota Nagpur Plateau\n2. Malwa Plateau\n3. Bundelkhand Upland\nWhich of the above are sub-divisions of the Central Highlands of the Peninsular Plateau?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -1207,7 +1207,7 @@
     }
   },
   {
-    "id": "q_117a5451",
+    "id": 1987,
     "stem": "Consider the following hill ranges of the Peninsular Plateau from North to South:\n1. Satpura Range\n2. Vindhyan Range\n3. Ajanta Range\n4. Kaimur Range\n\nWhat is the correct North to South sequence?",
     "options": {
       "opt_a": "2 - 4 - 1 - 3",
@@ -1278,7 +1278,7 @@
     }
   },
   {
-    "id": "q_7cf9ec3e",
+    "id": 1988,
     "stem": "Consider the following statements regarding the Andaman and Nicobar Islands:\n1. The Ten Degree Channel separates the Andaman group from the Nicobar group.\n2. Saddle Peak, the highest peak in the archipelago, is located in Great Nicobar.\n3. Barren Island, the only active volcano in India, lies in the Andaman group.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1349,7 +1349,7 @@
     }
   },
   {
-    "id": "q_d408abdd",
+    "id": 1989,
     "stem": "Consider the following mountain ranges of India:\n1. Zaskar Range\n2. Pir Panjal Range\n3. Ladakh Range\n4. Karakoram Range\n\nWhat is the correct geographical sequence of these ranges from North to South?",
     "options": {
       "opt_a": "4 - 3 - 1 - 2",
@@ -1420,7 +1420,7 @@
     }
   },
   {
-    "id": "q_70587af4",
+    "id": 1990,
     "stem": "Consider the following pairs of regional divisions of the Himalayas and the rivers bounding them:\n1. Punjab Himalayas : Indus and Satluj rivers\n2. Kumaon Himalayas : Satluj and Kali rivers\n3. Nepal Himalayas : Teesta and Dihang rivers\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -1491,7 +1491,7 @@
     }
   },
   {
-    "id": "q_05ab15f5",
+    "id": 1991,
     "stem": "Consider the following statements regarding the Greater Himalayas (Himadri):\n1. It is the northernmost range of the Himalayas, also known as the inner Himalayas.\n2. This mountain range is folded in its asymmetric nature with core composed of granite.\n3. It receives maximum precipitation in the form of rainfall during the southwest monsoon season.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1562,7 +1562,7 @@
     }
   },
   {
-    "id": "q_3c57b538",
+    "id": 1992,
     "stem": "Assertion (A): The Northern Plains of India are extensively alluvial in nature and lack bedrock exposures.\nReason (R): The vast sedimentary deposits have been continuously brought down and deposited by the Indus, Ganga, and Brahmaputra river systems over millions of years.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -1633,7 +1633,7 @@
     }
   },
   {
-    "id": "q_3306b694",
+    "id": 1993,
     "stem": "Consider the following pairs of Coastal Plains and their regional sub-divisions:\n1. Konkan Coast - Northern part of the Western Coastal Plain\n2. Coromandel Coast - Northern part of the Eastern Coastal Plain\n3. Malabar Coast - Southern part of the Western Coastal Plain\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "id": "q_795d2392",
+    "id": 1994,
     "stem": "Consider the following statements regarding the Northern Plains of India:\n1. The Bhabar belt consists of pebble-bed sediments deposited by rivers rushing down the slopes, where streams disappear underground.\n2. The Terai belt is a wet, swampy region south of Bhabar where underground streams re-emerge, known for lush forests and wildlife.\n3. Bhangar comprises older alluvium plains located above the flood level of rivers, often containing calcareous formations known as kankar.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1775,7 +1775,7 @@
     }
   },
   {
-    "id": "q_3add31da",
+    "id": 1995,
     "stem": "Assertion (A): The Western Ghats are comparatively higher in elevation and more continuous than the Eastern Ghats.\nReason (R): The Western Ghats represent a true mountain range formed by tectonic block faulting, whereas the Eastern Ghats are highly eroded discontinuous residual hills dissected by major peninsular rivers.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "id": "q_72b232af",
+    "id": 1996,
     "stem": "Assertion (A): The Shiwalik ranges are composed of unconsolidated sediments brought down by rivers from the main Himalayan ranges.\nReason (R): The Shiwaliks represent the outermost foothills of the Himalayas that underwent rapid sedimentation and subsequent tectonic uplift during the late Tertiary period.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "id": "q_49b4de5f",
+    "id": 1997,
     "stem": "Which of the following statements best describes the structural characteristic of the Meghalaya Plateau?",
     "options": {
       "opt_a": "It is a newly folded tertiary mountain range formed contemporaneously with the Arakan Yoma.",
@@ -1988,7 +1988,7 @@
     }
   },
   {
-    "id": "q_9e281727",
+    "id": 1998,
     "stem": "Which of the following landform features characterize the Chotanagpur Plateau region?",
     "options": {
       "opt_a": "Extensive basaltic lava flows forming regur soil",
@@ -2059,7 +2059,7 @@
     }
   },
   {
-    "id": "q_0b0f2b4e",
+    "id": 1999,
     "stem": "Which of the following Indian states does NOT share a boundary with Nepal?",
     "options": {
       "opt_a": "Uttarakhand",
@@ -2130,7 +2130,7 @@
     }
   },
   {
-    "id": "q_66a40d23",
+    "id": 2000,
     "stem": "If you travel strictly by national highways from Patna (Bihar) to Bengaluru (Karnataka), what is the minimum number of states you must cross, excluding Bihar and Karnataka?",
     "options": {
       "opt_a": "Three",
@@ -2201,7 +2201,7 @@
     }
   },
   {
-    "id": "q_map3_d4e5f6",
+    "id": 2001,
     "stem": "If you travel in a straight line from Kanyakumari to Srinagar, which of the following states will you NOT pass through?",
     "options": {
       "opt_a": "Madhya Pradesh",
@@ -2272,7 +2272,7 @@
     }
   },
   {
-    "id": "q_map5_q7r8s9t0",
+    "id": 2002,
     "stem": "Which of the following straits separates the main island of Tierra del Fuego from mainland South America?",
     "options": {
       "opt_a": "Strait of Magellan",
@@ -2343,7 +2343,7 @@
     }
   },
   {
-    "id": "q_map5_m5n6o7p8",
+    "id": 2003,
     "stem": "The Tsugaru Strait is a critical maritime passage located between which two Japanese islands?",
     "options": {
       "opt_a": "Honshu and Hokkaido",
@@ -2414,7 +2414,7 @@
     }
   },
   {
-    "id": "q_map5_u3v4w5x6",
+    "id": 2004,
     "stem": "The Strait of Tartary (Tartar Strait) divides the Russian mainland from which island?",
     "options": {
       "opt_a": "Sakhalin",
@@ -2485,7 +2485,7 @@
     }
   },
   {
-    "id": "q_map6_f8g9h0",
+    "id": 2005,
     "stem": "[UPSC PYQ] The Strait of Malacca, one of the most important shipping lanes in the world, is physically located between which landmasses?",
     "options": {
       "opt_a": "The Malay Peninsula and the island of Java",
@@ -2556,7 +2556,7 @@
     }
   },
   {
-    "id": "q_map8_3g4h",
+    "id": 2006,
     "stem": "[UPSC PYQ] Which mountain range acts as a massive climatic barrier, preventing the bitterly cold, dry winter winds of Siberia and Central Asia from sweeping into the Indian subcontinent?",
     "options": {
       "opt_a": "Hindu Kush",
@@ -2627,7 +2627,7 @@
     }
   },
   {
-    "id": "q_map9_b8c9d0",
+    "id": 2007,
     "stem": "The 10 Degree Channel separates:",
     "options": {
       "opt_a": "Andaman and Nicobar Islands",
@@ -2698,7 +2698,7 @@
     }
   },
   {
-    "id": "q_oxford1_s9t0u1",
+    "id": 2008,
     "stem": "The Mahadeo Hills are located to the:",
     "options": {
       "opt_a": "East of the Maikal Range",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "id": "q_oxford1_e1f2g3",
+    "id": 2009,
     "stem": "Which of the following passes connects Srinagar with Kargil and Leh?",
     "options": {
       "opt_a": "Zoji La",
@@ -2840,7 +2840,7 @@
     }
   },
   {
-    "id": "q_oxford1_k7l8m9",
+    "id": 2010,
     "stem": "The saddle peak, the highest peak of Andaman and Nicobar Islands, is located in:",
     "options": {
       "opt_a": "North Andaman",
@@ -2911,7 +2911,7 @@
     }
   },
   {
-    "id": "q_oxford1_q3r4s5",
+    "id": 2011,
     "stem": "[UPSC PYQ] The Cardamom Hills are a southern continuation of which of the following mountain ranges?",
     "options": {
       "opt_a": "Western Ghats",
@@ -2982,7 +2982,7 @@
     }
   },
   {
-    "id": "q_pin_18",
+    "id": 2012,
     "stem": "The city of Marawi, which was the site of a major five-month-long battle between Philippine government forces and affiliated militants in 2017, is located on which island?",
     "options": {
       "opt_a": "Mindanao",
@@ -3053,7 +3053,7 @@
     }
   },
   {
-    "id": "q_cf660f16",
+    "id": 2013,
     "stem": "Arrange the following Indian cities in a sequence from North to South:\n1. Patna\n2. Bhopal\n3. Hyderabad\n4. Bengaluru\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -3124,7 +3124,7 @@
     }
   },
   {
-    "id": "q_b559cbb0",
+    "id": 2014,
     "stem": "Arrange the following physiographic sub-divisions of the Northern Plains from North to South:\n1. Terai\n2. Bhangar\n3. Bhabar\n4. Khadar\nSelect the correct sequence using the code below:",
     "options": {
       "opt_a": "3 - 1 - 2 - 4",
@@ -3195,7 +3195,7 @@
     }
   },
   {
-    "id": "q_d15586ec",
+    "id": 2015,
     "stem": "Arrange the following locations from North to South based on their geographical coordinates:\n1. Ludhiana\n2. Bhopal\n3. Nagpur\n4. Bengaluru\n\nSelect the correct sequence from the options below:",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -3266,7 +3266,7 @@
     }
   },
   {
-    "id": "q_2d68e91f",
+    "id": 2016,
     "stem": "Arrange the following capital cities of North-East India from North to South:\n1. Dispur\n2. Shillong\n3. Itanagar\n4. Kohima\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "3 - 1 - 4 - 2",
@@ -3337,7 +3337,7 @@
     }
   },
   {
-    "id": "q_6e51230d",
+    "id": 2017,
     "stem": "Consider the following passes located in the Himalayan region:\n1. Zoji La\n2. Banihal Pass\n3. Shipki La\n4. Bara-Lacha La\n\nWhich of the following represents the correct geographical arrangement from North to South?",
     "options": {
       "opt_a": "1 - 2 - 4 - 3",
@@ -3408,7 +3408,7 @@
     }
   },
   {
-    "id": "q_7c550dec",
+    "id": 2018,
     "stem": "Consider the following islands or island groups in Indian waters:\n1. Minicoy Island\n2. North Andaman\n3. Car Nicobar\n4. Pamban Island\n\nWhich of the following is the correct order from North to South?",
     "options": {
       "opt_a": "2 - 4 - 1 - 3",
@@ -3479,7 +3479,7 @@
     }
   },
   {
-    "id": "q_38208eb7",
+    "id": 2019,
     "stem": "[UPSC PYQ] Consider the following hill ranges of peninsular India from North to South:\n1. Satmala Hills\n2. Nallamala Hills\n3. Javadi Hills\n4. Cardamom Hills\nSelect the correct arrangement from North to South:",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -3550,7 +3550,7 @@
     }
   },
   {
-    "id": "q_1eda7ba3",
+    "id": 2020,
     "stem": "Consider the following hill ranges of Central India from North to South:\n1. Vindhya Range\n2. Satpura Range\n3. Mahadeo Hills\n4. Ajanta Range\n\nWhich of the following represents the correct order from North to South?",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -3621,7 +3621,7 @@
     }
   },
   {
-    "id": "q_1f8a4b40",
+    "id": 2021,
     "stem": "Consider the following coastal cities of peninsular India:\n1. Thiruvananthapuram\n2. Chennai\n3. Visakhapatnam\n4. Bhubaneswar (Chandipur/Paradip region)\n\nArrange the above cities from North to South:",
     "options": {
       "opt_a": "3 - 2 - 1 - 4",
@@ -3692,7 +3692,7 @@
     }
   },
   {
-    "id": "q_f60c7b87",
+    "id": 2022,
     "stem": "[UPSC PYQ] Consider the following mountain ranges of the Western Himalayas from West to East:\n1. Zanskar Range\n2. Ladakh Range\n3. Karakoram Range\n4. Pir Panjal Range\n\nWhich of the following is the correct arrangement from North to South?",
     "options": {
       "opt_a": "3 - 2 - 1 - 4",
@@ -3763,7 +3763,7 @@
     }
   },
   {
-    "id": "q_map_001",
+    "id": 2023,
     "stem": "Consider the map of Peninsular India. Which of the following is the correct sequence of hills from North to South?\n1. Nallamala Hills\n2. Nilgiri Hills\n3. Javadi Hills\n4. Anaimalai Hills",
     "options": {
       "opt_a": "1 - 3 - 2 - 4",
@@ -3834,7 +3834,7 @@
     }
   },
   {
-    "id": "q_map_005",
+    "id": 2024,
     "stem": "[UPSC PYQ] Consider the map of Northern India and the Himalayas. Arrange the following mountain passes from West to East:\n1. Shipki La\n2. Zoji La\n3. Nathu La\n4. Bomdi La",
     "options": {
       "opt_a": "2 - 1 - 3 - 4",
@@ -3905,7 +3905,7 @@
     }
   },
   {
-    "id": "q_map_011",
+    "id": 2025,
     "stem": "[UPSC PYQ] Arrange the capital cities of North-Eastern states from North to South:\n1. Kohima\n2. Imphal\n3. Itanagar\n4. Aizawl",
     "options": {
       "opt_a": "3 - 1 - 2 - 4",
@@ -3976,7 +3976,7 @@
     }
   },
   {
-    "id": "q_map_012",
+    "id": 2026,
     "stem": "Which of the following sequence of islands is correct from North to South in the Andaman and Nicobar group?",
     "options": {
       "opt_a": "Middle Andaman - South Andaman - Little Andaman - Car Nicobar",
@@ -4047,7 +4047,7 @@
     }
   },
   {
-    "id": "q_map_016",
+    "id": 2027,
     "stem": "Arrange the following Middle Eastern capitals from West to East:\n1. Amman\n2. Baghdad\n3. Damascus\n4. Tehran",
     "options": {
       "opt_a": "1 - 3 - 2 - 4",
@@ -4118,7 +4118,7 @@
     }
   },
   {
-    "id": "q_map_018",
+    "id": 2028,
     "stem": "Arrange the following major Himalayan peaks from West to East:\n1. Dhaulagiri\n2. Nanda Devi\n3. Makalu\n4. Namcha Barwa",
     "options": {
       "opt_a": "2 - 1 - 3 - 4",
@@ -4189,7 +4189,7 @@
     }
   },
   {
-    "id": "q_map_020",
+    "id": 2029,
     "stem": "Consider the following cities located along the Ganga river basin:\n1. Haridwar\n2. Kanpur\n3. Varanasi\n4. Patna\nArrange them in sequence from upstream to downstream.",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -4260,7 +4260,7 @@
     }
   },
   {
-    "id": "q_map1_a1b2c3",
+    "id": 2030,
     "stem": "Arrange the following mountain passes of India from North to South:\n1. Zoji La\n2. Bara Lacha La\n3. Shipki La\n4. Lipulekh",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -4331,7 +4331,7 @@
     }
   },
   {
-    "id": "q_map1_g7h8i9",
+    "id": 2031,
     "stem": "[UPSC PYQ] Arrange the following hills of Northeast India from West to East:\n1. Dafla Hills\n2. Miri Hills\n3. Abor Hills\n4. Mishmi Hills",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -4402,7 +4402,7 @@
     }
   },
   {
-    "id": "q_map1_s9t0u1",
+    "id": 2032,
     "stem": "[UPSC PYQ] Arrange these capital cities from West to East:\n1. Bhopal\n2. Lucknow\n3. Hyderabad\n4. Raipur",
     "options": {
       "opt_a": "1 - 3 - 2 - 4",
@@ -4473,7 +4473,7 @@
     }
   },
   {
-    "id": "q_map1_v2w3x4",
+    "id": 2033,
     "stem": "Consider the following states:\n1. Gujarat\n2. Andhra Pradesh\n3. Tamil Nadu\n4. Maharashtra\nArrange them in decreasing order of their coastline length.",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -4544,7 +4544,7 @@
     }
   },
   {
-    "id": "q_map1_e1f2g3",
+    "id": 2034,
     "stem": "Arrange the following ranges from North to South:\n1. Karakoram\n2. Zaskar\n3. Pir Panjal\n4. Ladakh",
     "options": {
       "opt_a": "1 - 4 - 2 - 3",
@@ -4615,7 +4615,7 @@
     }
   },
   {
-    "id": "q_map1_k7l8m9",
+    "id": 2035,
     "stem": "Arrange these islands of Andaman & Nicobar from North to South:\n1. Middle Andaman\n2. Little Andaman\n3. Car Nicobar\n4. Great Nicobar",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -4686,7 +4686,7 @@
     }
   },
   {
-    "id": "q_map1_q3r4s5",
+    "id": 2036,
     "stem": "Arrange the following tributaries of the Ganga from West to East:\n1. Gandak\n2. Kosi\n3. Ghaghara\n4. Gomti",
     "options": {
       "opt_a": "4 - 3 - 1 - 2",
@@ -4757,7 +4757,7 @@
     }
   },
   {
-    "id": "q_map1_z2a3b4",
+    "id": 2037,
     "stem": "Arrange the following hill stations from South to North:\n1. Ooty\n2. Munnar\n3. Kodaikanal\n4. Coorg (Madikeri)",
     "options": {
       "opt_a": "2 - 3 - 1 - 4",
@@ -4828,7 +4828,7 @@
     }
   },
   {
-    "id": "q_map2_a1b2c3d4",
+    "id": 2038,
     "stem": "Arrange the following hills of Peninsular India from North to South:\n1. Nallamala Hills\n2. Nilgiri Hills\n3. Javadi Hills\n4. Anaimalai Hills",
     "options": {
       "opt_a": "1-3-2-4",
@@ -4899,7 +4899,7 @@
     }
   },
   {
-    "id": "q_map2_m3n4o5p6",
+    "id": 2039,
     "stem": "Arrange the following Himalayan passes from West to East:\n1. Nathu La\n2. Shipki La\n3. Bomdila\n4. Lipulekh",
     "options": {
       "opt_a": "2-4-1-3",
@@ -4970,7 +4970,7 @@
     }
   },
   {
-    "id": "q_map2_g3h4i5j6",
+    "id": 2040,
     "stem": "Arrange the following capital cities from North to South:\n1. Srinagar\n2. Shimla\n3. Chandigarh\n4. Dehradun",
     "options": {
       "opt_a": "1-2-3-4",
@@ -5041,7 +5041,7 @@
     }
   },
   {
-    "id": "q_map2_e7f8g9h0",
+    "id": 2041,
     "stem": "[UPSC PYQ] Arrange the main islands of Japan from North to South:\n1. Hokkaido\n2. Shikoku\n3. Honshu\n4. Kyushu",
     "options": {
       "opt_a": "1-3-2-4",
@@ -5112,7 +5112,7 @@
     }
   },
   {
-    "id": "q_map2_m5n6o7p8",
+    "id": 2042,
     "stem": "[UPSC PYQ] Consider the following mountain ranges of the Himalayas:\n1. Karakoram Range\n2. Zaskar Range\n3. Ladakh Range\n4. Pir Panjal Range\nArrange them in order from North to South.",
     "options": {
       "opt_a": "1-3-2-4",
@@ -5183,7 +5183,7 @@
     }
   },
   {
-    "id": "q_map2_u3v4w5x6",
+    "id": 2043,
     "stem": "Identify the correct sequence of coastal plains of India from West to East along the peninsular tip:",
     "options": {
       "opt_a": "Konkan - Malabar - Coromandel - Northern Circars",
@@ -5254,7 +5254,7 @@
     }
   },
   {
-    "id": "q_map3_a1b2c3",
+    "id": 2044,
     "stem": "[UPSC PYQ] Arrange the following hills of North-East India from North to South: 1. Patkai Bum, 2. Mizo Hills, 3. Naga Hills, 4. Barail Range.",
     "options": {
       "opt_a": "1, 3, 4, 2",
@@ -5325,7 +5325,7 @@
     }
   },
   {
-    "id": "q_map3_m3n4o5",
+    "id": 2045,
     "stem": "Arrange these Himalayan passes from West to East: 1. Shipki La, 2. Nathu La, 3. Zoji La, 4. Bomdi La.",
     "options": {
       "opt_a": "3, 1, 2, 4",
@@ -5396,7 +5396,7 @@
     }
   },
   {
-    "id": "q_map3_y5z6a7",
+    "id": 2046,
     "stem": "Which sequence correctly represents the islands of Andaman and Nicobar from North to South?",
     "options": {
       "opt_a": "North Andaman, Middle Andaman, South Andaman, Little Andaman, Car Nicobar, Great Nicobar",
@@ -5467,7 +5467,7 @@
     }
   },
   {
-    "id": "q_map3_c5d6e7",
+    "id": 2047,
     "stem": "[UPSC PYQ] Arrange the following passes of the Western Ghats from North to South: 1. Thal Ghat, 2. Pal Ghat, 3. Bhor Ghat, 4. Shencottah Gap.",
     "options": {
       "opt_a": "1, 3, 2, 4",
@@ -5538,7 +5538,7 @@
     }
   },
   {
-    "id": "q_map4_a1b2c3d4",
+    "id": 2048,
     "stem": "Arrange the following mountain ranges from North to South: 1. Zanskar Range 2. Karakoram Range 3. Pir Panjal Range 4. Ladakh Range",
     "options": {
       "opt_a": "2, 4, 1, 3",
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "q_map4_e5f6g7h8",
+    "id": 2049,
     "stem": "[UPSC PYQ] Arrange the following hills of North-East India from West to East: 1. Naga Hills 2. Garo Hills 3. Khasi Hills 4. Jaintia Hills",
     "options": {
       "opt_a": "2, 3, 4, 1",
@@ -5680,7 +5680,7 @@
     }
   },
   {
-    "id": "q_map4_g3h4i5j6",
+    "id": 2050,
     "stem": "Arrange the following Mediterranean islands from West to East: 1. Cyprus 2. Corsica 3. Balearic Islands 4. Crete",
     "options": {
       "opt_a": "3, 2, 4, 1",
@@ -5751,7 +5751,7 @@
     }
   },
   {
-    "id": "q_map4_o1p2q3r4",
+    "id": 2051,
     "stem": "[UPSC PYQ] Arrange the following Himalayan peaks from West to East: 1. Makalu 2. Dhaulagiri 3. Kanchenjunga 4. Annapurna",
     "options": {
       "opt_a": "2, 4, 1, 3",
@@ -5822,7 +5822,7 @@
     }
   },
   {
-    "id": "q_map4_a3b4c5d6",
+    "id": 2052,
     "stem": "Identify the correct North to South sequence of the following mountain passes in India: 1. Bara Lacha La 2. Shipki La 3. Burzil 4. Lipulekh",
     "options": {
       "opt_a": "3, 1, 2, 4",
@@ -5893,7 +5893,7 @@
     }
   },
   {
-    "id": "q_map4_u3v4w5x6",
+    "id": 2053,
     "stem": "[UPSC PYQ] Arrange the following straits from North to South: 1. Strait of Malacca 2. Sunda Strait 3. Lombok Strait",
     "options": {
       "opt_a": "1, 2, 3",
@@ -5964,7 +5964,7 @@
     }
   },
   {
-    "id": "q_map8_1e2f",
+    "id": 2054,
     "stem": "[UPSC PYQ] The Continental Divide of the Americas, which separates watersheds that drain into the Pacific from those that drain into the Atlantic and Arctic, largely follows the crest of which mountain system in North America?",
     "options": {
       "opt_a": "Appalachian Mountains",
@@ -6035,7 +6035,7 @@
     }
   },
   {
-    "id": "q_map6_g7h8i9",
+    "id": 2055,
     "stem": "Arrange the following capital cities of South-East Asian nations from North to South:\n1. Bangkok\n2. Hanoi\n3. Phnom Penh\n4. Vientiane\nSelect the correct sequence:",
     "options": {
       "opt_a": "2 - 4 - 1 - 3",
@@ -6106,7 +6106,7 @@
     }
   },
   {
-    "id": "q_map6_v2w3x4",
+    "id": 2056,
     "stem": "The island of Borneo is politically divided among which of the following countries?\n1. Indonesia\n2. Malaysia\n3. Brunei\n4. Philippines\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 2 only",
@@ -6177,7 +6177,7 @@
     }
   },
   {
-    "id": "q_map8_7g8h",
+    "id": 2057,
     "stem": "[UPSC PYQ] Arrange the following mountain ranges of the Americas from North to South:\n1. Sierra Madre Occidental\n2. Brooks Range\n3. Andes\n4. Sierra Nevada",
     "options": {
       "opt_a": "2-4-1-3",
@@ -6248,7 +6248,7 @@
     }
   },
   {
-    "id": "q_oxford1_1a2b3c",
+    "id": 2058,
     "stem": "[UPSC PYQ] Arrange the following passes from West to East:\n1. Shipki La\n2. Nathu La\n3. Lipulekh\n4. Bomdi La",
     "options": {
       "opt_a": "1, 3, 2, 4",
@@ -6319,7 +6319,7 @@
     }
   },
   {
-    "id": "q_oxford1_7g8h9i",
+    "id": 2059,
     "stem": "Which of the following is the correct North to South sequence of the Peninsular ranges?",
     "options": {
       "opt_a": "Vindhya, Satpura, Ajanta, Balaghat",
@@ -6390,7 +6390,7 @@
     }
   },
   {
-    "id": "q_oxford1_m3n4o5",
+    "id": 2060,
     "stem": "Arrange the following hills of the Eastern Ghats from North to South:\n1. Nallamala Hills\n2. Javadi Hills\n3. Palkonda Range\n4. Shevaroy Hills",
     "options": {
       "opt_a": "1, 3, 2, 4",
@@ -6461,7 +6461,7 @@
     }
   },
   {
-    "id": "q_oxford1_y5z6a7",
+    "id": 2061,
     "stem": "[UPSC PYQ] Arrange the following from North to South in the Peninsular region:\n1. Kaimur Range\n2. Ramgarh Hills\n3. Garhjat Hills",
     "options": {
       "opt_a": "1, 2, 3",
@@ -6532,7 +6532,7 @@
     }
   },
   {
-    "id": "q_oxford2_k1l2m3n4",
+    "id": 2062,
     "stem": "Arrange the following left-bank tributaries of the Ganga river from West to East based on their confluence:\n1. Gomti\n2. Gandak\n3. Ghaghara\n4. Kosi\nSelect the correct sequence:",
     "options": {
       "opt_a": "1 - 3 - 2 - 4",
@@ -6603,7 +6603,7 @@
     }
   },
   {
-    "id": "q_pred3_0j1k2l",
+    "id": 2063,
     "stem": "Arrange the following BRICS nations geographically from West to East:\n1. Brazil\n2. Egypt\n3. Iran\n4. India",
     "options": {
       "opt_a": "1-2-3-4",
@@ -6674,7 +6674,7 @@
     }
   },
   {
-    "id": "q_0d030ef5",
+    "id": 2064,
     "stem": "Consider the following hills located in the Purvanchal and North-East region:\n1. Patkai Bum\n2. Naga Hills\n3. Manipur Hills\n4. Mizo Hills\n\nHow many of the above pairs from North to South are correctly matched and sequenced consecutively?",
     "options": {
       "opt_a": "Only one pair",
@@ -6745,7 +6745,7 @@
     }
   },
   {
-    "id": "q_a56a9fc2",
+    "id": 2065,
     "stem": "Arrange the following types of natural vegetation zones in India from the foothills of the Himalayas to the higher altitudes (North to South/Base to Peak logic):\n1. Tropical and Subtropical Deciduous Forests\n2. Temperate Forests with Conifers (Pine, Deodar)\n3. Alpine and Tundra Vegetation (Mosses and Lichens)\n4. Broad-leaved Temperate Forests (Oak and Chestnut)\nSelect the correct sequence from base to peak:",
     "options": {
       "opt_a": "1 - 2 - 4 - 3",
@@ -6816,7 +6816,7 @@
     }
   },
   {
-    "id": "q_oxford1_c8d9e0",
+    "id": 2066,
     "stem": "Consider the following pairs of passes and their locations:\n1. Zoji La - Greater Himalayas\n2. Banihal - Pir Panjal\n3. Fotu La - Zaskar Range\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6887,7 +6887,7 @@
     }
   },
   {
-    "id": "q_oxford1_d4e5f6",
+    "id": 2067,
     "stem": "[UPSC PYQ] Consider the following hills and their states:\n1. Dafla Hills - Arunachal Pradesh\n2. Mikir Hills - Assam\n3. Abor Hills - Meghalaya\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6958,7 +6958,7 @@
     }
   },
   {
-    "id": "q_oxford1_j0k1l2",
+    "id": 2068,
     "stem": "Consider the following peaks and their mountain ranges:\n1. Guru Shikhar - Aravalli Range\n2. Dhupgarh - Satpura Range\n3. Doddabetta - Nilgiri Hills\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7029,7 +7029,7 @@
     }
   },
   {
-    "id": "q_oxford1_p6q7r8",
+    "id": 2069,
     "stem": "[UPSC PYQ] Consider the following passes and the states they connect/are located in:\n1. Bara Lacha La - Himachal Pradesh\n2. Niti Pass - Uttarakhand\n3. Jelep La - Arunachal Pradesh\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7100,7 +7100,7 @@
     }
   },
   {
-    "id": "q_oxford1_b8c9d0",
+    "id": 2070,
     "stem": "Consider the following pairs of Glaciers and their ranges:\n1. Siachen - Karakoram\n2. Gangotri - Kumaon Himalayas\n3. Zemu - Sikkim Himalayas\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7171,7 +7171,7 @@
     }
   },
   {
-    "id": "q_oxford1_h4i5j6",
+    "id": 2071,
     "stem": "Consider the following pairs of coastal plains and their local names:\n1. Konkan Coast - Maharashtra\n2. Malabar Coast - Karnataka\n3. Coromandel Coast - Tamil Nadu\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7242,7 +7242,7 @@
     }
   },
   {
-    "id": "q_oxford1_n0o1p2",
+    "id": 2072,
     "stem": "[UPSC PYQ] Consider the following geographical features and their descriptions:\n1. Bhabar - Porous, rocky terrain at the foothills of the Himalayas\n2. Terai - Damp, marshy, and thickly forested area south of Bhabar\n3. Khadar - Older alluvium of the flood plains\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7313,7 +7313,7 @@
     }
   },
   {
-    "id": "q_oxford1_z2a3b4",
+    "id": 2073,
     "stem": "Consider the following pairs of structural hills and their alignment:\n1. Patkai Bum - Arunachal Pradesh\n2. Naga Hills - Nagaland\n3. Mizo Hills - Mizoram\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7384,7 +7384,7 @@
     }
   },
   {
-    "id": "q_oxford3_0j1k2l",
+    "id": 2074,
     "stem": "Consider the following pairs of Major Deserts and their Location:\n1. Gibson Desert : Australia\n2. Patagonian Desert : South America\n3. Karakum Desert : Africa\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7455,7 +7455,7 @@
     }
   },
   {
-    "id": "q_oxford3_2v3w4x",
+    "id": 2075,
     "stem": "Consider the following pairs of Global Deserts and Continents:\n1. Mojave Desert : North America\n2. Kalahari Desert : Africa\n3. Gobi Desert : Europe\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7526,7 +7526,7 @@
     }
   },
   {
-    "id": "q_oxford4_4n5o6p",
+    "id": 2076,
     "stem": "[UPSC PYQ] Consider the following pairs of islands and their respective countries:\n1. Mindanao : Philippines\n2. Sumatra : Indonesia\n3. Hokkaido : Vietnam\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7597,7 +7597,7 @@
     }
   },
   {
-    "id": "q_pred1_3m4n5o",
+    "id": 2077,
     "stem": "Consider the following pairs of global Rare Earth Element (REE) mines and their locations:\n1. Mount Weld : Australia\n2. Mountain Pass : United States\n3. Steenkampskraal : South Africa\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "None of the pairs",
@@ -7668,7 +7668,7 @@
     }
   },
   {
-    "id": "q_pred2_f6g7h8i",
+    "id": 2078,
     "stem": "Consider the following pairs of Pacific island groups and their respective macro-regions:\n1. Vanuatu : Melanesia\n2. Kiribati : Micronesia\n3. Samoa : Polynesia\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7739,7 +7739,7 @@
     }
   },
   {
-    "id": "q_pred2_l2m3n4o",
+    "id": 2079,
     "stem": "Consider the following pairs of atoll nations facing submersion and their specific climate adaptation strategies:\n1. Kiribati : Purchased land in Fiji to ensure food security and a potential refuge.\n2. Tuvalu : Reclaiming land in Funafuti and creating a 'digital nation' replica in the metaverse.\n3. Maldives : Building massive artificial elevated islands like Hulhumalé to relocate populations.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7810,7 +7810,7 @@
     }
   },
   {
-    "id": "q_pred3_2z3a4b",
+    "id": 2080,
     "stem": "Consider the following pairs of Sahelian countries and whether they share a border with the Sahara Desert:\n1. Mali - Yes\n2. Niger - Yes\n3. Chad - Yes\n4. Burkina Faso - No\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7881,7 +7881,7 @@
     }
   },
   {
-    "id": "q_curr_10",
+    "id": 2081,
     "stem": "In the context of the South Lhonak Lake GLOF in Sikkim, the event caused massive downstream flooding in which major river valley?",
     "options": {
       "opt_a": "Brahmaputra",
@@ -7952,7 +7952,7 @@
     }
   },
   {
-    "id": "q_curr_11",
+    "id": 2082,
     "stem": "Regarding the land subsidence in Joshimath, the Main Central Thrust (MCT) is often mentioned. The MCT represents a major geological fault zone separating:",
     "options": {
       "opt_a": "The Shivaliks from the Indo-Gangetic Plain.",
@@ -8023,7 +8023,7 @@
     }
   },
   {
-    "id": "q_current1_5f1a9e7d",
+    "id": 2083,
     "stem": "The Sela Tunnel, inaugurated in March 2024, is of immense strategic importance. Consider the following statements regarding the Sela Tunnel:\n1. It provides all-weather connectivity to the Tawang region near the Line of Actual Control (LAC).\n2. It is constructed across the Pir Panjal Range.\n3. It is situated at an altitude of above 13,000 feet.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 3 only",
@@ -8094,7 +8094,7 @@
     }
   },
   {
-    "id": "q_current1_f1a7e9d2",
+    "id": 2084,
     "stem": "The collapse of the Silkyara-Barkot tunnel in Uttarakhand (2023) drew attention to the fragile geology of the Himalayas. The Himalayan mountain system is longitudinally divided by major fault lines. The Main Boundary Thrust (MBT) separates which of the following?",
     "options": {
       "opt_a": "Lesser Himalayas and Sub-Himalayas (Shiwaliks)",
@@ -8165,7 +8165,7 @@
     }
   },
   {
-    "id": "q_current2_9c0d1e2f",
+    "id": 2085,
     "stem": "The Sela Tunnel, strategically significant for all-weather connectivity, was recently inaugurated. It ensures year-round access to the Tawang region across the Line of Actual Control (LAC). Through which mountain range is this tunnel excavated?",
     "options": {
       "opt_a": "Zaskar Range",
@@ -8236,7 +8236,7 @@
     }
   },
   {
-    "id": "q_current2_1i2j3k4l",
+    "id": 2086,
     "stem": "The Silkyara Bend–Barkot tunnel collapse in Uttarakhand highlighted the challenges of underground construction in the Himalayas. This tunnel is a part of which major infrastructure project?",
     "options": {
       "opt_a": "Bharatmala Pariyojana",
@@ -8307,7 +8307,7 @@
     }
   },
   {
-    "id": "q_inter_09",
+    "id": 2087,
     "stem": "Consider the causal link between laterite soils and economic activities. Which of the following statements is/are correct?\n1. Laterite soils are formed through intense leaching under alternating wet and dry tropical climates.\n2. Due to high fertility, they support intensive subsistence agriculture in the Western Ghats.\n3. They are widely used as a building material due to their tendency to harden upon exposure to air.\nSelect the correct answer code:",
     "options": {
       "opt_a": "1 and 2 only",
@@ -8378,7 +8378,7 @@
     }
   },
   {
-    "id": "q_inter_10",
+    "id": 2088,
     "stem": "Assertion (A): The Bhabar belt at the foothills of the Himalayas is highly suitable for intensive agriculture and dense human settlements.\nReason (R): The high porosity of the Bhabar belt results in streams disappearing underground, leaving a dry, bouldery surface.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -8449,7 +8449,7 @@
     }
   },
   {
-    "id": "q_inter_14",
+    "id": 2089,
     "stem": "Assertion (A): The cultivation of tea in India is largely confined to hill slopes rather than flat plains, despite requiring heavy rainfall.\nReason (R): Tea plants require stagnant water around their roots for optimal nutrient absorption from the soil.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -8520,7 +8520,7 @@
     }
   },
   {
-    "id": "q_inter_16",
+    "id": 2090,
     "stem": "Assertion (A): The development of wind energy is highly concentrated in the state of Tamil Nadu, particularly near the Muppandal region.\nReason (R): The geographical funneling effect of the Western Ghats (Aralvaimozhi pass) accelerates the wind speed, making it highly viable for wind farms.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -8591,7 +8591,7 @@
     }
   },
   {
-    "id": "q_interlink2_2a8c5",
+    "id": 2091,
     "stem": "Consider the following pairs linking mountain passes to their geopolitical/economic significance:\n1. Nathu La : Silk Road trade and Sino-Indian border commerce\n2. Karakoram Pass : Direct land route linking India to the Central Asian Republics\n3. Lipulekh Pass : Tri-junction of India, Nepal, and China; route for Kailash Mansarovar Yatra\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -8662,7 +8662,7 @@
     }
   },
   {
-    "id": "q_curr7_5e6f7g",
+    "id": 2092,
     "stem": "The 'Jaderi Namakatti', recently awarded a GI tag, is best described as:",
     "options": {
       "opt_a": "A rare medicinal plant found in the Western Ghats.",
@@ -8733,7 +8733,7 @@
     }
   },
   {
-    "id": "q_curr7_6f7g8h",
+    "id": 2093,
     "stem": "Consider the following regions in Uttar Pradesh and their corresponding GI tagged crafts:\n1. Amroha : Dholak\n2. Mahoba : Gaura Patthar Hastashilp\n3. Mainpuri : Tarkashi\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8804,7 +8804,7 @@
     }
   },
   {
-    "id": "q_interlink5_z2a3b4",
+    "id": 2094,
     "stem": "The 'Rain Shadow' effect is a dominant climatic feature shaping agriculture in peninsular India. Which of the following is a direct consequence of this?",
     "options": {
       "opt_a": "The lush tea and coffee plantations on the eastern slopes of the Western Ghats.",
@@ -8875,7 +8875,7 @@
     }
   },
   {
-    "id": "q_interlink6_g7h8i9",
+    "id": 2095,
     "stem": "Which of the following geographical linkages explains the establishment of the heavy engineering industry (like HEC) at Ranchi?",
     "options": {
       "opt_a": "Proximity to the Damodar Valley's coking coal and the iron ore of the Singhbhum-Keonjhar belt.",
@@ -8946,7 +8946,7 @@
     }
   },
   {
-    "id": "q_interlink6_w9x0y1",
+    "id": 2096,
     "stem": "Which of the following pairings correctly interlinks a specific type of ore, the geological system it is primarily extracted from in India, and the metallurgical process required to extract the metal?",
     "options": {
       "opt_a": "Bauxite : Dharwar System : Pyrometallurgical smelting with coal",
@@ -9017,7 +9017,7 @@
     }
   },
   {
-    "id": "q_bb7e7167",
+    "id": 2097,
     "stem": "Assertion (A): The tidal range is exceptionally high in funnel-shaped bays and estuaries, such as the Bay of Fundy in Canada.\nReason (R): Funnel-shaped coastal geometries amplify the incoming tidal energy by forcing a large volume of water into a progressively narrowing space.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -9088,7 +9088,7 @@
     }
   },
   {
-    "id": "q_34236f93",
+    "id": 2098,
     "stem": "Consider the following statements regarding the Tropical Semi-Evergreen Forests in India:\n1. These forests represent a transitional type between tropical evergreen and tropical deciduous forests.\n2. Key tree species found in these forests include white cedar, hollock, and kail.\n3. They are predominantly found in the wetter parts of the Western Ghats, Andaman and Nicobar Islands, and the Eastern Himalayas.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9159,7 +9159,7 @@
     }
   },
   {
-    "id": "q_5d7dd70b",
+    "id": 2099,
     "stem": "Consider the following statements regarding the Trans-Himalayan ranges:\n1. The Karakoram Range primarily lies in the rain-shadow zone of the summer monsoon and experiences arid conditions.\n2. The Zaskar Range forms the southern boundary of the Ladakh region and separates it from the Kashmir Valley.\n3. The Indus River flows in a north-westerly direction between the Ladakh and Zaskar ranges.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9230,7 +9230,7 @@
     }
   },
   {
-    "id": "q_106e9c31",
+    "id": 2100,
     "stem": "Consider the following physiographic sub-divisions of the Punjab Plains:\n1. Bist Doab\n2. Bari Doab\n3. Rechna Doab\n4. Chach Doab\n\nProceeding from east to west, what is the correct sequence of these doabs between the Beas and Chenab river basins?\n",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -9301,7 +9301,7 @@
     }
   },
   {
-    "id": "q_0175ca21",
+    "id": 2101,
     "stem": "Consider the following statements regarding the Indian coastal plains:\n1. The western coastal plain is a narrow strip characterized by submergence, resulting in the formation of natural estuaries rather than deltas.\n2. The eastern coastal plain is wider and represents an emergent coast, which accounts for the presence of well-developed deltas of major rivers.\n3. The Malabar Coast possesses backwaters (kayals) which are used for inland navigation and famous for the Nehru Trophy Vallam Kali (boat race).\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9372,7 +9372,7 @@
     }
   },
   {
-    "id": "q_c4ebaaab",
+    "id": 2102,
     "stem": "Consider the following geographic divisions of the Western Coastal Plain from North to South:\n1. Konkan Coast\n2. Malabar Coast\n3. Kannada (Karnataka) Coast\nThe correct spatial sequence of these coasts from North to South is:\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 - 3 - 2",
@@ -9443,7 +9443,7 @@
     }
   },
   {
-    "id": "q_d21d6946",
+    "id": 2103,
     "stem": "Consider the following regions of the Northern Plains:\n1. Punjab Plains\n2. Ganga Plains\n3. Brahmaputra Plains\n\nArrange the above plains in descending order of their total geographic area within India:\n",
     "options": {
       "opt_a": "2 - 1 - 3",
@@ -9514,7 +9514,7 @@
     }
   },
   {
-    "id": "q_51fa117f",
+    "id": 2104,
     "stem": "Consider the following pairs regarding the Himalayan river systems and their gorge formation:\n1. Indus River - Cuts across the Greater Himalayas forming a deep gorge near Nanga Parbat\n2. Brahmaputra River - Takes a hairpin bend around Namcha Barwa and cuts the Greater Himalayas\n3. Alaknanda River - Originates from the Satopanth glacier and joins Bhagirathi at Devprayag\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -9585,7 +9585,7 @@
     }
   },
   {
-    "id": "q_88d4170b",
+    "id": 2105,
     "stem": "Consider the following pairs of hill ranges and their regional nomenclature:\n1. Dafla Hills - Arunachal Pradesh\n2. Miri Hills - Nagaland\n3. Abor Hills - Arunachal Pradesh\n4. Mishmi Hills - Assam\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -9656,7 +9656,7 @@
     }
   },
   {
-    "id": "q_7a726b43",
+    "id": 2106,
     "stem": "Consider the following characteristics of the Eastern and Western Coastal Plains of India:\n1. The Western Coastal Plain receives higher annual rainfall from the Southwest monsoon compared to the Eastern Coastal Plain.\n2. The continental shelf along the Western Coast is much broader than that along the Eastern Coast, facilitating extensive delta formation.\n3. Estuaries on the Western Coast are primarily tidal in nature, whereas deltas on the Eastern Coast are wave and river dominant.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9727,7 +9727,7 @@
     }
   },
   {
-    "id": "q_9b589861",
+    "id": 2107,
     "stem": "Consider the following statements regarding the Andaman and Nicobar Islands:\n1. The Grand Channel is situated between the Great Nicobar Island and the Sumatra island of Indonesia.\n2. Saddle Peak, the highest point of the archipelago, is located in Great Nicobar.\n3. The Little Andaman is separated from the South Andaman by the Duncan Passage.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9798,7 +9798,7 @@
     }
   },
   {
-    "id": "q_bcba1789",
+    "id": 2108,
     "stem": "Consider the following statements regarding the distribution of vegetation in the Western Ghats:\n1. The western windward slopes exhibit tropical evergreen and semi-evergreen forests due to heavy orographic rainfall.\n2. The eastern leeward side of the Western Ghats transitions rapidly into tropical dry deciduous and thorn forests.\n3. Shola forests are found exclusively in the low-lying coastal plains of the Konkan coast.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9869,7 +9869,7 @@
     }
   },
   {
-    "id": "q_e73804ef",
+    "id": 2109,
     "stem": "Consider the following features of the Bhabar belt:\n1. It is a narrow belt ranging from 8 to 16 km in width lying parallel to the foot of the Shiwaliks.\n2. The rivers coming down from the mountains deposit heavy loads of rocks and pebbles in this belt.\n3. Because of high porosity, perennial streams flow over the surface of the Bhabar belt without disappearing.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9940,7 +9940,7 @@
     }
   },
   {
-    "id": "q_54893660",
+    "id": 2110,
     "stem": "With reference to the Eastern Coastal Plain, consider the following sub-divisions and their geographical locations:\n1. Utkal Coast : Extends between the Chilika Lake and the Kolleru Lake\n2. Andhra Plain : Extends south of the Utkal Plain up to Pulicat Lake\n3. Coromandel Coast : Extends from Pulicat Lake southwards to Kanyakumari\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -10011,7 +10011,7 @@
     }
   },
   {
-    "id": "q_994b4a80",
+    "id": 2111,
     "stem": "Consider the following statements regarding the Lakshadweep archipelago:\n1. All inhabited islands of Lakshadweep have rich deposits of mineral resources, including vast reserves of iron ore and bauxite.\n2. The soil of Lakshadweep is generally sandy, derived from coral limestone, and deficient in nitrogen and humus.\n3. Agatti Island is the only island in the group that features an operational civil airport.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10082,7 +10082,7 @@
     }
   },
   {
-    "id": "q_3d2873ae",
+    "id": 2112,
     "stem": "Consider the following geographical features:\n1. Barren Island\n2. Narcondam Island\n3. Minicoy Island\nWhich of the above are volcanic in origin and located in the Indian territory?",
     "options": {
       "opt_a": "Only one",
@@ -10153,7 +10153,7 @@
     }
   },
   {
-    "id": "q_a7f5311d",
+    "id": 2113,
     "stem": "Consider the following pairs regarding channels and passages in the Indian Ocean:\n1. Ten Degree Channel : Separates Andaman Island from Nicobar Island\n2. Nine Degree Channel : Separates Car Nicobar from Little Andaman\n3. Eight Degree Channel : Separates Minicoy Island from the Maldives\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -10224,7 +10224,7 @@
     }
   },
   {
-    "id": "q_43d68053",
+    "id": 2114,
     "stem": "With reference to the Lakshadweep islands, consider the following statements:\n1. All islands of Lakshadweep are built entirely of coral reefs and rest on the Laccadive-Chagos submarine ridge.\n2. The northernmost island group of this archipelago is the Amindivi Islands, while the southernmost is Minicoy Island.\n3. The eastern side of these islands has steep sloping beaches with extensive fringing coral reefs, while the western side is characterized by gentle sandy beaches.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10295,7 +10295,7 @@
     }
   },
   {
-    "id": "q_50709348",
+    "id": 2115,
     "stem": "With reference to the Greater Himalayas (Himadri), consider the following statements:\n1. The core of this mountain range is composed of sedimentary rocks with extensive fossil records.\n2. It receives maximum precipitation in the form of snowfall due to its high altitude throughout the year.\n3. It displays an asymmetric fold mountain structure with steeper southern slopes and gentler northern slopes.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -10366,7 +10366,7 @@
     }
   },
   {
-    "id": "q_d502c736",
+    "id": 2116,
     "stem": "Consider the following hill ranges of the Lesser Himalayas (Himachal):\n1. Pir Panjal\n2. Dhaadhar\n3. Nag Tibba\n4. Mahabharat Lekh\n\nProceeding from west to east, what is the correct geographical sequence of these ranges?",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -10437,7 +10437,7 @@
     }
   },
   {
-    "id": "q_5b61ebd6",
+    "id": 2117,
     "stem": "With reference to the Shiwalik Range, consider the following statements:\n1. It is the outermost foothill range of the Himalayas, composed of unconsolidated sediments brought down by rivers.\n2. The valleys lying in the eastern part of the Shiwalik range are known as Duns, while the western counterparts are known as Duars.\n3. The width of the Shiwaliks is maximum in the Arunachal Pradesh sector and minimum in the Himachal sector.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -10508,7 +10508,7 @@
     }
   },
   {
-    "id": "q_9975ab88",
+    "id": 2118,
     "stem": "Which of the following best describes the ecological and hydrological characteristics of the Terai region?",
     "options": {
       "opt_a": "An arid, rocky tract with high salinity and deep groundwater tables",
@@ -10579,7 +10579,7 @@
     }
   },
   {
-    "id": "q_d4fb4155",
+    "id": 2119,
     "stem": "Consider the following statements comparing Bhangar and Khadar alluvial soils:\n1. Bhangar represents the older alluvium deposited away from the floodplains, whereas Khadar represents the newer alluvium deposited by annual floods.\n2. Bhangar soils contain calcareous formations locally known as kankar, while Khadar soils are richer in fine silt and clay.\n3. Khadar soils are less fertile compared to Bhangar soils due to excessive leaching of nutrients in floodplains.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -10650,7 +10650,7 @@
     }
   },
   {
-    "id": "q_c6d1bc81",
+    "id": 2120,
     "stem": "Consider the following regional divisions of the Himalayas demarcated by river valleys:\n1. Punjab Himalayas - Between Indus and Satluj rivers\n2. Kumaon Himalayas - Between Satluj and Kali rivers\n3. Nepal Himalayas - Between Kali and Teesta rivers\n4. Assam Himalayas - Between Teesta and Dihang rivers\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only two",
@@ -10721,7 +10721,7 @@
     }
   },
   {
-    "id": "q_8529e104",
+    "id": 2121,
     "stem": "Consider the following statements regarding coral reef formations in Indian waters:\n1. Fringing reefs, barrier reefs, and atolls are all represented in the Indian island ecosystems.\n2. The Gulf of Mannar and the Gulf of Kachchh possess patch reefs rather than well-developed atolls.\n3. Corals thrive best in cold, deep-sea trenches where upwelling brings abundant silica and dissolved nutrients.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10792,7 +10792,7 @@
     }
   },
   {
-    "id": "q_a184b09e",
+    "id": 2122,
     "stem": "Which of the following geographical processes best explains why the Eastern Coastal Plain features major deltas (such as Mahanadi, Godavari, Krishna, and Cauvery), whereas the Western Coastal Plain features estuaries (such as Narmada and Tapti)?",
     "options": {
       "opt_a": "The Eastern coast experiences higher tidal amplitudes which trap sediments, while the Western coast has negligible tides.",
@@ -10863,7 +10863,7 @@
     }
   },
   {
-    "id": "q_1fd6da09",
+    "id": 2123,
     "stem": "Consider the following statements regarding the physical geography of the Andaman and Nicobar Islands:\n1. The archipelago is an extension of the Arakan Yoma mountain range of Myanmar.\n2. The Cocos Channel separates the northernmost Andaman islands from the Coco Islands of Myanmar.\n3. The Nicobar islands are separated from the Andaman islands by the Preparis Channel.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10934,7 +10934,7 @@
     }
   },
   {
-    "id": "q_94b03554",
+    "id": 2124,
     "stem": "Assertion (A): The Northern Plains of India do not freeze during winters despite being located north of the Tropic of Cancer.\nReason (R): The Himalayan mountain range acts as a massive thermal barrier, preventing the freezing bitter winds of Central Asia and Siberia from penetrating into the Indian subcontinent.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -11005,7 +11005,7 @@
     }
   },
   {
-    "id": "q_32b6e126",
+    "id": 2125,
     "stem": "Which one of the following physiographic units of the Himalayas is characterized by the presence of longitudinal valleys known as 'Duns'?",
     "options": {
       "opt_a": "The Greater Himalayas",
@@ -11076,7 +11076,7 @@
     }
   },
   {
-    "id": "q_427c7d56",
+    "id": 2126,
     "stem": "Consider the following statements regarding the Lesser Himalayas (Himachal):\n1. The Pir Panjal range is the longest and most important range of the Lesser Himalayas.\n2. The famous valley of Kashmir is situated between the Great Himalayas and the Pir Panjal range.\n3. The Dhaula Dhar and Nag Tibba ranges are parts of the Lesser Himalayan system.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -11147,7 +11147,7 @@
     }
   },
   {
-    "id": "q_5e46faf4",
+    "id": 2127,
     "stem": "Which of the following geographical features marks the western structural termination and the western syntaxial bend of the Himalayas?",
     "options": {
       "opt_a": "Nanga Parbat",
@@ -11218,7 +11218,7 @@
     }
   },
   {
-    "id": "q_e0b20d77",
+    "id": 2128,
     "stem": "Which of the following structural gaps in the Western Ghats serves as an important transportation corridor connecting Kerala and Tamil Nadu?",
     "options": {
       "opt_a": "Bhor Ghat",
@@ -11289,7 +11289,7 @@
     }
   },
   {
-    "id": "q_6143578b",
+    "id": 2129,
     "stem": "Which of the following geographical channels separates the Little Andaman island from the Car Nicobar island?",
     "options": {
       "opt_a": "Nine Degree Channel",
@@ -11360,7 +11360,7 @@
     }
   },
   {
-    "id": "q_c4456914",
+    "id": 2130,
     "stem": "Assertion (A): The Lakshadweep islands are primarily coral islands of atoll origin.\nReason (R): These islands are formed by the accumulation of coral skeletal debris and sand atop submerged volcanic ridges of the Arabian Sea.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -11431,7 +11431,7 @@
     }
   },
   {
-    "id": "q_9887c48b",
+    "id": 2131,
     "stem": "Assertion (A): The Greater Himalayas (Himadri) are composed predominantly of central crystalline rocks such as granites and gneisses.\nReason (R): The Himadri represents the northernmost tectonic block of the Himalayan orogen that underwent intense regional metamorphism during the Alpine-Himalayan mountain-building phase.",
     "options": {
       "opt_a": "Both (A) and (R) are correct, and (R) is the correct explanation of (A)",
@@ -11502,7 +11502,7 @@
     }
   },
   {
-    "id": "q_c9abaf99",
+    "id": 2132,
     "stem": "Assertion (A): The Western Ghats are locally known by different names such as Sahyadri in Maharashtra, Nilgiri in Tamil Nadu-Karnataka border, and Anaimalai in Kerala.\nReason (R): The Western Ghats are a true mountain range formed by continuous orogenic folding similar to the Himalayas.",
     "options": {
       "opt_a": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
@@ -11573,7 +11573,7 @@
     }
   },
   {
-    "id": "q_92cbb5f0",
+    "id": 2133,
     "stem": "Assertion (A): The Eastern Coastal Plain is wider and has a broader continental shelf compared to the Western Coastal Plain.\nReason (R): The Eastern Coastal Plain is an emergent coast characterized by extensive delta formations by major east-flowing rivers.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -11644,7 +11644,7 @@
     }
   },
   {
-    "id": "q_bc4dd6e5",
+    "id": 2134,
     "stem": "Consider the following pairs regarding island channels in the Indian Ocean:\n1. Eight Degree Channel: Separates Minicoy island from the Maldives\n2. Nine Degree Channel: Separates Minicoy island from the main Lakshadweep archipelago\n3. Duncan Passage: Separates South Andaman from Little Andaman\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -11715,7 +11715,7 @@
     }
   },
   {
-    "id": "q_09066376",
+    "id": 2135,
     "stem": "Consider the following statements regarding the Northern Plains of India:\n1. The Bhabar belt is composed of pebble-studded rocks deposited by streams descending from the Himalayas.\n2. The Terai region is marked by reappearance of underground streams, creating marshy and swampy conditions.\n3. The Bhangar plains are renewed almost every year during floods, making them less fertile than Khadar.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -11786,7 +11786,7 @@
     }
   },
   {
-    "id": "q_7adb980a",
+    "id": 2136,
     "stem": "Consider the following pairs regarding the sub-divisions of the Western Coastal Plain and their geographic extent:\n1. Kutch and Kathiawar coast: Gujarat\n2. Konkan coast: Maharashtra to Goa\n3. Kannad coast: Goa to Kerala\n4. Malabar coast: Kerala coast\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -11857,7 +11857,7 @@
     }
   },
   {
-    "id": "q_7c88d92f",
+    "id": 2137,
     "stem": "Consider the following statements regarding the Eastern Coastal Plain:\n1. The Utkal coast comprises the deltaic plains of the Mahanadi river.\n2. Pulicat Lake, a brackish water lagoon, is situated on the border of Andhra Pradesh and Tamil Nadu.\n3. The Coromandel coast receives the bulk of its annual rainfall during the Southwest monsoon season.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -11928,7 +11928,7 @@
     }
   },
   {
-    "id": "q_87dc2db8",
+    "id": 2138,
     "stem": "Consider the following statements regarding the Andaman and Nicobar Islands:\n1. Saddle Peak is the highest peak of the Andaman and Nicobar group, located in North Andaman.\n2. Barren Island, located in the Nicobar group, is the only active volcano in India.\n3. The Great Nicobar is the southernmost island of the Indian territory.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -11999,7 +11999,7 @@
     }
   },
   {
-    "id": "q_a6e16c73",
+    "id": 2139,
     "stem": "Consider the following pairs regarding Forest types in India and their primary geographical distribution:\n1. Tropical Evergreen Forests : Western slopes of the Western Ghats and Andaman & Nicobar Islands\n2. Montane Temperate Forests : Foothills of the Himalayas and Punjab plains\n3. Tropical Thorn Forests : Semi-arid areas of Gujarat, Rajasthan, and Madhya Pradesh\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -12070,7 +12070,7 @@
     }
   },
   {
-    "id": "q_52c9095f",
+    "id": 2140,
     "stem": "Consider the following mountain passes and their corresponding states/union territories:\n1. Zoji La - Ladakh\n2. Shipki La - Uttarakhand\n3. Nathu La - Sikkim\n4. Bomdi La - Arunachal Pradesh\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -12141,7 +12141,7 @@
     }
   },
   {
-    "id": "q_e1c3ba22",
+    "id": 2141,
     "stem": "Consider the following peaks:\n1. Nanda Devi\n2. Kanchenjunga\n3. Kamet\n4. Namcha Barwa\nWhat is the correct west-to-east sequence of the above peaks?",
     "options": {
       "opt_a": "1 - 3 - 2 - 4",
@@ -12212,7 +12212,7 @@
     }
   },
   {
-    "id": "q_5f9ab3f6",
+    "id": 2142,
     "stem": "Match the following Himalayan passes with the regions they connect:\n1. Zoji La -> Srinagar to Leh\n2. Rohtang Pass -> Kullu valley to Lahaul and Spiti valleys\n3. Shipki La -> Kalimpong to Lhasa\n4. Jelep La -> Sikkim to Tibet\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -12283,7 +12283,7 @@
     }
   },
   {
-    "id": "q_b5b94511",
+    "id": 2143,
     "stem": "Assertion (A): The Greater Himalayan range displays a steep southern slope and a gentle northern slope.\nReason (R): The southern flank faces the direct tectonic thrust of the Indian plate moving northward against the Eurasian plate, resulting in major fault systems like the Main Central Thrust (MCT).",
     "options": {
       "opt_a": "Both (A) and (R) are correct, and (R) is the correct explanation of (A)",
@@ -12354,7 +12354,7 @@
     }
   },
   {
-    "id": "q_806d1db3",
+    "id": 2144,
     "stem": "Consider the following statements regarding the Eastern Ghats:\n1. They are continuous, unbroken mountain ranges running parallel to the eastern coast of India.\n2. They are older than the Western Ghats and have been severely eroded by major east-flowing peninsular rivers.\n3. Mahendragiri is a prominent peak situated in the northern section of the Eastern Ghats.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -12425,7 +12425,7 @@
     }
   },
   {
-    "id": "q_cb09e3d7",
+    "id": 2145,
     "stem": "Consider the following statements regarding the coastal plains of India:\n1. The Western Coastal Plain is narrower than the Eastern Coastal Plain and acts as a submergent coast.\n2. The Malabar Coast features backwaters locally known as Kayals, which are used for inland navigation.\n3. The Northern Circars refer to the coastal region lying between the Krishna and Kaveri rivers.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -12496,7 +12496,7 @@
     }
   },
   {
-    "id": "q_13db5df0",
+    "id": 2146,
     "stem": "Consider the following statements regarding the Karakoram Range:\n1. It is located to the north of the Indus-Tsangpo Suture Zone and forms part of the Trans-Himalayas.\n2. It contains several of the world's longest glaciers outside the polar regions, including Siachen and Biafo.\n3. Mount K2, the highest peak in the Karakoram, is situated entirely within the political boundary of the Indian Union Territory of Ladakh.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -12567,7 +12567,7 @@
     }
   },
   {
-    "id": "q_0c937e83",
+    "id": 2147,
     "stem": "Assertion (A): The southern slopes of the Shiwalik hills have sparser vegetation and are more severely eroded compared to their northern slopes.\nReason (R): The southern slopes of the Shiwaliks are heavily eroded into badland topography known locally as 'Choes', leading to high runoff and moisture deficit.",
     "options": {
       "opt_a": "Both (A) and (R) are correct, and (R) is the correct explanation of (A)",
@@ -12638,7 +12638,7 @@
     }
   },
   {
-    "id": "q_82640950",
+    "id": 2148,
     "stem": "Consider the following differences between the Western Ghats and the Eastern Ghats:\n1. The Western Ghats experience higher orographic rainfall than the Eastern Ghats.\n2. The average elevation of the Western Ghats is significantly greater than that of the Eastern Ghats.\n3. Both ranges converge at the Palani Hills near the Anaimalai region.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -12709,7 +12709,7 @@
     }
   },
   {
-    "id": "q_7e740f6b",
+    "id": 2149,
     "stem": "Consider the following statements regarding the Trans-Himalayan ranges:\n1. The Zaskar range lies immediately to the north of the Great Himalayan range.\n2. The Ladakh range is an offshoot of the Karakoram range and runs parallel to it in the southern direction.\n3. The Indus river flows in a tectonic trough separating the Ladakh range from the Zaskar range.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -12780,7 +12780,7 @@
     }
   },
   {
-    "id": "q_5e086f42",
+    "id": 2150,
     "stem": "Consider the following pairs of Lesser Himalayan hill stations and their respective states:\n1. Mussoorie - Uttarakhand\n2. Darjeeling - West Bengal\n3. Kodaikanal - Himachal Pradesh\n4. Nainital - Uttarakhand\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -12851,7 +12851,7 @@
     }
   },
   {
-    "id": "q_9710a5cb",
+    "id": 2151,
     "stem": "Assertion (A): The Shiwalik range is composed of unconsolidated sediments brought down by rivers from the main Himalayan ranges.\nReason (R): These ranges were formed by the accumulation and subsequent tectonic uplift of thick molasse deposits in the Himalayan foredeep during the Plio-Pleistocene epoch.",
     "options": {
       "opt_a": "Both (A) and (R) are correct, and (R) is the correct explanation of (A)",
@@ -12922,7 +12922,7 @@
     }
   },
   {
-    "id": "q_6796140b",
+    "id": 2152,
     "stem": "Consider the following statements regarding the Eastern Himalayas (Purvanchal and surrounding ranges):\n1. The Patkai Bum, Naga hills, and Manipur hills form a series of low-to-medium elevation ranges running in a general north-south direction.\n2. The Mizo hills, also known as the Lushai hills, form the southernmost part of the Purvanchal system.\n3. The general arcuate shape of the Himalayas turns sharply southward at both the western and eastern extremities due to rigid cratonic blocks acting as syntaxis indenters.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -12993,7 +12993,7 @@
     }
   },
   {
-    "id": "q_72f2b669",
+    "id": 2153,
     "stem": "Assertion (A): The alluvial soils of the Khadar tract are more fertile than those of the Bhangar tract.\nReason (R): Khadar soils contain calcareous kankar nodules in abundance at lower depths, enhancing water retention.",
     "options": {
       "opt_a": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
@@ -13064,7 +13064,7 @@
     }
   },
   {
-    "id": "q_6c62096f",
+    "id": 2154,
     "stem": "Match the following sub-divisions of the Northern Plains from west to east based on drainage basins:",
     "options": {
       "opt_a": "Punjab Plains - Ganga Plains - Brahmaputra Plains - Rajasthan Plains",
@@ -13135,7 +13135,7 @@
     }
   },
   {
-    "id": "q_da2705b4",
+    "id": 2155,
     "stem": "Which of the following statements accurately distinguishes the geological origin of the Andaman and Nicobar Islands from the Lakshadweep Islands?",
     "options": {
       "opt_a": "Andaman and Nicobar are coral atolls, while Lakshadweep are volcanic arc islands.",
@@ -13206,7 +13206,7 @@
     }
   },
   {
-    "id": "q_7db7d838",
+    "id": 2156,
     "stem": "Which of the following statements correctly distinguishes between Moist Deciduous and Dry Deciduous forests in India?",
     "options": {
       "opt_a": "Moist deciduous forests receive rainfall between 100-200 cm, whereas dry deciduous forests receive rainfall between 70-100 cm.",
@@ -13277,7 +13277,7 @@
     }
   },
   {
-    "id": "q_faef6da0",
+    "id": 2157,
     "stem": "Regarding the process of desertification in India, as mapped by the Space Applications Centre (ISRO):\n1. Water erosion accounts for a significantly larger share of desertification and land degradation in India than wind erosion.\n2. The states of Rajasthan, Gujarat, and Maharashtra together account for more than half of the total degraded land area in the country.\n3. Climate change induced shifts in the Indian Summer Monsoon rainfall variability directly accelerate the spread of desertification.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -13348,7 +13348,7 @@
     }
   },
   {
-    "id": "q_62ee4de8",
+    "id": 2158,
     "stem": "Assertion (A): Arid soils generally exhibit a sandy texture, alkaline reaction, and a calcic horizon at varying depths.\nReason (R): The high evaporation rate exceeds precipitation, restricting downward leaching and leading to the accumulation of soluble salts and calcium nodules (kankar) in the lower profiles.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -13419,7 +13419,7 @@
     }
   },
   {
-    "id": "q_daea820c",
+    "id": 2159,
     "stem": "Consider the following statements regarding Desert (Arid) soils:\n1. They range from red to brown in colour and have a sandy texture with saline characteristics.\n2. Because of the dry climate and high temperature, evaporation is rapid, and the soil lacks moisture and humus.\n3. Nitrogen is invariably low, but the phosphate content is normal to high due to the presence of weathered phosphatic rocks.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -13490,7 +13490,7 @@
     }
   },
   {
-    "id": "q_5b602a77",
+    "id": 2160,
     "stem": "Consider the following statements regarding the physical and chemical properties of Arid and Desert soils in India:\n1. They lack nitrogen and possess a very low percentage of soluble salts.\n2. Phosphate content in these soils is generally normal to high.\n3. Nitrogen is deficient, but available plant nutrients can be unlocked rapidly upon the introduction of regulated irrigation.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -13561,7 +13561,7 @@
     }
   },
   {
-    "id": "q_ea026ed5",
+    "id": 2161,
     "stem": "With reference to Alluvial soils in India, consider the following statements:\n1. They are generally rich in potash and lime but deficient in phosphoric acid and nitrogen.\n2. The Bhangar soil represents the newer alluvium, which is frequently flooded and replenished almost every year.\n3. The Khadar soil contains kankar (calcareous concretions) nodules at a lower depth in abundance.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -13632,7 +13632,7 @@
     }
   },
   {
-    "id": "q_deb83491",
+    "id": 2162,
     "stem": "Which of the following governmental initiatives in India is specifically targeted towards restoring degraded lands and combating desertification in alignment with the UNCCD Bonn Challenge?",
     "options": {
       "opt_a": "National Mission for a Green India (GIM)",
@@ -13703,7 +13703,7 @@
     }
   },
   {
-    "id": "q_6bb7f1c1",
+    "id": 2163,
     "stem": "Assertion (A): Montane forests in the Himalayas show a distinct zonation of vegetation ranging from tropical deciduous to alpine tundra with increasing altitude.\nReason (R): Temperature decreases and precipitation patterns change significantly with elevation, replicating broad latitudinal shifts in climatic zones over short horizontal distances.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -13774,7 +13774,7 @@
     }
   },
   {
-    "id": "q_64f046aa",
+    "id": 2164,
     "stem": "Consider the albedo values of different natural surfaces on Earth:\n1. Fresh snow\n2. Thick cloud cover\n3. Wet plowed soil\n4. Forest canopy\nArrange the above surfaces in the descending order of their albedo values:",
     "options": {
       "opt_a": "1 - 2 - 4 - 3",
@@ -13845,7 +13845,7 @@
     }
   },
   {
-    "id": "q_6106a53e",
+    "id": 2165,
     "stem": "Why do tropical deserts tend to be located on the western margins of continents in the subtropical high-pressure belt?",
     "options": {
       "opt_a": "Because ocean currents in these regions are warm, increasing atmospheric stability and preventing evaporation.",
@@ -13916,7 +13916,7 @@
     }
   },
   {
-    "id": "q_bef26299",
+    "id": 2166,
     "stem": "Consider the following pairs of island nations and their predominant geographic seas/oceans:\n1. Seychelles : Indian Ocean\n2. Maldives : Arabian Sea / Indian Ocean\n3. Comoros : Mozambique Channel / Indian Ocean\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -13987,7 +13987,7 @@
     }
   },
   {
-    "id": "q_08a8e6ea",
+    "id": 2167,
     "stem": "Which of the following deserts is located closest to the Tropic of Capricorn?",
     "options": {
       "opt_a": "Mojave Desert",
@@ -14058,7 +14058,7 @@
     }
   },
   {
-    "id": "q_ab4fce96",
+    "id": 2168,
     "stem": "Arrange the following national capitals from North to South:\n1. Astana\n2. Tashkent\n3. Bishkek\n4. Ashgabat\nSelect the correct order using the code below:",
     "options": {
       "opt_a": "1 - 3 - 2 - 4",
@@ -14129,7 +14129,7 @@
     }
   },
   {
-    "id": "q_17d90b81",
+    "id": 2169,
     "stem": "Arrange the following physical features from West to East:\n1. Patkai Bum\n2. Khasi Hills\n3. Naga Hills\n4. Garo Hills\nSelect the correct order using the code below:",
     "options": {
       "opt_a": "4 - 2 - 3 - 1",
@@ -14200,7 +14200,7 @@
     }
   },
   {
-    "id": "q_f4929bb2",
+    "id": 2170,
     "stem": "Consider the following pairs of mountain ranges and their geographic locations:\n1. Zagros Mountains: Iran\n2. Taurus Mountains: Turkey\n3. Elburz Mountains: Armenia\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -14271,7 +14271,7 @@
     }
   },
   {
-    "id": "q_4e3b34a3",
+    "id": 2171,
     "stem": "Consider the following pairs regarding major deserts and their primary geographical locations:\n1. Atacama Desert: Chile and Peru\n2. Kalahari Desert: Botswana, Namibia, and South Africa\n3. Patagonian Desert: Argentina and Chile\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -14342,7 +14342,7 @@
     }
   },
   {
-    "id": "q_76dc27aa",
+    "id": 2172,
     "stem": "With reference to the Mojave and Sonoran deserts, consider the following statements:\n1. The Mojave Desert is geographically positioned entirely to the north of the Sonoran Desert.\n2. Death Valley, the lowest point in North America, is located within the Mojave Desert.\n3. The Saguaro cactus is native to the Mojave Desert rather than the Sonoran Desert.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "2 only",
@@ -14413,7 +14413,7 @@
     }
   },
   {
-    "id": "q_8c661811",
+    "id": 2173,
     "stem": "Consider the following pairs of deserts and their primary characteristic types:\n1. Namib Desert: Coastal fog desert\n2. Taklamakan Desert: Cold winter desert / Rain shadow desert\n3. Simpson Desert: Erg (sand sea) desert\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -14484,7 +14484,7 @@
     }
   },
   {
-    "id": "q_5090f004",
+    "id": 2174,
     "stem": "Consider the following islands and the seas in which they are located:\n1. Socotra: Arabian Sea\n2. Cyprus: Mediterranean Sea\n3. Spratly Islands: South China Sea\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -14555,7 +14555,7 @@
     }
   },
   {
-    "id": "q_2b738b39",
+    "id": 2175,
     "stem": "Consider the following statements regarding the Hill Area Development Programmes (HADP):\n1. HADP were initiated during the Fifth Five Year Plan for hill districts having an elevation above 600 meters that are not covered under tribal sub-plans.\n2. The focus of HADP has consistently been on harnessing indigenous resources for horticulture, animal husbandry, and forestry while checking ecological degradation.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -14626,7 +14626,7 @@
     }
   },
   {
-    "id": "q_0a5691d3",
+    "id": 2176,
     "stem": "Consider the following statements regarding groundwater contamination in India:\n1. Excessive withdrawal of groundwater in parts of West Bengal and Bihar leads to high concentrations of arsenic in the groundwater.\n2. Prolonged consumption of fluoride-rich groundwater causes fluorosis, a condition prevalent in parts of Rajasthan and Maharashtra.\n3. Groundwater contamination by heavy metals and salinity is exclusively restricted to hard rock terrains of the Peninsular plateau.\n\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -14697,7 +14697,7 @@
     }
   },
   {
-    "id": "q_4d35b998",
+    "id": 2177,
     "stem": "Consider the following statements regarding airway infrastructure and management in India:\n1. The Airports Authority of India (AAI) manages both domestic and international airports across the country.\n2. Pawan Hans Limited provides helicopter support services primarily to the petroleum sector and remote hill areas.\n3. The 'UDAN' scheme aims to enhance regional connectivity through subsidised commercial flight operations to unserved and underserved airports.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -14768,7 +14768,7 @@
     }
   },
   {
-    "id": "q_517a47a8",
+    "id": 2178,
     "stem": "Consider the following pairs regarding Target Area Planning in India and their primary geographical focus:\n1. Hill Area Development Programme: Implemented during the Fifth Five Year Plan focusing on districts with a height above 600 meters not covered under tribal sub-plans.\n2. Drought Prone Area Programme: Initiated during the Fourth Five Year Plan to mitigate the effects of drought in chronically affected areas based on criteria such as the percentage of irrigated area and rainfall variability.\n3. Command Area Development Programme: Launched to bridge the gap between irrigation potential created and its utilization through optimum water use efficiency.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -14839,7 +14839,7 @@
     }
   },
   {
-    "id": "ssc_pyq_0006",
+    "id": 2179,
     "stem": "Which type of galaxy has no regular shape and is rich in gas and dust?",
     "options": {
       "opt_a": "Elliptical Galaxy",
@@ -14907,7 +14907,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0014",
+    "id": 2180,
     "stem": "Consider the following statements regarding planetary atmospheres: 1. Venus has thick white and yellowish clouds of sulphuric acid in its atmosphere. 2. Mars’ atmosphere is mainly composed of methane, with traces of sulfur dioxide. 3. Uranus is the coldest planet in the Solar System. 4. Venus is often referred to as the “morning star.” Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "Only 2",
@@ -14975,7 +14975,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0016",
+    "id": 2181,
     "stem": "Which dwarf planet orbits the sun in 310 years at a distance between 38.5 to 53 AU?",
     "options": {
       "opt_a": "Eris",
@@ -15043,7 +15043,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0023",
+    "id": 2182,
     "stem": "Who calculated the approximate location of the planet Neptune by studying gravity- induced disturbances in the motion of Uranus?",
     "options": {
       "opt_a": "John Couch Adams",
@@ -15111,7 +15111,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0040",
+    "id": 2183,
     "stem": "Match the following planets with their approximate rotation period (one spin on its axis): List I (Planet) List II (Rotation Period) A. Earth i. 17 hours 14 min B. Jupiter ii. 1 day (23 hours 56 min) C. Saturn iii. 9 hours 56 min D. Uranus iv. 10 hours 40 min",
     "options": {
       "opt_a": "A–ii, B–iii, C–iv, D–i",
@@ -15179,7 +15179,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0046",
+    "id": 2184,
     "stem": "In which of the following periods is the meteor shower named Quadrantids generally visible from Earth?",
     "options": {
       "opt_a": "August/September",
@@ -15247,7 +15247,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0048",
+    "id": 2185,
     "stem": "In which of the following months may the meteor shower named Lyrids be seen from Earth?",
     "options": {
       "opt_a": "April",
@@ -15315,7 +15315,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0053",
+    "id": 2186,
     "stem": "Which of the below statements is/are correct? Statement 1: The Torrid Zone lies between the Tropic of Cancer (23.5° N) and the Tropic of Capricorn (23.5° S). Statement 2: The Frigid Zones are located between the Tropics and the Arctic/Antarctic Circles.",
     "options": {
       "opt_a": "Only Statement 1",
@@ -15383,7 +15383,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0054",
+    "id": 2187,
     "stem": "Which is the Standard Meridian of India?",
     "options": {
       "opt_a": "81°30ʹ E",
@@ -15451,7 +15451,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0055",
+    "id": 2188,
     "stem": "Which of the following sets of statements are correct about Inter Tropical Convergence Zone (ITCZ)? A. The ITCZ is a broad trough of low pressure in equatorial latitudes. B. This is where the northeast and the southeast trade winds converge. C. The ITCZ is the equatorial trough normally positioned about 5°N of the equator and remains there throughout the year. www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography D. The ITCZ moves over to the plane of Ganga in Summer.",
     "options": {
       "opt_a": "Only A and C",
@@ -15519,7 +15519,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0057",
+    "id": 2189,
     "stem": "Match the following waterbodies with the locations they separate: List I (Channel) List II (Separates) A. 8° Channel i. Andaman Islands and Nicobar Islands B. 9° Channel ii. Minicoy and Maldives C. 10° Channel iii. Minicoy & Lakshadweep main group D. 11° Channel iv. Amindivi Islands & Cannanore Islands",
     "options": {
       "opt_a": "A–ii, B–iii, C–i, D–iv",
@@ -15587,7 +15587,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0059",
+    "id": 2190,
     "stem": "Which of the following states of India is NOT crossed by the Tropic of Cancer (23°30′ N)?",
     "options": {
       "opt_a": "Gujarat",
@@ -15655,7 +15655,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0062",
+    "id": 2191,
     "stem": "What is the zone between the arctic circle and north pole called?",
     "options": {
       "opt_a": "Torrid zone",
@@ -15723,7 +15723,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0065",
+    "id": 2192,
     "stem": "What is the primary reason for the asymmetrical distribution of continents and oceans across the Earth's surface?",
     "options": {
       "opt_a": "Seafloor spreading and plate tectonics",
@@ -15791,7 +15791,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0066",
+    "id": 2193,
     "stem": "Consider the following statements: 1. The Arabian Sea, located in the North Indian Ocean, covers an area of about 3.86 million square kilometres. 2. The Arabian Sea has higher salinity due to high evaporation and low influx of fresh water. Which of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -15859,7 +15859,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0068",
+    "id": 2194,
     "stem": "Consider the following statements: 1. The Peninsular Plateau of India was earlier a part of the continent Africa. 2. The Peninsular Plateau of India was earlier a part of the continent North America. Which of the statements given above is/are incorrect?",
     "options": {
       "opt_a": "Only 1",
@@ -15927,7 +15927,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0069",
+    "id": 2195,
     "stem": "In the context of water bodies, Neap Tides occur :",
     "options": {
       "opt_a": "when the earth, moon and sun line up in a straight line",
@@ -15995,7 +15995,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0072",
+    "id": 2196,
     "stem": "The name of the strait between the Pacific and Arctic oceans, separating the Chukchi Peninsula of the Russian Far East from the Seward Peninsula of Alaska, is the :",
     "options": {
       "opt_a": "Davis Strait",
@@ -16063,7 +16063,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0075",
+    "id": 2197,
     "stem": "The thermocline layer is the ______ layer of the ocean.",
     "options": {
       "opt_a": "second",
@@ -16131,7 +16131,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0076",
+    "id": 2198,
     "stem": "In 1962, who published 'The History of Ocean Basins', which outlined the theory of how tectonic plates could www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography move, later called 'sea floor spreading'?",
     "options": {
       "opt_a": "Alfred Wegener",
@@ -16199,7 +16199,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0079",
+    "id": 2199,
     "stem": "Living organisms have been on Earth for how much percent of Earth's history?",
     "options": {
       "opt_a": "60%",
@@ -16267,7 +16267,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0082",
+    "id": 2200,
     "stem": "What does El Niño refer to?",
     "options": {
       "opt_a": "Hot water current",
@@ -16335,7 +16335,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0083",
+    "id": 2201,
     "stem": "Which of the following oceans is surrounded by the continent of North America and South America to the east?",
     "options": {
       "opt_a": "Pacific Ocean",
@@ -16403,7 +16403,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0084",
+    "id": 2202,
     "stem": "Consider the following statements: 1. Due to the attraction of the Sun and the Moon, ocean water generally experiences two high tides and two low tides in a day. 2. Diurnal tides occur when there are two high tides and two low tides each day. Which of the statements given above is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -16471,7 +16471,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0088",
+    "id": 2203,
     "stem": "The percentage of earth's water found in the oceans is _________.",
     "options": {
       "opt_a": "94 percent",
@@ -16539,7 +16539,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0096",
+    "id": 2204,
     "stem": "Consider the following statements regarding oceanic landforms: 1. An Atoll is a group of islands found in tropical oceans, consisting of coral reefs and a central depression. 2. A guyot is a shallow body of water separated from the ocean by a barrier reef. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -16607,7 +16607,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0099",
+    "id": 2205,
     "stem": "In coastal areas, during the night, wind blows from land to sea because:",
     "options": {
       "opt_a": "low pressure is created on land",
@@ -16675,7 +16675,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0100",
+    "id": 2206,
     "stem": "The process of seepage of water into the ground is called ____.",
     "options": {
       "opt_a": "Infiltration",
@@ -16743,7 +16743,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0102",
+    "id": 2207,
     "stem": "Consider the following statements about the Sargasso Sea: 1. The Sargasso Sea is the only sea in the world that does not have a land boundary. 2. It is located in the Pacific Ocean and is named after the presence of brown Sargassum seaweed. Which of the statements given above is incorrect?",
     "options": {
       "opt_a": "Only 1",
@@ -16811,7 +16811,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0107",
+    "id": 2208,
     "stem": "Which of the following pairs do NOT share any borders?",
     "options": {
       "opt_a": "Bhutan and Arunachal Pradesh",
@@ -16879,7 +16879,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0108",
+    "id": 2209,
     "stem": "Which of the following countries has the highest Hindu population after India?",
     "options": {
       "opt_a": "Bhutan",
@@ -16947,7 +16947,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0110",
+    "id": 2210,
     "stem": "Consider the following statements: 1. The Maldives are located to the south of Lakshadweep Islands of India. 2. The capital of Maldives is Male. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -17015,7 +17015,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0119",
+    "id": 2211,
     "stem": "The Alaknanda River originates from which of the following?",
     "options": {
       "opt_a": "Satopanth Glacier",
@@ -17083,7 +17083,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0125",
+    "id": 2212,
     "stem": "Trishulganga is a stream of the river:",
     "options": {
       "opt_a": "Ghaghara",
@@ -17151,7 +17151,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0185",
+    "id": 2213,
     "stem": "Tila, Seti and Beri are the tributaries of :",
     "options": {
       "opt_a": "Tamsa",
@@ -17219,7 +17219,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0193",
+    "id": 2214,
     "stem": "Jabalpur is located on the banks of which of the following rivers?",
     "options": {
       "opt_a": "Ganga",
@@ -17287,7 +17287,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0203",
+    "id": 2215,
     "stem": "Pushkar lake is situated in which district of Rajasthan?",
     "options": {
       "opt_a": "Jaipur",
@@ -17355,7 +17355,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0228",
+    "id": 2216,
     "stem": "Yerla, Warna and Dindi are tributaries of the ______ river system.",
     "options": {
       "opt_a": "Brahmaputra",
@@ -17423,7 +17423,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0240",
+    "id": 2217,
     "stem": "What kind of depositional landforms are formed when streams flowing from higher levels break into foot slope plains of low gradient?",
     "options": {
       "opt_a": "Point bars",
@@ -17491,7 +17491,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0242",
+    "id": 2218,
     "stem": "Which of the following has the highest salinity?",
     "options": {
       "opt_a": "Great salt lake",
@@ -17559,7 +17559,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0258",
+    "id": 2219,
     "stem": "Match the following mineral deposits with their respective states: List – I (Mineral Deposits/Regions) List – II (States)",
     "options": {
       "opt_a": "Panchpatmali (Bauxite) 1. Madhya Pradesh",
@@ -17627,7 +17627,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0283",
+    "id": 2220,
     "stem": "Which of the following regions in India is nicknamed as the storehouse of minerals?",
     "options": {
       "opt_a": "Deccan Plateau",
@@ -17695,7 +17695,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0285",
+    "id": 2221,
     "stem": "Consider the following statements about Thermal Power Plants in Gujarat: 1. The Mundra Thermal Power Plant is located in Kutch district of Gujarat. 2. Wanakbori Thermal Power Station is located in Rajasthan. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -17763,7 +17763,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0289",
+    "id": 2222,
     "stem": "Kawas Thermal Power Station is located in which of the following states?",
     "options": {
       "opt_a": "Gujarat",
@@ -17831,7 +17831,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0291",
+    "id": 2223,
     "stem": "Which state among the following has the largest reserves of gold ore in India as of 2021?",
     "options": {
       "opt_a": "Jharkhand",
@@ -17899,7 +17899,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0317",
+    "id": 2224,
     "stem": "What action was taken by the government to celebrate the achievement of the Green Revolution in agriculture?",
     "options": {
       "opt_a": "Released a regular salary for the farmers",
@@ -17967,7 +17967,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0330",
+    "id": 2225,
     "stem": "Identify the crop which is grown in Kharif cropping season in Northern States of India.",
     "options": {
       "opt_a": "Mustard",
@@ -18035,7 +18035,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0332",
+    "id": 2226,
     "stem": "Which of the following is NOT an agro-based industry?",
     "options": {
       "opt_a": "Jute",
@@ -18103,7 +18103,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0338",
+    "id": 2227,
     "stem": "Consider the following statements regarding rice varieties in India: 1. IR8, also called Miracle Rice, was first harvested in 1967 and helped India overcome a massive famine. 2. Golden Rice, developed in 1998, is genetically modified to contain pro-vitamin A. 3. PETA is the high-yielding semi-dwarf rice variety developed by the International Rice Research Institute (IRRI) in 1967. Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "1 only",
@@ -18171,7 +18171,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0363",
+    "id": 2228,
     "stem": "The Purple revolution was launched by the Union Ministry of Science & Technology in Jammu and Kashmir. This revolution is related to cultivation of which crop?",
     "options": {
       "opt_a": "Marigold",
@@ -18239,7 +18239,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0368",
+    "id": 2229,
     "stem": "Which of the following is a well - known variety of coffee initially brought to India from Yemen?",
     "options": {
       "opt_a": "Gesha",
@@ -18307,7 +18307,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0378",
+    "id": 2230,
     "stem": "Which unit is used to measure the concentration of contaminants in soil and sediment?",
     "options": {
       "opt_a": "DPMO",
@@ -18375,7 +18375,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0394",
+    "id": 2231,
     "stem": "Identify the step that is NOT a part of decomposition.",
     "options": {
       "opt_a": "Leaching",
@@ -18443,7 +18443,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0402",
+    "id": 2232,
     "stem": "Name the state in which The Bhitarkanika Mangroves are located?",
     "options": {
       "opt_a": "Odisha",
@@ -18511,7 +18511,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0403",
+    "id": 2233,
     "stem": "The Ebony, Mahogany, Cinchona etc. are trees found in which type of forests in India?",
     "options": {
       "opt_a": "Tropical Deciduous Forests",
@@ -18579,7 +18579,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0405",
+    "id": 2234,
     "stem": "________ leaves are used to make bidis.",
     "options": {
       "opt_a": "Neem",
@@ -18647,7 +18647,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0409",
+    "id": 2235,
     "stem": "In which of the following parts of India are thorn forests and scrub forests found?",
     "options": {
       "opt_a": "South-eastern India",
@@ -18715,7 +18715,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0410",
+    "id": 2236,
     "stem": "Which of the following statements is NOT true about the moist deciduous forests of India?",
     "options": {
       "opt_a": "They grow in regions with rainfall of 100-200 cm.",
@@ -18783,7 +18783,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0411",
+    "id": 2237,
     "stem": "Which of the following statements is/are correct? Statement 1: Deciduous forests are found on the foothills of the Himalayas. Statement 2: Alpine forests occur at altitudes between 2,900 to 3,500 m in the Himalayas.",
     "options": {
       "opt_a": "Only Statement 1 is correct",
@@ -18851,7 +18851,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0412",
+    "id": 2238,
     "stem": "In the Himalayas, the ________ temperature with increasing altitude causes the change in vegetation.",
     "options": {
       "opt_a": "increasing",
@@ -18919,7 +18919,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0413",
+    "id": 2239,
     "stem": "Which one of the following statements regarding vegetation strata is NOT correct?",
     "options": {
       "opt_a": "Trees fall under the Top vertical strata.",
@@ -18987,7 +18987,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0415",
+    "id": 2240,
     "stem": "In which type of forests are wild donkeys and camels found in India?",
     "options": {
       "opt_a": "Tropical evergreen forest",
@@ -19055,7 +19055,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0416",
+    "id": 2241,
     "stem": "Sal, acacia and bamboo, which are types of Dry Tropical Forest, receive what amount of annual rainfall?",
     "options": {
       "opt_a": "From 51 cm to 151 cm",
@@ -19123,7 +19123,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0417",
+    "id": 2242,
     "stem": "Which of the following is the most widespread forest type in India?",
     "options": {
       "opt_a": "Littoral and Swamp Forest",
@@ -19191,7 +19191,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0418",
+    "id": 2243,
     "stem": "What type of vegetation is found in the plateau of Meghalaya, Sahyadri and the central and southern islands of the Nicobar group?",
     "options": {
       "opt_a": "Dry Tropical Deciduous Vegetation",
@@ -19259,7 +19259,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0419",
+    "id": 2244,
     "stem": "Plant varieties like bamboo, epiphytes, aini, semul, gutel and mundane are found in which type of Indian forest?",
     "options": {
       "opt_a": "Alpine forest",
@@ -19327,7 +19327,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0428",
+    "id": 2245,
     "stem": "The wet temperate type of forests are found between a height of _______ metres.",
     "options": {
       "opt_a": "2000 and 3000",
@@ -19395,7 +19395,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0456",
+    "id": 2246,
     "stem": "Western disturbances are responsible for:",
     "options": {
       "opt_a": "dusty storms in eastern coastal area of India",
@@ -19463,7 +19463,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0457",
+    "id": 2247,
     "stem": "According to Koeppen's Scheme of classification of climate, which of the following characteristics is associated with 'Group E'?",
     "options": {
       "opt_a": "The average temperature of the coldest month is –3°C or below",
@@ -19531,7 +19531,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0461",
+    "id": 2248,
     "stem": "One term for the continuous movement of water through the lithosphere, atmosphere and hydrosphere is: www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
     "options": {
       "opt_a": "hydro equilibrium cycle",
@@ -19599,7 +19599,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0464",
+    "id": 2249,
     "stem": "Sea ice helps determine Earth's climate. According to this, what percentage of the sunlight falling on sea ice is reflected back into space?",
     "options": {
       "opt_a": "80%",
@@ -19667,7 +19667,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0473",
+    "id": 2250,
     "stem": "In which type of rainfall, winds move out from a high-pressure area with wind direction clockwise in the northern hemisphere, and anti-clockwise in the southern hemisphere?",
     "options": {
       "opt_a": "Cyclones",
@@ -19735,7 +19735,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0475",
+    "id": 2251,
     "stem": "What is the usual term used to describe the climate of India?",
     "options": {
       "opt_a": "Polar climate",
@@ -19803,7 +19803,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0478",
+    "id": 2252,
     "stem": "In the context of mapping climate data, what term refers to a line drawn through all points on a map that contain the same amount of cloud?",
     "options": {
       "opt_a": "Isohels",
@@ -19871,7 +19871,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0479",
+    "id": 2253,
     "stem": "According to Koeppen's Scheme, which type of climate is denoted by 'Cwg' in India?",
     "options": {
       "opt_a": "Monsoon with dry winter",
@@ -19939,7 +19939,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0485",
+    "id": 2254,
     "stem": "Which winds are also known by the name of 'Roaring Forties'?",
     "options": {
       "opt_a": "Polar easterlies",
@@ -20007,7 +20007,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0495",
+    "id": 2255,
     "stem": "In early November, the low Pressure conditions shift over the Bay of Bengal. This transfer is related to cyclonic low pressure, which originates over ________.",
     "options": {
       "opt_a": "Andaman Sea",
@@ -20075,7 +20075,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0509",
+    "id": 2256,
     "stem": "Consider the following statements about oilfields in India: Statement I: Digboi and Naharkatiya oilfields are located in Assam. Statement II: Ankaleshwar, Kalol, Mehsana, Nawagam, Kosamba and Lunej oilfields are located in Maharasthra. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -20143,7 +20143,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0513",
+    "id": 2257,
     "stem": "Which state in India has the highest number of aluminium smelting plants?",
     "options": {
       "opt_a": "Odisha",
@@ -20211,7 +20211,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0514",
+    "id": 2258,
     "stem": "Which of the following industries is its own major consumer in India?",
     "options": {
       "opt_a": "Iron and steel",
@@ -20279,7 +20279,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0527",
+    "id": 2259,
     "stem": "Read the below statements and choose the correct option: Statement 1: India's first initiative to track Fishing Cats through radio-collars has been introduced at Coringa Wildlife Sanctuary. Statement 2: Fishing Cats are primarily found in coastal wetlands and mangrove ecosystems.",
     "options": {
       "opt_a": "Both Statements 1 and 2 are correct",
@@ -20347,7 +20347,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0533",
+    "id": 2260,
     "stem": "Consider the following statements regarding Tadoba National Park: I. Tadoba National Park is located in Chandrapur district of Maharashtra. II. It was declared a National Park in 1956. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -20415,7 +20415,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0536",
+    "id": 2261,
     "stem": "Which of the following statements is/are correct I. Maximum National Parks in India are located in the state of Madhya Pradesh. II. Mudumalai National Park is located in Kerala. www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography III. The Salim Ali Centre for Ornithology and Natural History is located in Tamil Nadu.",
     "options": {
       "opt_a": "Both I and II are correct",
@@ -20483,7 +20483,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0542",
+    "id": 2262,
     "stem": "Which of the following is declared as a Wild Ass Sanctuary?",
     "options": {
       "opt_a": "Ladakh",
@@ -20551,7 +20551,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0545",
+    "id": 2263,
     "stem": "In which state is Gorumara National Park located?",
     "options": {
       "opt_a": "Assam",
@@ -20619,7 +20619,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0548",
+    "id": 2264,
     "stem": "The Eld's deer subspecies, which is classified as endangered in the IUCN Red List, is found only in the:",
     "options": {
       "opt_a": "Hemis National Park in Ladakh",
@@ -20687,7 +20687,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0550",
+    "id": 2265,
     "stem": "Assertion (A): Laokhowa Wildlife Sanctuary is located in Nagaon district of Assam. Reason (R): It lies on the northern bank of the Subansiri River.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -20755,7 +20755,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0551",
+    "id": 2266,
     "stem": "In which of the following Indian states is the Barnawapara Wildlife Sanctuary located?",
     "options": {
       "opt_a": "Assam",
@@ -20823,7 +20823,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0554",
+    "id": 2267,
     "stem": "Dandeli Wildlife Sanctuary is located in which of the following states?",
     "options": {
       "opt_a": "Karnataka",
@@ -20891,7 +20891,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0559",
+    "id": 2268,
     "stem": "Which of the following plateaus is located in the northeastern part of India?",
     "options": {
       "opt_a": "Malwa Plateau",
@@ -20959,7 +20959,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0560",
+    "id": 2269,
     "stem": "Which of the following is a characteristic feature of the Western Coastal Plains?",
     "options": {
       "opt_a": "Mangrove forests",
@@ -21027,7 +21027,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0561",
+    "id": 2270,
     "stem": "The Western Coastal Plains are narrower compared to the Eastern Coastal Plains because:",
     "options": {
       "opt_a": "They receive less rainfall",
@@ -21095,7 +21095,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0562",
+    "id": 2271,
     "stem": "Select the correct order of the following plateaus and ranges from south to north in India.",
     "options": {
       "opt_a": "Malwa Plateau, Vindhya Range, Satpura Range and Deccan Plateau",
@@ -21163,7 +21163,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0563",
+    "id": 2272,
     "stem": "Consider the following statements regarding temperature variation in deserts: I. Deserts experience extreme temperature variation between day and night due to low humidity and sparse vegetation. II. In the Thar Desert, daytime temperature can reach around 50°C, while nights may drop to nearly 15°C. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -21231,7 +21231,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0565",
+    "id": 2273,
     "stem": "In which of the following districts of Rajasthan are the ‘Barchans’ found?",
     "options": {
       "opt_a": "Udaipur",
@@ -21299,7 +21299,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0566",
+    "id": 2274,
     "stem": "Purvanchal Himalayas does NOT comprise of :",
     "options": {
       "opt_a": "Naga hills",
@@ -21367,7 +21367,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0567",
+    "id": 2275,
     "stem": "Which of the following hills is located in the Eastern Ghats?",
     "options": {
       "opt_a": "Naga hills",
@@ -21435,7 +21435,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0569",
+    "id": 2276,
     "stem": "What is the name of the highest peak of the Eastern Ghats?",
     "options": {
       "opt_a": "Kangchenjunga",
@@ -21503,7 +21503,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0570",
+    "id": 2277,
     "stem": "Which sub-division of Himalayas are famous for Karewa formations?",
     "options": {
       "opt_a": "Sikkim Himalayas",
@@ -21571,7 +21571,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0572",
+    "id": 2278,
     "stem": "The central stretch of the Western Coastal Plains of India is known as the:",
     "options": {
       "opt_a": "Coromandel coast",
@@ -21639,7 +21639,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0573",
+    "id": 2279,
     "stem": "The Himalayas' outermost range is called __________.",
     "options": {
       "opt_a": "Shiwaliks",
@@ -21707,7 +21707,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0575",
+    "id": 2280,
     "stem": "Which of the following hills is located in the Eastern most part of India?",
     "options": {
       "opt_a": "Jaintia Hills",
@@ -21775,7 +21775,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0576",
+    "id": 2281,
     "stem": "Consider the following statements regarding the Eastern Ghats: I. The average elevation of the Eastern Ghats is about 600 metres. II. The Eastern Ghats are a continuous mountain range extending from Odisha to Tamil Nadu. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -21843,7 +21843,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0580",
+    "id": 2282,
     "stem": "What is the name of the northern part of the western coastal plain between Mumbai and Goa?",
     "options": {
       "opt_a": "Coromandel coast",
@@ -21911,7 +21911,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0583",
+    "id": 2283,
     "stem": "Choose the correct statements about the Western Ghats. a. The height of the Western Ghats progressively increases from north to south. b. Mahendragiri is the highest peak in the Western Ghats. c. The Western Ghats are higher than the Eastern Ghats. d. The height of the Western Ghats progressively decreases from north to south.",
     "options": {
       "opt_a": "b, c and d",
@@ -21979,7 +21979,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0584",
+    "id": 2284,
     "stem": "Which triangular plateau region of India lies south of the river Narmada?",
     "options": {
       "opt_a": "Deccan plateau",
@@ -22047,7 +22047,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0587",
+    "id": 2285,
     "stem": "Which of the following physical divisions of India is densely populated?",
     "options": {
       "opt_a": "The North Indian Plains",
@@ -22115,7 +22115,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0590",
+    "id": 2286,
     "stem": "Assertion (A): Rajasthan is the biggest state of India in terms of area. Reason (R): Rajasthan has the maximum population among all Indian states.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -22183,7 +22183,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0591",
+    "id": 2287,
     "stem": "India's total length of coastline of the mainland including Andaman and Nicobar and Lakshadweep is ________",
     "options": {
       "opt_a": "7416.6 km",
@@ -22251,7 +22251,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0593",
+    "id": 2288,
     "stem": "Which of the following factors are responsible for railways having not developed much in the north-eastern parts of India? 1. Highly dissected topography 2. Dense forests 3. Low population density 4. Heavy rainfall and frequent flooding",
     "options": {
       "opt_a": "1, 2 and 3",
@@ -22319,7 +22319,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0598",
+    "id": 2289,
     "stem": "Consider the following statements: 1. Tawang is a tourism hotspot in Arunachal Pradesh. 2. Kalimpong district belongs to Sikkim. 3. Alipurduar and Jalpaiguri are districts of West Bengal. Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "Only 1",
@@ -22387,7 +22387,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0602",
+    "id": 2290,
     "stem": "Which among the following states does NOT share its border with Odisha?",
     "options": {
       "opt_a": "Chhattisgarh",
@@ -22455,7 +22455,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0603",
+    "id": 2291,
     "stem": "River Sutlej enters India through which pass?",
     "options": {
       "opt_a": "Shipki la",
@@ -22523,7 +22523,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0610",
+    "id": 2292,
     "stem": "In which of the following states is the development of rail transport less, due to its geographical conditions?",
     "options": {
       "opt_a": "Sikkim",
@@ -22591,7 +22591,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0616",
+    "id": 2293,
     "stem": "Which of the following is an example of an eastern coast port?",
     "options": {
       "opt_a": "Mumbai Port",
@@ -22659,7 +22659,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0620",
+    "id": 2294,
     "stem": "Match the following ports with their related states correctly. Ports States 1. Mormugao port a. West Bengal 2. Paradip Port b. Odisha 3. Haldia Port c. Tamil Nadu 4. Tuticorin Port d. Goa",
     "options": {
       "opt_a": "1-d, 2-b, 3-a, 4-c",
@@ -22727,7 +22727,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0632",
+    "id": 2295,
     "stem": "Which of the following is NOT a www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography characteristic of National Highways in India?",
     "options": {
       "opt_a": "Meant for inter-state transport",
@@ -22795,7 +22795,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0634",
+    "id": 2296,
     "stem": "Consider the following statements: I. The Grand Trunk Road was built by Sher Shah Suri. II. It connects Amritsar and Kolkata in India. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -22863,7 +22863,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0635",
+    "id": 2297,
     "stem": "Which waterway provides connectivity with mainland India through the India - Bangladesh Protocol route?",
     "options": {
       "opt_a": "NW-10",
@@ -22931,7 +22931,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0639",
+    "id": 2298,
     "stem": "Select the natural port of India from the following.",
     "options": {
       "opt_a": "Mumbai Port",
@@ -22999,7 +22999,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0646",
+    "id": 2299,
     "stem": "The ancient port, Sopara is located in which of the following states?",
     "options": {
       "opt_a": "Maharashtra",
@@ -23067,7 +23067,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0656",
+    "id": 2300,
     "stem": "Which Indian Union Territory has the most Scheduled Castes?",
     "options": {
       "opt_a": "Delhi",
@@ -23135,7 +23135,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0661",
+    "id": 2301,
     "stem": "Read the following statements and choose the correct option: Statement 1: Karnataka has the highest elephant population among Southern States. Statement 2: A high number of juvenile elephant deaths in Karnataka are due to Elephant Endotheliotropic Herpesvirus (EEHV).",
     "options": {
       "opt_a": "Only Statement 1 is correct",
@@ -23203,7 +23203,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0662",
+    "id": 2302,
     "stem": "Which of the following states has the lowest population in India, according to the 2011 Census of India?",
     "options": {
       "opt_a": "Maharashtra",
@@ -23271,7 +23271,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0665",
+    "id": 2303,
     "stem": "In each of the following questions, a statement labeled Assertion (A) is given, followed by a statement labeled Reason (R). Assertion (A): Migrants who enter a new country or region are called immigrants. Reason (R): Emigrants are people who leave their country to settle elsewhere.",
     "options": {
       "opt_a": "Both A and R are true, but R is not the correct explanation of A.",
@@ -23339,7 +23339,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0668",
+    "id": 2304,
     "stem": "Consider the following statements: I. Three phases are involved in the census operations in India II. The first phase of census operations is Houselisting/Housing Census. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -23407,7 +23407,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0671",
+    "id": 2305,
     "stem": "When the analysis of population density is done by calculating it through net cultivated area, then the measure is termed as :",
     "options": {
       "opt_a": "Agricultural density",
@@ -23475,7 +23475,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0678",
+    "id": 2306,
     "stem": "Consider the following statements: I. As per Census 2011, Delhi has the highest slum population among Union Territories. www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography II. Maharashtra has the highest slum population among Indian states. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -23543,7 +23543,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0680",
+    "id": 2307,
     "stem": "According to Census 2011, which district displays the highest population?",
     "options": {
       "opt_a": "Kollam",
@@ -23611,7 +23611,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0685",
+    "id": 2308,
     "stem": "According to the Census of India 2011, most people had out-migrated from ________ to other states in India.",
     "options": {
       "opt_a": "Rajasthan and Gujarat",
@@ -23679,7 +23679,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0698",
+    "id": 2309,
     "stem": "According to the census of India 2011, which state has the lowest population growth rate?",
     "options": {
       "opt_a": "Jharkhand",
@@ -23747,7 +23747,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0708",
+    "id": 2310,
     "stem": "What is the national female workforce participation rate as per the Census of India 2011?",
     "options": {
       "opt_a": "53.26%",
@@ -23815,7 +23815,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0712",
+    "id": 2311,
     "stem": "The density of population is the crude relationship between humans and _________ .",
     "options": {
       "opt_a": "land",
@@ -23883,7 +23883,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0715",
+    "id": 2312,
     "stem": "What is the name of the large-scale demographic survey conducted to provide reliable estimates of birth and death rates and other fertility and mortality indicators at the national and sub-national levels?",
     "options": {
       "opt_a": "Sample Registration System (SRS)",
@@ -23951,7 +23951,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0716",
+    "id": 2313,
     "stem": "Which of the following is expressed as the total number of deaths per thousand population per year in India?",
     "options": {
       "opt_a": "Death Rate",
@@ -24019,7 +24019,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0718",
+    "id": 2314,
     "stem": "Consider the following statements regarding population change: 1. The three basic components of population change are Birth, Death, and Migration. 2. Demography is derived from the Greek words Demos (Population) and Graphy (Science). Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -24087,7 +24087,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0726",
+    "id": 2315,
     "stem": "According to the Census of India 2011, the female literacy rate was recorded as ___________.",
     "options": {
       "opt_a": "75.35%",
@@ -24155,7 +24155,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0743",
+    "id": 2316,
     "stem": "The long term objective of National Population Policy (NPP) 2000 is to achieve a stable population by ______ with sustainable economic growth, social development and environmental protection.",
     "options": {
       "opt_a": "2045",
@@ -24223,7 +24223,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0749",
+    "id": 2317,
     "stem": "As per census 2011, which among the following states has the highest sex ratio?",
     "options": {
       "opt_a": "Madhya Pradesh",
@@ -24291,7 +24291,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0754",
+    "id": 2318,
     "stem": "The distribution of the population according to different types of occupation is known as __________.",
     "options": {
       "opt_a": "occupational structure",
@@ -24359,7 +24359,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0755",
+    "id": 2319,
     "stem": "Which period in India is referred to as a steady population growth period?",
     "options": {
       "opt_a": "1921-1951",
@@ -24427,7 +24427,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0758",
+    "id": 2320,
     "stem": "What was the estimated national mortality rate of children under the age of fiv e in the country as per Census of India 2011?",
     "options": {
       "opt_a": "34",
@@ -24495,7 +24495,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0771",
+    "id": 2321,
     "stem": "What is the main objective of the 'Graded Response Action Plan'?",
     "options": {
       "opt_a": "legalizing illegal colonies",
@@ -24563,7 +24563,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0774",
+    "id": 2322,
     "stem": "Which layer of atmosphere helps in radio transmission?",
     "options": {
       "opt_a": "Exosphere",
@@ -24631,7 +24631,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0781",
+    "id": 2323,
     "stem": "The layer made up of unconsolidated rock, dust, soil, etc. that is deposited on a bed rock surface like a blanket is known as:",
     "options": {
       "opt_a": "Talus",
@@ -24699,7 +24699,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0794",
+    "id": 2324,
     "stem": "Which of the following rocks floats in water?",
     "options": {
       "opt_a": "Granite",
@@ -24767,7 +24767,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0795",
+    "id": 2325,
     "stem": "________ plains are formed due to the weathering of soluble rocks such as limestone and dolomite.",
     "options": {
       "opt_a": "Glacial",
@@ -24835,7 +24835,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0796",
+    "id": 2326,
     "stem": "Read the following statements: Statement 1: Diastrophism includes all processes that move, elevate, or build up portions of the Earth's crust. Statement 2: Exogenic processes derive their energy from the atmosphere, influenced by solar energy and tectonic gradients. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only Statement 1 is correct",
@@ -24903,7 +24903,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0798",
+    "id": 2327,
     "stem": "Which of the following mountains of India is famous for tea and coffee production?",
     "options": {
       "opt_a": "Nilgiri",
@@ -24971,7 +24971,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0801",
+    "id": 2328,
     "stem": "The holy mountain 'Kailash' is located in which neighbouring country of India?",
     "options": {
       "opt_a": "Pakistan",
@@ -25039,7 +25039,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0806",
+    "id": 2329,
     "stem": "Dhinodhar Hills is located in which Indian state/Union Territory?",
     "options": {
       "opt_a": "Andaman and Nicobar Islands",
@@ -25107,7 +25107,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0807",
+    "id": 2330,
     "stem": "Which among the following peaks is the highest peak of Jharkhand?",
     "options": {
       "opt_a": "Kangto",
@@ -25175,7 +25175,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0809",
+    "id": 2331,
     "stem": "Which among the following is the largest of all the duns of the Shiwaliks mountain range in India?",
     "options": {
       "opt_a": "Patli Dun",
@@ -25243,7 +25243,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0810",
+    "id": 2332,
     "stem": "Kalsubai peak is located in which of the following Indian states?",
     "options": {
       "opt_a": "Madhya Pradesh",
@@ -25311,7 +25311,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0811",
+    "id": 2333,
     "stem": "Which of the following is NOT a type of a fold mountain?",
     "options": {
       "opt_a": "Aravali range",
@@ -25379,7 +25379,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0812",
+    "id": 2334,
     "stem": "Match the Following List I (Peak) List II (Height in metres) A. Mount Everest (i) 8,598 m B. Kanchenjunga (ii) 8,172 m C. Makalu (iii) 8,848 m D. Dhaulagiri (iv) 8,481 m",
     "options": {
       "opt_a": "A–iii, B–i, C–iv, D–ii",
@@ -25447,7 +25447,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0813",
+    "id": 2335,
     "stem": "What is the average height of inner Himalayas?",
     "options": {
       "opt_a": "6000 metres",
@@ -25515,7 +25515,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0814",
+    "id": 2336,
     "stem": "Asia is separated from Europe by ______ mountains.",
     "options": {
       "opt_a": "Himalayan",
@@ -25583,7 +25583,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0815",
+    "id": 2337,
     "stem": "Which of the following have mountain range young fold mountains?",
     "options": {
       "opt_a": "Appalachians mountain range",
@@ -25651,7 +25651,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0816",
+    "id": 2338,
     "stem": "The uplifted blocks of block mountains are called ______.",
     "options": {
       "opt_a": "horsts",
@@ -25719,7 +25719,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0817",
+    "id": 2339,
     "stem": "Consider the following statements about mountain passes in India: I. Fotu La is the highest point in Ladakh. II. Namika La is located in Himachal Pradesh. III. Rohtang Pass is in Himachal Pradesh. Which of the above statements is/are incorrect?",
     "options": {
       "opt_a": "Only II",
@@ -25787,7 +25787,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0818",
+    "id": 2340,
     "stem": "Which of the following is also known as the ‘White Mountain’?",
     "options": {
       "opt_a": "Cho Oyu",
@@ -25855,7 +25855,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0819",
+    "id": 2341,
     "stem": "Which of the following statement(s) is/are correct regarding mountains? I. Mountains may be arranged in a line known as range. II. The Aravali range in India is one of the oldest fold mountain systems in the world. III. Mt. Kilimanjaro in South America is an example of Volcanic Mountain",
     "options": {
       "opt_a": "Only I and II",
@@ -25923,7 +25923,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0820",
+    "id": 2342,
     "stem": "The Deomali is the highest mountain peak of ______.",
     "options": {
       "opt_a": "Assam",
@@ -25991,7 +25991,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0821",
+    "id": 2343,
     "stem": "In which Indian state will you find Mount Tiyi?",
     "options": {
       "opt_a": "Arunachal Pradesh",
@@ -26059,7 +26059,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0823",
+    "id": 2344,
     "stem": "Mountaineers refer to altitudes above about _______ meters as the ‘death zone’.",
     "options": {
       "opt_a": "5,800",
@@ -26127,7 +26127,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0825",
+    "id": 2345,
     "stem": "Generally, a steep hill with an elevation of more than _______ meters is classified as a mountain.",
     "options": {
       "opt_a": "600",
@@ -26195,7 +26195,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0828",
+    "id": 2346,
     "stem": "Which of the following hills is situated in Assam?",
     "options": {
       "opt_a": "Aravali Hills",
@@ -26263,7 +26263,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0829",
+    "id": 2347,
     "stem": "Where is Mount Diavolo, an important mountain peak in the Andaman and Nicobar Islands, Located?",
     "options": {
       "opt_a": "Great Nicobar",
@@ -26331,7 +26331,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0830",
+    "id": 2348,
     "stem": "Mount Jopuno is situated in which of the following states?",
     "options": {
       "opt_a": "Uttarakhand",
@@ -26399,7 +26399,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0831",
+    "id": 2349,
     "stem": "Which of the following hills is situated in Andhra Pradesh?",
     "options": {
       "opt_a": "Kaimur Hills",
@@ -26467,7 +26467,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0834",
+    "id": 2350,
     "stem": "Borra Caves are situated on the East Coast of India in which of the following hills?",
     "options": {
       "opt_a": "Nallamala Hills",
@@ -26535,7 +26535,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0835",
+    "id": 2351,
     "stem": "Which Indian plateau is formed primarily by volcanic activity?",
     "options": {
       "opt_a": "Malwa Plateau",
@@ -26603,7 +26603,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0837",
+    "id": 2352,
     "stem": "What is the name of the process of gases being outpoured from the interior of the solid earth?",
     "options": {
       "opt_a": "Evaporation",
@@ -26671,7 +26671,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0839",
+    "id": 2353,
     "stem": "Which is the largest island of India in terms of area?",
     "options": {
       "opt_a": "Rameswaram",
@@ -26739,7 +26739,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0841",
+    "id": 2354,
     "stem": "Consider the following statements regarding straits separating continents: I. The Strait of Gibraltar separates Europe and Africa, connecting the Mediterranean Sea with the Atlantic Ocean. II. The Bosporus Strait separates Europe and Africa. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only I",
@@ -26807,7 +26807,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0842",
+    "id": 2355,
     "stem": "Which of the following is the largest inhabited riverine island in the world?",
     "options": {
       "opt_a": "Peacock",
@@ -26875,7 +26875,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0846",
+    "id": 2356,
     "stem": "Copacabana beach is situated in __________.",
     "options": {
       "opt_a": "Australia",
@@ -26943,7 +26943,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0850",
+    "id": 2357,
     "stem": "As of 2025, which country has the largest proven coal reserves in the world?",
     "options": {
       "opt_a": "India",
@@ -27011,7 +27011,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0855",
+    "id": 2358,
     "stem": "Death Valley is a desert valley in the ________ that is the hottest and driest place with a world record highest air temperature of 134°F.",
     "options": {
       "opt_a": "Mojave Desert of California",
@@ -27079,7 +27079,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0860",
+    "id": 2359,
     "stem": "Consider the following statements about Udayagiri and Khandagiri caves: 1. These caves are near Bhubaneswar and were meant for Jain monks. 2. All caves are shaped like flowers and are carved from independent boulders. 3. Each cave has multiple shrines dedicated to different Buddhist deities. Which of the above is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -27147,7 +27147,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0865",
+    "id": 2360,
     "stem": "A section of an active fault that has produced earthquakes in the past but is now quiet and is believed that the fault segment is capable of producing earthquake on some other basis is known as:",
     "options": {
       "opt_a": "Hypocenter",
@@ -27215,7 +27215,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0868",
+    "id": 2361,
     "stem": "Which of the following can be represented as a functional unit of nature?",
     "options": {
       "opt_a": "Vehicles",
@@ -27283,7 +27283,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0871",
+    "id": 2362,
     "stem": "Which branch of ecology deals with the characteristics of the ancient environment and their relationship with ancient plants and animals?",
     "options": {
       "opt_a": "Demecology",
@@ -27351,7 +27351,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0880",
+    "id": 2363,
     "stem": "Epilimnetic, metalimnetic, and hypolimnetic water strata are example of:",
     "options": {
       "opt_a": "different layers of underground water",
@@ -27419,7 +27419,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0884",
+    "id": 2364,
     "stem": "Of the total water content available globally, how much percentage of water is received from freshwater resources?",
     "options": {
       "opt_a": "0.5%",
@@ -27487,7 +27487,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0898",
+    "id": 2365,
     "stem": "Which ecologist showed in a long-term experiment on outdoor plots that biodiversity is of central importance to the productivity, stability, resistance to the invasion of ecosystems and fertility of their soils?",
     "options": {
       "opt_a": "Karl Mobius",
@@ -27555,7 +27555,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0899",
+    "id": 2366,
     "stem": "Which hypothesis was proposed by Paul Ehrlich to suggest the importance of species richness in the maintenance of ecosystems?",
     "options": {
       "opt_a": "Portfolio hypothesis",
@@ -27623,7 +27623,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0901",
+    "id": 2367,
     "stem": "In the context of ecology, the given equation shows the relationship between the size of an area and the number of species present in it. Accordingly, by which letter is the regression coefficient denoted? log S = log C + Z log A",
     "options": {
       "opt_a": "S",
@@ -27691,7 +27691,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0911",
+    "id": 2368,
     "stem": "The point on the surface, nearest to the focus of the earthquake, is called _______.",
     "options": {
       "opt_a": "hypocentre",
@@ -27759,7 +27759,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0913",
+    "id": 2369,
     "stem": "The western Ghats and the Eastern Ghats meet at which of the following places in southern India?",
     "options": {
       "opt_a": "Satpura Hills",
@@ -27827,7 +27827,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0914",
+    "id": 2370,
     "stem": "Which of the following earthquake waves are longitudinal waves?",
     "options": {
       "opt_a": "L waves",
@@ -27895,7 +27895,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0917",
+    "id": 2371,
     "stem": "Which of the following pairs of \"term - definition\" is correct? I. Strait - a narrow strip of land joining two landmasses II. Isthmus - a narrow passage of water connecting two large water bodies",
     "options": {
       "opt_a": "Only II",
@@ -27963,7 +27963,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0921",
+    "id": 2372,
     "stem": "Which of the following mountains were formed when molten rock from the depths of the earth rose from the crust and piled up on its own?",
     "options": {
       "opt_a": "Mount Kilimanjaro in Africa",

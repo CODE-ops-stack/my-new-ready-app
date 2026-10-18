@@ -1,6 +1,6 @@
 [
   {
-    "id": "q_8c9f2af4",
+    "id": 1295,
     "stem": "Consider the following statements regarding Tropical Cyclones and Temperate Cyclones (Extra-tropical Cyclones):\n1. Tropical cyclones derive their energy primarily from latent heat released during condensation over warm ocean waters, whereas temperate cyclones are powered by thermal contrasts along frontal zones.\n2. Tropical cyclones have a well-defined eye with calm weather, a feature completely absent in temperate cyclones.\n3. The areal extent of temperate cyclones is generally much larger than that of tropical cyclones.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "id": "q_e7f79839",
+    "id": 1296,
     "stem": "Consider the following pairs of local winds and their regions of occurrence:\n1. Foehn — Alps region\n2. Chinook — Rocky Mountains\n3. Sirocco — Sahara Desert to Mediterranean Sea\n4. Pampero — Central USA plains\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -142,7 +142,7 @@
     }
   },
   {
-    "id": "q_c48f7bd8",
+    "id": 1297,
     "stem": "Consider the following local winds and their regions of occurrence:\n1. Chinook: Rocky Mountain slopes of North America\n2. Foehn: Northern slopes of the Alps\n3. Sirocco: Sahara desert to the Mediterranean Sea\n4. Mistral: Northern plains of India\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -213,7 +213,7 @@
     }
   },
   {
-    "id": "q_444a7b67",
+    "id": 1298,
     "stem": "An air parcel at sea level with a temperature of 30°C is forced to rise over a mountain range. Assuming a dry adiabatic lapse rate of 10°C per km and a saturated adiabatic lapse rate of 6°C per km, what will be the temperature of the air parcel after it ascends 3 km and crosses the condensation level which is exactly at 1 km altitude?",
     "options": {
       "opt_a": "4°C",
@@ -284,7 +284,7 @@
     }
   },
   {
-    "id": "q_17cdf5ca",
+    "id": 1299,
     "stem": "Consider the following pairs regarding local wind systems and their characteristic regions:\n1. Chinook: Warm and dry wind blowing down the eastern slopes of the Rocky Mountains\n2. Mistral: Cold and dry wind blowing from the Alps towards the Mediterranean Sea\n3. Pampero: Warm and moist wind blowing across the Sahara Desert towards the Atlantic\nHow many pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -355,7 +355,7 @@
     }
   },
   {
-    "id": "q_4ff5a32e",
+    "id": 1300,
     "stem": "In the context of atmospheric moisture, which of the following best describes 'Dew Point'?",
     "options": {
       "opt_a": "The temperature at which relative humidity drops to zero percent.",
@@ -426,7 +426,7 @@
     }
   },
   {
-    "id": "q_706caae8",
+    "id": 1301,
     "stem": "Which of the following ocean currents is NOT a cold current?",
     "options": {
       "opt_a": "Benguela Current",
@@ -497,7 +497,7 @@
     }
   },
   {
-    "id": "q_e4516729",
+    "id": 1302,
     "stem": "Regarding the vertical distribution of temperature in the oceans, which zone represents a rapid decrease in temperature with increasing depth?",
     "options": {
       "opt_a": "Epipelagic zone",
@@ -568,7 +568,7 @@
     }
   },
   {
-    "id": "q_7f81d1c4",
+    "id": 1303,
     "stem": "Which of the following ocean relief features is characterized by a relatively steep gradient ranging between 2 and 5 degrees and marks the boundary between the continental crust and the oceanic crust?",
     "options": {
       "opt_a": "Continental Shelf",
@@ -639,7 +639,7 @@
     }
   },
   {
-    "id": "q_89bcaf2c",
+    "id": 1304,
     "stem": "Consider the following statements regarding tides:\n1. Spring tides occur when the gravitational pulls of the Sun and the Moon are perpendicular to each other, resulting in neap-like moderate tides.\n2. Perigean spring tides generate higher tidal ranges than standard spring tides because the Moon is closest to Earth in its elliptical orbit.\n3. The diurnal tide cycle consists of one high tide and one low tide during a lunar day of approximately 24 hours and 50 minutes.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -710,7 +710,7 @@
     }
   },
   {
-    "id": "q_649b7dbf",
+    "id": 1305,
     "stem": "Consider the following pairs of local phenomena and their driving oceanic or atmospheric mechanisms:\n1. El Nino: Abnormal warming of surface ocean waters in the eastern and central Pacific Ocean\n2. Neap Tides: Tides occurring when the sun and moon are at a right angle to each other relative to the earth\n3. Salinity Maximum: Regions of highest salinity always found precisely at the equator due to maximum insolation\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -781,7 +781,7 @@
     }
   },
   {
-    "id": "q_78f9c003",
+    "id": 1306,
     "stem": "Consider the following statements regarding ocean salinity and temperature: \n1. Surface salinity is highest at the Equator due to intense evaporation throughout the year.\n2. Ocean temperature generally decreases with depth, with the thermocline representing a zone of rapid temperature decrease.\n3. Enclosed seas in high-latitude regions typically record higher salinity than open oceans due to intense freezing of sea water.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -852,7 +852,7 @@
     }
   },
   {
-    "id": "q_71482024",
+    "id": 1307,
     "stem": "Consider the following statements regarding the ocean floor relief:\n1. The continental shelf represents a shallow, gently sloping platform that is a submerged extension of the continental landmass.\n2. The continental slope marks the boundary where the continental shelf abruptly steepens, typically ranging between 2 and 5 degrees.\n3. Abyssal plains are extensive, rugged regions of the ocean floor characterized by active volcanic mountain chains.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -923,7 +923,7 @@
     }
   },
   {
-    "id": "q_e9846621",
+    "id": 1308,
     "stem": "Consider the following pairs of ocean relief features and their characteristic gradients or depths:\n1. Continental Shelf: Average gradient of 1 degree or even less\n2. Continental Slope: Gradient ranging between 2 and 5 degrees\n3. Abyssal Plains: Extensive plains with depths varying between 3,000 to 6,000 meters\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -994,7 +994,7 @@
     }
   },
   {
-    "id": "q_77a7fc69",
+    "id": 1309,
     "stem": "Consider the following statements regarding Tsunamis:\n1. Tsunamis are shallow-water waves because their wavelengths are immensely greater than the average depth of the ocean.\n2. Unlike normal wind-driven ocean waves, tsunamis involve the movement of the entire water column from the ocean floor to the surface.\n3. The speed of a tsunami wave decreases drastically as it enters shallow coastal waters, causing a massive increase in wave height.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "id": "q_97f03aa3",
+    "id": 1310,
     "stem": "Consider the following pairs of ocean currents and their geographic location:\n1. Benguela Current : South Atlantic Ocean (Cold)\n2. Humboldt Current : South Pacific Ocean (Warm)\n3. Labrador Current : North Atlantic Ocean (Cold)\nHow many pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -1136,7 +1136,7 @@
     }
   },
   {
-    "id": "q_c38cf1c2",
+    "id": 1311,
     "stem": "Statement-I: Spring tides occur twice a month, during the full moon and the new moon periods.\nStatement-II: During spring tides, the gravitational pulls of both the sun and the moon work in conjunction, resulting in the highest high tides and lowest low tides.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1207,7 +1207,7 @@
     }
   },
   {
-    "id": "q_de5e3b67",
+    "id": 1312,
     "stem": "Which of the following factors plays the most dominant role in determining the horizontal distribution of ocean surface temperature?",
     "options": {
       "opt_a": "Upwelling of cold deep water along western coasts of continents",
@@ -1278,7 +1278,7 @@
     }
   },
   {
-    "id": "q_df06f210",
+    "id": 1313,
     "stem": "Consider the following pairs: \n1. Agulhas Current: Warm current in the Indian Ocean\n2. Peru Current: Cold current in the South Pacific Ocean\n3. Labrador Current: Warm current in the North Atlantic Ocean\nHow many pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -1349,7 +1349,7 @@
     }
   },
   {
-    "id": "q_f25d4c0d",
+    "id": 1314,
     "stem": "Which of the following is NOT correct regarding Spring Tides and Neap Tides?",
     "options": {
       "opt_a": "Spring tides occur when the sun, the moon, and the earth are in a straight line.",
@@ -1420,7 +1420,7 @@
     }
   },
   {
-    "id": "q_1d8d53b0",
+    "id": 1315,
     "stem": "Statement-I: El Nino events are characterized by the abnormal warming of surface waters in the central and eastern tropical Pacific Ocean.\nStatement-II: This warming is accompanied by a weakening or reversal of the Walker Circulation, leading to reduced rainfall over the Indian subcontinent.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1491,7 +1491,7 @@
     }
   },
   {
-    "id": "q_942308a1",
+    "id": 1316,
     "stem": "During an unprecedented oceanic heating event, a coral reef ecosystem experiences widespread coral bleaching. Which of the following best explains the primary physiological mechanism behind this phenomenon?",
     "options": {
       "opt_a": "The calcium carbonate aragonite skeleton of the coral dissolves due to hyper-acidification of surface waters.",
@@ -1562,7 +1562,7 @@
     }
   },
   {
-    "id": "q_10812b7e",
+    "id": 1317,
     "stem": "Statement-I: The surface salinity of the oceans is generally highest in the sub-tropical high-pressure belts rather than at the equator.\nStatement-II: High evaporation rates combined with atmospheric stability and lack of significant precipitation in sub-tropical zones outweigh the heavy rainfall and high runoff found in equatorial regions.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1633,7 +1633,7 @@
     }
   },
   {
-    "id": "q_f4c64c9b",
+    "id": 1318,
     "stem": "Which of the following is NOT correct regarding ocean currents and their climatic impacts?",
     "options": {
       "opt_a": "Cold currents flowing along the western coasts of continents in tropical and subtropical latitudes promote the formation of arid deserts.",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "id": "q_6768e094",
+    "id": 1319,
     "stem": "During an El Nino event, which of the following atmospheric and oceanic adjustments occurs across the tropical Pacific Ocean?",
     "options": {
       "opt_a": "The Walker circulation strengthens, leading to unseasonably heavy monsoon rainfall across the Indian subcontinent.",
@@ -1775,7 +1775,7 @@
     }
   },
   {
-    "id": "q_55c42617",
+    "id": 1320,
     "stem": "Statement-I: Coral reefs are predominantly restricted to tropical and sub-tropical shallow marine waters between 30°N and 30°S latitudes.\nStatement-II: The symbiotic microalgae known as zooxanthellae require sunlight for photosynthesis, which limits reef-building corals to photic zones where water temperatures remain consistently above 20°C.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "id": "q_53b38071",
+    "id": 1321,
     "stem": "Which of the following physical characteristics best distinguishes tsunamis in the deep ocean from wind-driven surface waves?",
     "options": {
       "opt_a": "Tsunamis have extremely short wavelengths and high wave heights in deep water, making them immediately visible to ships.",
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "id": "q_map_008",
+    "id": 1322,
     "stem": "Consider the following countries bordering the Black Sea:\n1. Bulgaria\n2. Georgia\n3. Romania\n4. Turkey\nWhich of them lie strictly to the East of the Black Sea meridian?",
     "options": {
       "opt_a": "Only one",
@@ -1988,7 +1988,7 @@
     }
   },
   {
-    "id": "q_map1_f8g9h0",
+    "id": 1323,
     "stem": "Which one of the following pairs is correctly matched regarding the rivers and the seas/oceans they drain into?",
     "options": {
       "opt_a": "Narmada - Bay of Bengal",
@@ -2059,7 +2059,7 @@
     }
   },
   {
-    "id": "q_map2_u1v2w3x4",
+    "id": 1324,
     "stem": "[UPSC PYQ] Which of the following Central Asian countries border the Caspian Sea?\n1. Kazakhstan\n2. Uzbekistan\n3. Turkmenistan\n4. Tajikistan",
     "options": {
       "opt_a": "1 and 3 only",
@@ -2130,7 +2130,7 @@
     }
   },
   {
-    "id": "q_map2_c9d0e1f2",
+    "id": 1325,
     "stem": "Which of these Middle Eastern countries does NOT share a border with the Red Sea?",
     "options": {
       "opt_a": "Egypt",
@@ -2201,7 +2201,7 @@
     }
   },
   {
-    "id": "q_map2_a3b4c5d6",
+    "id": 1326,
     "stem": "[UPSC PYQ] Which of the following countries are washed by the Mediterranean Sea?\n1. Jordan\n2. Syria\n3. Lebanon\n4. Egypt",
     "options": {
       "opt_a": "1, 2 and 3 only",
@@ -2272,7 +2272,7 @@
     }
   },
   {
-    "id": "q_map3_g7h8i9",
+    "id": 1327,
     "stem": "Which of the following groups of countries border the Black Sea?",
     "options": {
       "opt_a": "Russia, Ukraine, Romania, Bulgaria, Turkey, Georgia",
@@ -2343,7 +2343,7 @@
     }
   },
   {
-    "id": "q_map4_m3n4o5p6",
+    "id": 1328,
     "stem": "Which of the following countries do NOT share a border with the Black Sea?",
     "options": {
       "opt_a": "Bulgaria and Romania",
@@ -2414,7 +2414,7 @@
     }
   },
   {
-    "id": "q_map4_u1v2w3x4",
+    "id": 1329,
     "stem": "Consider the following countries: 1. Eritrea 2. Djibouti 3. Yemen 4. Saudi Arabia. Which of these share a coastline with the Red Sea?",
     "options": {
       "opt_a": "1, 3, and 4 only",
@@ -2485,7 +2485,7 @@
     }
   },
   {
-    "id": "q_map4_q9r0s1t2",
+    "id": 1330,
     "stem": "Which of the following pairs of country and its bordering sea is incorrectly matched?",
     "options": {
       "opt_a": "Kazakhstan - Caspian Sea",
@@ -2556,7 +2556,7 @@
     }
   },
   {
-    "id": "q_map4_y7z8a9b0",
+    "id": 1331,
     "stem": "[UPSC PYQ] Which of the following islands of the Indian Ocean is located furthest to the South?",
     "options": {
       "opt_a": "Maldives",
@@ -2627,7 +2627,7 @@
     }
   },
   {
-    "id": "q_map5_i9j0k1l2",
+    "id": 1332,
     "stem": "Which two water bodies are connected by the Strait of Kerch?",
     "options": {
       "opt_a": "Black Sea and Sea of Azov",
@@ -2698,7 +2698,7 @@
     }
   },
   {
-    "id": "q_map5_c9d0e1f2",
+    "id": 1333,
     "stem": "The Kiel Canal, one of the world's busiest artificial waterways, connects which two seas?",
     "options": {
       "opt_a": "North Sea and Baltic Sea",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "id": "q_map5_k7l8m9n0",
+    "id": 1334,
     "stem": "[UPSC PYQ] Which strait connects the Tasman Sea with the Southern Ocean, separating the Australian mainland from Tasmania?",
     "options": {
       "opt_a": "Bass Strait",
@@ -2840,7 +2840,7 @@
     }
   },
   {
-    "id": "q_map5_w9x0y1z2",
+    "id": 1335,
     "stem": "The Bering Strait connects the Arctic Ocean to which other body of water?",
     "options": {
       "opt_a": "Bering Sea (Pacific Ocean)",
@@ -2911,7 +2911,7 @@
     }
   },
   {
-    "id": "q_map5_e7f8g9h0",
+    "id": 1336,
     "stem": "The Strait of Gibraltar connects the Atlantic Ocean to the Mediterranean Sea and separates which two countries?",
     "options": {
       "opt_a": "Spain and Morocco",
@@ -2982,7 +2982,7 @@
     }
   },
   {
-    "id": "q_map5_q9r0s1t2",
+    "id": 1337,
     "stem": "Which strategic chokepoint controls the entry to the Black Sea from the Mediterranean (via the Aegean and Marmara Seas)?",
     "options": {
       "opt_a": "Turkish Straits (Bosphorus and Dardanelles)",
@@ -3053,7 +3053,7 @@
     }
   },
   {
-    "id": "q_map6_s9t0u1",
+    "id": 1338,
     "stem": "Which of the following countries has a coastline on BOTH the Red Sea and the Mediterranean Sea?",
     "options": {
       "opt_a": "Saudi Arabia",
@@ -3124,7 +3124,7 @@
     }
   },
   {
-    "id": "q_map6_k7l8m9",
+    "id": 1339,
     "stem": "[UPSC PYQ] Among the following groupings of countries, which one represents the nations that exclusively border the Andaman Sea?",
     "options": {
       "opt_a": "India, Myanmar, Thailand, Malaysia, Indonesia",
@@ -3195,7 +3195,7 @@
     }
   },
   {
-    "id": "q_map6_t6u7v8",
+    "id": 1340,
     "stem": "Which South-East Asian country has a unique elongated mainland 'panhandle' that prevents its eastern neighbor from having direct access to the sea?",
     "options": {
       "opt_a": "Myanmar, blocking Thailand",
@@ -3266,7 +3266,7 @@
     }
   },
   {
-    "id": "q_map8_1u2v",
+    "id": 1341,
     "stem": "The Amu Darya river, a major waterway in Central Asia, flows through which prominent desert before emptying into the Aral Sea?",
     "options": {
       "opt_a": "Gobi Desert",
@@ -3337,7 +3337,7 @@
     }
   },
   {
-    "id": "q_map8_5y6z",
+    "id": 1342,
     "stem": "Which of the following major rivers does NOT drain into the Black Sea?",
     "options": {
       "opt_a": "Danube",
@@ -3408,7 +3408,7 @@
     }
   },
   {
-    "id": "q_oxford3_0n1o2p",
+    "id": 1343,
     "stem": "The meeting of the warm Gulf Stream and the cold Labrador Current off the coast of North America produces which of the following geographic phenomena?",
     "options": {
       "opt_a": "The stagnant waters of the Sargasso Sea",
@@ -3479,7 +3479,7 @@
     }
   },
   {
-    "id": "q_oxford3_3q4r5s",
+    "id": 1344,
     "stem": "The Patagonian Desert is a cold winter desert. What is the primary geographical reason for its formation?",
     "options": {
       "opt_a": "It is located in the subtropics under the direct influence of high-pressure belts.",
@@ -3550,7 +3550,7 @@
     }
   },
   {
-    "id": "q_oxford3_6t7u8v",
+    "id": 1345,
     "stem": "Which one of the following ocean currents is NOT a cold current?",
     "options": {
       "opt_a": "Canary Current",
@@ -3621,7 +3621,7 @@
     }
   },
   {
-    "id": "q_oxford4_1s2t3u",
+    "id": 1346,
     "stem": "Which one of the following countries does NOT border the Black Sea?",
     "options": {
       "opt_a": "Bulgaria",
@@ -3692,7 +3692,7 @@
     }
   },
   {
-    "id": "q_oxford4_4e5f6g",
+    "id": 1347,
     "stem": "Consider the following countries:\n1. Djibouti\n2. Eritrea\n3. Somalia\n4. Sudan\nWhich of the above countries border the Red Sea?",
     "options": {
       "opt_a": "1, 2 and 4 only",
@@ -3763,7 +3763,7 @@
     }
   },
   {
-    "id": "q_oxford4_7q8r9s",
+    "id": 1348,
     "stem": "Which of the following countries shares borders with both the Mediterranean Sea and the Red Sea?",
     "options": {
       "opt_a": "Israel",
@@ -3834,7 +3834,7 @@
     }
   },
   {
-    "id": "q_oxford4_4w5x6y",
+    "id": 1349,
     "stem": "[UPSC PYQ] Consider the following countries:\n1. Turkey\n2. Russia\n3. Ukraine\n4. Romania\nWhich of the above countries border the Black Sea?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -3905,7 +3905,7 @@
     }
   },
   {
-    "id": "q_pred3_7g8h9i",
+    "id": 1350,
     "stem": "Which of the following BRICS nations (including recently inducted ones) does NOT share a border with the Red Sea?",
     "options": {
       "opt_a": "Egypt",
@@ -3976,7 +3976,7 @@
     }
   },
   {
-    "id": "q_pred3_0n1o2p",
+    "id": 1351,
     "stem": "In 2016, an international tribunal ruled that China's 'nine-dash line' has no legal basis under UNCLOS. Which body issued this landmark ruling?",
     "options": {
       "opt_a": "International Court of Justice (ICJ)",
@@ -4047,7 +4047,7 @@
     }
   },
   {
-    "id": "q_drill_blks_base",
+    "id": 1352,
     "stem": "Which of the following countries does NOT share a border with the Black Sea?",
     "options": {
       "opt_a": "Romania",
@@ -4118,7 +4118,7 @@
     }
   },
   {
-    "id": "q_drill_casp_base",
+    "id": 1353,
     "stem": "Which of the following countries shares a border with the Caspian Sea?",
     "options": {
       "opt_a": "Uzbekistan",
@@ -4189,7 +4189,7 @@
     }
   },
   {
-    "id": "q_drill_rds_base",
+    "id": 1354,
     "stem": "The Red Sea is a narrow strip of water separating which two regions?",
     "options": {
       "opt_a": "North Africa and the Arabian Peninsula",
@@ -4260,7 +4260,7 @@
     }
   },
   {
-    "id": "q_clim_4",
+    "id": 1355,
     "stem": "Which of the following factors is primarily responsible for the exceptionally high rainfall in Mawsynram and Cherrapunji?",
     "options": {
       "opt_a": "Orographic uplift of the Bay of Bengal branch of the monsoon by the funnel-shaped Khasi Hills",
@@ -4331,7 +4331,7 @@
     }
   },
   {
-    "id": "q_clim_9",
+    "id": 1356,
     "stem": "The winter rainfall along the Coromandel Coast (Tamil Nadu) is primarily caused by:",
     "options": {
       "opt_a": "North-East Monsoon winds picking up moisture from the Bay of Bengal",
@@ -4402,7 +4402,7 @@
     }
   },
   {
-    "id": "q_pin_10",
+    "id": 1357,
     "stem": "The Taiwan Strait, a major geopolitical flashpoint, connects which of the following bodies of water?",
     "options": {
       "opt_a": "East China Sea and South China Sea",
@@ -4473,7 +4473,7 @@
     }
   },
   {
-    "id": "q_pin_14",
+    "id": 1358,
     "stem": "Socotra Island, known for its extreme biodiversity and sometimes referred to as the 'Galápagos of the Indian Ocean', is a territory of which country?",
     "options": {
       "opt_a": "Yemen",
@@ -4544,7 +4544,7 @@
     }
   },
   {
-    "id": "q_map3_v2w3x4",
+    "id": 1359,
     "stem": "[UPSC PYQ] Arrange the following seas of the Mediterranean region from West to East: 1. Ionian Sea, 2. Tyrrhenian Sea, 3. Aegean Sea, 4. Balearic Sea.",
     "options": {
       "opt_a": "4, 2, 1, 3",
@@ -4615,7 +4615,7 @@
     }
   },
   {
-    "id": "q_map3_t6u7v8",
+    "id": 1360,
     "stem": "Arrange the following Middle Eastern water bodies in clockwise order starting from the Persian Gulf: 1. Gulf of Oman, 2. Arabian Sea, 3. Gulf of Aden, 4. Red Sea.",
     "options": {
       "opt_a": "1, 2, 3, 4",
@@ -4686,7 +4686,7 @@
     }
   },
   {
-    "id": "q_map4_m5n6o7p8",
+    "id": 1361,
     "stem": "Arrange the following Middle Eastern water bodies from East to West: 1. Persian Gulf 2. Gulf of Oman 3. Red Sea 4. Gulf of Aden",
     "options": {
       "opt_a": "2, 1, 4, 3",
@@ -4757,7 +4757,7 @@
     }
   },
   {
-    "id": "q_map5_a1b2c3d4",
+    "id": 1362,
     "stem": "[UPSC PYQ] If a ship sails from the Persian Gulf to the Red Sea, which of the following is the correct sequence of straits and water bodies it must traverse?",
     "options": {
       "opt_a": "Strait of Hormuz -> Gulf of Oman -> Arabian Sea -> Gulf of Aden -> Bab el-Mandeb",
@@ -4828,7 +4828,7 @@
     }
   },
   {
-    "id": "q_map5_m3n4o5p6",
+    "id": 1363,
     "stem": "Arrange the following Turkish straits and seas in order from the Aegean Sea to the Black Sea: 1. Bosphorus Strait 2. Dardanelles Strait 3. Sea of Marmara",
     "options": {
       "opt_a": "2 - 3 - 1",
@@ -4899,7 +4899,7 @@
     }
   },
   {
-    "id": "q_map5_y5z6a7b8",
+    "id": 1364,
     "stem": "A naval vessel traveling from the Mediterranean Sea to the Pacific Ocean via the shortest route must pass through the Suez Canal and which other major chokepoint before entering the Indian Ocean?",
     "options": {
       "opt_a": "Bab el-Mandeb",
@@ -4970,7 +4970,7 @@
     }
   },
   {
-    "id": "q_map5_a3b4c5d6",
+    "id": 1365,
     "stem": "Consider a journey through the Panama Canal from the Atlantic Ocean (Caribbean Sea) to the Pacific Ocean. Which is the correct sequence of water bodies/features traversed?",
     "options": {
       "opt_a": "Gatun Locks -> Gatun Lake -> Culebra Cut -> Pedro Miguel Locks -> Miraflores Locks",
@@ -5041,7 +5041,7 @@
     }
   },
   {
-    "id": "q_map6_n0o1p2",
+    "id": 1366,
     "stem": "Consider the following countries:\n1. Turkey\n2. Syria\n3. Lebanon\n4. Israel\nWhich of these countries constitute the historic 'Levant' and all share a coastline along the eastern Mediterranean Sea?",
     "options": {
       "opt_a": "1, 2 and 3 only",
@@ -5112,7 +5112,7 @@
     }
   },
   {
-    "id": "q_map7_v2w3x4",
+    "id": 1367,
     "stem": "[UPSC PYQ] Arrange the following protected areas of the Andaman & Nicobar Islands from South to North:\n1. Mount Harriet National Park\n2. Campbell Bay National Park\n3. Saddle Peak National Park\n4. Galathea Bay National Park\n5. Mahatma Gandhi Marine National Park",
     "options": {
       "opt_a": "4-5-2-1-3",
@@ -5183,7 +5183,7 @@
     }
   },
   {
-    "id": "q_map8_9i0j",
+    "id": 1368,
     "stem": "[UPSC PYQ] Which of the following rivers flows predominantly from South to North before emptying into its respective ocean or sea?",
     "options": {
       "opt_a": "Yenisei",
@@ -5254,7 +5254,7 @@
     }
   },
   {
-    "id": "q_oxford3_1e2f3g",
+    "id": 1369,
     "stem": "Consider the following statements regarding the relationship between ocean currents and deserts:\n1. The presence of cold ocean currents on the western coasts of continents in tropical regions is a primary factor in desert formation.\n2. The Atacama desert is hyper-arid partly due to the desiccation effect of the cold Peru Current.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5325,7 +5325,7 @@
     }
   },
   {
-    "id": "q_pred2_d4e5f6g",
+    "id": 1370,
     "stem": "As Arctic ice predictably melts, the proposed Transpolar Sea Route (TSR) is gaining strategic attention. Unlike the Northern Sea Route (NSR) and the Northwest Passage (NWP), the TSR is unique because it:",
     "options": {
       "opt_a": "Hugs the northern coastline of the Canadian Archipelago.",
@@ -5396,7 +5396,7 @@
     }
   },
   {
-    "id": "q_pred2_g7h8i9j",
+    "id": 1371,
     "stem": "Which of the following endorheic lakes, once the second-largest in the Middle East, has shrunk drastically due to the damming of its rivers and prolonged drought, resulting in toxic salt storms that threaten agriculture and human health in northwestern Iran?",
     "options": {
       "opt_a": "Lake Van",
@@ -5467,7 +5467,7 @@
     }
   },
   {
-    "id": "q_pred2_i9j0k1l",
+    "id": 1372,
     "stem": "The 'Ambo Declaration' (often stemming from the Tarawa Climate Change Conference) is frequently mentioned in the context of climate change negotiations. It was initiated by which of the following Pacific Island nations to address the existential threat of sea-level rise to atoll states?",
     "options": {
       "opt_a": "Fiji",
@@ -5538,7 +5538,7 @@
     }
   },
   {
-    "id": "q_pred2_k1l2m3n",
+    "id": 1373,
     "stem": "The Northern Sea Route (NSR) significantly reduces maritime travel time between Europe and Asia compared to the traditional Suez Canal route. Which Russian port is generally considered the major western terminus and operational hub of the NSR?",
     "options": {
       "opt_a": "Vladivostok",
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "q_pred2_m3n4o5p",
+    "id": 1374,
     "stem": "The Aral Sea crisis is considered one of the worst environmental disasters of the 20th century. Which of the following former islands in the Aral Sea was a highly secretive Soviet biological weapons testing site that became dangerously accessible by land due to the shrinking waters?",
     "options": {
       "opt_a": "Vozrozhdeniya Island",
@@ -5680,7 +5680,7 @@
     }
   },
   {
-    "id": "q_pred2_o5p6q7r",
+    "id": 1375,
     "stem": "Which of the following lowest-lying island nations in the world is composed entirely of coral atolls and reef islands and holds the unique geographic distinction of being located in both the Northern and Southern hemispheres as well as the Eastern and Western hemispheres?",
     "options": {
       "opt_a": "Nauru",
@@ -5751,7 +5751,7 @@
     }
   },
   {
-    "id": "q_pred3_4h5i6j",
+    "id": 1376,
     "stem": "The original demarcation of China's claims in the South China Sea was an 'Eleven-Dash Line'. In 1953, two dashes were removed by Premier Zhou Enlai. Where were these removed dashes located?",
     "options": {
       "opt_a": "Near the Natuna Islands",
@@ -5822,7 +5822,7 @@
     }
   },
   {
-    "id": "q_drill_blks_seq",
+    "id": 1377,
     "stem": "Arrange the following countries bordering the Black Sea in a clockwise direction starting from the North (Russia):",
     "options": {
       "opt_a": "Russia - Georgia - Turkey - Bulgaria - Romania - Ukraine",
@@ -5893,7 +5893,7 @@
     }
   },
   {
-    "id": "q_drill_casp_seq",
+    "id": 1378,
     "stem": "Arrange the capitals of the following Caspian Sea bordering nations from North to South:\n1. Baku (Azerbaijan)\n2. Tehran (Iran)\n3. Astana (Kazakhstan)",
     "options": {
       "opt_a": "3 - 1 - 2",
@@ -5964,7 +5964,7 @@
     }
   },
   {
-    "id": "q_drill_rds_seq",
+    "id": 1379,
     "stem": "Arrange the following choke points from North to South along the Red Sea route:",
     "options": {
       "opt_a": "Suez Canal - Bab el-Mandeb - Gulf of Aden",
@@ -6035,7 +6035,7 @@
     }
   },
   {
-    "id": "q_clim_6",
+    "id": 1380,
     "stem": "Consider the following statements about Western Disturbances:\n1. They are low-pressure systems originating over the Mediterranean Sea.\n2. They are steered into India by the Tropical Easterly Jet stream.\n3. They cause winter rainfall which is highly beneficial for Rabi crops in Punjab and Haryana.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only two",
@@ -6106,7 +6106,7 @@
     }
   },
   {
-    "id": "q_clim_10",
+    "id": 1381,
     "stem": "Consider the following statements about the Aravalli range's impact on Rajasthan's climate:\n1. The Aravallis are aligned parallel to the path of the Arabian Sea monsoon winds.\n2. The eastern side of the Aravallis receives less rainfall compared to the western side.\n3. The Aravallis block the Bay of Bengal branch, contributing to the aridity of the Thar Desert.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only two",
@@ -6177,7 +6177,7 @@
     }
   },
   {
-    "id": "q_map_010",
+    "id": 1382,
     "stem": "How many of the following rivers flow directly into the Arabian Sea without joining the Indus system?\n1. Luni\n2. Sabarmati\n3. Mahi\n4. Tapi\nSelect the correct code:",
     "options": {
       "opt_a": "Only one",
@@ -6248,7 +6248,7 @@
     }
   },
   {
-    "id": "q_map_017",
+    "id": 1383,
     "stem": "[UPSC PYQ] How many of the following Central Asian countries border the Caspian Sea?\n1. Kazakhstan\n2. Uzbekistan\n3. Turkmenistan\n4. Tajikistan",
     "options": {
       "opt_a": "Only one",
@@ -6319,7 +6319,7 @@
     }
   },
   {
-    "id": "q_map6_w9x0y1",
+    "id": 1384,
     "stem": "Consider the following statements regarding the Dead Sea:\n1. It is bordered by Israel, Jordan, and the West Bank.\n2. The Jordan River flows out of the Dead Sea into the Red Sea.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "Only statement 1",
@@ -6390,7 +6390,7 @@
     }
   },
   {
-    "id": "q_oxford2_f6g7h8i9",
+    "id": 1385,
     "stem": "Consider the following rivers and their ultimate drainage locations:\n1. Luni : Gulf of Khambhat\n2. Sabarmati : Gulf of Khambhat\n3. Bharathapuzha : Arabian Sea\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6461,7 +6461,7 @@
     }
   },
   {
-    "id": "q_oxford3_1a2b3c",
+    "id": 1386,
     "stem": "Consider the following pairs of Ocean Currents and the adjacent Deserts they influence:\n1. Benguela Current : Namib Desert\n2. Peru Current : Atacama Desert\n3. Canary Current : Sahara Desert\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6532,7 +6532,7 @@
     }
   },
   {
-    "id": "q_oxford3_7g8h9i",
+    "id": 1387,
     "stem": "Consider the following pairs of Ocean Currents and their Nature:\n1. Agulhas Current : Warm Current\n2. Oyashio Current : Cold Current\n3. Falkland Current : Warm Current\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6603,7 +6603,7 @@
     }
   },
   {
-    "id": "q_oxford3_6p7q8r",
+    "id": 1388,
     "stem": "[UPSC PYQ] Consider the following pairs of Ocean Currents and the Ocean basin they belong to:\n1. Kuroshio Current : North Pacific Ocean\n2. Gulf Stream : North Atlantic Ocean\n3. Leeuwin Current : Indian Ocean\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6674,7 +6674,7 @@
     }
   },
   {
-    "id": "q_oxford4_4d5e6f",
+    "id": 1389,
     "stem": "Consider the following pairs of seas and bordering countries:\n1. Black Sea : Georgia\n2. Red Sea : Eritrea\n3. Caspian Sea : Uzbekistan\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6745,7 +6745,7 @@
     }
   },
   {
-    "id": "q_oxford4_7p8q9r",
+    "id": 1390,
     "stem": "Consider the following pairs of West Asian countries and their bordering bodies of water:\n1. Saudi Arabia : Red Sea and Persian Gulf\n2. Iran : Caspian Sea and Persian Gulf\n3. Yemen : Red Sea and Gulf of Aden\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6816,7 +6816,7 @@
     }
   },
   {
-    "id": "q_oxford4_1b2c3d",
+    "id": 1391,
     "stem": "[UPSC PYQ] Consider the following pairs of straits and the water bodies they connect:\n1. Strait of Hormuz : Persian Gulf and Gulf of Oman\n2. Bab el-Mandeb : Red Sea and Gulf of Aden\n3. Strait of Malacca : Andaman Sea and South China Sea\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6887,7 +6887,7 @@
     }
   },
   {
-    "id": "q_pred2_a1b2c3d",
+    "id": 1392,
     "stem": "Consider the following pairs of Arctic Seas and their bordering countries or geographic regions along the Northern Sea Route (NSR):\n1. Kara Sea : Between Novaya Zemlya and Severnaya Zemlya\n2. Laptev Sea : Between Taimyr Peninsula and New Siberian Islands\n3. Chukchi Sea : Bounded by Wrangel Island and Point Barrow\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -6958,7 +6958,7 @@
     }
   },
   {
-    "id": "q_pred2_e5f6g7h",
+    "id": 1393,
     "stem": "Consider the following shrinking lakes and their respective geographical locations:\n1. Lake Poopó : Altiplano Mountains of Bolivia\n2. Salton Sea : Endorheic rift lake in California, USA\n3. Hamoun Oasis : Shared wetland basin between Iran and Afghanistan\nHow many of the above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7029,7 +7029,7 @@
     }
   },
   {
-    "id": "q_pred2_h8i9j0k",
+    "id": 1394,
     "stem": "Consider the following pairs of critical Arctic straits and the water bodies they connect:\n1. Bering Strait : Chukchi Sea and Bering Sea\n2. Fram Strait : Greenland Sea and Arctic Ocean\n3. Vilkitsky Strait : Kara Sea and Laptev Sea\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7100,7 +7100,7 @@
     }
   },
   {
-    "id": "q_pred3_1a2b3c",
+    "id": 1395,
     "stem": "Consider the following pairs of newly inducted/invited BRICS nations and their bordering water bodies:\n1. Iran - Caspian Sea\n2. Egypt - Red Sea\n3. Ethiopia - Gulf of Aden\n4. UAE - Gulf of Oman\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7171,7 +7171,7 @@
     }
   },
   {
-    "id": "q_pred3_6p7q8r",
+    "id": 1396,
     "stem": "Consider the following pairs regarding NATO's Nordic expansion and maritime boundaries:\n1. Finland - Barents Sea\n2. Sweden - Gulf of Bothnia\n3. Norway - Norwegian Sea\n4. Denmark - Baltic Sea\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7242,7 +7242,7 @@
     }
   },
   {
-    "id": "q_pred3_2v3w4x",
+    "id": 1397,
     "stem": "Consider the following pairs of Baltic Sea littoral states and their NATO membership status as of 2024:\n1. Sweden - Member\n2. Finland - Member\n3. Russia - Non-member\n4. Latvia - Member\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7313,7 +7313,7 @@
     }
   },
   {
-    "id": "q_pred3_1e2f3g",
+    "id": 1398,
     "stem": "Consider the following pairs regarding disputed features in the South China Sea and the nations claiming them:\n1. Paracel Islands - China, Vietnam, Taiwan\n2. Spratly Islands - China, Vietnam, Philippines, Malaysia, Brunei, Taiwan\n3. Scarborough Shoal - China, Philippines, Taiwan\n4. Natuna Islands - China, Indonesia\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7384,7 +7384,7 @@
     }
   },
   {
-    "id": "q_pred3_7k8l9m",
+    "id": 1399,
     "stem": "Consider the following pairs of South China Sea littoral states whose Exclusive Economic Zones (EEZ) overlap with China's 'Nine-Dash Line':\n1. Philippines\n2. Vietnam\n3. Malaysia\n4. Indonesia\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7455,7 +7455,7 @@
     }
   },
   {
-    "id": "q_pred3_3q4r5s",
+    "id": 1400,
     "stem": "Consider the following pairs of straits connecting the South China Sea to other water bodies:\n1. Taiwan Strait - connects to East China Sea\n2. Luzon Strait - connects to Philippine Sea\n3. Malacca Strait - connects to Andaman Sea\n4. Karimata Strait - connects to Java Sea\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7526,7 +7526,7 @@
     }
   },
   {
-    "id": "q_pred4_F8G9H0",
+    "id": 1401,
     "stem": "Consider the following statements regarding the Shompen tribe of the Andaman and Nicobar Islands:\n1. They are a Mongoloid PVTG residing exclusively within the inland forests of the Great Nicobar Biosphere Reserve.\n2. Unlike the Sentinelese, they are primarily horticulturists and hunter-gatherers who use iron tools acquired through historical barter.\n3. They predominantly inhabit the coastal regions and rely entirely on marine fishing for subsistence.\n\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -7597,7 +7597,7 @@
     }
   },
   {
-    "id": "q_pred5_7e8f9g0h",
+    "id": 1402,
     "stem": "Consider the following pairs of Indian Nuclear Power Plants and their adjacent water bodies used for cooling:\n1. Kudankulam : Gulf of Mannar\n2. Tarapur : Arabian Sea\n3. Narora : Ganga River\n4. Kakrapar : Tapi River\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7668,7 +7668,7 @@
     }
   },
   {
-    "id": "q_pred5_5m6n7o8p",
+    "id": 1403,
     "stem": "Consider the following pairs of Ocean Currents and their intersection with coastal geographic features:\n1. Agulhas Current : Flows south along the eastern coast of South Africa, warming the adjacent coastal areas.\n2. Benguela Current : Flows north along the western coast of Africa, contributing to the formation of the Namib Desert.\n3. Humboldt Current : Flows north along the western coast of South America, associated with the El Niño phenomenon.\n4. Kuroshio Current : Flows south along the eastern coast of Japan, bringing cold Arctic waters.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7739,7 +7739,7 @@
     }
   },
   {
-    "id": "q_drill_blks_trap",
+    "id": 1404,
     "stem": "Consider the following pairs of countries and seas:\n1. Turkey - Black Sea\n2. Ukraine - Black Sea\n3. Moldova - Black Sea\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7810,7 +7810,7 @@
     }
   },
   {
-    "id": "q_drill_casp_trap",
+    "id": 1405,
     "stem": "Consider the following countries:\n1. Kazakhstan\n2. Iran\n3. Iraq\n4. Azerbaijan\nHow many of these border the Caspian Sea?",
     "options": {
       "opt_a": "Only one",
@@ -7881,7 +7881,7 @@
     }
   },
   {
-    "id": "q_drill_rds_trap",
+    "id": 1406,
     "stem": "How many of the following countries border the Red Sea?\n1. Egypt\n2. Sudan\n3. Ethiopia\n4. Yemen",
     "options": {
       "opt_a": "Only one",
@@ -7952,7 +7952,7 @@
     }
   },
   {
-    "id": "q_pin_03",
+    "id": 1407,
     "stem": "Consider the following pairs of geographic regions and their bordering seas:\n1. Anatolia : Bordered by the Black Sea to the north and the Mediterranean Sea to the south\n2. Crimean Peninsula : Bordered by the Sea of Azov and the Black Sea\n3. Natuna Islands : Located in the South China Sea\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8023,7 +8023,7 @@
     }
   },
   {
-    "id": "q_pin_09",
+    "id": 1408,
     "stem": "Consider the following pairs regarding regions in the news:\n1. Xinjiang : Bordered by countries including India, Pakistan, and Russia\n2. Rakhine : Coastline along the Andaman Sea\n3. Marawi : Located on the island of Mindanao, Philippines\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8094,7 +8094,7 @@
     }
   },
   {
-    "id": "q_pin_11",
+    "id": 1409,
     "stem": "Consider the following pairs of geographic features and their locations:\n1. Golan Heights : Captured by Israel from Syria in the Six-Day War\n2. Socotra Island : Located in the Arabian Sea, belonging to Oman\n3. Natuna Islands : Located in the South China Sea, belonging to Indonesia\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8165,7 +8165,7 @@
     }
   },
   {
-    "id": "q_pin_17",
+    "id": 1410,
     "stem": "Consider the following pairs regarding the geography of Ukraine:\n1. Crimea : Peninsula bounded by the Black Sea and the Sea of Azov\n2. Donbas : Eastern industrial region bordering Russia\n3. Zaporizhzhia : Located on the banks of the Dnieper River\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8236,7 +8236,7 @@
     }
   },
   {
-    "id": "q_pin_19",
+    "id": 1411,
     "stem": "Consider the following pairs of conflict zones and their geographic locations:\n1. Cabo Delgado : Northernmost province of Mozambique, bordering Tanzania\n2. Rakhine State : Western coast of Myanmar, bordering the Bay of Bengal\n3. Darfur : Easternmost region of Sudan, bordering the Red Sea\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -8307,7 +8307,7 @@
     }
   },
   {
-    "id": "q_curr_06",
+    "id": 1412,
     "stem": "Recent attacks on commercial shipping in the Red Sea have severely disrupted global trade routes. The Bab-el-Mandeb strait, a crucial chokepoint in this region, connects the Red Sea to the:",
     "options": {
       "opt_a": "Persian Gulf",
@@ -8378,7 +8378,7 @@
     }
   },
   {
-    "id": "q_curr_07",
+    "id": 1413,
     "stem": "The ongoing conflict involving Ukraine and Russia has drawn attention to the geopolitics of the Black Sea. Which of the following rivers does NOT drain into the Black Sea?",
     "options": {
       "opt_a": "Danube",
@@ -8449,7 +8449,7 @@
     }
   },
   {
-    "id": "q_curr_14",
+    "id": 1414,
     "stem": "Houthi attacks in the Red Sea have forced shipping companies to reroute vessels. The primary alternative route avoiding the Suez Canal requires circumnavigating Africa via the:",
     "options": {
       "opt_a": "Cape of Good Hope",
@@ -8520,7 +8520,7 @@
     }
   },
   {
-    "id": "q_curr_15",
+    "id": 1415,
     "stem": "The Black Sea is connected to the Mediterranean Sea through a series of straits. Which strait connects the Black Sea directly to the Sea of Marmara?",
     "options": {
       "opt_a": "Dardanelles",
@@ -8591,7 +8591,7 @@
     }
   },
   {
-    "id": "q_current1_3d1e4f6a",
+    "id": 1416,
     "stem": "Recent studies (2023-2024) have warned of a potential collapse of the Atlantic Meridional Overturning Circulation (AMOC). If the AMOC were to collapse, which of the following would most likely occur?\n1. Significant cooling of Western Europe.\n2. Southward shift of the Intertropical Convergence Zone (ITCZ).\n3. Decrease in sea level along the east coast of North America.",
     "options": {
       "opt_a": "1 and 2 only",
@@ -8662,7 +8662,7 @@
     }
   },
   {
-    "id": "q_current1_8b3d6f0e",
+    "id": 1417,
     "stem": "Due to Houthi attacks in the Red Sea (2023-2024), global shipping has been heavily rerouted around the Cape of Good Hope. A vessel traveling directly from the Arabian Sea into the Red Sea must pass through which of the following straits?",
     "options": {
       "opt_a": "Bab-el-Mandeb",
@@ -8733,7 +8733,7 @@
     }
   },
   {
-    "id": "q_current1_d4c7b2a5",
+    "id": 1418,
     "stem": "Katchatheevu island frequently appears in the news regarding fishing rights and India-Sri Lanka maritime boundary agreements. In which of the following water bodies is Katchatheevu island located?",
     "options": {
       "opt_a": "Palk Strait",
@@ -8804,7 +8804,7 @@
     }
   },
   {
-    "id": "q_current1_b6c2d1e8",
+    "id": 1419,
     "stem": "The International Seabed Authority (ISA) is under pressure to finalize regulations for deep-sea mining. The Clarion-Clipperton Zone (CCZ), a massive abyssal plain holding vast reserves of polymetallic nodules, is located in the:",
     "options": {
       "opt_a": "Pacific Ocean",
@@ -8875,7 +8875,7 @@
     }
   },
   {
-    "id": "q_current1_4d8e2a1f",
+    "id": 1420,
     "stem": "India inaugurated a new airstrip and a jetty on Agalega Island in early 2024 to enhance maritime domain awareness in the Indian Ocean. Agalega Island is a dependency of which of the following nations?",
     "options": {
       "opt_a": "Mauritius",
@@ -8946,7 +8946,7 @@
     }
   },
   {
-    "id": "q_current1_c3f6a9b4",
+    "id": 1421,
     "stem": "The Zangezur Corridor is frequently in international news due to geopolitical tensions in the South Caucasus. If fully operationalized, this transport corridor aims to directly connect:",
     "options": {
       "opt_a": "Azerbaijan with its exclave of Nakhchivan through Armenia.",
@@ -9017,7 +9017,7 @@
     }
   },
   {
-    "id": "q_current1_6d9a2f3e",
+    "id": 1422,
     "stem": "In early 2024, the Great Barrier Reef experienced its fifth mass bleaching event in eight years due to marine heatwaves. Coral bleaching fundamentally occurs when corals expel the symbiotic algae living in their tissues. What is the scientific name of these vital algae?",
     "options": {
       "opt_a": "Zooxanthellae",
@@ -9088,7 +9088,7 @@
     }
   },
   {
-    "id": "q_current2_9i0j1k2l",
+    "id": 1423,
     "stem": "The proposed India-Middle East-Europe Economic Corridor (IMEC) aims to establish a rail and shipping network. Which of the following ports/straits forms the geographical alignment of this corridor from East to West?",
     "options": {
       "opt_a": "JNPT - Strait of Hormuz - Port of Jebel Ali - Al Ghuwaifat - Port of Haifa - Mediterranean Sea",
@@ -9159,7 +9159,7 @@
     }
   },
   {
-    "id": "q_current2_1u2v3w4x",
+    "id": 1424,
     "stem": "In the context of the recent Panama Canal drought crisis impacting global shipping, consider the following statements: 1. The Panama Canal relies entirely on a system of freshwater lakes and locks to raise and lower ships. 2. Gatun Lake, which supplies the necessary freshwater for the locks, has been severely affected by the El Nino phenomenon causing rainfall deficits. 3. Unlike the Suez Canal, which is a sea-level canal, the Panama Canal requires massive amounts of freshwater for every ship transit. Which of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -9230,7 +9230,7 @@
     }
   },
   {
-    "id": "q_current2_1o2p3q4r",
+    "id": 1425,
     "stem": "The destruction of the Kakhovka Dam had catastrophic geographic and ecological consequences. On which river was this dam located, and into which body of water does this river ultimately drain?",
     "options": {
       "opt_a": "Don River ; Sea of Azov",
@@ -9301,7 +9301,7 @@
     }
   },
   {
-    "id": "q_current2_9w0x1y2z",
+    "id": 1426,
     "stem": "The term 'Atmospheric Rivers', frequently cited in relation to severe flooding in California (like the 'Pineapple Express'), refers to:",
     "options": {
       "opt_a": "Fast-flowing, narrow air currents found in the tropopause that steer hurricanes.",
@@ -9372,7 +9372,7 @@
     }
   },
   {
-    "id": "q_current2_5m6n7o8p",
+    "id": 1427,
     "stem": "Which of the following geographical features correctly describes the 'Zangezur Corridor', a frequent point of conflict between Armenia and Azerbaijan?",
     "options": {
       "opt_a": "A strategic mountain pass connecting the Black Sea to the Caspian Sea through Georgia.",
@@ -9443,7 +9443,7 @@
     }
   },
   {
-    "id": "q_current2_7y8z9a0b",
+    "id": 1428,
     "stem": "The concept of 'Sponge Cities', rapidly being adopted in urban geographical planning (e.g., in China and recently piloted in India), aims primarily to:",
     "options": {
       "opt_a": "Design buildings with porous materials to naturally cool urban heat islands.",
@@ -9514,7 +9514,7 @@
     }
   },
   {
-    "id": "q_current3_s9t0u1",
+    "id": 1429,
     "stem": "Recent studies suggest a potential collapse of the Atlantic Meridional Overturning Circulation (AMOC). How would a shutdown of AMOC most likely impact the global climate system?",
     "options": {
       "opt_a": "Cooling of the Northern Hemisphere, shifting of the ITCZ southward, and disruption of the Indian Monsoon.",
@@ -9585,7 +9585,7 @@
     }
   },
   {
-    "id": "q_current3_y5z6a7",
+    "id": 1430,
     "stem": "Recent data shows an increasing trend in the intensity and duration of cyclones in the Arabian Sea (e.g., Biparjoy). This is primarily attributed to:",
     "options": {
       "opt_a": "A rapid increase in the Ocean Heat Content (OHC) and sea surface temperatures of the Arabian Sea relative to the Bay of Bengal.",
@@ -9656,7 +9656,7 @@
     }
   },
   {
-    "id": "q_current4_q7r8s9t0",
+    "id": 1431,
     "stem": "With reference to the existential threat of sea-level rise to island nations, the government of which country recently embedded a 'climate change' clause in its Constitution to ensure its statehood remains even if its territory is submerged?",
     "options": {
       "opt_a": "Maldives",
@@ -9727,7 +9727,7 @@
     }
   },
   {
-    "id": "q_current4_i1j2k3l4",
+    "id": 1432,
     "stem": "Cyclone Biparjoy, which battered Gujarat in June 2023, was noted for its unusually long lifespan and trajectory. Which environmental factor was primarily cited by meteorologists for its prolonged intensification in the Arabian Sea?",
     "options": {
       "opt_a": "A strong negative Indian Ocean Dipole.",
@@ -9798,7 +9798,7 @@
     }
   },
   {
-    "id": "q_current4_u3v4w5x6",
+    "id": 1433,
     "stem": "To combat sea-level rise, the Maldives has heavily invested in building artificial islands, pumping sand from the seabed to raise land levels. What is the name of the most prominent artificial island created next to the capital, Malé?",
     "options": {
       "opt_a": "Addu City",
@@ -9869,7 +9869,7 @@
     }
   },
   {
-    "id": "q_inter_01",
+    "id": 1434,
     "stem": "Consider the following pairs linking physical phenomena to economic geography in India:\n1. Positive Indian Ocean Dipole : Increased Kharif crop yield in Central India\n2. Western Disturbances : Enhanced Rabi wheat production in Punjab\n3. Upwelling along Malabar Coast : High pelagic fish catch (Sardines)\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -9940,7 +9940,7 @@
     }
   },
   {
-    "id": "q_inter_04",
+    "id": 1435,
     "stem": "Assertion (A): The eastern coast of India is more vulnerable to extensive coastal flooding from tropical cyclones than the western coast.\nReason (R): The eastern coastal plain is a broader emergent coast with a gently sloping continental shelf, allowing for higher storm surges.",
     "options": {
       "opt_a": "Both A and R are correct and R is the correct explanation for A.",
@@ -10011,7 +10011,7 @@
     }
   },
   {
-    "id": "q_inter_11",
+    "id": 1436,
     "stem": "How many of the following interlinkages between oceanography and the Indian economy are correctly paired?\n1. Extensive continental shelf of Gujarat : Major salt production and petroleum extraction.\n2. Deep oceanic trenches off Andaman : Rich demersal fishery grounds.\n3. Monsoonal reversal of currents : Seasonal maritime trade routes in ancient India.\nSelect the correct option:",
     "options": {
       "opt_a": "Only one pair",
@@ -10082,7 +10082,7 @@
     }
   },
   {
-    "id": "q_inter_12",
+    "id": 1437,
     "stem": "Assertion (A): Groundwater exploitation in the Punjab-Haryana plain has led to increased soil salinity and alkalinity.\nReason (R): Over-irrigation in arid/semi-arid regions raises the water table, causing capillary action to bring dissolved salts to the surface.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -10153,7 +10153,7 @@
     }
   },
   {
-    "id": "q_interlink1_a1b2c3d4",
+    "id": 1438,
     "stem": "Consider the following statements regarding the interlinkage between ocean currents and global economic activities:\n1. The convergence of the warm Kuroshio Current and the cold Oyashio Current creates one of the world's richest fishing grounds, driving Japan's marine economy.\n2. The cold Benguela Current along the southwestern coast of Africa is primarily responsible for the formation of the Namib Desert, strictly limiting large-scale agricultural economies in the region.\n3. Upwelling associated with the Peru Current brings nutrient-rich waters to the surface, directly supporting the massive anchovy fishery industry of South America.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10224,7 +10224,7 @@
     }
   },
   {
-    "id": "q_interlink1_c9d0e1f2",
+    "id": 1439,
     "stem": "Consider the following statements regarding the geopolitical and economic implications of Arctic sea-ice melting:\n1. The opening of the Northern Sea Route (NSR) significantly reduces maritime transit times between East Asia and Europe compared to the Suez Canal route.\n2. Thawing of Arctic permafrost makes extraction of previously inaccessible hydrocarbons easier and environmentally safe.\n3. It expands the Exclusive Economic Zones (EEZ) of Arctic littoral states, leading to overlapping territorial claims and militarization.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10295,7 +10295,7 @@
     }
   },
   {
-    "id": "q_interlink1_k7l8m9n0",
+    "id": 1440,
     "stem": "Consider the following pairs linking atmospheric circulation to agricultural economies:\n1. Western Disturbances : Crucial for the Rabi wheat crop in North-Western India.\n2. El Nino : Associated with depressed monsoon rainfall and increased rural distress in Central India.\n3. Somali Jet : Its weakening leads to severe drought conditions in the Horn of Africa.\n4. Madden-Julian Oscillation (MJO) : When in its active phase over the Indian Ocean, it suppresses the Indian Summer Monsoon.\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -10366,7 +10366,7 @@
     }
   },
   {
-    "id": "q_interlink1_w9x0y1z2",
+    "id": 1441,
     "stem": "Assertion (A): The development of wind energy farms is highly concentrated along coastal regions and offshore areas globally.\nReason (R): Coastal areas experience strong and consistent land and sea breezes due to differential heating of land and water, and offshore locations offer lower surface friction compared to terrestrial landscapes.\n\nSelect the correct code:",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -10437,7 +10437,7 @@
     }
   },
   {
-    "id": "q_interlink1_i1j2k3l4",
+    "id": 1442,
     "stem": "Consider the following statements regarding the impact of coral reef degradation on coastal economies:\n1. The bleaching of coral reefs directly diminishes the physical barrier against cyclonic storm surges, increasing insurance premiums and reconstruction costs for coastal infrastructure.\n2. Loss of coral biodiversity triggers a trophic cascade that collapses local artisanal fisheries, forcing a shift towards deep-sea commercial trawling.\n3. Coral reef degradation increases the carbon sequestration capacity of the oceans due to higher algal blooms.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10508,7 +10508,7 @@
     }
   },
   {
-    "id": "q_interlink2_8a9f2",
+    "id": 1443,
     "stem": "Assertion (A): The widespread adoption of canal irrigation in the arid regions of Rajasthan (e.g., Indira Gandhi Canal command area) has led to an increase in soil salinity, threatening long-term agricultural productivity.\nReason (R): Excessive irrigation without adequate drainage in arid regions raises the water table, bringing dissolved salts to the surface through capillary action.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -10579,7 +10579,7 @@
     }
   },
   {
-    "id": "q_interlink2_f1b3c",
+    "id": 1444,
     "stem": "Consider the following statements regarding the interlinking of oceanic carbon sinks and human economies:\n1. Increased oceanic absorption of anthropogenic CO2 leads to ocean acidification, which impairs the calcification processes of oysters and corals.\n2. The decline of coral reefs directly threatens the GDP of Small Island Developing States (SIDS) by diminishing coastal protection and ecotourism.\n3. Ocean acidification accelerates the growth rate of most commercially harvested finfish, boosting the global fishing industry.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10650,7 +10650,7 @@
     }
   },
   {
-    "id": "q_interlink2_d4f7b",
+    "id": 1445,
     "stem": "Assertion (A): The rapid melting of Arctic sea ice is expected to significantly reduce global maritime shipping costs and travel times between Europe and East Asia.\nReason (R): The loss of white ice exposes darker ocean water, creating a negative feedback loop that cools the Arctic region and stabilizes the new shipping lanes.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -10721,7 +10721,7 @@
     }
   },
   {
-    "id": "q_interlink2_7e2c9",
+    "id": 1446,
     "stem": "Assertion (A): The phenomenon of El Niño Modoki has a more severe negative impact on Australian wheat yields compared to a traditional El Niño.\nReason (R): In El Niño Modoki, the maximum anomalous sea surface warming occurs in the Central Pacific rather than the Eastern Pacific, altering teleconnection patterns.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -10792,7 +10792,7 @@
     }
   },
   {
-    "id": "q_interlink2_e9b6f",
+    "id": 1447,
     "stem": "Consider the following statements regarding the interlinking of cryosphere dynamics and global trade:\n1. The melting of permafrost in Siberia creates stable, frozen ground ideal for expanding the Trans-Siberian railway network.\n2. The shrinkage of Andean glaciers threatens the long-term viability of high-altitude mining operations in Chile and Peru by reducing essential water supplies.\n3. Increased calving of icebergs from the Greenland ice sheet poses a rising threat to transatlantic fiber-optic submarine cables.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -10863,7 +10863,7 @@
     }
   },
   {
-    "id": "q_interlink3_a1b2c3",
+    "id": 1448,
     "stem": "Assertion (A): The mixing zones of warm and cold ocean currents are not only the world's best fishing grounds but also prone to dense fog, impacting maritime transport.\nReason (R): The meeting of warm and cold currents creates ideal conditions for plankton growth, which supports fish populations, while simultaneously causing condensation of moisture in the warm air mass, forming fog.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -10934,7 +10934,7 @@
     }
   },
   {
-    "id": "q_interlink3_y5z6a7",
+    "id": 1449,
     "stem": "Assertion (A): The continental shelves are the most economically significant parts of the ocean floor, hosting major petroleum reserves and fishing grounds.\nReason (R): Continental shelves are shallow, allowing sunlight penetration for primary productivity, and they accumulate thick layers of organic-rich terrestrial sediments over geological time.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -11005,7 +11005,7 @@
     }
   },
   {
-    "id": "q_interlink3_e1f2g3",
+    "id": 1450,
     "stem": "Assertion (A): The melting of Arctic sea ice is leading to a geopolitical shift by opening up new maritime trade routes and access to untapped natural resources.\nReason (R): The reduction in albedo due to ice melt accelerates Arctic amplification, making the region more accessible for navigation and offshore drilling throughout the year.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -11076,7 +11076,7 @@
     }
   },
   {
-    "id": "q_interlink3_n0o1p2",
+    "id": 1451,
     "stem": "Consider the following pairs of ocean phenomena and their global impacts:\n1. El Niño : Droughts in Australia and heavy rainfall in the western coast of South America\n2. La Niña : Enhanced monsoon rainfall in the Indian subcontinent\n3. Indian Ocean Dipole (Positive) : Increased rainfall in East Africa and drier conditions in Indonesia\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -11147,7 +11147,7 @@
     }
   },
   {
-    "id": "q_interlink4_6g7h8i",
+    "id": 1452,
     "stem": "How many of the following pairs represent a correct interlinkage between a cryospheric process and its direct socioeconomic consequence?\n1. Permafrost thawing in Siberia : Damage to pipeline infrastructure\n2. Retreat of Himalayan glaciers : Immediate reduction in run-of-the-river hydropower potential\n3. Arctic sea ice minimum reduction : Opening of the Northern Sea Route\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "Only one pair",
@@ -11218,7 +11218,7 @@
     }
   },
   {
-    "id": "q_interlink4_9j0k1l",
+    "id": 1453,
     "stem": "Consider the following statements linking atmospheric circulation to agricultural patterns in India:\n1. The Sub-Tropical High-Pressure Belt shifts southwards during the Northern Hemisphere winter, allowing Westerly disturbances to enter Northwestern India.\n2. The moisture brought by these disturbances from the Mediterranean Sea is detrimental to the Kharif crops in Punjab and Haryana.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -11289,7 +11289,7 @@
     }
   },
   {
-    "id": "q_interlink4_2m3n4o",
+    "id": 1454,
     "stem": "Assertion (A): Ocean upwelling zones along continental margins are often the sites of the world's most productive fisheries.\nReason (R): Upwelling brings cold, nutrient-rich deep ocean water to the surface, triggering massive phytoplankton blooms that form the base of the marine food web.\nIn the context of the above, which of the following is correct?",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -11360,7 +11360,7 @@
     }
   },
   {
-    "id": "q_interlink4_0e1f2g",
+    "id": 1455,
     "stem": "Assertion (A): Deep-sea mining for polymetallic nodules in the Clarion-Clipperton Zone is viewed as essential for the green energy transition, yet it poses severe risks to blue economy sustainability.\nReason (R): The extraction process disturbs benthic ecosystems and creates large sediment plumes that can smother coral reefs and disrupt pelagic fisheries.\nIn the context of the above, which of the following is correct?",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -11431,7 +11431,7 @@
     }
   },
   {
-    "id": "q_interlink4_6k7l8m",
+    "id": 1456,
     "stem": "Consider the following statements regarding the interlinkage between the Indian Ocean Dipole (IOD) and El Nino Southern Oscillation (ENSO):\n1. A positive IOD always neutralizes the drought-causing effects of a strong El Nino over the Indian subcontinent.\n2. The combination of a strong El Nino and a positive IOD typically results in devastating bushfires in southeastern Australia.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -11502,7 +11502,7 @@
     }
   },
   {
-    "id": "q_interlink4_5t6u7v",
+    "id": 1457,
     "stem": "Consider the following statements regarding the physical-human geography feedback loops in the Arctic:\n1. An increase in boreal forest fires releases black carbon that settles on Arctic ice, reducing its albedo and accelerating localized melting.\n2. The melting of Arctic sea ice increases the albedo of the region, creating a negative feedback loop that slows down global warming.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -11573,7 +11573,7 @@
     }
   },
   {
-    "id": "q_interlink4_8w9x0y",
+    "id": 1458,
     "stem": "How many of the following are direct economic or human-geography consequences of coral bleaching events?\n1. Increased coastal vulnerability to storm surges.\n2. Collapse of local artisanal pelagic fishing industries.\n3. A sharp decline in the GDP of Small Island Developing States (SIDS) reliant on scuba-tourism.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "Only one",
@@ -11644,7 +11644,7 @@
     }
   },
   {
-    "id": "q_interlink9_w9x0y1",
+    "id": 1459,
     "stem": "Why are regions of ocean coastal upwelling, such as the Benguela system, both a boon to local economies and a potential hazard to maritime shipping?",
     "options": {
       "opt_a": "They create massive whirlpools that trap fish but can sink small freighters.",
@@ -11715,7 +11715,7 @@
     }
   },
   {
-    "id": "q_curr5_d4e5f6",
+    "id": 1460,
     "stem": "The 'Cold Blob' or 'North Atlantic warming hole' is frequently cited in the context of AMOC slowdown. What is its primary cause?",
     "options": {
       "opt_a": "Reduced heat transport into the subpolar North Atlantic due to a weakened AMOC.",
@@ -11786,7 +11786,7 @@
     }
   },
   {
-    "id": "q_curr5_j0k1l2",
+    "id": 1461,
     "stem": "With respect to Arctic Sea Ice, the term 'Atlantification' refers to:",
     "options": {
       "opt_a": "The increasing intrusion of warmer and saltier Atlantic water into the Arctic Ocean, disrupting stratification and preventing ice formation.",
@@ -11857,7 +11857,7 @@
     }
   },
   {
-    "id": "q_curr5_m3n4o5",
+    "id": 1462,
     "stem": "Consider the following statements regarding the impact of an AMOC shutdown:\n1. It would cause a significant southward shift of the Intertropical Convergence Zone (ITCZ).\n2. It would lead to an abrupt cooling of the Northern Hemisphere, particularly Europe.\n3. It would decrease sea level along the eastern coast of North America.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -11928,7 +11928,7 @@
     }
   },
   {
-    "id": "q_curr5_p6q7r8",
+    "id": 1463,
     "stem": "The 'Blue Ocean Event' is a term increasingly used in climate discourse. It specifically denotes:",
     "options": {
       "opt_a": "The point when the Arctic Ocean becomes practically ice-free during the summer minimum (usually dropping below 1 million sq km).",
@@ -11999,7 +11999,7 @@
     }
   },
   {
-    "id": "q_curr5_y5z6a7",
+    "id": 1464,
     "stem": "Consider the following areas:\n1. Barents Sea\n2. Chukchi Sea\n3. Weddell Sea\nWhich of the above are experiencing rapid sea ice loss specifically linked to 'Arctic Amplification'?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -12070,7 +12070,7 @@
     }
   },
   {
-    "id": "q_curr5_b8c9d0",
+    "id": 1465,
     "stem": "A significant consequence of the transition from multi-year ice to first-year ice in the Arctic Ocean is:",
     "options": {
       "opt_a": "Increased vulnerability to rapid summer melting due to the ice being thinner and more fragile.",
@@ -12141,7 +12141,7 @@
     }
   },
   {
-    "id": "q_curr5_e1f2g3",
+    "id": 1466,
     "stem": "During the exceptional Atlantic marine heatwaves of 2023, the formation of hurricanes was:",
     "options": {
       "opt_a": "Enhanced due to record-high sea surface temperatures, despite the presence of a strong El Niño which typically suppresses Atlantic hurricanes.",
@@ -12212,7 +12212,7 @@
     }
   },
   {
-    "id": "q_curr5_h4i5j6",
+    "id": 1467,
     "stem": "Which mechanism best describes the 'ice-albedo feedback' accelerating Arctic melting?",
     "options": {
       "opt_a": "Melting ice exposes darker ocean water, which absorbs more solar radiation, warming the water and causing further ice melt.",
@@ -12283,7 +12283,7 @@
     }
   },
   {
-    "id": "q_curr5_k7l8m9",
+    "id": 1468,
     "stem": "Which of the following ocean currents is the primary northward surface branch of the AMOC in the North Atlantic?",
     "options": {
       "opt_a": "The Gulf Stream",
@@ -12354,7 +12354,7 @@
     }
   },
   {
-    "id": "q_curr5_n0o1p2",
+    "id": 1469,
     "stem": "In recent AMOC modeling (2024), what role does the 'Agulhas leakage' play in the Atlantic overturning circulation?",
     "options": {
       "opt_a": "It provides warm, salty water from the Indian Ocean into the South Atlantic, potentially buffering the AMOC against slowdown.",
@@ -12425,7 +12425,7 @@
     }
   },
   {
-    "id": "q_curr5_q3r4s5",
+    "id": 1470,
     "stem": "Marine heatwaves in the Atlantic are increasingly categorized using a framework ranging from Category I to Category IV. What defines a Category IV (Extreme) marine heatwave?",
     "options": {
       "opt_a": "Temperature anomalies exceeding four times the difference between the climatological mean and the 90th percentile threshold.",
@@ -12496,7 +12496,7 @@
     }
   },
   {
-    "id": "q_curr5_t6u7v8",
+    "id": 1471,
     "stem": "Which unique atmospheric setup heavily contributed to the record-breaking 2023 Atlantic marine heatwaves, particularly in the eastern Atlantic?",
     "options": {
       "opt_a": "A drastically weakened North Atlantic Oscillation (NAO) leading to sluggish trade winds.",
@@ -12567,7 +12567,7 @@
     }
   },
   {
-    "id": "q_curr5_w9x0y1",
+    "id": 1472,
     "stem": "As Arctic Sea Ice continues to decline, which crucial ecological phenomenon associated with the ice edge is most directly threatened?",
     "options": {
       "opt_a": "The spring phytoplankton bloom, which relies on meltwater stratification and ice-algae release.",
@@ -12638,7 +12638,7 @@
     }
   },
   {
-    "id": "q_curr5_z2a3b4",
+    "id": 1473,
     "stem": "The concept of 'hysteresis' in the context of the AMOC refers to:",
     "options": {
       "opt_a": "The fact that even if global temperatures are lowered, the AMOC may not recover to its original state easily once a tipping point is crossed.",
@@ -12709,7 +12709,7 @@
     }
   },
   {
-    "id": "q_curr6_8a1f4b",
+    "id": 1474,
     "stem": "With reference to the Clarion-Clipperton Zone (CCZ), frequently mentioned in the context of deep-sea mining, consider the following statements:\n1. It is located in the Indian Ocean, characterized by abundant polymetallic nodules.\n2. The International Seabed Authority (ISA) has designated specific Areas of Particular Environmental Interest (APEIs) within the CCZ where mining is strictly prohibited.\n3. Nauru invoked the 'two-year rule' under UNCLOS to accelerate the finalization of exploitation regulations in this region.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -12780,7 +12780,7 @@
     }
   },
   {
-    "id": "q_curr6_3c9e2d",
+    "id": 1475,
     "stem": "Under the UNCLOS framework, what is the primary function of 'The Enterprise'?",
     "options": {
       "opt_a": "It is the dispute settlement tribunal of the International Seabed Authority.",
@@ -12851,7 +12851,7 @@
     }
   },
   {
-    "id": "q_curr6_7f2b1a",
+    "id": 1476,
     "stem": "Polymetallic nodules, the primary target of deep-sea mining in the abyssal plains, predominantly contain economically viable concentrations of which of the following metals?\n1. Nickel\n2. Cobalt\n3. Copper\n4. Manganese\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1, 2 and 3 only",
@@ -12922,7 +12922,7 @@
     }
   },
   {
-    "id": "q_curr6_5d8a9c",
+    "id": 1477,
     "stem": "Consider the following statements regarding the regulatory framework for the global deep seabed (the 'Area'):\n1. It is defined as the seabed and ocean floor beyond the limits of national jurisdiction.\n2. The resources of the Area are declared as the 'common heritage of mankind' under the 1982 UNCLOS.\n3. State parties can independently grant exploration licenses for the Area without the approval of the International Seabed Authority.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -12993,7 +12993,7 @@
     }
   },
   {
-    "id": "q_curr6_9a1c5d",
+    "id": 1478,
     "stem": "Which body within the International Seabed Authority (ISA) is primarily responsible for reviewing applications for plans of work for exploration and exploitation and making recommendations to the Council?",
     "options": {
       "opt_a": "The Assembly",
@@ -13064,7 +13064,7 @@
     }
   },
   {
-    "id": "q_curr6_6e2f4a",
+    "id": 1479,
     "stem": "The 'two-year rule' or '15-bis rule', triggered by Nauru in 2021 regarding deep-sea mining, is a provision found in:",
     "options": {
       "opt_a": "The 1982 United Nations Convention on the Law of the Sea (UNCLOS) main text.",
@@ -13135,7 +13135,7 @@
     }
   },
   {
-    "id": "q_curr6_8c5d1e",
+    "id": 1480,
     "stem": "Which of the following is/are the potential ecological impacts of deep-sea mining on the benthic environment?\n1. Smothering of filter-feeding organisms by sediment plumes.\n2. Noise and light pollution disrupting deep-sea species.\n3. Removal of the substrate (nodules) that serves as habitat for sessile organisms.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 3 only",
@@ -13206,7 +13206,7 @@
     }
   },
   {
-    "id": "q_curr6_7d2e4c",
+    "id": 1481,
     "stem": "The BBNJ (Biodiversity Beyond National Jurisdiction) Treaty, recently adopted, interacts with the International Seabed Authority (ISA) in which of the following ways?",
     "options": {
       "opt_a": "The BBNJ completely supersedes the ISA's mandate, giving the UN General Assembly direct control over seabed mining.",
@@ -13277,7 +13277,7 @@
     }
   },
   {
-    "id": "q_curr6_5f1a8b",
+    "id": 1482,
     "stem": "According to UNCLOS, what is the liability of a 'Sponsoring State' if a private company it sponsors for deep-sea mining causes severe environmental damage?",
     "options": {
       "opt_a": "The Sponsoring State is held strictly and absolutely liable for all damages, regardless of its own actions.",
@@ -13348,7 +13348,7 @@
     }
   },
   {
-    "id": "q_curr6_2e9c1d",
+    "id": 1483,
     "stem": "In the context of International Seabed Authority (ISA) decision-making for approving a plan of work for exploitation, how does the Council voting system work?",
     "options": {
       "opt_a": "A simple majority of all ISA members in the Assembly is sufficient to approve mining.",
@@ -13419,7 +13419,7 @@
     }
   },
   {
-    "id": "q_curr6_9b4f3a",
+    "id": 1484,
     "stem": "Which of the following nations was the first to successfully complete a deep-sea mining trial of a nodule collector vehicle in the Clarion-Clipperton Zone in 2022, scaling up the debate on exploitation regulations?",
     "options": {
       "opt_a": "China",
@@ -13490,7 +13490,7 @@
     }
   },
   {
-    "id": "q_curr6_4a7d2e",
+    "id": 1485,
     "stem": "Consider the following statements regarding the 'Payment Mechanism' being developed by the ISA for deep-sea mining:\n1. It aims to operationalize the equitable sharing of financial benefits derived from the 'Area'.\n2. The system must accommodate both the profitability of contractors and the developmental needs of developing states.\n3. Royalties collected will be distributed equally among all UN member states.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -13561,7 +13561,7 @@
     }
   },
   {
-    "id": "q_curr6_1f8c5b",
+    "id": 1486,
     "stem": "The 'Mining Code' is a comprehensive set of rules, regulations, and procedures issued by the International Seabed Authority (ISA). It currently:\n1. Includes finalized regulations for prospecting and exploration in the Area.\n2. Includes finalized regulations for the commercial exploitation of marine minerals.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -13632,7 +13632,7 @@
     }
   },
   {
-    "id": "q_curr6_6d3a9c",
+    "id": 1487,
     "stem": "What is the role of the 'Sponsorship Certificate' in deep-sea mining operations beyond national jurisdiction?",
     "options": {
       "opt_a": "It is issued by the ISA to guarantee environmental insurance for the mining company.",
@@ -13703,7 +13703,7 @@
     }
   },
   {
-    "id": "q_curr6_8e2b7f",
+    "id": 1488,
     "stem": "India’s 'Samudrayaan' mission, a key component of the Deep Ocean Mission, aims to:\n1. Send humans in a submersible vehicle called MATSYA 6000 to a depth of 6000 meters.\n2. Conduct deep ocean exploration for resources like polymetallic nodules and hydrates.\n3. Establish a permanent underwater research station in the Central Indian Ocean Basin.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 2 only",
@@ -13774,7 +13774,7 @@
     }
   },
   {
-    "id": "q_curr6_3f9d1a",
+    "id": 1489,
     "stem": "Several nations and multinational companies have recently called for a 'precautionary pause' or moratorium on deep-sea mining. Which principle of international environmental law forms the primary basis for this demand?",
     "options": {
       "opt_a": "Polluter Pays Principle",
@@ -13845,7 +13845,7 @@
     }
   },
   {
-    "id": "q_curr8_d4e5f6",
+    "id": 1490,
     "stem": "Consider the geographic positioning of India's major floating solar power plants, such as those at Ramagundam and Omkareshwar. What is the primary topographic and environmental rationale for locating these projects on existing reservoirs?",
     "options": {
       "opt_a": "To leverage the high wind speeds naturally occurring over large water bodies to cool the panels.",
@@ -13916,7 +13916,7 @@
     }
   },
   {
-    "id": "q_curr8_v2w3x4",
+    "id": 1491,
     "stem": "India is aggressively planning offshore wind farms primarily off the coasts of Gujarat and Tamil Nadu. What specific bathymetric and geographic feature of these coasts makes them more suitable than the eastern coast (like Andhra or Odisha)?",
     "options": {
       "opt_a": "The presence of extremely deep oceanic trenches very close to the shore, allowing for large floating turbines.",
@@ -13987,7 +13987,7 @@
     }
   },
   {
-    "id": "q_curr8_k7l8m9",
+    "id": 1492,
     "stem": "India's strategy for Wind-Solar Hybrid projects heavily targets regions like Anantapur in Andhra Pradesh. Geographically, why are hybrid parks highly suitable for the Rayalaseema region?",
     "options": {
       "opt_a": "The region experiences strong oceanic winds during the day and intense solar radiation at night.",
@@ -14058,7 +14058,7 @@
     }
   },
   {
-    "id": "q_curr8_c5d6e7",
+    "id": 1493,
     "stem": "While evaluating offshore wind potential, the Gulf of Mannar is highly rated. Besides favorable winds, what bathymetric characteristic of the Gulf of Mannar, compared to the open Bay of Bengal, facilitates easier deployment of bottom-fixed offshore wind turbines?",
     "options": {
       "opt_a": "It features extremely steep continental slopes that prevent sediment buildup on turbine foundations.",
@@ -14129,7 +14129,7 @@
     }
   },
   {
-    "id": "q_curr9_j0k1l2",
+    "id": 1494,
     "stem": "Consider the following statements regarding 'Extremely Severe Cyclonic Storm Biparjoy' (2023):\n1. It originated in the Bay of Bengal and rapidly intensified due to high sea surface temperatures.\n2. It had one of the longest lifespans for a cyclone over the Arabian Sea.\n3. Its prolonged lifespan was supported by high Ocean Heat Content and a weak steering environment in the upper atmosphere.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -14200,7 +14200,7 @@
     }
   },
   {
-    "id": "q_curr9_p6q7r8",
+    "id": 1495,
     "stem": "Cyclone Michaung (December 2023) caused unprecedented flooding in Chennai. Which of the following factors most significantly exacerbated the urban flooding in the region?\n1. The cyclone moved exceptionally slowly along the coast, resulting in prolonged, intense rainfall.\n2. The high tide during the storm's landfall prevented the natural drainage of the Adyar and Cooum rivers into the sea.\n3. The storm surge pushed seawater back into the Buckingham Canal, overtopping its banks.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -14271,7 +14271,7 @@
     }
   },
   {
-    "id": "q_curr9_h4i5j6",
+    "id": 1496,
     "stem": "The prolonged drought in southern India during late 2023 and early 2024 severely affected the Cauvery basin. Which global meteorological phenomenon was primarily responsible for this rainfall deficit?\n1. The transition into a strong La Nina phase in the Pacific Ocean.\n2. A strong El Nino event suppressing the Northeast Monsoon.\n3. A strongly negative Indian Ocean Dipole (IOD) event during the retreating monsoon season.\nSelect the most appropriate answer:",
     "options": {
       "opt_a": "1 only",
@@ -14342,7 +14342,7 @@
     }
   },
   {
-    "id": "q_interlink5_4d5e6f",
+    "id": 1497,
     "stem": "The El Nino-Southern Oscillation (ENSO) significantly influences Indian agriculture. Which of the following best describes the interlinkage between El Nino, monsoon climatology, and crop yield in India?",
     "options": {
       "opt_a": "El Nino invariably leads to a severe drought across all of India, decimating both Kharif and Rabi crops.",
@@ -14413,7 +14413,7 @@
     }
   },
   {
-    "id": "q_interlink5_7g8h9i",
+    "id": 1498,
     "stem": "Consider the relationship between the Indian Ocean Dipole (IOD) and agricultural productivity in India:\n1. A positive IOD usually results in enhanced rainfall during the southwest monsoon, benefiting the Kharif sowing of soybeans in Central India.\n2. A negative IOD coupled with an El Nino year often leads to catastrophic agricultural failure in rainfed regions.\n3. The IOD has no significant impact on the northeast monsoon and therefore doesn't affect agricultural patterns in Tamil Nadu.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -14484,7 +14484,7 @@
     }
   },
   {
-    "id": "q_interlink8_j0k1l2",
+    "id": 1499,
     "stem": "Consider the following statements regarding the impact of sea-level rise on the Sundarbans and its demographic consequences:\n1. Increased salinity in the soil and water has led to a decline in agricultural productivity, acting as a push factor for migration.\n2. The migration from the Sundarbans is entirely permanent, with no instances of seasonal or cyclical movement.\n3. Male out-migration to urban centers often leaves women behind to manage households in increasingly vulnerable conditions.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 3 only",
@@ -14555,7 +14555,7 @@
     }
   },
   {
-    "id": "q_interlink8_s9t0u1",
+    "id": 1500,
     "stem": "Consider the concept of 'Planned Relocation' or 'Managed Retreat' as a climate adaptation strategy. Which of the following statements best describes its application?\n1. It is a proactive, state-led process to move communities away from highly vulnerable areas, such as eroding coastlines.\n2. It always guarantees the preservation of the social and cultural cohesion of the relocated community.\n3. The case of the Carteret Islands (Papua New Guinea) is often cited as an early example of community-led planned relocation due to sea-level rise.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 3 only",
@@ -14626,7 +14626,7 @@
     }
   },
   {
-    "id": "q_interlink8_v2w3x4",
+    "id": 1501,
     "stem": "How does the phenomenon of ocean acidification interact with human geography?\n1. It enhances the structural integrity of coral reefs, promoting the growth of coastal eco-tourism settlements.\n2. By impacting calcifying organisms, it threatens the foundation of marine food webs, leading to livelihood loss for fishing communities.\n3. This livelihood loss can act as a catalyst for economic migration from coastal villages to urban centers.\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "2 and 3 only",
@@ -14697,7 +14697,7 @@
     }
   },
   {
-    "id": "q_interlink9_a1b2c3",
+    "id": 1502,
     "stem": "How does the seasonal reversal of the Somali Current uniquely influence modern global maritime logistics compared to other western boundary currents?",
     "options": {
       "opt_a": "It forces seasonal rerouting of supertankers between the Persian Gulf and Europe to avoid severe upwelling-induced cyclonic storms during the Southwest Monsoon.",
@@ -14768,7 +14768,7 @@
     }
   },
   {
-    "id": "q_interlink9_d4e5f6",
+    "id": 1503,
     "stem": "Which of the following oceanographic phenomena presents the most significant recurring challenge to the economic viability of the Northern Sea Route (NSR) as a global trade artery, despite long-term Arctic warming?",
     "options": {
       "opt_a": "The intensification of the Beaufort Gyre leading to increased salinity and year-round multi-year ice blockages in the East Siberian Sea.",
@@ -14839,7 +14839,7 @@
     }
   },
   {
-    "id": "q_interlink9_p6q7r8",
+    "id": 1504,
     "stem": "The oceanography of the Strait of Hormuz is defined by an inverse estuarine circulation. What implication does this specific density-driven flow have for potential environmental hazards to the global energy trade?",
     "options": {
       "opt_a": "An oil spill in the Persian Gulf would rapidly flow out into the Arabian Sea on the surface, contaminating the entire Indian Ocean coastline.",
@@ -14910,7 +14910,7 @@
     }
   },
   {
-    "id": "q_interlink9_s9t0u1",
+    "id": 1505,
     "stem": "How does the oceanographic phenomenon of ENSO (El Niño-Southern Oscillation) most directly impact global maritime trade routes passing through the Americas?",
     "options": {
       "opt_a": "El Niño completely halts the Gulf Stream, freezing Eastern US ports and blocking transatlantic trade.",
@@ -14981,7 +14981,7 @@
     }
   },
   {
-    "id": "q_interlink9_v2w3x4",
+    "id": 1506,
     "stem": "The intersection of the Labrador Current and the Gulf Stream near the Grand Banks is historically significant for trade. Which of the following is NOT a consequence of this oceanographic meeting point?",
     "options": {
       "opt_a": "The creation of extensive, dense fog banks that pose a severe collision hazard to transatlantic shipping.",
@@ -15052,7 +15052,7 @@
     }
   },
   {
-    "id": "q_interlink9_e1f2g3",
+    "id": 1507,
     "stem": "How does the oceanographic profile of the Red Sea make the Suez Canal geographically possible without massive lock systems, unlike the Panama Canal?",
     "options": {
       "opt_a": "The Red Sea is entirely a freshwater body due to the Nile's discharge, matching the Mediterranean's salinity perfectly.",
@@ -15123,7 +15123,7 @@
     }
   },
   {
-    "id": "q_interlink9_h4i5j6",
+    "id": 1508,
     "stem": "In maritime trade, the concept of a 'Great Circle' route is fundamental. How do major ocean currents influence the practical application of Great Circle navigation?",
     "options": {
       "opt_a": "Currents are ignored in modern navigation because engine power overcomes all drift.",
@@ -15194,7 +15194,7 @@
     }
   },
   {
-    "id": "q_interlink9_n0o1p2",
+    "id": 1509,
     "stem": "How might the weakening of the Atlantic Meridional Overturning Circulation (AMOC) impact major trade ports in Northwestern Europe (e.g., Rotterdam, Hamburg)?",
     "options": {
       "opt_a": "It would lead to rapid sea-level drop, leaving port infrastructure permanently stranded inland.",
@@ -15265,7 +15265,7 @@
     }
   },
   {
-    "id": "q_interlink9_q3r4s5",
+    "id": 1510,
     "stem": "Consider the geography of the Indonesian Throughflow (ITF). How does this oceanographic feature indirectly affect global shipping via the Panama Canal?",
     "options": {
       "opt_a": "The ITF directly feeds Gatun Lake via subterranean channels.",
@@ -15336,7 +15336,7 @@
     }
   },
   {
-    "id": "q_interlink9_z2a3b4",
+    "id": 1511,
     "stem": "The Bering Strait connects the Pacific and Arctic Oceans. How does the dominant current flow through this strait influence the potential future of the Northern Sea Route (NSR)?",
     "options": {
       "opt_a": "There is a net southward flow that constantly flushes thick, multi-year Arctic ice into the Pacific shipping lanes.",
@@ -15407,7 +15407,7 @@
     }
   },
   {
-    "id": "q_interlink9_c5d6e7",
+    "id": 1512,
     "stem": "In the context of dynamic positioning for offshore loading facilities (like FPSOs in deep water), why are internal ocean waves a significant engineering and logistical challenge?",
     "options": {
       "opt_a": "They crest and break on the surface, directly swamping the decks of loading tankers.",
@@ -15478,7 +15478,7 @@
     }
   },
   {
-    "id": "q_a3f052cf",
+    "id": 1513,
     "stem": "Consider the following statements regarding the Indian Ocean Dipole (IOD):\n1. A positive IOD phase is characterized by anomalous cooling of sea surface temperatures in the western tropical Indian Ocean and warming in the eastern tropical Indian Ocean.\n2. A positive IOD can offset the adverse drying impacts of an El Nino event on the Indian summer monsoon.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -15549,7 +15549,7 @@
     }
   },
   {
-    "id": "q_c3f61927",
+    "id": 1514,
     "stem": "Consider the following statements regarding ocean waves:\n1. Ocean waves transfer energy across long distances, while water particles move primarily in orbital paths rather than forward with the wave.\n2. Wave height increases as a wave enters shallow water because the wave base touches the ocean floor and slows down the leading edge.\n3. Tsunamis are shallow-water waves generated by seismic disturbances, possessing extremely long wavelengths and high velocities in the open ocean.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -15620,7 +15620,7 @@
     }
   },
   {
-    "id": "q_d8909c0f",
+    "id": 1515,
     "stem": "Consider the following pairs of Pacific Ocean currents and their thermal characteristics:\n1. Oyashio Current : Warm current\n2. East Australian Current : Warm current\n3. Peru Current : Cold current\n4. Alaska Current : Cold current\n\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -15691,7 +15691,7 @@
     }
   },
   {
-    "id": "q_c54f58eb",
+    "id": 1516,
     "stem": "Consider the following statements regarding oceanic temperature profiles:\n1. The temperature of the oceans decreases uniformly from the surface to the bottom across all latitudes.\n2. In high latitude regions, the thermocline is absent because the water column is cold and uniform from top to bottom.\n3. Maximum ocean temperatures are recorded at the ocean bottom due to geothermal heating from mid-oceanic ridges.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -15762,7 +15762,7 @@
     }
   },
   {
-    "id": "q_a10ef28a",
+    "id": 1517,
     "stem": "Consider the following geographical requirements for the optimum growth and development of coral reefs:\n1. Mean annual water temperature ranging between 20°C and 21°C.\n2. High turbidity and presence of suspended river silt to block excessive UV radiation.\n3. Normal oceanic salinity ranging between 27‰ and 40‰.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -15833,7 +15833,7 @@
     }
   },
   {
-    "id": "q_7d68fad3",
+    "id": 1518,
     "stem": "Match the following submarine relief features with their primary geomorphic characteristics:\n1. Continental Shelf: Shallow, gently sloping platform extending from the coast\n2. Continental Slope: Steep descent connecting the shelf to the deep ocean floor\n3. Abyssal Plain: Rugged, elevated volcanic mountain range rising above 3,000 meters\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -15904,7 +15904,7 @@
     }
   },
   {
-    "id": "q_02828561",
+    "id": 1519,
     "stem": "Assertion (A): Mid-Oceanic Ridges (MORs) are characterized by frequent volcanic activity and shallow-focus earthquakes.\nReason (R): MORs represent divergent plate boundaries where tectonic plates move apart, allowing magma to rise from the mantle.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -15975,7 +15975,7 @@
     }
   },
   {
-    "id": "q_d0722b1f",
+    "id": 1520,
     "stem": "Consider the following water bodies:\n1. Lake Van\n2. Dead Sea\n3. Great Salt Lake\nWhat is the correct descending order of these water bodies in terms of their salinity?",
     "options": {
       "opt_a": "Lake Van - Dead Sea - Great Salt Lake",
@@ -16046,7 +16046,7 @@
     }
   },
   {
-    "id": "q_fa5c108c",
+    "id": 1521,
     "stem": "Consider the following statements regarding coral reefs:\n1. Fringing reefs develop directly along the coastlines of islands and continents, separated from the shore by a wide, deep lagoon.\n2. Barrier reefs are separated from the adjacent landmass by a deep and wide lagoon.\n3. Atolls are circular or elliptical coral reefs that enclose a central lagoon, typically resting on submerged volcanic foundations.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -16117,7 +16117,7 @@
     }
   },
   {
-    "id": "q_d2441a04",
+    "id": 1522,
     "stem": "Consider the following statements regarding tides:\n1. Spring tides occur when the Sun, the Earth, and the Moon are in a straight line, resulting in the highest high tides and lowest low tides.\n2. Neap tides occur during the first and third quarters of the Moon when the gravitational pulls of the Sun and the Moon act at right angles to each other.\n3. Perigean tides generate unusually high tidal ranges because the Moon is at its farthest point from the Earth in its elliptical orbit.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -16188,7 +16188,7 @@
     }
   },
   {
-    "id": "q_cae7b9b1",
+    "id": 1523,
     "stem": "Consider the following pairs of Oceanic Trenches and their respective Oceans:\n1. Mariana Trench: Pacific Ocean\n2. Tonga Trench: Indian Ocean\n3. Puerto Rico Trench: Atlantic Ocean\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -16259,7 +16259,7 @@
     }
   },
   {
-    "id": "q_084d4b14",
+    "id": 1524,
     "stem": "Assertion (A): The western boundary currents of subtropical ocean gyres are typically warmer, deeper, and faster than the eastern boundary currents.\nReason (R): Western boundary currents are driven by intensified trade winds and the piling up of water along the eastern coasts of continents due to Earth's rotation.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A.",
@@ -16330,7 +16330,7 @@
     }
   },
   {
-    "id": "q_645127e1",
+    "id": 1525,
     "stem": "Consider the following statements regarding the Indian Ocean circulation:\n1. During the Northern Hemisphere winter, the Northeast Monsoon drives the North Equatorial Current from east to west.\n2. The Agulhas Current flows southward along the eastern coast of Africa as a warm western boundary current.\n3. The Indonesian Throughflow allows warm water to transfer from the Pacific Ocean into the Indian Ocean.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -16401,7 +16401,7 @@
     }
   },
   {
-    "id": "q_393fc10e",
+    "id": 1526,
     "stem": "Consider the following statements regarding the horizontal and vertical distribution of ocean salinity:\n1. Salinity decreases from the equator towards the poles in a uniform, linear progression across all ocean basins.\n2. Enclosed seas in high latitudes often experience lower salinity due to heavy influx of meltwater and river discharge.\n3. The halocline is a distinct layer where salinity changes rapidly with depth, corresponding closely with the pycnocline.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -16472,7 +16472,7 @@
     }
   },
   {
-    "id": "q_2ec26521",
+    "id": 1527,
     "stem": "Consider the following statements regarding the factors influencing ocean currents:\n1. The Coriolis force deflects ocean currents to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.\n2. Differences in water density caused by variations in temperature and salinity drive vertical and deep-ocean circulation.\n3. The friction between the prevailing winds and the water surface accounts for the movement of only the deeper layers of ocean water.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -16543,7 +16543,7 @@
     }
   },
   {
-    "id": "q_bbab6263",
+    "id": 1528,
     "stem": "Consider the following pairs of ocean currents and their respective oceans:\n1. Labrador Current : North Atlantic Ocean\n2. Humboldt Current : South Pacific Ocean\n3. Agulhas Current : Indian Ocean\n4. California Current : North Atlantic Ocean\n\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -16614,7 +16614,7 @@
     }
   },
   {
-    "id": "q_56a3c01d",
+    "id": 1529,
     "stem": "Which of the following best describes the physical and ecological characteristics of the Sargasso Sea?",
     "options": {
       "opt_a": "A high-nutrient upwelling zone in the eastern Pacific characterized by rich fisheries.",
@@ -16685,7 +16685,7 @@
     }
   },
   {
-    "id": "q_4c8cd36e",
+    "id": 1530,
     "stem": "Consider the following pairs of regional currents and climatic effects:\n1. Benguela Current : Contributes to the aridity of the Namib Desert.\n2. Gulf Stream : Moderates the winter temperatures of Western and Northwestern Europe.\n3. Somali Current : Reverses its direction seasonally in response to the monsoon winds.\n\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -16756,7 +16756,7 @@
     }
   },
   {
-    "id": "q_6f1e2c69",
+    "id": 1531,
     "stem": "Upwelling zones in oceans are critical for marine ecosystems because they bring nutrient-rich deep water to the surface. Which of the following conditions typically trigger coastal upwelling?",
     "options": {
       "opt_a": "Winds blowing parallel to the coast causing surface waters to move offshore due to the Coriolis effect.",
@@ -16827,7 +16827,7 @@
     }
   },
   {
-    "id": "q_5a135978",
+    "id": 1532,
     "stem": "Which of the following correctly traces the path of the North Atlantic Gyre's western and northern extensions?",
     "options": {
       "opt_a": "Canary Current -> North Equatorial Current -> Gulf Stream -> North Atlantic Current",
@@ -16898,7 +16898,7 @@
     }
   },
   {
-    "id": "q_bd4bdf4a",
+    "id": 1533,
     "stem": "Consider the following statements regarding the ocean bottom relief features:\n1. Continental shelves are tectonically active zones where the deepest submarine canyons are predominantly formed by wave erosion.\n2. Deep-sea plains or abyssal plains are the flattest and smoothest regions of the world, covering a significant portion of the ocean floor.\n3. Guyots are characterized by pointed peaks, whereas seamounts are flat-topped submerged mountains.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -16969,7 +16969,7 @@
     }
   },
   {
-    "id": "q_0238c713",
+    "id": 1534,
     "stem": "Which of the following best describes the phenomenon of 'Thermocline' in the oceans?",
     "options": {
       "opt_a": "A zone of rapid temperature decrease with depth, separating the warm surface layer from the cold deep layer.",
@@ -17040,7 +17040,7 @@
     }
   },
   {
-    "id": "q_5eead5a1",
+    "id": 1535,
     "stem": "Assertion (A): Coral bleaching is primarily triggered by prolonged increases in sea surface temperatures and high solar irradiance.\nReason (R): Elevated thermal stress causes symbiotic zooxanthellae to produce excess reactive oxygen species, prompting corals to expel them.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -17111,7 +17111,7 @@
     }
   },
   {
-    "id": "q_151a4b0d",
+    "id": 1536,
     "stem": "Which of the following factors is primarily responsible for the high surface salinity observed in the subtropical regions of the world's oceans?",
     "options": {
       "opt_a": "High evaporation exceeds precipitation, coupled with stable atmospheric high-pressure systems.",
@@ -17182,7 +17182,7 @@
     }
   },
   {
-    "id": "q_19598c08",
+    "id": 1537,
     "stem": "Assertion (A): The western coasts of tropical and subtropical continents experience lower sea surface temperatures than their eastern counterparts at the same latitude.\nReason (R): Eastern boundary currents transport cold polar and subpolar water masses directly toward the equator along the western edges of ocean basins.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -17253,7 +17253,7 @@
     }
   },
   {
-    "id": "q_08738864",
+    "id": 1538,
     "stem": "Consider the following statements regarding the interrelationship between planetary wind belts and surface ocean gyres:\n1. The subtropical high-pressure belts coincide with the divergence zones that feed both the equatorward trade winds and poleward westerlies.\n2. Westerlies drive the subpolar ocean currents from west to east in both hemispheres.\n3. The Equatorial Counter-Currents flow from west to east against the prevailing trade winds to compensate for the mass transport of water toward the western margins of ocean basins.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -17324,7 +17324,7 @@
     }
   },
   {
-    "id": "q_8c38e4c6",
+    "id": 1539,
     "stem": "Consider the following pairs regarding cold ocean currents and their adjacent hyper-arid coastal deserts:\n1. Peru Current - Atacama Desert\n2. Benguela Current - Namib Desert\n3. Canary Current - Sahara Desert\n4. West Australian Current - Simpson Desert\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -17395,7 +17395,7 @@
     }
   },
   {
-    "id": "q_3151312b",
+    "id": 1540,
     "stem": "Consider the following physical links between atmospheric circulation cells and marine upwelling:\n1. Along the coast of Peru, persistent southeast trade winds drive offshore Ekman transport of surface waters, inducing coastal upwelling.\n2. The Somali Current reverses its flow direction seasonally in response to the monsoonal wind shift, triggering strong coastal upwelling during the Southwest Monsoon.\n3. Upwelling zones are generally characterized by low biological productivity due to the low nutrient content of deep upwelled waters.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -17466,7 +17466,7 @@
     }
   },
   {
-    "id": "q_f27e5065",
+    "id": 1541,
     "stem": "With reference to the Indian Ocean Dipole (IOD), consider the following statements:\n1. A positive IOD phase is characterized by anomalously warm sea surface temperatures in the western equatorial Indian Ocean and cool anomalies in the eastern equatorial Indian Ocean.\n2. A positive IOD tends to counteract the adverse impacts of an El Nino event on the Indian summer monsoon.\n3. The dipole mode index is measured by the temperature gradient between the Arabian Sea and the Bay of Bengal.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -17537,7 +17537,7 @@
     }
   },
   {
-    "id": "q_894f6c6b",
+    "id": 1542,
     "stem": "Consider the following pairs of West-Flowing Rivers and their outfall locations:\n1. Narmada: Gulf of Khambhat\n2. Tapi: Gulf of Kutch\n3. Periyar: Arabian Sea\n4. Bharathapuzha: Laccadive Sea\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -17608,7 +17608,7 @@
     }
   },
   {
-    "id": "q_2825fb4f",
+    "id": 1543,
     "stem": "Consider the following statements regarding the Indian Monsoon and the Indian Ocean Dipole (IOD):\n1. A positive IOD phase is characterized by warmer sea surface temperatures in the western equatorial Indian Ocean and cooler temperatures in the eastern Indian Ocean.\n2. During a positive IOD year, the summer monsoon rainfall over the Indo-Gangetic plain is typically suppressed due to a high-pressure anomaly over the Bay of Bengal.\n3. A negative IOD can sometimes offset the adverse drought conditions caused by an El Niño event in the Indian subcontinent.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -17679,7 +17679,7 @@
     }
   },
   {
-    "id": "q_0b271146",
+    "id": 1544,
     "stem": "Consider the following pairs of Marine National Parks and their respective geographical locations:\n1. Marine National Park, Gulf of Kachchh : Gujarat\n2. Marine National Park, Gulf of Mannar : Tamil Nadu\n3. Mahatma Gandhi Marine National Park : Andaman and Nicobar Islands\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -17750,7 +17750,7 @@
     }
   },
   {
-    "id": "q_26638b4d",
+    "id": 1545,
     "stem": "In the context of Indian vegetation, mangrove forests (Littoral and Swamp forests) require which of the following specialized ecological conditions for optimal growth?\n1. Coastal regions influenced by tides\n2. Mudflats and salt marshes saturated with saline water\n3. Pneumatophores or breathing roots to survive in anaerobic soil conditions\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 2 only",
@@ -17821,7 +17821,7 @@
     }
   },
   {
-    "id": "q_a63b0123",
+    "id": 1546,
     "stem": "Consider the following measures aimed at reclaiming ravine lands in the Chambal region:\n1. Construction of contour trenches and peripheral bunds at the head of the ravines.\n2. Massive afforestation drives using deep-rooted species like Prosopis juliflora and Acacia nilotica.\n3. Conversion of active ravine beds into perennial multi-crop agricultural zones through heavy chemical fertilizers.\nHow many of the above are recommended strategies for ravine reclamation?",
     "options": {
       "opt_a": "Only one",
@@ -17892,7 +17892,7 @@
     }
   },
   {
-    "id": "q_d0ceb191",
+    "id": 1547,
     "stem": "Consider the following categories of resources based on ownership:\n1. Individual resources: Owned privately by individuals, such as plantations, pasture lands, and residential plots.\n2. Community owned resources: Accessible to all members of the community, such as village ponds, public parks, and burial grounds.\n3. National resources: All minerals, water resources, forests, and wildlife within the political boundaries and oceanic area up to 12 nautical miles from the coast.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -17963,7 +17963,7 @@
     }
   },
   {
-    "id": "q_427fd32e",
+    "id": 1548,
     "stem": "Consider the following primary causes of land degradation in specific regions of India:\n1. Mining and quarrying: Deforestation and severe overburden dumping in Jharkhand and Odisha.\n2. Over-irrigation: Waterlogging leading to an increase in alkalinity and salinity of soil in Punjab and Haryana.\n3. Overgrazing: Removal of vegetative cover by livestock in Gujarat and Rajasthan.\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -18034,7 +18034,7 @@
     }
   },
   {
-    "id": "q_a375341f",
+    "id": 1549,
     "stem": "Consider the following statements regarding international resource jurisdiction:\n1. Resources found in oceanic waters beyond 200 nautical miles of the Exclusive Economic Zone are regulated by international institutions.\n2. India has been granted rights by the International Seabed Authority to explore polymetallic nodules in the Indian Ocean.\n3. The territorial waters of a nation extend up to 200 nautical miles from its baseline, giving it complete sovereign rights over all resources.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18105,7 +18105,7 @@
     }
   },
   {
-    "id": "q_dabad78a",
+    "id": 1550,
     "stem": "Which of the following best describes the scope of Exclusive Economic Zone (EEZ) rights of a coastal nation under the United Nations Convention on the Law of the Sea (UNCLOS)?",
     "options": {
       "opt_a": "Complete sovereignty over the water column, seabed, and subsoil up to 200 nautical miles from the baseline.",
@@ -18176,7 +18176,7 @@
     }
   },
   {
-    "id": "q_fa121959",
+    "id": 1551,
     "stem": "With respect to the interaction between temperature and salinity in determining ocean water density, consider the following statements:\n1. Cold water is denser than warm water at the same salinity level.\n2. An increase in salinity always results in a decrease in the freezing point of seawater.\n3. In polar regions, variations in salinity play a more dominant role in controlling deep water formation than variations in temperature.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18247,7 +18247,7 @@
     }
   },
   {
-    "id": "q_556b04f8",
+    "id": 1552,
     "stem": "Consider the following pairs matching oceanic features with their primary causative mechanisms:\n1. Thermocline layer : Differential absorption of solar radiation and wind-driven surface mixing\n2. Halocline layer : Balance between surface evaporation and meltwater/river runoff\n3. High surface salinity in the subtropics : Dominance of upwelling cold currents over warm surface divergence\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -18318,7 +18318,7 @@
     }
   },
   {
-    "id": "q_8f8a32b2",
+    "id": 1553,
     "stem": "Consider the following statements regarding Spring Tides:\n1. They occur when the Sun, the Earth, and the Moon are aligned in a straight line (syzygy).\n2. They experience the minimum tidal range because the gravitational pulls of the Sun and Moon act in opposition to each other.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -18389,7 +18389,7 @@
     }
   },
   {
-    "id": "q_1cf5ed78",
+    "id": 1554,
     "stem": "Consider the following statements regarding Neap Tides:\n1. They occur during the first and third quarters of the Moon.\n2. During this time, the gravitational pulls of the Sun and the Moon are at right angles to each other.\n3. The tidal range during a neap tide is significantly greater than the average tidal range.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18460,7 +18460,7 @@
     }
   },
   {
-    "id": "q_8d899e27",
+    "id": 1555,
     "stem": "The phenomenon of upwelling along oceanic coasts is crucial for marine productivity. In this context, consider the following statements:\n1. Upwelling involves the movement of nutrient-rich deep water to the ocean surface.\n2. It typically occurs where surface winds push water away from the coast, requiring deep water to rise and replace it.\n3. Major upwelling zones are generally associated with cold eastern boundary currents.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18531,7 +18531,7 @@
     }
   },
   {
-    "id": "q_a9aaeb5e",
+    "id": 1556,
     "stem": "Consider the following factors affecting ocean salinity:\n1. Melting of polar ice sheets\n2. Atmospheric pressure and wind direction\n3. Influx of river water into enclosed seas\n4. Subsurface ocean currents\nHow many of the above factors directly contribute to the reduction of surface salinity in the affected oceanic regions?",
     "options": {
       "opt_a": "Only one",
@@ -18602,7 +18602,7 @@
     }
   },
   {
-    "id": "q_ed5dd8a1",
+    "id": 1557,
     "stem": "Consider the following statements regarding the vertical distribution of ocean temperature:\n1. The rate of temperature decrease with depth is uniform across all latitudes from the equator to the poles.\n2. The thermocline represents the zone of rapid temperature change and typically lies between 100 meters and 1,000 meters below the surface.\n3. In polar regions, the thermocline is permanently well-developed due to continuous insolation during summer months.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18673,7 +18673,7 @@
     }
   },
   {
-    "id": "q_72a416bc",
+    "id": 1558,
     "stem": "Consider the following statements regarding ocean currents and their characteristics:\n1. Warm ocean currents generally originate near the poles and flow towards the equator, bringing warm water to cold regions.\n2. The Coriolis force deflects ocean currents to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.\n3. The mixing of warm and cold ocean currents creates the world's best fishing grounds due to the proliferation of plankton.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18744,7 +18744,7 @@
     }
   },
   {
-    "id": "q_e3a664ef",
+    "id": 1559,
     "stem": "Consider the following pairs of cold currents and their geographical locations:\n1. California Current - Eastern Pacific Ocean\n2. Benguela Current - Western South Atlantic Ocean\n3. Peru (Humboldt) Current - Western South Pacific Ocean\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -18815,7 +18815,7 @@
     }
   },
   {
-    "id": "q_f2ed0cc9",
+    "id": 1560,
     "stem": "Consider the following statements regarding the horizontal distribution of ocean salinity:\n1. Enclosed seas in arid subtropical regions generally record higher salinity than open oceans at the same latitude.\n2. The Baltic Sea exhibits exceptionally high salinity due to high rates of evaporation and minimal freshwater inflow.\n3. Equatorial regions, despite receiving high insolation and evaporation, record lower surface salinity than subtropical highs due to heavy daily precipitation.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18886,7 +18886,7 @@
     }
   },
   {
-    "id": "q_1685ca67",
+    "id": 1561,
     "stem": "With reference to tidal friction and its long-term mechanical impact on the Earth-Moon system, consider the following statements:\n1. Tidal friction caused by gravitational interaction transfers angular momentum from the Earth's rotation to the Moon's orbital motion.\n2. The progressive deceleration of Earth's rotational speed leads to a continuous increase in the length of the solar day over geological time scales.\n3. The recession of the Moon from Earth will theoretically continue indefinitely until Earth becomes tidally locked with the Moon, irrespective of the Sun's evolutionary lifecycle.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -18957,7 +18957,7 @@
     }
   },
   {
-    "id": "q_15bfadce",
+    "id": 1562,
     "stem": "With reference to hypersaline water bodies of the world, consider the following pairs:\n1. Lake Van : Located in a region of interior drainage with high summer evaporation\n2. Dead Sea : Situated in a rift valley receiving continuous influx from the Jordan River with no surface outlet\n3. Great Salt Lake : Located in a humid temperate zone with high precipitation-to-evaporation ratios\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -19028,7 +19028,7 @@
     }
   },
   {
-    "id": "q_87df4d18",
+    "id": 1563,
     "stem": "Consider the following phenomena regarding oceanic salinity and density:\n1. High salinity increases water density, which can cause surface water to sink.\n2. In areas of heavy rainfall and high relative humidity, surface salinity is generally higher than the global average.\n3. The halocline is a distinct vertical zone in the ocean where salinity changes rapidly with depth.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -19099,7 +19099,7 @@
     }
   },
   {
-    "id": "q_ee444150",
+    "id": 1564,
     "stem": "Why do marginal seas in high latitudes generally exhibit lower surface salinity compared to marginal seas in tropical latitudes?",
     "options": {
       "opt_a": "High-latitude seas experience intense thermal expansion that dilutes salt concentration.",
@@ -19170,7 +19170,7 @@
     }
   },
   {
-    "id": "q_180efa6f",
+    "id": 1565,
     "stem": "Consider the following statements regarding the depth profile of the oceans:\n1. The pycnocline is the zone where density changes rapidly with depth, corresponding closely to the locations of both the thermocline and halocline.\n2. In high-latitude oceans, the water column is characterized by a permanent, well-defined thermocline that isolates deep cold water from surface mixing.\n3. Surface ocean salinity is entirely uniform across the globe, with variations occurring only below the photic zone.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -19241,7 +19241,7 @@
     }
   },
   {
-    "id": "q_bd4d3e40",
+    "id": 1566,
     "stem": "Which of the following best describes the distribution of salinity in the Atlantic Ocean compared to the Pacific Ocean?",
     "options": {
       "opt_a": "The Pacific Ocean has a higher average salinity than the Atlantic Ocean due to a greater number of land-locked enclosed seas.",
@@ -19312,7 +19312,7 @@
     }
   },
   {
-    "id": "q_b357076c",
+    "id": 1567,
     "stem": "In the context of physical oceanography, what is the primary reason why regions near the Tropic of Cancer and Tropic of Capricorn exhibit surface salinities higher than those at the Equator?",
     "options": {
       "opt_a": "Intense river discharge from continental interiors terminates primarily in tropical rainforest zones, bypassing the subtropics.",
@@ -19383,7 +19383,7 @@
     }
   },
   {
-    "id": "q_4c476e64",
+    "id": 1568,
     "stem": "Consider the following pairs of ocean currents and their nature:\n1. Gulf Stream - Cold current\n2. Canary Current - Warm current\n3. Kuroshio Current - Warm current\n4. Oyashio Current - Cold current\n\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -19454,7 +19454,7 @@
     }
   },
   {
-    "id": "q_816f38f1",
+    "id": 1569,
     "stem": "Consider the following factors influencing ocean currents:\n1. Planetary winds\n2. Salinity and temperature differences\n3. Earth's rotation\n4. Configuration of coastlines\n\nHow many of the above are primary forces responsible for the circulation of ocean water at both surface and deep levels?",
     "options": {
       "opt_a": "Only two",
@@ -19525,7 +19525,7 @@
     }
   },
   {
-    "id": "q_5cdb3669",
+    "id": 1570,
     "stem": "The gravitational pull exerted by celestial bodies creates tides. In this context, consider the following statements:\n1. The Moon exerts a greater gravitational pull on ocean tides than the Sun because the Moon is much closer to the Earth.\n2. Centrifugal force, resulting from the Earth's rotation, also plays a role in generating the secondary tidal bulge on the side of the Earth facing away from the Moon.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -19596,7 +19596,7 @@
     }
   },
   {
-    "id": "q_bcc93a89",
+    "id": 1571,
     "stem": "Consider the following statements regarding the characteristics of Pacific Ocean currents:\n1. The North Equatorial Current and South Equatorial Current flow from east to west, driven by trade winds.\n2. The Kuroshio current is the western boundary current of the North Pacific Gyre and flows northward along the coast of Japan.\n3. The East Australian Current is a cold current flowing along the eastern coast of Australia.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -19667,7 +19667,7 @@
     }
   },
   {
-    "id": "q_915d7781",
+    "id": 1572,
     "stem": "Arrange the following marginal seas of the Mediterranean Sea in the correct West to East geographical order:\n1. Aegean Sea\n2. Ionian Sea\n3. Tyrrhenian Sea\n4. Balearic Sea",
     "options": {
       "opt_a": "4 - 3 - 2 - 1",
@@ -19738,7 +19738,7 @@
     }
   },
   {
-    "id": "q_2057248f",
+    "id": 1573,
     "stem": "Consider the following islands/archipelagos in the Indian Ocean:\n1. Chagos Archipelago\n2. Seychelles Plateau\n3. Maldives\n4. Mauritius\n\nWhich of the following represents the correct arrangement of these islands from North to South?",
     "options": {
       "opt_a": "3 - 2 - 1 - 4",
@@ -19809,7 +19809,7 @@
     }
   },
   {
-    "id": "q_8719f6f2",
+    "id": 1574,
     "stem": "Which of the following cities/landmasses is geographically closest to the Spratly Islands in the South China Sea?",
     "options": {
       "opt_a": "Palawan Island (Philippines)",
@@ -19880,7 +19880,7 @@
     }
   },
   {
-    "id": "q_8537c06e",
+    "id": 1575,
     "stem": "Which of the following oceans has the greatest overall average depth and contains the deepest oceanic trench in the world?",
     "options": {
       "opt_a": "Pacific Ocean",
@@ -19951,7 +19951,7 @@
     }
   },
   {
-    "id": "q_da699083",
+    "id": 1576,
     "stem": "Consider the following island groups:\n1. Andaman and Nicobar Islands\n2. Lakshadweep Islands\n3. Maldive Islands\n\nWhich of the following represents the correct sequence of these island groups from West to East?",
     "options": {
       "opt_a": "2 - 3 - 1",
@@ -20022,7 +20022,7 @@
     }
   },
   {
-    "id": "q_6deac302",
+    "id": 1577,
     "stem": "Consider the following countries:\n1. Armenia\n2. Azerbaijan\n3. Georgia\n4. Iran\n5. Iraq\nWhich of the above countries share a land border with the Caspian Sea?",
     "options": {
       "opt_a": "1, 2 and 4 only",
@@ -20093,7 +20093,7 @@
     }
   },
   {
-    "id": "q_9a50d6c7",
+    "id": 1578,
     "stem": "Consider the following water bodies:\n1. Aral Sea\n2. Caspian Sea\n3. Lake Victoria\n4. Lake Balkhash\n\nWhich of the above are classified as endorheic basins (landlocked inland bodies of water)?",
     "options": {
       "opt_a": "1, 2 and 4 only",
@@ -20164,7 +20164,7 @@
     }
   },
   {
-    "id": "q_fa40940e",
+    "id": 1579,
     "stem": "Consider the following countries:\n1. Bulgaria\n2. Azerbaijan\n3. Georgia\n4. Armenia\n5. Russia\nHow many of the above countries share a land border with the Black Sea?",
     "options": {
       "opt_a": "Only one",
@@ -20235,7 +20235,7 @@
     }
   },
   {
-    "id": "q_c216d1e4",
+    "id": 1580,
     "stem": "Consider the following statements regarding the Black Sea grain corridor region:\n1. Ukraine shares its entire southern maritime boundary exclusively with the Black Sea.\n2. The Sea of Azov is connected to the Black Sea through the Strait of Kerch.\n3. Moldova has direct access to the Black Sea coastline.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -20306,7 +20306,7 @@
     }
   },
   {
-    "id": "q_e182eaed",
+    "id": 1581,
     "stem": "Consider the following countries surrounding the Caspian Sea:\n1. Azerbaijan\n2. Iran\n3. Kazakhstan\n4. Russia\n5. Turkmenistan\n\nWhich of the above countries are correctly listed in clockwise order starting from the northernmost shore?",
     "options": {
       "opt_a": "Kazakhstan - Russia - Azerbaijan - Iran - Turkmenistan",
@@ -20377,7 +20377,7 @@
     }
   },
   {
-    "id": "q_b227f0f8",
+    "id": 1582,
     "stem": "Consider the following water bodies:\n1. Black Sea\n2. Caspian Sea\n3. Red Sea\n4. Mediterranean Sea\n\nWhich of the above are enclosed or semi-enclosed seas directly connected to the Atlantic Ocean system (including via marginal seas/straits) without passing through the Pacific or Indian Oceans?",
     "options": {
       "opt_a": "1, 2 and 4 only",
@@ -20448,7 +20448,7 @@
     }
   },
   {
-    "id": "q_8d8d97b6",
+    "id": 1583,
     "stem": "Consider the following statements regarding the Paracel Islands:\n1. They are a group of islands, islets, and reefs located in the South China Sea.\n2. They are claimed in their entirety by China, Taiwan, and Vietnam.\n3. They are situated significantly further south than the Spratly Islands.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -20519,7 +20519,7 @@
     }
   },
   {
-    "id": "q_a7352ccf",
+    "id": 1584,
     "stem": "Consider the following countries:\n1. Egypt\n2. Jordan\n3. Saudi Arabia\n4. Sudan\n5. Yemen\n\nWhich of the above countries share a coastline along the Red Sea?",
     "options": {
       "opt_a": "1, 3, 4 and 5 only",
@@ -20590,7 +20590,7 @@
     }
   },
   {
-    "id": "q_09692c99",
+    "id": 1585,
     "stem": "Consider the following pairs of major global sea ports and their respective geographic locations:\n1. Port of Rotterdam: North Sea coast of the Netherlands\n2. Port of Shanghai: Mouth of the Yangtze River, East China Sea\n3. Port of Houston: Gulf of Mexico coast via an inland ship channel in Texas, USA\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -20661,7 +20661,7 @@
     }
   },
   {
-    "id": "q_a1a21af5",
+    "id": 1586,
     "stem": "Assertion (A): The growth of containerization has significantly reduced turnaround times and transportation costs in international maritime trade.\nReason (R): Containers allow standardized handling, intermodal transportability across ships, trains, and trucks, and minimize cargo damage.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -20732,7 +20732,7 @@
     }
   },
   {
-    "id": "q_6795ebae",
+    "id": 1587,
     "stem": "Consider the following ports located along major international trade routes:\n1. Port Klang: Strait of Malacca, Malaysia\n2. Port Said: Northern entrance of the Suez Canal, Egypt\n3. Port of Santos: Pacific coast of South America, Chile\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -20803,7 +20803,7 @@
     }
   },
   {
-    "id": "q_92746b67",
+    "id": 1588,
     "stem": "Consider the following pairs regarding major oceanic routes and their primary commodities:\n1. North Atlantic Sea Route: Connects North-Eastern USA and North-Western Europe with heavy manufactured goods.\n2. South Atlantic Sea Route: Connects Western Europe with South Africa and South America carrying mainly tropical agricultural products.\n3. Cape of Good Hope Route: Serves as an alternative route to the Suez Canal exclusively for empty container ships due to draught restrictions.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -20874,7 +20874,7 @@
     }
   },
   {
-    "id": "q_e57e2988",
+    "id": 1589,
     "stem": "With reference to the Strait of Malacca, consider the following statements:\n1. It is the shortest sea route between the Indian Ocean and the Pacific Ocean, linking major Asian economies.\n2. The strait is characterized by shallow waters and high traffic density, making it a critical geopolitical choke point.\n3. It is entirely situated within the territorial waters of Indonesia and Malaysia, with no international waters involved.\nWhich of the statements given above are correct?",
     "options": {
       "opt_a": "1 and 2 only",
@@ -20945,7 +20945,7 @@
     }
   },
   {
-    "id": "ssc_pyq_0086",
+    "id": 1590,
     "stem": "The mohororvicic (Moho) discontinuity separates?",
     "options": {
       "opt_a": "Earth's lithosphere and asthenosphere",
@@ -21013,7 +21013,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0092",
+    "id": 1591,
     "stem": "Movement of fault lines can cause:",
     "options": {
       "opt_a": "a flood",
@@ -21081,7 +21081,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0093",
+    "id": 1592,
     "stem": "What is the average salinity of the Indian ocean?",
     "options": {
       "opt_a": "350 o/oo",
@@ -21149,7 +21149,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0098",
+    "id": 1593,
     "stem": "Consider the following statements regarding the lowest known point on Earth: 1. Challenger Deep is located in the western Pacific Ocean. 2. The Great Barrier Reef is the world’s largest coral reef located in Australia. 3. Factorian Deep is the deepest point in the Pacific Ocean. Which of the statements given above is incorrect?",
     "options": {
       "opt_a": "1 only",
@@ -21217,7 +21217,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0103",
+    "id": 1594,
     "stem": "Match the following Seismic Zones of India with their characteristics: List I (Seismic Zone) List II (Characteristic) A. Zone II 1.Least seismically active region B. Zone III 2. Moderate seismic activity C. Zone IV 3. High seismic activity D. Zone V 4. Most seismically active region",
     "options": {
       "opt_a": "A-1, B-2, C-3, D-4",
@@ -21285,7 +21285,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0104",
+    "id": 1595,
     "stem": "The _____ is responsible for Earth's magnetic field.",
     "options": {
       "opt_a": "inner core",
@@ -21353,7 +21353,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0135",
+    "id": 1596,
     "stem": "Identify a water-harvesting system found in Jaisalmer.",
     "options": {
       "opt_a": "Guls",
@@ -21421,7 +21421,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0440",
+    "id": 1597,
     "stem": "The highest rainfall in India gets recorded in the Khasi and Jaintia Hills. In which state will you find these hills?",
     "options": {
       "opt_a": "Meghalaya",
@@ -21489,7 +21489,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0499",
+    "id": 1598,
     "stem": "Identify the group of districts that are NOT an example of industrial districts of India.",
     "options": {
       "opt_a": "Cuttack and Kota",
@@ -21557,7 +21557,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0526",
+    "id": 1599,
     "stem": "Match the following Wildlife Sanctuaries (Column A) with their respective States (Column B). Choose the option correct option: Column A (Wildlife Sanctuary) Column B (State) 1. Gandhi Sagar WLS a. Assam 2. Sonai Rupai WLS b. Madhya Pradesh 3. Kaimur WLS c. Telangana 4. Eturnagaram WLS d. Bihar www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography",
     "options": {
       "opt_a": "1-b, 2-a, 3-d, 4-c",
@@ -21625,7 +21625,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0637",
+    "id": 1600,
     "stem": "Which autonomous body was operationalised under the Ministry of Surface Transport in 1995?",
     "options": {
       "opt_a": "Border Roads Organization (BRO)",
@@ -21693,7 +21693,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0644",
+    "id": 1601,
     "stem": "Which among the following is India's first corporatised port?",
     "options": {
       "opt_a": "Kochi",
@@ -21761,7 +21761,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0655",
+    "id": 1602,
     "stem": "Which of the following statements are correct? www.ssccglpinnacle.com Download Pinnacle Exam Preparation App Pinnacle Geography 1. Birth rate measures the number of children born per 1000 people annually. 2. Pull factors include opportunities that attract people to new regions. 3. Death rate is always higher than birth rate. 4. Push factors can include civil unrest and lack of jobs.",
     "options": {
       "opt_a": "All of the above",
@@ -21829,7 +21829,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0710",
+    "id": 1603,
     "stem": "Consider the following statements regarding Census 2011 literacy data: 1. Lakshadweep had the lowest literacy rate among Union Territories at 76.24%. 2. Tamil Nadu was the most literate state with 94% literacy. Which of the above statements is/are correct?",
     "options": {
       "opt_a": "Only 1",
@@ -21897,7 +21897,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0907",
+    "id": 1604,
     "stem": "Which of the following is the scientific discipline concerned with the description and classification of the Earth's topographic features?",
     "options": {
       "opt_a": "Geomorphology",
@@ -21965,7 +21965,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0919",
+    "id": 1605,
     "stem": "The national census does NOT recognise ________ groups within India.",
     "options": {
       "opt_a": "tribal",
@@ -22033,7 +22033,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0924",
+    "id": 1606,
     "stem": "___________ refers to a sanitation system in which toilets collect human excreta in sealable, removable cartridges that are transported to treatment facilities.",
     "options": {
       "opt_a": "Ecological sanitation",

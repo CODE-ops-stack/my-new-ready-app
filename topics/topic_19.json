@@ -1,6 +1,6 @@
 [
   {
-    "id": "q_map1_b8c9d0",
+    "id": 4317,
     "stem": "[UPSC PYQ] If you sail from Kandla port to Kolkata port along the Indian coast, which of the following major ports will you encounter strictly in order?",
     "options": {
       "opt_a": "Mumbai - Mangalore - Kochi - Tuticorin - Paradip",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "id": "q_map3_w9x0y1",
+    "id": 4318,
     "stem": "[UPSC PYQ] Which of these major Indian ports is situated furthest South?",
     "options": {
       "opt_a": "Kochi",
@@ -142,7 +142,7 @@
     }
   },
   {
-    "id": "q_3efc26c9",
+    "id": 4319,
     "stem": "If you travel by road along the shortest route from Kohima (Nagaland) to Agartala (Tripura), what is the minimum number of states you must cross, excluding the origin and destination states?",
     "options": {
       "opt_a": "One",
@@ -213,7 +213,7 @@
     }
   },
   {
-    "id": "q_29f4b8f6",
+    "id": 4320,
     "stem": "If you plan a road journey from Jaipur (Rajasthan) to Gangtok (Sikkim) taking the shortest possible interstate transit route, what is the minimum number of states you must cross, excluding Rajasthan and Sikkim?",
     "options": {
       "opt_a": "Three",
@@ -284,7 +284,7 @@
     }
   },
   {
-    "id": "q_map_002",
+    "id": 4321,
     "stem": "If you travel by road from Kohima to Kottayam via the shortest route within India, what is the minimum number of Indian States you will have to traverse, including the origin and destination?",
     "options": {
       "opt_a": "6",
@@ -355,7 +355,7 @@
     }
   },
   {
-    "id": "q_map_007",
+    "id": 4322,
     "stem": "Consider the map of the Eastern Coast of India given below. Arrange the following ports from North to South:\n1. Paradip\n2. Ennore\n3. Visakhapatnam\n4. Tuticorin",
     "options": {
       "opt_a": "1 - 3 - 2 - 4",
@@ -426,7 +426,7 @@
     }
   },
   {
-    "id": "q_pred1_1e2f3g",
+    "id": 4323,
     "stem": "Consider the following statements regarding the global supply chain of Rare Earth Elements (REEs):\n1. China accounts for more than 50% of both global REE mining production and refining capacity.\n2. Heavy Rare Earth Elements (HREEs) are predominantly found in ionic clay deposits in Southern China.\n3. India has no domestic reserves of REEs and relies 100% on imports.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -497,7 +497,7 @@
     }
   },
   {
-    "id": "q_current3_z2a3b4",
+    "id": 4324,
     "stem": "The global transition to electric vehicles has highlighted the importance of 'Cobalt'. Which country is the world's leading producer of Cobalt, often associated with geopolitical supply chain concerns?",
     "options": {
       "opt_a": "Democratic Republic of Congo (DRC)",
@@ -568,7 +568,7 @@
     }
   },
   {
-    "id": "q_current4_s5t6u7v8",
+    "id": 4325,
     "stem": "With reference to the AMOC (Atlantic Meridional Overturning Circulation), recently in news due to fears of an impending collapse, consider the following statements: 1. It acts as a massive conveyor belt transporting warm water from the tropics to the North Atlantic. 2. A collapse of the AMOC would lead to significantly warmer winters in Northern Europe. Which of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -639,7 +639,7 @@
     }
   },
   {
-    "id": "q_current4_q9r0s1t2",
+    "id": 4326,
     "stem": "The 'Char Dham Pariyojana', under which the Silkyara tunnel was being constructed, aims to provide all-weather connectivity to four holy shrines. Which of the following is NOT one of these four shrines?",
     "options": {
       "opt_a": "Badrinath",
@@ -710,7 +710,7 @@
     }
   },
   {
-    "id": "q_interlink1_q7r8s9t0",
+    "id": 4327,
     "stem": "Consider the following statements mapping the impacts of Himalayan topography on the socio-economic life of Northern India:\n1. The Himalayan syntaxial bends effectively block the cold katabatic winds from Central Asia, allowing the Indo-Gangetic plains to support multiple cropping seasons.\n2. The steep gradient of Himalayan rivers in their upper courses provides immense hydroelectric potential, fueling industrial estates in the foothills.\n3. The continuous deposition of alluvium by Himalayan rivers leads to regular channel avulsion (e.g., Kosi river), causing recurrent disastrous floods and out-migration.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -781,7 +781,7 @@
     }
   },
   {
-    "id": "q_833b3ce4",
+    "id": 4328,
     "stem": "Which of the following ports was developed specifically as a satellite port to relieve the severe congestion at the Mumbai Port?",
     "options": {
       "opt_a": "Mormugao Port",
@@ -852,7 +852,7 @@
     }
   },
   {
-    "id": "q_55082cbe",
+    "id": 4329,
     "stem": "Which of the following pairs of Major Indian Ports and their corresponding states is incorrectly matched?",
     "options": {
       "opt_a": "Kandla (Deendayal Port) — Gujarat",
@@ -923,7 +923,7 @@
     }
   },
   {
-    "id": "q_b6a6c8c2",
+    "id": 4330,
     "stem": "Consider the following statements regarding the National Waterways (NW) of India:\n1. National Waterway-1 (NW-1) is established along the Ganga-Bhagirathi-Hooghly river system between Haldia and Allahabad.\n2. National Waterway-2 (NW-2) operates on the Brahmaputra river between Sadiya and Dhubri.\n3. National Waterway-3 (NW-3) is located in the state of Kerala along the West Coast Canal, Kollam-Kottapuram stretch.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -994,7 +994,7 @@
     }
   },
   {
-    "id": "q_f4071409",
+    "id": 4331,
     "stem": "Consider the following statements regarding the Inland Waterways of India:\n1. National Waterway-1 (NW-1) is established along the Ganga-Bhagirathi-Hooghly river system between Haldia and Prayagraj.\n2. National Waterway-2 (NW-2) operates along the Brahmaputra river between Sadiya and Dhubri.\n3. National Waterway-3 (NW-3) comprises the West Coast Canal along with Champakara and Udyogamandal canals in Kerala.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "id": "q_b8f66d72",
+    "id": 4332,
     "stem": "Consider the following pairs regarding India's telecom revolution and policy frameworks:\n1. National Digital Communications Policy (NDCP): Aims to attract investments in the digital communications sector and establish universal broadband access.\n2. BharatNet Project: Seeks to connect all rural and gram panchayats in India with high-speed optical fiber broadband networks.\n3. TRAI (Telecom Regulatory Authority of India): Functions as the appellate tribunal for settling disputes between telecommunication service providers and consumers.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1136,7 +1136,7 @@
     }
   },
   {
-    "id": "q_04ac7e06",
+    "id": 4333,
     "stem": "Consider the following statements regarding the railway gauge system in India:\n1. Broad Gauge has a track width of 1,676 mm, which constitutes the overwhelming majority of route kilometers in Indian Railways.\n2. Metre Gauge tracks have a standard uniform width of exactly 1,000 mm.\n3. Narrow Gauge tracks are predominantly found in hilly terrains and certain special heritage routes.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1207,7 +1207,7 @@
     }
   },
   {
-    "id": "q_2e1bdb6f",
+    "id": 4334,
     "stem": "Consider the following pairs regarding major infrastructure projects in India:\n1. Dedicated Freight Corridor (DFC): Eastern DFC connects Ludhiana to Dankuni, while Western DFC connects Dadri to Jawaharlal Nehru Port Trust (JNPT).\n2. Bharatmala Pariyojana: Focuses primarily on the development of Golden Quadrilateral superhighways.\n3. Sagarmala Programme: Aims to promote port-led economic development through coastal community development and port connectivity enhancement.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1278,7 +1278,7 @@
     }
   },
   {
-    "id": "q_8940360e",
+    "id": 4335,
     "stem": "Consider the following statements:\nStatement-I: The Border Roads Organisation (BRO), established in 1960, is entrusted with accelerating economic development and strengthening defense preparedness through the rapid construction of strategic infrastructure in India's northern and north-eastern border areas.\nStatement-II: BRO functions directly under the Ministry of Ports, Shipping and Waterways to ensure seamless inter-modal transport coordination along international borders.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1349,7 +1349,7 @@
     }
   },
   {
-    "id": "q_89b821fb",
+    "id": 4336,
     "stem": "Regarding India's satellite communication and remote sensing infrastructure managed by ISRO, consider the following statements:\n1. The GSAT series of satellites are primarily designed for telecommunication, television broadcasting, and meteorological applications.\n2. The IRS (Indian Remote Sensing) series provides essential data for natural resource management, cartography, and disaster monitoring.\n3. Navigation with Indian Constellation (NavIC) utilizes geostationary and geosynchronous Earth orbit satellites to provide regional positioning services over the Indian mainland and surrounding areas.\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1420,7 +1420,7 @@
     }
   },
   {
-    "id": "q_efc5ce05",
+    "id": 4337,
     "stem": "Assertion-Investments in India's multimodal logistics parks and inland waterways are pivotal for reducing the logistics cost as a percentage of GDP.\nReason-High logistics costs in India are primarily driven by an over-reliance on coastal shipping and air cargo while road and rail networks remain severely underutilized.",
     "options": {
       "opt_a": "Both Assertion and Reason are correct and Reason is the correct explanation of Assertion",
@@ -1491,7 +1491,7 @@
     }
   },
   {
-    "id": "q_04b7bfa4",
+    "id": 4338,
     "stem": "Match the following petroleum product pipelines with their correct originating and terminating points:\n1. Naharkatiya - Noonmati - Barauni: First crude oil pipeline in India transporting oil from Assam oilfields to refineries.\n2. Salaya - Mathura Pipeline: Transports imported crude oil from the Gulf of Kutch to refineries in northwest India.\n3. Mundra - Panipat Pipeline: Designed to supply crude to IOCL's refinery in Haryana from the Gujarat coast.\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1562,7 +1562,7 @@
     }
   },
   {
-    "id": "q_08eabaab",
+    "id": 4339,
     "stem": "Match the following Major Ports of India with their primary hinterlands or distinguishing characteristics:\n1. Jawaharlal Nehru Port Trust (JNPT): Premier container handling port designed to decongest Mumbai Port.\n2. Paradip Port: Deep-water port on the east coast primarily exporting iron ore to Japan.\n3. Ennore Port: India's first corporate major port, now known as Kamarajar Port, located in Tamil Nadu.\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -1633,7 +1633,7 @@
     }
   },
   {
-    "id": "q_f8474955",
+    "id": 4340,
     "stem": "Statement-I: The Hazira-Bijaipur-Jagdishpur (HBJ) gas pipeline was the first cross-state cross-country gas pipeline built in India.\nStatement-II: The primary objective of the HBJ pipeline was to supply natural gas exclusively to fertilizer plants in Rajasthan and Punjab.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1704,7 +1704,7 @@
     }
   },
   {
-    "id": "q_b4e0db55",
+    "id": 4341,
     "stem": "Which of the following is NOT a correct feature regarding the Golden Quadrilateral highway project?",
     "options": {
       "opt_a": "It is a four-to-six lane highway network connecting India's four mega metropolitan cities.",
@@ -1775,7 +1775,7 @@
     }
   },
   {
-    "id": "q_1a66e002",
+    "id": 4342,
     "stem": "Statement-I: The port of Visakhapatnam is a land-locked harbor protected by a high headland known as the Dolphin's Nose.\nStatement-II: This geographical protection allows large vessels to berth safely even during severe cyclonic storms originating in the Bay of Bengal.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "id": "q_5de80d4f",
+    "id": 4343,
     "stem": "Consider the following statements regarding the Indian Railway Zones:\n1. The headquarters of the Northern Railway zone is located in New Delhi.\n2. Kolkata serves as the headquarters for both the Eastern Railway and South Eastern Railway zones, as well as the unique Metro Railway.\n3. Mumbai has the headquarters of two separate railway zones: Central Railway and Western Railway.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "id": "q_8e51213d",
+    "id": 4344,
     "stem": "Which of the following statements about the Konkan Railway is NOT correct?",
     "options": {
       "opt_a": "It is a 756 km long rail link connecting Roha in Maharashtra to Mangaluru in Karnataka.",
@@ -1988,7 +1988,7 @@
     }
   },
   {
-    "id": "q_cedaaa35",
+    "id": 4345,
     "stem": "Which of the following correctly describes the primary objective of the Dedicated Freight Corridors (DFCs) currently being developed by the Indian Railways?",
     "options": {
       "opt_a": "To provide high-speed passenger transit between major national capitals and pilgrimage centers",
@@ -2059,7 +2059,7 @@
     }
   },
   {
-    "id": "q_3d9f0971",
+    "id": 4346,
     "stem": "With reference to the Metro Rail systems in India, consider the following statements:\n1. The standardization and expansion of metro projects across various tier-1 and tier-2 cities are coordinated under the overarching guidelines of the Ministry of Housing and Urban Affairs.\n2. Metro Lite and Metro Neo are introduced as cost-effective mass rapid transit systems with lower capital investment requirements compared to conventional heavy metro systems.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -2130,7 +2130,7 @@
     }
   },
   {
-    "id": "q_2913d51e",
+    "id": 4347,
     "stem": "Consider the following statements about the digital revolution and e-commerce:\n1. B2C (Business-to-Consumer) e-commerce platforms have shifted market dynamics by reducing intermediary costs and enabling direct consumer access.\n2. Digital divide refers exclusively to the disparity in internet access between developed and developing nations, ignoring internal regional divides.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -2201,7 +2201,7 @@
     }
   },
   {
-    "id": "q_21461377",
+    "id": 4348,
     "stem": "Consider the following statements regarding transport and communication networks:\n1. The cost of transportation decreases at a constant rate with an increase in the distance traveled, regardless of the mode of transport.\n2. Mass media such as radio, television, and newspapers are termed 'one-way' communication as they reach a vast audience simultaneously.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -2272,7 +2272,7 @@
     }
   },
   {
-    "id": "q_0c191491",
+    "id": 4349,
     "stem": "Which of the following activities is best classified under the tertiary sector of economic activities?",
     "options": {
       "opt_a": "Extraction of crude petroleum from offshore oil fields",
@@ -2343,7 +2343,7 @@
     }
   },
   {
-    "id": "q_72bd8c6f",
+    "id": 4350,
     "stem": "Consider the following regional trade agreements:\n1. European Union (EU)\n2. Association of Southeast Asian Nations (ASEAN)\n3. United States-Mexico-Canada Agreement (USMCA)\n4. South Asian Association for Regional Cooperation (SAARC)\n\nWhich of the above trade groupings have progressed to the level of a 'Single Market' or have achieved deep economic integration beyond a mere Free Trade Area?",
     "options": {
       "opt_a": "1 only",
@@ -2414,7 +2414,7 @@
     }
   },
   {
-    "id": "q_5cfd15a0",
+    "id": 4351,
     "stem": "Consider the following pairs regarding major global ports and their functional or geographical characteristics:\n1. Rotterdam Port: Located at the mouth of the Rhine river, serving as the primary gateway for industrial interior Europe.\n2. Singapore Port: A premier entrepôt port strategically situated at the southern tip of the Malay Peninsula along the Strait of Malacca.\n3. Shanghai Port: Primarily an inland river port on the Yangtze River delta, functioning exclusively as a domestic coastal shipping hub without international deep-sea container terminals.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -2485,7 +2485,7 @@
     }
   },
   {
-    "id": "q_ae614334",
+    "id": 4352,
     "stem": "Consider the following statements regarding the World Trade Organization (WTO) and its predecessor GATT:\n1. Unlike GATT, the WTO is a de jure institution with a formalized international secretariat.\n2. The General Agreement on Tariffs and Trade applied only to trade in agricultural commodities, whereas the WTO covers manufactured goods and intellectual property as well.\n3. The Dispute Settlement Mechanism of the WTO is faster and less prone to blockages than the old GATT consensus system, though it has faced recent appellate body impasses.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -2556,7 +2556,7 @@
     }
   },
   {
-    "id": "q_7367304a",
+    "id": 4353,
     "stem": "Statement-I: A country experiencing a persistent deficit in its merchandise trade balance can still maintain a stable current account if it has a substantial surplus in invisible trade.\nStatement-II: Invisible trade comprises the export and import of services, investment income, and unilateral transfers, which are recorded outside the balance of trade account.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -2627,7 +2627,7 @@
     }
   },
   {
-    "id": "q_2fc1cffc",
+    "id": 4354,
     "stem": "Which of the following best describes the practice known as 'Dumping' in international trade economics?",
     "options": {
       "opt_a": "The disposal of hazardous industrial waste by developed nations into developing countries under the guise of recycling trade.",
@@ -2698,7 +2698,7 @@
     }
   },
   {
-    "id": "q_03b2a31e",
+    "id": 4355,
     "stem": "Which of the following is NOT a correct distinction between a Customs Union and a Free Trade Area (FTA)?",
     "options": {
       "opt_a": "A Free Trade Area eliminates tariffs among member nations, whereas a Customs Union maintains internal free trade and establishes a common external tariff against non-members.",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "id": "q_c6ddddfc",
+    "id": 4356,
     "stem": "Statement-I: Protectionist trade policies, such as high protective tariffs and import quotas, always lead to an immediate and sustained increase in national employment and long-term industrial competitiveness.\nStatement-II: Tariffs raise the domestic price of imported goods, shielding domestic industries from foreign competition in the short run, but often invite retaliatory tariffs from trading partners and reduce consumer welfare.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -2840,7 +2840,7 @@
     }
   },
   {
-    "id": "q_4909e8a4",
+    "id": 4357,
     "stem": "Which of the following best characterizes 'Bilateral Trade' agreements compared to 'Multilateral Trade' negotiations?",
     "options": {
       "opt_a": "Bilateral trade involves legally binding tariff concessions negotiated between two nations, whereas multilateral trade involves negotiations among three or more nations under standardized rules like WTO frameworks.",
@@ -2911,7 +2911,7 @@
     }
   },
   {
-    "id": "q_d3d41e2d",
+    "id": 4358,
     "stem": "Consider the following items associated with international transactions:\n1. Remittances sent by diaspora workers abroad\n2. Shipping and freight insurance services purchased from foreign carriers\n3. Import of crude petroleum and electronic machinery\n4. Dividends earned on foreign portfolio investments\n\nHow many of the above items are classified under 'Invisible Trade' in the Balance of Payments framework?",
     "options": {
       "opt_a": "Only one",
@@ -2982,7 +2982,7 @@
     }
   },
   {
-    "id": "q_c8377387",
+    "id": 4359,
     "stem": "Statement-I: The principle of 'National Treatment' under WTO agreements requires that imported goods and foreign service providers must be treated no less favorably than domestic goods and domestic providers once they have entered the local market.\nStatement-II: The Most-Favored-Nation (MFN) obligation ensures that any trade concession or tariff reduction granted by a WTO member to one trading partner must be extended unconditionally to all other WTO member nations.",
     "options": {
       "opt_a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
@@ -3053,7 +3053,7 @@
     }
   },
   {
-    "id": "q_103d09bc",
+    "id": 4360,
     "stem": "Assertion (A): The Brundtland Commission Report of 1987 played a pivotal role in defining and popularizing the concept of sustainable development.\nReason (R): It defined sustainable development as 'development that meets the needs of the present without compromising the ability of future generations to meet their own needs.'",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -3124,7 +3124,7 @@
     }
   },
   {
-    "id": "q_8f1012b1",
+    "id": 4361,
     "stem": "Assertion (A): Great circles are utilized as the shortest navigational routes between two points on the surface of the Earth.\nReason (R): The plane of a great circle always passes through the center of the Earth, dividing it into two equal hemispheres.",
     "options": {
       "opt_a": "Both A and R are true and R is the correct explanation of A",
@@ -3195,7 +3195,7 @@
     }
   },
   {
-    "id": "q_81d9efbf",
+    "id": 4362,
     "stem": "Why are great-circle routes preferred by international commercial aviation for long-haul transoceanic flights?",
     "options": {
       "opt_a": "They ensure the aircraft remains within the coverage zone of GPS satellites stationed directly above the equator.",
@@ -3266,7 +3266,7 @@
     }
   },
   {
-    "id": "q_631c0d02",
+    "id": 4363,
     "stem": "Which of the following policy measures is most effective in mitigating the intra-country digital divide in emerging economies?",
     "options": {
       "opt_a": "Restricting internet connectivity exclusively to metropolitan commercial zones",
@@ -3337,7 +3337,7 @@
     }
   },
   {
-    "id": "q_6b932851",
+    "id": 4364,
     "stem": "Consider the following pairs regarding retail trade types:\n1. Consumer cooperatives: Stores owned and operated by consumer members for mutual benefit\n2. Mail-order houses: Retail formats that conduct transactions through catalogs and postal delivery without physical store visits\n3. Chain stores: Independently owned retail outlets operating under different brand names in a single region\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -3408,7 +3408,7 @@
     }
   },
   {
-    "id": "q_7aa1fd30",
+    "id": 4365,
     "stem": "Consider the following statements regarding transport costs and economics:\n1. Distance decay relates to the decline in interaction between two locations as the physical distance between them increases.\n2. The cost of haulage in water transport is generally lower than rail and road transport for bulk commodities over long distances.\n3. Break-of-bulk points are locations where goods must be shifted from one transport mode to another.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3479,7 +3479,7 @@
     }
   },
   {
-    "id": "q_ee34afeb",
+    "id": 4366,
     "stem": "Consider the following statements regarding the tertiary sector:\n1. Retail trading is business activity concerned with the sale of goods directly to the consumers.\n2. Wholesale trading constitutes bulk business through numerous intermediaries and merchants.\n3. Periodic markets in rural areas are held on specified days and are weekly or fortnightly.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3550,7 +3550,7 @@
     }
   },
   {
-    "id": "q_5c42bf05",
+    "id": 4367,
     "stem": "Which of the following factors influence the demand for tourist destinations globally?\n1. Improved and rapid transport systems\n2. Increased paid holidays and rising living standards\n3. Climatic conditions and historical heritage\nSelect the correct answer using the code given below:",
     "options": {
       "opt_a": "1 and 2 only",
@@ -3621,7 +3621,7 @@
     }
   },
   {
-    "id": "q_ee566033",
+    "id": 4368,
     "stem": "Consider the following characteristics of transport networks:\n1. Nodes are the points of origin, destination, or interchange in a transport network.\n2. Links represent the route joining two nodes.\n3. The accessibility and connectivity of a region are inversely proportional to the density of its transport network links.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -3692,7 +3692,7 @@
     }
   },
   {
-    "id": "q_4cd17dcf",
+    "id": 4369,
     "stem": "Which of the following best describes 'Digital Divide' in the context of global communication and information technology?",
     "options": {
       "opt_a": "The disparity in access to information and communication technology between developed and developing regions, as well as within countries.",
@@ -3763,7 +3763,7 @@
     }
   },
   {
-    "id": "q_64f6b01b",
+    "id": 4370,
     "stem": "The St. Lawrence Seaway, an important North American waterway, connects which of the following water bodies to the Atlantic Ocean?",
     "options": {
       "opt_a": "The Great Lakes",
@@ -3834,7 +3834,7 @@
     }
   },
   {
-    "id": "q_5feec987",
+    "id": 4371,
     "stem": "Consider the following indices published by the United Nations Development Programme (UNDP):\n1. Gender Development Index (GDI)\n2. Multidimensional Poverty Index (MPI)\n3. Global Hunger Index (GHI)\n4. Gender Inequality Index (GII)\nHow many of the above indices are featured or published in the annual global Human Development Report by the UNDP?",
     "options": {
       "opt_a": "Only one",
@@ -3905,7 +3905,7 @@
     }
   },
   {
-    "id": "q_01c5a52e",
+    "id": 4372,
     "stem": "Consider the following pairs regarding major trans-continental highways:\n1. Pan-American Highway: Connects Anchorage in Alaska to Tierra del Fuego in South America.\n2. Stuart Highway: Connects Darwin in the north to Adelaide in the south of Australia.\n3. Trans-Canadian Highway: Connects St. John's on the Atlantic coast to Victoria on the Pacific coast.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -3976,7 +3976,7 @@
     }
   },
   {
-    "id": "q_107019a2",
+    "id": 4373,
     "stem": "Consider the following statements regarding the Suez Canal:\n1. It is a sea-level canal without locks that connects the Mediterranean Sea to the Red Sea.\n2. It cuts across the Isthmus of Suez, significantly reducing the maritime travel distance between Europe and South Asia.\n3. It is owned and operated exclusively by the Egyptian government's Suez Canal Authority.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4047,7 +4047,7 @@
     }
   },
   {
-    "id": "q_9fff1ec4",
+    "id": 4374,
     "stem": "Consider the following statements regarding the Trans-Siberian Railway:\n1. It is the longest railway system in the world, connecting Saint Petersburg in the west to Vladivostok in the east.\n2. It passes entirely through the European and Asian landmass of Russia, crossing the Ural Mountains.\n3. Chita and Irkutsk are important agricultural and industrial nodes located along this route.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4118,7 +4118,7 @@
     }
   },
   {
-    "id": "q_b267740f",
+    "id": 4375,
     "stem": "Consider the following statements regarding air transport networks:\n1. The North Atlantic route carries the heaviest inter-continental passenger and cargo traffic volume in the world.\n2. Global air routes tend to follow Great Circle paths because they represent the shortest distance between two points on the surface of a sphere.\n3. The 'Land Bridge' concept in modern logistics combines maritime shipping with high-speed transcontinental rail networks rather than air corridors.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4189,7 +4189,7 @@
     }
   },
   {
-    "id": "q_c10fae51",
+    "id": 4376,
     "stem": "Consider the following statements regarding modern transport infrastructure:\n1. The Cape of Good Hope route has experienced a resurgence in commercial shipping traffic due to geopolitical tensions and security risks in the Red Sea and Suez Canal corridor.\n2. Containerization has reduced turnaround times at ports and minimized cargo handling costs in multimodal transport chains.\n3. Air freight is primarily utilized for heavy, low-value bulk commodities such as coal, iron ore, and timber.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4260,7 +4260,7 @@
     }
   },
   {
-    "id": "q_42882296",
+    "id": 4377,
     "stem": "Consider the following statements regarding Mahbub ul Haq's vision for the Human Development Report:\n1. He wanted a single number to capture human development so that media and policymakers would pay as much attention to it as they do to Gross Domestic Product (GDP).\n2. He firmly believed that economic growth automatically translates into human well-being without targeted public policy interventions.\n3. He emphasized that people are the real wealth of a nation.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4331,7 +4331,7 @@
     }
   },
   {
-    "id": "q_1d3ab6de",
+    "id": 4378,
     "stem": "Assertion (A): Trans-continental railways played a vital role in the economic integration and political consolidation of vast interior regions in countries like Canada, Russia, and Australia during the 19th and 20th centuries.\nReason (R): They provided reliable, all-weather, high-capacity bulk transport that opened up remote agricultural lands, mineral deposits, and interior forests to coastal and global markets.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -4402,7 +4402,7 @@
     }
   },
   {
-    "id": "q_b0a58c01",
+    "id": 4379,
     "stem": "Consider the following pairs regarding canal engineering and lock systems:\n1. Suez Canal: Utilizes a system of multi-stage water locks to lift ships across elevated desert terrain.\n2. Panama Canal: Utilizes a lock system to raise ships to the level of Gatun Lake and lower them back to sea level.\n3. Kiel Canal: Connects the North Sea to the Baltic Sea without the use of locks for tidal control along its entire main channel.\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -4473,7 +4473,7 @@
     }
   },
   {
-    "id": "q_17fd8e03",
+    "id": 4380,
     "stem": "The historic construction of the first Transcontinental Railroad in the United States in 1869 involved the convergence of which two railway companies building from opposite directions?",
     "options": {
       "opt_a": "Union Pacific and Central Pacific",
@@ -4544,7 +4544,7 @@
     }
   },
   {
-    "id": "q_e3dad6fb",
+    "id": 4381,
     "stem": "Satellite communication has transformed global information networks. In this context, which type of satellite orbit is primarily used for continuous global positioning systems (GPS) and telecommunication relay with a fixed footprint?",
     "options": {
       "opt_a": "Geostationary Earth Orbit (GEO)",
@@ -4615,7 +4615,7 @@
     }
   },
   {
-    "id": "q_f76e6859",
+    "id": 4382,
     "stem": "Assertion (A): The practice of dumping can injure domestic industries in the importing country by undercutting local prices.\nReason (R): Dumping occurs when a manufacturer exports a product to another country at a price below the normal value in its domestic market, often supported by government subsidies.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -4686,7 +4686,7 @@
     }
   },
   {
-    "id": "q_770f6aa7",
+    "id": 4383,
     "stem": "Consider the following pairs linking ports in India with their primary hinterland cargo specializations:\n1. Paradip Port: Export of iron ore from Odisha and thermal coal for coastal shipping\n2. Mormugao Port: Iron ore exports originating from the mines of Goa and Karnataka\n3. Kamarajar Port (Ennore): India's first corporatized major port handling major container traffic and coal imports for southern thermal power plants\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -4757,7 +4757,7 @@
     }
   },
   {
-    "id": "q_b599e2a3",
+    "id": 4384,
     "stem": "Consider the following statements regarding the basis of international trade: \n1. Differences in national resource endowments often lead to comparative cost advantages among trading nations.\n2. Foreign investment and international capital mobility serve as substitutes rather than complements to international trade in goods.\n3. Differences in population size between trading partners are the primary determinant of the volume of manufactured goods traded.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4828,7 +4828,7 @@
     }
   },
   {
-    "id": "q_b43df4ee",
+    "id": 4385,
     "stem": "Consider the following infrastructure and multimodal transport corridors:\n1. PM Gati Shakti National Master Plan integrates the Dedicated Freight Corridors (DFCs) with the Sagarmala port-led development framework.\n2. The Eastern Dedicated Freight Corridor terminates at Dadri in Uttar Pradesh and handles primarily coal and mineral traffic from eastern coalfields.\n3. Inland Waterway 1 (National Waterway-1) on the Ganga-Bhagirathi-Hooghly river system extends from Haldia to Prayagraj and intersects the Eastern DFC at multiple logistical nodes.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -4899,7 +4899,7 @@
     }
   },
   {
-    "id": "q_b294da09",
+    "id": 4386,
     "stem": "Consider the following pairs regarding types of international trade:\n1. Bilateral Trade: Trade conducted between two countries with specific trade agreements.\n2. Multilateral Trade: Trade where a country conducts commerce with multiple trading partners without discriminatory tariffs or restrictions.\n3. Entrepot Trade: Goods are imported from one country and re-exported to another after substantial domestic value addition and manufacturing.\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -4970,7 +4970,7 @@
     }
   },
   {
-    "id": "q_d49823ca",
+    "id": 4387,
     "stem": "Consider the following statements regarding OPEC (Organization of the Petroleum Exporting Countries):\n1. OPEC coordinates and unifies the petroleum policies of its member countries to secure fair and stable prices for petroleum producers.\n2. All major global crude oil producing nations, including Russia and the United States, are permanent members of OPEC.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5041,7 +5041,7 @@
     }
   },
   {
-    "id": "q_bcc52aa1",
+    "id": 4388,
     "stem": "With reference to Balance of Trade and Balance of Payments, consider the following statements:\n1. A favorable balance of trade always guarantees a current account surplus.\n2. Invisibles, such as shipping, banking, and tourism, are excluded from the calculation of the balance of trade.\n3. Unilateral transfers like remittances from overseas citizens form a part of the visible trade account.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5112,7 +5112,7 @@
     }
   },
   {
-    "id": "q_d39c42db",
+    "id": 4389,
     "stem": "Consider the following functions and principles associated with the World Trade Organization (WTO):\n1. The principle of National Treatment requires member countries to treat foreign goods, services, and nationals no less favorably than their own domestic counterparts.\n2. The WTO possesses a binding appellate mechanism that operates independently of member state political interference to resolve trade disputes.\n3. The Dispute Settlement Body of the WTO has the authority to directly levy trade sanctions against non-compliant nations.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -5183,7 +5183,7 @@
     }
   },
   {
-    "id": "q_b31274dd",
+    "id": 4390,
     "stem": "Consider the following regional trade blocs and their defining integration characteristics:\n1. ASEAN: Operates as an economic union with a single currency and a centralized macroeconomic policy authority.\n2. EU: Represents a single market with freedom of movement for goods, services, capital, and labor across member states.\n3. NAFTA (now USMCA): Functions as a customs union with a common external tariff applied to non-member nations.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -5254,7 +5254,7 @@
     }
   },
   {
-    "id": "q_d19c8086",
+    "id": 4391,
     "stem": "With respect to SAFTA (South Asian Free Trade Area), consider the following statements:\n1. Its implementation aimed to reduce tariffs for traded goods among SAARC member countries to zero within agreed timelines.\n2. Sensitive lists of products are maintained by member states, exempting certain goods from immediate tariff reductions.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5325,7 +5325,7 @@
     }
   },
   {
-    "id": "q_fa35dd2a",
+    "id": 4392,
     "stem": "Consider the following statements regarding the structural evolution of global trade:\n1. The share of trade in services has grown faster than trade in merchandise goods in recent decades, driven by digital connectivity and offshoring.\n2. Intra-industry trade, where countries exchange similar types of manufactured goods, forms a major component of trade among developed economies.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5396,7 +5396,7 @@
     }
   },
   {
-    "id": "q_7a59224b",
+    "id": 4393,
     "stem": "Consider the following statements regarding the genesis of the concept of sustainable development:\n1. The term 'Sustainable Development' gained widespread currency after the publication of the Brundtland Report titled 'Our Common Future'.\n2. The Club of Rome advocated a radical growth-oriented economic model in its 1972 report 'The Limits to Growth'.\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5467,7 +5467,7 @@
     }
   },
   {
-    "id": "q_6bc9509f",
+    "id": 4394,
     "stem": "Consider the following pairs regarding the North-South and East-West corridors:\n1. Northern Terminal: Srinagar\n2. Southern Terminal: Kanyakumari\n3. Eastern Terminal: Silchar\n4. Western Terminal: Porbandar\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -5538,7 +5538,7 @@
     }
   },
   {
-    "id": "q_6888ae50",
+    "id": 4395,
     "stem": "Consider the following Railway Zones and their respective headquarters:\n1. South Western Railway: Hubli\n2. North Eastern Railway: Gorakhpur\n3. East Central Railway: Hajipur\n4. West Central Railway: Jabalpur\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only two",
@@ -5609,7 +5609,7 @@
     }
   },
   {
-    "id": "q_ac257397",
+    "id": 4396,
     "stem": "Which of the following National Waterways traverses through the states of Andhra Pradesh, Tamil Nadu, and the Union Territory of Puducherry, integrating the Krishna and Godavari rivers?",
     "options": {
       "opt_a": "National Waterway-3",
@@ -5680,7 +5680,7 @@
     }
   },
   {
-    "id": "q_650e6ac9",
+    "id": 4397,
     "stem": "Which of the following ports handles the highest volume of container traffic in India and was built to reduce the vessel congestion of Mumbai Port?",
     "options": {
       "opt_a": "Mundra Port",
@@ -5751,7 +5751,7 @@
     }
   },
   {
-    "id": "q_4391dcda",
+    "id": 4398,
     "stem": "Consider the following ports:\n1. Haldia\n2. Kamarajar (Ennore)\n3. Tuticorin (V.O. Chidambaranar)\n4. Kandla (Deendayal)\nWhich of the above are classified as major ports under the control of the Central Government of India?",
     "options": {
       "opt_a": "1 and 4 only",
@@ -5822,7 +5822,7 @@
     }
   },
   {
-    "id": "q_c97260c5",
+    "id": 4399,
     "stem": "Consider the following railway zones and their headquarters:\n1. South Central Railway: Secunderabad\n2. North Western Railway: Jaipur\n3. East Coast Railway: Bhubaneswar\n\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -5893,7 +5893,7 @@
     }
   },
   {
-    "id": "q_c32e73d9",
+    "id": 4400,
     "stem": "Consider the following statements regarding the financial and operational structure of Dedicated Freight Corridors (DFCs):\n1. The DFC project is undertaken by Dedicated Freight Corridor Corporation of India Limited (DFCCIL), a special purpose vehicle under the Ministry of Railways.\n2. The Western DFC runs parallel to the existing Delhi-Mumbai mainline, serving major industrial clusters along the Delhi-Mumbai Industrial Corridor (DMIC).\n\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -5964,7 +5964,7 @@
     }
   },
   {
-    "id": "q_275f467f",
+    "id": 4401,
     "stem": "Consider the following statements regarding multi-modal logistics parks (MMLPs) in India:\n1. MMLPs are designed to centralize freight handling, reduce logistics costs, and shift cargo movement from road transport to rail and waterways.\n2. The development of MMLPs is exclusively funded by private foreign direct investment without public sector participation.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -6035,7 +6035,7 @@
     }
   },
   {
-    "id": "q_9be96d79",
+    "id": 4402,
     "stem": "Consider the following statements regarding the Golden Quadrilateral project:\n1. It connects the four major metropolises of Delhi, Mumbai, Chennai, and Kolkata.\n2. The total length of the highway network is approximately 10,000 kilometers.\n3. It is implemented by the National Highways Authority of India (NHAI).\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6106,7 +6106,7 @@
     }
   },
   {
-    "id": "q_21ea05bf",
+    "id": 4403,
     "stem": "Consider the following statements regarding the National Waterways (NW) of India:\n1. National Waterway-1 (NW-1) extends along the Ganga-Bhagirathi-Hooghly river system between Prayagraj and Haldia.\n2. National Waterway-2 (NW-2) is operational on the Brahmaputra river between Sadiya and Dhubri.\n3. National Waterway-3 (NW-3) is located in the state of Odisha, connecting Dhamra to Paradip.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6177,7 +6177,7 @@
     }
   },
   {
-    "id": "q_c7a217af",
+    "id": 4404,
     "stem": "Consider the following ports and their prominent characteristics:\n1. Deendayal Port: Designed as a tidal port to ease the congestion of Kolkata Port.\n2. Jawaharlal Nehru Port: Conceived as a hub port to decongest Mumbai Port.\n3. Ennore Port: India's first corporate port, registered as a company.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -6248,7 +6248,7 @@
     }
   },
   {
-    "id": "q_f4bf84e9",
+    "id": 4405,
     "stem": "Consider the following statements regarding the major ports on the Eastern Coast of India:\n1. Paradip Port is situated at the confluence of the Mahanadi river and the Bay of Bengal, primarily exporting iron ore to Japan.\n2. Visakhapatnam Port is a landlocked harbor protected by a promontory called Dolphin's Nose.\n3. Kolkata Port is a riverine port that requires continuous dredging of the Hooghly channel.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6319,7 +6319,7 @@
     }
   },
   {
-    "id": "q_e47a7de0",
+    "id": 4406,
     "stem": "Consider the following statements regarding National Highways and State Highways in India:\n1. National Highways constitute the apex arterial road network and are constructed and maintained exclusively by the Central Government.\n2. State Highways link the state capitals with district headquarters and important cities within the state.\n3. District Roads provide links between district headquarters and the major production-consumption centers within the district.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6390,7 +6390,7 @@
     }
   },
   {
-    "id": "q_1a816855",
+    "id": 4407,
     "stem": "Consider the following pairs of Port and their Hinterland resources:\n1. Marmagao Port: Iron ore from the mining regions of Goa and Karnataka\n2. New Mangalore Port: Kudremukh iron ore and coffee exports\n3. Cochin Port: Tea, coffee, and spices from the Western Ghats hinterland\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -6461,7 +6461,7 @@
     }
   },
   {
-    "id": "q_fd7cac59",
+    "id": 4408,
     "stem": "Consider the following waterways and their designated numbers:\n1. National Waterway-5: Brahmani-Mahanadi river delta systems along with East Coast Canal\n2. National Waterway-6: Barak River from Lakhipur to Bhanga\n3. National Waterway-100: Tapi River\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -6532,7 +6532,7 @@
     }
   },
   {
-    "id": "q_20b374c0",
+    "id": 4409,
     "stem": "Consider the following statements regarding the Dedicated Freight Corridor (DFC) project:\n1. The Western DFC connects Dadri in Uttar Pradesh to Jawaharlal Nehru Port Trust (JNPT) near Mumbai.\n2. The Eastern DFC extends from Ludhiana in Punjab to Dankuni in West Bengal.\n3. Both corridors are primarily designed to handle passenger traffic to relieve congestion on existing rail routes.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6603,7 +6603,7 @@
     }
   },
   {
-    "id": "q_c5867fe0",
+    "id": 4410,
     "stem": "Regarding road density in India, consider the following statements:\n1. Road density is defined as the length of roads per 100 square kilometers of area.\n2. Kerala has one of the highest road densities in India.\n3. States with rugged topography and large forested tracts, such as Arunachal Pradesh, generally exhibit very high road densities.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6674,7 +6674,7 @@
     }
   },
   {
-    "id": "q_94604ca4",
+    "id": 4411,
     "stem": "Consider the following statements regarding the Eastern Dedicated Freight Corridor (EDFC):\n1. It passes through the states of Punjab, Haryana, Uttar Pradesh, Bihar, Jharkhand, and West Bengal.\n2. It is predominantly funded by the Japan International Cooperation Agency (JICA).\n3. It will connect major coalfields in eastern India to thermal power plants in northern India.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -6745,7 +6745,7 @@
     }
   },
   {
-    "id": "q_7a5bace3",
+    "id": 4412,
     "stem": "Why does the Peninsular plateau region of India generally have a lower density of railway lines compared to the Northern Plains?",
     "options": {
       "opt_a": "Low mineral resource availability in the Peninsular region",
@@ -6816,7 +6816,7 @@
     }
   },
   {
-    "id": "q_60b97ea8",
+    "id": 4413,
     "stem": "Which of the following statements best describes the strategic and economic significance of the North-South and East-West corridors?",
     "options": {
       "opt_a": "They bypass all major urban agglomerations to maximize freight transit speed exclusively for international trade.",
@@ -6887,7 +6887,7 @@
     }
   },
   {
-    "id": "q_6c238fc2",
+    "id": 4414,
     "stem": "Consider the following statements regarding the Inland Waterways Authority of India (IWAI):\n1. It is a statutory body constituted under an Act of Parliament for the development and regulation of inland waterways.\n2. IWAI primarily focuses on infrastructure on declared National Waterways, while non-nationalized waterways remain within state jurisdictions.\nWhich of the statements given above is/are correct?",
     "options": {
       "opt_a": "1 only",
@@ -6958,7 +6958,7 @@
     }
   },
   {
-    "id": "q_38fcef2b",
+    "id": 4415,
     "stem": "Why are the western coast ports of India generally characterized by natural harbors while many eastern coast ports are artificial or lagoon-based?",
     "options": {
       "opt_a": "The western coast has experienced continuous submergence, creating deep indented shorelines suitable for natural ports.",
@@ -7029,7 +7029,7 @@
     }
   },
   {
-    "id": "q_7f0b5bff",
+    "id": 4416,
     "stem": "Assertion (A): Unregulated small-scale rat-hole mining poses severe occupational safety challenges, particularly in regions like Jowai in Meghalaya.\nReason (R): Rat-hole mines lack standard engineering supports, ventilation shafts, and safety protocols, making them highly susceptible to sudden flooding and structural collapse.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -7100,7 +7100,7 @@
     }
   },
   {
-    "id": "q_203efd56",
+    "id": 4417,
     "stem": "Consider the following statements regarding India's merchandise trade composition in recent years:\n1. Petroleum products constitute the single largest item among India's total merchandise exports.\n2. Pearl, precious and semi-precious stones form the largest component of India's imports by value.\n3. Engineering goods have consistently remained among the top three exported commodity groups from India.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7171,7 +7171,7 @@
     }
   },
   {
-    "id": "q_9ab7f0a9",
+    "id": 4418,
     "stem": "Consider the following statements regarding India's bilateral trade with its major trading partners:\n1. The United States has consistently been India's largest trading partner in recent fiscal years.\n2. India maintains a continuous merchandise trade surplus with the People's Republic of China.\n3. The United Arab Emirates (UAE) is among India's top three export destinations.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7242,7 +7242,7 @@
     }
   },
   {
-    "id": "q_7375b1e5",
+    "id": 4419,
     "stem": "Consider the following statements regarding the changing nature of India's export basket over the decades post-independence:\n1. Primary agricultural and raw material products have increased their share as a percentage of total exports.\n2. Manufactured goods and high-value engineering products have witnessed a structural increase in export share.\n3. The share of petroleum products in total exports has risen significantly following the expansion of domestic refining capacities.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7313,7 +7313,7 @@
     }
   },
   {
-    "id": "q_61abdaf9",
+    "id": 4420,
     "stem": "Consider the following factors influencing the direction of India's foreign trade:\n1. Geographical proximity and maritime trade routes in the Indo-Pacific region\n2. Bilateral Free Trade Agreements and Comprehensive Economic Partnership Agreements\n3. Historical trade linkages and diaspora concentration in Western Asia and North America\nHow many of the above are valid determinants of India's trade direction?",
     "options": {
       "opt_a": "Only one",
@@ -7384,7 +7384,7 @@
     }
   },
   {
-    "id": "q_cb2be953",
+    "id": 4421,
     "stem": "With reference to India's trade in services, consider the following statements:\n1. India runs a consistent trade surplus in services, unlike merchandise trade.\n2. Software services and professional business services constitute the largest share of India's service exports.\n3. Travel and transportation services form the largest share of India's service imports.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7455,7 +7455,7 @@
     }
   },
   {
-    "id": "q_1f1ca7fb",
+    "id": 4422,
     "stem": "Consider the following pairs of shipping routes and their primary geographical economic drivers:\n1. Trans-Pacific Route: Links East Asian manufacturing hubs directly to the West Coast of North America.\n2. Mediterranean-Asiatic Route: Integrates Southern European ports with South and East Asia via the Suez Canal.\n3. Australian-European Route: Primarily transports heavy machinery from Australia to industrial nodes in Western Europe.\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -7526,7 +7526,7 @@
     }
   },
   {
-    "id": "q_04f51bda",
+    "id": 4423,
     "stem": "Consider the following statements regarding India's trade with the East Asian economies (ASEAN, Japan, South Korea):\n1. India maintains a favourable trade balance with the ASEAN bloc as a whole.\n2. Import of electronic goods, heavy machinery, and organic chemicals form the bulk of India's imports from East Asia.\n3. Palm oil imports from Indonesia and Malaysia constitute a major component of agricultural imports into India.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7597,7 +7597,7 @@
     }
   },
   {
-    "id": "q_b6e5c204",
+    "id": 4424,
     "stem": "With reference to India's import basket, consider the following items:\n1. Crude petroleum and products\n2. Gold and silver\n3. Electronic components and computer hardware\n4. Coal, coke and briquettes\nArrange the above import items in descending order of their import value share into India based on recent annual data.",
     "options": {
       "opt_a": "1 - 2 - 3 - 4",
@@ -7668,7 +7668,7 @@
     }
   },
   {
-    "id": "q_9cc0c6b4",
+    "id": 4425,
     "stem": "Consider the following pairs regarding India's major export destinations and the primary drivers of those exports:\n1. United States: IT services, Pharmaceuticals, and Engineering goods\n2. United Arab Emirates: Gems, jewelry, and Petroleum products\n3. European Union: Ready-made garments, Marine products, and Machinery\nHow many of the above pairs are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -7739,7 +7739,7 @@
     }
   },
   {
-    "id": "q_c144fdf4",
+    "id": 4426,
     "stem": "Why does India consistently run a merchandise trade deficit despite experiencing robust growth in total trade turnover?",
     "options": {
       "opt_a": "High global demand restrictions on Indian agricultural commodities",
@@ -7810,7 +7810,7 @@
     }
   },
   {
-    "id": "q_8b5445b1",
+    "id": 4427,
     "stem": "Consider the following statements regarding Bilateral and Multilateral trade:\n1. Bilateral trade agreements involve exchange of goods between two countries without any Most Favoured Nation (MFN) obligations.\n2. Multilateral trade is governed by institutional frameworks such as the World Trade Organization (WTO) to reduce tariff barriers globally.\n3. Regional Trade Agreements (RTAs) are a subset of multilateral trade arrangements that bypass WTO oversight.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -7881,7 +7881,7 @@
     }
   },
   {
-    "id": "q_7a01e98a",
+    "id": 4428,
     "stem": "Which of the following best describes the strategic significance of the gems and jewellery sector in India's international trade?",
     "options": {
       "opt_a": "It operates entirely on domestic gold reserves, ensuring insulation from global market shocks.",
@@ -7952,7 +7952,7 @@
     }
   },
   {
-    "id": "q_b4307399",
+    "id": 4429,
     "stem": "Which of the following infrastructural and policy measures directly impacts the composition and competitiveness of India's merchandise exports?",
     "options": {
       "opt_a": "Implementation of the Production Linked Incentive (PLI) scheme for manufacturing sectors",
@@ -8023,7 +8023,7 @@
     }
   },
   {
-    "id": "q_432185ba",
+    "id": 4430,
     "stem": "What is the primary implication of a persistent Current Account Deficit (CAD) driven by a large merchandise trade deficit for the Indian macroeconomic environment?",
     "options": {
       "opt_a": "Automatic appreciation of the Indian Rupee against major global currencies",
@@ -8094,7 +8094,7 @@
     }
   },
   {
-    "id": "q_607fa60c",
+    "id": 4431,
     "stem": "Why does the North Atlantic Sea Route remain the world's most heavily utilized and economically significant trade route?",
     "options": {
       "opt_a": "It is completely free of icebergs and severe cyclonic storms throughout the year.",
@@ -8165,7 +8165,7 @@
     }
   },
   {
-    "id": "q_3369f435",
+    "id": 4432,
     "stem": "Consider the following statements regarding the Brundtland Report ('Our Common Future') and the evolution of the concept of Sustainable Development:\n1. It formally defined sustainable development as meeting the needs of the present without compromising the ability of future generations to meet their own needs.\n2. It emphasized that economic growth and environmental protection are inherently incompatible and must be pursued sequentially.\n3. The report highlighted the concept of 'needs', particularly the essential needs of the world's poor, to which overriding priority should be given.\n\nHow many of the statements given above are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8236,7 +8236,7 @@
     }
   },
   {
-    "id": "q_6bd2378c",
+    "id": 4433,
     "stem": "Assertion (A): Sustainable development requires the maintenance of constant or increasing aggregate natural capital over time.\nReason (R): Natural capital encompasses non-renewable resources like fossil fuels and renewable resources like forests and fisheries, which provide essential ecological services that cannot be fully substituted by manufactured capital.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -8307,7 +8307,7 @@
     }
   },
   {
-    "id": "q_94ceb88a",
+    "id": 4434,
     "stem": "Which one of the following National Waterways in India utilizes the Champakkara and Udyogmandal canals along with a system of natural lakes?",
     "options": {
       "opt_a": "National Waterway 1",
@@ -8378,7 +8378,7 @@
     }
   },
   {
-    "id": "q_f05df1f5",
+    "id": 4435,
     "stem": "Consider the following statements regarding Indian Railway gauges:\n1. The Broad Gauge has a track width of 1,676 mm.\n2. The Metre Gauge has a track width of 1,000 mm.\n3. Under Project Unigauge, Indian Railways initiated the conversion of Metre Gauge and Narrow Gauge lines uniformly into Broad Gauge.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8449,7 +8449,7 @@
     }
   },
   {
-    "id": "q_22c03819",
+    "id": 4436,
     "stem": "Consider the following statements regarding the Golden Quadrilateral project:\n1. It forms a multi-lane highway network connecting India's four primary economic hubs.\n2. It is implemented and managed under the execution of the National Highways Authority of India (NHAI).\n3. It runs exclusively along coastal alignment corridors to connect port cities.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8520,7 +8520,7 @@
     }
   },
   {
-    "id": "q_3d6dcae5",
+    "id": 4437,
     "stem": "Consider the following statements regarding the National Highways development in India:\n1. The Golden Quadrilateral connects the four major metropolitan cities of Delhi, Mumbai, Chennai, and Kolkata.\n2. The North-South and East-West corridors intersect at Jhansi.\n3. The National Highways Authority of India (NHAI) was operationalized through an act of Parliament in 1995.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8591,7 +8591,7 @@
     }
   },
   {
-    "id": "q_3b2edb5f",
+    "id": 4438,
     "stem": "Consider the following statements regarding major seaports on the western coast of India:\n1. Deendayal Port (formerly Kandla) is a tidal port developed to ease the congestion of Mumbai port.\n2. Jawaharlal Nehru Port Trust (JNPT) is India's largest container port.\n3. Marmagao Port is located at the entrance of the Zuari estuary in Goa.\n\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -8662,7 +8662,7 @@
     }
   },
   {
-    "id": "q_b3840ec5",
+    "id": 4439,
     "stem": "Consider the following pairs of Indian seaports and their associated geographic or economic features:\n1. Ennore Port: India's first corporate major port\n2. Paradip Port: Specialized in iron ore export to Japan\n3. New Mangalore Port: Major exporter of Kudremukh iron ore\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -8733,7 +8733,7 @@
     }
   },
   {
-    "id": "q_61fbe4fb",
+    "id": 4440,
     "stem": "Consider the following pairs regarding National Waterways in India:\n1. National Waterway 1: Ganga-Bhagirathi-Hooghly river system (Haldia-Allahabad)\n2. National Waterway 2: Brahmaputra river (Dhubri-Sadiya)\n3. National Waterway 3: West Coast Canal (Kottapuram-Kollam)\n\nHow many of the pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -8804,7 +8804,7 @@
     }
   },
   {
-    "id": "q_cb3a8c5c",
+    "id": 4441,
     "stem": "Assertion (A): The Konkan Railway Corporation faced immense engineering challenges during its construction, including crossing numerous deep river gorges and tunneling through unstable terrain.\nReason (R): The Konkan Railway alignment passes through the Western Ghats terrain connecting Roha in Maharashtra to Mangaluru in Karnataka.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -8875,7 +8875,7 @@
     }
   },
   {
-    "id": "q_788899b0",
+    "id": 4442,
     "stem": "Assertion (A): Visakhapatnam is considered one of the best landlocked natural harbors on the eastern coast of India.\nReason (R): Dolphin's Nose hill acts as a protective promontory that shields the harbor basin from powerful sea waves and cyclonic storms.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -8946,7 +8946,7 @@
     }
   },
   {
-    "id": "q_ae3185cd",
+    "id": 4443,
     "stem": "Match the following Major Seaports with their respective states:\n1. Tuticorin: Tamil Nadu\n2. Haldia: West Bengal\n3. Marmagao: Karnataka\n\nHow many pairs given above are correctly matched?",
     "options": {
       "opt_a": "Only one",
@@ -9017,7 +9017,7 @@
     }
   },
   {
-    "id": "q_6f6c103d",
+    "id": 4444,
     "stem": "Which one of the following pairs of National Waterways and their operational river/canal systems is incorrectly matched?",
     "options": {
       "opt_a": "National Waterway 1: Ganga-Bhagirathi-Hooghly river system",
@@ -9088,7 +9088,7 @@
     }
   },
   {
-    "id": "q_2ed69222",
+    "id": 4445,
     "stem": "Assertion (A): Chennai Port is an artificial harbor created on an open coast with an expansive artificial basin.\nReason (R): The absence of a natural deep-water indented coastline along the southeastern coast of India necessitated the construction of an artificial port at Chennai.",
     "options": {
       "opt_a": "Both A and R are true, and R is the correct explanation of A",
@@ -9159,7 +9159,7 @@
     }
   },
   {
-    "id": "q_c7466f63",
+    "id": 4446,
     "stem": "Which of the following geographical corridors constitute the North-South and East-West corridors of the National Highways Development Project (NHDP)?",
     "options": {
       "opt_a": "Srinagar to Kanyakumari and Porbandar to Silchar",
@@ -9230,7 +9230,7 @@
     }
   },
   {
-    "id": "q_55212f53",
+    "id": 4447,
     "stem": "Consider the following pairs regarding India's major trading partners and the primary commodities of exchange:\n1. USA: Gems, jewellery, and pharmaceutical products\n2. Saudi Arabia: Crude petroleum and petroleum products\n3. Australia: Coal, gold, and agricultural commodities\nHow many of the given pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -9301,7 +9301,7 @@
     }
   },
   {
-    "id": "q_c5907881",
+    "id": 4448,
     "stem": "Consider the following statements regarding the direction of India's foreign trade over recent decades:\n1. Asia and ASEAN have collectively surpassed Western Europe and North America combined as India's largest regional trading block.\n2. India's trade deficit is primarily concentrated with countries supplying crude oil and electronic hardware.\n3. The share of African nations in India's total foreign trade has steadily declined since 2010.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9372,7 +9372,7 @@
     }
   },
   {
-    "id": "q_5cfbc554",
+    "id": 4449,
     "stem": "Consider the following pairs of major Indian ports and their primary hinterland characteristics:\n1. Paradip Port: Iron ore and coal exports originating from the mineral-rich belts of Odisha and Jharkhand\n2. Jawaharlal Nehru Port (JNPA): Containerized cargo serving the industrial hinterland of Maharashtra and Gujarat\n3. Mormugao Port: Export hub primarily driven by petroleum refining and heavy engineering goods\nHow many of the given pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -9443,7 +9443,7 @@
     }
   },
   {
-    "id": "q_724e2756",
+    "id": 4450,
     "stem": "Consider the following statements regarding the changing composition of India's exports in recent decades:\n1. The share of manufactured goods has consistently constituted the largest single category in India's total exports.\n2. Over the last three decades, the share of primary products in India's export basket has witnessed a significant upward trend.\n3. Petroleum products have emerged as a major export item due to the expansion of domestic refining capacity.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9514,7 +9514,7 @@
     }
   },
   {
-    "id": "q_ad154155",
+    "id": 4451,
     "stem": "Assertion (A): Over 90 percent of India's international trade volume is handled by maritime transport.\nReason (R): India possesses a long coastline dotted with major and minor ports that are seamlessly integrated with global maritime trade routes.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -9585,7 +9585,7 @@
     }
   },
   {
-    "id": "q_2af004c7",
+    "id": 4452,
     "stem": "Consider the following statements regarding the evolution of India's export destinations:\n1. The United Arab Emirates (UAE) is among India's top export destinations, aided by bilateral trade agreements like the CEPA.\n2. Trade with Latin American countries has remained negligible with no notable change in commodity exchange.\n3. China is India's largest export destination for finished electronic goods and software services.\nHow many of the above statements are correct?",
     "options": {
       "opt_a": "Only one",
@@ -9656,7 +9656,7 @@
     }
   },
   {
-    "id": "q_a7b92c34",
+    "id": 4453,
     "stem": "Assertion (A): India's import basket is heavily dominated by bulk imports, particularly crude petroleum, coal, and fertilizers.\nReason (R): Rapid industrialization and domestic energy resource constraints make India structurally dependent on seaborne imports for primary energy and raw materials.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -9727,7 +9727,7 @@
     }
   },
   {
-    "id": "q_7afc77ba",
+    "id": 4454,
     "stem": "With reference to the hinterland concept in the context of major Indian seaports, which of the following statements is most accurate?",
     "options": {
       "opt_a": "The hinterland of a port is restricted exclusively to the administrative boundaries of the coastal state where the port is situated.",
@@ -9798,7 +9798,7 @@
     }
   },
   {
-    "id": "q_337fad2e",
+    "id": 4455,
     "stem": "Which of the following best describes the structural shift in India's import profile during the post-reform period (post-1991)?",
     "options": {
       "opt_a": "A sharp decline in the import of capital goods accompanied by a rise in finished consumer goods",
@@ -9869,7 +9869,7 @@
     }
   },
   {
-    "id": "q_c4964d6b",
+    "id": 4456,
     "stem": "Consider the following pairs of Indian ports and their geographical/functional significance:\n1. Visakhapatnam: Natural harbour sheltered by Dolphin's Nose hill, handling iron ore and petroleum\n2. Haldia Port: Riverine port located on the Hooghly River, serving as a subsidiary to ease congestion at Kolkata Port\n3. Kandla (Deendayal Port): Tidal port located in the Gulf of Kutch, functioning as a major hub for petroleum and fertilizer imports\nHow many of the given pairs are correctly matched?",
     "options": {
       "opt_a": "Only one pair",
@@ -9940,7 +9940,7 @@
     }
   },
   {
-    "id": "q_df2b248a",
+    "id": 4457,
     "stem": "Assertion (A): The hinterland of Kolkata Port extends deep into the landlocked Gangetic-Brahmaputra basin and landlocked neighbouring countries like Nepal and Bhutan.\nReason (R): Riverine navigation and well-established rail-road links connect Kolkata Port to vast agricultural and industrial regions of eastern and north-eastern India.",
     "options": {
       "opt_a": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
@@ -10011,7 +10011,7 @@
     }
   },
   {
-    "id": "q_75fcd742",
+    "id": 4458,
     "stem": "Which of the following factors primarily accounts for the diversification of India's export basket toward engineering goods and services in recent decades?",
     "options": {
       "opt_a": "A complete ban on the export of primary agricultural commodities",
@@ -10082,7 +10082,7 @@
     }
   },
   {
-    "id": "ssc_pyq_0307",
+    "id": 4459,
     "stem": "Which of the following statements correctly defines the green revolution?",
     "options": {
       "opt_a": "It is a new strategy in agriculture to produce food grains, especially wheat and rice.",
@@ -10150,7 +10150,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0497",
+    "id": 4460,
     "stem": "Select the INCORRECT statement from the following.",
     "options": {
       "opt_a": "The development of the cotton textile industry in Britain led to the decline of Indian textile producers.",
@@ -10218,7 +10218,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0599",
+    "id": 4461,
     "stem": "The archaeological site of Atranjikhera is located in _______.",
     "options": {
       "opt_a": "Himachal Pradesh",
@@ -10286,7 +10286,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0607",
+    "id": 4462,
     "stem": "What is the primary mission behind India's involvement in the International North-South Transport Corridor (INSTC)?",
     "options": {
       "opt_a": "To promote clean maritime security",
@@ -10354,7 +10354,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0621",
+    "id": 4463,
     "stem": "When was air transport nationalised in India?",
     "options": {
       "opt_a": "1950",
@@ -10422,7 +10422,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0622",
+    "id": 4464,
     "stem": "Match the railway zones in column A with their headquarters in column B. Column A (Railway zones) Column B (Headquarters) 1. Central a. New Delhi 2. Northern b. Mumbai CST 3. Eastern c. Chennai 4. Southern d. Kolkata",
     "options": {
       "opt_a": "1-b, 2-d, 3-a, 4-c",
@@ -10490,7 +10490,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0625",
+    "id": 4465,
     "stem": "Pipelines as a means of transport are looked after by the _________ of the Government of India.",
     "options": {
       "opt_a": "Ministry of Petroleum and Natural Gas",
@@ -10558,7 +10558,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0628",
+    "id": 4466,
     "stem": "The historical Sher Shah Suri Marg is called the National Highway no. _________ between Delhi and Amritsar.",
     "options": {
       "opt_a": "9",
@@ -10626,7 +10626,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0629",
+    "id": 4467,
     "stem": "In which of the following years was the air transport in India launched?",
     "options": {
       "opt_a": "1948",
@@ -10694,7 +10694,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0648",
+    "id": 4468,
     "stem": "Which of the following ancient ports was situated on the Malabar Coast?",
     "options": {
       "opt_a": "Barygaza",
@@ -10762,7 +10762,7 @@
     ]
   },
   {
-    "id": "ssc_pyq_0862",
+    "id": 4469,
     "stem": "What evidence supports the Big Bang theory of universe origin?",
     "options": {
       "opt_a": "Sunspot cycles",
